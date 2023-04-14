@@ -7,6 +7,10 @@ app = Flask(__name__)
 def serve_pages(path):
 	return send_from_directory('pages', path)
 
+@app.route('/tts/<path:path>')
+def serve_tts(path):
+	return send_from_directory('../tts', path)
+
 @app.route('/api/login.api', methods=['POST', 'GET'])
 def login():
 	# if request.method == 'GET':
@@ -36,6 +40,18 @@ def logout():
 	resp.set_cookie('login_status', 'loged_out')
 	return resp
 
+@app.route('/tts/speak.api', methods=['POST'])
+def speak():
+	lang = request.json['lang']
+	voicename = request.json['voicename']
+	textdata = request.json['textdata']
+
+
+	        # jsondata = {lang: field, voicename: voice, textdata: text};
+
+	result = {'resp': 'OK', 'lang':lang, 'voicename':voicename, 'textdata':textdata}
+	resp = make_response(jsonify(result))
+	return resp
 		
 app.run(debug=True, host='192.168.117.129', port=5000)
 
