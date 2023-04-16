@@ -1,0 +1,96 @@
+Server:
+    dir:
+        /courses
+            /ko
+                /A
+                    /content.tsv
+                        [level,esp,kor,eng,group,alternative,prononcation]
+                    /content.info.json
+                        {name:"Esperanto A (Memlingo 에스페란토)",
+                         description: "",
+                         short_descrption: "",
+                         tags: "",
+                         source: "",
+                         target: "",
+                         audio_mode: "",
+                         base_url: "",
+                         course_status: ""
+                        }
+                /B
+                /C
+            /en-us
+                /A
+                /B
+                /C
+            /cn-zh
+            /cn-tw
+            /th
+            /vn
+        /sound
+            /male1
+                /Mi amas vin.mp3
+            /male2
+            /female1
+            /ludoviko
+        /image
+            /male1.jpg
+            /memlingologo.png
+        /users
+            /m/masoris@gmail.com/
+                /userinfo.json
+                    {
+                        userid: "",
+                        email: "",
+                        last_login: "",
+                        admin_flag: "" //운영자 또는 코스 편집자에게 특별한 권한을 주는 것
+                    }
+                /courses/ko/A
+                    /mycontent.tsv
+                        [level,esp,kor,eng,group,count,repeat_date]
+                        [Saluton-A,Mi amas,사랑합니다,I love you,group1,3,2023-05-10 14:20:15]
+                        [Saluton-A,Mi gxojas,기쁩니다,I glad,group7,0,""]
+                    /myprogress.json (??)
+                /courses/cn-zh/B
+                    /mycontent.tsv
+                    /myprogress.json
+        /logs
+            /access-20230503.log //통계 작성용
+                time, login, userid, email
+                time, logout, userid, email
+                time, course선택, userid, email, lang, course
+                time, course시작, userid, email, lang, course
+                time, course종료, userid, email, lang, course
+                time, 단어카드, userid, email, lang, course, cardtype, esp, score
+            /error-20230503.log
+            /debug-20230503.log
+        /stats
+    api:
+        /api/login.api
+            email1, email2, lang
+            userid, email, cookie:login_status, lang, courses{제목, 짧은 설명, 긴 설명, Points, Progress, Total_count, Needs_Review, Not_Seen, Familiar, Mastered}
+        /api/logout.api 
+            userid, email, cookie:login_status 
+            cookie:login_status
+        /api/sessionstart.api
+        /api/card-next.api
+            userid, email, cookie:login_status, lang, course
+            [level,esp,kor,eng,group,count,repeat_date,img_url,voice_name]
+        /api/card-submit.api
+            userid, email, cookie:login_status, lang, course, esp, score
+            [level,esp,kor,eng,group,count,repeat_date,img_url,voice_name] //다음 항목
+        /api/sessionend.api
+            userid, email, cookie:login_status, lang, course
+            ok  
+
+WebClient:
+    cookie:
+        login_status
+    localstorage:
+        user
+        email
+        lang
+        courses: 
+            제목, 짧은 설명, 긴 설명, Points, Progress, Total_count, Needs_Review, Not_Seen, Familiar, Mastered
+        words:
+            [level,esp,kor,eng,group,count,repeat_date,img_url,voice_name, score]   
+
