@@ -1,7 +1,7 @@
 Server:
     dir:
         /courses
-            /ko
+            /ko-kr
                 /A
                     /content.tsv
                         [level,esp,kor,eng,group,alternative,prononcation]

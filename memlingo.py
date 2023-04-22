@@ -17,8 +17,8 @@ def is_valid_email(email):
     pattern = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
     return re.match(pattern, email) is not None
 
-def create_user(email):
-    # 디렉토리 생성
+def create_user(email, lang):
+    # 개인 홈 디렉토리 생성
     user_dir = os.path.join("./users", email[0], email)
     if not os.path.exists(user_dir):
         os.makedirs(user_dir)
@@ -33,6 +33,18 @@ def create_user(email):
     user_info_file = os.path.join(user_dir, "userinfo.json")
     with open(user_info_file, "w") as f:
         json.dump(user_info, f)
+	
+    # 해당 언어 lang에 대응 되는 개인별 코스와 개인 progress 저장을 위한 개인 디렉토리를 개인 홈에 만들어 준다 
+    user_courses_lang_dir = os.path.join(user_dir, "courses", lang)
+    # A, B, C 각각의 디렉토리를 생성한다
+    for root, dirs, files in os.walk("./courses/"+lang): #마스터 코스 목록 lang 하위의 마스터 코스 목록
+        for course_name in dirs:
+            os.makedirs(os.path.join(user_courses_lang_dir, course_name)) #개인 홈 디렉토리 밑에 있는 개인용 코스
+            file_path = os.path.join(user_courses_lang_dir, course_name, "myprogress.tsv")
+            with open(file_path, "w") as f:
+                f.write("[level,esp,kor,eng,group,count,repeat_date]\n") #TODO, 실제 내용을 정확한 내용을 적는다 마스터 코스에 있는 content.tsv 파일 하나하나 가져와서 이런 규격으로 가져와서 넣는다.
+
+
 
 #  /api/login.api
 #           input: email1, email2, lang
@@ -58,7 +70,15 @@ def login():
 		resp = make_response(jsonify(result))
 		resp.set_cookie('login_status', 'fail')
 		return resp
-	if lang not in ['ko', 'jp','cn-zh', 'cn-tw']:
+	
+	# lang 검증
+	found = False
+	for root, dirs, files in os.walk("./courses"):
+		for name in dirs:
+			if name == lang:
+				found = True
+				break
+	if not found:
 		result = {'resp': 'Fail', 'message': 'language is not supported'}
 		resp = make_response(jsonify(result))
 		resp.set_cookie('login_status', 'fail')
@@ -67,26 +87,45 @@ def login():
 	#처음에 들어온 이메일 이면 해당 사용자의 홈 디렉토리를 만들고, 해당 폴더를 초기화 시켜준다.
 	user_dir = os.path.join("./users", email1[0], email1)
 	if not os.path.exists(user_dir):
-		create_user(email1)
+		create_user(email1, lang)
 
-	#./courses 폴더에 가면 lang 폴더 밑에 각 코스가 A, B, C 형태로 있을 것임
-	#다시 말해 lang이 만약에 한국어(ko)라면 ./courses/ko/A/ 및 ./courses/ko/B/ ./courses/ko/C/ 폴더가 있을 것입니다. 
-	#이런 폴더들을 해당 언어의 해당 코스의 폴더라고 합시다. 
-	#해당 언어 해당 코스 폴더에는 content.tsv라는 파일과 content_info.json이라는 파일이 있습니다. 
-	#현재 생성된 개인 사용자용 개인 디렉토리인 ./users/u/user@email.com 폴더 밑에 현재 사용자가 입력한 ko라는 lang값에 대해서
-	# 다음과 같은 폴더가 생깁니다.
-	# ./users/u/user@email.com/courses/ko/A/ 라는 폴더와 ./users/u/user@email.com/courses/ko/B/
-	# ./users/u/user@email.com/courses/ko/C/ 라는 폴더가 생성되고 해당 폴더 밑에 각각 myprogress.tsv라는 파일이 생성됩니다.
-	# myprogress.tsv 파일에는 다음과 같은 내용이 채워집니다.
-    #                     [level,esp,kor,eng,group,count,repeat_date]
-    #                     [Saluton-A,Mi amas,사랑합니다,I love you,group1,3,2023-05-10 14:20:15]
-    #                     [Saluton-A,Mi gxojas,기쁩니다,I glad,group7,0,""]
-	# 
-	#output: userid, email, cookie:login_status, lang, courses{제목, 짧은 설명, 긴 설명, Points, Progress, Total_count, Needs_Review, Not_Seen, Familiar, Mastered}
+	#마스터 lang/코스 별로 course_info.json를 읽어온다
+	course_infos = {}
+	courses_lang_dir = os.path.join("./courses",lang)
+	for root, dirs, files in os.walk(courses_lang_dir): #마스터 코스 목록 lang 하위의 마스터 코스 목록
+		for course_name in dirs:
+			content_info_json = courses_lang_dir +'/'+ course_name +'/'+ "content_info.json"
+			#TODO Json 파일을 읽어서 course_info 라는 객체를 만든다.
+			#TODO content.tsv파일 라인수를 total_count로 읽어드린다.
+			course_info['total_count'] = total_count
+			course_infos[course_name] = course_info
+			
 
-
+	#개인 코스 별 진도를 읽어온다.
+	user_courses = []		
+	user_dir = os.path.join("./users", email[0], email)
+	user_courses_lang_dir = os.path.join(user_dir, "courses", lang)
+    # A, B, C 각각의 디렉토리를 생성한다
+	for root, dirs, files in os.walk("./courses/"+lang): #마스터 코스 목록 lang 하위의 마스터 코스 목록
+		for course_name in dirs:
+			user_course = {} #"subject":subject, "description":description, "short_description":short_description, "points":points, "progress":progress, "total_count":total_count, "needs_review":need_review, "not_seen":not_seen, "familiar":familiar, "mastered":mastered}
+			user_course['course_name'] = course_name
+			user_course['name'] = course_infos[course_name]['name']
+			user_course['description'] = course_infos[course_name]['description']
+			user_course['short_description'] = course_infos[course_name]['short_description']
+			user_course['total_count'] = course_infos[course_name]['total_count'] 
+			#myprogress.tsv 파일을 읽어서 user_course 객체에 각 진도값을 채워 넣는다
+			#TODO points는 사용자가 공부한 총 카운트 수 = myprogress.tsv 파일의 count 칼럼의 총합 
+			#TODO myprogress.tsv파일의 count 칼럼 값을 기준으로 카운트 값이 4 이상이면 완료 한 것임. progress는 완료한 것과 total_count 사이의 비율을 백분율로 나눈것.
+			#TODO needs_review는 myprogress.tsv파일의 next_review_time 칼럼의 시간을 기준으로 현재 대비 과거 인 것 들을 갯수 
+			user_course['points'] = points
+			user_course['progress'] = progress
+			user_course['needs_review'] = needs_review
+			user_course['familiar'] = familiar
+			user_course['mastered'] = mastered
+			user_courses.append(user_course)
 	
-	result = {'resp': 'OK', 'user': email1, 'email': email1}
+	result = {'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang, "courses": user_courses}
 	resp = make_response(jsonify(result))
 	resp.set_cookie('login_status', 'success')
 	return resp
