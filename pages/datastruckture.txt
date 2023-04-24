@@ -5,10 +5,10 @@ Server:
                 /A
                     /content.tsv
                         [level,esp,kor,eng,group,alternative,prononcation]
-                    /content.info.json
+                    /course_info.json
                         {name:"Esperanto A (Memlingo 에스페란토)",
                          description: "",
-                         short_descrption: "",
+                         short_description: "",
                          tags: "",
                          source: "",
                          target: "",
