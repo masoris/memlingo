@@ -1,0 +1,272 @@
+span {
+    width: 280px;
+    height: 21px;
+    font-family: NotoSansCJKkr;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #078d4f;
+}
+
+.Rectangle-Background {
+    width: 360px;
+    height: 2112px;
+    padding: 0 0 60px;
+    background-color: #03bf6b;
+}
+
+img.logo_subtitle {
+    width: 154px;
+    height: 54px;
+    margin: 36px 142px 20px 20px;
+    object-fit: contain;
+}
+
+img.ic_close_white {
+    width: 24px;
+    height: 24px;
+    margin: 36px 20px 50px 86px;
+    padding: 3px;
+    object-fit: contain;
+}
+
+.Learn-Esperanto-by-E {
+    width: 320px;
+    height: 60px;
+    margin: 20px 20px 10px;
+    font-family: NotoSansCJKkr;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #fff;
+}
+
+img.img_a {
+    width: 100px;
+    height: 100px;
+    margin: 10px 86px 548px 130px;
+    padding: 0 0 1px;
+    object-fit: contain;
+}
+
+.Rectangle-Copy {
+    width: 320px;
+    height: 538px;
+    margin: 60px 20px;
+    padding: 66px 0 40px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.Esperanto-A- {
+    width: 280px;
+    height: 30px;
+    margin: 0 20px 16px;
+    font-family: NotoSansCJKkr;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #111;
+}
+
+img.ic_star_1 {
+    width: 72px;
+    height: 20px;
+    margin: 16px 124px 10px;
+    object-fit: contain;
+}
+
+.Points {
+    width: 120px;
+    height: 20px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #999;
+}
+
+.Number {
+    width: 120px;
+    height: 30px;
+    margin: 20px 0 0;
+    font-family: NotoSansCJKkr;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: #111;
+}
+
+.progress {
+    width: 120px;
+    height: 20px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #999;
+}
+
+.Needs-Review {
+    width: 120px;
+    height: 20px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #999;
+}
+
+.Familiar {
+    width: 120px;
+    height: 20px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #999;
+}
+
+.Total-Count {
+    width: 120px;
+    height: 20px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #999;
+}
+
+.Middle-Bar {
+    width: 1px;
+    height: 129px;
+    margin: 16px 159px 61px 0;
+    background-color: #e9e9e9;
+}
+
+.Not-Seen {
+    width: 120px;
+    height: 20px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #999;
+}
+
+.Mastered {
+    width: 120px;
+    height: 20px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #999;
+}
+
+.\- {
+    width: 280px;
+    height: 100px;
+    margin: 20px 20px 0;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #999;
+}
+
+.Rectangle1 {
+    width: 320px;
+    height: 60px;
+    margin: 60px 20px 10px;
+    padding: 19px 20px 20px;
+    border-radius: 2px;
+    background-color: #fff;
+}
+
+.Rectangle2 {
+    width: 320px;
+    height: 60px;
+    margin: 10px 20px;
+    padding: 19px 20px 20px;
+    border-radius: 2px;
+    background-color: #fff;
+}
+
+.Rectangle3 {
+    width: 320px;
+    height: 60px;
+    margin: 10px 20px 0;
+    padding: 19px 20px 20px;
+    border-radius: 2px;
+    background-color: #fff;
+}
+
+.Rectangle4 {
+    width: 360px;
+    height: 60px;
+    margin: 1112px 0 0;
+    padding: 19px 20px 20px;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #4c5b75;
+}
+
+.Start-Learning {
+    width: 320px;
+    height: 21px;
+    font-family: NotoSansCJKkr;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+}
