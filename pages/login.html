@@ -1,25 +1,80 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <script src="./ajax.js"></script>
-    <script src="./cookie.js"></script>
-    <script src="./login.js"></script>
-    <title>Login</title>
-  </head>
-  <body>
-    <form id="login-form">
-      <div>
-        <label for="email1">Email:</label>
-        <input type="email" id="email1" name="email1" required>
-      </div>
-      <div>
-        <label for="email2">Confirm email:</label>
-        <input type="email" id="email2" name="email2" required>
-      </div>
-      <input type="button" id="btn_login" value="login">
-    </form>
-    
+<!DOCTYPE html>
+<html lang="en">
 
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="./ajax.js"></script>
+  <script src="./cookie.js"></script>
+  <script src="./login.js"></script>
+  <title>Login</title>
+  <link rel="stylesheet" href="./login.css">
+</head>
+
+<body>
+  <div class="Login-Scroll">
+    <img src="img/logo-subtitle.png" srcset="img/logo-subtitle@2x.png 2x,
+             img/logo-subtitle@3x.png 3x" class="logo_subtitle">
+    <span class="Enter-your-e-mail-ad">
+      Enter your e-mail address twice.
+    </span>
+    <span class="Saman-ret-adreson-du">
+      Saman ret-adreson du fojoj.
+    </span>
+    <div class="Rectangle1">
+      <input class="Span1" type="email" id="email1" name="email1" required placeholder="이메일 주소를 입력해 주세요.">
+    </div>
+    <div class="Rectangle2">
+      <input class="Span1" type="email" id="email2" name="email2" required placeholder="이메일 주소를 한 번 더 입력해 주세요.">
+    </div>
+      <input class="Rectangle8" type="button" id="btn_login" value="login">
+    <div class="Rectangle3">
+      <span class="Learn-Esperanto-by-E">
+        Learn Esperanto by Examples
+      </span>
+      <span class="Esperanto-for-the-re">
+        Esperanto for the rest of us!
+        한국어로 에스페란토를 배웁시다.
+        日本語でエスペラントを学びましょう。
+        用中文学习世界语。
+        Học tiếng Esperanto bằng tiếng Việt.
+        Learn Esperantso in your own language.
+      </span>
+
+    </div>
+    <span class="Your-Language">
+      Your Language
+    </span>
+    <div class="Rectangle4">
+      <select id="lang">
+        <option value="ko-kr">한국어(Korean)</option>
+        <option value="en-us">English</option>
+        <option value="cn-zh">大陆简体 (Chinese Simplified)</option>
+        <option value="cn-tw">臺灣正體 (Chinese Traditional)</option>
+      </select>
+    </div>
+    <div class="Rectangle5">
+      <span class="About-Memlingo">
+        About Memlingo
+      </span>
+    </div>
+    <div class="Rectangle6">
+      <span class="How-to-use">
+        How to use Memlingo?
+      </span>
+    </div>
+    <div class="Rectangle7">
+      <span class="Report-or">
+        Report or Ask
+      </span>
+    </div>
+    <span class="Parolilo">
+      Parolilo
+    </span>
+    
+  </div>
+
+</body>
+
 </html>

@@ -64,7 +64,7 @@ def login():
         email2 = request.args['email2']
         lang = request.args['lang']
     else:
-        if request.headers.get('Content-Type') == "application/json": #컨텐트 타입 헤더가 aplication/json이면
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
             email1 = request.json['email1']
             email2 = request.json['email2']
             lang = request.json['lang']
@@ -110,7 +110,7 @@ def login():
             
 
     #개인 코스 별 진도를 읽어온다.
-    user_courses = []		
+    user_courses = {}		
     user_dir = os.path.join("./users", email1[0], email1)
     user_courses_lang_dir = os.path.join(user_dir, "courses", lang)
     # A, B, C 각각의 디렉토리를 생성한다
@@ -148,7 +148,7 @@ def login():
         user_course['needs_review'] = needs_review_count
         user_course['familiar'] = familiar_count #카운트가 5이상인 것들의 갯수
         user_course['mastered'] = mastered_count #카운트가 6이상인 것들의 갯수
-        user_courses.append(user_course)
+        user_courses[course_name] = user_course
     
     result = {'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang, "user_courses": user_courses}
     resp = make_response(jsonify(result))

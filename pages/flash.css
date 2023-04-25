@@ -1,0 +1,12 @@
+.Rectangle {
+    width: 360px;
+    height: 640px;
+    padding: 287px 75px 285px 76px;
+    background-color: #03bf6b;
+  }
+img.logo_loading_white {
+    width: 209px;
+    height: 68px;
+    padding: 0 0 1px;
+    object-fit: contain;
+  }

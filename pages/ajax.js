@@ -41,11 +41,11 @@ function postAjaxRequest(url, jsonStr, successCallback, errorCallback) {
     if (xhr.status === 200) {
       successCallback(xhr.responseText);
     } else {
-      errorCallback(xhr.status);
+      errorCallback(xhr.status, xhr.responseText);
     }
   };
   xhr.onerror = function() {
-    errorCallback(xhr.status);
+    errorCallback(xhr.status, xhr.responseText);
   };
   xhr.send(jsonStr);
 }
