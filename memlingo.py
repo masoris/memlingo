@@ -156,28 +156,6 @@ def login():
     return resp
 
 
-# @app.route('/api/login.api', methods=['POST', 'GET'])
-# def login():
-# 	# if request.method == 'GET':
-# 	# 	email1 = request.args['email1']
-# 	# 	email2 = request.args['email2']
-# 	# else:
-# 	# 	email1 = request.form['email1']
-# 	# 	email2 = request.form['email2']
-
-# 	email1 = request.json['email1']
-# 	email2 = request.json['email2']
-# 	if email1 == email2:
-# 		result = {'resp': 'OK', 'user': email1}
-# 		resp = make_response(jsonify(result))
-# 		resp.set_cookie('login_status', 'success')
-# 		return resp
-# 	else:
-# 		result = {'resp': 'Fail', 'user': ''}
-# 		resp = make_response(jsonify(result))
-# 		resp.set_cookie('login_status', 'fail')
-# 		return resp
-
 @app.route('/api/logout.api', methods=['POST'])
 def logout():
     result = {'resp': 'OK', 'user': ''}

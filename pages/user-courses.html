@@ -7,6 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./user-courses.css">
     <script src="./user-courses.js"></script>
+    <script src="./ajax.js"></script>
+    <script src="./cookie.js"></script>
     <title>User-courses</title>
 </head>
 
@@ -21,10 +23,10 @@
         </span>
 
         <div class="Rectangle-Copy">
-            <span class="Esperanto-A-">
+            <span id="CourseA_name" class="Esperanto-A-">
                 Esperanto A (에스페란토)
             </span>
-            <span class="\-">
+            <span id="CourseA_short_description" class="\-">
                 초급 에스페란토 코스, 에스페란토 기초, Baza Esperanto, 자그레브 코스, Zagreba Kurso
             </span>
 
@@ -32,111 +34,99 @@
              img/img-a@3x.png 3x" class="img_a">
 
             <span class="Words-600-Words-t">
-                <span class="text-style-1">∙</span>Words: 600<span class="text-style-2">∙</span>Words to review: 4<span
-                    class="text-style-3">∙</span>Familiar: 4<span class="text-style-4">∙</span>Mastered: 0<span
-                    class="text-style-5">∙</span>Progress: 0.3%<span class="text-style-6">∙</span>Points: 18
+                <span class="text-style-1">∙</span>Words: <span id="CourseA_total_count">600</span>
+                <span class="text-style-2">∙</span>Words to review: <span id="CourseA_needs_review">4</span>
+                <span class="text-style-3">∙</span>Familiar: <span id="CourseA_familiar">4</span>
+                <span class="text-style-4">∙</span>Mastered: <span id="CourseA_mastered">0</span>
+                <span class="text-style-5">∙</span>Progress: <span id="CourseA_progress">0.3</span>%
+                <span class="text-style-6">∙</span>Points: <span id="CourseA_points">18</span>
             </span>
 
             <div class="Rectangle-Button">
-                <span class="Learn-Esperanto-Button-Inside">
-                    Learn (Esperanto A)
-                </span>
+                <input class="Learn-Esperanto-Button-Inside" type="button" id="Btn_StartA" value="Learn (Esperanto A)">
 
             </div>
 
         </div>
         <div class="Rectangle-Copy">
 
-            <span class="Esperanto-B-">
+            <span id="CourseB_name" class="Esperanto-B-">
                 Esperanto B (에스페란토)
             </span>
-            <span class="-Jen-Nia">
+            <span id="CourseB_short_description" class="-Jen-Nia">
                 에스페란토 중급 코스, Jen Nia Mondo 코스에 기반한 코스
             </span>
 
             <img src="img/img-b.png" srcset="img/img-b@2x.png 2x,
              img/img-b@3x.png 3x" class="img_b">
             <span class="Words-500-Words-t">
-                ∙Words: 500
-                ∙Words to review: 10
-                ∙Familiar: 6
-                ∙Mastered: 0
-                ∙Progress: 0.6%
-                ∙Points: 22
+                <span class="text-style-1">∙</span>Words: <span id="CourseB_total_count">600</span>
+                <span class="text-style-2">∙</span>Words to review: <span id="CourseB_needs_review">4</span>
+                <span class="text-style-3">∙</span>Familiar: <span id="CourseB_familiar">4</span>
+                <span class="text-style-4">∙</span>Mastered: <span id="CourseB_mastered">0</span>
+                <span class="text-style-5">∙</span>Progress: <span id="CourseB_progress">0.3</span>%
+                <span class="text-style-6">∙</span>Points: <span id="CourseB_points">18</span>
+
             </span>
 
             <div class="Rectangle-Button">
+                <input class="Learn-Esperanto-Button-Inside" type="button" id="Btn_StartB" value="Learn (Esperanto B)">
 
-                <span class="Learn-Esperanto-Button-Inside">
-                    Learn (Esperanto B)
-                </span>
             </div>
 
 
         </div>
         <div class="Rectangle-Copy">
-            <span class="Esperanto-C-">
+            <span id="CourseC_name" class="Esperanto-C-">
                 Esperanto C (에스페란토)
-              </span>
-              <span class="-G6-990">
+            </span>
+            <span id="CourseC_short_description" class="-G6-990">
                 권고 단어: 초급자 G6까지 990단어, 중급자 G8까지 1700단어, 상급자 G9까지 2500 단어
-              </span>
+            </span>
 
-<img src="img/img-c.png"
-srcset="img/img-c@2x.png 2x,
-        img/img-c@3x.png 3x"
-class="img_c">
+            <img src="img/img-c.png" srcset="img/img-c@2x.png 2x,
+        img/img-c@3x.png 3x" class="img_c">
 
-<span class="Words-500-Words-t">
-    ∙Words: 500
-  ∙Words to review: 6
-  ∙Familiar: 3
-  ∙Mastered: 0
-  ∙Progress: 0.3%
-  ∙Points: 7
-  </span>
-  <div class="Rectangle-Button">
+            <span class="Words-500-Words-t">
+                <span class="text-style-1">∙</span>Words: <span id="CourseC_total_count">600</span>
+                <span class="text-style-2">∙</span>Words to review: <span id="CourseC_needs_review">4</span>
+                <span class="text-style-3">∙</span>Familiar: <span id="CourseC_familiar">4</span>
+                <span class="text-style-4">∙</span>Mastered: <span id="CourseC_mastered">0</span>
+                <span class="text-style-5">∙</span>Progress: <span id="CourseC_progress">0.3</span>%
+                <span class="text-style-6">∙</span>Points: <span id="CourseC_points">18</span>
 
-    <span class="Learn-Esperanto-Button-Inside">
-        Learn (Esperanto C)
-      </span>
-
-  </div>
+            </span>
+            <div class="Rectangle-Button">
+                <input class="Learn-Esperanto-Button-Inside" type="button" id="Btn_StartC" value="Learn (Esperanto C)">
+            </div>
 
 
         </div>
 
         <span class="Your-Language">
             Your Language
-          </span>
+        </span>
 
-          <div class="Rectangle-Your-Language">
+        <div class="Rectangle-Your-Language">
 
-            <span class="\-">
-                Korean (한국어)
-              </span>
+            <select id="lang">
+                <option value="ko-kr">한국어(Korean)</option>
+                <option value="en-us">English</option>
+                <option value="cn-zh">大陆简体 (Chinese Simplified)</option>
+                <option value="cn-tw">臺灣正體 (Chinese Traditional)</option>
+            </select>
 
+        </div>
 
-<img src="img/arrow-dropdown-black.png"
-srcset="img/arrow-dropdown-black@2x.png 2x,
-        img/arrow-dropdown-black@3x.png 3x"
-class="arrow_dropdown_black">
+        <div class="Rectangle-Report">
+            <input class="Rectangle-Report-Inside" type="button" id="Btn_report_or_ask" value="Report or Ask">
 
-          </div>
+        </div>
 
-          <div class="Rectangle-Report">
-            <span class="Rectangle-Report-Inside">
-                Report or Ask
-              </span>
+        <div class="Rectangle-Logout">
+            <input class="Rectangle-Report-Inside" type="button" id="Btn_logout" value="Logout">
 
-          </div>
-
-          <div class="Rectangle-Logout">
-            <span class="Rectangle-Logout-Inside">
-                Logout
-              </span>
-
-          </div>
+        </div>
     </div>
 </body>
 
