@@ -155,3 +155,16 @@ span {
     margin: 12px 0 0;
     padding: 0 0 0 56px;
 }
+
+.Span1 {
+    width: 264px;
+    height: 18px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #999;
+  }
