@@ -1,3 +1,2098 @@
-level1	esp1	kor1	eng1	group1	alternative1	prononcation1
-level2	esp2	kor2	eng2	group2	alternative2	prononcation2
-level3	esp3	kor3	eng3	group3	alternative3	prononcation3
+Saluton	mi, vi	나, 당신	I, you	Saluton		mi, vi
+Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton		estas, estis
+Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton		mi estas
+Saluton	vi estas ~	당신은 ~ 이다	you are ~	Saluton		vi estas
+Saluton	saluton	안녕하세요	hello	Saluton		saluton
+Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton		saluton, mi estas ~
+Saluton	mia, via	나의, 당신의	my, your	Saluton		mia, via
+Saluton	nomo	이름	a name	Saluton		nomo
+Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton		mia nomo, via nomo
+Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton		mia nomo estas ~
+Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton		via nomo estas ~ 
+Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did 	Saluton		fartas, fartis
+Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, (past) will be	Saluton		estis, estos
+Saluton	nomo, nomon	이름, 이름을	a name, an objective name	Saluton		nomo, nomon
+Saluton	mia amo	나의 사랑	my love	Saluton		mia amo
+Saluton	vi fartas	당신은 지낸다	you are doing ~	Saluton		vi fartas
+Saluton	kiel	어떻게	how	Saluton		kiel
+Saluton	kiel vi fartas?	당신은 어떻게 지내세요?	how are you doing?	Saluton		kiel vi fartas?
+Saluton	kio	무엇	what	Saluton		kio
+Saluton	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	Saluton		kio estas via nomo?
+Saluton	bona, bone	좋은 (형용사), 잘 (부사)	good, well	Saluton		bona, bone
+Saluton	fartas bone	잘 지낸다 (지내고 있다)	is doing well	Saluton		fartas bone
+Saluton	mi fartas bone	나는 잘 지냅니다	I am doing well	Saluton		mi fartas bone.
+Saluton	kaj	그리고 (~와, ~과)	and	Saluton		kaj
+Saluton	bone, kaj vi?	좋아요, 당신은요?	fine, and you?	Saluton		bone, kaj vi?
+Saluton	ĝis ~	~ 까지	until ~	Saluton		ĝis ~
+Saluton	vidas, vidis	(현재) 본다, (과거) 보았다	(present) sees, (past) saw	Saluton		vidas, vidis
+Saluton	vidis, revidis	보았다, 다시 보았다	(past) saw, (past) saw again	Saluton		vidis, revidis
+Saluton	revidis, revidos	(과거) 다시보았다, (미래) 다시볼것이다	saw again, will see again	Saluton		revidis, revidos
+Saluton	revido, revidon	다시보기, 다시보기를	seeing-again, seeing-again (objective)	Saluton		revido, revidon
+Saluton	ĝis revido!	다시 볼때까지 (안녕)!	see you again!	Saluton		ĝis revido!
+Saluton	dankon	감사합니다	thank you	Saluton		dankon.
+Saluton	dankon kaj ĝis revido!	감사합니다. 그리고 다시볼때까지 (안녕)!	thank you and see you again!	Saluton		dankon kaj ĝis revido!
+Saluton	al ~	~ 에게	to ~	Saluton		al ~
+Saluton	al vi, al mi	당신에게, 나에게	to you, to me	Saluton		al vi, al mi
+Saluton	dankas, dankis	(현재) 감사한다, (과거) 감사했다	(present) thanks, (past) thanked	Saluton		dankas, dankis
+Saluton	mi dankas al vi	나는 당신에게 감사합니다	I appreciate to you	Saluton		mi dankas al vi.
+Saluton	jes, ne	예, 아니오	yes, no	Saluton		jes, ne
+Saluton	jes, dankon	예, 감사합니다	yes, thaink you	Saluton		jes, dankon.
+Saluton	manĝas, manĝos	(현재) 먹는다, (미래) 먹을것이다	eats, will eat	Saluton		manĝas, manĝos
+Saluton	mi ne manĝas	나는 먹지 않습니다	I don't eat	Saluton		mi ne manĝas.
+Saluton	ne, mi ne manĝas	아뇨, 나는 먹지 않습니다	no, I don't eat	Saluton		ne, mi ne manĝas.
+Saluton	bela, bele	아름다운, 아름답게	beautiful, beautifully	Saluton		bela, bele
+Saluton	-inda	(어미) ~할 만한 가치가 있는	worthwhile (ending)	Saluton		-inda
+Saluton	dankinda, dankinde	감사할 만한, 감사하게도	appreciatable, worthwhile to thank	Saluton		dankinda, dankinde
+Saluton	tuta, tute	전체의, 전체적으로	whole, as a whole	Saluton		tuta, tute
+Saluton	tuto, tuton	전부, 전부를	all, (objective) all	Saluton		tuto, tuton
+Saluton	nedankinde	천만에요	not at all, you're welcome	Saluton		nedankinde!
+Saluton	tute ne	전혀 아닌	totally no	Saluton		tute ne
+Saluton	pardoni ~, pardono	~를 용서하다, 용서	to forgive, a forgiving	Saluton		pardoni ~, pardono
+Bonan nokton	pardonon al mi	나에게 용서를	a forgiving to me	Bonan nokton		pardonon al mi
+Bonan nokton	pardonon	미안합니다	I'm sorry! pardon me	Bonan nokton		pardonon!
+Bonan nokton	pardonon, mi petas	미안합니다, 부탁합니다	I'm sorry, please	Bonan nokton		pardonon! mi petas.
+Bonan nokton	bona mateno	좋은 아침	a good morning	Bonan nokton		bona mateno
+Bonan nokton	bonan matenon	아침인사, 안녕하세요	good morning	Bonan nokton		bonan matenon!
+Bonan nokton	bonan nokton	(밤인사) 안녕히 주무세요	good night	Bonan nokton		bonan nokton!
+Bonan nokton	bonan sonĝon	좋은 꿈꾸세요	sweet dream	Bonan nokton		bonan sonĝon!
+Bonan nokton	bonan vojaĝon, al vi	좋은 여행이 되기를, 당신에게 (기원합니다)	(have) a good trip, to you	Bonan nokton		bonan vojaĝon al vi.
+Bonan nokton	bonan tagon	낮인사, 안녕하세요	good day!	Bonan nokton		bonan tagon!
+Bonan nokton	ĉu ~	~인가요?	is it ~?	Bonan nokton		ĉu ~
+Bonan nokton	ĉu vi fartas bone?	당신은 잘 지내십니까?	are you doing well? (how are you?)	Bonan nokton		ĉu vi fartas bone?
+Bonan nokton	jes, mi fartas bone	예, 나는 잘 지냅니다	yes, I'm fine	Bonan nokton		jes, mi fartas bone.
+Bonan nokton	ne, tute ne	아뇨, 전혀	no, not at all	Bonan nokton		ne, tute ne.
+Bonan nokton	tre, tro	매우, 너무	very, too much	Bonan nokton		tre, tro
+Bonan nokton	granda, grande	커다란, 커다랗게	big, largely	Bonan nokton		granda, grande
+Bonan nokton	tre bona, tro granda	매우 좋은, 너무 큰	very big, too big	Bonan nokton		tre bona, tro granda
+Bonan nokton	vi tre bone fartas	당신은 매우 잘 지냅니다	you are doing very well	Bonan nokton		vi tre bone fartas.
+Bonan nokton	ne tre bone	썩 좋지는 않게	not very well	Bonan nokton		ne tre bone.
+Bonan nokton	lerni ~, lerno	~를 배우다, 배우기	to learn, a learning	Bonan nokton		lerni ~, lerno
+Bonan nokton	vidanta, vidanto	(현재진행) 보고 있는, 보고 있는 사람	is looking, a spectator	Bonan nokton		vidanta, vidanto
+Bonan nokton	lernanta, lernanto	배우고 있는, 배우고 있는 사람 (학생)	is learning, a student (a learning person)	Bonan nokton		lernanta, lernanto
+Bonan nokton	-anta, -anto	(현재진행) ~하고 있는, ~하는 사람	is -ing, a person who is doing	Bonan nokton		-anta, -anto
+Bonan nokton	lernanto, lerninto	배우고 있는 사람 (학생), 배웠던 사람	a student, a person who has learned	Bonan nokton		lernanto, lerninto
+Bonan nokton	mi estas lernanto	나는 학생이다	I am a student.	Bonan nokton		mi estas lernanto.
+Bonan nokton	~ estas mia amiko	~는 나의 친구이다	~ is my friend	Bonan nokton		~ estas mia amiko.
+Bonan nokton	li, ŝi	그남자, 그여자	he, she	Bonan nokton		li, ŝi
+Bonan nokton	sidi, sidas	앉다, 앉아 있다	to sit, sits	Bonan nokton		sidi, sidas
+Bonan nokton	sidanta, sidinta, sidonta	앉아 있는, 앉았던, 앉을 예정인	is sitting, was sitting, will be sitting	Bonan nokton		sidanta, sidinta, sidonta
+Bonan nokton	li sidas kaj ŝi lernas	그는 앉아 있고, 그녀는 배우고 있다	he is sitting and she is learning	Bonan nokton		li sidas kaj ŝi lernas.
+Bonan nokton	ĉambro	방	a room	Bonan nokton		ĉambro
+Bonan nokton	lernas en ĉambro	방안에서 배운다	learns in a room	Bonan nokton		lernas en ĉambro
+Bonan nokton	lernanto kaj sportisto	배우는 사람과 운동선수	a student and a sportsman	Bonan nokton		lernanto kaj sportisto
+Bonan nokton	sporto kaj sportisto	스포츠와 운동선수	sport and a sportsman	Bonan nokton		sporto kaj sportisto
+Bonan nokton	sportisto nun sportas	운동선수는 지금 운동을 하고 있다	a sportsman is sporting	Bonan nokton		Sportisto nun sportas.
+Bonan nokton	li estas lernanto	그는 배우는 사람이다	he is a student	Bonan nokton		Li estas lernanto
+Bonan nokton	estas lernanto kaj sportisto	배우는 사람이고 스포츠맨이다	he is a student and a sportman	Bonan nokton		estas lernanto kaj sportisto
+Bonan nokton	li nun sidas	그는 지금 앉아있다	he is now sitting	Bonan nokton		Li nun sidas.
+Bonan nokton	kaj nun lernas	그리고 지금 배우고있다	and is now learning	Bonan nokton		kaj nun lernas
+Bonan nokton	sidas kaj lernas	앉아서 배우고 있다	is sitting and is learning	Bonan nokton		sidas kaj lernas
+Bonan nokton	nun en ĉambro	지금 방안에서	now in a room	Bonan nokton		nun en ĉambro
+Bonan nokton	estas sur tablo	탁자 위에 있다	is on a table	Bonan nokton		estas sur tablo
+Bonan nokton	papero kaj paperoj	종이와 종이들	a paper and papers	Bonan nokton		papero kaj paperoj
+Bonan nokton	tablo kaj tabloj	탁자와 탁자들	a table and tables	Bonan nokton		tablo kaj tabloj
+Bonan nokton	libro kaj libroj	책과 책들	a book and books	Bonan nokton		libro kaj libroj
+Bonan nokton	la paperoj kaj libroj	그 종이들과 책들	the papers and books	Bonan nokton		la paperoj kaj libroj
+Bonan nokton	ĝi estas sur tablo	그것이 탁자 위에 있다	it is on a table.	Bonan nokton		ĝi estas sur tablo
+Bonan nokton	skribas sur la skribotablo	그 책상 위에서 쓴다	is writing on a writing table	Bonan nokton		skribas sur la skribotablo
+Bonan nokton	la libroj estas ~	그 책들은 ~이다	the book is ~	Bonan nokton		la libroj estas ~
+Bonan nokton	sur la tablo	그 책상 위에	on the table	Bonan nokton		sur la tablo
+Bonan nokton	lernolibro kaj la lernolibroj	교과서와 그 교과서들	a textbook and the textbooks	Bonan nokton		lernolibro kaj la lernolibroj
+Amiko	sur la tablo estas ~	그 테이블 위에 ~가 있다	on the table there is ~	Amiko		sur la tablo estas ~
+Amiko	patro kaj patrino	아버지와 어머니	a father and a mother	Amiko		patro kaj patrino
+Amiko	la patro kaj la patrino	그 아버지와 그 어머니	the father and the mother	Amiko		la patro kaj la patrino
+Amiko	la patrino de mia amiko	내 친구의 그 어머니	the mother of my friend	Amiko		la patrino de mia amiko
+Amiko	en la ĉambro	그 방안에	in the room	Amiko		en la ĉambro
+Amiko	ne estas en la ĉambro	그 방안에 없다	is not in the room	Amiko		ne estas en la ĉambro
+Amiko	ili nun laboras	그들은 지금 일하고 있다	they are now working	Amiko		ili nun laboras.
+Amiko	lia patro estas laboristo	그의 아버지는 노동자이다	his father is a worker	Amiko		lia patro estas laboristo.
+Amiko	li laboras en hotelo	그는 호텔에서 일한다	he works in a hotel	Amiko		li laboras en hotelo.
+Amiko	la patrino instruas	그 어머니는 가르친다	the mother teaches	Amiko		la patrino instruas.
+Amiko	ŝi estas instruistino	그녀는 여선생님이다	she is a teacher	Amiko		ŝi estas instruistino.
+Amiko	ĉu ŝi estas patrino?	그녀는 어머니인가?	is she a mother?	Amiko		ĉu ŝi estas patrino?
+Amiko	ne, ŝi estas hotelisto	아니오, 그녀는 호텔직원입니다	no, she is an hotelier	Amiko		ne, ŝi estas hotelisto.
+Amiko	ne, mi ne laboras	아니오, 저는 일하지 않습니다	no, I don't work	Amiko		ne, mi ne laboras.
+Amiko	kio estas ŝia nomo?	그녀의 이름은 무엇인가요?	what is her name?	Amiko		kio estas ŝia nomo?
+Amiko	kiu nun respondas?	누가 지금 대답하고 있습니까?	who is now answering?	Amiko		kiu nun respondas?
+Amiko	la lingvo de ilia patrino	그들 어머니의 그 언어	the language of their mother	Amiko		la lingvo de ilia patrino
+Amiko	ĉu via nomo estas ~?	당신의 이름이 ~ 입니까?	is your name ~ ?	Amiko		ĉu via nomo estas ~?
+Amiko	ni sidas kaj respondas	우리는 앉아서 대답한다	we are sitting and answering	Amiko		ni sidas kaj respondas
+Amiko	ŝia labora seĝo	그녀의 일하는 의자	her working chair	Amiko		ŝia labora seĝo
+Amiko	ĝia nomo ne estas ~	그것의 이름은 ~가 아니다	its name is not ~	Amiko		ĝia nomo ne estas ~
+Amiko	ŝia lingvo estas ilia lingvo	그녀의 언어가 그들의 언어이다	her language is their language	Amiko		ŝia lingvo estas ilia lingvo
+Amiko	nia patro kaj patrino	우리의 아버지와 어머니	our father and mother	Amiko		nia patro kaj patrino
+Amiko	via lernanto, viaj lernantoj	당신의 학생, 당신의 학생들	your student, your students	Amiko		via lernanto, viaj lernantoj
+Amiko	ĉu ili estas viaj lernantoj?	그들이 당신의 학생들입니까?	are they your students?	Amiko		ĉu ili estas viaj lernantoj?
+Amiko	ĉu vi estas lernanto?	당신은 학생인가?	are you a student?	Amiko		ĉu vi estas lernanto?
+Amiko	ĉu vi estas en la ĉambro?	너는 그 방에 있는가?	are you in the room?	Amiko		ĉu vi estas en la ĉambro?
+Amiko	mi ne estas ~	나는 ~이지 않다.	I'm not ~	Amiko		mi ne estas ~
+Amiko	ne estas en la ĉambro	그 방 안에 없다.	is not in the room	Amiko		ne estas en la ĉambro
+Amiko	esperantisto kaj esperantistino	에스페란티스토와 여성에스페란티스토	an Esperantist and a female Esperantist	Amiko		esperantisto kaj esperantistino
+Amiko	enskribis por la hotelĉambro	그 호텔방을 위해 예약했다	checked in for the hotel room	Amiko		enskribis por la hotelĉambro
+Amiko	lingvisto kaj laboristino	언어학자와 여성 노동자	a linguist and a female worker	Amiko		lingvisto kaj laboristino
+Amiko	lia amikino estas ~	그의 여자친구는 ~이다	his girl friend is ~	Amiko		lia amikino estas ~
+Amiko	lernantoj kaj sportistoj	학생들과 운동선수들	students and sportsmen	Amiko		lernantoj kaj sportistoj
+Amiko	mia familia nomo estas ~	내 성(가족명)은 ~ 이다	my familia name is ~	Amiko		mia familia nomo estas ~
+Amiko	kiu estas ŝi?	그녀는 누구인가?	who is she? which is she?	Amiko		kiu estas ŝi?
+Amiko	estas via amikino	너의 여자친구이다	is your girl friend	Amiko		estas via amikino
+Amiko	ĉu via amiko estas ~?	너의 친구는 ~ 인가?	is your friend ~ ?	Amiko		ĉu via amiko estas ~?
+Amiko	skribas nun en la ĉambro	그 방안에서 지금 쓰고 있다	is writing now in the room	Amiko		skribas nun en la ĉambro.
+Amiko	ĉu la amiko de via patro ~?	너의 아버지의 그 친구는 ~ ?	is the friend of you father ~ ?	Amiko		ĉu la amiko de via patro ~?
+Amiko	laboras en hotelo	호텔에서 일한다	works in a hotel	Amiko		laboras en hotelo
+Amiko	kio estas sur la tablo?	그 테이블 위에 무엇이 있는가?	what is on the table?	Amiko		kio estas sur la tablo?
+Amiko	sur la tablo en nia ĉambro	우리 방안의 그 테이블 위에	on the table in our room	Amiko		sur la tablo en nia ĉambro
+Amiko	ĉu la lernolibro de Esperanto ~?	에스페란토 교과서가 ~인가?	is the Esperanto textbook ~ ?	Amiko		ĉu la lernolibro de Esperanto ~?
+Amiko	estas sur via tablo	당신의 탁자 위에 있다.	is on your table	Amiko		estas sur via tablo
+Amiko	havas amikinon	여자친구가 있다	has a friend	Amiko		havas amikinon
+Amiko	ŝia nomo estas ~	그녀의 이름은 ~이다	her name is ~	Amiko		ŝia nomo estas ~
+Amiko	juna kaj bela	젊고 아름다운	young and beautiful	Amiko		juna kaj bela
+Amiko	estas juna kaj bela	젊고 아름답다	is young and beautiful	Amiko		estas juna kaj bela
+Amiko	junaj kaj belaj amikoj	젊고 아름다운 친구들	young and beautiful friends	Amiko		junaj kaj belaj amikoj
+La amiko	estas geamikoj	남녀 친구들이다	are male-and-female friends	La amiko		estas geamikoj
+La amiko	hejmo de ŝia instruisto	그녀의 선생님의 가정	a home of her teacher	La amiko		hejmo de ŝia instruisto
+La amiko	venis al la hejmo	그 집으로 왔다	came to the home	La amiko		venis al la hejmo
+La amiko	la hejmo de ~	~의 가정	the home of ~	La amiko		la hejmo de ~
+La amiko	bonvolu eniri	들어오세요	please come in	La amiko		bonvolu eniri.
+La amiko	saluton! kion vi faras?	안녕하세요! 뭘 하고 계세요?	hello, what are you doing?	La amiko		saluton! kion vi faras?
+La amiko	kion vi faras?	뭘 하고 있습니까?	what do you do? what are you doing?	La amiko		kion vi faras?
+La amiko	sed nun mi volas ~	그러나 지금 나는 ~하기를 원한다	but now I want ~	La amiko		sed nun mi volas ~
+La amiko	mi volas paroli	나는 말하고 싶다	I want to speak	La amiko		mi volas paroli.
+La amiko	kun tri geamikoj	세명의 남녀 친구들과 함께	with three male-and-female friends	La amiko		kun tri geamikoj
+La amiko	parolis kun vi	당신과 말했다	spoke with you	La amiko		parolis kun vi
+La amiko	volas paroli kun vi	당신과 말하고 싶어한다	wants to speak with you	La amiko		volas paroli kun vi
+La amiko	ĉu vi havas geamikojn?	당신은 남녀 친구들이 있느냐?	do you have male-and-female friends	La amiko		ĉu vi havas geamikojn?
+La amiko	li havas libron	그는 책을 가지고 있다	he has a book	La amiko		li havas libron.
+La amiko	havas bonan libron	좋은 책을 가지고 있다	has a good book	La amiko		havas bonan libron
+La amiko	jes, mi havas	예, 나는 가지고 있습니다	yes, I have	La amiko		jes, mi havas.
+La amiko	ne, tute ne	아니오, 전혀 아닙니다	no, not at all	La amiko		ne, tute ne.
+La amiko	ili ŝatas ĝin	그들은 그것을 좋아한다	they like it	La amiko		ili ŝatas ĝin.
+La amiko	ŝi legis libron	그녀는 책을 읽는다.	she read a book	La amiko		ŝi legis libron.
+La amiko	ŝatas legi librojn	책들을 읽기 좋아한다	likes to read books	La amiko		ŝatas legi librojn
+La amiko	nur bona libro	단지 좋은 책만	only a good book	La amiko		nur bona libro
+La amiko	multaj bonaj libroj	많은 좋은 책들	many good books	La amiko		multaj bonaj libroj
+La amiko	legis nur bonajn librojn	단지 좋은 책들만 읽었다	read only good books	La amiko		legis nur bonajn librojn
+La amiko	ŝatas legi bonajn librojn	좋은 책들을 읽기 좋아한다	likes to read good books	La amiko		ŝatas legi bonajn librojn
+La amiko	ĉu vi volas legi?	당신은 읽기를 원하는가?	do you want to read?	La amiko		ĉu vi volas legi?
+La amiko	la junulo trinkis kafon	그 젊은이는 커피를 마셨다	the youngster drank coffee	La amiko		la junulo trinkis kafon.
+La amiko	volas trinki akvon	물 마시기를 원한다	wants to drink water	La amiko		volas trinki akvon
+La amiko	patro kaj patrino, gepatroj	아버지, 어머니; 부모님들	a father and a mother; parents	La amiko		patro kaj patrino; gepatroj
+La amiko	frato kaj fratino, gefratoj	형제와 자매, 형제자매	a bother and a sister, siblings	La amiko		frato kaj fratino; gefratoj
+La amiko	viaj gepatroj kaj gefratoj	당신의 부모님들과 형제자매들	your parents and siblings	La amiko		viaj gepatroj kaj gefratoj
+La amiko	estas en via hejmo	당신의 집에 있다	is in your home	La amiko		estas en via hejmo
+La amiko	jen la kafo.	여기 커피 있어요.	here is the coffee	La amiko		jen la kafo.
+La amiko	ankoraŭ ne trinkis	아직 마시지 않았다	didn't drink yet	La amiko		ankoraŭ ne trinkis
+La amiko	estas ankoraŭ varma	여전히 덥다	is still warm	La amiko		estas ankoraŭ varma
+La amiko	hieraŭ kuiris ĝin	어제 그것을 요리했다	cooked it yesterday	La amiko		hieraŭ kuiris ĝin
+La amiko	mi nun kuiris	내가 지금 요리했다	I now cooked	La amiko		mi nun kuiris
+La amiko	dankon. tiel li diris	감사합니다. 그렇게 그는 말했다	thank you. so he said.	La amiko		dankon. tiel li diris.
+La amiko	povas trinki kaj manĝi	마실 수 있고 먹을 수 있다	can drink and eat	La amiko		povas trinki kaj manĝi
+La amiko	trinkis malvarman kafon	차가운 커피를 마셨다	drank cold coffee	La amiko		trinkis malvarman kafon
+La amiko	ankaŭ varma kafo	뜨거운 커피도	still warm coffee	La amiko		ankaŭ varma kafo
+La amiko	trinkas ankaŭ malvarman kafon	차가운 커피도 마신다	drinks cold coffee too	La amiko		trinkas ankaŭ malvarman kafon
+La amiko	povas trinki ankaŭ malvarman kafon	차가운 커피도 마실 수 있다	can also drink cold coffee	La amiko		povas trinki ankaŭ malvarman kafon
+La amiko	rigardas ŝian okulon	그녀의 눈을 바라본다	looks her eye	La amiko		rigardas ŝian okulon
+La amiko	la plej bela okulo	가장 아름다운 눈	the most beautiful eye	La amiko		la plej bela okulo
+La amiko	la belaj okuloj	그 아름다운 눈들	the beautiful eyes	La amiko		la belaj okuloj
+La amiko	rigardis la belajn okulojn	그 아름다운 눈들을 바라보았다	looked the beautiful eyes	La amiko		rigardis la belajn okulojn
+La amiko	la belaj okuloj de ŝi	그녀의 아름다운 눈들	the beautiful eyes of her	La amiko		la belaj okuloj de ŝi
+La amiko	vidas kaj komprenas	~를 본다, 그리고 이해한다.	sees and understands	La amiko		vidas kaj komprenas
+La amiko	mi vidas, ke ~	나는 ~라는 것을 본다	I see that ~	La amiko		mi vidas, ke ~
+La amiko	ke li amas ŝin	그가 그녀를 사랑한다는 것을	that he loves her	La amiko		ke li amas ŝin
+En kafejo	ŝi sentis, ke li amas ŝin	그녀는 느꼈다, 그가 그녀를 사랑한다는 것을	she feels that he loves her	En kafejo		ŝi sentis, ke li amas ŝin.
+En kafejo	demandas, ĉu tio estis granda	질문한다, 그것이 커다랐었는지를	asks whether that was big	En kafejo		demandas, ĉu tio estis granda
+En kafejo	pri facila demando	쉬운 질문에 대해서	about an easy question	En kafejo		pri facila demando
+En kafejo	diris pri nova mono	새로운 돈에 대해서 얘기했다	said about a new money	En kafejo		diris pri nova mono
+En kafejo	tre belaj okuloj	매우 아름다운 눈들	very beautiful eyes	En kafejo		tre belaj okuloj
+En kafejo	rigardis la grandan fraton	그 큰 형을 보았다	looked the big brother	En kafejo		rigardis la grandan fraton
+En kafejo	malgranda fratino forgesis ĝin	작은 자매는 그것을 잊어버렸다	a little sister forgot it	En kafejo		malgranda fratino forgesis ĝin
+En kafejo	akuzativo	목적격	an accusative (objective)	En kafejo		akuzativo
+En kafejo	ne forgesu akuzativon	목적격 접미사를 잊지마	don't forget the accusative ending	En kafejo		ne forgesu akuzativon!
+En kafejo	kiun vi vidas?	당신은 어느 누구를 보는가?	whom are you seeing? which one do you see?	En kafejo		kiun vi vidas?
+En kafejo	mi vidas amikon	나는 친구를 본다	I see a friend	En kafejo		mi vidas amikon
+En kafejo	havas bonajn geamikojn	좋은 남녀친구들을 가지고 있다	has good male-and-female friends	En kafejo		havas bonajn geamikojn
+En kafejo	ili laboras pri la malnova domo	그들은 일한다, 그 헌 집에 대해	they are working about the old house	En kafejo		ili laboras pri la malnova domo
+En kafejo	laboras, laboris, laboros	일한다, 일했다, 일할 것이다	works, worked, will work	En kafejo		laboras, laboris, laboros
+En kafejo	vidas, ke mi manĝas	보고 있다, 내가 먹고 있는 것을	sees, that I eat	En kafejo		vidas, ke mi manĝas
+En kafejo	diris, ke li iros	얘기했다, 그가 갈 것이라고	said, that he will go	En kafejo		diris, ke li iros
+En kafejo	malbela kaj malbona	추하고 나쁜	ugly and bad	En kafejo		malbela kaj malbona
+En kafejo	kion ŝi diris?	그녀가 뭘 얘기했는가?	what did she say?	En kafejo		kion ŝi diris?
+En kafejo	kion vi atendas?	너는 무엇을 기다리고 있는가?	what are you waiting for?	En kafejo		kion vi atendas?
+En kafejo	eniris en la ĉambron	그 방안으로 들어갔다	went into the room	En kafejo		eniris en la ĉambron
+En kafejo	enhavo estis tre malfacila	내용이 매우 어려웠다	a content is very difficult	En kafejo		enhavo estis tre malfacila.
+En kafejo	alvenis al la kunsido	그 회의에 도착했다	arrived at the meeting	En kafejo		alvenis al la kunsido
+En kafejo	bonvenon, al la kunveno	환영합니다, 대회에 오신 것을	welcome to the meeting	En kafejo		bonvenon, al la kunveno.
+En kafejo	maljuna viro donis trinkmonon	늙은 남자는 팁을 줬다	an old man gave a tip	En kafejo		maljuna viro donis trinkmonon
+En kafejo	alvenis kaj estis bonvena	도착했고 환영받았다	arrived and was welcomed	En kafejo		alvenis kaj estis bonvena
+En kafejo	ili malamas sed kunlaboras.	그들은 미워하지만, 협동한다	they hate but cooperate	En kafejo		ili malamas sed kunlaboras.
+En kafejo	iris al la hotelo	그 호텔로 갔다	went to the hotel	En kafejo		iris al la hotelo
+En kafejo	havas facilajn lernolibrojn	쉬운 학습서들을 가지고 있다	has easy textbooks	En kafejo		havas facilajn lernolibrojn
+En kafejo	kia estis via patrino?	당신의 어머니는 어떠하였는가?	how was your mother?	En kafejo		kia estis via patrino?
+En kafejo	via malnova hejmo	당신의 옛 집	your old home	En kafejo		via malnova hejmo
+La amiko	kiujn librojn vi legis?	당신은 어느 책들을 읽었는가?	which books did you read?	La amiko		kiujn librojn vi legis?
+La amiko	ĉu ili estis bonaj?	그것들이 좋았는가?	were they good?	La amiko		ĉu ili estis bonaj?
+La amiko	kion faris hieraŭ?	어제 무엇을 했는가?	did what yesterday?	La amiko		kion faris hieraŭ?
+La amiko	en la malgranda ĉambro	그 작은 방 안에서	in the small room	La amiko		en la malgranda ĉambro
+En kafejo	tre longe parolis	꽤 오랫동안 말했다	spoke very long while	En kafejo		tre longe parolis
+En kafejo	antaŭ la lernejo	그 학교 앞에서	in front of the school, before the school	En kafejo		antaŭ la lernejo
+En kafejo	parolis antaŭ la lernejo	그 학교 앞에서 얘기했다	spoke before the school	En kafejo		parolis antaŭ la lernejo
+En kafejo	poste parolis pri la libro	나중에 그 책에 대해서 말했다	later spoke about the book	En kafejo		poste parolis pri la libro
+En kafejo	ĝoje iris al la lernejo	그 학교로 기쁘게 갔다	gladly went to the school	En kafejo		ĝoje iris al la lernejo
+En kafejo	tra la strato	그 거리를 관통하여	through the street	En kafejo		tra la strato
+En kafejo	iris tra la strato	그 거리를 지나갔다	went through the street	En kafejo		iris tra la strato
+En kafejo	estis varma tago	더운 날이었다	was a warm day	En kafejo		estis varma tago
+En kafejo	ili vidis kafejon	그들은 까페를 보았다	they saw a cafe'	En kafejo		ili vidis kafejon
+En kafejo	vidis ruĝajn kukojn	붉은 과자들을 봤다	saw red cookies	En kafejo		vidis ruĝajn kukojn
+En kafejo	vidis kukojn en ĝi	그 안에서 과자들를 보았다	saw cookies in it	En kafejo		vidis kukojn en ĝi
+En kafejo	vidis kafejon kaj en ĝi kukojn	카페를 보았고, 그 속에서 과자들을 (보았다)	saw a cafe' and in it  cookies	En kafejo		vidis kafejon kaj en ĝi kukojn
+En kafejo	eniru kaj manĝu!	들어가라 그리고 먹어라	go in and eat!	En kafejo		eniru kaj manĝu!
+En kafejo	ni eniru kaj manĝu	우리 들어가서 먹자	let's come in and eat	En kafejo		ni eniru kaj manĝu.
+En kafejo	havas sufiĉan monon	충분한 돈을 가지고 있다	has sufficient money	En kafejo		havas sufiĉan monon
+En kafejo	ĉu vi havas sufiĉan monon?	당신은 충분한 돈을 가지고 있나요?	do you have sufficient money?	En kafejo		ĉu vi havas sufiĉan monon?
+Renkonto	ĉu vi komprenas?	당신은 이해하는가?	do you understand?	Renkonto		ĉu vi komprenas?
+Renkonto	kompreneble!	당연히!	of course!	Renkonto		kompreneble! 
+Renkonto	tio ne sufiĉas	그것은 충분하지 않다	that is not enough	Renkonto		tio ne sufiĉas.
+Renkonto	cent dolaroj sufiĉas	백 달러는 충분하다	a hundred dollars is enough	Renkonto		cent dolaroj sufiĉas.
+Renkonto	dolaro, dolaroj, dolarojn	달러, 달러들, 달러들을	a dollar, dollars, dollars (plural objective)	Renkonto		dolaro, dolaroj, dolarojn
+Renkonto	havas cent dolarojn	100 달러를 가지고 있다	has a hundred dollars	Renkonto		havas cent dolarojn
+Renkonto	kompreneble, mi havas	물론 나는 가지고 있다	of course, I have	Renkonto		kompreneble, mi havas
+Renkonto	ho! vi estas riĉa!	오! 너는 부유하구나!	oh! you are rich!	Renkonto		ho! vi estas riĉa!
+Renkonto	kelnero, kelnerino	식당 종업원, 여종업원	a water, an waitress	Renkonto		kelnero, kelnerino
+Renkonto	kelnero portas menuon	식당종업원이 매뉴를 들고 온다	a waiter brings a menu	Renkonto		kelnero portas menuon
+Renkonto	portis tion al ni, alportis tion	그것을 우리에게 가져왔다, 그것을 가져왔다	brought that to us, brought that	Renkonto		portis tion al ni; alportis tion
+Renkonto	kelnero alportis multajn kukojn	식당종업원이 많은 과자를 가져다 줬다	a waiter brought a lot of cookies	Renkonto		kelnero alportis multajn kukojn
+Renkonto	ili manĝis iom	그들은 약간 먹었다	they ate some (a little)	Renkonto		ili manĝis iom
+Renkonto	post la manĝo	그 식사 후에	after the eating (meal)	Renkonto		post la manĝo
+Renkonto	nova, denove	새로운, 다시	new, again	Renkonto		nova, denove
+Renkonto	la kelnero denove venis	그 웨이터가 다시 왔다	the waiter came again	Renkonto		la kelnero denove venis
+Renkonto	en iu loko	어딘가에서	in some place	Renkonto		en iu loko
+Renkonto	serĉis en iu loko	어딘가에서 찾았다	had searched in some place	Renkonto		serĉis en iu loko
+Renkonto	serĉis en alia loko	다른 장소에서 찾았다	searched in other place	Renkonto		serĉis en alia loko
+Renkonto	lia vizaĝo estis ĝoja	그의 얼굴은 기뻤다	his face was joyous	Renkonto		lia vizaĝo estis ĝoja
+Renkonto	ŝi estis malĝoja	그녀는 슬펐다	she was sad	Renkonto		ŝi estis malĝoja
+Renkonto	fine kaj finfine	끝내 그리고 결국	in the end and finally at last	Renkonto		fine kaj finfine
+Renkonto	via forta voĉo	당신의 강한 목소리	your strong voice	Renkonto		via forta voĉo
+Renkonto	en malforta voĉo	약한 목소리로	in weak voice	Renkonto		en malforta voĉo
+Renkonto	ne havas monon	돈을 가지고 있지 않다	doesn't have money	Renkonto		ne havas monon
+Renkonto	kio okazis tie?	거기에서 무엇이 일어났는가?	what did happen there?	Renkonto		kio okazis tie?
+Renkonto	akcidento okazis poste	사건이 그후에 일어났다	an accident happened later	Renkonto		akcidento okazis poste
+Renkonto	ĉu vi scias, kiam ĝi okazis?	당신은 아는가, 그게 언제 발생했는지?	do you know when did it happen?	Renkonto		ĉu vi scias, kiam ĝi okazis?
+Renkonto	scias pri la afero	그 사건에 대해서 안다	knows about the matter	Renkonto		scias pri la afero
+Renkonto	ankoraŭ unu afero restas	아직 한가지가 남아 있다	still one thing remains	Renkonto		ankoraŭ unu afero restas
+Renkonto	vi aŭ ŝi, ajna homo	당신 또는 그녀, 누구든	you or she, any person	Renkonto		vi aŭ ŝi, ajna homo
+Renkonto	kiel kantisto	가수처럼, 가수로서	like a singer, as a signer	Renkonto		kiel kantisto
+Renkonto	kantis kiel profesia kantisto	전문 가수처럼 노래했다	sang like a professional singer	Renkonto		kantis kiel profesia kantisto
+Renkonto	tie, kie ŝi loĝis	거기, 그녀가 살았던 그 곳에	a the place, where she lived	Renkonto		tie kie ŝi loĝis
+Renkonto	kiel vi scias pri la aŭto?	어떻게 당신은 그 차에 대해서 아는가?	how do you know about the car?	Renkonto		kiel vi scias pri la aŭto?
+Renkonto	nu, vidu la rapidan aŭton	음, 그 빠른 차를 보세요	well, look the fast car	Renkonto		nu, vidu la rapidan aŭton.
+Renkonto	suko sen sukero	설탕 없는 주스	a juice without sugar	Renkonto		suko sen sukero
+Renkonto	li havis rapidan veturilon	그는 빠른 탈것(차)을 가졌다	he has a fast vehicle	Renkonto		li havis rapidan veturilon.
+Renkonto	tro forte	너무 강하게	too strongly	Renkonto		tro forte
+Renkonto	li tro forte malfermis	그는 너무 세게 열었다	he opened too hard	Renkonto		li tro forte malfermis
+Renkonto	veturis tro rapide	너무 빠르게 운전했다	drove (traveled) too fast	Renkonto		veturis tro rapide
+Renkonto	manĝis per kulero	숟가락으로 먹었다	ate with a spoon	Renkonto		manĝis per kulero
+Renkonto	ni forte dubas	우리는 강하게 의심한다	we doubt very much	Renkonto		ni forte dubas
+Renkonto	vera letero de li	그로부터 온 진짜 편지	a true letter from him	Renkonto		vera letero de li
+Renkonto	amletero kun kvin fotoj	5장의 사진을 동봉한 연애 편지	a love letter with five photos	Renkonto		amletero kun kvin fotoj
+Renkonto	revenis, revenintoj	되돌아왔다, 되돌아 왔던 사람들	returned, the people who returned	Renkonto		revenis, revenintoj
+Renkonto	ankaŭ ses leteroj revenis	또한 편지 6통이 되돌아왔다	also six letters returned	Renkonto		ankaŭ ses leteroj revenis
+Renkonto	volis vidi la foton	그 사진을 보고 싶어했다	wanted to see the photo	Renkonto		volis vidi la foton
+Renkonto	revenis el la lernejo	그 학교로부터 되돌아왔다	came back from the school	Renkonto		revenis el la lernejo
+Renkonto	kiam revenos la fratino?	그 자매는 언제 되돌아올까요?	when will the sister return?	Renkonto		kiam revenos la fratino?
+Miaj Leteroj	nova, denove	새로운, 다시	new, again	Miaj Leteroj		nova, denove
+Miaj Leteroj	volis legi denove	다시 읽기를 원했다	wanted to read again	Miaj Leteroj		volis legi denove
+Miaj Leteroj	faris, fariĝis	했다 (만들었다), 되었다	made (did), became	Miaj Leteroj		faris, fariĝis
+Miaj Leteroj	rapide fariĝis ruĝa	빠르게 빨갛게 되었다	rapidly became red	Miaj Leteroj		rapide fariĝis ruĝa
+Miaj Leteroj	en ĉambro, en ĉambron	방안에서, 방안으로	in a room, into a room	Miaj Leteroj		en ĉambro, en ĉambron
+Miaj Leteroj	eniris en la ĉambron	방안으로 들어갔다	went into the room	Miaj Leteroj		eniris en la ĉambron
+Miaj Leteroj	staris kaj sidis	서있었다 그리고 앉아있었다	stood and sat	Miaj Leteroj		staris kaj sidis
+Miaj Leteroj	tie staris antaŭ la foto	거기에 서 있었다 사진앞에	there stood in front of the photo	Miaj Leteroj		tie staris antaŭ la foto
+Miaj Leteroj	mi havas tion	나는 그것을 가지고 있다	I have that	Miaj Leteroj		mi havas tion
+Miaj Leteroj	kion vi havas en via mano?	당신 손안에 뭐를 가지고 있나요?	what do you have in your hand?	Miaj Leteroj		kion vi havas en via mano?
+Miaj Leteroj	antaŭ aŭ malantaŭ?	앞의 또는 뒤의?	in front or behind?	Miaj Leteroj		antaŭ aŭ malantaŭ?
+Miaj Leteroj	antaŭ aŭ post?	이전의 혹은 그 후의?	before or after?	Miaj Leteroj		antaŭ aŭ post?
+Miaj Leteroj	tie malantaŭ la pordo	그곳에, 그 문 뒤에 (그 문뒤 그곳에)	there behind the door	Miaj Leteroj		tie malantaŭ la pordo
+Miaj Leteroj	aliaj, aliaj homoj	다른 (복수형), 다른 사람들	others, other people	Miaj Leteroj		aliaj, aliaj homoj
+Miaj Leteroj	leteroj de aliaj	다른 사람들의 편지들	letters from others	Miaj Leteroj		leteroj de aliaj
+Miaj Leteroj	falis el la mano	손에서 떨어졌다	fell out of the hand	Miaj Leteroj		falis el la mano
+Miaj Leteroj	sur la tablo, sur la tablon	그 탁자 위에, 그 탁자 위로	on the table, onto the table	Miaj Leteroj		sur la tablo, sur la tablon
+Miaj Leteroj	ĝi falis sur la tablon	그것은 테이블위로 떨어졌다	it fell on the table	Miaj Leteroj		ĝi falis sur la tablon
+Miaj Leteroj	petis pardonon	용서를 빌었다	asked for pardon	Miaj Leteroj		petis pardonon
+Miaj Leteroj	serĉis kvin librojn	다섯 권의 책을 찾고 있었다	was searching for five books	Miaj Leteroj		serĉis kvin librojn
+Miaj Leteroj	pardonu, mi serĉis mian libron	미안해, 나는 내 책을 찾고 있었어	sorry, I was looking for my book.	Miaj Leteroj		pardonu, mi serĉis mian libron.
+Miaj Leteroj	sed vi bone scias	그러나 당신은 잘 알고 있잖아요	but you know well	Miaj Leteroj		sed vi bone scias.
+Miaj Leteroj	ne estas sur mia tablo	나의 테이블 위에 있지 않다	is not on my table	Miaj Leteroj		ne estas sur mia tablo
+Miaj Leteroj	viaj libroj ne estas sur mia tablo	너의 책들은 내 테이블 위에 없다.	your books are not on my table	Miaj Leteroj		viaj libroj ne estas sur mia tablo
+Miaj Leteroj	ree donis, redonis	다시 주었다, 되돌려 줬다	again gave, returned	Miaj Leteroj		ree donis, redonis
+Miaj Leteroj	redonu la leteron al mi.	그 편지를 나에게 되돌려줘	return the letter to me	Miaj Leteroj		redonu la leteron al mi.
+Miaj Leteroj	ricevis bonan lecionon	좋은 교훈을 얻었다	received a good lesson	Miaj Leteroj		ricevis bonan lecionon
+Miaj Leteroj	plu lavis, ne plu manĝis	더 씻었다, 더이상 먹지 않았다	further washed, ate any more	Miaj Leteroj		plu lavis, ne plu manĝis
+Miaj Leteroj	ne plu legos	더이상 읽지 않을 것이다	will no longer read	Miaj Leteroj		ne plu legos
+Miaj Leteroj	ankaŭ mi ricevis	나도 받았다	I also received	Miaj Leteroj		ankaŭ mi ricevis
+Miaj Leteroj	devas fermi	닫아야 한다	has to close	Miaj Leteroj		devas fermi
+Miaj Leteroj	mi devas bone fermi	나는 잘 닫아야 한다	I have to close well	Miaj Leteroj		mi devas bone fermi
+Miaj Leteroj	bone fermis la pordon	그 문을 잘 닫았다	closed the door tightly	Miaj Leteroj		bone fermis la pordon
+Miaj Leteroj	trankvila, trankviliĝu	고요한, 진정해	calm, calm down	Miaj Leteroj		trankvila, trankviliĝu
+Miaj Leteroj	aŭdis sed ne aŭskultis	들리기는 했으나 듣지는 않았다	heard but did not listen	Miaj Leteroj		aŭdis sed ne aŭskultis
+Miaj Leteroj	aŭdis trankvilan sonon	고요한 소리가 들렸다	heard a calm sound	Miaj Leteroj		aŭdis trankvilan sonon
+Miaj Leteroj	ĉe mi estis kvar poŝoj	나에게 4개의 호주머니들이 있다	at me, there are 4 pockets	Miaj Leteroj		ĉe mi estis kvar poŝoj
+Miaj Leteroj	dek tagoj post la lasta leciono	마지막 과 이후 10일	ten days after the last lesson	Miaj Leteroj		dek tagoj post la lasta leciono
+Miaj Leteroj	inter la du tabloj	그 두 테이블 사이에	between the two tables	Miaj Leteroj		inter la du tabloj
+Miaj Leteroj	tri leteroj, ses paperoj	편지 3통, 종이 6장	three letters, six papers	Miaj Leteroj		tri leteroj, ses paperoj
+Miaj Leteroj	de kapo ĝis piedo	머리에서 발까지	from head to foot	Miaj Leteroj		de kapo ĝis piedo
+Miaj Leteroj	kvar, kvara, kvaropo, kvarono	4, 4번째의, 4인조, 4분의1	four, fourth, a quartet, a quarter	Miaj Leteroj		kvar, kvara, kvaropo, kvarono
+Miaj Leteroj	kien iris la triopo?	그 3인조는 어디로 갔는가?	where did the trio go	Miaj Leteroj		kien iris la triopo?
+Miaj Leteroj	kvin fingroj en ambaŭaj manoj	양 손에 다섯 손가락	five fingers in both hands	Miaj Leteroj		kvin fingroj en ambaŭaj manoj
+Miaj Leteroj	si mem, sia poŝo	자기자신 스스로, 자신의 호주머니	by oneself, one's own pocket	Miaj Leteroj		si mem, sia poŝo
+Miaj Leteroj	meti, kunmeti, kunmetaĵo	두다, 같이 두다, 합성물	put, put together, a compound	Miaj Leteroj		meti, kunmeti, kunmetaĵo
+Miaj Leteroj	metis en sian poŝon	자기자신의 호주머니 속에 두었다	put in one's own pocket	Miaj Leteroj		metis en sian poŝon
+Miaj Leteroj	du cent nacioj en la mondo	세상의 200개의 나라들	two hundred nations in the world	Miaj Leteroj		du cent nacioj en la mondo
+Miaj Leteroj	prenis, forprenis	잡았다(취했다, 택했다), 빼앗아 가버렸다	took, took away	Miaj Leteroj		prenis, forprenis
+Miaj Leteroj	prenis sep el siaj naŭ libroj	자신의 아홉권의 책에서 일곱을 집어들었다	took seven out of his own nine books	Miaj Leteroj		prenis sep el siaj naŭ libroj
+Nova Aŭto	lasi, forlasita	남겨두다, 버려진	to leave, abandoned	Nova Aŭto		lasi, forlasita
+Nova Aŭto	lasu min sola kaj trankvila	나를 혼자 조용히 내버려두세요.	leave me alone and calm	Nova Aŭto		lasu min sola kaj trankvila
+Nova Aŭto	mil ok cent ok dek sep	천 팔백 팔십 칠 (1887)	thousand eight hundred and eighty seven (1887)	Nova Aŭto		mil ok cent ok dek sep 
+Nova Aŭto	taso da teo	한잔의 차	a cup of tea	Nova Aŭto		taso da teo
+Nova Aŭto	oni lavis ok tasojn	누군가가 8개의 컵을 씼었다	somebody washed eight cups	Nova Aŭto		oni lavis ok tasojn
+Nova Aŭto	du mil dek naŭ	이천 십구 (2019)	two thousand nineteen (2019)	Nova Aŭto		du mil dek naŭ
+Nova Aŭto	li lavis sin	그는 자기자신을 씻었다	he washed himself	Nova Aŭto		li lavis sin
+Nova Aŭto	sia korpo, sia propra posedo	자신의 신체, 자기 자신의 소유	one's body, one's own possession	Nova Aŭto		sia korpo, sia propra posedo
+Nova Aŭto	sur la tablo, la kato dormis	테이블 위에서, 그 고양이는 잤다	on the table, the cat slept	Nova Aŭto		sur la tablo, la kato dormis
+Nova Aŭto	la kato saltis sur la tablon	그 고양이는 그 테이블위로 뛰어들었다	the cat jumped onto the table	Nova Aŭto		la kato saltis sur la tablon
+Nova Aŭto	en la halo, en la halon	그 홀 안에서, 그 홀 안으로	in the hall, into the hall	Nova Aŭto		en la halo, en la halon
+Nova Aŭto	enfalis en lian manon	그의 손 안으로 떨어졌다	fell into his hand	Nova Aŭto		enfalis en lian manon
+Nova Aŭto	labori, ellabori	일하다, 공을 들여 일하다	to work, to elaborate	Nova Aŭto		labori, ellabori
+Nova Aŭto	ellabori por tiu libro	그 책에 정성을 들여 끝까지 만들다	to elaborate for that book	Nova Aŭto		ellabori por tiu libro
+Nova Aŭto	scias, scivolas, scivolo	안다, 알고싶어 한다, 호기심	knows, wants to know, curiosity	Nova Aŭto		scias, scivolas, scivolo
+Nova Aŭto	dulingva, dulingveco	2개언어의, 이중언어	bilingual, bilingualism	Nova Aŭto		dulingva, dulingveco
+Nova Aŭto	scivolas pri trilingva lernanto	3개언어 학생에 대해서 궁금해 한다	wonders about a trilingual learner	Nova Aŭto		scivolas pri trilingva lernanto
+Nova Aŭto	iris, reiris	갔다, 되돌아 갔다	went, returned	Nova Aŭto		iris, reiris
+Nova Aŭto	la katoj reiris al siaj domoj	그 고양이들은 자신들의 집으로 되돌아갔다	the cats returned to their (own) homes	Nova Aŭto		la katoj reiris al siaj domoj
+Nova Aŭto	en la sako, en la sakon	가방안에, 가방안으로	in the bag, into the bag	Nova Aŭto		en la sako, en la sakon
+Nova Aŭto	enmetu ĝin en vian sakon	그것을 너의 가방 안에 넣어둬	put it into your bag	Nova Aŭto		enmetu ĝin en vian sakon
+Nova Aŭto	piedo, piediras, piediranto	발, 걸어간다, 보행자	a foot, walks, a pedestrian	Nova Aŭto		piedo, piediras, piediranto
+Nova Aŭto	dek-tage ili piediris	10일간 그들은 걸었다	for ten days, they walked	Nova Aŭto		dek-tage ili piediris
+Nova Aŭto	preni, elpreni	취하다, ~로 부터 선택하여 취하다	to take, to take out	Nova Aŭto		preni, elpreni
+Nova Aŭto	belaj floroj, prenis belajn florojn	아름다운 꽃들, 아름다운 꽃들을 취했다	beautiful flowers, took beautiful flowers	Nova Aŭto		belaj floroj, prenis belajn florojn
+Nova Aŭto	li elprenis nur belajn florojn	그는 아름다운 꽃들만 취했다 골라택했다	he took out only beautiful flowers	Nova Aŭto		li elprenis nur belajn florojn
+Nova Aŭto	malfermis, sed tuj fermis	열었다, 하지만 곧바로 닫았다	opened, but immediately closed	Nova Aŭto		malfermis, sed tuj fermis
+Nova Aŭto	malfermis internacian kunvenon	국제 대회를 개막했다	opened an international meeting	Nova Aŭto		malfermis internacian kunvenon
+Nova Aŭto	eldonis kaj disdonis	출판했고 배포했다	published and distributed	Nova Aŭto		eldonis kaj disdonis
+Nova Aŭto	la eldonisto eldonis dudek tri librojn	그 출판업자는 23권의 책을 출간했다	the publisher published twenty-three books	Nova Aŭto		la eldonisto eldonis dudek tri librojn
+Nova Aŭto	revenis kaj revidis sian filon	되돌아 와서 자신의 아들을 다시 봤다.	returned and saw one's own son again	Nova Aŭto		revenis kaj revidis sian filon
+Nova Aŭto	en la jaro dumil tri	2003년에	in the year two thousand and three (2003)	Nova Aŭto		en la jaro dumil tri
+Nova Aŭto	sinjoro eniris la vendejon	신사는 상점안으로 들어갔다	a gentleman entered (into) the store	Nova Aŭto		sinjoro eniris la vendejon
+Nova Aŭto	la vendejo de aŭtoj	그 자동차들의 상점	the store of cars	Nova Aŭto		la vendejo de aŭtoj
+Nova Aŭto	tie li vidas sinjorinon	거기서 그는 숙녀를 보았다	there he sees a lady	Nova Aŭto		tie li vidas sinjorinon
+Nova Aŭto	karaj gesinjoroj	친애하는 신사숙녀 여러분	dear ladies and gentlemen	Nova Aŭto		karaj gesinjoroj
+Nova Aŭto	tio plaĉis al mi	그것은 나의 맘에 들었다	that pleased me (I like that)	Nova Aŭto		tio plaĉis al mi.
+Nova Aŭto	la sinjorino plaĉis al li	그 숙녀는 그의 맘에 들었다	the lady pleased him (he liked the lady)	Nova Aŭto		la sinjorino plaĉis al li
+Nova Aŭto	vidis la belan sinjorinon	그 아름다운 숙녀를 봤다	saw the beautiful lady	Nova Aŭto		vidis la belan sinjorinon
+Nova Aŭto	kiu plaĉis al li?	누가 그의 맘에 들었는가? (그는 누구를 좋아했는가?)	who pleased him? (whom did he like?)	Nova Aŭto		kiu plaĉis al li?
+Nova Aŭto	la virino, kiu plaĉis al mi	그 여인, 나의 맘에 든	the woman, who pleased me	Nova Aŭto		la virino, kiu plaĉis al mi
+Nova Aŭto	tiu, kiu eniris la domon	그사람, 그 집으로 들어간	the one who entered the house	Nova Aŭto		tiu kiu eniris la domon
+Nova Aŭto	la viro, kiu donacis ĝin	그 남자, 그것을 선물로 준	the man who donated it	Nova Aŭto		la viro, kiu donacis ĝin
+Nova Aŭto	li donacis ringon al lia edzino	그는 그의 아내에게 반지를 선물했다	he gave a ring to his wife	Nova Aŭto		li donacis ringon al lia edzino
+Nova Aŭto	la ringo plaĉis al ŝi	그 반지가 그녀 맘에 들었다	she liked the ring	Nova Aŭto		la ringo plaĉis al ŝi
+Nova Aŭto	la edzino, al kiu la ringo plaĉis	그 아내, 그 반지가 맘에 들었던	the wife who liked the ring	Nova Aŭto		la edzino, al kiu la ringo plaĉis
+Nova Aŭto	vendisto laboras en la vendejo	판매원은 그 상점에서 일한다	a salesman works in the store	Nova Aŭto		vendisto laboras en la vendejo
+Nova Aŭto	vendisto de aŭtoj	자동차들의 판매자	a salesman of cars	Nova Aŭto		vendisto de aŭtoj
+Nova Aŭto	la sinjoro demandis al la vendisto	그 신사는 그 판매자에게 질문했다	the gentleman asked the salesman	Nova Aŭto		la sinjoro demandis al la vendisto
+Nova Aŭto	kiu aŭto plaĉas al vi?	어느 차가 당신 맘에 드나요?	which car do you like?	Nova Aŭto		kiu aŭto plaĉas al vi?
+Aŭto Vendejo	kiun aŭton vi elektos?	어느 차를 당신은 선택할 것인가요?	which car will you choose?	Aŭto Vendejo		kiun aŭton vi elektos?
+Aŭto Vendejo	mi elektis tiun aŭton	나는 저 차를 선택했다	I chose that car	Aŭto Vendejo		mi elektis tiun aŭton
+Aŭto Vendejo	ĝi estas pli bona	그것이 더 좋다	it is better	Aŭto Vendejo		ĝi estas pli bona
+Aŭto Vendejo	pli bona ol ĉi tio	이것 보다 더 좋은	better than this	Aŭto Vendejo		pli bona ol ĉi tio
+Aŭto Vendejo	plej bona el ili	그것들 중에서 가장 좋은	best of them	Aŭto Vendejo		plej bona el ili
+Aŭto Vendejo	estas la plej bona	가장 좋다	is the best	Aŭto Vendejo		estas la plej bona
+Aŭto Vendejo	kiu aŭto estas la plej bona?	어느 자동차가 가장 좋은 것인가?	which car is the best?	Aŭto Vendejo		kiu aŭto estas la plej bona?
+Aŭto Vendejo	tiu ĉi aŭto estas pli bona	이 자동차가 더 좋다	this car is better	Aŭto Vendejo		tiu ĉi aŭto estas pli bona
+Aŭto Vendejo	tiu ĉi estas la plej bona	이것 가장 좋다	this one is the best	Aŭto Vendejo		tiu ĉi estas la plej bona
+Aŭto Vendejo	vidis ĉiujn aŭtojn	모든 자동차를 봤다	saw all the cars	Aŭto Vendejo		vidis ĉiujn aŭtojn
+Aŭto Vendejo	la plej bona el ĉiuj	모든 것들 중에서 가장 좋은	the best of all	Aŭto Vendejo		la plej bona el ĉiuj
+Aŭto Vendejo	ĉu ĝi estas rapida?	그것은 빠른가?	is it fast?	Aŭto Vendejo		ĉu ĝi estas rapida?
+Aŭto Vendejo	pli rapida ol aliaj	다른 것들보다 더 빠르다	faster than others	Aŭto Vendejo		pli rapida ol aliaj
+Aŭto Vendejo	estas ankaŭ forta	또한 강력하다	is also strong	Aŭto Vendejo		estas ankaŭ forta
+Aŭto Vendejo	ho jes, kompreneble!	오, 예. 물론이죠!	oh yes, of course!	Aŭto Vendejo		ho jes, kompreneble!
+Aŭto Vendejo	estas tre forta	매우 강력하다	is very strong	Aŭto Vendejo		estas tre forta
+Aŭto Vendejo	certe ĝi estas forta	확실히 그것은 강력하다	certainly it is strong	Aŭto Vendejo		certe ĝi estas forta
+Aŭto Vendejo	estas ankaŭ multekosta	또한 비싸다	is also expensive	Aŭto Vendejo		estas ankaŭ multekosta
+Aŭto Vendejo	la plej multekosta el ĉiuj	모든 것들 중에서 가장 비싼 것	the most expensive of all	Aŭto Vendejo		la plej multekosta el ĉiuj
+Aŭto Vendejo	malmultekosta sed forta	싸지만 강한	cheap but strong	Aŭto Vendejo		malmultekosta sed forta
+Aŭto Vendejo	bedaŭras kaj bedaŭrindas	애석해 한다 그리고 애석해 할만하다	feels sorry and is pityful (worth feeling sorry)	Aŭto Vendejo		bedaŭras kaj bedaŭrindas
+Aŭto Vendejo	bedaŭrinde mi ne aĉetos	아쉽게도 나는 사지 않을 것입니다	unfortunately I will not buy	Aŭto Vendejo		bedaŭrinde mi ne aĉetos
+Aŭto Vendejo	estas bedaŭrinda afero	애석해 할만한  일이다	is an unfortunate thing	Aŭto Vendejo		estas bedaŭrinda afero
+Aŭto Vendejo	li aĉetis novan aŭton	그는 새 자동차를 샀다	he bought a new car	Aŭto Vendejo		li aĉetis novan aŭton
+Aŭto Vendejo	ĉar mi ne havas monon	왜냐하면 나는 돈이 없기 때문에	because I do not have money	Aŭto Vendejo		ĉar mi ne havas monon
+Aŭto Vendejo	mia malnova aŭto	나의 오래된 자동차	my old car	Aŭto Vendejo		mia malnova aŭto
+Aŭto Vendejo	la plej malmultekosta el ĉiuj	모든 것들 중에서 가장 싼 것	the cheapest of all	Aŭto Vendejo		la plej malmultekosta el ĉiuj
+Aŭto Vendejo	mi veturos tien	나는 거기에 자를 타고 갈 것이다	I'll drive there	Aŭto Vendejo		mi veturos tien
+Aŭto Vendejo	ankoraŭ veturos per ĝi	여전히 그것을 몰 것이다	will still drive with it	Aŭto Vendejo		ankoraŭ veturos per ĝi
+Aŭto Vendejo	dum la tuta tago	하루 종일	all day long	Aŭto Vendejo		dum la tuta tago
+Aŭto Vendejo	dum li diris tion	그가 그것을 말하는 동안	while he said that	Aŭto Vendejo		dum li diris tion
+Aŭto Vendejo	li denove rigardis ŝin	그는 다시 그녀를 보았다	he looked at her again	Aŭto Vendejo		li denove rigardis ŝin
+Aŭto Vendejo	sed la vendisto diris	그러나 그 판매원은 말했다	but the salesman said	Aŭto Vendejo		sed la vendisto diris
+Aŭto Vendejo	estus pli bone, ke ~	~하는 것이 더 좋을 것 같다	it would be better that ~	Aŭto Vendejo		estus pli bone, ke ~
+Aŭto Vendejo	rigardu tiun ĉi sinjorinon	이 숙녀를 보아라	look at this lady	Aŭto Vendejo		rigardu tiun ĉi sinjorinon
+Aŭto Vendejo	ankaŭ tio estas tre multekosta	그것 역시 매우 비싸다	that is also very expensive	Aŭto Vendejo		ankaŭ tio estas tre multekosta
+Aŭto Vendejo	mi estas ŝia edzo	나는 그녀의 남편이다	I am her husband	Aŭto Vendejo		mi estas ŝia edzo
+Aŭto Vendejo	kiom via vojaĝo kostis?	당신의 여행의 비용이 얼마나 되었나요?	how much did your trip cost?	Aŭto Vendejo		kiom via vojaĝo kostis?
+Aŭto Vendejo	aŭskultu la kanton de via edzino	당신의 아내의 노래를 들으세요	listen to your wife's song	Aŭto Vendejo		aŭskultu la kanton de via edzino
+Aŭto Vendejo	ne forgesu, ke ĝi tre multe kostas	그게 매우 비용이 높다는 것을 잊지 마세요	don’t forget that it costs a lot	Aŭto Vendejo		ne forgesu, ke ĝi tre multe kostas
+Aŭto Vendejo	li helpis la vendiston dum du horoj	그는2시간 동안 그 판매원을 도왔다	he helped the salesman for two hours	Aŭto Vendejo		li helpis la vendiston dum du horoj
+Aŭto Vendejo	jam pli ol tri jaroj	이미 3년도 넘게	for more than three years	Aŭto Vendejo		jam pli ol tri jaroj
+Aŭto Vendejo	kovri, kovrilo, malkovri	덮다, 덮개/뚜껑, 들춰내다/밝혀내다	cover, cover, uncover (discover)	Aŭto Vendejo		kovri, kovrilo, malkovri
+Aŭto Vendejo	la kialon li ankoraŭ ne malkovris	그 이유를 그는 아직 밝혀내지 못했다	the reason he has not yet discovered	Aŭto Vendejo		la kialon li ankoraŭ ne malkovris
+Aŭto Vendejo	kial vi komencis sendi leterojn?	당신은 왜 편지들을 보내기 시작했습니까?	why did you start sending letters?	Aŭto Vendejo		kial vi komencis sendi leterojn?
+Aŭto Vendejo	dum ok monatoj li vivis tie	8개월 동안 그는 거기에서 살았다	for eight months he lived there	Aŭto Vendejo		dum ok monatoj li vivis tie
+Aŭto Vendejo	ne havis tempon por aŭskulti	들을 시간이 없었다	didn't have time to listen	Aŭto Vendejo		ne havis tempon por aŭskulti
+Aŭto Vendejo	la aŭto estis jam plena	그 차는 이미 꽉 차 있었다	the car was already full	Aŭto Vendejo		la aŭto estis jam plena
+Aŭto Vendejo	kion vi manĝas?	당신은 무엇을 먹는가?	what are you eating	Aŭto Vendejo		kion vi manĝas?
+Aŭto Vendejo	kia estas la vetero?	날씨가 어떠한가?	what's the weather like?	Aŭto Vendejo		kia estas la vetero?
+Nova Aŭto	kian aŭton vi havas?	어떤 자동차를 당신은 가지고 있는가?	what kind of car do you have?	Nova Aŭto		kian aŭton vi havas?
+Nova Aŭto	kiaj estis ŝiaj leteroj?	그녀의 편지들이 어떠했는가?	what were her letters like?	Nova Aŭto		kiaj estis ŝiaj leteroj?
+Nova Aŭto	kie ni estas?	우리는 어디에 있는가?	where are we?	Nova Aŭto		kie ni estas?
+Nova Aŭto	kien vi iras?	당신은 어디를 향해 가는가?	kien vi iras?	Nova Aŭto		kien vi iras?
+Nova Aŭto	al kiu vi donis ĝin?	누구에게 당신은 그것을 줬는가?	to whom did you give it?	Nova Aŭto		al kiu vi donis ĝin?
+Nova Aŭto	la viro, kun kiu vi vojaĝis	당신이 같이 여행했던 그 남자	the man whom you traveled with	Nova Aŭto		la viro, kun kiu vi vojaĝis
+Nova Aŭto	pli granda ol la aŭto	그 자동차보다 더 큰	bigger than the car	Nova Aŭto		pli granda ol la aŭto
+Nova Aŭto	la plej alta el tiuj homoj	그 사람들 중에서 가장 키가 큰	the tallest of those people	Nova Aŭto		la plej alta el tiuj homoj
+Nova Aŭto	li sidis dum la manĝo	그는 그 식사 중에 앉아 있었다	he was sitting at dinner	Nova Aŭto		li sidis dum la manĝo
+Nova Aŭto	ŝi skribas dum li legas	그가 읽고 있는 동안 그녀는 쓴다	she writes while he reads.	Nova Aŭto		ŝi skribas dum li legas.
+Nova Aŭto	ĉi tie, en ĉi tiu ĉambro	여기에, 이 방안에서	here, in this room	Nova Aŭto		ĉi tie, en ĉi tiu ĉambro
+Nova Aŭto	tiu ĉi sinjoro	이 신사분	this gentleman	Nova Aŭto		tiu ĉi sinjoro
+Nova Aŭto	aŭskultinda novaĵo	들어볼 만한 뉴스	a news worth listening	Nova Aŭto		aŭskultinda novaĵo
+Nova Aŭto	la libro estas vere leginda	그 책은 진짜 읽을 만하다	the book is really worth reading	Nova Aŭto		la libro estas vere leginda
+Nova Aŭto	bedaŭra afero	걱정스러운 일	an unfortunate thing	Nova Aŭto		bedaŭra afero
+Nova Aŭto	bedaŭrinde, mi ne povas	불행히도, 나는 할 수 없어요	unfortunately, I can't	Nova Aŭto		bedaŭrinde, mi ne povas
+Nova Aŭto	nedankinde. estis mia plezuro	전혀요. 저의 즐거움이었습니다	you are welcome. it was my pleasure	Nova Aŭto		nedankinde. estis mia plezuro
+Nova Aŭto	eta belulino ege belas	작은 미인은 매우 아름답다	small pretty girl is very beautiful	Nova Aŭto		eta belulino ege belas
+Nova Aŭto	ĉiuj amikoj amas ŝin	모든 친구들은 그녀를 사랑한다	all friends love her	Nova Aŭto		ĉiuj amikoj amas ŝin
+Nova Aŭto	antaŭ tri monatoj	3개월 전에	three months ago	Nova Aŭto		antaŭ tri monatoj
+Nova Aŭto	okazis malbono al ŝi	그녀에게 안 좋은 것이 발생했다	something bad happened to her	Nova Aŭto		okazis malbono al ŝi
+Nova Aŭto	ŝi falis pro aŭto	자동차 때문에 그녀가 넘어졌다	she fell because of a car	Nova Aŭto		ŝi falis pro aŭto
+Nova Aŭto	malsaniĝis kaj temperaturo altiĝis	건강이 나빠졌고, 온도가 높아졌다	became ill and temperature rose	Nova Aŭto		malsaniĝis kaj temperaturo altiĝis
+Nova Aŭto	patrino diris, ke ŝi devas ripozi	어머니는 그녀가 쉬어야 한다고 얘기했다	mother said she should rest	Nova Aŭto		patrino diris, ke ŝi devas ripozi
+Nova Aŭto	ŝi devas resti hejme	그녀는 집에 머물러 있어야 한다	she has to stay home	Nova Aŭto		ŝi devas resti hejme
+Nova Aŭto	ŝi vokos doktoron	그녀는 의사를 부를 것이다	she will call a doctor	Nova Aŭto		ŝi vokos doktoron
+Nova Aŭto	je la naŭa horo	9시에	at nine o'clock	Nova Aŭto		je la naŭa horo
+Nova Aŭto	matene venis je la oka	아침에 8시에 왔다	in the morning came at eight o'clock	Nova Aŭto		matene venis je la oka
+Nova Aŭto	je la sepa morgaŭ vespere	내일 저녁 7시에	at seven tomorrow evening	Nova Aŭto		je la sepa morgaŭ vespere
+Nova Aŭto	montris liajn manojn	그의 손을 보여줬다	showed his hands	Nova Aŭto		montris liajn manojn
+Nova Aŭto	vesto, vestiĝas	옷, 옷을 입는다	dress, is getting dressed	Nova Aŭto		vesto, vestiĝas
+Nova Aŭto	vestiĝu kaj varmigu vian korpon	옷을 입고, 당신의 몸을 따뜻하게하세요	get dressed and warm your body	Nova Aŭto		vestiĝu kaj varmigu vian korpon
+Nova Aŭto	hejme tuj malvestis kaj duŝis	집에서 즉시 옷을 벗고 샤워를 했다	at home immediately undressed and showered	Nova Aŭto		hejme tuj malvestis kaj duŝis
+Nova Aŭto	doktoro rigardis ĉion	의사가 전부를 살펴봤다	a doctor looked at everything	Nova Aŭto		doktoro rigardis ĉion
+Nova Aŭto	bone rigardis kaj fine diris	잘 살펴보았고, 끝내 말했다	looked throughly and finally said	Nova Aŭto		bone rigardis kaj fine diris
+Nova Aŭto	unu semajnon restu hejme	한주간 집에 머물러라	stay home for a week	Nova Aŭto		unu semajnon restu hejme
+Nova Aŭto	deziras, ke vi estu trankvila	당신이 고요하기를 바란다	wants you to be calm	Nova Aŭto		deziras, ke vi estu trankvila
+Nova Aŭto	post unu semajno	1주일 후에	after one week	Nova Aŭto		post unu semajno
+Nova Aŭto	vi fartos pli bone	당신은 더 잘 지낼 것이다	you will feel better	Nova Aŭto		vi fartos pli bone
+Nova Aŭto	trinku multe da teo	차를 많이 마셔라	drink plenty of tea	Nova Aŭto		trinku multe da teo
+Nova Aŭto	venos por revidi vin	당신을 다시보기 위해 올 것이다	will come to see you again	Nova Aŭto		venos por revidi vin
+Nova Aŭto	ankaŭ li estu trankvila	그도 역시 조용히 있도록 하라	let him be calm too	Nova Aŭto		ankaŭ li estu trankvila
+Nova Aŭto	sana homo, sanulo	건강한 사람, 건강인	healthy man, healthy person	Nova Aŭto		sana homo, sanulo
+Nova Aŭto	zorgis pri si mem	자기 자신에 대해서 스스로 돌봤다	took care of oneself	Nova Aŭto		zorgis pri si mem
+Nova Aŭto	tuta afero tuje utilis al mi	그모든 것들은 즉시 나에게 유용했다	the whole thing was useful to me at once	Nova Aŭto		tuta afero tuje utilis al mi
+Nova Aŭto	rimarkis, ke teruraĵo proksimas	끔찍한 것이 가깝다는 것을 알아챘다	noticed that horrible thing is near	Nova Aŭto		rimarkis, ke teruraĵo proksimas
+Nova Aŭto	petis tuj rimarki ĝin	즉시 그것에 주목해 달라고 요청했다	asked to notice it immediately	Nova Aŭto		petis tuj rimarki ĝin
+Nova Aŭto	pensis, ke tio ne necesas	그것은 필요 없다고 생각했다	thought that was not necessary	Nova Aŭto		pensis, ke tio ne necesas
+Nova Aŭto	loĝis proksime, kaj tio utilis	가까이에 살았고, 그게 유용했다	lived nearby, and that was useful	Nova Aŭto		loĝis proksime, kaj tio utilis
+Nova Aŭto	nia lando hodiaŭ teruriĝis	우리 나라는 오늘 끔찍해졌다	our country became terrified today	Nova Aŭto		nia lando hodiaŭ teruriĝis
+Maja	karaj infanoj el ĉiuj familioj	모든 가정의 친애하는 어린이들	dear children from all families	Maja		karaj infanoj el ĉiuj familioj
+Maja	unu fojon hieraŭ, du fojojn morgaŭ	어제 한번, 내일 두번	once yesterday, twice tomorrow	Maja		unu fojon hieraŭ, du fojojn morgaŭ
+Maja	hodiaŭ familioj bezonas infanojn	오늘날 가족들은 어린이들을 필요로 한다	today families need children	Maja		hodiaŭ familioj bezonas infanojn
+Maja	esperis, ke li fartos bone morgaŭ	내일 잘 지내기를 희망했다	hoped he would be well tomorrow	Maja		esperis, ke li fartos bone morgaŭ
+Maja	li fartis ege trankvila	그는 매우 고요하게 지냈다	he was feeling (has been) very calm	Maja		li fartis ege trankvila
+Maja	tri etuloj altigis la monton	세명의 소인들이 그 산을 높게 만들었다.	three little ones raised the mountain	Maja		tri etuloj altigis la monton
+Maja	gravuloj ne petis helpon	주요인물들은 도움을 요청하지 않았다	important people did not ask for help	Maja		gravuloj ne petis helpon
+Maja	piediris tien por helpi	돕기 위해서 그곳에 걸어갔다	walked there to help	Maja		piediris tien por helpi
+Maja	restu hejme se temperaturo altas	온도가 높으면, 집에 머무르세요	stay home if temperature is high	Maja		restu hejme se temperaturo altas
+Maja	temperaturo restis simila hodiaŭ	온도는 오늘도 비슷하게 유지되었다	temperature remained similar today	Maja		temperaturo restis simila hodiaŭ
+Maja	voku la doktoron je la naŭa	아홉시에 의사를 부르세요	call the doctor at nine	Maja		voku la doktoron je la naŭa
+Maja	montru ĝin al via doktoro	그것을 당신의 의사에게 보여주세요	show it to your doctor	Maja		montru ĝin al via doktoro
+Maja	por montri vian piedon	당신의 발을 보여주기 위해서	to show your foot	Maja		por montri vian piedon
+Maja	vestu ĉi tiun ĉemizon	이 셔츠를 입으세요	wear this shirt	Maja		vestu ĉi tiun ĉemizon
+Maja	semajnfine ĉio trankviliĝos	주말에 모든 것이 고요해질 것이다	on the weekend everything will calm down	Maja		semajnfine ĉio trankviliĝos
+Maja	sub la te-taso kion vi trovis?	그 찻잔 아래에 뭘 발견했나요?	under the tea-cup what did you find?	Maja		sub la te-taso kion vi trovis?
+Maja	mi deziras matenan teon	나는 아침의 차를 원한다	I want morning tea	Maja		mi deziras matenan teon
+Maja	esperis trankvilan vesperon	고요한 저녁을 희망했다	hoped for a quiet evening	Maja		esperis trankvilan vesperon
+Maja	deziras, ke vi lernu	당신이 배우기를 바란다	wants that you learn	Maja		deziras, ke vi lernu
+Maja	insistis, ke mi iru	내가 가라고 주장했다	insisted that I go	Maja		insistis, ke mi iru
+Maja	je kioma horo?	몇시에?	at what hour?	Maja		je kioma horo?
+Maja	je kvina horo	다섯시에	at five o'clock	Maja		je kvina horo
+Maja	je la sesa, li venos	여섯시에 그는 올 것이다	at six he will come	Maja		je la sesa, li venos
+Maja	la libreto estis ĉarma	그 소책자는 매력적이었다	the libretto was charming	Maja		la libreto estis ĉarma
+Maja	venos por revidi vin	당신을 다시 보기 위해 올 것이다	will come to see you again	Maja		venos por revidi vin
+Maja	estu trankvila	고요하게 있으라	be quiet	Maja		estu trankvila
+Maja	li estu trankvila	그 사람으로 하여금, 고요하게 있도록 하라	let him be quiet	Maja		li estu trankvila
+Maja	ankaŭ li	그도 역시	he too	Maja		ankaŭ li
+Maja	mi deziras	나는 원한다 (dzr)	I want (desire)	Maja		mi deziras
+Maja	mi deziras, ke ~	나는 ~하기를 원한다	I wish (desire) that ~	Maja		mi deziras, ke ~
+Maja	ke vi lernu	너가 배우기를	that you learn	Maja		ke vi lernu
+Maja	mi deziras, ke vi lernu	나는 너가 배우기를 원한다	I want you to learn	Maja		mi deziras, ke vi lernu
+Maja	patro insistas	아버지는 고집한다	father insists	Maja		patro insistas
+Maja	patro insistas, ke ~	아버지는 ~라고 고집한다	father insists that ~	Maja		patro insistas, ke ~
+Maja	ke mi iru	내가 가기를	that I go	Maja		ke mi iru
+Maja	patro insistas, ke mi iru	아버지는 내가 가라고 고집한다	father insists that I go	Maja		patro insistas, ke mi iru
+Maja	je kioma horo	몇 시에	at what hour	Maja		je kioma horo
+Maja	je kioma horo vi venos?	몇시에 너는 올 것인가?	what time do you come?	Maja		je kioma horo vi venos?
+Maja	je la kvina	5시에	at five (o'clock)	Maja		je la kvina
+Maja	je la kvina horo	다섯시에	at five o'clock	Maja		je la kvina horo
+Maja	kiel li fartas?	그는 어떻게 지내십니까?	how does he doing?	Maja		kiel li fartas?
+Maja	kiel vi fartis lastatempe?	최근에 당신은 어떻게 지냈습니까? (인사)	how have you been lately?	Maja		kiel vi fartis lastatempe?
+Maja	etaj libroj belas	작은 책들은 아름답다	little books are beautiful	Maja		etaj libroj belas
+Maja	libreto, belaj libroj	소책자, 아름다운 책들	a booklet, beautiful books	Maja		libreto, belaj libroj
+Maja	bela, beleta, belega	아름다운, 약간 아름다운, 매우 아름다운	beautiful, a little pretty, very beautiful	Maja		bela, beleta, belega
+Maja	varma, varmeta, varmega	따뜻한, 약간 따뜻한, 매우 뜨거운	warm, lukewarm, very hot	Maja		varma, varmeta, varmega
+Maja	librego, libreto	큰 책, 소책자	a big book, a booklet	Maja		librego, libreto
+Maja	bona, bonega, bonege	좋은, 아주 좋은/아주 훌륭한, 훌륭하게	good, great, well	Maja		bona, bonega, bonege
+Maja	riĉa, riĉiĝi, riĉulo	부유한, 부유하게되다, 부자	rich, become rich, a rich person	Maja		riĉa, riĉiĝi, riĉulo
+Maja	trankvila, trankviliĝi, trankviliĝu	고요한, 고요하고 평온하게 되다, 평정심을 유지하라	calm, to calm down, calm down	Maja		trankvila, trankviliĝi, trankviliĝu
+ĉiam malfrue	sana, resaniĝi, resaniĝis	건강한, 회복되다, 회복되었다	healthy, to become healed, became healed	ĉiam malfrue		sana, resaniĝi, resaniĝis
+ĉiam malfrue	edzo, edziĝo, geedziĝis	남편, 결혼, 장가가다(결혼하다)	a husband, marriage, married	ĉiam malfrue		edzo, edziĝo, geedziĝis
+ĉiam malfrue	leterportisto	편지 배달꾼 (우체부)	a letter postman	ĉiam malfrue		leterportisto
+ĉiam malfrue	hejmlando	조국, 고국	a homeland	ĉiam malfrue		hejmlando
+ĉiam malfrue	iom, iomete	약간, 아주 약간	somewhat, a little	ĉiam malfrue		iom, iomete
+ĉiam malfrue	ni bonege vespermanĝis	우리는 아주 좋게 저녁을 먹었다	we had a great dinner	ĉiam malfrue		ni bonege vespermanĝis
+ĉiam malfrue	espereble, prizorgu vin	희망하기를, 당신 자신을 돌보세요	hopefully, take care of yourself	ĉiam malfrue		espereble, prizorgu vin
+ĉiam malfrue	mi zorgis pri la altkvalita loĝejo	나는 그 고품격의 숙소를 돌봤다	I cared about the high-quality housing	ĉiam malfrue		mi zorgis pri la altkvalita loĝejo
+ĉiam malfrue	pripensu dufoje, multfoje	두번, 여러번 생각해 봐라	think twice, many times	ĉiam malfrue		pripensu dufoje, multfoje
+ĉiam malfrue	kiu deprenis la libreton?	누가 그 책을 떼어 냈는가?	who took down the booklet?	ĉiam malfrue		kiu deprenis la libreton?
+ĉiam malfrue	kato, kiu nomiĝas Cezaro	시저라고 이름붙은 고양이	a cat named Caesar	ĉiam malfrue		kato, kiu nomiĝas Cezaro
+ĉiam malfrue	kuko, kiu estas sur la tablo	테이블 위에 있는 과자	a cake which is on the table	ĉiam malfrue		kuko, kiu estas sur la tablo
+ĉiam malfrue	manĝu kukon, kiu estas sur la tablo	테이블 위에 있는 과자를 먹어라	eat a cake that is on the table	ĉiam malfrue		manĝu kukon, kiu estas sur la tablo
+ĉiam malfrue	fariĝis varmega kaj ruĝiĝis	아주 뜨거워 졌고, 빨개 졌다	became hot and blushed	ĉiam malfrue		fariĝis varmega kaj ruĝiĝis
+ĉiam malfrue	patro volas, ke lia infano manĝu	아버지는 원했다, 그의 아기가 먹기를	a father wants his child to eat	ĉiam malfrue		patro volas, ke lia infano manĝu
+ĉiam malfrue	en malgranda ĉambro	작은 방에서	in a small room	ĉiam malfrue		en malgranda ĉambro
+ĉiam malfrue	ni loĝas en ~	우리는 ~에서 살고 있다	we live in ~	ĉiam malfrue		ni loĝas en ~
+ĉiam malfrue	mi fariĝis maltrankvila	나는 불안해졌다	I became anxious	ĉiam malfrue		mi fariĝis maltrankvila
+ĉiam malfrue	tiam, kiam mi vidis vin	내가 당신을 본 그 때	at that time when I saw you	ĉiam malfrue		tiam, kiam mi vidis vin
+ĉiam malfrue	ĉiuj rimarkis tion	모든 사람들이 그것을 알아차렸다	everyone noticed that	ĉiam malfrue		ĉiuj rimarkis tion
+ĉiam malfrue	tion, ke ŝi estas belega	그 것을, 그녀가 매우 아름답다는 (그것을)	the fact that she is beautiful	ĉiam malfrue		tion, ke ŝi estas belega
+ĉiam malfrue	ĉu vi deziras, ke ~ ?	당신은 ~ 하는 것을 원하는가?	do you want that ~ ?	ĉiam malfrue		ĉu vi deziras, ke ~ ?
+ĉiam malfrue	ke mi montru al vi	내가 당신에게 보여주기를	that I may show you	ĉiam malfrue		ke mi montru al vi
+ĉiam malfrue	ĉu vi deziras, ke mi montru?	당신은 내가 보여주기를 원하는가?	do you want me to show?	ĉiam malfrue		ĉu vi deziras, ke mi montru?
+ĉiam malfrue	mian plej novan libron	나의 가장 새로운 책을	my newest book (objective)	ĉiam malfrue		mian plej novan libron
+ĉiam malfrue	morgaŭ matene, kion vi volas?	내일 아침에, 당신은 무엇을 원하시나요?	tomorrow morning, what do you want?	ĉiam malfrue		morgaŭ matene, kion vi volas?
+ĉiam malfrue	matenmanĝis malfrue	늦게 아침식사를 했다	had breakfast late	ĉiam malfrue		matenmanĝis malfrue
+ĉiam malfrue	kiam Marko alvenos?	마르코는 언제 도착할까요?	when will Mark arrive?	ĉiam malfrue		kiam Marko alvenos?
+ĉiam malfrue	je la kvina aŭ je la oka horo	5시 또는 8시에 	at five or eight o'clock	ĉiam malfrue		je la kvina aŭ je la oka horo
+ĉiam malfrue	kiam vi rimarkis, ke ~ ?	언제 당신은 ~라는 것을 눈치챘나요?	when did you notice that ~ ?	ĉiam malfrue		kiam vi rimarkis, ke ~ ?
+ĉiam malfrue	la tuta familio nomas min bonfarulo	온 가족이 나를 후원자라고 부릅니다	the whole family calls me a benefactor	ĉiam malfrue		la tuta familio nomas min bonfarulo
+ĉiam malfrue	utila por vi	당신에게 유용한	useful for you	ĉiam malfrue		utila por vi
+ĉiam malfrue	ĉu la libreto estis utila?	그 소책자가 유용했었나요?	was the booklet useful?	ĉiam malfrue		ĉu la libreto estis utila?
+ĉiam malfrue	tiu libreto, kiun mi sendis	그 소책자, 내가 보냈던 그	the booklet, which I sent	ĉiam malfrue		tiu libreto, kiun mi sendis
+ĉiam malfrue	matene dormis tre longe	아침에 매우 길게 잠을 잤다	in the morning slept for a long time	ĉiam malfrue		matene dormis tre longe
+ĉiam malfrue	kiam li vidis la sunon	그가 태양을 보았을 때	when he saw the sun	ĉiam malfrue		kiam li vidis la sunon
+ĉiam malfrue	subite li eksaltis	갑자기 그는 뛰었다	suddenly he jumped up	ĉiam malfrue		subite li eksaltis
+ĉiam malfrue	li estis ĉiam frua	그는 항상 일찍이었다	he was always early	ĉiam malfrue		li estis ĉiam frua
+ĉiam malfrue	ĉiam li malfruas	항상 그는 늦는다	he is always late	ĉiam malfrue		ĉiam li malfruas
+ĉiam malfrue	tiam, kiam li devas iri	그때, 그가 가야만 하는 (그때)	at that time, when he has to go	ĉiam malfrue		tiam, kiam li devas iri
+ĉiam malfrue	iri al la lernejo	학교로 가다	to go to the school	ĉiam malfrue		iri al la lernejo
+ĉiam malfrue	li scias, ke ~	그는 ~ 하는 것을 안다	he knows, that ~	ĉiam malfrue		li scias, ke ~
+ĉiam malfrue	li scias tion, ke ~	그는 ~ 하다는 사실을 안다	he knows the fact, that ~	ĉiam malfrue		li scias tion, ke ~
+ĉiam malfrue	tion, ke la instruisto malŝatas abelon	그것을, 선생님이 벌을 싫어한다는 (그사실을)	the fact that the teacher hates bees	ĉiam malfrue		tion, ke la instruisto malŝatas abelon
+ĉiam malfrue	scias tion, ke la instruisto malŝatas abelon	그것을 안다, 선생님이 벌을 싫어한다는 것을	knows the fact that the teacher hates bees	ĉiam malfrue		scias tion, ke la instruisto malŝatas abelon
+ĉiam malfrue	scias, ke la instruisto malŝatas tion	안다, 선생님이 그것을 싫어한다는 것을	knows that the teacher hates that	ĉiam malfrue		scias, ke la instruisto malŝatas tion
+ĉiam malfrue	sed hodiaŭ li trinkis la kafon	그러나 오늘 그는 커피를 마셨다	but today he drank the coffee	ĉiam malfrue		sed hodiaŭ li trinkis la kafon
+ĉiam malfrue	li rapide surmetas la vestaĵon	그는 재빨리 옷을 입는다	he quickly puts on the clothes	ĉiam malfrue		li rapide surmetas la vestaĵon
+ĉiam malfrue	li ne volas malfrui	그는 늦고 싶지가 않다	he doesn't want to be late	ĉiam malfrue		li ne volas malfrui
+ĉiam malfrue	rapidege kun la libroj en la mano	책을 손에 들고 매우 빠르게	very quickly with the books in hand	ĉiam malfrue		rapidege kun la libroj en la mano
+ĉiam malfrue	poste li kuris kaj saltis	그 후에 그는 달리고 뛰었다	later he ran and jumped	ĉiam malfrue		poste li kuris kaj saltis
+la strato	li kuris kaj saltis	그는 달렸고 뛰었다	he ran and jumped	la strato		li kuris kaj saltis
+la strato	laŭ la strato	거리를 따라서	along the street	la strato		laŭ la strato
+la strato	la homoj rigardis lin	그 사람들이 그를 보았다	the people looked at him	la strato		la homoj rigardis lin
+la strato	rigardis lin kaj diris	그를 보았고 말했다	looked at him and said	la strato		rigardis lin kaj diris
+la strato	saĝa kaj malsaĝa	현명한 그리고 바보같은	wise and foolish	la strato		saĝa kaj malsaĝa
+la strato	kia malsaĝa knabo!	멍청한 녀석 같으니라고!	what a foolish boy!	la strato		kia malsaĝa knabo!
+la strato	estis antaŭ lernejo	학교 앞에 있었다	was in front of a school	la strato		estis antaŭ lernejo
+la strato	baldaŭ	머지않아	soon	la strato		baldaŭ
+la strato	li estis antaŭ ~	그는 ~ 앞에 있었다	he was in front of ~	la strato		li estis antaŭ ~
+la strato	iri kaj eniri	가다 그리고 들어가다	to go and to enter	la strato		iri kaj eniri
+la strato	li volis eniri	그는 들어가고 싶어했다	he wanted to enter	la strato		li volis eniri
+la strato	eniri la lernejon	그 학교 안으로 들어가다	to enter into the school	la strato		eniri la lernejon
+la strato	sed tamen	그러나 하지만	but however	la strato		sed tamen
+la strato	sed li ne povis	그러나 그는 할수가 없었다	but he couldn't	la strato		sed li ne povis
+la strato	fermi kaj fermita	닫다 그리고 닫힌	to close and closed	la strato		fermi kaj fermita
+la strato	ĝi estis fermita	그것은 닫혀 있었다	it was closed	la strato		ĝi estis fermita
+la strato	nek ~ nek ~	~도 아니고 ~도 아닌	neither ~ nor ~	la strato		nek ~ nek ~
+la strato	nek instruisto nek gelernantoj	선생님도 (아니/없고) 남녀학생들도 (아니/없는)	neither a teacher nor male-and-female students	la strato		nek instruisto nek gelernantoj
+la strato	vidis nek instruiston nek gelernantojn	선생님도 못봤고, 학생들도 못봤다	saw neither a teacher nor students	la strato		vidis nek instruiston nek gelernantojn
+la strato	sidi kaj eksidi	앉아있다 그리고 앉는다	to sit and to get sitted	la strato		sidi kaj eksidi
+la strato	eksidis	앉았다	got seated (had seated)	la strato		eksidis
+la strato	li eksidis	그는 앉았다	he got seated	la strato		li eksidis
+la strato	antaŭ la lernejo	그 학교 앞에	in front of the school	la strato		antaŭ la lernejo
+la strato	kaj pensis	그리고 생각했다	and thought	la strato		kaj pensis
+la strato	kio okazis?	무엇이 일어났을까?	what did happen?	la strato		kio okazis?
+la strato	diable	끔찍하게 (악마처럼)	to the awful (like a devil)	la strato		diable
+la strato	damne	제기랄	dam it	la strato		damne
+la strato	memoras	기억한다	remembers	la strato		memoras
+la strato	nun mi memoras	나는 지금 기억한다	now I remember	la strato		nun mi memoras
+la strato	dimanĉo	일요일	Sunday	la strato		dimanĉo
+la strato	hodiaŭ estas ~	오늘은 ~ 이다	today is ~	la strato		hodiaŭ estas ~
+la strato	hodiaŭ estas dimanĉo	오늘은 일요일이다	today is Sunday	la strato		hodiaŭ estas dimanĉo
+la strato	dormi kaj ekdormi	잠자다 그리고 잠에들다	to sleep and to get into sleep	la strato		dormi kaj ekdormi
+la strato	suno kaj luno	태양과 달	a sun and a moon	la strato		suno kaj luno
+la strato	subita kaj subite	갑작스런 그리고 갑자기	sudden and suddenly	la strato		subita kaj subite
+la strato	ek!	자! (시작)	off! (to start)	la strato		ek!
+la strato	salti kaj eksaltis	점프하다 그리고 펄쩍 점프했다	to jump and jumped 	la strato		salti kaj eksaltis
+la strato	ĉiam frua	항상 일찍인	always early	la strato		ĉiam frua
+la strato	hodiaŭ metis kaj kuris	오늘 두었고 그리고 뛰었다	today put and ran	la strato		hodiaŭ metis kaj kuris
+la strato	aĵo, ne aĝo	물건, 나이 말고	a thing not age	la strato		aĵo, ne aĝo
+la strato	kuris laŭ homoj saĝaj	현명한 사람들과 같이 달렸다	ran along wise people	la strato		kuris laŭ homoj saĝaj
+la strato	laŭeble baldaŭ	가능한 한 곧바로	soon as possible	la strato		laŭeble baldaŭ
+la strato	kia knabo, kia knabino	어떠한 소년, 어떠한 소녀	what a boy, what a girl	la strato		kia knabo, kia knabino
+la strato	nek pensita nek memorita	생각된 것도 아니고, 기억된 것도 아닌	neither thought nor memorized	la strato		nek pensita nek memorita
+la strato	diablo atendis akvon dimanĉe	악마는 일요일에 물을 기다렸다	a devil waited for water on Sunday	la strato		diablo atendis akvon dimanĉe
+la strato	eĉ tiom malgranda momento valoras	그런 작은 순간 조차도 가치가 있다	even such a small moment is worthwhile	la strato		eĉ tiom malgranda momento valoras
+la strato	kriis for ĝis nokto	멀리 울부짖었다, 밤까지	cried away until night	la strato		kriis for ĝis nokto
+la strato	lasis la poŝton de la mano	손에서 우편물을 내려놨다	put away the mailpost from the hand	la strato		lasis la poŝton de la mano
+la strato	ridis mem lasante la poŝton	우편물을 내놓으며 스스로 웃었다	laughed by oneself, putting away the mailpost	la strato		ridis mem lasante la poŝton
+la strato	nek li nek ŝi ridis	그도 웃지 않았고, 그녀도 웃지 않았다	neither he nor she laughed	la strato		nek li nek ŝi ridis
+ĉiam Malfrue	ŝi nek ridis nek respondis	그녀는 웃지도 않았고, 대답도 하지 않았다	she neither laughed nor answered	ĉiam Malfrue		ŝi nek ridis nek respondis
+ĉiam Malfrue	li nek sidas nek rigardas	그는 앉아 있지도 않고, 바라보지도 않는다	he neither sits nor watches	ĉiam Malfrue		li nek sidas nek rigardas
+ĉiam Malfrue	neniam mi vidis	나는 전혀 못 봤다	I have never seen	ĉiam Malfrue		neniam mi vidis
+ĉiam Malfrue	mi neniam diros al iu	나는 절대로 누군가에게 말하지 않겠다	I will never tell anyone	ĉiam Malfrue		mi neniam diros al iu
+ĉiam Malfrue	diru al neniu	누구에게도 말하지 말라	tell no one	ĉiam Malfrue		diru al neniu
+ĉiam Malfrue	mi neniam diros	나는 절대로 말하지 않겠다	I will never say	ĉiam Malfrue		mi neniam diros
+ĉiam Malfrue	mem	스스로; 손수	to oneself, by oneself	ĉiam Malfrue		mem
+ĉiam Malfrue	mi mem faris	나 혼자서 했다 (만들었다)	I did it myself	ĉiam Malfrue		mi mem faris
+ĉiam Malfrue	faris tion	그것을 했다 (그것을 만들었다)	did it (made it)	ĉiam Malfrue		faris tion
+ĉiam Malfrue	mem faris tion	혼자서 그것을 했다 (만들었다)	did it alone (made it alone)	ĉiam Malfrue		mem faris tion
+ĉiam Malfrue	ĝis la revido; ĝis revido	다시 볼때까지 (안녕)	see you (again); see you (again)	ĉiam Malfrue		ĝis la revido; ĝis revido
+ĉiam Malfrue	ĝis!	안녕! (다시 볼때까지)	until!	ĉiam Malfrue		ĝis!
+ĉiam Malfrue	ekparolis; komencis paroli finfine	입을 열었다; 끝끝내 말을 시작했다	started saying; began to speak at last	ĉiam Malfrue		ekparolis; komencis paroli finfine
+ĉiam Malfrue	ekparoli	말하기 시작하다	to start talking	ĉiam Malfrue		ekparoli
+ĉiam Malfrue	silenti	조용히 하다	to be silent	ĉiam Malfrue		silenti
+ĉiam Malfrue	eksilenti	조용하기 시작하다	to start be silent	ĉiam Malfrue		eksilenti
+ĉiam Malfrue	sidi	앉다	to sit	ĉiam Malfrue		sidi
+ĉiam Malfrue	eksidi	앉기 시작하다	to start sit down	ĉiam Malfrue		eksidi
+ĉiam Malfrue	ridi	웃다	to laugh	ĉiam Malfrue		ridi
+ĉiam Malfrue	ekridi	웃기 시작하다	to start laughing	ĉiam Malfrue		ekridi
+ĉiam Malfrue	~aĵo	(접미사) 구체적인 물건	thing	ĉiam Malfrue		~aĵo
+ĉiam Malfrue	manĝi	먹다	to eat	ĉiam Malfrue		manĝi
+ĉiam Malfrue	manĝaĵo	먹을 거리	food	ĉiam Malfrue		manĝaĵo
+ĉiam Malfrue	trinki	마시다	to drink	ĉiam Malfrue		trinki
+ĉiam Malfrue	trinkaĵo	마실 거리	a drink	ĉiam Malfrue		trinkaĵo
+ĉiam Malfrue	bela	아름다운	beautiful	ĉiam Malfrue		bela
+ĉiam Malfrue	belaĵo	아름다운 것	beauty	ĉiam Malfrue		belaĵo
+ĉiam Malfrue	sendi	보내다	to send	ĉiam Malfrue		sendi
+ĉiam Malfrue	sendaĵo	보낼 것	shipment	ĉiam Malfrue		sendaĵo
+ĉiam Malfrue	ridi	웃다	to laugh	ĉiam Malfrue		ridi
+ĉiam Malfrue	rideti	미소짓다	to smile	ĉiam Malfrue		rideti
+ĉiam Malfrue	tranokti	밤새우다	to spend the night	ĉiam Malfrue		tranokti
+ĉiam Malfrue	tranokto	밤샘	overnight stay	ĉiam Malfrue		tranokto
+ĉiam Malfrue	foriri	떠나다 (?)	to leave (?)	ĉiam Malfrue		foriri
+ĉiam Malfrue	lasi	두다	to leave (?)	ĉiam Malfrue		lasi
+ĉiam Malfrue	forlasi	떠나다 (?)	to leave (?)	ĉiam Malfrue		forlasi
+ĉiam Malfrue	ek	(접두사) 시작되는 행위	to start	ĉiam Malfrue		ek
+ĉiam Malfrue	de	(전치사) ~로 부터, ~시점으로 부터, ~로 인해, ~의	of, from, by, since	ĉiam Malfrue		de
+ĉiam Malfrue	ekde	(전치사) ~의 시점으로 부터	since	ĉiam Malfrue		ekde
+ĉiam Malfrue	manĝi	먹다	to eat	ĉiam Malfrue		manĝi
+ĉiam Malfrue	formanĝi	다 먹다	devour	ĉiam Malfrue		formanĝi
+ĉiam Malfrue	preni	잡다, 쥐다	to take	ĉiam Malfrue		preni
+ĉiam Malfrue	forpreni	멀리 가져가다, 빼앗다	take away	ĉiam Malfrue		forpreni
+ĉiam Malfrue	eble	아마도	maybe	ĉiam Malfrue		eble
+ĉiam Malfrue	laŭ	(전치사) ~에 따라	according to	ĉiam Malfrue		laŭ
+ĉiam Malfrue	laŭeble	가능한대로	as possible	ĉiam Malfrue		laŭeble
+ĉiam Malfrue	saĝa	현명한	wise	ĉiam Malfrue		saĝa
+ĉiam Malfrue	saĝulo	현명한 사람	a wise man	ĉiam Malfrue		saĝulo
+ĉiam Malfrue	stari	시작하다	to stand	ĉiam Malfrue		stari
+ĉiam Malfrue	ekstari	막 시작하다	get up	ĉiam Malfrue		ekstari
+ĉiam Malfrue	poŝo	호주머니	a pocket	ĉiam Malfrue		poŝo
+ĉiam Malfrue	karto	카드	a card	ĉiam Malfrue		karto
+ĉiam Malfrue	poŝkarto	우편엽서	a postcard	ĉiam Malfrue		poŝkarto
+ĉiam Malfrue	diablo	악마	a devil	ĉiam Malfrue		diablo
+ĉiam Malfrue	diableto	작은 악마	little devil	ĉiam Malfrue		diableto
+ĉiam Malfrue	utila	유용한	useful	ĉiam Malfrue		utila
+ĉiam Malfrue	senutila	쓸모없는	useless	ĉiam Malfrue		senutila
+ĉiam Malfrue	kuri	달리다	to run	ĉiam Malfrue		kuri
+ĉiam Malfrue	elkuri	뛰어나가다	to run out	ĉiam Malfrue		elkuri
+ĉiam Malfrue	ami	사랑하다	to love	ĉiam Malfrue		ami
+ĉiam Malfrue	ekami	사랑에빠지다	to fall in love	ĉiam Malfrue		ekami
+ĉiam Malfrue	nuna	지금의	current	ĉiam Malfrue		nuna
+ĉiam Malfrue	ĝisnuna	지금까지의	up to now	ĉiam Malfrue		ĝisnuna
+ĉiam Malfrue	trinkis rapidege	아주 빠르게 마시다	drank very fast	ĉiam Malfrue		trinkis rapidege
+ĉiam Malfrue	trinkis matenan trinkaĵon	아침 음료를 마시다	had a morning drink	ĉiam Malfrue		trinkis matenan trinkaĵon
+ĉiam Malfrue	por frue veni	빨리 오기 위해	to come early	ĉiam Malfrue		por frue veni
+ĉiam Malfrue	veni al la lernejo	학교에 오다	to come to school	ĉiam Malfrue		veni al la lernejo
+ĉiam Malfrue	frue veni al ~	이르게 ~에 오다	to come early to ~	ĉiam Malfrue		frue veni al ~
+ĉiam Malfrue	novaĵo					
+ĉiam Malfrue	ne aŭdis novaĵon					
+ĉiam Malfrue	ankoraŭ ne aŭdis					
+ĉiam Malfrue	mi ankoraŭ ne aŭdis					
+ĉiam Malfrue	en tiu momento					
+ĉiam Malfrue	krii					
+ĉiam Malfrue	krio					
+ĉiam Malfrue	ekkriis					
+ĉiam Malfrue	en tiu momento li ekkriis					
+ĉiam Malfrue	knabo, kiu ne amas					
+ĉiam Malfrue	geknaboj					
+ĉiam Malfrue	aliaj geknaboj					
+ĉiam Malfrue	ne amas aliajn geknabojn					
+ĉiam Malfrue	nek amikojn, nek amikinojn					
+ĉiam Malfrue	havas nek monon, nek tempon					
+ĉiam Malfrue	kiu havis la libron?					
+ĉiam Malfrue	la libron, kiun vi atendis					
+ĉiam Malfrue	tiun, kiun vi atendis pli ol du jarojn					
+ĉiam Malfrue	ĉu vi volas tion?					
+ĉiam Malfrue	ke mi montru al vi					
+ĉiam Malfrue	ĉu vi volas, ke ~?					
+ĉiam Malfrue	kara					
+ĉiam Malfrue	plej kara					
+ĉiam Malfrue	plej kara foto					
+ĉiam Malfrue	mian plej karan foton					
+ĉiam Malfrue	aĉeti					
+ĉiam Malfrue	kie vi aĉetis					
+ĉiam Malfrue	vesto					
+ĉiam Malfrue	vestaĵo					
+ĉiam Malfrue	tiu vestaĵo					
+ĉiam Malfrue	tiun vestaĵon					
+ĉiam Malfrue	aĉetis tiun vestaĵon					
+ĉiam Malfrue	vi iros tien					
+ĉiam Malfrue	kien vi iros					
+ĉiam Malfrue	dimanĉo					
+ĉiam Malfrue	dimanĉe					
+ĉiam Malfrue	suna tago					
+ĉiam Malfrue	estos suna tago					
+ĉiam Malfrue	se					
+ĉiam Malfrue	se estos suna tago					
+ĉiam Malfrue	frato					
+ĉiam Malfrue	jam					
+ĉiam Malfrue	ekiris					
+ĉiam Malfrue	via frato jam ekiris					
+ĉiam Malfrue	ĉu via frato jam ekiris?					
+ĉiam Malfrue	kie estas la akvo?					
+ĉiam Malfrue	porti					
+ĉiam Malfrue	kunporti la akvon					
+ĉiam Malfrue	mem					
+ĉiam Malfrue	vi mem					
+ĉiam Malfrue	vi mem kunportis					
+ĉiam Malfrue	la akvon, kion vi mem kunportis					
+Malbela Tago	estis tre trankvila					
+Malbela Tago	hodiaŭ mia patrino estis ~					
+Malbela Tago	mi venis el ~					
+Malbela Tago	el la lernejo					
+Malbela Tago	raportis al ~					
+Malbela Tago	kaj raportis al ŝi					
+Malbela Tago	raportis, ke ~					
+Malbela Tago	raportis, ke mi ricevos					
+Malbela Tago	mi ricevos malbonan noton					
+Malbela Tago	ŝi diris, ke ~					
+Malbela Tago	knabaĉo					
+Malbela Tago	vi devas laborigi ~					
+Malbela Tago	pli multe					
+Malbela Tago	pli multe laborigi					
+Malbela Tago	laborigi vian kapon					
+Malbela Tago	kiom da malbonaj notoj					
+Malbela Tago	vi havas tiom da malbonaj notoj					
+Malbela Tago	ĝoja					
+Malbela Tago	estis malĝoja					
+Malbela Tago	en vian ĉambron					
+Malbela Tago	iru en vian ĉambron					
+Malbela Tago	iru kaj lernu					
+Malbela Tago	mi sidis					
+Malbela Tago	en mia ĉambro					
+Malbela Tago	sidis en mia ĉambro					
+Malbela Tago	sed					
+Malbela Tago	nek lerni nek legi					
+Malbela Tago	sed mi povis nek lerni nek legi					
+Malbela Tago	miaj pensoj					
+Malbela Tago	ĉe ludo					
+Malbela Tago	ludo kun miaj amikoj					
+Malbela Tago	ĉe sporto					
+Malbela Tago	al mi mem					
+Malbela Tago	diris al mi mem					
+Malbela Tago	tiom malsaĝa					
+Malbela Tago	ĉu mi estas tiom malsaĝa?					
+Malbela Tago	kvankam					
+Malbela Tago	kvankam mi lernis multe					
+Malbela Tago	tamen					
+Malbela Tago	la patrino eniris					
+Malbela Tago	eniris en la ĉambron					
+Malbela Tago	miaj vortoj					
+Malbela Tago	kaj aŭdis miajn vortojn					
+Malbela Tago	tuj					
+Malbela Tago	respondis					
+Malbela Tago	ŝi tuj respondis					
+Malbela Tago	ne, mia kara,					
+Malbela Tago	malsaĝa					
+Malbela Tago	vi ne estas malsaĝa					
+Malbela Tago	problemo					
+Malbela Tago	la problemo estas, ke ~					
+Malbela Tago	ke vi devas lerni					
+Malbela Tago	multe pli					
+Malbela Tago	devas lerni multe pli					
+Malbela Tago	tiam					
+Malbela Tago	tiam vi ne havos					
+Malbela Tago	malbonaj notoj					
+Malbela Tago	havos nur malbonajn notojn					
+Malbela Tago	ankaŭ nun					
+Malbela Tago	mi ne havas ilin					
+Malbela Tago	mi havas bonan noton					
+Malbela Tago	pri muziko					
+Malbela Tago	mi diris					
+Malbela Tago	bonan noton pri muziko					
+Malbela Tago	subite					
+Malbela Tago	ridis					
+Malbela Tago	la patrino subite ekridis					
+Malbela Tago	tio plibeligis ~					
+Malbela Tago	denove					
+Malbela Tago	mian tagon					
+Malbela Tago	plibeligis mian tagon					
+Malbela Tago	sed					
+Malbela Tago	tamen					
+Malbela Tago	sed tamen restis					
+Malbela Tago	sed la problemo tamen restis					
+Malbela Tago	raporti					
+Malbela Tago	noto					
+Malbela Tago	~aĉ					
+Malbela Tago	kapo					
+Malbela Tago	kiom					
+Malbela Tago	da					
+Malbela Tago	ĉe					
+Malbela Tago	ludi					
+Malbela Tago	mem					
+Malbela Tago	tiom					
+Malbela Tago	kvankam					
+Malbela Tago	tiam					
+Malbela Tago	aŭdi					
+Malbela Tago	vorto					
+Malbela Tago	tuj					
+Malbela Tago	respondi					
+Malbela Tago	kara					
+Malbela Tago	problemo					
+Malbela Tago	pri					
+Malbela Tago	muziko					
+Malbela Tago	ridi					
+Malbela Tago	tamen					
+Malbela Tago	agi					
+Malbela Tago	aperi					
+Malbela Tago	besto					
+Malbela Tago	decidi					
+Malbela Tago	dolori					
+Malbela Tago	glaso					
+Malbela Tago	kelka					
+Malbela Tago	kontraŭ					
+Malbela Tago	morti					
+Malbela Tago	ofte					
+Malbela Tago	ordo					
+Malbela Tago	plori					
+Malbela Tago	polico					
+Malbela Tago	pro					
+Malbela Tago	pura					
+Malbela Tago	senti					
+Malbela Tago	sovaĝa					
+Malbela Tago	super					
+Malbela Tago	teni					
+Malbela Tago	timi					
+Malbela Tago	trans					
+Malbela Tago	vino					
+Malbela Tago	da					
+Malbela Tago	kilogramo da ~					
+Malbela Tago	kilogramo da sukero					
+Malbela Tago	glaso					
+Malbela Tago	glaso da ~					
+Malbela Tago	glaso da akvo					
+Malbela Tago	multe da ~					
+Malbela Tago	multe da ideoj					
+Malbela Tago	~igi					
+Malbela Tago	beligi					
+Malbela Tago	plena					
+Malbela Tago	plenigi					
+Malbela Tago	malplenigi					
+Malbela Tago	sana					
+Malbela Tago	sanigi					
+Malbela Tago	morti					
+Malbela Tago	mortigi					
+Malbela Tago	~aĉa					
+Malbela Tago	hundo					
+Malbela Tago	hundaĉo					
+Malbela Tago	knabo					
+Malbela Tago	knabaĉo					
+Malbela Tago	skribi					
+Malbela Tago	skribaĉi					
+Malbela Tago	teni					
+Malbela Tago	subteni					
+Malbela Tago	aperi					
+Malbela Tago	aperigi					
+Malbela Tago	malaperigi					
+Malbela Tago	elteni					
+Malbela Tago	utila					
+Malbela Tago	utiligi					
+Malbela Tago	deteni					
+Malbela Tago	deteni sin					
+Malbela Tago	vorto					
+Malbela Tago	alivorte					
+Malbela Tago	sinteno					
+Malbela Tago	loĝi					
+Malbela Tago	loĝigi					
+Malbela Tago	memoro					
+Malbela Tago	memorigi					
+Malbela Tago	forta					
+Malbela Tago	fortigi					
+Malbela Tago	plifortigi					
+Malbela Tago	nova					
+Malbela Tago	novigo					
+Malbela Tago	renovigo					
+Malbela Tago	utila					
+Malbela Tago	utiligo					
+Malbela Tago	utiligebla					
+Malbela Tago	aperigi					
+Malbela Tago	forigi					
+Malbela Tago	pura					
+Malbela Tago	purigi					
+Malbela Tago	morto					
+Malbela Tago	senmorta					
+Malbela Tago	plenigi					
+Malbela Tago	malplenigi					
+Malbela Tago	kelk					
+Malbela Tago	fojo					
+Malbela Tago	kelkfoje					
+Malbela Tago	trans					
+Malbela Tago	doni					
+Malbela Tago	transdoni					
+Malbela Tago	rigardi					
+Malbela Tago	super					
+Malbela Tago	superrigardo					
+Malbela Tago	ordigis ĉion					
+Malbela Tago	transdonis al li					
+Malbela Tago	mi petas					
+Malbela Tago	glason da kafo					
+Malbela Tago	kaj iom da akvo					
+Malbela Tago	mi petas glason da kafo					
+Malbela Tago	mi petas tason da teo					
+Malbela Tago	doloris lin					
+Malbela Tago	la kapo doloris lin					
+Malbela Tago	li malsaniĝis					
+Malbela Tago	ŝatas esti bela					
+Malbela Tago	ŝi beligis sian vizaĝon					
+Malbela Tago	la knabo ŝatas esti bela					
+Malbela Tago	pro tio ŝi beligis ĝin					
+Malbela Tago	tagmanĝo					
+Malbela Tago	post la tagmanĝo					
+Malbela Tago	kuirejo					
+Malbela Tago	purigi la kuirejon					
+Malbela Tago	kiu purigos la kuirejon?					
+Malbela Tago	volas trinki					
+Malbela Tago	kion vi volas trinki?					
+Malbela Tago	trinki teon					
+Malbela Tago	iom da kavo					
+Malbela Tago	aŭ					
+Malbela Tago	ĉu vi volas nenion?					
+Malbela Tago	tiel					
+Malbela Tago	tiel subite					
+Malbela Tago	kial vi decidis?					
+Malbela Tago	kial vi tiel subite decidis?					
+Malbela Tago	via ĉambro					
+Malbela Tago	via ĉambreto					
+Malbela Tago	vian ĉambreton					
+Malbela Tago	renovigi vian ĉambreton					
+Malbela Tago	decidis renovigi vian ĉambreton					
+Malbela Tago	al kiu					
+Malbela Tago	vi donis					
+Malbela Tago	al kiu vi donis					
+Malbela Tago	puraj glasoj					
+Malbela Tago	vi donis la purajn glasojn					
+Malbela Tago	la puraj glasoj por la vino					
+Malbela Tago	kontraŭ					
+Malbela Tago	kontraŭ kiu					
+Malbela Tago	via sportklubo					
+Malbela Tago	ludas kontraŭ ~					
+Malbela Tago	antaŭ du semajnoj					
+Malbela Tago	kontraŭ kiu via sportklubo ludis?					
+Malbela Tago	ĉu vi vidas					
+Malbela Tago	ĉu vi ofte vidas					
+Malbela Tago	policisto					
+Malbela Tago	ofte vidas la policiston					
+Malbela Tago	tiu, kiu loĝas en ~					
+Malbela Tago	loĝas en la loĝejo					
+Malbela Tago	la loĝejo super vi					
+Malbela Tago	vidas la policiston, kiu loĝas en ~					
+Planoj pri Veturado	veturi					
+Planoj pri Veturado	veturado					
+Planoj pri Veturado	plano pri veturado					
+Planoj pri Veturado	volis vojaĝi					
+Planoj pri Veturado	vojaĝi al alia lando					
+Planoj pri Veturado	en libertempo					
+Planoj pri Veturado	ili decidis iri					
+Planoj pri Veturado	decidis iri al Italio					
+Planoj pri Veturado	malnovaj urboj					
+Planoj pri Veturado	lando kun malnovaj urboj					
+Planoj pri Veturado	bela					
+Planoj pri Veturado	belaĵo					
+Planoj pri Veturado	aliaj belaĵoj					
+Planoj pri Veturado	kaj aliaj belaĵoj					
+Planoj pri Veturado	bela lando kun malnovaj urboj kaj aliaj belaĵoj					
+Planoj pri Veturado	feliĉa					
+Planoj pri Veturado	ili estis feliĉaj					
+Planoj pri Veturado	kie estas ~?					
+Planoj pri Veturado	vesto?					
+Planoj pri Veturado	vestaĵo?					
+Planoj pri Veturado	kie estas mia vestaĵo?					
+Planoj pri Veturado	ŝi demandis					
+Planoj pri Veturado	ni ne forgesu kunporti ~					
+Planoj pri Veturado	kunporti la libron					
+Planoj pri Veturado	libro por lerni Esperanton					
+Planoj pri Veturado	kun porti libron por lerni					
+Planoj pri Veturado	ni povas komenci					
+Planoj pri Veturado	vagono					
+Planoj pri Veturado	vagonaro					
+Planoj pri Veturado	en la vagonaro					
+Planoj pri Veturado	jam en la vagonaro					
+Planoj pri Veturado	ni nenion faros					
+Planoj pri Veturado	per aŭto					
+Planoj pri Veturado	ni veturos per ~					
+Planoj pri Veturado	veturos per aŭto					
+Planoj pri Veturado	mi havas sekreton					
+Planoj pri Veturado	mia riĉa onklo					
+Planoj pri Veturado	mia deziro					
+Planoj pri Veturado	plenumi					
+Planoj pri Veturado	plenumis mian deziron					
+Planoj pri Veturado	donis al ni					
+Planoj pri Veturado	sian aŭton					
+Planoj pri Veturado	kaj donis al ni sian aŭton					
+Planoj pri Veturado	por uzo					
+Planoj pri Veturado	ĝi staras antaŭ ~					
+Planoj pri Veturado	staras antaŭ la domo					
+Planoj pri Veturado	sed					
+Planoj pri Veturado	mi devas diri ~					
+Planoj pri Veturado	nenion diru					
+Planoj pri Veturado	karulo					
+Planoj pri Veturado	ni eksidu					
+Planoj pri Veturado	eksidu en la aŭton					
+Planoj pri Veturado	veturi al ~					
+Planoj pri Veturado	kaj veturu al Italio					
+Planoj pri Veturado	sidis en la aŭto					
+Planoj pri Veturado	ankaŭ la vestaĵoj					
+Planoj pri Veturado	~ estis en la aŭto					
+Planoj pri Veturado	ankoraŭ sidadis kaj atendis					
+Planoj pri Veturado	sed li atendis					
+Planoj pri Veturado	kial ni ne ~ ?					
+Planoj pri Veturado	veturas					
+Planoj pri Veturado	kial ni ne ekveturas?					
+Planoj pri Veturado	karulino					
+Planoj pri Veturado	ankaŭ mi havas ~					
+Planoj pri Veturado	mi havas sekreton					
+Planoj pri Veturado	veturigus la aŭton					
+Planoj pri Veturado	sed mi ne scias					
+Planoj pri Veturado	mi neniam lernis tion					
+Planoj pri Veturado	Petro					
+Planoj pri Veturado	Maria					
+Planoj pri Veturado	vojaĝi					
+Planoj pri Veturado	lando					
+Planoj pri Veturado	libera					
+Planoj pri Veturado	tempo					
+Planoj pri Veturado	decidi					
+Planoj pri Veturado	italio					
+Planoj pri Veturado	urbo					
+Planoj pri Veturado	feliĉa					
+Planoj pri Veturado	kie					
+Planoj pri Veturado	forgesi					
+Planoj pri Veturado	esperi					
+Planoj pri Veturado	~us					
+Planoj pri Veturado	komenci					
+Planoj pri Veturado	jam					
+Planoj pri Veturado	vagono					
+Planoj pri Veturado	~aro					
+Planoj pri Veturado	nenio					
+Planoj pri Veturado	sekreto					
+Planoj pri Veturado	onklo					
+Planoj pri Veturado	Bonifacio					
+Planoj pri Veturado	plena					
+Planoj pri Veturado	~umi					
+Planoj pri Veturado	sia					
+Planoj pri Veturado	uzi					
+Planoj pri Veturado	domo					
+Planoj pri Veturado	~adi					
+Planoj pri Veturado	atendi					
+Planoj pri Veturado	do					
+Planoj pri Veturado	kial					
+Planoj pri Veturado	neniam					
+Planoj pri Veturado	almenaŭ					
+Planoj pri Veturado	atenti					
+Planoj pri Veturado	ĉirkaŭ					
+Planoj pri Veturado	diversa					
+Planoj pri Veturado	do					
+Planoj pri Veturado	ekster ~					
+Planoj pri Veturado	ideo					
+Planoj pri Veturado	klara					
+Planoj pri Veturado	kredi					
+Planoj pri Veturado	kvazaŭ					
+Planoj pri Veturado	maniero					
+Planoj pri Veturado	manki					
+Planoj pri Veturado	mondo					
+Planoj pri Veturado	organizi					
+Planoj pri Veturado	plano					
+Planoj pri Veturado	pluvi					
+Planoj pri Veturado	rajti					
+Planoj pri Veturado	rakonti					
+Planoj pri Veturado	sama					
+Planoj pri Veturado	ŝajni					
+Planoj pri Veturado	vojo					
+Planoj pri Veturado	informi					
+Planoj pri Veturado	kredi					
+Planoj pri Veturado	kredus					
+Planoj pri Veturado	mi kredus					
+Planoj pri Veturado	se mi estus sana					
+Planoj pri Veturado	mi estus tre feliĉa					
+Planoj pri Veturado	kvazaŭ ~					
+Planoj pri Veturado	kvazaŭ vi estus riĉulo					
+Planoj pri Veturado	vi sidas tie kvazaŭ vi estus riĉulo					
+Planoj pri Veturado	kvazaŭa					
+Planoj pri Veturado	kvazaŭa lernejo					
+Planoj pri Veturado	kvazaŭ riĉulo					
+Planoj pri Veturado	vi sidas tie kvazaŭ riĉulo					
+Planoj pri Veturado	~adi					
+Planoj pri Veturado	kanti					
+Planoj pri Veturado	kantadi					
+Planoj pri Veturado	suferi					
+Planoj pri Veturado	suferadi					
+Planoj pri Veturado	rigardi					
+Planoj pri Veturado	rigardadi					
+Planoj pri Veturado	demandi					
+Planoj pri Veturado	demandadi					
+Planoj pri Veturado	informo					
+Planoj pri Veturado	informado					
+Planoj pri Veturado	~aro					
+Planoj pri Veturado	arbo					
+Planoj pri Veturado	arbaro					
+Planoj pri Veturado	vagono					
+Planoj pri Veturado	vagonaro					
+Planoj pri Veturado	vorto					
+Planoj pri Veturado	vortaro					
+Planoj pri Veturado	~umi					
+Planoj pri Veturado	plena					
+Planoj pri Veturado	plenumi					
+Planoj pri Veturado	proksima					
+Planoj pri Veturado	proksimume					
+Planoj pri Veturado	suno					
+Planoj pri Veturado	sunumi					
+Planoj pri Veturado	malvarma					
+Planoj pri Veturado	malvarmumi					
+Planoj pri Veturado	kredi					
+Planoj pri Veturado	nekredebla					
+Planoj pri Veturado	organi					
+Planoj pri Veturado	organizado					
+Planoj pri Veturado	informo					
+Planoj pri Veturado	informado					
+Planoj pri Veturado	libera					
+Planoj pri Veturado	libervole					
+Planoj pri Veturado	paroli					
+Planoj pri Veturado	parolado					
+Planoj pri Veturado	vojo					
+Planoj pri Veturado	survoje					
+Planoj pri Veturado	homo					
+Planoj pri Veturado	homaro					
+Planoj pri Veturado	kredeble					
+Planoj pri Veturado	vojaĝi					
+Planoj pri Veturado	kunvojaĝi					
+Planoj pri Veturado	~aĵo					
+Planoj pri Veturado	manĝaĵo					
+Planoj pri Veturado	novaĵo					
+Planoj pri Veturado	vagonaro					
+Planoj pri Veturado	ĉirkaŭ					
+Planoj pri Veturado	ĉirkaŭaĵo					
+Planoj pri Veturado	parolrajto					
+Planoj pri Veturado	~aĉa					
+Planoj pri Veturado	domaĉo					
+Planoj pri Veturado	okazo					
+Planoj pri Veturado	tiuokaze					
+Planoj pri Veturado	tiom da mono					
+Planoj pri Veturado	tiom da mono kiom da ideoj					
+Planoj pri Veturado	se mi havus tiom da mono					
+Planoj pri Veturado	mi vojaĝadus					
+Planoj pri Veturado	ĉirkaŭ la mondo					
+Planoj pri Veturado	en ĉiu vortaro					
+Planoj pri Veturado	mankas ~io					
+Planoj pri Veturado	mankas kelkaj vortoj					
+Planoj pri Veturado	homo, kiu longe parolis					
+Planoj pri Veturado	ĉe la manĝotablo					
+Planoj pri Veturado	homo, kiu rakontas, restos malsata					
+Planoj pri Veturado	rakontadas ĉe la manĝo tablo					
+Planoj pri Veturado	li devis atenti					
+Planoj pri Veturado	ne rajtis					
+Planoj pri Veturado	rajtis resti					
+Planoj pri Veturado	ne rajtis longe resti					
+Planoj pri Veturado	resti ekstere en pluvo					
+Planoj pri Veturado	tial li malvarmumis					
+Planoj pri Veturado	li havas sian klaran ideon					
+Planoj pri Veturado	sed li kredos ĉion					
+Planoj pri Veturado	ĉion, kion vi diros					
+Planoj pri Veturado	kvazaŭ vi estus lia edzino					
+Planoj pri Veturado	viaj gepatroj					
+Planoj pri Veturado	ĝojigi viajn gepatrojn					
+Planoj pri Veturado	kio povus ĝojigi ~ ?					
+Planoj pri Veturado	kio povus plej ĝojigi viajn gepatrojn?					
+Planoj pri Veturado	almenaŭ					
+Planoj pri Veturado	post la lernado					
+Planoj pri Veturado	almenaŭ post la lernado					
+Planoj pri Veturado	urbocentro					
+Planoj pri Veturado	en la urbocentron					
+Planoj pri Veturado	se vi irus kun mi					
+Planoj pri Veturado	se vi irus kun mi en la urbocentron					
+Planoj pri Veturado	kien vi dezirus vojaĝi?					
+Planoj pri Veturado	se vi havus ~					
+Planoj pri Veturado	sufiĉe da mono					
+Planoj pri Veturado	se vi havus sufiĉe da mono kaj temp					
+Planoj pri Veturado	ĉu vi planas ~i?					
+Planoj pri Veturado	planas veturi al parizo					
+Planoj pri Veturado	veturi per axuto					
+Planoj pri Veturado	multe pli bone					
+Planoj pri Veturado	ŝajnas multe pli bone					
+Planoj pri Veturado	per vagonaro					
+Planoj pri Veturado	aŭ ĉu ne ŝajnas esti multe pli bone ?					
+Planoj pri Veturado	kial					
+Planoj pri Veturado	diversa					
+Planoj pri Veturado	diversaj homoj					
+Planoj pri Veturado	diversmaniere					
+Planoj pri Veturado	kial homoj klarigas diversmaniere?					
+Planoj pri Veturado	samaj ideoj					
+Planoj pri Veturado	klarigas samajn ideojn					
+Familianoj kunvenas	familio					
+Familianoj kunvenas	familiano					
+Familianoj kunvenas	kunvenas					
+Familianoj kunvenas	familianoj kunvenas					
+Familianoj kunvenas	kiel rapide					
+Familianoj kunvenas	tagoj pasas					
+Familianoj kunvenas	kiel rapide pasas tagoj!					
+Familianoj kunvenas	morgaŭ					
+Familianoj kunvenas	morgaŭ estos ~					
+Familianoj kunvenas	naskiĝi					
+Familianoj kunvenas	naskiĝitago					
+Familianoj kunvenas	la naskiĝtago de via patro					
+Familianoj kunvenas	kelkaj familianoj					
+Familianoj kunvenas	avenos kelkaj familianoj					
+Familianoj kunvenas	kaj geamikoj					
+Familianoj kunvenas	ĉu vi bonvolus ~?					
+Familianoj kunvenas	ĉu vi bonvolus iom helpi?					
+Familianoj kunvenas	iomete					
+Familianoj kunvenas	iomete da tempo					
+Familianoj kunvenas	trovu iomete da tempo					
+Familianoj kunvenas	ordigi					
+Familianoj kunvenas	por ordigi vian ĉambron					
+Familianoj kunvenas	almenaŭ					
+Familianoj kunvenas	almenaŭ por ordigi vian ĉambron					
+Familianoj kunvenas	mi ŝatus ~					
+Familianoj kunvenas	mi ŝatus kuiri ion					
+Familianoj kunvenas	ion bonan					
+Familianoj kunvenas	kuiri ion bonan					
+Familianoj kunvenas	por la naskiĝitaga kuko					
+Familianoj kunvenas	mankas io					
+Familianoj kunvenas	mankas lakto					
+Familianoj kunvenas	en la hejmo					
+Familianoj kunvenas	necesas havigi ~					
+Familianoj kunvenas	iom da manĝaĵo					
+Familianoj kunvenas	el vendejo					
+Familianoj kunvenas	havigi iom da manĝaĵo el vedejo					
+Familianoj kunvenas	bone					
+Familianoj kunvenas	mi aĉetumos					
+Familianoj kunvenas	por la naskiĝtago					
+Familianoj kunvenas	sed					
+Familianoj kunvenas	manĝegi					
+Familianoj kunvenas	anstataŭ sidi kaj manĝegi					
+Familianoj kunvenas	interesaj homoj					
+Familianoj kunvenas	kun neinteresaj familianoj					
+Familianoj kunvenas	ekskurso					
+Familianoj kunvenas	mi ŝatus ekskursi					
+Familianoj kunvenas	klubo					
+Familianoj kunvenas	kun klubanoj					
+Familianoj kunvenas	kun kiuj klubanoj?					
+Familianoj kunvenas	diris la patro					
+Familianoj kunvenas	ĵetis					
+Familianoj kunvenas	ia papero					
+Familianoj kunvenas	iaj paperoj					
+Familianoj kunvenas	paperujo					
+Familianoj kunvenas	en paperujo					
+Familianoj kunvenas	en paperujon					
+Familianoj kunvenas	ĵetis paperojn en paperujon					
+Familianoj kunvenas	ĵetis iajn paperojn en paperujon					
+Familianoj kunvenas	morgaŭ frue					
+Familianoj kunvenas	anoj de mia sporta klubo					
+Familianoj kunvenas	kunvenas					
+Familianoj kunvenas	kara mia					
+Familianoj kunvenas	ĉu ĝuste ~?					
+Familianoj kunvenas	vi devas foresti					
+Familianoj kunvenas	ĉu vi ne ~?					
+Familianoj kunvenas	viaj samklubanoj					
+Familianoj kunvenas	intervidas					
+Familianoj kunvenas	intervidiĝas kun viaj samklubanoj					
+Familianoj kunvenas	foje					
+Familianoj kunvenas	trifoje semajne					
+Familianoj kunvenas	ĉu mi rajtas ~ ?					
+Familianoj kunvenas	rajtas ion proponi					
+Familianoj kunvenas	mi kunmanĝos kun la familianoj					
+Familianoj kunvenas	sed en la dua parto					
+Familianoj kunvenas	mi foriros kun miaj geamikoj					
+Familianoj kunvenas	certe					
+Familianoj kunvenas	parolos pri ~					
+Familianoj kunvenas	malsukcesa veturado					
+Familianoj kunvenas	certe parolos pri la malsukcesa veturado					
+Familianoj kunvenas	per aŭto					
+Familianoj kunvenas	post la kuko					
+Familianoj kunvenas	malinterese~					
+Familianoj kunvenas	mi ne plu volas tion					
+Familianoj kunvenas	volas tion aŭdi					
+Familianoj kunvenas	kial ni ne havas ~ ?					
+Familianoj kunvenas	ideoriĉa onklo					
+Familianoj kunvenas	havas iun ideoriĉan onklon					
+Familianoj kunvenas	en mia familio					
+Familianoj kunvenas	ridas					
+Familianoj kunvenas	la patrino ridetis					
+Familianoj kunvenas	je liaj vortoj					
+Familianoj kunvenas	ŝi scias, ke ~					
+Familianoj kunvenas	iom tro parolas					
+Familianoj kunvenas	hodiaŭ					
+Familianoj kunvenas	ne sufiĉas nur ~					
+Familianoj kunvenas	riĉeco de la ideoj					
+Familianoj kunvenas	necesas ankaŭ ~					
+Familianoj kunvenas	realigi					
+Familianoj kunvenas	monujo					
+Familianoj kunvenas	plena monujo por realigi ĝin					
+Familianoj kunvenas	la patrino daŭrigis					
+Familianoj kunvenas	post iom da silento					
+Familianoj kunvenas	antaŭ kelkaj minutoj					
+Familianoj kunvenas	telefonis					
+Familianoj kunvenas	Ana telefonis, ke ŝi ~					
+Familianoj kunvenas	ankaŭ si vizitos nin					
+Familianoj kunvenas	morgaŭ					
+Familianoj kunvenas	dolĉa kuko					
+Familianoj kunvenas	ŝi tre ŝatas dolĉan kukon					
+Familianoj kunvenas	dika					
+Familianoj kunvenas	dikiĝi					
+Familianoj kunvenas	atentas					
+Familianoj kunvenas	atentas por ne dikiĝi					
+Familianoj kunvenas	kvankam ŝi atentos					
+Familianoj kunvenas	tuj ŝanĝis la opinion					
+Familianoj kunvenas	dum la ekskurso					
+Familianoj kunvenas	soleca					
+Familianoj kunvenas	sen ŝi					
+Familianoj kunvenas	li estus tre soleca					
+Familianoj kunvenas	tiuokaze					
+Familianoj kunvenas	tamen					
+Familianoj kunvenas	mi tamen pasigos					
+Familianoj kunvenas	hejme					
+Familianoj kunvenas	mi tamen pasigos la morgaŭan tagon hejme					
+Familianoj kunvenas	kiel					
+Familianoj kunvenas	pasi					
+Familianoj kunvenas	naski					
+Familianoj kunvenas	familio					
+Familianoj kunvenas	kelka					
+Familianoj kunvenas	iom					
+Familianoj kunvenas	~ano					
+Familianoj kunvenas	trovi					
+Familianoj kunvenas	almenaŭ					
+Familianoj kunvenas	ordo					
+Familianoj kunvenas	io					
+Familianoj kunvenas	manki					
+Familianoj kunvenas	lakto					
+Familianoj kunvenas	necesa					
+Familianoj kunvenas	anstataŭ					
+Familianoj kunvenas	intereso					
+Familianoj kunvenas	ekskurso					
+Familianoj kunvenas	klubo					
+Familianoj kunvenas	ĵeti					
+Familianoj kunvenas	ia					
+Familianoj kunvenas	~ujo					
+Familianoj kunvenas	ĝusta					
+Familianoj kunvenas	for					
+Familianoj kunvenas	inter ~					
+Familianoj kunvenas	sama					
+Familianoj kunvenas	fojo					
+Familianoj kunvenas	rajti					
+Familianoj kunvenas	proponi					
+Familianoj kunvenas	du					
+Familianoj kunvenas	parto					
+Familianoj kunvenas	sukceso					
+Familianoj kunvenas	iu					
+Familianoj kunvenas	ideo					
+Familianoj kunvenas	tro					
+Familianoj kunvenas	~eco					
+Familianoj kunvenas	reala					
+Familianoj kunvenas	silento					
+Familianoj kunvenas	daŭri					
+Familianoj kunvenas	nu					
+Familianoj kunvenas	minuto					
+Familianoj kunvenas	telefono					
+Familianoj kunvenas	viziti					
+Familianoj kunvenas	dolĉa					
+Familianoj kunvenas	atenti					
+Familianoj kunvenas	dika					
+Familianoj kunvenas	ŝanĝi					
+Familianoj kunvenas	opinii					
+Familianoj kunvenas	sen					
+Familianoj kunvenas	sola					
+Familianoj kunvenas	ĉefo					
+Familianoj kunvenas	ekzemplo					
+Familianoj kunvenas	rilati					
+Familianoj kunvenas	sekvi					
+Familianoj kunvenas	simpla					
+Familianoj kunvenas	universala					
+Familianoj kunvenas	~ano					
+Familianoj kunvenas	klubano					
+Familianoj kunvenas	amerikano					
+Familianoj kunvenas	samlandano					
+Familianoj kunvenas	samideano					
+Familianoj kunvenas	~eco					
+Familianoj kunvenas	beleco					
+Familianoj kunvenas	varmeco					
+Familianoj kunvenas	simpleco					
+Familianoj kunvenas	~ujo					
+Familianoj kunvenas	manĝujo					
+Familianoj kunvenas	cindro					
+Familianoj kunvenas	cindrujo					
+Familianoj kunvenas	franco					
+Familianoj kunvenas	Francio					
+Familianoj kunvenas	Francujo					
+Familianoj kunvenas	Aŭstrujo					
+Familianoj kunvenas	pomo					
+Familianoj kunvenas	pomujo					
+Familianoj kunvenas	verŝajne					
+Familianoj kunvenas	tutsimple					
+Familianoj kunvenas	neŭtraleco					
+Familianoj kunvenas	tiurilate					
+Familianoj kunvenas	universaleco					
+Familianoj kunvenas	ebleco					
+Familianoj kunvenas	partopreni					
+Familianoj kunvenas	plejparte					
+Familianoj kunvenas	samtempe					
+Familianoj kunvenas	anstataxu					
+Familianoj kunvenas	anstataŭa					
+Familianoj kunvenas	anstataŭigi					
+Familianoj kunvenas	ĵeti					
+Familianoj kunvenas	elĵeti					
+Familianoj kunvenas	fini					
+Familianoj kunvenas	finiĝi					
+Familianoj kunvenas	informiĝi					
+Familianoj kunvenas	juneco					
+Familianoj kunvenas	en juneco					
+Familianoj kunvenas	oni havas					
+Familianoj kunvenas	havas ankaŭ belecon					
+Familianoj kunvenas	malsimplaj laboroj					
+Familianoj kunvenas	malsimplajn laborojn					
+Familianoj kunvenas	devus plisimpligi					
+Familianoj kunvenas	en tiu aĝo					
+Familianoj kunvenas	fariĝi					
+Familianoj kunvenas	li jam fariĝis					
+Familianoj kunvenas	klubestro					
+Familianoj kunvenas	estro de la sporta klubo					
+Familianoj kunvenas	monon oni metas					
+Familianoj kunvenas	en monujon					
+Familianoj kunvenas	metas en monujon					
+Familianoj kunvenas	sekvu la ekzemplojn					
+Familianoj kunvenas	de la bonaj familianoj					
+Familianoj kunvenas	ko					
+Familianoj kunvenas	amikeco					
+Familianoj kunvenas	feliĉa					
+Familianoj kunvenas	feliĉigi					
+Familianoj kunvenas	ĉu amikeco pli felĉigas?					
+Familianoj kunvenas	feliĉigas vin					
+Familianoj kunvenas	ol la amo					
+Familianoj kunvenas	kiel ofte vi ~ ?					
+Familianoj kunvenas	vi skribas leterojn al ~					
+Familianoj kunvenas	skrivas leteojn al viaj amikinoj					
+Familianoj kunvenas	viaj amikinoj en Italio					
+Familianoj kunvenas	la rilato					
+Familianoj kunvenas	inter vi kaj via instruisto					
+Familianoj kunvenas	ĉu la rilato ŝanĝiĝis?					
+Familianoj kunvenas	ĉu vi jam scias ~?					
+Familianoj kunvenas	sufiĉe bone					
+La sentimulo	timo					
+La sentimulo	sentima					
+La sentimulo	sentimulo					
+La sentimulo	estis vespero en ~					
+La sentimulo	centoj da homoj					
+La sentimulo	plenigas la placon					
+La sentimulo	junuloj kaj militistoj					
+La sentimulo	maristoj de sur la ŝipoj					
+La sentimulo	elstara sinjorino					
+La sentimulo	elstaraj sinjorinoj					
+La sentimulo	junulinoj					
+La sentimulo	alia					
+La sentimulo	alilanda					
+La sentimulo	alilandaj vojaĝantoj					
+La sentimulo	ĉambro					
+La sentimulo	ĉambristoj					
+La sentimulo	gondolo					
+La sentimulo	gondolistoj					
+La sentimulo	movi					
+La sentimulo	ĉiuj moviĝas al urbomezo					
+La sentimulo	iom plue					
+La sentimulo	proksime					
+La sentimulo	ne malproksime de la maro					
+La sentimulo	trovas					
+La sentimulo	troviĝas					
+La sentimulo	troviĝis malgranda placo					
+La sentimulo	iom plue sed ne malproksime					
+La sentimulo	fine de ĝi					
+La sentimulo	proksime de la maro					
+La sentimulo	proksime staris homo					
+La sentimulo	laŭ la vestaĵo					
+La sentimulo	oni facile scii					
+La sentimulo	oni povis ekscii, ke ~					
+La sentimulo	gondolisto de iu riĉulo					
+La sentimulo	povis ekscii, ke li estas gondolisto					
+La sentimulo	interesa					
+La sentimulo	seniterese					
+La sentimulo	li rigardis ~					
+La sentimulo	hommulto					
+La sentimulo	rigaridis la ĝojan hommulton					
+La sentimulo	subite					
+La sentimulo	vizaĝo					
+La sentimulo	lumo					
+La sentimulo	lumigis					
+La sentimulo	rideto lumigis lian vizaĝon					
+La sentimulo	ekvidi					
+La sentimulo	kiam li ekvidis mariston					
+La sentimulo	la mariston, kiu alvenis					
+La sentimulo	la flanko de la maro					
+La sentimulo	alvenis el la flanko de la maro					
+La sentimulo	ĉu tio estas vi, Stefano?					
+La sentimulo	krii					
+La sentimulo	ekkriis la gondolisto					
+La sentimulo	ĉiuj diras, ke ~					
+La sentimulo	en la manojn de la Turkoj					
+La sentimulo	ke vi falis en la manojn de la Turkoj					
+La sentimulo	vere					
+La sentimulo	ni renkontis unu					
+La sentimulo	el niaj ŝipoj					
+La sentimulo	ĝi sekvis nin					
+La sentimulo	dum pli ol unu horo					
+La sentimulo	sed ne estas facile iri					
+La sentimulo	iri pli rapide ol nia ŝipo					
+La sentimulo	do					
+La sentimulo	kiaj novaĵoj estas tie ĉi?					
+La sentimulo	tie ĉi en Venecio					
+La sentimulo	nenio interesa					
+La sentimulo	nur granda malfeliĉo					
+La sentimulo	ĉu vi konas Pietron?					
+La sentimulo	kompreneble					
+La sentimulo	mi konas lin					
+La sentimulo	subakvigi					
+La sentimulo	granda ŝipo subakvigis lian gondolon					
+La sentimulo	kaj kio pri li?					
+La sentimulo	la gondolo subakviĝis					
+La sentimulo	okazis, ke ~					
+La sentimulo	ni troviĝis proksime					
+La sentimulo	ni prenis lin en nian gondolon					
+La sentimulo	en la sama tempo					
+La sentimulo	mia estro subakviĝis					
+La sentimulo	por helpi junulinon					
+La sentimulo	junulinon, kiu preskaŭ mortis					
+La sentimulo	kun sia onklo					
+La sentimulo	preskaŭ mortis kun sia onklo					
+La sentimulo	tie estis junulino					
+La sentimulo	lin ni ne povis helpi					
+La sentimulo	estis grava homo					
+La sentimulo	kio alvenigis vin en Venecion?					
+La sentimulo	amiko mia					
+La sentimulo	la maristo ekrigardis					
+La sentimulo	rapide ekrigardis sian amikon					
+La sentimulo	kaj komencis diri					
+La sentimulo	do vi scias					
+La sentimulo	mi alportis					
+La sentimulo	halti					
+La sentimulo	la gondolisto subite haltigis lin					
+La sentimulo	vidu					
+La sentimulo	li diris					
+La sentimulo	tiam iu homo pasis					
+La sentimulo	iu homo pasis apud li					
+La sentimulo	li ankoraŭ ne estis tridekjara					
+La sentimulo	kaj lia vizaĝo estis senkolora					
+La sentimulo	lia iro estis certa kaj facila					
+La sentimulo	lia vizaĝo estis malĝoja					
+La sentimulo	kiam li ekvidis la homon, ~					
+La sentimulo	oni diras, ke ~					
+La sentimulo	multaj gravuloj donas ~					
+La sentimulo	sekreta laboro					
+La sentimulo	sekretaj laboroj					
+La sentimulo	donas sekretajn laborojn al li					
+La sentimulo	tro da sekretoj					
+La sentimulo	li scias tro da sekretoj					
+La sentimulo	tial ili timas					
+La sentimulo	malliberejo					
+La sentimulo	sendi lin en malliberejon					
+La sentimulo	diris la maristo					
+La sentimulo	kaj dum li parolis					
+La sentimulo	li montris la domegon					
+La sentimulo	la domego de Doĝoj					
+La sentimulo	multaj gravuloj bezonas lian helpon					
+La sentimulo	kiom ili pagas					
+La sentimulo	pagas al li					
+La sentimulo	pagas por unu mortigo					
+La sentimulo	certe					
+La sentimulo	certe ne malpli ol ~					
+La sentimulo	ol cent monejroj					
+La sentimulo	ne forgesu, ke ~					
+La sentimulo	ke li laboras por tiuj					
+La sentimulo	por tiuj, kiuj havas sufiĉe da mono					
+La sentimulo	por pagi al li					
+La sentimulo	en Venecio estas ~					
+La sentimulo	tiuj aferoj					
+La sentimulo	forgesi tiujn aferojn					
+La sentimulo	aferoj, kiujn estas pli bone forgesi					
+La sentimulo	se vi volas trankvile manĝi					
+La sentimulo	trankvile manĝi vian panon					
+La sentimulo	estis iom da silento					
+La sentimulo	kaj poste					
+La sentimulo	la gondolisto denove ekparolis					
+La sentimulo	vi venis ĝustatempe					
+La sentimulo	por vidi ŝipkuron					
+La sentimulo	iu diris malforte					
+La sentimulo	proksime de la gondolisto					
+La sentimulo	sinjoro					
+La sentimulo	la estro de la urbo					
+La sentimulo	senvorte montris al la gondolo					
+La sentimulo	ĝis revido					
+La sentimulo	diris la gondolisto					
+La sentimulo	kaj prenis la manon de sia amiko					
+La sentimulo	Venecio					
+La sentimulo	Sankt-Marko					
+La sentimulo	placo					
+La sentimulo	milito					
+La sentimulo	maro					
+La sentimulo	ŝipo					
+La sentimulo	gondolo					
+La sentimulo	movi					
+La sentimulo	mezo					
+La sentimulo	proksima					
+La sentimulo	granda					
+La sentimulo	oni					
+La sentimulo	facila					
+La sentimulo	lumo					
+La sentimulo	flanki					
+La sentimulo	Stefano					
+La sentimulo	krii					
+La sentimulo	turko					
+La sentimulo	renkonti					
+La sentimulo	sekvi					
+La sentimulo	Pietro					
+La sentimulo	koni					
+La sentimulo	akvo					
+La sentimulo	tiel					
+La sentimulo	ĝeorĝo					
+La sentimulo	Georgo					
+La sentimulo	preni					
+La sentimulo	estro					
+La sentimulo	preskaŭ					
+La sentimulo	morti					
+La sentimulo	grava					
+La sentimulo	ĝino					
+La sentimulo	halti					
+La sentimulo	apud					
+La sentimulo	dek					
+La sentimulo	jaro					
+La sentimulo	koloro					
+La sentimulo	Jakopo					
+La sentimulo	tial					
+La sentimulo	timi					
+La sentimulo	sendi					
+La sentimulo	doĝo					
+La sentimulo	bezoni					
+La sentimulo	pagi					
+La sentimulo	~ero					
+La sentimulo	afero					
+La sentimulo	se					
+La sentimulo	pano					
+La sentimulo	Don Kamilo					
+La sentimulo	ĝis					
+La sentimulo	konsenti					
+La sentimulo	laŭta					
+La sentimulo	proksimume					
+La sentimulo	publika					
+La sentimulo	punkto					
+La sentimulo	sata					
+La sentimulo	~ilo					
+La sentimulo	tranĉi					
+La sentimulo	tranĉilo					
+La sentimulo	haki					
+La sentimulo	hakilo					
+La sentimulo	ŝlosi					
+La sentimulo	ŝlosilo					
+La sentimulo	tima					
+La sentimulo	timigi					
+La sentimulo	timigilo					
+La sentimulo	estro					
+La sentimulo	estraro					
+La sentimulo	tagmezo					
+La sentimulo	posttagmezo					
+La sentimulo	malsata					
+La sentimulo	konsenti					
+La sentimulo	interkonsenti					
+La sentimulo	manĝilaro					
+La sentimulo	vidpunkto					
+La sentimulo	malfermilo					
+La sentimulo	noktomezo					
+La sentimulo	publikigi					
+La sentimulo	pagi					
+La sentimulo	pagigi					
+La sentimulo	flanka					
+La sentimulo	duflanka					
+La sentimulo	aliflanke					
+La sentimulo	ĵetas la paperon					
+La sentimulo	en la paperujon					
+La sentimulo	la knabinoj ĵetis la paperojn					
+La sentimulo	kie estas mia skribilo?					
+La sentimulo	mi volas respondi al li					
+La sentimulo	la suno malaperis					
+La sentimulo	hela					
+La sentimulo	malhela					
+La sentimulo	kaj nun estas preskaŭ malhele					
+La sentimulo	bonvolu ~					
+La sentimulo	bonvolu manĝi					
+La sentimulo	bonvolu manĝi la panon					
+La sentimulo	per manĝiloj					
+La sentimulo	pardonu					
+La sentimulo	pardonu min					
+La sentimulo	rajtas resti					
+La sentimulo	mi ne rajtas resti					
+La sentimulo	ĉu vi povas kunporti ~?					
+La sentimulo	la sanigilo					
+La sentimulo	de mia fratino					
+La sentimulo	kiam vi aĉetis ~?					
+La sentimulo	aĉetis tiun muzikilon					
+La sentimulo	kiu laste uzis ?					
+La sentimulo	uzis mian ŝlosilon					
+La sentimulo	ĉu vi veturis					
+La sentimulo	en Venecio					
+La sentimulo	ankaŭ per gondolo					
+La sentimulo	ekdormi					
+La sentimulo	ĉu vi povos ekdormi?					
+La sentimulo	tiam, kiam silentiĝis					
+Nokta Promeno	promeni					
+Nokta Promeno	la sinjoro estis alta	그 신사는 키가 컸다				
+Nokta Promeno	alta, dika	높은 (키큰), 굵은 (살찐)				
+Nokta Promeno	dika, peza	굵은 (살찐), 무거운				
+Nokta Promeno	peza kaj larĝa	무겁고 큰				
+Nokta Promeno	estis alta, dika, peza, kaj larĝa	키크고, 살찌고, 무겁고, 컸다.				
+Nokta Promeno	forto	힘				
+Nokta Promeno	donis forton	힘을 주었다				
+Nokta Promeno	korpo	몸				
+Nokta Promeno	korpoforto	몸의 힘 (신체적 힘)				
+Nokta Promeno	havinda	가질 가치가 있는				
+Nokta Promeno	havinda forto	가질 가치가 있는 힘				
+Nokta Promeno	havinda korpoforto	가길 가치가 있는 신체적 힘				
+Nokta Promeno	tio donis	그것은 주었다				
+Nokta Promeno	donis al li	그에게 주었다				
+Nokta Promeno	Tio donis forton	그것은 힘을 주었다				
+Nokta Promeno	donis havindan korpoforton	그것은 가질 가치가 있는 신체적 힘을 주었다				
+Nokta Promeno	lia aspekto	그의 외양(모양새)				
+Nokta Promeno	grandulo	거인				
+Nokta Promeno	grandula aspekto	거인 같은 외양(모양새)				
+Nokta Promeno	eta rolo	작은 역할				
+Nokta Promeno	ludis rolon	역할을 했다				
+Nokta Promeno	ne eta rolo	작지 않은 역할				
+Nokta Promeno	ludis etan rolon	작은 역할을 했다				
+Nokta Promeno	ludis ne etan rolon	작지 않은 역할을 했다				
+Nokta Promeno	en la fakto, ke ~	~한다는 사실에				
+Nokta Promeno	plimulto	대다수				
+Nokta Promeno	la plimulto el la homoj	그 사람들 대다수				
+Nokta Promeno	se ne timis	겁먹지 않았더라도				
+Nokta Promeno	lin timis	그를 무서워 했다				
+Nokta Promeno	se lin timis	그를 무서워 했다면				
+Nokta Promeno	se ne lin timis	그를 무서워 하지는 않았더라도				
+Nokta Promeno	certe	확실히				
+Nokta Promeno	respektis	존중했다				
+Nokta Promeno	certe respektis	확실히 존중했다				
+Nokta Promeno	pensis	생각했다				
+Nokta Promeno	pripensis	~에 대해 생각했다				
+Nokta Promeno	almenaŭ	적어도				
+Nokta Promeno	almenaŭ pripensis	적어도 ~에 대해 생각했다				
+Nokta Promeno	antaŭ ~	~ 이전에 (전치사)				
+Nokta Promeno	antaŭ ol ~	~ 하기 전에				
+Nokta Promeno	kontenta	만족한				
+Nokta Promeno	malkontenta	불만족한				
+Nokta Promeno	kontentigi lin	그를 만족시키다				
+Nokta Promeno	malkontentigi lin	그의 불만을 일으키다				
+Nokta Promeno	antaŭ ol malkontentigi	그의 불만을 일으키기 전에				
+Nokta Promeno	decidi	결정하다				
+Nokta Promeno	antaŭ ol decidi	결정하기 전에				
+Nokta Promeno	decidi malkontentigi	불만을 일으키기로 정하기 전에				
+Nokta Promeno	decidi kontentigi lin	그를 만족시키기로 결정하다				
+Nokta Promeno	antaŭ ol decidi malkontentigi lin	그의 불만을 사기로 정하기 전에				
+Nokta Promeno	tio, kio estas utila					
+Nokta Promeno	dumtage					
+Nokta Promeno	ofte utila dumtage					
+Nokta Promeno	malplaĉa ĝeno					
+Nokta Promeno	per si					
+Nokta Promeno	prezentas malplaĉan ĝenon					
+Nokta Promeno	prezentas per si malplaĉan ĝenon					
+Nokta Promeno	dumnokte					
+Nokta Promeno	en loko arboplena					
+Nokta Promeno	ĉefe					
+Nokta Promeno	devojiĝi					
+Nokta Promeno	tiam, kiam oni devojiĝis					
+Nokta Promeno	en nehoma sovaĝejo					
+Nokta Promeno	kaj ekstervoje iraĉas					
+Nokta Promeno	alta larĝa korpo					
+Nokta Promeno	ne sukcesis pasi					
+Nokta Promeno	senbrue					
+Nokta Promeno	inter la arbetoj					
+Nokta Promeno	krom ~					
+Nokta Promeno	krome					
+Nokta Promeno	naturaĵo					
+Nokta Promeno	krome tuŝi la naturaĵojn					
+Nokta Promeno	ĝenerale					
+Nokta Promeno	ĝenerale malsekajn					
+Nokta Promeno	meze de malsekaj naturaĵoj					
+Nokta Promeno	malsekaj naturaĵoj, meze de kiuj ~					
+Nokta Promeno	li malfacile paŝis					
+Nokta Promeno	estis travivaĵo					
+Nokta Promeno	ofte					
+Nokta Promeno	ne malofte					
+Nokta Promeno	agrabla					
+Nokta Promeno	malagrabla					
+Nokta Promeno	doloriga kaj ĉiam malagrabla					
+Nokta Promeno	ju pli ~					
+Nokta Promeno	antaŭeniris en la vivo					
+Nokta Promeno	en la kastela arbaro					
+Nokta Promeno	ju pli antaŭeniris des pli malŝatis					
+Nokta Promeno	malŝatis la noktan naturon					
+Nokta Promeno	viro kun okuloj bone videblaj					
+Nokta Promeno	okuloj, kiuj kapablis bone vidi					
+Nokta Promeno	bone vidi en la mallumo					
+Nokta Promeno	rigardis la malfacilan iron					
+Nokta Promeno	de nia industriisto					
+Nokta Promeno	li ridetis					
+Nokta Promeno	apud tiu viro					
+Nokta Promeno	en vestaĵo de policano					
+Nokta Promeno	staris alia persono					
+Nokta Promeno	en simila vestaĵo					
+Nokta Promeno	ĉi lasta estis virino					
+Nokta Promeno	ni iru					
+Nokta Promeno	la viro diris mallaŭte					
+Nokta Promeno	en la orelon de sia kunulino					
+Nokta Promeno	nun estas la ĝusta momento					
+Nokta Promeno	ambaŭ paŝis direkte al la persono					
+Nokta Promeno	ili zorgis fari					
+Nokta Promeno	kiel eble plej ~					
+Nokta Promeno	kiel eble plej malmulte da bruo					
+Nokta Promeno	laxueble plej malmulte da bruo					
+Nokta Promeno	facilmovaj					
+Nokta Promeno	ili preskaŭ plene sukcesis					
+Nokta Promeno	en ĉi tiu aĉa situacio					
+Nokta Promeno	aĉa situacio, kie arboj ĵetis siajn branĉojn					
+Nokta Promeno	ĵetis siajn malsekajn branĉojn					
+Nokta Promeno	rekte en la vizaĝojn					
+Nokta Promeno	de la industriisto					
+Nokta Promeno	multpiedaj bestetoj					
+Nokta Promeno	prenis liajn piedojn					
+Nokta Promeno	por promenejo					
+Nokta Promeno	naturo faligis lian piedon					
+Nokta Promeno	plej dolorige					
+Nokta Promeno	faligis lian piedon en kavon					
+Nokta Promeno	kavo plena de akvo					
+Nokta Promeno	akvo aĉodora					
+Nokta Promeno	rapide alvenis la la penso					
+Nokta Promeno	oni devas esti preta					
+Nokta Promeno	ĉi tie					
+Nokta Promeno	iu ajn ~					
+Nokta Promeno	preta por iu ajn malplaĉa renkonto					
+Nokta Promeno	ion ajn					
+Nokta Promeno	efektive					
+Nokta Promeno	li atendis ion ajn					
+Nokta Promeno	krom homa voĉo					
+Nokta Promeno	kiam voĉo aŭdigis, ...					
+Nokta Promeno	aŭdiĝis tuj proksime					
+Nokta Promeno	ekmire					
+Nokta Promeno	li faris belan surlokan salton					
+Nokta Promeno	kiu movis lian koron					
+Nokta Promeno	ŝajne					
+Nokta Promeno	supren ĝis la buŝo					
+Nokta Promeno	kio?					
+Nokta Promeno	li diris					
+Nokta Promeno	kun la provo rekapti trankvilon					
+Nokta Promeno	sensukcese					
+Nokta Promeno	iom da trankvilo					
+Nokta Promeno	la lumo de lampeto					
+Nokta Promeno	oni direktis rekte al liaj okuloj					
+Nokta Promeno	la lampo, kiun oni direktis al okuloj					
+Nokta Promeno	repaciĝo					
+Nokta Promeno	malhelpis repaciĝon					
+Nokta Promeno	krome					
+Nokta Promeno	ŝajnis al li, ke ~					
+Nokta Promeno	la homformo, kiu tenis la lampon					
+Nokta Promeno	surhavas vestojn policajn					
+Nokta Promeno	kion vi faras ĉi tie?					
+Nokta Promeno	aŭtorita					
+Nokta Promeno	sonas la aŭtorita voĉo					
+Nokta Promeno	fuŝe					
+Nokta Promeno	fuŝparolis					
+Nokta Promeno	bonvolu paroli ~					
+Nokta Promeno	iom klare					
+Nokta Promeno	la alia diris					
+Nokta Promeno	eĉ pli grav-tone					
+Nokta Promeno	mi promenas					
+Nokta Promeno	vi promenas en la bieno					
+Nokta Promeno	de la grafino					
+Nokta Promeno	la bieno de la grafino					
+Nokta Promeno	meze de la nokto					
+Nokta Promeno	ĉu la grafino vin invitis?					
+Nokta Promeno	ĉu ŝi scias pri ~					
+Nokta Promeno	pri via ĉeesto					
+Nokta Promeno	via ĉeesto ĉi tie?					
+Nokta Promeno	mi devas peti vin					
+Nokta Promeno	petas vin sekvi min					
+Nokta Promeno	kaj li klarigis					
+Nokta Promeno	klarigis, ke ~					
+Nokta Promeno	ekde la fuŝa provo					
+Nokta Promeno	la fuŝa provo kapti la grafinon					
+Nokta Promeno	fare de ~					
+Nokta Promeno	fare de teroristoj					
+Nokta Promeno	la polico kontrolas atente					
+Nokta Promeno	kontrolas, kio okazas					
+Nokta Promeno	okazas en la ĉirkaŭaĵo					
+Nokta Promeno	de la kastelo					
+Nokta Promeno	la ĉirkaŭaĵo de la kastelo					
+Nokta Promeno	al la industriisto					
+Nokta Promeno	ŝajnis, ke ~					
+Nokta Promeno	lia koro ĉifoje falis					
+Nokta Promeno	falis ĝis liaj piedoj					
+Nokta Promeno	li sciis, ke ~					
+Nokta Promeno	nur malfacile li provos trovi					
+Nokta Promeno	trovi akcepteblan klarigon					
+Nokta Promeno	pri sia ĉeesto					
+Nokta Promeno	la ideo, ke la grafino ĉion scias					
+Nokta Promeno	la ideo perdigis al li malmulton da espero					
+Nokta Promeno	malmulto da espero					
+Nokta Promeno	malmulta espero, kiu restis					
+Nokta Promeno	post la unuaj vortoj de la policano					
+Nokta Promeno	S-ro – 님					
+Nokta Promeno	Pipelbom – 삐뻴봉(Pipelbom)					
+Nokta Promeno	peza – 무거운					
+Nokta Promeno	larĝa – 넓은, 널찍한					
+Nokta Promeno	korpo – 신체					
+Nokta Promeno	aspekto – ~한 외양이다, ~한 표정이다					
+Nokta Promeno	rolo – 역할					
+Nokta Promeno	fakto – 사실					
+Nokta Promeno	respekti – 존경하다					
+Nokta Promeno	kontenta – 만족한					
+Nokta Promeno	ofte – 자주					
+Nokta Promeno	utila – 유용한					
+Nokta Promeno	prezenti – 증정하다, 제출하다, 소개하다					
+Nokta Promeno	ĝeni – 괴롭히다, 폐끼치다					
+Nokta Promeno	nokto – 밤					
+Nokta Promeno	arbo – 나무					
+Nokta Promeno	ĉefo – 지휘자, 우두머리					
+Nokta Promeno	vojo – 길					
+Nokta Promeno	ekster – ~의 바깥에					
+Nokta Promeno	sovaĝa – 야생의					
+Nokta Promeno	bruo – 소음					
+Nokta Promeno	krom – ~ 이외에, ~ 뿐만 아니라					
+Nokta Promeno	tuŝi – 만지다					
+Nokta Promeno	naturo – 자연					
+Nokta Promeno	ĝenerali – 일반적인					
+Nokta Promeno	seki – 건조한					
+Nokta Promeno	paŝi – 걷다, 걸음을 옮기다					
+Nokta Promeno	vivi – 살다					
+Nokta Promeno	dolori – 고통, 아프게하다					
+Nokta Promeno	agrabla – 유쾌한					
+Nokta Promeno	ju – 더더욱 ~한					
+Nokta Promeno	kastelo – 성					
+Nokta Promeno	des – ~하면 할 수록					
+Nokta Promeno	Adriano – 아드리아노(Adriano)					
+Nokta Promeno	viro – 남자					
+Nokta Promeno	kapabla – 능력이 있는, 유능한, 자격이 있는					
+Nokta Promeno	industrio – 산업					
+Nokta Promeno	polico – 경찰					
+Nokta Promeno	persono – 사람					
+Nokta Promeno	simila – 비슷한					
+Nokta Promeno	lasta – 마지막					
+Nokta Promeno	laŭta – 소리가 큰					
+Nokta Promeno	orelo – 귀					
+Nokta Promeno	momento – 순간					
+Nokta Promeno	ambaŭ – 둘다					
+Nokta Promeno	direkti – 방향					
+Nokta Promeno	zorgi – 돌보다, 주의하다					
+Nokta Promeno	situacio – 상황					
+Nokta Promeno	branĉo – 가지					
+Nokta Promeno	rekta – 똑바른, 직접의, 솔직한					
+Nokta Promeno	besto – 동물					
+Nokta Promeno	promeni – 산보하다					
+Nokta Promeno	kavo – 동굴					
+Nokta Promeno	odoro – 냄새나다					
+Nokta Promeno	preta – 준비된					
+Nokta Promeno	ajn – ~이든, 무엇이든, 어떤 것이든					
+Nokta Promeno	efektiva – 효과적인					
+Nokta Promeno	miri – 놀라다					
+Nokta Promeno	koro – 심장					
+Nokta Promeno	ŝajni – ~한 모양이다, ~인 것 같다					
+Nokta Promeno	supri – 위의					
+Nokta Promeno	buŝo – 입					
+Nokta Promeno	provi – 시도하다					
+Nokta Promeno	kapti – 잡다					
+Nokta Promeno	lampo – 전등					
+Nokta Promeno	paco – 평화					
+Nokta Promeno	formo – 형성하다					
+Nokta Promeno	teni – 손에 쥐다					
+Nokta Promeno	sono – 소리					
+Nokta Promeno	aŭtoritato – 권위					
+Nokta Promeno	nuuuu – 누우					
+Nokta Promeno	eee – 에에					
+Nokta Promeno	fuŝi – 망치다					
+Nokta Promeno	klara – 맑은, 밝은					
+Nokta Promeno	eĉ – 심지어					
+Nokta Promeno	tono – 톤, 성조					
+Nokta Promeno	ha – 하					
+Nokta Promeno	bieno – 땅, 토지, 농장지					
+Nokta Promeno	grafo – 백작, 자작					
+Nokta Promeno	monto – 산					
+Nokta Promeno	kalva – 대머리의					
+Nokta Promeno	inviti – 초청하다					
+Nokta Promeno	peti – 요청하다					
+Nokta Promeno	teroro – 테러					
+Nokta Promeno	kontroli – 검사하다, 감독하다					
+Nokta Promeno	ĉirkaŭ – ~ 주변에					
+Nokta Promeno	akcepti – 받아 들이다					
+Nokta Promeno	perdi – 잃어버리다					
+Nokta Promeno	aĉ – 바람직하지 않은 상태, 나쁜, 조악한 상태					
+Nokta Promeno	ju pli ~ des pli ~					
+Nokta Promeno	ju pli longe des pli bone					
+Nokta Promeno	~ ajn					
+Nokta Promeno	kiom ajn					
+Nokta Promeno	dis~					
+Nokta Promeno	disĵeti					
+Nokta Promeno	dissendi					
+Nokta Promeno	~ono					
+Nokta Promeno	duono					
+Nokta Promeno	triono					
+Nokta Promeno	kvarono					
+Nokta Promeno	sesono					
+Nokta Promeno	prezentaĵo					
+Nokta Promeno	skribaĉi					
+Nokta Promeno	klarigi					
+Nokta Promeno	pretigi					
+Nokta Promeno	ĉevalaĉo					
+Nokta Promeno	disdoni					
+Nokta Promeno	dekono					
+Nokta Promeno	duonigi					
+Nokta Promeno	virinaĉo					
+Nokta Promeno	ĉiumomente					
+Nokta Promeno	renkontiĝo					
+Nokta Promeno	retrovi					
+Nokta Promeno	antaŭ kvarona horo					
+Nokta Promeno	ili revenis					
+Nokta Promeno	post la terura malfeliĉo					
+Nokta Promeno	la homoj foriris					
+Nokta Promeno	kaj la malnovaj urboj disfalis					
+Nokta Promeno	ni devus revidi vin					
+Nokta Promeno	mia amiko					
+Nokta Promeno	ju pli ofte					
+Nokta Promeno	mi pripensas					
+Nokta Promeno	des pli mi koleras					
+Nokta Promeno	ŝi loĝas en ~					
+Nokta Promeno	iu ajn ~					
+Nokta Promeno	en iu ajn domo					
+Nokta Promeno	ĉu ni revidos nin?					
+Nokta Promeno	kie ajn kaj kiam ajn					
+Nokta Promeno	kiam mi rericevos ~?					
+Nokta Promeno	la alian duonon de la libroj					
+Nokta Promeno	ĉu vi bezonos ~?					
+Nokta Promeno	bezonas pli ol kvaronan jaron					
+Nokta Promeno	por tiuj laboroj					
+Nokta Promeno	kial estas ~?					
+Nokta Promeno	des pli malvarma					
+Nokta Promeno	ju pli longe					
+Nokta Promeno	ni atendas					
+Nokta Promeno	ĉu vi kontentas kun ~?					
+Nokta Promeno	kun iu ajn viro					

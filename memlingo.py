@@ -1,5 +1,5 @@
 from flask import Flask, send_from_directory, request, make_response, jsonify
-import os, re, json, datetime
+import os, re, json, datetime, random
 
 app = Flask(__name__)
 
@@ -12,6 +12,9 @@ def is_valid_email(email):
     # 이메일 주소에 대한 정규 표현식(Regular Expression)
     pattern = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
     return re.match(pattern, email) is not None
+
+def my_course_dir(email, lang, course):
+    return os.path.join("./users", email[0], email,'courses', lang, course)
 
 def create_user(email, lang):
     # 개인 홈 디렉토리 생성
@@ -45,6 +48,8 @@ def create_user(email, lang):
         for line in f1:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
             row = line.split('\t')
+            if len(row) <7:
+                continue
             row[5] = '0' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
             row[6] = '-' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
             f2.write('\t'.join(row)+'\n')
@@ -135,6 +140,8 @@ def login():
         for line in f:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]count	[6]next_review_time
             row = line.split('\t')
+            if len(row) < 7:
+                continue
             if int(row[5]) >= 4: done_count += 1
             if int(row[5]) >= 5: familiar_count += 1
             if int(row[5]) >= 6: mastered_count += 1
@@ -158,10 +165,92 @@ def login():
 
 @app.route('/api/logout.api', methods=['POST'])
 def logout():
+    #TODO 쿠키 로그아웃 처리
+    # if not login:
+    # result = {'resp': 'Fail', 'message': 'You are not logged in'}
+    # resp = make_response(jsonify(result))
+    # resp.set_cookie('login_status', 'loged_out')
+    # return resp 
     result = {'resp': 'OK', 'user': ''}
     resp = make_response(jsonify(result))
     resp.set_cookie('login_status', 'loged_out')
     return resp
+
+
+@app.route('/api/card-next.api', methods=['POST', 'GET'])
+def next_card():
+    if request.method == 'GET':
+        email = request.args['email']
+        course = request.args['course']
+        lang = request.args['lang']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
+            course = request.json['course']
+            lang = request.json['lang']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
+            course = request.form['course']
+            lang = request.form['lang']
+    #TODO
+    # 로그인 여부를 cookie:login_status를 이용해서 체크하고 필요하면 reject한다.
+    #if not login:
+    # result = {'resp': 'Fail', 'message': 'You are not logged in'}
+    # resp = make_response(jsonify(result))
+    # resp.set_cookie('login_status', 'loged_out')
+    # return resp   
+# userid, email, cookie:login_status, lang, course
+#     //         output: 
+#     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
+#     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
+    myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
+    f = open(myprogress_tsv, 'r')
+    oldest_line = ""
+    oldest_next_review_time = ""
+    nowstr = datetime.time().strftime("%Y-%m-%d %H:%M:%S")
+    for line in f:
+        #  [0]level,[1]esp_text,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
+        row = line.split('\t')
+        if len(row) < 7:
+            continue
+        if row[5] == '-':
+            oldest_line = line
+            break
+        if oldest_next_review_time < row[6]:
+            oldest_next_review_time = row[6]
+            oldest_line = line
+            if oldest_next_review_time < nowstr:
+                break
+    f.close()
+    oldest_row = oldest_line.split('\t')
+
+    if oldest_row[6] == '-':
+        quiz_card_url = './pages/quiz-first.html'
+    else:
+        quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
+        quiz_card = random.choice(quizlist)
+        quiz_card_url = './pages/'+quiz_card+'.html'
+
+    #TODO 현재 음성 파일이 없어서 음성 파일들을 생성해서 저장해 놔야함 
+    voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
+    mp3list = []
+    for voice in voicelist:
+        mp3_url = './sounds/'+voice+'/'+oldest_row[1]+'.mp3'
+        if os.path.exists(mp3_url):
+            mp3list.append([voice, mp3_url])
+    [voice, mp3_url] = random.choice(mp3list)
+    voice_img_url = './pages/img/'+voice+'.png'
+
+
+    result = {'resp': 'OK', 'level': oldest_row[0], 'esp_text': oldest_row[1], 'kor_text': oldest_row[2], 'eng_text': oldest_row[3], 'group': oldest_row[4], 'count':oldest_row[5], 'next_review_time': oldest_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice}
+    resp = make_response(jsonify(result))
+    resp.set_cookie('login_status', 'loged_out')
+    return resp
+
+
+#     //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
+
+
 
 try:
     app.run(debug=True, host='192.168.117.129', port=5002)

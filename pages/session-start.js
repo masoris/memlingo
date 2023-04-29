@@ -2,7 +2,7 @@ function $(id) {
     return document.getElementById(id);
 }
 
-function click_btn_start_learning(){
+function click_btn_start_learning() {
     email = localStorage.email
     lang = localStorage.lang
     course = localStorage.session_course
@@ -13,26 +13,28 @@ function click_btn_start_learning(){
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
-    var jsonStr = JSON.stringify({email: email, lang: lang, course: course});
-    postAjaxRequest('/api/card-next.api', jsonStr, function(responseJSONStr) {
-      responseObj = JSON.parse(responseJSONStr);
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course });
+    postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
+        alert(responseJSONStr)
+        responseObj = JSON.parse(responseJSONStr);
+
         // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
-    //   if (responseObj['resp'] == "OK"){
-    //     //'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang, "user_courses": user_courses
-    //     localStorage.setItem('user', responseObj['user']);
-    //     localStorage.setItem('email', responseObj['email']);
-    //     localStorage.setItem('lang', responseObj['lang']);
-    //     localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
-    //     // alert(getCookie('login_status'));
-    //     window.location.href = "./user-courses.html";
-      } else {
-        alert('Error'+responseJSONStr);
-      }
-      console.log(responseObj); 
-    }, function(status, responseText) {
-      alert(responseText);
-      console.error('Error:', status);
-      console.error(responseText);
+        if (responseObj['resp'] == "OK") {
+            //     //'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang, "user_courses": user_courses
+            //     localStorage.setItem('user', responseObj['user']);
+            //     localStorage.setItem('email', responseObj['email']);
+            //     localStorage.setItem('lang', responseObj['lang']);
+            //     localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
+            //     // alert(getCookie('login_status'));
+            //     window.location.href = "./user-courses.html";
+        } else {
+            alert('Error' + responseJSONStr);
+        }
+        console.log(responseObj);
+    }, function (status, responseText) {
+        alert(responseText);
+        console.error('Error:', status);
+        console.error(responseText);
     });
 }
 
@@ -78,7 +80,7 @@ window.onload = function () {
     }
 
     $('Btn_Start_learning').onclick = click_btn_start_learning;
-    
-    
+
+
 };
 
