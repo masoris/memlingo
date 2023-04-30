@@ -15,22 +15,27 @@ function click_btn_start_learning() {
     //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course });
     postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
-        alert(responseJSONStr)
         responseObj = JSON.parse(responseJSONStr);
-
+        console.log(responseObj);
         // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
         if (responseObj['resp'] == "OK") {
-            //     //'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang, "user_courses": user_courses
-            //     localStorage.setItem('user', responseObj['user']);
-            //     localStorage.setItem('email', responseObj['email']);
-            //     localStorage.setItem('lang', responseObj['lang']);
-            //     localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
-            //     // alert(getCookie('login_status'));
-            //     window.location.href = "./user-courses.html";
+            localStorage.setItem("Carditem", responseObj)
+            // localStorage.setItem("level", responseObj.level);
+            // localStorage.setItem("esp_text", responseObj.esp_text);
+            // localStorage.setItem("kor_text", responseObj.kor_text);
+            // localStorage.setItem("eng_text", responseObj.eng_text);
+            // localStorage.setItem("group", responseObj.group);
+            // localStorage.setItem("count", responseObj.count);
+            // localStorage.setItem("next_review_time", responseObj.next_review_time);
+            // localStorage.setItem("mp3_url", responseObj.mp3_url);
+            // localStorage.setItem("voice", responseObj.voice);
+            // localStorage.setItem("voice_img_url", responseObj.voice_img_url);
+            // localStorage.setItem("quiz_card_url", responseObj.quiz_card_url);
+            window.location.href = responseObj.quiz_card_url;
         } else {
             alert('Error' + responseJSONStr);
         }
-        console.log(responseObj);
+
     }, function (status, responseText) {
         alert(responseText);
         console.error('Error:', status);

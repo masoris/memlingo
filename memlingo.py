@@ -47,7 +47,7 @@ def create_user(email, lang):
         f2 = open(myprogress_tsv, 'w', encoding = 'utf-8')
         for line in f1:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
-            row = line.split('\t')
+            row = line.strip().split('\t')
             if len(row) <7:
                 continue
             row[5] = '0' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
@@ -139,7 +139,7 @@ def login():
         f = open(myprogress_tsv, 'r', encoding = 'utf-8')
         for line in f:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]count	[6]next_review_time
-            row = line.split('\t')
+            row = line.strip().split('\t')
             if len(row) < 7:
                 continue
             if int(row[5]) >= 4: done_count += 1
@@ -205,42 +205,53 @@ def next_card():
 #     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
     f = open(myprogress_tsv, 'r')
-    oldest_line = ""
+    oldest_row = []
     oldest_next_review_time = ""
     nowstr = datetime.time().strftime("%Y-%m-%d %H:%M:%S")
-    for line in f:
+
+    for i, line in enumerate(f):
         #  [0]level,[1]esp_text,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
-        row = line.split('\t')
+        if i < 5: print(line)
+        row = line.strip().split('\t')
+        if i < 5: print(row)
         if len(row) < 7:
             continue
-        if row[5] == '-':
-            oldest_line = line
+        if row[6] == '-':
+            oldest_row = row
             break
         if oldest_next_review_time < row[6]:
             oldest_next_review_time = row[6]
-            oldest_line = line
+            oldest_row = row
             if oldest_next_review_time < nowstr:
                 break
     f.close()
-    oldest_row = oldest_line.split('\t')
+    if len(oldest_row) < 7:
+        result = {'resp': 'Fail', 'message': 'Cannot find oldest row'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'loged_out')
+        return resp
 
     if oldest_row[6] == '-':
-        quiz_card_url = './pages/quiz-first.html'
+        quiz_card_url = './quiz-first.html'
     else:
         quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
         quiz_card = random.choice(quizlist)
-        quiz_card_url = './pages/'+quiz_card+'.html'
+        quiz_card_url = './'+quiz_card+'.html'
 
     #TODO 현재 음성 파일이 없어서 음성 파일들을 생성해서 저장해 놔야함 
     voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
     mp3list = []
     for voice in voicelist:
-        mp3_url = './sounds/'+voice+'/'+oldest_row[1]+'.mp3'
+        mp3_url = '/sounds/'+voice+'/'+oldest_row[1]+'.mp3'
         if os.path.exists(mp3_url):
             mp3list.append([voice, mp3_url])
-    [voice, mp3_url] = random.choice(mp3list)
-    voice_img_url = './pages/img/'+voice+'.png'
 
+    voice = ""
+    mp3_url = ""
+    voice_img_url = ""
+    if len(mp3list) > 0:
+       [voice, mp3_url] = random.choice(mp3list)
+       voice_img_url = './img/'+voice+'.png'
 
     result = {'resp': 'OK', 'level': oldest_row[0], 'esp_text': oldest_row[1], 'kor_text': oldest_row[2], 'eng_text': oldest_row[3], 'group': oldest_row[4], 'count':oldest_row[5], 'next_review_time': oldest_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice}
     resp = make_response(jsonify(result))
