@@ -1,0 +1,260 @@
+.Quiz_C-3 {
+  width: 360px;
+  height: 640px;
+}
+
+.Area1 {
+  width: 320px;
+  height: 24px;
+  margin: 20px;
+}
+
+img.ic_close_gray {
+  width: 24px;
+  height: 24px;
+  margin: 0 16px 0 0;
+  padding: 3px;
+  object-fit: contain;
+}
+
+.Rectangle-progress-bar {
+  width: 280px;
+  height: 16px;
+  margin: 4px 0 4px 16px;
+  padding: 0 231px 0 0;
+  opacity: 0.3;
+  border-radius: 8px;
+  border: solid 1.2px #888;
+  background-color: #ccc;
+}
+
+.Rectangle-progress {
+  width: 49px;
+  height: 16px;
+  border-radius: 8px;
+  border: solid 1.2px #078d4f;
+  background-color: #03bf6b;
+}
+
+.Select-what-you-hear {
+  width: 320px;
+  height: 30px;
+  margin: 20px 20px 16px;
+  font-family: NotoSansCJKkr;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #111;
+}
+
+.Area2 {
+  width: 320px;
+  height: 40px;
+  margin: 0 0 2px;
+}
+
+.Rectangle-speaker {
+  width: 40px;
+  height: 36px;
+  padding: 10px 11px 10px 10px;
+  border-radius: 12px;
+  background-color: #ce82ff;
+}
+
+.mi-vi {
+  width: 264px;
+  height: 25px;
+  margin: 7px 0 8px 16px;
+  font-family: NotoSansCJKkr;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  color: #111;
+}
+
+.Area3 {
+  width: 320px;
+  height: 18px;
+  margin: 2px 0 0;
+  padding: 0 0 0 56px;
+}
+
+.I-you {
+  width: 264px;
+  height: 18px;
+  font-family: NotoSansCJKkr;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #999;
+}
+
+.Rectangle1 {
+  width: 155px;
+  height: 121px;
+  margin: 16px 5px 10px 20px;
+  padding: 50px 12px 22px;
+  border-radius: 10px;
+  border: solid 1px #ff5c58;
+}
+
+.Rectangle1-1 {
+  width: 155px;
+  height: 121px;
+  margin: 16px 5px 10px 20px;
+  padding: 50px 12px 22px;
+  opacity: 0.1;
+  border-radius: 10px;
+  background-color: #ff5c58;
+}
+
+.Inside1 {
+  width: 131px;
+  height: 21px;
+  margin: 0 0 7px;
+  font-family: NotoSansCJKkr;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.24;
+  letter-spacing: normal;
+  text-align: center;
+  color: #111;
+}
+
+.Rectangle2 {
+  width: 155px;
+  height: 121px;
+  margin: 16px 20px 10px 5px;
+  padding: 50px 12px;
+  border-radius: 10px;
+  border: solid 1px #ddd;
+  background-color: #fff;
+}
+
+.Inside2 {
+  width: 131px;
+  height: 21px;
+  font-family: NotoSansCJKkr;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.24;
+  letter-spacing: normal;
+  text-align: center;
+  color: #111;
+}
+
+.Rectangle3 {
+  width: 155px;
+  height: 121px;
+  margin: 10px 5px 118px 20px;
+  padding: 50px 12px;
+  border-radius: 10px;
+  border: solid 1px #ddd;
+  background-color: #fff;
+}
+
+.Inside3 {
+  width: 131px;
+  height: 21px;
+  font-family: NotoSansCJKkr;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.24;
+  letter-spacing: normal;
+  text-align: center;
+  color: #111;
+}
+
+.Rectangle4 {
+  width: 155px;
+  height: 121px;
+  margin: 10px 20px 118px 5px;
+  padding: 50px 12px;
+  border-radius: 10px;
+  border: solid 1px #49c0f8;
+}
+
+.Rectangle4-1 {
+  width: 155px;
+  height: 121px;
+  margin: 10px 20px 118px 5px;
+  padding: 50px 12px;
+  opacity: 0.15;
+  border-radius: 10px;
+  background-color: #49c0f8;
+}
+
+.Inside4 {
+  width: 131px;
+  height: 21px;
+  font-family: NotoSansCJKkr;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.24;
+  letter-spacing: normal;
+  text-align: center;
+  color: #111;
+}
+
+.Rectangle-continue {
+  width: 180px;
+  height: 60px;
+  margin: 118px 0 0;
+  padding: 19px 20px 20px;
+  box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: #03bf6b;
+}
+
+.Span-continue {
+  width: 140px;
+  height: 21px;
+  font-family: NotoSansCJKkr;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.24;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.Rectangle-listen {
+  width: 180px;
+  height: 60px;
+  margin: 118px 0 0;
+  padding: 19px 20px 20px;
+  box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: #4c5b75;
+}
+
+.Span-listen {
+  width: 140px;
+  height: 21px;
+  font-family: NotoSansCJKkr;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.24;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
