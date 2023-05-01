@@ -9,53 +9,51 @@
     <script src="./quiz-first.js"></script>
     <script src="./ajax.js"></script>
     <script src="./cookie.js"></script>
-    <title>Quiz First</title>
+    <title>Quiz Frist</title>
 </head>
 
 <body>
-    <div class="Area">
-
-        <img src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
-             img/ic-close-gray@3x.png 3x" class="ic_close_gray">
-        <div class="Rectangle1"></div>
-
-
-        <span class="Learn-a-new-Esperant">
-            Learn a new Esperanto expression.
-        </span>
-
-        <div class="Quiz_A-2">
-            <div class="Rectangle_speak">
-                <div class="Path"></div>
-
-                <div class="Oval1"></div>
-                <div class="Oval2"></div>
-            </div>
-            <span class="mi-vi">
-                mi, vi
-            </span>
-
-        </div>
+    <div class="Quiz_E-2">
         <div class="Area1">
-            <span class="Span1">
-                나, 당신
-            </span>
+            <img id="btn_quit" src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
+                   img/ic-close-gray@3x.png 3x" class="ic_close_gray">
+            <div class="Rectangle-progress-bar">
+                <div class="Rectangle-progress"></div>
+            </div>
+
         </div>
+        <span class="Select-what-you-hear">
+            Choose the level how you feel about this.
+        </span>
         <div class="Area2">
-            <span class="I-you">
-                I, you
+            <div class="Rectangle-speaker">
+                <img id="btn_speaker" src="img/speaker.png" class="Rectangle-speaker">
+            </div>
+            <span id="esp_txt" class="mi-vi">
+                saluton, mi estas~
             </span>
         </div>
-        <div class="Rectangle_continue">
-            <span>
-                Continue
+        <div class="Area3">
+            <span id="kor_txt" class="I-you">
+                안녕하세요, 나는 ~ 입니다.
             </span>
         </div>
-        <div class="Rectangle_listen">
-            <span>
-                Listen
+        <div class="Area4">
+            <span id="eng_txt" class="hello-I-am-">
+                hello, I am ~
             </span>
+        </div>
+        <img id="voice_img" src="img/ic-woman-1.png" class="ic_woman_1">
+        <div class="Rectangle-hard">
+            <input class="Submit-hard" type="button" id="btn_hard" value="Hard for me">
+    
+            </div>
+        <div class="Rectangle-easy">            
+            <input class="Submit-easy" type="button" id="btn_easy" value="Easy to me">
+        </div>
+
+        <div  class="Rectangle-listen">
+            <input class="Listen" type="button" id="btn_listen" value="Listen">
         </div>
     </div>
-
 </body>

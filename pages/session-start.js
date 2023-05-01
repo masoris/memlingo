@@ -19,7 +19,8 @@ function click_btn_start_learning() {
         console.log(responseObj);
         // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
         if (responseObj['resp'] == "OK") {
-            localStorage.setItem("Carditem", responseObj)
+            localStorage.setItem("Carditem", responseJSONStr)
+            localStorage.setItem("quiz_count","0")
             // localStorage.setItem("level", responseObj.level);
             // localStorage.setItem("esp_text", responseObj.esp_text);
             // localStorage.setItem("kor_text", responseObj.kor_text);
