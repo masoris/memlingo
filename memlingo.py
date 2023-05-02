@@ -181,8 +181,8 @@ def logout():
     return resp
 
 
-@app.route('/api/card-next.api', methods=['POST', 'GET'])
-def next_card():
+@app.route('/api/card-next-old.api', methods=['POST', 'GET'])
+def next_card_old():
     if request.method == 'GET':
         email = request.args['email']
         course = request.args['course']
@@ -208,32 +208,30 @@ def next_card():
 #     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
 #     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
+    next_row = []
+    nowstr = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time()))
+    
     f = open(myprogress_tsv, 'r')
-    oldest_row = []
-    oldest_next_review_time = ""
-    nowstr = datetime.time().strftime("%Y-%m-%d %H:%M:%S")
-
     for i, line in enumerate(f):
         #  [0]level,[1]esp_text,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
         row = line.strip().split('\t')
         if len(row) < 7:
             continue
         if row[6] == '-':
-            oldest_row = row
+            next_row = row
             break
-        if oldest_next_review_time < row[6]:
-            oldest_next_review_time = row[6]
-            oldest_row = row
-            if oldest_next_review_time < nowstr:
-                break
+        if row[6] <= nowstr:
+            next_row = row
+            break
     f.close()
-    if len(oldest_row) < 7:
+
+    if len(next_row) < 7:
         result = {'resp': 'Fail', 'message': 'Cannot find oldest row'}
         resp = make_response(jsonify(result))
         resp.set_cookie('login_status', 'loged_out')
         return resp
 
-    if oldest_row[6] == '-':
+    if next_row[6] == '-':
         quiz_card_url = './quiz-first.html'
     else:
         quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
@@ -244,7 +242,7 @@ def next_card():
     voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
     mp3list = []
     for voice in voicelist:
-        mp3_url = '/sounds/'+voice+'/'+oldest_row[1]+'.mp3'
+        mp3_url = '/sounds/'+voice+'/'+next_row[1]+'.mp3'
         print("mp3_url:"+mp3_url) 
         if os.path.exists("."+mp3_url):
             mp3list.append([voice, mp3_url])
@@ -256,7 +254,7 @@ def next_card():
        [voice, mp3_url] = random.choice(mp3list)
        voice_img_url = './img/'+voice+'.png'
 
-    result = {'resp': 'OK', 'level': oldest_row[0], 'esp_text': oldest_row[1], 'kor_text': oldest_row[2], 'eng_text': oldest_row[3], 'group': oldest_row[4], 'count':oldest_row[5], 'next_review_time': oldest_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice, "quiz_count":0}
+    result = {'resp': 'OK', 'level': next_row[0], 'esp_text': next_row[1], 'kor_text': next_row[2], 'eng_text': next_row[3], 'group': next_row[4], 'count':next_row[5], 'next_review_time': next_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice, "quiz_count":0}
     resp = make_response(jsonify(result))
     return resp
 
@@ -274,12 +272,26 @@ def next_review_time(count, score):
     #2. count가 +9 이상이면 +720일 후로
     #옵션1. 만약에 스코어가 마이너스면 정상값의 절반으로
     #옵션2. 만약에 스코어가 마이너스면 count를 절반으로
-    t0 = time.time()
-    next_str = time.strftime("%Y-%m-%d %H:%M:%S", t0 + 5*60)
-    return next_str
 
-@app.route('/api/card-submit.api', methods=['POST', 'GET'])
-def card_submit():
+    if score < 0:
+        count = int(count/2)
+
+    t0 = time.time()
+    if count == 0: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 5*60))
+    if count == 1: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 20*60))
+    if count == 2: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 5*60*60))
+    if count == 3: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 24*60*60))
+    if count == 4: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 2*24*60*60))
+    if count == 5: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 10*24*60*60))
+    if count == 6: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 20*24*60*60))
+    if count == 7: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 60*24*60*60))
+    if count == 8: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 180*24*60*60))
+    if count >= 9: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 720*24*60*60))
+
+    return (count, next_str)
+
+@app.route('/api/card-next.api', methods=['POST', 'GET'])
+def card_next():
     if request.method == 'GET':
         email = request.args['email']
         course = request.args['course']
@@ -307,57 +319,58 @@ def card_submit():
     # resp = make_response(jsonify(result))
     # resp.set_cookie('login_status', 'loged_out')
     # return resp   
+    if esp_txt != "":
+        myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
+        f = open(myprogress_tsv, 'r', encoding='utf-8')
+        lines = []
+        for i, line in enumerate(f):
+            #  [0]level,[1]esp_text,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
+            row = line.strip().split('\t')
+            if len(row) < 7:
+                continue
+            if row[1] == esp_txt:
+                (next_count, next_review_str) = next_review_time(int(row[5]), int(score)) #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
+                row[5] = str(next_count + 1)
+                row[6] = next_review_str
+            line = "\t".join(row)+'\n'
+            lines.append(line)
+        f.close()
 
+        f = open(myprogress_tsv, 'w', encoding='utf-8')
+        f.write("".join(lines))
+        f.close()
+
+    #새로 학습할 카드를 선택해서 사용자에게 리턴한다.
+    #     //         output: 
+    #     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
+    #     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
+    
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
-    f = open(myprogress_tsv, 'r', encoding='utf-8')
-    lines = []
-    for i, line in enumerate(f):
-        #  [0]level,[1]esp_text,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
-        row = line.strip().split('\t')
-        if len(row) < 7:
-            continue
-        if row[1] == esp_txt:
-            row[5] = str(int(row[5])+1)
-            row[6] = next_review_time(int(row[5]), int(score)) #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
-        line = "\t".join(row)+'\n'
-        lines.append(line)
-    f.close()
-
-    f = open(myprogress_tsv, 'w', encoding='utf-8')
-    f.write("".join(lines))
-    f.close()
-
-# userid, email, cookie:login_status, lang, course
-#     //         output: 
-#     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
-#     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
-    myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
-    f = open(myprogress_tsv, 'r', encoding='utf-8')
-    oldest_row = []
-    oldest_next_review_time = ""
-    nowstr = datetime.time().strftime("%Y-%m-%d %H:%M:%S")
-
+    next_row = []
+    nowstr = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time()))
+    
+    f = open(myprogress_tsv, 'r')
     for i, line in enumerate(f):
         #  [0]level,[1]esp_text,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
         row = line.strip().split('\t')
         if len(row) < 7:
             continue
         if row[6] == '-':
-            oldest_row = row
+            next_row = row
             break
-        if oldest_next_review_time < row[6]:
-            oldest_next_review_time = row[6]
-            oldest_row = row
-            if oldest_next_review_time < nowstr:
-                break
+        if row[6] <= nowstr:
+            next_row = row
+            break
     f.close()
-    if len(oldest_row) < 7:
+    
+
+    if len(next_row) < 7:
         result = {'resp': 'Fail', 'message': 'Cannot find oldest row'}
         resp = make_response(jsonify(result))
         resp.set_cookie('login_status', 'loged_out')
         return resp
 
-    if oldest_row[6] == '-':
+    if next_row[6] == '-':
         quiz_card_url = './quiz-first.html'
     else:
         quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
@@ -368,7 +381,7 @@ def card_submit():
     voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
     mp3list = []
     for voice in voicelist:
-        mp3_url = '/sounds/'+voice+'/'+oldest_row[1]+'.mp3'
+        mp3_url = '/sounds/'+voice+'/'+next_row[1]+'.mp3'
         print("mp3_url:"+mp3_url) 
         if os.path.exists("."+mp3_url):
             mp3list.append([voice, mp3_url])
@@ -380,15 +393,11 @@ def card_submit():
        [voice, mp3_url] = random.choice(mp3list)
        voice_img_url = './img/'+voice+'.png'
 
-    result = {'resp': 'OK', 'level': oldest_row[0], 'esp_text': oldest_row[1], 'kor_text': oldest_row[2], 'eng_text': oldest_row[3], 'group': oldest_row[4], 'count':oldest_row[5], 'next_review_time': oldest_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice}
+    result = {'resp': 'OK', 'level': next_row[0], 'esp_text': next_row[1], 'kor_text': next_row[2], 'eng_text': next_row[3], 'group': next_row[4], 'count':next_row[5], 'next_review_time': next_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice}
     resp = make_response(jsonify(result))
     return resp
 
 
 
-try:
-    app.run(debug=True, host='192.168.117.129', port=5002)
-except Exception as e:
-    print('Error:', e)
-    
+app.run(debug=True, host='192.168.117.129', port=5002)
 

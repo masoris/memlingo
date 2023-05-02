@@ -1,8 +1,11 @@
+
+
 .Area {
-    width: 320px;
-    height: 24px;
-    margin: 20px;
-  }
+  width: 360px;
+  height: 640px;
+  padding: 6px 7px 72px 20px;
+  background-color: #121212;
+}
   img.ic_close_gray {
     width: 24px;
     height: 24px;
@@ -32,7 +35,7 @@
   .Match-correct-pairs {
     width: 320px;
     height: 30px;
-    margin: 20px 20px 16px;
+    margin: 20px 13px 16px 0;
     font-family: NotoSansCJKkr;
     font-size: 24px;
     font-weight: normal;
@@ -40,7 +43,7 @@
     font-style: normal;
     line-height: 1.25;
     letter-spacing: normal;
-    color: #111;
+    color: #fff;
   }
   .Rectangle1 {
     width: 155px;
@@ -70,7 +73,7 @@
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
+    color: #fff;
   }
   .Rectangle2 {
     width: 155px;
@@ -100,8 +103,7 @@
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
-  }
+    color: #fff;  }
   .Rectangle3 {
     width: 155px;
     height: 101px;
@@ -130,8 +132,7 @@
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
-  }
+    color: #fff;  }
   .Rectangle4 {
     width: 155px;
     height: 101px;
@@ -160,8 +161,7 @@
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
-  }
+    color: #fff;  }
   .Rectangle5 {
     width: 155px;
     height: 101px;
@@ -190,8 +190,7 @@
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
-  }
+    color: #fff;  }
   .Rectangle6 {
     width: 155px;
     height: 101px;
@@ -220,25 +219,25 @@
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
-  }
-  .Rectangle7 {
-    width: 155px;
-    height: 101px;
-    margin: 10px 10px 15px 20px;
-    padding: 40px 12px;
-    border-radius: 10px;
-    border: solid 1px #49c0f8;
-  }
-  .Rectangle7-1 {
-    width: 155px;
-    height: 101px;
-    margin: 10px 10px 15px 20px;
-    padding: 40px 12px;
-    opacity: 0.15;
-    border-radius: 10px;
-    background-color: #49c0f8;
-  }
+    color: #fff;  }
+    .Rectangle7 {
+      width: 155px;
+      height: 101px;
+      margin: 10px 10px 0 0;
+      padding: 40px 12px;
+      border-radius: 10px;
+      border: solid 1px #ff5c58;
+    }
+    .Rectangle7-1 {
+      width: 155px;
+      height: 101px;
+      margin: 10px 10px 0 0;
+      padding: 40px 12px;
+      opacity: 0.1;
+      border-radius: 10px;
+      background-color: #ff5c58;
+    }
+
   .Inside7 {
     width: 131px;
     height: 21px;
@@ -250,8 +249,7 @@
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #3a3d3d;
-  }
+    color: #fff;  }
   .Rectangle8 {
     width: 155px;
     height: 101px;
@@ -280,7 +278,8 @@
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
+    color: #fff;
+  
   }
   .Rectangle_continue {
     width: 360px;

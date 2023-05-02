@@ -1,0 +1,222 @@
+.Rectangle-background {
+    width: 360px;
+    height: 810px;
+    padding: 0 0 60px;
+    background-color: #03bf6b;
+}
+
+img.logo_subtitle {
+    width: 154px;
+    height: 54px;
+    margin: 36px 142px 20px 20px;
+    object-fit: contain;
+}
+
+img.ic_close_white {
+    width: 24px;
+    height: 24px;
+    margin: 36px 20px 50px 86px;
+    padding: 3px;
+    object-fit: contain;
+}
+
+.You-have-just-learne {
+    width: 320px;
+    height: 60px;
+    margin: 20px 20px 10px;
+    font-family: NotoSansCJKkr;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #fff;
+}
+
+img.img_a {
+    width: 100px;
+    height: 100px;
+    /* margin: 10px 86px 446px 130px; */
+    padding: 0 0 1px;
+    object-fit: contain;
+}
+
+.Rectangle-Copy {
+    width: 320px;
+    height: 496px;
+    margin: 60px 20px 0;
+    padding: 66px 20px 40px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.Esperanto-A- {
+    width: 280px;
+    height: 30px;
+    margin: 0 0 16px;
+    font-family: NotoSansCJKkr;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #111;
+}
+
+img.ic_star_1 {
+    width: 72px;
+    height: 20px;
+    margin: 16px 104px 20px;
+    object-fit: contain;
+}
+
+.Rectangle-speaker {
+    width: 42px;
+    height: 38px;
+    padding: 0px 0px 0px 0px;
+    /* border-radius: 12px;
+    background-color: #ce82ff; */
+}
+
+.mi-vi {
+    width: 224px;
+    height: 27px;
+    margin: 6px 0 7px 16px;
+    font-family: NotoSansCJKkr;
+    font-size: 21px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #111;
+}
+
+.\- {
+    width: 224px;
+    height: 20px;
+    margin: 0 0 0 56px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #999;
+}
+
+.mi-estas- {
+    width: 224px;
+    height: 27px;
+    margin: 6px 0 7px 16px;
+    font-family: NotoSansCJKkr;
+    font-size: 21px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #111;
+}
+
+.estas-nestis {
+    width: 224px;
+    height: 27px;
+    margin: 6px 0 7px 16px;
+    font-family: NotoSansCJKkr;
+    font-size: 21px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #111;
+}
+
+.vi-estas- {
+    width: 224px;
+    height: 27px;
+    margin: 6px 0 7px 16px;
+    font-family: NotoSansCJKkr;
+    font-size: 21px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #111;
+}
+
+.Area1 {
+    width: 280px;
+    height: 40px;
+    margin: 0 0 1px;
+}
+
+.Area1-1 {
+    width: 280px;
+    height: 18px;
+    margin: 1px 0;
+}
+
+.Area2 {
+    width: 280px;
+    height: 40px;
+    margin: 0 0 1px;
+}
+
+.Area2-1 {
+    width: 280px;
+    height: 18px;
+    margin: 1px 0;
+}
+
+.Area3 {
+    width: 280px;
+    height: 40px;
+    margin: 0 0 1px;
+}
+
+.Area3-1 {
+    width: 280px;
+    height: 18px;
+    margin: 1px 0;
+}
+
+.Area4 {
+    width: 280px;
+    height: 40px;
+    margin: 0 0 1px;
+}
+
+.Area4-1 {
+    width: 280px;
+    height: 18px;
+    margin: 1px 0;
+}
+
+.Rectangle-continue {
+    width: 360px;
+    height: 60px;
+    margin: 810px 0 0;
+    padding: 19px 20px 20px;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #4c5b75;
+}
+
+.Continue {
+    width: 320px;
+    height: 21px;
+    font-family: NotoSansCJKkr;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+}
