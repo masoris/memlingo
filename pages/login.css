@@ -7,7 +7,7 @@
 img.logo_subtitle {
   width: 154px;
   height: 54px;
-  margin: 131px 186px 133px 20px;
+  margin: 30px 186px 30px 20px;
   object-fit: contain;
 }
 
@@ -243,6 +243,8 @@ img.arrow_dropdown_black {
   padding: 19px 20px 20px;
   box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
   background-color: #4c5b75;
+  font-size: x-large;
+  color: white;
 }
 
 .Login {

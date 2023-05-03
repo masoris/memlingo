@@ -53,6 +53,9 @@ img.img_a {
     height: 100px;
     padding: 0 0 1px;
     object-fit: contain;
+    position: fixed;
+    left: 130px;
+    top: 204px;
 }
 
 .Rectangle-Copy {

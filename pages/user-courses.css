@@ -47,7 +47,7 @@ img.logo_subtitle {
     height: 30px;
     margin: 0 0 8px;
     font-family: NotoSansCJKkr;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -56,7 +56,7 @@ img.logo_subtitle {
     color: #111;
 }
 
-.\- {
+.Short-description {
     width: 280px;
     height: 40px;
     margin: 8px 0 20px;
@@ -100,9 +100,12 @@ img.img_a {
     width: 280px;
     height: 60px;
     margin: 24px 0 0;
-    padding: 19px 20px 20px;
+    /* padding: 19px 20px 20px; */
     border-radius: 2px;
     background-color: #03bf6b;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 .Learn-Esperanto-Button-Inside {
@@ -117,6 +120,9 @@ img.img_a {
     letter-spacing: normal;
     text-align: center;
     color: #fff;
+    border: none;
+  outline: none;
+  background-color: #03bf6b;
 }
 
 .Esperanto-B- {
