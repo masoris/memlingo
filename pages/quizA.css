@@ -10,6 +10,9 @@ img.ic_close_gray {
     margin: 0 16px 0 0;
     padding: 3px;
     object-fit: contain;
+    position: fixed;
+    left:20px;
+    top:44px;
 }
 
 .Rectangle1 {
@@ -20,6 +23,9 @@ img.ic_close_gray {
     border-radius: 8px;
     border: solid 1.2px #888;
     background-color: #ccc;
+    position: fixed;
+    left:60px;
+    top:48px;
 }
 
 .Learn-a-new-Esperant {
@@ -34,6 +40,9 @@ img.ic_close_gray {
     line-height: 1.25;
     letter-spacing: normal;
     color: #111;
+    position: fixed;
+    left:20px;
+    top:88px;
 }
 
 .Quiz_A-2 {
@@ -41,12 +50,14 @@ img.ic_close_gray {
     height: 640px;
 }
 
-.Rectangle_speak {
+.Rectangle-speak {
     width: 40px;
     height: 36px;
     padding: 10px 11px 10px 10px;
     border-radius: 12px;
-    background-color: #ce82ff;
+    position: fixed;
+    left:20px;
+    top:164px;
 }
 
 .mi-vi {
@@ -61,9 +72,12 @@ img.ic_close_gray {
     line-height: 1.19;
     letter-spacing: normal;
     color: #111;
+    position: fixed;
+    left:76px;
+    top:171px;
 }
 
-.\- {
+.Span1 {
     width: 264px;
     height: 18px;
     font-family: NotoSansCJKkr;
@@ -74,6 +88,9 @@ img.ic_close_gray {
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
+    position: fixed;
+    left:76px;
+    top:206px;
 }
 
 .I-you {
@@ -87,6 +104,9 @@ img.ic_close_gray {
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
+    position: fixed;
+    left:76px;
+    top:236px;
 }
 
 .Rectangle_continue {
@@ -96,6 +116,9 @@ img.ic_close_gray {
     padding: 19px 20px 20px;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
+    position: fixed;
+    left:0px;
+    top:580px;
 }
 
 .Rectangle_listen {
@@ -105,6 +128,9 @@ img.ic_close_gray {
     padding: 19px 20px 20px;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #4c5b75;
+    position: fixed;
+    left:180px;
+    top:580px;
 }
 
 span {
@@ -156,15 +182,3 @@ span {
     padding: 0 0 0 56px;
 }
 
-.Span1 {
-    width: 264px;
-    height: 18px;
-    font-family: NotoSansCJKkr;
-    font-size: 14px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.29;
-    letter-spacing: normal;
-    color: #999;
-  }
