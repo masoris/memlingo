@@ -373,7 +373,8 @@ def card_next():
     if next_row[6] == '-':
         quiz_card_url = './quiz-first.html'
     else:
-        quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
+        quizlist = ['quizB']
+        # quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
         quiz_card = random.choice(quizlist)
         quiz_card_url = './'+quiz_card+'.html'
 
@@ -397,7 +398,68 @@ def card_next():
     resp = make_response(jsonify(result))
     return resp
 
+def get_word_to_word_diff(word1, word2):
+    # 단어를 문자 집합으로 변환
+    set1 = set(word1)
+    set2 = set(word2)
 
+    # 두 집합의 자카드 유사도 계산
+    similarity = len(set1 & set2) / len(set1 | set2)
+    return 1 - similarity
+
+@app.route('/api/similar-words.api', methods=['POST', 'GET'])
+def similar_words():
+    if request.method == 'GET':
+        email = request.args['email']
+        course = request.args['course']
+        lang = request.args['lang']
+        esp_txt = request.args['esp_txt']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
+            course = request.json['course']
+            lang = request.json['lang']
+            esp_txt = request.json['esp_txt']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
+            course = request.form['course']
+            lang = request.form['lang']
+            esp_txt = request.form['esp_txt']
+
+    
+    myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
+    if not (os.path.exists(myprogress_tsv)):
+        result = {'resp': 'Fail', 'message': myprogress_tsv+' not found'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp	
+    f = open(myprogress_tsv, 'r')
+    rows = []
+    for i, line in enumerate(f):
+        #  [0]level,[1]esp_text,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
+        row = line.strip().split('\t')
+        if len(row) < 7:
+            continue
+        diff_value = get_word_to_word_diff(esp_txt, row[1])
+        row = [diff_value] + row
+        rows.append(row)
+    f.close()
+    if len(rows) < 4:
+        result = {'resp': 'Fail', 'message': 'too little items in myprogress.tsv'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp	
+    #  [0]diff_value, [1]level,[2]esp_text,[3]kor,[4]eng,[5]group,[6]count,[7]next-review-time
+    rows.sort()
+    selected = []
+    for i, row in enumerate(rows):
+        selected.append([row[2], row[3]])
+        if i == 3:
+            break
+    
+    result = {'resp': 'OK', 'selected': selected}
+    resp = make_response(jsonify(result))
+    return resp
 
 app.run(debug=True, host='192.168.117.129', port=5002)
 
