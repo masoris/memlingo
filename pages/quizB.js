@@ -4,77 +4,69 @@ function $(id) {
 
 
 
-function click_btn_easy() {
-    click_btn_easy_hard("easy")
-}
+// function click_btn_easy() {
+//     click_btn_easy_hard("easy")
+// }
 
-function click_btn_hard() {
-    click_btn_easy_hard("hard")
-}
+// function click_btn_hard() {
+//     click_btn_easy_hard("hard")
+// }
 
-function click_btn_easy_hard(easy_or_hard) {
-    email = localStorage.email
-    lang = localStorage.lang
-    course = localStorage.session_course
+// function click_btn_easy_hard(easy_or_hard) {
+//     email = localStorage.email
+//     lang = localStorage.lang
+//     course = localStorage.session_course
 
-    carditem = JSON.parse(localStorage.Carditem)
+//     carditem = JSON.parse(localStorage.Carditem)
 
-    console.log("localStorage.quiz_count:" + localStorage.quiz_count);
-    quiz_count = parseInt(localStorage.quiz_count) + 1;
-    localStorage.setItem("quiz_count", quiz_count.toString());
-    console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count > 10) {
-        window.location.href = "session-finish.html";
-        return;
-    }
+//     console.log("localStorage.quiz_count:" + localStorage.quiz_count);
+//     quiz_count = parseInt(localStorage.quiz_count) + 1;
+//     localStorage.setItem("quiz_count", quiz_count.toString());
+//     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
+//     if (localStorage.quiz_count > 10) {
+//         window.location.href = "session-finish.html";
+//         return;
+//     }
+//     $('progress').style.width = (quiz_count/10)*$('progress_bar').style.width;
 
-    esp_txt = carditem.esp_text
-    if (easy_or_hard == "easy") {
-        score = 1
-    }
-    else {
-        score = -1
-    }
+//     esp_txt = carditem.esp_txt
+//     if (easy_or_hard == "easy") {
+//         score = 1
+//     }
+//     else {
+//         score = -1
+//     }
 
 
-    // /api/card-submit.api
-    //         userid, email, cookie:login_status, lang, course, esp, score
-    //         [level,esp,kor,eng,group,count,repeat_date,img_url,voice_name] //다음 항목
-    // /api/card-next.api
-    //         userid, email, cookie:login_status, lang, course
-    //         output: 
-    //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
-    //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
-    //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score });
-    postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
-        responseObj = JSON.parse(responseJSONStr);
-        console.log(responseObj);
-        // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
-        if (responseObj['resp'] == "OK") {
-            if (localStorage.getItem("Carditems") == null) {
-                carditems = [];
-                carditems.push(responseObj);
-                localStorage.setItem("Carditems", JSON.stringify(carditems));
-            }
-            else {
-                carditems = JSON.parse(localStorage.Carditems);
-                carditems.push(responseObj);
-                localStorage.setItem("Carditems", JSON.stringify(carditems));
-            }
+//     // /api/card-submit.api
+//     //         userid, email, cookie:login_status, lang, course, esp, score
+//     //         [level,esp,kor,eng,group,count,repeat_date,img_url,voice_name] //다음 항목
+//     // /api/card-next.api
+//     //         userid, email, cookie:login_status, lang, course
+//     //         output: 
+//     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
+//     //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
+//     //                voice_img,voice_name,esp_txt.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
+//     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score });
+//     postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
+//         responseObj = JSON.parse(responseJSONStr);
+//         console.log(responseObj);
+//         // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
+//         if (responseObj['resp'] == "OK") {
+//             add_carditem(responseObj);
 
-            localStorage.setItem("Carditem", responseJSONStr);
-            window.location.href = responseObj.quiz_card_url;
-        } else {
-            alert('Error' + responseJSONStr);
-        }
+//             localStorage.setItem("Carditem", responseJSONStr);
+//             window.location.href = responseObj.quiz_card_url;
+//         } else {
+//             alert('Error' + responseJSONStr);
+//         }
 
-    }, function (status, responseText) {
-        alert(responseText);
-        console.error('Error:', status);
-        console.error(responseText);
-    });
-}
+//     }, function (status, responseText) {
+//         alert(responseText);
+//         console.error('Error:', status);
+//         console.error(responseText);
+//     });
+// }
 
 
 function get_similar_words(carditem) {
@@ -82,7 +74,7 @@ function get_similar_words(carditem) {
     var email = localStorage.email;
     var lang = localStorage.lang;
     var course = localStorage.session_course;
-    var esp_txt = carditem.esp_text;
+    var esp_txt = carditem.esp_txt;
 
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt });
     postAjaxRequest('/api/similar-words.api', jsonStr, function (responseJSONStr) {
@@ -107,25 +99,6 @@ function get_similar_words(carditem) {
         $('left_3_txt').innerText = selected_esps[2];
         $('left_4_txt').innerText = selected_esps[3];
 
-        // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
-        // if (responseObj['resp'] == "OK") {
-        //     if (localStorage.getItem("Carditems") == null){
-        //         carditems = [];
-        //         carditems.push(responseObj);
-        //         localStorage.setItem("Carditems",JSON.stringify(carditems));
-        //     }
-        //     else{
-        //         carditems = JSON.parse(localStorage.Carditems);
-        //         carditems.push(responseObj);
-        //         localStorage.setItem("Carditems",JSON.stringify(carditems));
-        //     }
-
-        //     localStorage.setItem("Carditem", responseJSONStr);
-        //     window.location.href = responseObj.quiz_card_url;
-        // } else {
-        //     alert('Error' + responseJSONStr);
-        // }
-
     }, function (status, responseText) {
         alert(responseText);
         console.error('Error:', status);
@@ -133,10 +106,115 @@ function get_similar_words(carditem) {
     });
 
 }
+
+var voices = ["male1", "male2", "male3", "female1", "female2", "female3", "ludoviko"];
+var is_playing = false;
+
+function play_sound(esp_txt) {
+    // Fisher-Yates Shuffle 알고리즘
+    for (let i = voices.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [voices[i], voices[j]] = [voices[j], voices[i]];
+    }
+
+    for (i = 0; i < voices.length; i++) {
+        url = "../sounds/" + voices[i] + "/" + esp_txt + ".mp3";
+        try {
+            if (is_playing == true) {
+                break;
+            }
+            let audio = new Audio(url);
+            audio.addEventListener('ended', function () {
+                audio.currentTime = 0;
+                is_playing = false;
+            });
+            audio.play();
+            is_playing = true;
+        } catch (e) {
+            is_playing = false;
+            console.log('Failed to load audio file.');
+        }
+    }
+}
+
+function put_score(esp_txt, score){
+
+    var email = localStorage.email;
+    var lang = localStorage.lang;
+    var course = localStorage.session_course;
+
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score });
+    postAjaxRequest('/api/put-score.api', jsonStr, function (responseJSONStr) {
+        console.log(responseJSONStr)
+        responseObj = JSON.parse(responseJSONStr);
+       
+    }, function (status, responseText) {
+        alert(responseText);
+        console.error('Error:', status);
+        console.error(responseText);
+    });
+}
+
+function add_carditem(carditem){
+    carditems = [];
+    if (localStorage.getItem("Carditems") != null){
+        carditems = JSON.parse(localStorage.Carditems);
+    }
+    carditems.push(carditem);
+    localStorage.setItem("Carditems",JSON.stringify(carditems));
+}
+
+function click_continue() {
+    email = localStorage.email
+    lang = localStorage.lang
+    course = localStorage.session_course
+
+    carditem = JSON.parse(localStorage.Carditem)
+    esp_txt = carditem.esp_txt;
+    
+    console.log("localStorage.quiz_count:"+localStorage.quiz_count);
+    quiz_count = parseInt(localStorage.quiz_count) + 1;
+    localStorage.setItem("quiz_count",quiz_count.toString());
+    console.log("localStorage.quiz_count2:"+localStorage.quiz_count);
+    if ( localStorage.quiz_count > 10){
+        window.location.href = "session-finish.html";
+        return;
+    }
+    
+
+    // /api/card-next.api
+    //         userid, email, cookie:login_status, lang, course
+    //         output: 
+    //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
+    //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
+    //                voice_img,voice_name,esp_txt.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: "0"});
+    postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
+        responseObj = JSON.parse(responseJSONStr);
+        console.log(responseObj);
+        // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
+        if (responseObj['resp'] == "OK") {
+            
+            add_carditem(responseObj);
+            
+            localStorage.setItem("Carditem", responseJSONStr);
+            window.location.href = responseObj.quiz_card_url;
+        } else {
+            alert('Error' + responseJSONStr);
+        }
+
+    }, function (status, responseText) {
+        alert(responseText);
+        console.error('Error:', status);
+        console.error(responseText);
+    });
+}
+
 const selected_color = '#03bf6b';
 const default_color = '#49c0f8';
 const wrong_color = '#ff5c58';
 const disabled_color = '#dddddd';
+var disabled_count = 0; //답을 맞출 때 마다 disabled_count를 1씩 증가시킨다.
 
 function word_click(item) {
     // 지금 선택한 것이 처음이면 prev_item에 기억시키고 selected색깔로 바꾼다.
@@ -145,6 +223,9 @@ function word_click(item) {
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
         $(item).style.opacity = 0.1;
+        if (item.indexOf("left") >= 0) {
+            play_sound($(item + '_txt').innerText);
+        }
         return;
     }
 
@@ -165,9 +246,15 @@ function word_click(item) {
         $(item).style.opacity = 0.1;
         localStorage.prev_item = item;
 
+        if (item.indexOf("left") >= 0){
+            play_sound($(item+"_txt").innerText);
+        } else if (prev_item.indexOf("left") >= 0){
+            play_sound($(prev_item+"_txt").innerText);
+        }
+
         //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.
         wrong_prev_item = localStorage.getItem("wrong_prev_item");
-        if(wrong_prev_item != ""){
+        if (wrong_prev_item != "") {
             $(wrong_prev_item + '_border').style.borderColor = default_color;
             $(wrong_prev_item).style.backgroundColor = default_color;
             $(wrong_prev_item).style.opacity = 0.1;
@@ -219,20 +306,34 @@ function word_click(item) {
             $(prev_item).style.backgroundColor = disabled_color;
             $(prev_item).style.opacity = 0.1;
             $(prev_item).style.pointerEvents = "none";
+            if (item.indexOf("left") >= 0){
+                play_sound($(item+"_txt").innerText);
+            } else if (prev_item.indexOf("left") >= 0){
+                play_sound($(prev_item+"_txt").innerText);
+            }
+            
+            // 모두다 맞춰서 카드가 다 disabled로 바뀌었으면 continue 버튼을 켠다.
+            disabled_count += 1;
+            if (disabled_count >= 4){
+                $('btn_continue').disabled = false;
+            }
         }
-        setTimeout(disable_matched_items, 1000); 
+        setTimeout(disable_matched_items, 1000);
 
         //prev_item을 초기화 한다.
         localStorage.prev_item = "";
-        
+
         //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.
         wrong_prev_item = localStorage.getItem("wrong_prev_item");
-        if(wrong_prev_item != ""){
+        if (wrong_prev_item != "") {
             $(wrong_prev_item + '_border').style.borderColor = default_color;
             $(wrong_prev_item).style.backgroundColor = default_color;
             $(wrong_prev_item).style.opacity = 0.1;
             localStorage.wrong_prev_item = "";
         }
+
+        //해당 esp_txt 항목에 대해서 플러스 점수를 준다. 
+        put_score(esp_txt, 1);
         return;
     }
 
@@ -240,10 +341,15 @@ function word_click(item) {
     $(item + '_border').style.borderColor = wrong_color;
     $(item).style.backgroundColor = wrong_color;
     $(item).style.opacity = 0.1;
+    if (item.indexOf("left") >= 0){
+        play_sound($(item+"_txt").innerText);
+    } else if (prev_item.indexOf("left") >= 0){
+        play_sound($(prev_item+"_txt").innerText);
+    }
 
-    localStorage.setItem("wrong_prev_item",item);
-
-
+    // 해당 esp_txt 항목에 대해서 마이너스 점수를 준다.
+    put_score(esp_txt, -1);
+    localStorage.setItem("wrong_prev_item", item);
 }
 
 window.onload = function () {
@@ -252,11 +358,26 @@ window.onload = function () {
         return;
     }
 
+    $('btn_quit').onclick = function () {
+        window.location.href = "./user-courses.html";
+    }
+
+    $('btn_continue').onclick = click_continue;
+
+    //progress_bar를 현재 quiz_count에 맞게 적용한다.
+    
+    $('progress').style.width = (parseFloat(localStorage.quiz_count)/10.0)*280+'px';
+    // alert((parseFloat(localStorage.quiz_count)/10.0))
+    // alert($('progress_bar').style.width)
+
     carditem = JSON.parse(localStorage.Carditem);
     get_similar_words(carditem);
     localStorage.setItem('prev_item', '');
     localStorage.setItem('wrong_prev_item', '');
+
+    //처음에는 continue버튼이 눌러지지 않게 시작한다.
     $('btn_continue').disabled = true;
+
     $('right_1').onclick = function () { word_click('right_1'); };
     $('right_2').onclick = function () { word_click('right_2'); };
     $('right_3').onclick = function () { word_click('right_3'); };
@@ -265,41 +386,6 @@ window.onload = function () {
     $('left_2').onclick = function () { word_click('left_2'); };
     $('left_3').onclick = function () { word_click('left_3'); };
     $('left_4').onclick = function () { word_click('left_4'); };
-
-    // $('btn_quit').onclick = function () {
-    //     window.location.href = "./user-courses.html";
-    // }
-
-    // $('btn_speaker').onclick = function () {
-    //     var audio = new Audio(carditem.mp3_url);
-    //     audio.addEventListener('ended', function () {
-    //         audio.pause();
-    //         audio.currentTime = 0;
-    //     });
-    //     audio.play();
-    // }
-
-    // $('btn_listen').onclick = function () {
-    //     var audio = new Audio(carditem.mp3_url);
-    //     audio.addEventListener('ended', function () {
-    //         audio.pause();
-    //         audio.currentTime = 0;
-    //     });
-    //     audio.play();
-    // }
-
-    // $('esp_txt').innerText = carditem.esp_text;
-    // $('eng_txt').innerText = carditem.eng_text;
-    // $('kor_txt').innerText = carditem.kor_text;
-
-    // $('voice_img').src = carditem.voice_img_url;
-
-    // $('btn_hard').onclick = click_btn_hard;
-    // $('btn_easy').onclick = click_btn_easy;
-
-
-
-
 
 };
 

@@ -2,7 +2,14 @@ function $(id) {
     return document.getElementById(id);
 }
 
-
+function add_carditem(carditem){
+    carditems = [];
+    if (localStorage.getItem("Carditems") != null){
+        carditems = JSON.parse(localStorage.Carditems);
+    }
+    carditems.push(carditem);
+    localStorage.setItem("Carditems",JSON.stringify(carditems));
+}
 
 function click_btn_easy() {
     click_btn_easy_hard("easy")
@@ -28,7 +35,7 @@ function click_btn_easy_hard(easy_or_hard) {
         return;
     }
 
-    esp_txt = carditem.esp_text
+    esp_txt = carditem.esp_txt
     if (easy_or_hard == "easy") {
         score = 1
     }
@@ -44,24 +51,15 @@ function click_btn_easy_hard(easy_or_hard) {
     //         userid, email, cookie:login_status, lang, course
     //         output: 
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
-    //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
-    //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
+    //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
+    //                voice_img,voice_name,esp_txt.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score});
     postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
         // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
         if (responseObj['resp'] == "OK") {
-            if (localStorage.getItem("Carditems") == null){
-                carditems = [];
-                carditems.push(responseObj);
-                localStorage.setItem("Carditems",JSON.stringify(carditems));
-            }
-            else{
-                carditems = JSON.parse(localStorage.Carditems);
-                carditems.push(responseObj);
-                localStorage.setItem("Carditems",JSON.stringify(carditems));
-            }
+            add_carditem(responseObj);
 
             localStorage.setItem("Carditem", responseJSONStr);
             window.location.href = responseObj.quiz_card_url;
@@ -106,9 +104,9 @@ window.onload = function () {
         audio.play();
     }
 
-    $('esp_txt').innerText = carditem.esp_text;
-    $('eng_txt').innerText = carditem.eng_text;
-    $('kor_txt').innerText = carditem.kor_text;
+    $('esp_txt').innerText = carditem.esp_txt;
+    $('eng_txt').innerText = carditem.eng_txt;
+    $('kor_txt').innerText = carditem.kor_txt;
 
     $('voice_img').src = carditem.voice_img_url;
 
