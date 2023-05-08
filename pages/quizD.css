@@ -15,6 +15,9 @@ img.ic_close_gray {
     margin: 0 16px 0 0;
     padding: 3px;
     object-fit: contain;
+    position: fixed;
+    left: 20px;
+    top: 44px;
 }
 
 .Rectangle-progress-bar {
@@ -26,6 +29,9 @@ img.ic_close_gray {
     border-radius: 8px;
     border: solid 1.2px #888;
     background-color: #ccc;
+    position: fixed;
+    left: 60px;
+    top: 48px;
 }
 
 .Rectangle-progress {
@@ -34,6 +40,9 @@ img.ic_close_gray {
     border-radius: 8px;
     border: solid 1.2px #078d4f;
     background-color: #03bf6b;
+    position: fixed;
+    left: 60px;
+    top: 48px;
 }
 
 .Select-what-you-hear {
@@ -48,6 +57,9 @@ img.ic_close_gray {
     line-height: 1.25;
     letter-spacing: normal;
     color: #111;
+    position: fixed;
+    left: 20px;
+    top: 88px;
 }
 
 .Area2 {
@@ -61,7 +73,10 @@ img.ic_close_gray {
     height: 36px;
     padding: 10px 11px 10px 10px;
     border-radius: 12px;
-    background-color: #ce82ff;
+    /* background-color: #ce82ff; */
+    position: fixed;
+    left: 20px;
+    top: 134px;
 }
 
 .mi-vi {
@@ -76,6 +91,9 @@ img.ic_close_gray {
     line-height: 1.19;
     letter-spacing: normal;
     color: #111;
+    position: fixed;
+    left: 76px;
+    top: 141px;
 }
 
 .Area3 {
@@ -96,62 +114,95 @@ img.ic_close_gray {
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
+    position: fixed;
+    left: 20px;
+    top: 176px;
 }
 
 .Rectangle1 {
     width: 320px;
     height: 61px;
-    margin: 16px 20px 10px;
-    padding: 20px 12px;
+    /* margin: 16px 20px 10px;
+    padding: 20px 12px; */
     border-radius: 10px;
     border: solid 1px #ddd;
+    position: fixed;
+    left: 20px;
+    top: 210px;
+}
+
+.Rectangle1-1 {
+    position: fixed;
+    left: 20px;
+    top: 210px;
 }
 
 .Rectangle2 {
     width: 320px;
     height: 61px;
-    margin: 10px 20px;
-    padding: 19px 12px 20px;
+    /* margin: 10px 20px;
+    padding: 19px 12px 20px; */
     border-radius: 10px;
     border: solid 1px #ff5c58;
+    position: fixed;
+    left: 20px;
+    top: 281px;
 }
 
 .Rectangle2-1 {
     width: 320px;
     height: 61px;
-    margin: 10px 20px;
-    padding: 19px 12px 20px;
+    /* margin: 10px 20px;
+    padding: 19px 12px 20px; */
     opacity: 0.1;
     border-radius: 10px;
     background-color: #ff5c58;
+    position: fixed;
+    left: 20px;
+    top: 281px;
 }
 
 .Rectangle3 {
     width: 320px;
     height: 61px;
-    margin: 10px 20px;
-    padding: 20px 12px;
+    /* margin: 10px 20px;
+    padding: 20px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
+    position: fixed;
+    left: 20px;
+    top: 352px;
 }
 
 .Rectangle3-1 {
     width: 320px;
     height: 61px;
-    margin: 10px 20px;
-    padding: 20px 12px;
+    /* margin: 10px 20px;
+    padding: 20px 12px; */
     opacity: 0.15;
     border-radius: 10px;
     background-color: #49c0f8;
+    position: fixed;
+    left: 20px;
+    top: 352px;
 }
 
 .Rectangle4 {
     width: 320px;
     height: 61px;
-    margin: 10px 20px 96px;
-    padding: 20px 12px;
+    /* margin: 10px 20px 96px;
+    padding: 20px 12px; */
     border-radius: 10px;
     border: solid 1px #ddd;
+    position: fixed;
+    left: 20px;
+    top: 423px;
+}
+
+.Rectangle4-1 {
+    position: fixed;
+    left: 20px;
+    top: 423px;
 }
 
 .Inside1 {
@@ -166,6 +217,9 @@ img.ic_close_gray {
     letter-spacing: normal;
     text-align: center;
     color: #111;
+    position: fixed;
+    left: 32px;
+    top: 230px;
 }
 
 .Inside2 {
@@ -181,6 +235,9 @@ img.ic_close_gray {
     letter-spacing: normal;
     text-align: center;
     color: #111;
+    position: fixed;
+    left: 32px;
+    top: 310px;
 }
 
 .Inside3 {
@@ -195,6 +252,9 @@ img.ic_close_gray {
     letter-spacing: normal;
     text-align: center;
     color: #111;
+    position: fixed;
+    left: 32px;
+    top: 372px;
 }
 
 .Inside4 {
@@ -209,6 +269,9 @@ img.ic_close_gray {
     letter-spacing: normal;
     text-align: center;
     color: #111;
+    position: fixed;
+    left: 32px;
+    top: 443px;
 }
 
 .Rectangle-listen {
@@ -218,6 +281,9 @@ img.ic_close_gray {
     padding: 19px 20px 20px;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
+    position: fixed;
+    left: 0px;
+    top: 468px;
 }
 
 .Listen-and-continue {
@@ -231,5 +297,8 @@ img.ic_close_gray {
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
+    position: fixed;
+    left: 20px;
+    top: 599px;
 }
