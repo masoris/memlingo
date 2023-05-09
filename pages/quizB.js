@@ -137,7 +137,7 @@ function play_sound(esp_txt) {
     }
 }
 
-function put_score(esp_txt, score){
+function put_score(esp_txt, score) {
 
     var email = localStorage.email;
     var lang = localStorage.lang;
@@ -147,7 +147,7 @@ function put_score(esp_txt, score){
     postAjaxRequest('/api/put-score.api', jsonStr, function (responseJSONStr) {
         console.log(responseJSONStr)
         responseObj = JSON.parse(responseJSONStr);
-       
+
     }, function (status, responseText) {
         alert(responseText);
         console.error('Error:', status);
@@ -155,13 +155,13 @@ function put_score(esp_txt, score){
     });
 }
 
-function add_carditem(carditem){
+function add_carditem(carditem) {
     carditems = [];
-    if (localStorage.getItem("Carditems") != null){
+    if (localStorage.getItem("Carditems") != null) {
         carditems = JSON.parse(localStorage.Carditems);
     }
     carditems.push(carditem);
-    localStorage.setItem("Carditems",JSON.stringify(carditems));
+    localStorage.setItem("Carditems", JSON.stringify(carditems));
 }
 
 function click_continue() {
@@ -171,16 +171,16 @@ function click_continue() {
 
     carditem = JSON.parse(localStorage.Carditem)
     esp_txt = carditem.esp_txt;
-    
-    console.log("localStorage.quiz_count:"+localStorage.quiz_count);
+
+    console.log("localStorage.quiz_count:" + localStorage.quiz_count);
     quiz_count = parseInt(localStorage.quiz_count) + 1;
-    localStorage.setItem("quiz_count",quiz_count.toString());
-    console.log("localStorage.quiz_count2:"+localStorage.quiz_count);
-    if ( localStorage.quiz_count > 10){
+    localStorage.setItem("quiz_count", quiz_count.toString());
+    console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
+    if (localStorage.quiz_count > 1) { //TODO 임시로 10을 2로 바꿨음.
         window.location.href = "session-finish.html";
         return;
     }
-    
+
 
     // /api/card-next.api
     //         userid, email, cookie:login_status, lang, course
@@ -188,15 +188,15 @@ function click_continue() {
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
     //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_txt.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: "0"});
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: "0" });
     postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
         // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
         if (responseObj['resp'] == "OK") {
-            
+
             add_carditem(responseObj);
-            
+
             localStorage.setItem("Carditem", responseJSONStr);
             window.location.href = responseObj.quiz_card_url;
         } else {
@@ -246,10 +246,10 @@ function word_click(item) {
         $(item).style.opacity = 0.1;
         localStorage.prev_item = item;
 
-        if (item.indexOf("left") >= 0){
-            play_sound($(item+"_txt").innerText);
-        } else if (prev_item.indexOf("left") >= 0){
-            play_sound($(prev_item+"_txt").innerText);
+        if (item.indexOf("left") >= 0) {
+            play_sound($(item + "_txt").innerText);
+        } else if (prev_item.indexOf("left") >= 0) {
+            play_sound($(prev_item + "_txt").innerText);
         }
 
         //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.
@@ -301,20 +301,20 @@ function word_click(item) {
             $(item + '_border').style.borderColor = disabled_color;
             $(item).style.backgroundColor = disabled_color;
             $(item).style.opacity = 0.1;
-            $(item).style.pointerEvents = "none";
+            $(item).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
             $(prev_item + '_border').style.borderColor = disabled_color;
             $(prev_item).style.backgroundColor = disabled_color;
             $(prev_item).style.opacity = 0.1;
-            $(prev_item).style.pointerEvents = "none";
-            if (item.indexOf("left") >= 0){
-                play_sound($(item+"_txt").innerText);
-            } else if (prev_item.indexOf("left") >= 0){
-                play_sound($(prev_item+"_txt").innerText);
+            $(prev_item).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
+            if (item.indexOf("left") >= 0) {
+                play_sound($(item + "_txt").innerText);
+            } else if (prev_item.indexOf("left") >= 0) {
+                play_sound($(prev_item + "_txt").innerText);
             }
-            
+
             // 모두다 맞춰서 카드가 다 disabled로 바뀌었으면 continue 버튼을 켠다.
             disabled_count += 1;
-            if (disabled_count >= 4){
+            if (disabled_count >= 4) {
                 $('btn_continue').disabled = false;
             }
         }
@@ -341,10 +341,19 @@ function word_click(item) {
     $(item + '_border').style.borderColor = wrong_color;
     $(item).style.backgroundColor = wrong_color;
     $(item).style.opacity = 0.1;
-    if (item.indexOf("left") >= 0){
-        play_sound($(item+"_txt").innerText);
-    } else if (prev_item.indexOf("left") >= 0){
-        play_sound($(prev_item+"_txt").innerText);
+    if (item.indexOf("left") >= 0) {
+        play_sound($(item + "_txt").innerText);
+    } else if (prev_item.indexOf("left") >= 0) {
+        play_sound($(prev_item + "_txt").innerText);
+    }
+
+    //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.
+    wrong_prev_item = localStorage.getItem("wrong_prev_item");
+    if (wrong_prev_item != "") {
+        $(wrong_prev_item + '_border').style.borderColor = default_color;
+        $(wrong_prev_item).style.backgroundColor = default_color;
+        $(wrong_prev_item).style.opacity = 0.1;
+        localStorage.wrong_prev_item = "";
     }
 
     // 해당 esp_txt 항목에 대해서 마이너스 점수를 준다.
@@ -365,8 +374,8 @@ window.onload = function () {
     $('btn_continue').onclick = click_continue;
 
     //progress_bar를 현재 quiz_count에 맞게 적용한다.
-    
-    $('progress').style.width = (parseFloat(localStorage.quiz_count)/10.0)*280+'px';
+
+    $('progress').style.width = (parseFloat(localStorage.quiz_count) / 10.0) * 280 + 'px';
     // alert((parseFloat(localStorage.quiz_count)/10.0))
     // alert($('progress_bar').style.width)
 

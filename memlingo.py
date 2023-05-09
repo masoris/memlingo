@@ -378,7 +378,7 @@ def card_next():
     if next_row[6] == '-':
         quiz_card_url = './quiz-first.html'
     else:
-        quizlist = ['quizB']
+        quizlist = ['quizD']
         # quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
         quiz_card = random.choice(quizlist)
         quiz_card_url = './'+quiz_card+'.html'
@@ -411,6 +411,62 @@ def get_word_to_word_diff(word1, word2):
     # 두 집합의 자카드 유사도 계산
     similarity = len(set1 & set2) / len(set1 | set2)
     return 1 - similarity
+
+
+@app.route('/api/similar-words-kor.api', methods=['POST', 'GET'])
+def similar_words_kor():
+    if request.method == 'GET':
+        email = request.args['email']
+        course = request.args['course']
+        lang = request.args['lang']
+        kor_txt = request.args['kor_txt']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
+            course = request.json['course']
+            lang = request.json['lang']
+            kor_txt = request.json['kor_txt']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
+            course = request.form['course']
+            lang = request.form['lang']
+            kor_txt = request.form['kor_txt']
+
+    
+    myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
+    if not (os.path.exists(myprogress_tsv)):
+        result = {'resp': 'Fail', 'message': myprogress_tsv+' not found'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp	
+    f = open(myprogress_tsv, 'r')
+    rows = []
+    for i, line in enumerate(f):
+        #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
+        row = line.strip().split('\t')
+        if len(row) < 7:
+            continue
+        diff_value = get_word_to_word_diff(kor_txt, row[2])
+        row = [diff_value] + row
+        rows.append(row)
+    f.close()
+    if len(rows) < 4:
+        result = {'resp': 'Fail', 'message': 'too little items in myprogress.tsv'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp	
+    #  [0]diff_value, [1]level,[2]esp_txt,[3]kor,[4]eng,[5]group,[6]count,[7]next-review-time
+    rows.sort()
+    selected = []
+    for i, row in enumerate(rows):
+        selected.append([row[2], row[3]])
+        if i == 3:
+            break
+    
+    result = {'resp': 'OK', 'selected': selected}
+    resp = make_response(jsonify(result))
+    return resp
+
 
 @app.route('/api/similar-words.api', methods=['POST', 'GET'])
 def similar_words():
@@ -506,6 +562,61 @@ def put_score():
         if len(row) < 7: #잘못 된 라인은 무시한다.
             continue
         if row[1] == esp_txt:
+            #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
+            (next_count, next_review_str) = next_review_time(int(row[5]), int(score)) 
+            row[5] = str(next_count + 1)
+            row[6] = next_review_str
+        line = "\t".join(row)+'\n'
+        lines.append(line)
+    f.close()
+
+    f = open(myprogress_tsv, 'w', encoding='utf-8')
+    f.write("".join(lines))
+    f.close()
+
+    result = {'resp': 'OK', 'message': 'score sucessfully updated'}
+    resp = make_response(jsonify(result))
+    return resp
+
+@app.route('/api/put-score-kor.api', methods=['POST', 'GET'])
+def put_score_kor():
+    if request.method == 'GET':
+        email = request.args['email']
+        course = request.args['course']
+        lang = request.args['lang']
+        kor_txt = request.args['kor_txt']
+        score = request.args['score']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
+            course = request.json['course']
+            lang = request.json['lang']
+            kor_txt = request.json['kor_txt']
+            score = request.json['score']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
+            course = request.form['course']
+            lang = request.form['lang']
+            kor_txt = request.form['kor_txt']
+            score = request.form['score']
+
+    #myprogress_tsv파일이 존재하지 않으면 error를 리턴하고 로그아웃 시킨다. 
+    myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
+    if not (os.path.exists(myprogress_tsv)):
+        result = {'resp': 'Fail', 'message': myprogress_tsv+' not found'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp	
+    
+    #myprogress 파일을 읽어서 해당 esp_txt 항목에 대한 count 값과 next-review-time을 업데이트 해준다.
+    f = open(myprogress_tsv, 'r')
+    lines = []
+    for i, line in enumerate(f):
+        #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
+        row = line.strip().split('\t')
+        if len(row) < 7: #잘못 된 라인은 무시한다.
+            continue
+        if row[2] == kor_txt:
             #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
             (next_count, next_review_str) = next_review_time(int(row[5]), int(score)) 
             row[5] = str(next_count + 1)

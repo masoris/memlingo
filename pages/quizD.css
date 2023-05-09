@@ -132,6 +132,13 @@ img.ic_close_gray {
 }
 
 .Rectangle1-1 {
+    width: 320px;
+    height: 61px;
+    /* margin: 10px 20px;
+    padding: 19px 12px 20px; */
+    opacity: 0.1;
+    border-radius: 10px;
+    background-color: #ff5c58;
     position: fixed;
     left: 20px;
     top: 210px;
@@ -200,6 +207,13 @@ img.ic_close_gray {
 }
 
 .Rectangle4-1 {
+    width: 320px;
+    height: 61px;
+    /* margin: 10px 20px;
+    padding: 19px 12px 20px; */
+    opacity: 0.1;
+    border-radius: 10px;
+    background-color: #ff5c58;
     position: fixed;
     left: 20px;
     top: 423px;
