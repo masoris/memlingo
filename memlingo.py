@@ -185,84 +185,6 @@ def logout():
     resp.set_cookie('login_status', 'loged_out')
     return resp
 
-
-@app.route('/api/card-next-old.api', methods=['POST', 'GET'])
-def next_card_old():
-    if request.method == 'GET':
-        email = request.args['email']
-        course = request.args['course']
-        lang = request.args['lang']
-    else:
-        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
-            email = request.json['email']
-            course = request.json['course']
-            lang = request.json['lang']
-        else: #헤더가 applicaiont/x-www-url-encoded이면: 
-            email = request.form['email']
-            course = request.form['course']
-            lang = request.form['lang']
-    #TODO
-    # 로그인 여부를 cookie:login_status를 이용해서 체크하고 필요하면 reject한다.
-    #if not login:
-    # result = {'resp': 'Fail', 'message': 'You are not logged in'}
-    # resp = make_response(jsonify(result))
-    # resp.set_cookie('login_status', 'loged_out')
-    # return resp   
-# userid, email, cookie:login_status, lang, course
-#     //         output: 
-#     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
-#     //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
-    myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
-    next_row = []
-    nowstr = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time()))
-    
-    f = open(myprogress_tsv, 'r')
-    for i, line in enumerate(f):
-        #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
-        row = line.strip().split('\t')
-        if len(row) < 7:
-            continue
-        if row[6] == '-':
-            next_row = row
-            break
-        if row[6] <= nowstr:
-            next_row = row
-            break
-    f.close()
-
-    if len(next_row) < 7:
-        result = {'resp': 'Fail', 'message': 'Cannot find oldest row'}
-        resp = make_response(jsonify(result))
-        resp.set_cookie('login_status', 'loged_out')
-        return resp
-
-    if next_row[6] == '-':
-        quiz_card_url = './quiz-first.html'
-    else:
-        quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
-        quiz_card = random.choice(quizlist)
-        quiz_card_url = './'+quiz_card+'.html'
-
-    #TODO 현재 음성 파일이 없어서 음성 파일들을 생성해서 저장해 놔야함 
-    voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
-    mp3list = []
-    for voice in voicelist:
-        mp3_url = '/sounds/'+voice+'/'+next_row[1]+'.mp3'
-        print("mp3_url:"+mp3_url) 
-        if os.path.exists("."+mp3_url):
-            mp3list.append([voice, mp3_url])
-    print("mp3list:"+ str(mp3list))
-    voice = ""
-    mp3_url = ""
-    voice_img_url = ""
-    if len(mp3list) > 0:
-       [voice, mp3_url] = random.choice(mp3list)
-       voice_img_url = './img/'+voice+'.png'
-
-    result = {'resp': 'OK', 'level': next_row[0], 'esp_txt': next_row[1], 'kor_txt': next_row[2], 'eng_txt': next_row[3], 'group': next_row[4], 'count':next_row[5], 'next_review_time': next_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice, "quiz_count":0}
-    resp = make_response(jsonify(result))
-    return resp
-
 def next_review_time(count, score):
     #다음 리뷰 시간 정하는 규칙
     #1. 만약 처음이면(count == 0) +5분 후로 
@@ -378,7 +300,7 @@ def card_next():
     if next_row[6] == '-':
         quiz_card_url = './quiz-first.html'
     else:
-        quizlist = ['quizD']
+        quizlist = ['quizF']
         # quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
         quiz_card = random.choice(quizlist)
         quiz_card_url = './'+quiz_card+'.html'

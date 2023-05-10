@@ -15,6 +15,9 @@ img.ic_close_gray {
     margin: 0 16px 0 0;
     padding: 3px;
     object-fit: contain;
+    position: fixed;
+    left: 20px;
+    top: 44px;
 }
 
 .Rectangle-progress-bar {
@@ -22,10 +25,12 @@ img.ic_close_gray {
     height: 16px;
     margin: 4px 0 4px 16px;
     padding: 0 231px 0 0;
-    opacity: 0.3;
     border-radius: 8px;
     border: solid 1.2px #888;
     background-color: #ccc;
+    position: fixed;
+    left: 60px;
+    top: 48px;
 }
 
 .Rectangle-progress {
@@ -34,6 +39,9 @@ img.ic_close_gray {
     border-radius: 8px;
     border: solid 1.2px #078d4f;
     background-color: #03bf6b;
+    position: fixed;
+    left: 60px;
+    top: 48px;
 }
 
 .Select-what-you-hear {
@@ -48,6 +56,9 @@ img.ic_close_gray {
     line-height: 1.25;
     letter-spacing: normal;
     color: #111;
+    position: fixed;
+    left: 20px;
+    top: 88px;
 }
 
 .Area2 {
@@ -61,7 +72,10 @@ img.ic_close_gray {
     height: 36px;
     padding: 10px 11px 10px 10px;
     border-radius: 12px;
-    background-color: #ce82ff;
+    /* background-color: #ce82ff; */
+    position: fixed;
+    left: 20px;
+    top: 164px;
 }
 
 .mi-vi {
@@ -76,6 +90,9 @@ img.ic_close_gray {
     line-height: 1.19;
     letter-spacing: normal;
     color: #111;
+    position: fixed;
+    left: 76px;
+    top: 171px;
 }
 
 .Area3 {
@@ -96,6 +113,9 @@ img.ic_close_gray {
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
+    position: fixed;
+    left: 76px;
+    top: 206px;
 }
 
 .Area4 {
@@ -116,6 +136,9 @@ img.ic_close_gray {
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
+    position: fixed;
+    left: 76px;
+    top: 236px;
 }
 
 img.ic_woman_1 {
@@ -124,24 +147,33 @@ img.ic_woman_1 {
     /* margin: 210px 20px 16px 65px; */
     padding: 8px 15px 7px;
     object-fit: contain;
+    position: fixed;
+    left: 240px;
+    top: 400px;
 }
 
 .Rectangle-hard {
     width: 175px;
     height: 46px;
-    margin: 270px 10px 10px 0;
-    padding: 13px 20px 14px;
+    /* margin: 270px 10px 10px 0;
+    padding: 13px 20px 14px; */
     border-radius: 2px;
     background-color: #4c5b75;
+    position: fixed;
+    left: 0px;
+    top: 524px;
 }
 
 .Rectangle-easy {
     width: 175px;
     height: 46px;
-    margin: 270px 0 10px 10px;
-    padding: 13px 20px 14px;
+    /* margin: 270px 0 10px 10px;
+    padding: 13px 20px 14px; */
     border-radius: 2px;
     background-color: #4c5b75;
+    position: fixed;
+    left: 185px;
+    top: 524px;
 }
 
 .Submit-hard {
@@ -180,6 +212,9 @@ img.ic_woman_1 {
     padding: 19px 20px 20px;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
+    position: fixed;
+    left: 0px;
+    top: 580px;
 }
 
 .Listen {

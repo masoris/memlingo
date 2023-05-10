@@ -200,10 +200,11 @@ img.ic_close_gray {
     /* margin: 10px 20px 96px;
     padding: 20px 12px; */
     border-radius: 10px;
-    border: solid 1px #ddd;
+    border: solid 1px #ff5c58;
     position: fixed;
     left: 20px;
     top: 423px;
+    z-index: 900;
 }
 
 .Rectangle4-1 {
@@ -213,7 +214,7 @@ img.ic_close_gray {
     padding: 19px 12px 20px; */
     /* opacity: 0.1; */
     border-radius: 10px;
-    background-color: #ff5c58;
+    background-color: #ffefef;
     position: fixed;
     left: 20px;
     top: 423px;
@@ -230,10 +231,11 @@ img.ic_close_gray {
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
+    color: #000000;
     position: fixed;
     left: 32px;
     top: 230px;
+    z-index: 900;
 }
 
 .Inside2 {
@@ -248,7 +250,7 @@ img.ic_close_gray {
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
+    color: #000000;
     position: fixed;
     left: 32px;
     top: 310px;
@@ -265,7 +267,7 @@ img.ic_close_gray {
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
+    color: #000000;
     position: fixed;
     left: 32px;
     top: 372px;
@@ -282,7 +284,7 @@ img.ic_close_gray {
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #111;
+    color: #000000;
     position: fixed;
     left: 32px;
     top: 443px;

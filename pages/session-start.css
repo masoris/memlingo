@@ -304,7 +304,7 @@ img.ic_star_1 {
     letter-spacing: normal;
     text-align: center;
     color: #fff;
-    position: absolute;
+    /* position: absolute; */
     left: 20px;
     top: 131px;
 }

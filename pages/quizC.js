@@ -217,7 +217,7 @@ window.onload = function () {
     get_similar_words_kor(carditem);
     localStorage.setItem('wrong_prev_item', '');
 
-    $('esp_txt').innerText = carditem.esp_txt;
+    // $('esp_txt').innerText = carditem.esp_txt;
     $('eng_txt').innerText = carditem.eng_txt;
     play_sound(carditem.esp_txt);
 
@@ -225,6 +225,9 @@ window.onload = function () {
         play_sound(carditem.esp_txt);
     }
 
+    $('btn_listen').onclick = function () {
+        play_sound(carditem.esp_txt);
+    }
 
     //처음에는 continue버튼이 눌러지지 않게 시작한다.
     $('btn_continue').disabled = true;

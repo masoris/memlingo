@@ -222,7 +222,6 @@ function word_click(item) {
         localStorage.setItem("prev_item", item);
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
-        $(item).style.opacity = 0.1;
         if (item.indexOf("left") >= 0) {
             play_sound($(item + '_txt').innerText);
         }
@@ -239,11 +238,9 @@ function word_click(item) {
     if (item.substring(0, 5) == prev_item.substring(0, 5)) {
         $(prev_item + '_border').style.borderColor = default_color;
         $(prev_item).style.backgroundColor = default_color;
-        $(prev_item).style.opacity = 0.1;
 
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
-        $(item).style.opacity = 0.1;
         localStorage.prev_item = item;
 
         if (item.indexOf("left") >= 0) {
@@ -257,7 +254,6 @@ function word_click(item) {
         if (wrong_prev_item != "") {
             $(wrong_prev_item + '_border').style.borderColor = default_color;
             $(wrong_prev_item).style.backgroundColor = default_color;
-            $(wrong_prev_item).style.opacity = 0.1;
             localStorage.wrong_prev_item = "";
         }
         return;
@@ -294,17 +290,14 @@ function word_click(item) {
     if (matched) {
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
-        $(item).style.opacity = 0.1;
 
         // 1초 후에 item과 prev_item을 disable 시킨다.
         function disable_matched_items() {
             $(item + '_border').style.borderColor = disabled_color;
             $(item).style.backgroundColor = disabled_color;
-            $(item).style.opacity = 0.1;
             $(item).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
             $(prev_item + '_border').style.borderColor = disabled_color;
             $(prev_item).style.backgroundColor = disabled_color;
-            $(prev_item).style.opacity = 0.1;
             $(prev_item).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
             if (item.indexOf("left") >= 0) {
                 play_sound($(item + "_txt").innerText);
@@ -328,7 +321,6 @@ function word_click(item) {
         if (wrong_prev_item != "") {
             $(wrong_prev_item + '_border').style.borderColor = default_color;
             $(wrong_prev_item).style.backgroundColor = default_color;
-            $(wrong_prev_item).style.opacity = 0.1;
             localStorage.wrong_prev_item = "";
         }
 
@@ -340,7 +332,6 @@ function word_click(item) {
     //매칭이 안되면 현재 아이템 색깔을 wrong색깔로 바꾼다.
     $(item + '_border').style.borderColor = wrong_color;
     $(item).style.backgroundColor = wrong_color;
-    $(item).style.opacity = 0.1;
     if (item.indexOf("left") >= 0) {
         play_sound($(item + "_txt").innerText);
     } else if (prev_item.indexOf("left") >= 0) {
@@ -352,7 +343,6 @@ function word_click(item) {
     if (wrong_prev_item != "") {
         $(wrong_prev_item + '_border').style.borderColor = default_color;
         $(wrong_prev_item).style.backgroundColor = default_color;
-        $(wrong_prev_item).style.opacity = 0.1;
         localStorage.wrong_prev_item = "";
     }
 

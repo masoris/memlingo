@@ -15,28 +15,43 @@
 <body>
     <div class="Quiz_E-2">
         <div class="Area1">
-            <img src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
+            <img id="btn_quit" src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
                    img/ic-close-gray@3x.png 3x" class="ic_close_gray">
-            <div class="Rectangle-progress-bar">
-                <div class="Rectangle-progress"></div>
-            </div>
+            <div id="progress_bar" class="Rectangle-progress-bar"></div>
+            <div id="progress" class="Rectangle-progress"></div>
+        </div>
 
-        </div>
-        <span class="Select-what-you-hear">
-            Guess what this means.
+    </div>
+    <span class="Select-what-you-hear">
+        Choose the level how you feel about this.
+    </span>
+    <div class="Area2">
+        <img id="speaker" src="img/speaker.png" class="Rectangle-speaker">
+        <span id="esp_txt" class="mi-vi">
+            saluton, mi estas~
         </span>
-        <div class="Area2">
-            <img src="img/speaker.png" class="Rectangle-speaker">
-            <span class="mi-vi">
-                saluton, mi estas~
-            </span>
-        </div>
-        <img src="img/ic-woman-1.png" srcset="img/ic-woman-1@2x.png 2x,
+    </div>
+    <div class="Area3">
+        <span id="kor_txt" class="I-you">
+            <!-- 안녕하세요, 나는 ~ 입니다. -->
+        </span>
+    </div>
+    <div class="Area4">
+        <span id="eng_txt" class="hello-I-am-">
+            <!-- hello, I am ~ -->
+        </span>
+    </div>
+    <img id="voice_img" src="img/ic-woman-1.png" srcset="img/ic-woman-1@2x.png 2x,
              img/ic-woman-1@3x.png 3x" class="ic_woman_1">
-        <div class="Rectangle-listen">
-            <span class="Listen">
-                Listen
-            </span>
-        </div>
+    <div class="Rectangle-hard">
+        <input type="button" id="btn_hard" class="Submit-hard" value="Hard for me">
+    </div>
+    <div class="Rectangle-easy">
+        <input type="button" id="btn_easy" class="Submit-easy" value="Easy to me">
+    </div>
+
+    <div class="Rectangle-listen">
+        <input type="button" id="btn_listen" class="Listen" value="Listen">
+    </div>
     </div>
 </body>

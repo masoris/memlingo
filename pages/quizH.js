@@ -3,15 +3,15 @@ function $(id) {
 }
 
 
-function get_similar_words_kor(carditem) {
+function get_similar_words(carditem) {
 
     var email = localStorage.email;
     var lang = localStorage.lang;
     var course = localStorage.session_course;
-    var kor_txt = carditem.kor_txt;
+    var esp_txt = carditem.esp_txt;
 
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, kor_txt: kor_txt });
-    postAjaxRequest('/api/similar-words-kor.api', jsonStr, function (responseJSONStr) {
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt });
+    postAjaxRequest('/api/similar-words.api', jsonStr, function (responseJSONStr) {
         console.log(responseJSONStr)
         responseObj = JSON.parse(responseJSONStr);
         selected_kors = [];
@@ -22,11 +22,11 @@ function get_similar_words_kor(carditem) {
             selected_esps[i] = selected_item[0];
             selected_kors[i] = selected_item[1];
         }
-        selected_kors.sort(() => Math.random() - 0.5);
-        $('block_1_txt').innerText = selected_kors[0];
-        $('block_2_txt').innerText = selected_kors[1];
-        $('block_3_txt').innerText = selected_kors[2];
-        $('block_4_txt').innerText = selected_kors[3];
+        selected_esps.sort(() => Math.random() - 0.5);
+        $('block_1_txt').innerText = selected_esps[0];
+        $('block_2_txt').innerText = selected_esps[1];
+        $('block_3_txt').innerText = selected_esps[2];
+        $('block_4_txt').innerText = selected_esps[3];
 
     }, function (status, responseText) {
         alert(responseText);
@@ -66,14 +66,14 @@ function play_sound(esp_txt) {
     }
 }
 
-function put_score_kor(kor_txt, score) {
+function put_score(esp_txt, score) {
 
     var email = localStorage.email;
     var lang = localStorage.lang;
     var course = localStorage.session_course;
 
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, kor_txt: kor_txt, score: score });
-    postAjaxRequest('/api/put-score-kor.api', jsonStr, function (responseJSONStr) {
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score });
+    postAjaxRequest('/api/put-score.api', jsonStr, function (responseJSONStr) {
         console.log(responseJSONStr)
         responseObj = JSON.parse(responseJSONStr);
 
@@ -150,11 +150,11 @@ function word_click(item) {
     esp_txt_card = JSON.parse(localStorage.Carditem).esp_txt;
     kor_txt_card = JSON.parse(localStorage.Carditem).kor_txt;
 
-    //현재 클릭된 kor_txt를 받아낸다.
-    var kor_txt = $(item + '_txt').innerText
+    //현재 클릭된 esp_txt를 받아낸다.
+    var esp_txt = $(item + '_txt').innerText
 
     //만약에 match되면 현재 아이템을 색깔을 selected로 바꾼다.
-    if (kor_txt_card == kor_txt) {
+    if (esp_txt_card == esp_txt) {
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
 
@@ -162,7 +162,7 @@ function word_click(item) {
         $('btn_continue').disabled = false;
 
         //해당 esp_txt 항목에 대해서 플러스 점수를 준다. 
-        put_score_kor(kor_txt, 1);
+        put_score(esp_txt, 1);
 
         for (i = 0; i < 4; i++) {
             block_i = 'block_' + (i + 1);
@@ -191,7 +191,7 @@ function word_click(item) {
     }
 
     // 해당 esp_txt 항목에 대해서 마이너스 점수를 준다.
-    put_score_kor(kor_txt, -1);
+    put_score(esp_txt, -1);
     localStorage.setItem("wrong_prev_item", item);
 }
 
@@ -214,17 +214,20 @@ window.onload = function () {
     // alert($('progress_bar').style.width)
 
     carditem = JSON.parse(localStorage.Carditem);
-    get_similar_words_kor(carditem);
+    get_similar_words(carditem);
     localStorage.setItem('wrong_prev_item', '');
 
-    $('esp_txt').innerText = carditem.esp_txt;
+    // $('kor_txt').innerText = carditem.kor_txt;
     $('eng_txt').innerText = carditem.eng_txt;
-    play_sound(carditem.esp_txt);
+    // play_sound(carditem.esp_txt);
 
     $('speaker').onclick = function () {
         play_sound(carditem.esp_txt);
     }
 
+    $('btn_listen').onclick = function () {
+        play_sound(carditem.esp_txt);
+    }
 
     //처음에는 continue버튼이 눌러지지 않게 시작한다.
     $('btn_continue').disabled = true;
