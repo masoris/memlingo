@@ -35,7 +35,7 @@ img.logo_subtitle {
 img.ic_close_white {
     width: 24px;
     height: 24px;
-    margin: 36px 20px 50px 86px;
+    /* margin: 36px 20px 50px 86px; */
     padding: 3px;
     object-fit: contain;
     position: absolute;
@@ -68,12 +68,13 @@ img.img_a {
     position: absolute;
     left: 130px;
     top: 204px;
+    z-index: 1;
 }
 
 .Rectangle-Copy {
     width: 320px;
     height: 538px;
-    margin: 60px 20px;
+    /* margin: 60px 20px; */
     padding: 66px 0 40px;
     border-radius: 10px;
     background-color: #fff;
@@ -284,12 +285,12 @@ img.ic_star_1 {
     width: 360px;
     height: 60px;
     /* margin: 1112px 0 0; */
-    padding: 19px 20px 20px;
+    /* padding: 19px 20px 20px; */
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #4c5b75;
     position: absolute;
     left: 0px;
-    top: 1112px;
+    top: 850px;
 }
 
 .Start-Learning {
