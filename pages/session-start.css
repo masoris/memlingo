@@ -46,7 +46,7 @@ img.ic_close_white {
 .Learn-Esperanto-by-E {
     width: 320px;
     height: 60px;
-    margin: 20px 20px 10px;
+    /* margin: 20px 20px 10px; */
     font-family: NotoSansCJKkr;
     font-size: 24px;
     font-weight: normal;
@@ -57,7 +57,7 @@ img.ic_close_white {
     color: #fff;
     position: absolute;
     left: 20px;
-    top: 134px;
+    top: 162px;
 }
 
 img.img_a {
@@ -106,8 +106,8 @@ img.ic_star_1 {
     margin: 16px 124px 10px;
     object-fit: contain;
     position: absolute;
-    left: 144px;
-    top: 366px;
+    /* left: 144px; */
+    /* top: 366px; */
 }
 
 .Points {
