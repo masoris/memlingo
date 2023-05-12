@@ -8,6 +8,12 @@ app = Flask(__name__)
 def serve_favicon():
     return send_from_directory('.', 'favicon.ico')
 
+def LOG(log_line):
+    log_file = "./logs/"+time.strftime("%Y-%m-%d", time.localtime())+".log"
+    f = open(log_file, '+a')
+    f.write(log_line+'\n')
+    f.close()
+
 # PAGES 파일 서비스
 @app.route('/pages/<path:path>')
 def serve_pages(path):
@@ -35,7 +41,7 @@ def create_user(email, lang):
     user_info = {
         "userid": email[:email.find('@')],
         "email": email,
-        "last_login": datetime.time().strftime("%Y-%m-%d %H:%M:%S"),
+        "last_login": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),
         "admin_flag": "false"
     }
     user_info_file = os.path.join(user_dir, "userinfo.json")
@@ -86,6 +92,7 @@ def login():
             email1 = request.form['email1']
             email2 = request.form['email2']
             lang = request.form['lang']
+    LOG("/api/login.api\t%s\t%s\t%s" % (email1, email2, lang))
 
     #이메일 검증과 lang 검증을 하고,
     if email1 != email2 or not is_valid_email(email1):
@@ -143,7 +150,7 @@ def login():
         mastered_count = 0 #카운트가 6이상인 것들의 갯수
         needs_review_count = 0 #needs_review는 myprogress.tsv파일의 next_review_time 칼럼의 시간을 기준으로 현재 대비 과거 인 것 들을 갯수 
         total_count = 0 #총라인 갯수
-        now_str = datetime.time().strftime("%Y-%m-%d %H:%M:%S")
+        now_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         myprogress_tsv = os.path.join(user_courses_lang_dir, course_name, "myprogress.tsv")
         f = open(myprogress_tsv, 'r', encoding = 'utf-8')
         for line in f:
@@ -238,6 +245,7 @@ def card_next():
             lang = request.form['lang']
             esp_txt = request.form['esp_txt']
             score = request.form['score']
+    LOG("/api/card-next.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score))
     
     #TODO
     # 로그인 여부를 cookie:login_status를 이용해서 체크하고 필요하면 reject한다.
@@ -321,6 +329,7 @@ def card_next():
        [voice, mp3_url] = random.choice(mp3list)
        voice_img_url = './img/'+voice+'.png'
 
+    LOG("/api/card-next.api return\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score, quiz_card_url, voice))
     result = {'resp': 'OK', 'level': next_row[0], 'esp_txt': next_row[1], 'kor_txt': next_row[2], 'eng_txt': next_row[3], 'group': next_row[4], 'count':next_row[5], 'next_review_time': next_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice}
     resp = make_response(jsonify(result))
     return resp
@@ -331,8 +340,8 @@ def get_word_to_word_diff(word1, word2):
     set2 = set(word2)
 
     # 두 집합의 자카드 유사도 계산
-    similarity = len(set1 & set2) / len(set1 | set2)
-    return 1 - similarity
+    similarity = len(set1 & set2) / len(set1 | set2) #0.0부터 1.0 사이
+    return 1 - similarity #0.0부터 1.0 사이
 
 
 @app.route('/api/similar-words-kor.api', methods=['POST', 'GET'])
@@ -353,7 +362,7 @@ def similar_words_kor():
             course = request.form['course']
             lang = request.form['lang']
             kor_txt = request.form['kor_txt']
-
+    LOG("/api/similar-words-kor.api\t%s\t%s\t%s\t%s" % (email, course, lang, kor_txt))
     
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
     if not (os.path.exists(myprogress_tsv)):
@@ -408,6 +417,7 @@ def similar_words():
             course = request.form['course']
             lang = request.form['lang']
             esp_txt = request.form['esp_txt']
+    LOG("/api/similar-words.api\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt))
 
     
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
@@ -444,6 +454,88 @@ def similar_words():
     resp = make_response(jsonify(result))
     return resp
 
+@app.route('/api/similar-words-jk.api', methods=['POST', 'GET'])
+def similar_words_jk():
+    if request.method == 'GET':
+        email = request.args['email']
+        course = request.args['course']
+        lang = request.args['lang']
+        j_word = request.args['j_word']
+        k_word = request.args['k_word']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
+            course = request.json['course']
+            lang = request.json['lang']
+            j_word = request.json['j_word']
+            k_word = request.json['k_word']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
+            course = request.form['course']
+            lang = request.form['lang']
+            j_word = request.form['j_word']
+            k_word = request.form['k_word']
+    LOG("/api/similar-words-jk.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, j_word, k_word))
+
+    
+    myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
+    if not (os.path.exists(myprogress_tsv)):
+        result = {'resp': 'Fail', 'message': myprogress_tsv+' not found'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp	
+    
+    # esp_txt 컬럼에 들어 있는 속의 개별 단어들에 대해들에 대해서 j_word와 k_word간의 거리 값을
+    # similiar_words 딕셔너리에 기억시킨다.
+    f = open(myprogress_tsv, 'r')
+    similar_words = {}
+    for i, line in enumerate(f):
+        #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
+        row = line.strip().split('\t')
+        if len(row) < 7:
+            continue
+        esp_txt = row[1]
+        esp_txt = esp_txt.replace(',', ' ,')
+        esp_txt = esp_txt.replace('?', ' ?')
+        esp_txt = esp_txt.replace('.', ' .')
+        esp_txt = esp_txt.replace('~', ' ~')
+        esp_txt = esp_txt.replace('!', ' !')
+        words = esp_txt.strip().split(' ')
+        for word in words:
+            if word in [',', '?', '.', '~', '!', '']:
+                continue
+            if not word in similar_words:
+                diff_value_j = get_word_to_word_diff(word, j_word)
+                diff_value_k = get_word_to_word_diff(word, k_word)
+                similar_words[word] = diff_value_j
+                if diff_value_k < diff_value_j:
+                    similar_words[word] = diff_value_k
+    f.close()
+
+    if len(similar_words) < 4:
+        result = {'resp': 'Fail', 'message': 'too little items in myprogress.tsv'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp	
+    
+    # similar_words의 dictionary 내용을 diff value값 순서대로 sorting한다.
+    lines = []
+    for word in similar_words:
+        line = "%0.3f %s" % (similar_words[word], word)
+        lines.append(line)
+    lines.sort()
+    
+    # sorting된 단어들 중에 diff value 최소값 6개인 단어들을 선택한다.
+    selected = []
+    for i, line in enumerate(lines):
+        (diff_value, word) = line.split(' ')
+        selected.append(word)
+        if i == 6:
+            break
+    
+    result = {'resp': 'OK', 'selected': selected}
+    resp = make_response(jsonify(result))
+    return resp
 
 @app.route('/api/put-score.api', methods=['POST', 'GET'])
 def put_score():
@@ -466,6 +558,7 @@ def put_score():
             lang = request.form['lang']
             esp_txt = request.form['esp_txt']
             score = request.form['score']
+    LOG("/api/put-score.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score))
 
     #myprogress_tsv파일이 존재하지 않으면 error를 리턴하고 로그아웃 시킨다. 
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
@@ -521,6 +614,7 @@ def put_score_kor():
             lang = request.form['lang']
             kor_txt = request.form['kor_txt']
             score = request.form['score']
+    LOG("/api/put-score-kor.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, kor_txt, score))
 
     #myprogress_tsv파일이 존재하지 않으면 error를 리턴하고 로그아웃 시킨다. 
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'

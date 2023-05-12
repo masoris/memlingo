@@ -1,0 +1,22 @@
+/api/login.api	a@a.com	a@a.com	ko-kr
+/api/card-next.api	a@a.com	A	ko-kr		
+/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	-1
+/api/card-next.api	a@a.com	A	ko-kr	mia nomo estas ~	-1
+/api/card-next.api	a@a.com	A	ko-kr	via nomo estas ~	-1
+/api/card-next.api	a@a.com	A	ko-kr	fartas, fartis	-1
+/api/card-next.api	a@a.com	A	ko-kr	estis, estos	-1
+/api/card-next.api	a@a.com	A	ko-kr	vi fartas	-1
+/api/card-next.api	a@a.com	A	ko-kr	kiel	-1
+/api/card-next.api	a@a.com	A	ko-kr	kio	-1
+/api/card-next.api	a@a.com	A	ko-kr	kio estas via nomo?	-1
+/api/card-next.api	a@a.com	A	ko-kr	bona, bone	-1
+/api/similar-words-jk.api	a@a.com	A	ko-kr	fartas	
+/api/similar-words-jk.api	a@a.com	A	ko-kr	bone	
+/api/card-next.api	a@a.com	A	ko-kr		
+/api/card-next.api return	a@a.com	A	ko-kr			./quizF.html	ludoviko
+/api/card-next.api	a@a.com	A	ko-kr	bona, bone	-1
+/api/card-next.api return	a@a.com	A	ko-kr	bona, bone	-1	./quizF.html	
+/api/card-next.api	a@a.com	A	ko-kr	fartas bone	-1
+/api/card-next.api return	a@a.com	A	ko-kr	fartas bone	-1	./quizF.html	
+/api/card-next.api	a@a.com	A	ko-kr	mi fartas bone	-1
+/api/card-next.api return	a@a.com	A	ko-kr	mi fartas bone	-1	./quizF.html	
