@@ -2,7 +2,26 @@ function $(id) {
     return document.getElementById(id);
 }
 
+function call_session_start_api() {
+    email = localStorage.email
+    lang = localStorage.lang
+    course = localStorage.session_course
+
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course });
+    postAjaxRequest('/api/session-start.api', jsonStr, function (responseJSONStr) {
+        responseObj = JSON.parse(responseJSONStr);
+        console.log(responseObj);
+
+    }, function (status, responseText) {
+        alert(responseText);
+        console.error('Error:', status);
+        console.error(responseText);
+    });
+}
+
 function click_btn_start_learning() {
+    call_session_start_api(); //session_start 로그를 남긴다.
+
     email = localStorage.email
     lang = localStorage.lang
     course = localStorage.session_course
@@ -49,9 +68,9 @@ window.onload = function () {
         window.location.href = "./login.html";
         return;
     }
-    ABC = localStorage.session_course
 
     user_courses = JSON.parse(localStorage.user_courses);
+    ABC = localStorage.session_course;
     if (ABC == 'A') {
         $('session_course_name').innerText = user_courses.A.name;
         $('session_course_short_description').innerText = user_courses.A.short_description;

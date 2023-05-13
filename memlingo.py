@@ -1,7 +1,14 @@
-from flask import Flask, send_from_directory, request, make_response, jsonify
+from flask import Flask, send_from_directory, request, make_response, jsonify, redirect, url_for
 import os, re, json, datetime, random, time 
 
 app = Flask(__name__)
+
+# flash.html이 root가 되게 한다.
+@app.route('/')
+def serve_root():
+    # return serve_pages('/pages/flash.html')
+    # return redirect(url_for('/pages/flash.html'))
+    return '<meta http-equiv="refresh" content="0; url=/pages/flash.html" />'
 
 # favicon.ico 파일 서비스
 @app.route('/favicon.ico')
@@ -11,7 +18,8 @@ def serve_favicon():
 def LOG(log_line):
     log_file = "./logs/"+time.strftime("%Y-%m-%d", time.localtime())+".log"
     f = open(log_file, '+a')
-    f.write(log_line+'\n')
+    log_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    f.write(log_time+'\t'+log_line+'\n')
     f.close()
 
 # PAGES 파일 서비스
@@ -181,15 +189,63 @@ def login():
 
 @app.route('/api/logout.api', methods=['POST'])
 def logout():
-    #TODO 쿠키 로그아웃 처리
-    # if not login:
-    # result = {'resp': 'Fail', 'message': 'You are not logged in'}
-    # resp = make_response(jsonify(result))
-    # resp.set_cookie('login_status', 'loged_out')
-    # return resp 
-    result = {'resp': 'OK', 'user': ''}
+    if request.method == 'GET':
+        email = request.args['email']
+        lang = request.args['lang']
+        course = request.args['course']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
+            lang = request.json['lang']
+            course = request.json['course']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
+            lang = request.form['lang']
+            course = request.form['course']
+    LOG("/api/logout.api\t%s\t%s\t%s" % (email, lang, course))
+    result = {'resp': 'OK', 'message': 'Successfully loged out'}
     resp = make_response(jsonify(result))
     resp.set_cookie('login_status', 'loged_out')
+    return resp
+
+@app.route('/api/session-finish.api', methods=['POST'])
+def session_finish():
+    if request.method == 'GET':
+        email = request.args['email']
+        lang = request.args['lang']
+        course = request.args['course']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
+            lang = request.json['lang']
+            course = request.json['course']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
+            lang = request.form['lang']
+            course = request.form['course']
+    LOG("/api/session-finish.api\t%s\t%s\t%s" % (email, lang, course))
+    result = {'resp': 'OK', 'message': 'Session finished'}
+    resp = make_response(jsonify(result))
+    return resp
+
+@app.route('/api/session-start.api', methods=['POST'])
+def session_start():
+    if request.method == 'GET':
+        email = request.args['email']
+        lang = request.args['lang']
+        course = request.args['course']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
+            lang = request.json['lang']
+            course = request.json['course']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
+            lang = request.form['lang']
+            course = request.form['course']
+    LOG("/api/session-start.api\t%s\t%s\t%s" % (email, lang, course))
+    result = {'resp': 'OK', 'message': 'Session started'}
+    resp = make_response(jsonify(result))
     return resp
 
 def next_review_time(count, score):
@@ -245,7 +301,7 @@ def card_next():
             lang = request.form['lang']
             esp_txt = request.form['esp_txt']
             score = request.form['score']
-    LOG("/api/card-next.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score))
+    # LOG("/api/card-next.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score))
     
     #TODO
     # 로그인 여부를 cookie:login_status를 이용해서 체크하고 필요하면 reject한다.
@@ -329,7 +385,7 @@ def card_next():
        [voice, mp3_url] = random.choice(mp3list)
        voice_img_url = './img/'+voice+'.png'
 
-    LOG("/api/card-next.api return\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score, quiz_card_url, voice))
+    LOG("/api/card-next.api\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, next_row[1], next_row[5], quiz_card_url, voice))
     result = {'resp': 'OK', 'level': next_row[0], 'esp_txt': next_row[1], 'kor_txt': next_row[2], 'eng_txt': next_row[3], 'group': next_row[4], 'count':next_row[5], 'next_review_time': next_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice}
     resp = make_response(jsonify(result))
     return resp

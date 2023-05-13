@@ -40,11 +40,29 @@ function click_speaker(esp_txt_span) {
     play_sound($(esp_txt_span).innerText);
 }
 
+function call_session_finish_api() {
+    email = localStorage.email
+    lang = localStorage.lang
+    course = localStorage.session_course
+
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course });
+    postAjaxRequest('/api/session-finish.api', jsonStr, function (responseJSONStr) {
+        responseObj = JSON.parse(responseJSONStr);
+        console.log(responseObj);
+
+    }, function (status, responseText) {
+        alert(responseText);
+        console.error('Error:', status);
+        console.error(responseText);
+    });
+}
+
 window.onload = function () {
     if (getCookie('login_status') != 'success') {
         window.location.href = "./login.html";
         return;
     }
+    call_session_finish_api();
 
     $('btn_continue').onclick = click_continue;
 

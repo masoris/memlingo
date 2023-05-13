@@ -1,0 +1,70 @@
+/api/login.api	a@a.com	a@a.com	ko-kr
+/api/logout.api	a@a.com	ko-kr	A
+/api/login.api	a@a.com	a@a.com	ko-kr
+/api/logout.api	a@a.com	ko-kr	A
+/api/login.api	a@a.com	a@a.com	ko-kr
+/api/card-next.api	a@a.com	A	ko-kr		
+/api/card-next.api return	a@a.com	A	ko-kr			./quizF.html	female2
+/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	-1
+/api/card-next.api return	a@a.com	A	ko-kr	mi estas ~	-1	./quizF.html	male3
+/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-13 16:01:11	/api/logout.api	a@a.com	ko-kr	A
+2023-05-13 16:01:14	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-13 16:05:28	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-13 16:05:31	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-13 16:05:33	/api/card-next.api	a@a.com	A	ko-kr			./quizF.html	female1
+2023-05-13 16:05:38	/api/card-next.api	a@a.com	A	ko-kr	saluton	-1	./quizF.html	male1
+2023-05-13 16:05:40	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	-1	./quizF.html	female3
+2023-05-13 16:05:41	/api/card-next.api	a@a.com	A	ko-kr	mia, via	-1	./quizF.html	female2
+2023-05-13 16:05:42	/api/card-next.api	a@a.com	A	ko-kr	nomo	-1	./quizF.html	male1
+2023-05-13 16:05:43	/api/card-next.api	a@a.com	A	ko-kr	mia nomo, via nomo	-1	./quizF.html	female1
+2023-05-13 16:05:44	/api/card-next.api	a@a.com	A	ko-kr	mia nomo estas ~	-1	./quizF.html	male1
+2023-05-13 16:05:46	/api/card-next.api	a@a.com	A	ko-kr	via nomo estas ~	-1	./quizF.html	female2
+2023-05-13 16:05:48	/api/card-next.api	a@a.com	A	ko-kr	fartas, fartis	-1	./quizF.html	female2
+2023-05-13 16:05:49	/api/card-next.api	a@a.com	A	ko-kr	estis, estos	-1	./quizF.html	male2
+2023-05-13 16:05:51	/api/card-next.api	a@a.com	A	ko-kr	vi fartas	-1	./quizF.html	male2
+2023-05-13 16:05:53	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-13 16:05:59	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-13 16:07:47	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-13 16:07:51	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-13 16:07:51	/api/card-next.api	a@a.com	A	ko-kr			./quizF.html	female3
+2023-05-13 16:07:53	/api/card-next.api	a@a.com	A	ko-kr	kiel	-1	./quizF.html	male3
+2023-05-13 16:07:54	/api/card-next.api	a@a.com	A	ko-kr	kio	-1	./quizF.html	female3
+2023-05-13 16:07:55	/api/card-next.api	a@a.com	A	ko-kr	kio estas via nomo?	-1	./quizF.html	ludoviko
+2023-05-13 16:07:56	/api/card-next.api	a@a.com	A	ko-kr	bona, bone	-1	./quizF.html	
+2023-05-13 16:07:58	/api/card-next.api	a@a.com	A	ko-kr	fartas bone	-1	./quizF.html	
+2023-05-13 16:07:59	/api/card-next.api	a@a.com	A	ko-kr	mi fartas bone	-1	./quizF.html	
+2023-05-13 16:08:00	/api/card-next.api	a@a.com	A	ko-kr	kaj	-1	./quizF.html	
+2023-05-13 16:08:01	/api/card-next.api	a@a.com	A	ko-kr	bone, kaj vi?	-1	./quizF.html	
+2023-05-13 16:08:02	/api/card-next.api	a@a.com	A	ko-kr	ĝis ~	-1	./quizF.html	
+2023-05-13 16:08:03	/api/card-next.api	a@a.com	A	ko-kr	vidas, vidis	-1	./quizF.html	
+2023-05-13 16:08:05	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-13 16:14:35	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-13 16:14:38	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-13 16:14:38	/api/card-next.api	a@a.com	A	ko-kr	bona, bone	1	./quizF.html	ludoviko
+2023-05-13 16:14:39	/api/card-next.api	a@a.com	A	ko-kr	mi fartas bone	1	./quizF.html	
+2023-05-13 16:14:41	/api/card-next.api	a@a.com	A	ko-kr	kaj	1	./quizF.html	
+2023-05-13 16:14:42	/api/card-next.api	a@a.com	A	ko-kr	bone, kaj vi?	1	./quizF.html	
+2023-05-13 16:14:43	/api/card-next.api	a@a.com	A	ko-kr	vidis, revidis	1	./quizF.html	
+2023-05-13 16:14:44	/api/card-next.api	a@a.com	A	ko-kr	revidis, revidos	1	./quizF.html	
+2023-05-13 16:14:46	/api/card-next.api	a@a.com	A	ko-kr	revido, revidon	1	./quizF.html	
+2023-05-13 16:14:47	/api/card-next.api	a@a.com	A	ko-kr	ĝis revido!	1	./quizF.html	
+2023-05-13 16:14:48	/api/card-next.api	a@a.com	A	ko-kr	dankon	1	./quizF.html	
+2023-05-13 16:14:49	/api/card-next.api	a@a.com	A	ko-kr	dankon kaj ĝis revido!	1	./quizF.html	
+2023-05-13 16:14:50	/api/card-next.api	a@a.com	A	ko-kr	al ~	1	./quizF.html	
+2023-05-13 16:14:51	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-13 16:16:11	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-13 16:16:15	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-13 16:16:15	/api/card-next.api	a@a.com	A	ko-kr	al ~	1	./quizF.html	
+2023-05-13 16:16:17	/api/card-next.api	a@a.com	A	ko-kr	al vi, al mi	2	./quizF.html	female1
+2023-05-13 16:16:19	/api/card-next.api	a@a.com	A	ko-kr	dankas, dankis	1	./quizF.html	
+2023-05-13 16:16:20	/api/card-next.api	a@a.com	A	ko-kr	mi dankas al vi	1	./quizF.html	
+2023-05-13 16:16:21	/api/card-next.api	a@a.com	A	ko-kr	jes, ne	1	./quizF.html	
+2023-05-13 16:16:23	/api/card-next.api	a@a.com	A	ko-kr	jes, dankon	1	./quizF.html	
+2023-05-13 16:16:25	/api/card-next.api	a@a.com	A	ko-kr	manĝas, manĝos	2	./quizF.html	
+2023-05-13 16:16:26	/api/card-next.api	a@a.com	A	ko-kr	mi ne manĝas	1	./quizF.html	
+2023-05-13 16:16:27	/api/card-next.api	a@a.com	A	ko-kr	ne, mi ne manĝas	1	./quizF.html	
+2023-05-13 16:16:28	/api/card-next.api	a@a.com	A	ko-kr	bela, bele	1	./quizF.html	
+2023-05-13 16:16:30	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-13 16:21:05	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-13 16:23:43	/api/similar-words-kor.api	a@a.com	A	ko-kr	아름다운, 아름답게

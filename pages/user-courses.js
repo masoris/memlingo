@@ -3,25 +3,30 @@ function $(id) {
 }
 
 function onlogout_click() {
-  //alert('logout click');
+  email = localStorage.email;
+  lang = localStorage.lang;
+  if (localStorage.getItem("session_course") == "") {
+    course = "";
+  } else {
+    course = localStorage.session_course;
+  }
 
-  var jsonStr = "";
+  var jsonStr = JSON.stringify({ email: email, lang: lang, course: course });
   postAjaxRequest('/api/logout.api', jsonStr, function (response) {
     //여기서 암묵적으로 쿠키가 들어옴 
     if (getCookie('login_status') != 'success') {
       //alert('Logout action is sucessfuly done');
     }
-    localStorage.setItem('user_courses','');
+    localStorage.setItem('user_courses', '');
     window.location.href = "./login.html";
     console.log(response);
   }, function (status) {
     setCookie('login_status', 'loged_out');
     setCookie('user', '');
-    localStorage.setItem('user_courses','');
+    localStorage.setItem('user_courses', '');
     window.location.href = "./login.html";
     console.error('Error:', status);
   });
-
 }
 
 // function saluton_click() {
@@ -70,16 +75,16 @@ window.onload = function () {
   $('CourseC_total_count').innerText = user_courses.C.total_count;
 
   $('Btn_logout').onclick = onlogout_click;
-  $('Btn_StartA').onclick = function() {
-    localStorage.setItem('session_course',"A");
+  $('Btn_StartA').onclick = function () {
+    localStorage.setItem('session_course', "A");
     window.location.href = "./session-start.html";
   }
-  $('Btn_StartB').onclick = function() {
-    localStorage.setItem('session_course',"B");
+  $('Btn_StartB').onclick = function () {
+    localStorage.setItem('session_course', "B");
     window.location.href = "./session-start.html";
   }
-  $('Btn_StartC').onclick = function() {
-    localStorage.setItem('session_course',"C");
+  $('Btn_StartC').onclick = function () {
+    localStorage.setItem('session_course', "C");
     window.location.href = "./session-start.html";
   }
   //   $('btn_saluton').onclick = saluton_click;

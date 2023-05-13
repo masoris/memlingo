@@ -30,7 +30,7 @@ function click_btn_easy_hard(easy_or_hard) {
     quiz_count = parseInt(localStorage.quiz_count) + 1;
     localStorage.setItem("quiz_count", quiz_count.toString());
     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count > 10) {
+    if (localStorage.quiz_count >= 10) {
         window.location.href = "session-finish.html";
         return;
     }

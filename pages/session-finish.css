@@ -159,7 +159,7 @@ img.ic_star_1 {
 .Area1-1 {
     width: 280px;
     height: 18px;
-    margin: 1px 0;
+    margin-left: 62px;
 }
 
 .Area2 {
@@ -201,7 +201,7 @@ img.ic_star_1 {
 .Rectangle-continue {
     width: 360px;
     height: 60px;
-    margin: 810px 0 0;
+    margin: 50px auto;
     padding: 19px 20px 20px;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #4c5b75;
