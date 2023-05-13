@@ -29,7 +29,7 @@ img.logo_subtitle {
     object-fit: contain;
     position: absolute;
     left: 20px;
-    top: 60px;
+    top: 10px;
 }
 
 img.ic_close_white {
@@ -39,8 +39,8 @@ img.ic_close_white {
     padding: 3px;
     object-fit: contain;
     position: absolute;
-    left: 316px;
-    top: 60px;
+    left: 296px;
+    top: 44px;
 }
 
 .Learn-Esperanto-by-E {
@@ -57,7 +57,7 @@ img.ic_close_white {
     color: #fff;
     position: absolute;
     left: 20px;
-    top: 162px;
+    top: 120px;
 }
 
 img.img_a {
@@ -67,7 +67,7 @@ img.img_a {
     object-fit: contain;
     position: absolute;
     left: 130px;
-    top: 204px;
+    top: 166px;
     z-index: 1;
 }
 
@@ -80,7 +80,7 @@ img.img_a {
     background-color: #fff;
     position: absolute;
     left: 20px;
-    top: 254px;
+    top: 214px;
 }
 
 .Esperanto-A- {
@@ -95,9 +95,13 @@ img.img_a {
     line-height: 1.25;
     letter-spacing: normal;
     color: #111;
-    position: absolute;
-    left: 40px;
+    /* position: absolute; */
+    left: 0px;
     top: 320px;
+    /* text-align: center; */
+    display: inline-block; /* inline 요소를 block 요소로 변환하여 width와 height를 지정할 수 있도록 합니다. */
+    text-align: center; /* span 요소의 글자를 가운데 정렬합니다. */
+    /* width: 100%; */ /* span 요소의 width를 100%로 설정하여 부모 요소의 width에 맞게 글자를 가운데 정렬합니다. */
 }
 
 img.ic_star_1 {
@@ -105,7 +109,7 @@ img.ic_star_1 {
     height: 20px;
     margin: 16px 124px 10px;
     object-fit: contain;
-    position: absolute;
+    /* position: absolute; */
     /* left: 144px; */
     /* top: 366px; */
 }

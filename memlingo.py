@@ -364,8 +364,8 @@ def card_next():
     if next_row[6] == '-':
         quiz_card_url = './quiz-first.html'
     else:
-        quizlist = ['quizF']
-        # quizlist = ['quizA','quizB','quizC','quizD','quizE','quizF']
+        quizlist = ['quizB','quizC','quizD','quizE','quizF','quizG','quizH','quizI']
+        # quizlist = ['quizB','quizC','quizD','quizE','quizF','quizG','quizH','quizI']
         quiz_card = random.choice(quizlist)
         quiz_card_url = './'+quiz_card+'.html'
 

@@ -68,3 +68,17 @@
 2023-05-13 16:16:30	/api/session-finish.api	a@a.com	ko-kr	A
 2023-05-13 16:21:05	/api/login.api	a@a.com	a@a.com	ko-kr
 2023-05-13 16:23:43	/api/similar-words-kor.api	a@a.com	A	ko-kr	아름다운, 아름답게
+2023-05-13 20:58:39	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-13 21:01:05	/api/logout.api	a@a.com	ko-kr	A
+2023-05-13 21:04:22	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-13 21:44:48	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-13 21:44:48	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	2	./quizF.html	female3
+2023-05-13 21:46:21	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-13 21:46:21	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	2	./quizE.html	male1
+2023-05-13 21:46:29	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-13 21:46:29	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	2	./quizH.html	male3
+2023-05-13 21:46:29	/api/similar-words.api	a@a.com	A	ko-kr	mi estas ~
+2023-05-13 21:46:34	/api/put-score.api	a@a.com	A	ko-kr	mi estas ~	1
+2023-05-13 21:46:36	/api/card-next.api	a@a.com	A	ko-kr	saluton	2	./quizF.html	ludoviko
+2023-05-13 21:51:57	/api/logout.api	a@a.com	ko-kr	A
+2023-05-13 22:11:49	/api/login.api	a@a.com	a@a.com	ko-kr

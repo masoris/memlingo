@@ -11,11 +11,10 @@ body {
 
 .Rectangle-Background {
   width: 360px;
-  height: 1784px;
+  /* height: 1784px; */
   padding: 0 0 60px;
   background-color: #03bf6b;
 }
-
 
 .User-courses {
   width: 360px;
@@ -110,7 +109,7 @@ img.img_a {
 .Rectangle-Button {
   width: 280px;
   height: 60px;
-  margin: 24px 0 0;
+  /* margin: 24px 0 0; */
   /* padding: 19px 20px 20px; */
   border-radius: 2px;
   background-color: #03bf6b;
@@ -243,6 +242,12 @@ img.img_c {
   padding: 13px 16px 14px;
   border-radius: 2px;
   background-color: #fff;
+  display: flex;
+  /* Flexbox 사용 */
+  justify-content: center;
+  /* 가로 가운데 정렬 */
+  align-items: center;
+  /* 세로 가운데 정렬 */
 }
 
 img.arrow_dropdown_black {
