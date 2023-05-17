@@ -1,13 +1,13 @@
 Saluton	mi, vi	나, 당신	I, you	Saluton	9	2023-11-05 17:37:55
 Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton	8	2023-07-09 15:51:58
-Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	4	2023-05-14 21:46:36
+Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	5	2023-05-19 17:41:17
 Saluton	vi estas ~	당신은 ~ 이다	you are ~	Saluton	8	2023-07-09 16:18:23
-Saluton	saluton	안녕하세요	hello	Saluton	2	2023-05-13 16:25:38
-Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton	2	2023-05-13 16:25:40
-Saluton	mia, via	나의, 당신의	my, your	Saluton	2	2023-05-13 16:25:41
-Saluton	nomo	이름	a name	Saluton	2	2023-05-13 16:25:42
+Saluton	saluton	안녕하세요	hello	Saluton	2	2023-05-14 15:50:05
+Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton	4	2023-05-15 15:30:30
+Saluton	mia, via	나의, 당신의	my, your	Saluton	3	2023-05-14 20:31:35
+Saluton	nomo	이름	a name	Saluton	3	2023-05-14 20:31:38
 Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	2	2023-05-13 16:25:43
-Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	2	2023-05-13 16:25:44
+Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	2	2023-05-17 18:01:18
 Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	2	2023-05-13 16:25:46
 Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did 	Saluton	2	2023-05-13 16:25:48
 Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, (past) will be	Saluton	2	2023-05-13 16:25:49
@@ -72,7 +72,7 @@ Bonan nokton	lernanta, lernanto	배우고 있는, 배우고 있는 사람 (학�
 Bonan nokton	-anta, -anto	(현재진행) ~하고 있는, ~하는 사람	is -ing, a person who is doing	Bonan nokton	0	-
 Bonan nokton	lernanto, lerninto	배우고 있는 사람 (학생), 배웠던 사람	a student, a person who has learned	Bonan nokton	0	-
 Bonan nokton	mi estas lernanto	나는 학생이다	I am a student.	Bonan nokton	0	-
-Bonan nokton	~ estas mia amiko	~는 나의 친구이다	~ is my friend	Bonan nokton	1	2023-05-08 17:07:19
+Bonan nokton	~ estas mia amiko	~는 나의 친구이다	~ is my friend	Bonan nokton	2	2023-05-17 18:01:19
 Bonan nokton	li, ŝi	그남자, 그여자	he, she	Bonan nokton	0	-
 Bonan nokton	sidi, sidas	앉다, 앉아 있다	to sit, sits	Bonan nokton	0	-
 Bonan nokton	sidanta, sidinta, sidonta	앉아 있는, 앉았던, 앉을 예정인	is sitting, was sitting, will be sitting	Bonan nokton	0	-
@@ -125,7 +125,7 @@ Amiko	via lernanto, viaj lernantoj	당신의 학생, 당신의 학생들	your st
 Amiko	ĉu ili estas viaj lernantoj?	그들이 당신의 학생들입니까?	are they your students?	Amiko	1	2023-05-09 17:54:17
 Amiko	ĉu vi estas lernanto?	당신은 학생인가?	are you a student?	Amiko	0	-
 Amiko	ĉu vi estas en la ĉambro?	너는 그 방에 있는가?	are you in the room?	Amiko	0	-
-Amiko	mi ne estas ~	나는 ~이지 않다.	I'm not ~	Amiko	3	2023-05-09 21:02:06
+Amiko	mi ne estas ~	나는 ~이지 않다.	I'm not ~	Amiko	4	2023-05-18 17:41:20
 Amiko	ne estas en la ĉambro	그 방 안에 없다.	is not in the room	Amiko	0	-
 Amiko	esperantisto kaj esperantistino	에스페란티스토와 여성에스페란티스토	an Esperantist and a female Esperantist	Amiko	0	-
 Amiko	enskribis por la hotelĉambro	그 호텔방을 위해 예약했다	checked in for the hotel room	Amiko	0	-

@@ -1,0 +1,10 @@
+2023-05-17 17:26:52	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-17 17:40:37	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-17 17:40:37	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	4	./quizH.html	male1
+2023-05-17 17:40:37	/api/similar-words.api	a@a.com	A	ko-kr	mi estas ~
+2023-05-17 17:41:03	/api/similar-words.api	a@a.com	A	ko-kr	mi estas ~
+2023-05-17 17:41:17	/api/put-score.api	a@a.com	A	ko-kr	mi estas ~	1
+2023-05-17 17:41:17	/api/put-score.api	a@a.com	A	ko-kr	~ estas mia amiko	-1
+2023-05-17 17:41:18	/api/put-score.api	a@a.com	A	ko-kr	mia nomo estas ~	-1
+2023-05-17 17:41:19	/api/put-score.api	a@a.com	A	ko-kr	~ estas mia amiko	1
+2023-05-17 17:41:20	/api/put-score.api	a@a.com	A	ko-kr	mi ne estas ~	1

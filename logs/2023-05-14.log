@@ -1,1 +1,24 @@
 2023-05-14 07:46:58	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-14 10:00:21	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-14 11:02:33	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-14 11:02:33	/api/card-next.api	a@a.com	A	ko-kr	saluton	2	./quizH.html	male2
+2023-05-14 11:02:33	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2023-05-14 12:26:10	/api/logout.api	a@a.com	ko-kr	A
+2023-05-14 12:26:13	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-14 15:12:03	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-14 15:25:37	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-14 15:28:55	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-14 15:29:04	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-14 15:29:04	/api/card-next.api	a@a.com	A	ko-kr	saluton	2	./quizF.html	male1
+2023-05-14 15:30:05	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	2	./quizH.html	ludoviko
+2023-05-14 15:30:05	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-14 15:30:16	/api/put-score.api	a@a.com	A	ko-kr	saluton, mi estas ~	1
+2023-05-14 15:30:30	/api/put-score.api	a@a.com	A	ko-kr	saluton, mi estas ~	1
+2023-05-14 15:30:40	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-14 15:31:27	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-14 15:31:27	/api/card-next.api	a@a.com	A	ko-kr	mia, via	2	./quizI.html	female3
+2023-05-14 15:31:28	/api/similar-words-jk.api	a@a.com	A	ko-kr	mia	
+2023-05-14 15:31:35	/api/card-next.api	a@a.com	A	ko-kr	nomo	2	./quizH.html	female3
+2023-05-14 15:31:35	/api/similar-words.api	a@a.com	A	ko-kr	nomo
+2023-05-14 15:31:38	/api/put-score.api	a@a.com	A	ko-kr	nomo	1
+2023-05-14 15:31:43	/api/session-finish.api	a@a.com	ko-kr	A

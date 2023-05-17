@@ -14,7 +14,7 @@ span {
 
 .Rectangle-Background {
     width: 360px;
-    height: 1112px;
+    height: 600px;
     padding: 0 0 60px;
     background-color: #03bf6b;
     position: absolute;
@@ -73,7 +73,7 @@ img.img_a {
 
 .Rectangle-Copy {
     width: 320px;
-    height: 538px;
+    height: 315px;
     /* margin: 60px 20px; */
     padding: 66px 0 40px;
     border-radius: 10px;
@@ -81,6 +81,18 @@ img.img_a {
     position: absolute;
     left: 20px;
     top: 214px;
+}
+
+.Left {
+    left: 10%;
+    position: absolute;
+
+}
+
+.Right {
+    left: 55%;
+    position: absolute;
+
 }
 
 .Esperanto-A- {
@@ -99,9 +111,12 @@ img.img_a {
     left: 0px;
     top: 320px;
     /* text-align: center; */
-    display: inline-block; /* inline 요소를 block 요소로 변환하여 width와 height를 지정할 수 있도록 합니다. */
-    text-align: center; /* span 요소의 글자를 가운데 정렬합니다. */
-    /* width: 100%; */ /* span 요소의 width를 100%로 설정하여 부모 요소의 width에 맞게 글자를 가운데 정렬합니다. */
+    display: inline-block;
+    /* inline 요소를 block 요소로 변환하여 width와 height를 지정할 수 있도록 합니다. */
+    text-align: center;
+    /* span 요소의 글자를 가운데 정렬합니다. */
+    /* width: 100%; */
+    /* span 요소의 width를 100%로 설정하여 부모 요소의 width에 맞게 글자를 가운데 정렬합니다. */
 }
 
 img.ic_star_1 {
@@ -249,6 +264,12 @@ img.ic_star_1 {
     color: #999;
 }
 
+.Short-description {
+    position: absolute;
+    top: 333px;
+    left: 19px;
+}
+
 .Rectangle1 {
     width: 320px;
     height: 60px;
@@ -294,7 +315,10 @@ img.ic_star_1 {
     background-color: #4c5b75;
     position: absolute;
     left: 0px;
-    top: 850px;
+    top: 651px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 .Start-Learning {
