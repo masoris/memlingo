@@ -1,0 +1,27 @@
+2023-05-18 15:11:16	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-18 15:11:34	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 15:11:34	/api/card-next.api	a@a.com	A	ko-kr	saluton	2	./quizF.html	male1
+2023-05-18 15:11:47	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 15:11:47	/api/card-next.api	a@a.com	A	ko-kr	saluton	2	./quizE.html	male1
+2023-05-18 15:11:52	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 15:11:52	/api/card-next.api	a@a.com	A	ko-kr	saluton	2	./quizH.html	ludoviko
+2023-05-18 15:11:52	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2023-05-18 15:11:56	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 15:11:56	/api/card-next.api	a@a.com	A	ko-kr	saluton	2	./quizB.html	ludoviko
+2023-05-18 15:11:56	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2023-05-18 15:12:19	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 15:12:19	/api/card-next.api	a@a.com	A	ko-kr	saluton	2	./quizD.html	female3
+2023-05-18 15:12:19	/api/similar-words-kor.api	a@a.com	A	ko-kr	안녕하세요
+2023-05-18 15:12:45	/api/put-score-kor.api	a@a.com	A	ko-kr	안녕하세요	1
+2023-05-18 15:12:47	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	4	./quizB.html	female1
+2023-05-18 15:12:47	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 15:22:10	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-18 17:19:51	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-18 17:27:16	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 17:27:16	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	4	./quizH.html	male2
+2023-05-18 17:27:16	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 17:27:30	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-18 17:27:35	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 17:27:35	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	4	./quizF.html	female2
+2023-05-18 17:27:42	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 17:27:42	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	4	./quizE.html	male3

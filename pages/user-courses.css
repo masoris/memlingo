@@ -5,8 +5,10 @@
 }
 
 body {
-    margin-top: 0;
-    align-content: center;
+    margin: 0px;
+    background-color: #03bf6b;
+    justify-content: center;
+    display: flex;
 }
 
 .Rectangle-Background {

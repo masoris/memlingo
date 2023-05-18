@@ -1,3 +1,10 @@
+body {
+    margin: 0px;
+    background-color: #03bf6b;
+    justify-content: center;
+    display: flex;
+}
+
 span {
     width: 280px;
     height: 21px;
@@ -17,7 +24,7 @@ span {
     height: 600px;
     padding: 0 0 60px;
     background-color: #03bf6b;
-    position: absolute;
+    position: relative;
     left: 0px;
     top: 0px;
 }
@@ -307,23 +314,24 @@ img.ic_star_1 {
 }
 
 .Rectangle4 {
-    width: 360px;
+    width: 100%;
     height: 60px;
     /* margin: 1112px 0 0; */
     /* padding: 19px 20px 20px; */
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #4c5b75;
-    position: absolute;
-    left: 0px;
-    top: 651px;
+    position: fixed;
+    /* left: 0px; */
+    /* top: 651px; */
+    bottom: 0px;
     align-items: center;
     justify-content: center;
     display: flex;
 }
 
 .Start-Learning {
-    width: 320px;
-    height: 21px;
+    width: 100%;
+    height: 100%;
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -336,4 +344,5 @@ img.ic_star_1 {
     /* position: absolute; */
     left: 20px;
     top: 131px;
+    background-color: #4c5b75;
 }
