@@ -1,351 +1,369 @@
 .Quiz_C-3 {
-  width: 360px;
-  height: 640px;
+    width: 360px;
+    height: 640px;
 }
 
 .Area1 {
-  width: 320px;
-  height: 24px;
-  margin: 20px;
-  position: fixed;
-  left: 20px;
-  top: 44px;
+    width: 320px;
+    height: 24px;
+    margin: 20px;
+    position: absolute;
+    left: 20px;
+    top: 44px;
 }
 
 img.ic_close_gray {
-  width: 24px;
-  height: 24px;
-  margin: 0 16px 0 0;
-  padding: 3px;
-  object-fit: contain;
-  position: fixed;
-  left: 20px;
-  top: 44px;
+    width: 24px;
+    height: 24px;
+    margin: 0 16px 0 0;
+    padding: 3px;
+    object-fit: contain;
+    position: absolute;
+    /* left: 20px; */
+    /* top: 44px; */
 }
 
 .Rectangle-progress-bar {
-  width: 280px;
-  height: 16px;
-  margin: 4px 0 4px 16px;
-  padding: 0 231px 0 0;
-  border-radius: 8px;
-  border: solid 1.2px #888;
-  background-color: #ccc;
-  position: fixed;
-  left: 60px;
-  top: 48px;
+    /* width: 280px; */
+    height: 16px;
+    /* margin: 4px 0 4px 16px; */
+    /* padding: 0 231px 0 0; */
+    border-radius: 8px;
+    border: solid 1.2px #888;
+    background-color: #ccc;
+    /* position: absolute; */
+    left: 60px;
+    top: 48px;
 }
 
 .Rectangle-progress {
-  width: 49px;
-  height: 16px;
-  border-radius: 8px;
-  border: solid 1.2px #078d4f;
-  background-color: #03bf6b;
-  position: fixed;
-  left: 60px;
-  top: 48px;
+    width: 49px;
+    height: 16px;
+    border-radius: 8px;
+    border: solid 1.2px #078d4f;
+    background-color: #03bf6b;
+    position: absolute;
+    /* left: 60px; */
+    /* top: 48px; */
 }
 
 .Select-what-you-hear {
-  width: 320px;
-  height: 30px;
-  margin: 20px 20px 16px;
-  font-family: NotoSansCJKkr;
-  font-size: 24px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.25;
-  letter-spacing: normal;
-  color: #111;
-  position: fixed;
-  left: 20px;
-  top: 88px;
+    width: 320px;
+    height: 30px;
+    margin: 20px 20px 16px;
+    font-family: NotoSansCJKkr;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #111;
+    position: absolute;
+    /* left: 20px; */
+    /* top: 88px; */
 }
 
 .Area2 {
-  width: 320px;
-  height: 40px;
-  margin: 0 0 2px;
-  position: fixed;
-  left: 20px;
-  top: 136px;
+    width: 320px;
+    height: 40px;
+    margin: 0 0 2px;
+    position: absolute;
+    left: 20px;
+    top: 136px;
 }
 
 .Rectangle-speaker {
-  width: 40px;
-  height: 36px;
-  padding: 10px 11px 10px 10px;
-  border-radius: 12px;
-  position: fixed;
-  left: 20px;
-  top: 134px;
+    width: 40px;
+    height: 36px;
+    padding: 10px 11px 10px 10px;
+    border-radius: 12px;
+    position: absolute;
+    left: 20px;
+    top: 134px;
 }
 
 .mi-vi {
-  width: 264px;
-  height: 25px;
-  margin: 7px 0 8px 16px;
-  font-family: NotoSansCJKkr;
-  font-size: 21px;
-  font-weight: bold;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.19;
-  letter-spacing: normal;
-  color: #111;
-  position: fixed;
-  left: 76px;
-  top: 141px;
+    width: 264px;
+    height: 25px;
+    margin: 7px 0 8px 16px;
+    font-family: NotoSansCJKkr;
+    font-size: 21px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #111;
+    position: absolute;
+    left: 76px;
+    top: 141px;
 }
 
 .Area3 {
-  width: 320px;
-  height: 18px;
-  margin: 2px 0 0;
-  padding: 0 0 0 56px;
-  position: fixed;
-  left: 20px;
-  top: 176px;
+    width: 320px;
+    height: 18px;
+    margin: 2px 0 0;
+    padding: 0 0 0 56px;
+    position: absolute;
+    left: 20px;
+    top: 176px;
 }
 
 .I-you {
-  width: 264px;
-  height: 18px;
-  font-family: NotoSansCJKkr;
-  font-size: 14px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.29;
-  letter-spacing: normal;
-  color: #999;
-  position: fixed;
-  left: 76px;
-  top: 176px;
+    width: 264px;
+    height: 18px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #999;
+    position: absolute;
+    left: 76px;
+    top: 176px;
 }
 
 .Rectangle1 {
-  width: 155px;
-  height: 121px;
-  margin: 16px 5px 10px 20px;
-  /* padding: 50px 12px 22px; */
-  border-radius: 10px;
-  border: solid 1px #ff5c58;
-  position: fixed;
-  left: 20px;
-  top: 210px;
+    width: 155px;
+    height: 121px;
+    margin: 16px 5px 10px 20px;
+    /* padding: 50px 12px 22px; */
+    border-radius: 10px;
+    border: solid 1px #ff5c58;
+    position: absolute;
+    left: 20px;
+    top: 210px;
 }
 
 .Rectangle1-1 {
-  width: 155px;
-  height: 121px;
-  margin: 16px 5px 10px 20px;
-  /* padding: 50px 12px 22px; */
-  border-radius: 10px;
-  background-color: #ff5c58;
-  position: fixed;
-  left: 20px;
-  top: 210px;
+    width: 155px;
+    height: 121px;
+    /* margin: 16px 5px 10px 20px; */
+    /* padding: 50px 12px 22px; */
+    border-radius: 10px;
+    background-color: #ff5c58;
+    /* position: absolute; */
+    /* left: 20px; */
+    /* top: 210px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .Inside1 {
-  width: 131px;
-  height: 21px;
-  margin: 0 0 7px;
-  font-family: NotoSansCJKkr;
-  font-size: 17px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.24;
-  letter-spacing: normal;
-  text-align: center;
-  position: fixed;
-  left: 32px;
-  top: 260px;
+    width: 131px;
+    height: 21px;
+    margin: 0 0 7px;
+    font-family: NotoSansCJKkr;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    /* position: absolute; */
+    /* left: 32px; */
+    /* top: 260px; */
 }
 
 .Rectangle2 {
-  width: 155px;
-  height: 121px;
-  margin: 16px 20px 10px 5px;
-  /* padding: 50px 12px; */
-  border-radius: 10px;
-  border: solid 1px #ddd;
-  background-color: #fff;
-  position: fixed;
-  left: 185px;
-  top: 210px;
+    width: 155px;
+    height: 121px;
+    margin: 16px 20px 10px 5px;
+    /* padding: 50px 12px; */
+    border-radius: 10px;
+    border: solid 1px #ddd;
+    background-color: #fff;
+    position: absolute;
+    left: 185px;
+    top: 210px;
 }
 
 .Rectangle2-1 {
-  width: 155px;
-  height: 121px;
-  margin: 16px 5px 10px 20px;
-  /* padding: 50px 12px 22px; */
-  border-radius: 10px;
-  background-color: #ff5c58;
-  position: fixed;
-  left: 185px;
-  top: 210px;
+    width: 155px;
+    height: 121px;
+    /* margin: 16px 5px 10px 20px; */
+    /* padding: 50px 12px 22px; */
+    border-radius: 10px;
+    background-color: #ff5c58;
+    /* position: absolute; */
+    /* left: 185px; */
+    /* top: 210px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .Inside2 {
-  width: 131px;
-  height: 21px;
-  font-family: NotoSansCJKkr;
-  font-size: 17px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.24;
-  letter-spacing: normal;
-  text-align: center;
-  color: #111;
-  position: fixed;
-  left: 197px;
-  top: 260px;
+    width: 131px;
+    height: 21px;
+    font-family: NotoSansCJKkr;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #111;
+    /* position: absolute; */
+    /* left: 197px; */
+    /* top: 260px; */
 }
 
 .Rectangle3 {
-  width: 155px;
-  height: 121px;
-  margin: 10px 5px 118px 20px;
-  /* padding: 50px 12px; */
-  border-radius: 10px;
-  border: solid 1px #ddd;
-  background-color: #fff;
-  position: fixed;
-  left: 20px;
-  top: 341px;
+    width: 155px;
+    height: 121px;
+    margin: 10px 5px 118px 20px;
+    /* padding: 50px 12px; */
+    border-radius: 10px;
+    border: solid 1px #ddd;
+    background-color: #fff;
+    position: absolute;
+    left: 20px;
+    top: 341px;
 }
 
 .Rectangle3-1 {
-  width: 155px;
-  height: 121px;
-  margin: 16px 5px 10px 20px;
-  /* padding: 50px 12px 22px; */
-  border-radius: 10px;
-  background-color: #ff5c58;
-  position: fixed;
-  left: 20px;
-  top: 341px;
+    width: 155px;
+    height: 121px;
+    /* margin: 16px 5px 10px 20px; */
+    /* padding: 50px 12px 22px; */
+    border-radius: 10px;
+    background-color: #ff5c58;
+    /* position: absolute; */
+    /* left: 20px; */
+    /* top: 341px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .Inside3 {
-  width: 131px;
-  height: 21px;
-  font-family: NotoSansCJKkr;
-  font-size: 17px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.24;
-  letter-spacing: normal;
-  text-align: center;
-  color: #111;
-  position: fixed;
-  left: 32px;
-  top: 391px;
+    width: 131px;
+    height: 21px;
+    font-family: NotoSansCJKkr;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #111;
+    /* position: absolute; */
+    /* left: 32px; */
+    /* top: 391px; */
 }
 
 .Rectangle4 {
-  width: 155px;
-  height: 121px;
-  margin: 10px 20px 118px 5px;
-  /* padding: 50px 12px; */
-  border-radius: 10px;
-  border: solid 1px #49c0f8;
-  position: fixed;
-  left: 185px;
-  top: 341px;
+    width: 155px;
+    height: 121px;
+    margin: 10px 20px 118px 5px;
+    /* padding: 50px 12px; */
+    border-radius: 10px;
+    border: solid 1px #49c0f8;
+    position: absolute;
+    left: 185px;
+    top: 341px;
 }
 
 .Rectangle4-1 {
-  width: 155px;
-  height: 121px;
-  margin: 10px 20px 118px 5px;
-  /* padding: 50px 12px; */
-  border-radius: 10px;
-  background-color: #49c0f8;
-  position: fixed;
-  left: 185px;
-  top: 341px;
+    width: 155px;
+    height: 121px;
+    /* margin: 10px 20px 118px 5px; */
+    /* padding: 50px 12px; */
+    border-radius: 10px;
+    background-color: #49c0f8;
+    /* position: absolute; */
+    /* left: 185px; */
+    /* top: 341px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .Inside4 {
-  width: 131px;
-  height: 21px;
-  font-family: NotoSansCJKkr;
-  font-size: 17px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.24;
-  letter-spacing: normal;
-  text-align: center;
-  color: #111;
-  position: fixed;
-  left: 197px;
-  top: 391px;
+    width: 131px;
+    height: 21px;
+    font-family: NotoSansCJKkr;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #111;
+    /* position: absolute; */
+    left: 197px;
+    top: 391px;
 }
 
 .Rectangle-continue {
-  width: 180px;
-  height: 60px;
-  margin: 118px 0 0;
-  padding: 19px 20px 20px;
-  box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
-  background-color: #03bf6b;
-  position: fixed;
-  left: 0px;
-  top: 580px;
+    width: 180px;
+    height: 60px;
+    /* margin: 118px 0 0; */
+    /* padding: 19px 20px 20px; */
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #03bf6b;
+    position: absolute;
+    left: 0px;
+    top: 580px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .Span-continue {
-  width: 140px;
-  height: 21px;
-  font-family: NotoSansCJKkr;
-  font-size: 17px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.24;
-  letter-spacing: normal;
-  text-align: center;
-  color: #fff;
-  /* position: fixed; */
-  left: 20px;
-  top: 599px;
+    width: 140px;
+    height: 21px;
+    font-family: NotoSansCJKkr;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    /* position: absolute; */
+    left: 20px;
+    top: 599px;
 }
 
 .Rectangle-listen {
-  width: 180px;
-  height: 60px;
-  margin: 118px 0 0;
-  padding: 19px 20px 20px;
-  box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
-  background-color: #4c5b75;
-  position: fixed;
-  left: 180px;
-  top: 580px;
+    width: 180px;
+    height: 60px;
+    /* margin: 118px 0 0; */
+    /* padding: 19px 20px 20px; */
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #4c5b75;
+    position: absolute;
+    left: 180px;
+    top: 580px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .Span-listen {
-  width: 140px;
-  height: 21px;
-  font-family: NotoSansCJKkr;
-  font-size: 17px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.24;
-  letter-spacing: normal;
-  text-align: center;
-  color: #fff;
-  /* position: fixed; */
-  left: 200px;
-  top: 599px;
+    width: 140px;
+    height: 21px;
+    font-family: NotoSansCJKkr;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    /* position: absolute; */
+    left: 200px;
+    top: 599px;
 }
