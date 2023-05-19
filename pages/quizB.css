@@ -1,6 +1,7 @@
 .Quiz_B-4 {
     width: 360px;
     height: 643px;
+    position: relative;
 }
 
 .Area {
@@ -10,42 +11,6 @@
     /* position: absolute; */
     left: 20px;
     top: 44px;
-}
-
-img.ic_close_gray {
-    width: 24px;
-    height: 24px;
-    margin: 0 16px 0 0;
-    padding: 3px;
-    object-fit: contain;
-    position: absolute;
-    left: 20px;
-    top: 44px;
-}
-
-.Rectangle_progress_bar {
-    width: 280px;
-    height: 16px;
-    /* margin: 4px 0 4px 16px; */
-    /* padding: 0 231px 0 0; */
-    /* opacity: 0.3; */
-    border-radius: 8px;
-    border: solid 1.2px #888;
-    background-color: #f5f5f5;
-    position: absolute;
-    left: 60px;
-    top: 48px;
-    /* z-index: 1; */
-}
-
-.Rectangle_progress {
-    width: 49px;
-    height: 16px;
-    /* opacity: 1.0; */
-    border-radius: 8px;
-    border: solid 1.2px #078d4f;
-    background-color: #03bf6b;
-    /* z-index: 10; */
 }
 
 .Match-correct-pairs {
@@ -62,35 +27,42 @@ img.ic_close_gray {
     color: #111;
     position: absolute;
     left: 20px;
-    top: 88px;
+    top: 37px;
 }
 
+.RectangleN {
+    width: 150px;
+    height: 100px;
+}
+
+.RectangleN-1 {
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: #49c0f8;
+}
+
+.InsideN {
+    width: 100%;
+    height: 100%;
+}
+
+
+
 .Rectangle1 {
-    width: 155px;
-    height: 101px;
     margin: 16px 10px 10px 20px;
     /* padding: 40px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 20px;
-    top: 134px;
+    left: 10px;
+    top: 85px;
 }
 
-.Rectangle1-1 {
-    width: 155px;
-    height: 101px;
-    /* margin: 16px 10px 10px 20px; */
-    /* padding: 40px 12px; */
-    border-radius: 10px;
-    background-color: #49c0f8;
-    position: absolute;
-    /* left: 20px; */
-    /* top: 134px; */
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+.Rectangle1-1 {}
 
 .Inside1 {
     width: 131px;
@@ -107,31 +79,16 @@ img.ic_close_gray {
 }
 
 .Rectangle2 {
-    width: 155px;
-    height: 101px;
     margin: 16px 20px 10px 10px;
     /* padding: 29px 12px 30px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 185px;
-    top: 134px;
+    left: 175px;
+    top: 85px;
 }
 
-.Rectangle2-1 {
-    width: 155px;
-    height: 101px;
-    /* margin: 16px 20px 10px 10px; */
-    /* padding: 29px 12px 30px; */
-    border-radius: 10px;
-    background-color: #49c0f8;
-    position: absolute;
-    /* left: 185px; */
-    /* top: 134px; */
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+.Rectangle2-1 {}
 
 .Inside2 {
     width: 131px;
@@ -148,31 +105,16 @@ img.ic_close_gray {
 }
 
 .Rectangle3 {
-    width: 155px;
-    height: 101px;
     margin: 10px 10px 10px 20px;
     /* padding: 40px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 20px;
-    top: 245px;
+    left: 10px;
+    top: 197px;
 }
 
-.Rectangle3-1 {
-    width: 155px;
-    height: 101px;
-    /* margin: 10px 10px 10px 20px; */
-    /* padding: 40px 12px; */
-    border-radius: 10px;
-    background-color: #49c0f8;
-    position: absolute;
-    /* left: 20px; */
-    /* top: 245px; */
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+.Rectangle3-1 {}
 
 .Inside3 {
     width: 131px;
@@ -189,31 +131,16 @@ img.ic_close_gray {
 }
 
 .Rectangle4 {
-    width: 155px;
-    height: 101px;
     margin: 10px 20px 10px 10px;
     /* padding: 40px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 185px;
-    top: 245px;
+    left: 175px;
+    top: 197px;
 }
 
-.Rectangle4-1 {
-    width: 155px;
-    height: 101px;
-    /* margin: 10px 20px 10px 10px; */
-    /* padding: 40px 12px; */
-    border-radius: 10px;
-    background-color: #49c0f8;
-    position: absolute;
-    /* left: 185px; */
-    /* top: 245px; */
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+.Rectangle4-1 {}
 
 .Inside4 {
     width: 131px;
@@ -230,31 +157,16 @@ img.ic_close_gray {
 }
 
 .Rectangle5 {
-    width: 155px;
-    height: 101px;
     margin: 10px 10px 10px 20px;
     /* padding: 40px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 20px;
-    top: 356px;
+    left: 10px;
+    top: 304px;
 }
 
-.Rectangle5-1 {
-    width: 155px;
-    height: 101px;
-    /* margin: 10px 10px 10px 20px; */
-    /* padding: 40px 12px; */
-    border-radius: 10px;
-    background-color: #49c0f8;
-    position: absolute;
-    /* left: 20px; */
-    /* top: 356px; */
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+.Rectangle5-1 {}
 
 .Inside5 {
     width: 131px;
@@ -271,31 +183,16 @@ img.ic_close_gray {
 }
 
 .Rectangle6 {
-    width: 155px;
-    height: 101px;
     margin: 10px 20px 10px 10px;
     /* padding: 40px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 185px;
-    top: 356px;
+    left: 175px;
+    top: 304px;
 }
 
-.Rectangle6-1 {
-    width: 155px;
-    height: 101px;
-    /* margin: 10px 20px 10px 10px; */
-    /* padding: 40px 12px; */
-    border-radius: 10px;
-    background-color: #49c0f8;
-    position: absolute;
-    /* left: 185px; */
-    /* top: 356px; */
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+.Rectangle6-1 {}
 
 .Inside6 {
     width: 131px;
@@ -312,31 +209,16 @@ img.ic_close_gray {
 }
 
 .Rectangle7 {
-    width: 155px;
-    height: 101px;
     margin: 10px 10px 15px 20px;
     /* padding: 40px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 20px;
-    top: 467px;
+    left: 10px;
+    top: 411px;
 }
 
-.Rectangle7-1 {
-    width: 155px;
-    height: 101px;
-    /* margin: 10px 10px 15px 20px; */
-    /* padding: 40px 12px; */
-    border-radius: 10px;
-    background-color: #49c0f8;
-    position: absolute;
-    /* left: 20px; */
-    /* top: 467px; */
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+.Rectangle7-1 {}
 
 .Inside7 {
     width: 131px;
@@ -353,31 +235,16 @@ img.ic_close_gray {
 }
 
 .Rectangle8 {
-    width: 155px;
-    height: 101px;
     margin: 10px 20px 15px 10px;
     /* padding: 40px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 185px;
-    top: 467px;
+    left: 175px;
+    top: 411px;
 }
 
-.Rectangle8-1 {
-    width: 155px;
-    height: 101px;
-    /* margin: 10px 20px 15px 10px; */
-    /* padding: 40px 12px; */
-    border-radius: 10px;
-    background-color: #49c0f8;
-    position: absolute;
-    /* left: 185px; */
-    /* top: 467px; */
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+.Rectangle8-1 {}
 
 .Inside8 {
     width: 131px;
@@ -394,23 +261,24 @@ img.ic_close_gray {
 }
 
 .Rectangle_continue {
-    width: 360px;
+    width: 100%;
     height: 60px;
     margin: 15px 0 0;
     /* padding: 19px 20px 20px; */
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
-    position: absolute;
+    position: fixed;
     left: 0px;
-    top: 583px;
+    /* top: 583px; */
     align-items: center;
     display: flex;
     justify-content: center;
+    bottom: 0px;
 }
 
 .Continue {
-    width: 320px;
-    height: 21px;
+    width: 100%;
+    height: 100%;
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -420,5 +288,4 @@ img.ic_close_gray {
     letter-spacing: normal;
     text-align: center;
     color: #fff;
-
 }
