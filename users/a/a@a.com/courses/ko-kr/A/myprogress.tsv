@@ -1,13 +1,13 @@
-Saluton	mi, vi	나, 당신	I, you	Saluton	9	2023-11-05 17:37:55
+Saluton	mi, vi	나, 당신	I, you	Saluton	6	2023-05-30 01:35:55
 Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton	8	2023-07-09 15:51:58
-Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	5	2023-05-19 17:41:17
+Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	7	2023-06-09 01:12:14
 Saluton	vi estas ~	당신은 ~ 이다	you are ~	Saluton	8	2023-07-09 16:18:23
-Saluton	saluton	안녕하세요	hello	Saluton	4	2023-05-19 15:12:47
-Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton	4	2023-05-15 15:30:30
-Saluton	mia, via	나의, 당신의	my, your	Saluton	3	2023-05-14 20:31:35
+Saluton	saluton	안녕하세요	hello	Saluton	5	2023-05-21 15:30:09
+Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton	5	2023-05-20 18:30:18
+Saluton	mia, via	나의, 당신의	my, your	Saluton	5	2023-05-22 01:35:55
 Saluton	nomo	이름	a name	Saluton	3	2023-05-14 20:31:38
-Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	2	2023-05-13 16:25:43
-Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	2	2023-05-17 18:01:18
+Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	3	2023-05-18 23:40:52
+Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	3	2023-05-18 23:30:15
 Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	2	2023-05-13 16:25:46
 Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did 	Saluton	2	2023-05-13 16:25:48
 Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, (past) will be	Saluton	2	2023-05-13 16:25:49
@@ -32,7 +32,7 @@ Saluton	ĝis revido!	다시 볼때까지 (안녕)!	see you again!	Saluton	1	2023
 Saluton	dankon	감사합니다	thank you	Saluton	1	2023-05-13 16:19:49
 Saluton	dankon kaj ĝis revido!	감사합니다. 그리고 다시볼때까지 (안녕)!	thank you and see you again!	Saluton	1	2023-05-13 16:19:50
 Saluton	al ~	~ 에게	to ~	Saluton	1	2023-05-13 16:21:17
-Saluton	al vi, al mi	당신에게, 나에게	to you, to me	Saluton	2	2023-05-13 16:36:19
+Saluton	al vi, al mi	당신에게, 나에게	to you, to me	Saluton	3	2023-05-18 23:40:53
 Saluton	dankas, dankis	(현재) 감사한다, (과거) 감사했다	(present) thanks, (past) thanked	Saluton	1	2023-05-13 16:21:20
 Saluton	mi dankas al vi	나는 당신에게 감사합니다	I appreciate to you	Saluton	1	2023-05-13 16:21:21
 Saluton	jes, ne	예, 아니오	yes, no	Saluton	2	2023-05-13 16:36:23
@@ -107,7 +107,7 @@ Amiko	ne estas en la ĉambro	그 방안에 없다	is not in the room	Amiko	0	-
 Amiko	ili nun laboras	그들은 지금 일하고 있다	they are now working	Amiko	0	-
 Amiko	lia patro estas laboristo	그의 아버지는 노동자이다	his father is a worker	Amiko	0	-
 Amiko	li laboras en hotelo	그는 호텔에서 일한다	he works in a hotel	Amiko	0	-
-Amiko	la patrino instruas	그 어머니는 가르친다	the mother teaches	Amiko	2	2023-05-09 15:52:36
+Amiko	la patrino instruas	그 어머니는 가르친다	the mother teaches	Amiko	3	2023-05-19 20:30:26
 Amiko	ŝi estas instruistino	그녀는 여선생님이다	she is a teacher	Amiko	0	-
 Amiko	ĉu ŝi estas patrino?	그녀는 어머니인가?	is she a mother?	Amiko	0	-
 Amiko	ne, ŝi estas hotelisto	아니오, 그녀는 호텔직원입니다	no, she is an hotelier	Amiko	0	-
@@ -130,9 +130,9 @@ Amiko	ne estas en la ĉambro	그 방 안에 없다.	is not in the room	Amiko	0	-
 Amiko	esperantisto kaj esperantistino	에스페란티스토와 여성에스페란티스토	an Esperantist and a female Esperantist	Amiko	0	-
 Amiko	enskribis por la hotelĉambro	그 호텔방을 위해 예약했다	checked in for the hotel room	Amiko	0	-
 Amiko	lingvisto kaj laboristino	언어학자와 여성 노동자	a linguist and a female worker	Amiko	0	-
-Amiko	lia amikino estas ~	그의 여자친구는 ~이다	his girl friend is ~	Amiko	2	2023-05-09 15:52:58
+Amiko	lia amikino estas ~	그의 여자친구는 ~이다	his girl friend is ~	Amiko	3	2023-05-18 23:30:12
 Amiko	lernantoj kaj sportistoj	학생들과 운동선수들	students and sportsmen	Amiko	0	-
-Amiko	mia familia nomo estas ~	내 성(가족명)은 ~ 이다	my familia name is ~	Amiko	2	2023-05-09 15:53:05
+Amiko	mia familia nomo estas ~	내 성(가족명)은 ~ 이다	my familia name is ~	Amiko	3	2023-05-18 23:30:14
 Amiko	kiu estas ŝi?	그녀는 누구인가?	who is she? which is she?	Amiko	0	-
 Amiko	estas via amikino	너의 여자친구이다	is your girl friend	Amiko	1	2023-05-08 17:43:52
 Amiko	ĉu via amiko estas ~?	너의 친구는 ~ 인가?	is your friend ~ ?	Amiko	0	-
@@ -314,7 +314,7 @@ Miaj Leteroj	tie malantaŭ la pordo	그곳에, 그 문 뒤에 (그 문뒤 그곳
 Miaj Leteroj	aliaj, aliaj homoj	다른 (복수형), 다른 사람들	others, other people	Miaj Leteroj	0	-
 Miaj Leteroj	leteroj de aliaj	다른 사람들의 편지들	letters from others	Miaj Leteroj	0	-
 Miaj Leteroj	falis el la mano	손에서 떨어졌다	fell out of the hand	Miaj Leteroj	0	-
-Miaj Leteroj	sur la tablo, sur la tablon	그 탁자 위에, 그 탁자 위로	on the table, onto the table	Miaj Leteroj	3	2023-05-18 00:41:29
+Miaj Leteroj	sur la tablo, sur la tablon	그 탁자 위에, 그 탁자 위로	on the table, onto the table	Miaj Leteroj	4	2023-05-20 15:30:20
 Miaj Leteroj	ĝi falis sur la tablon	그것은 테이블위로 떨어졌다	it fell on the table	Miaj Leteroj	0	-
 Miaj Leteroj	petis pardonon	용서를 빌었다	asked for pardon	Miaj Leteroj	0	-
 Miaj Leteroj	serĉis kvin librojn	다섯 권의 책을 찾고 있었다	was searching for five books	Miaj Leteroj	0	-
@@ -705,7 +705,7 @@ la strato	nek li nek ŝi ridis	그도 웃지 않았고, 그녀도 웃지 않았�
 ĉiam Malfrue	diablo	악마	a devil	ĉiam Malfrue	0	-
 ĉiam Malfrue	diableto	작은 악마	little devil	ĉiam Malfrue	0	-
 ĉiam Malfrue	utila	유용한	useful	ĉiam Malfrue	0	-
-ĉiam Malfrue	senutila	쓸모없는	useless	ĉiam Malfrue	2	2023-05-09 15:52:30
+ĉiam Malfrue	senutila	쓸모없는	useless	ĉiam Malfrue	3	2023-05-19 20:30:13
 ĉiam Malfrue	kuri	달리다	to run	ĉiam Malfrue	0	-
 ĉiam Malfrue	elkuri	뛰어나가다	to run out	ĉiam Malfrue	1	2023-05-09 16:26:43
 ĉiam Malfrue	ami	사랑하다	to love	ĉiam Malfrue	2	2023-05-10 16:48:31

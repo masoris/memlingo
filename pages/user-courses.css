@@ -59,7 +59,7 @@ img.logo_subtitle {
     height: 30px;
     margin: 0 0 8px;
     font-family: NotoSansCJKkr;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -125,10 +125,10 @@ img.img_a {
 }
 
 .Learn-Esperanto-Button-Inside {
-    width: 240px;
-    height: 21px;
+    width: 100%;
+    height: 100%;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 20px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -146,7 +146,7 @@ img.img_a {
     height: 30px;
     margin: 0 0 8px;
     font-family: NotoSansCJKkr;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -198,7 +198,7 @@ img.img_b {
     height: 30px;
     margin: 0 0 8px;
     font-family: NotoSansCJKkr;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;

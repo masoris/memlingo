@@ -25,3 +25,49 @@
 2023-05-18 17:27:35	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	4	./quizF.html	female2
 2023-05-18 17:27:42	/api/session-start.api	a@a.com	ko-kr	A
 2023-05-18 17:27:42	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	4	./quizE.html	male3
+2023-05-18 17:31:16	/api/logout.api	a@a.com	ko-kr	A
+2023-05-18 17:43:41	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-18 17:43:50	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 17:43:50	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	4	./quizD.html	female3
+2023-05-18 17:43:50	/api/similar-words-kor.api	a@a.com	A	ko-kr	안녕하세요, 나는 ~입니다
+2023-05-18 17:44:00	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 17:59:06	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 17:59:22	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:02:11	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:02:25	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:03:12	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:03:24	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:04:10	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:04:11	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:04:53	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:08:16	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:09:09	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:11:33	/api/similar-words-kor.api	a@a.com	A	ko-kr	안녕하세요, 나는 ~입니다
+2023-05-18 18:11:36	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:15:50	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:21:14	/api/similar-words-kor.api	a@a.com	A	ko-kr	안녕하세요, 나는 ~입니다
+2023-05-18 18:22:13	/api/similar-words-kor.api	a@a.com	A	ko-kr	안녕하세요, 나는 ~입니다
+2023-05-18 18:22:14	/api/similar-words-kor.api	a@a.com	A	ko-kr	안녕하세요, 나는 ~입니다
+2023-05-18 18:22:15	/api/similar-words-kor.api	a@a.com	A	ko-kr	안녕하세요, 나는 ~입니다
+2023-05-18 18:22:16	/api/similar-words-kor.api	a@a.com	A	ko-kr	안녕하세요, 나는 ~입니다
+2023-05-18 18:23:57	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:28:14	/api/similar-words.api	a@a.com	A	ko-kr	saluton, mi estas ~
+2023-05-18 18:30:08	/api/put-score.api	a@a.com	A	ko-kr	saluton, mi estas ~	-1
+2023-05-18 18:30:09	/api/put-score.api	a@a.com	A	ko-kr	saluton, mi estas ~	1
+2023-05-18 18:30:12	/api/put-score.api	a@a.com	A	ko-kr	lia amikino estas ~	1
+2023-05-18 18:30:14	/api/put-score.api	a@a.com	A	ko-kr	mia familia nomo estas ~	1
+2023-05-18 18:30:15	/api/put-score.api	a@a.com	A	ko-kr	mia nomo estas ~	1
+2023-05-18 18:30:18	/api/card-next.api	a@a.com	A	ko-kr	mia, via	3	./quizF.html	female2
+2023-05-18 18:30:31	/api/similar-words.api	a@a.com	A	ko-kr	mia, via
+2023-05-18 18:40:39	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-18 18:40:42	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-18 18:40:42	/api/card-next.api	a@a.com	A	ko-kr	mia, via	3	./quizB.html	male3
+2023-05-18 18:40:42	/api/similar-words.api	a@a.com	A	ko-kr	mia, via
+2023-05-18 18:40:46	/api/put-score.api	a@a.com	A	ko-kr	mia nomo, via nomo	-1
+2023-05-18 18:40:47	/api/put-score.api	a@a.com	A	ko-kr	mia, via	-1
+2023-05-18 18:40:49	/api/put-score.api	a@a.com	A	ko-kr	mi, vi	1
+2023-05-18 18:40:51	/api/put-score.api	a@a.com	A	ko-kr	mia, via	1
+2023-05-18 18:40:52	/api/put-score.api	a@a.com	A	ko-kr	mia nomo, via nomo	1
+2023-05-18 18:40:53	/api/put-score.api	a@a.com	A	ko-kr	al vi, al mi	1
+2023-05-18 18:40:55	/api/card-next.api	a@a.com	A	ko-kr	nomo	3	./quizI.html	female1
+2023-05-18 18:40:55	/api/similar-words-jk.api	a@a.com	A	ko-kr	nomo	

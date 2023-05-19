@@ -1,0 +1,19 @@
+2023-05-19 15:24:39	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-19 15:26:17	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-19 15:26:17	/api/card-next.api	a@a.com	A	ko-kr	saluton	4	./quizF.html	female3
+2023-05-19 15:26:22	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2023-05-19 15:28:00	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2023-05-19 15:29:13	/api/logout.api	a@a.com	ko-kr	A
+2023-05-19 15:29:14	/api/logout.api	a@a.com	ko-kr	A
+2023-05-19 15:29:32	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-19 15:29:49	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-19 15:29:49	/api/card-next.api	a@a.com	A	ko-kr	saluton	4	./quizB.html	male1
+2023-05-19 15:29:49	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2023-05-19 15:30:09	/api/put-score.api	a@a.com	A	ko-kr	saluton	1
+2023-05-19 15:30:13	/api/put-score.api	a@a.com	A	ko-kr	senutila	1
+2023-05-19 15:30:20	/api/put-score.api	a@a.com	A	ko-kr	sur la tablo, sur la tablon	1
+2023-05-19 15:30:26	/api/put-score.api	a@a.com	A	ko-kr	la patrino instruas	1
+2023-05-19 17:05:25	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2023-05-19 17:22:00	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2023-05-19 17:22:25	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2023-05-19 17:25:50	/api/login.api	a@a.com	a@a.com	ko-kr
