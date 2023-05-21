@@ -15,7 +15,7 @@ img.ic_close_gray {
     margin: 0 16px 0 0;
     padding: 3px;
     object-fit: contain;
-    position: fixed;
+    position: absolute;
     left: 20px;
     top: 44px;
 }
@@ -23,12 +23,12 @@ img.ic_close_gray {
 .Rectangle-progress-bar {
     width: 280px;
     height: 16px;
-    /* margin: 4px 0 4px 16px;
-    padding: 0 231px 0 0; */
+    /* margin: 4px 0 4px 16px; */
+    /* padding: 0 231px 0 0; */
     border-radius: 8px;
     border: solid 1.2px #888;
     background-color: #ccc;
-    position: fixed;
+    position: absolute;
     left: 60px;
     top: 48px;
 }
@@ -39,15 +39,15 @@ img.ic_close_gray {
     border-radius: 8px;
     border: solid 1.2px #078d4f;
     background-color: #03bf6b;
-    position: fixed;
-    left: 60px;
-    top: 48px;
+    /* position: absolute; */
+    /* left: 60px; */
+    /* top: 48px; */
 }
 
 .Select-what-you-hear {
     width: 320px;
     height: 30px;
-    margin: 20px 20px 16px;
+    /* margin: 20px 20px 16px; */
     font-family: NotoSansCJKkr;
     font-size: 24px;
     font-weight: normal;
@@ -56,9 +56,9 @@ img.ic_close_gray {
     line-height: 1.25;
     letter-spacing: normal;
     color: #111;
-    position: fixed;
+    position: absolute;
     left: 20px;
-    top: 88px;
+    top: 61px;
 }
 
 .Area2 {
@@ -73,15 +73,15 @@ img.ic_close_gray {
     padding: 10px 11px 10px 10px;
     border-radius: 12px;
     /* background-color: #ce82ff; */
-    position: fixed;
-    left: 20px;
-    top: 164px;
+    position: absolute;
+    left: 280px;
+    top: 89px;
 }
 
 .mi-vi {
     width: 264px;
     height: 25px;
-    margin: 7px 0 8px 16px;
+    /* margin: 7px 0 8px 16px; */
     font-family: NotoSansCJKkr;
     font-size: 21px;
     font-weight: bold;
@@ -90,8 +90,8 @@ img.ic_close_gray {
     line-height: 1.19;
     letter-spacing: normal;
     color: #111;
-    position: fixed;
-    left: 76px;
+    position: absolute;
+    left: 50px;
     top: 171px;
 }
 
@@ -113,8 +113,8 @@ img.ic_close_gray {
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
-    position: fixed;
-    left: 76px;
+    position: absolute;
+    left: 50px;
     top: 206px;
 }
 
@@ -136,8 +136,8 @@ img.ic_close_gray {
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
-    position: fixed;
-    left: 76px;
+    position: absolute;
+    left: 50px;
     top: 236px;
 }
 
@@ -145,15 +145,15 @@ img.ic_woman_1 {
     width: 100px;
     height: 100px;
     /* margin: 210px 20px 16px 65px; */
-    padding: 8px 15px 7px;
+    /* padding: 8px 15px 7px; */
     object-fit: contain;
-    position: fixed;
-    left: 240px;
-    top: 400px;
+    position: absolute;
+    left: 235px;
+    top: 350px;
 }
 
 .Rectangle-hard {
-    width: 175px;
+    width: 50%;
     height: 46px;
     /* margin: 270px 10px 10px 0;
     padding: 13px 20px 14px; */
@@ -161,24 +161,26 @@ img.ic_woman_1 {
     background-color: #4c5b75;
     position: fixed;
     left: 0px;
-    top: 524px;
+    /* top: 524px; */
+    bottom: 60px;
 }
 
 .Rectangle-easy {
-    width: 175px;
+    width: 50%;
     height: 46px;
     /* margin: 270px 0 10px 10px;
     padding: 13px 20px 14px; */
     border-radius: 2px;
     background-color: #4c5b75;
     position: fixed;
-    left: 185px;
-    top: 524px;
+    left: 50%;
+    /* top: 524px; */
+    bottom: 60px;
 }
 
 .Submit-hard {
-    width: 135px;
-    height: 19px;
+    width: 100%;
+    height: 100%;
     font-family: NotoSansCJKkr;
     font-size: 15px;
     font-weight: normal;
@@ -187,13 +189,13 @@ img.ic_woman_1 {
     line-height: 1.27;
     letter-spacing: -0.3px;
     text-align: center;
-    color: #fff;
+    /* color: #fff; */
 }
 
 .Submit-easy {
-    width: 135px;
-    height: 19px;
-    padding: 1px 41px 14px 75px;
+    width: 100%;
+    height: 100%;
+    /* padding: 1px 41px 14px 75px; */
     font-family: NotoSansCJKkr;
     font-size: 15px;
     font-weight: normal;
@@ -202,24 +204,25 @@ img.ic_woman_1 {
     line-height: 1.27;
     letter-spacing: -0.3px;
     text-align: center;
-    color: #fff;
+    /* color: #fff; */
 }
 
 .Rectangle-listen {
-    width: 360px;
+    width: 100%;
     height: 60px;
-    margin: 10px 0 0;
-    padding: 19px 20px 20px;
+    /* margin: 10px 0 0; */
+    /* padding: 19px 20px 20px; */
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
     position: fixed;
     left: 0px;
-    top: 580px;
+    /* top: 580px; */
+    bottom: 0;
 }
 
 .Listen {
-    width: 320px;
-    height: 21px;
+    width: 100%;
+    height: 100%;
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -228,5 +231,5 @@ img.ic_woman_1 {
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    color: #fff;
+    /* color: #fff; */
 }

@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./quiz-first.css">
+    <link rel="stylesheet" href="./quizAll.css">
     <script src="./quiz-first.js"></script>
     <script src="./ajax.js"></script>
     <script src="./cookie.js"></script>
@@ -13,7 +14,7 @@
 </head>
 
 <body>
-    <div class="Quiz_E-2">
+    <div class="Container">
         <div class="Area1">
             <img id="btn_quit" src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
                    img/ic-close-gray@3x.png 3x" class="ic_close_gray">
@@ -44,16 +45,18 @@
             </span>
         </div>
         <img id="voice_img" src="img/ic-woman-1.png" class="ic_woman_1">
-        <div class="Rectangle-hard">
-            <input class="Submit-hard" type="button" id="btn_hard" value="Hard for me">
-    
-            </div>
-        <div class="Rectangle-easy">            
-            <input class="Submit-easy" type="button" id="btn_easy" value="Easy to me">
-        </div>
 
-        <div  class="Rectangle-listen">
-            <input class="Listen" type="button" id="btn_listen" value="Listen">
-        </div>
     </div>
+    <div class="Rectangle-hard">
+        <input class="Submit-hard" type="button" id="btn_hard" value="Hard for me">
+
+    </div>
+    <div class="Rectangle-easy">
+        <input class="Submit-easy" type="button" id="btn_easy" value="Easy to me">
+    </div>
+
+    <div class="Rectangle-listen">
+        <input class="Listen" type="button" id="btn_listen" value="Listen">
+    </div>
+
 </body>
