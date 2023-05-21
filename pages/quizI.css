@@ -159,7 +159,7 @@ img.ic_woman_1 {
     object-fit: contain;
     position: absolute;
     left: 230px;
-    top: 327px;
+    top: 470px;
 }
 
 .Rectangle-hard {
@@ -199,7 +199,8 @@ img.ic_woman_1 {
     line-height: 1.27;
     letter-spacing: -0.3px;
     text-align: center;
-    /* color: #fff; */
+    color: #fff;
+    background-color: #4c5b75;
 }
 
 .Submit-easy {
@@ -214,7 +215,8 @@ img.ic_woman_1 {
     line-height: 1.27;
     letter-spacing: -0.3px;
     text-align: center;
-    /* color: #fff; */
+    color: #fff;
+    background-color: #4c5b75;
 }
 
 .Rectangle-listen {
@@ -242,4 +244,5 @@ img.ic_woman_1 {
     letter-spacing: normal;
     text-align: center;
     /* color: #fff; */
+    background-color: #03bf6b;
 }

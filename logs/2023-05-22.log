@@ -1,0 +1,27 @@
+2023-05-22 03:35:37	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-22 03:35:41	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-22 03:35:41	/api/card-next.api	a@a.com	A	ko-kr	via nomo estas ~	2	./quizI.html	male1
+2023-05-22 03:35:41	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	nomo
+2023-05-22 03:35:49	/api/similar-words.api	a@a.com	A	ko-kr	via nomo estas ~
+2023-05-22 03:35:54	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다
+2023-05-22 03:36:00	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다
+2023-05-22 03:39:56	/api/similar-words.api	a@a.com	A	ko-kr	via nomo estas ~
+2023-05-22 03:40:03	/api/similar-words.api	a@a.com	A	ko-kr	via nomo estas ~
+2023-05-22 03:40:10	/api/similar-words-jk.api	a@a.com	A	ko-kr	via	estas
+2023-05-22 03:40:29	/api/card-next.api	a@a.com	A	ko-kr	estis, estos	3	./quizG.html	male3
+2023-05-22 03:40:29	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-22 03:40:36	/api/put-score.api	a@a.com	A	ko-kr	estas, estis	-1
+2023-05-22 03:40:37	/api/put-score.api	a@a.com	A	ko-kr	estis, estos	1
+2023-05-22 03:40:39	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-22 03:41:30	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-22 03:41:30	/api/card-next.api	a@a.com	A	ko-kr	vi fartas	2	./quizI.html	ludoviko
+2023-05-22 03:41:30	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2023-05-22 03:41:42	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2023-05-22 03:42:54	/api/card-next.api	a@a.com	A	ko-kr	kiel	2	./quizB.html	male3
+2023-05-22 03:42:54	/api/similar-words.api	a@a.com	A	ko-kr	kiel
+2023-05-22 04:19:34	/api/login.api	b@b.com	b@b.com	ko-kr
+2023-05-22 04:19:36	/api/session-start.api	b@b.com	ko-kr	A
+2023-05-22 04:19:36	/api/card-next.api	b@b.com	A	ko-kr	mi, vi	1	./quizE.html	female2
+2023-05-22 04:19:56	/api/card-next.api	b@b.com	A	ko-kr	estas, estis	0	./quiz-first.html	male3
+2023-05-22 04:20:28	/api/logout.api	b@b.com	ko-kr	B
+2023-05-22 04:20:33	/api/login.api	a@a.com	a@a.com	ko-kr
