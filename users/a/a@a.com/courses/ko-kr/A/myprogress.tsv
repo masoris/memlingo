@@ -1,17 +1,17 @@
-Saluton	mi, vi	나, 당신	I, you	Saluton	6	2023-05-30 01:35:55
+Saluton	mi, vi	나, 당신	I, you	Saluton	7	2023-06-09 15:23:17
 Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton	8	2023-07-09 15:51:58
 Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	7	2023-06-09 01:12:14
 Saluton	vi estas ~	당신은 ~ 이다	you are ~	Saluton	8	2023-07-09 16:18:23
 Saluton	saluton	안녕하세요	hello	Saluton	5	2023-05-21 15:30:09
 Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton	5	2023-05-20 18:30:18
-Saluton	mia, via	나의, 당신의	my, your	Saluton	5	2023-05-22 01:35:55
-Saluton	nomo	이름	a name	Saluton	3	2023-05-14 20:31:38
-Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	3	2023-05-18 23:40:52
+Saluton	mia, via	나의, 당신의	my, your	Saluton	6	2023-05-30 15:23:21
+Saluton	nomo	이름	a name	Saluton	5	2023-05-22 15:26:43
+Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	4	2023-05-21 15:23:22
 Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	3	2023-05-18 23:30:15
 Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	2	2023-05-13 16:25:46
 Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did 	Saluton	2	2023-05-13 16:25:48
 Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, (past) will be	Saluton	2	2023-05-13 16:25:49
-Saluton	nomo, nomon	이름, 이름을	a name, an objective name	Saluton	6	2023-05-20 15:54:29
+Saluton	nomo, nomon	이름, 이름을	a name, an objective name	Saluton	7	2023-06-09 15:26:35
 Saluton	mia amo	나의 사랑	my love	Saluton	8	2023-07-09 16:28:40
 Saluton	vi fartas	당신은 지낸다	you are doing ~	Saluton	2	2023-05-13 16:25:51
 Saluton	kiel	어떻게	how	Saluton	2	2023-05-13 16:27:53
@@ -32,7 +32,7 @@ Saluton	ĝis revido!	다시 볼때까지 (안녕)!	see you again!	Saluton	1	2023
 Saluton	dankon	감사합니다	thank you	Saluton	1	2023-05-13 16:19:49
 Saluton	dankon kaj ĝis revido!	감사합니다. 그리고 다시볼때까지 (안녕)!	thank you and see you again!	Saluton	1	2023-05-13 16:19:50
 Saluton	al ~	~ 에게	to ~	Saluton	1	2023-05-13 16:21:17
-Saluton	al vi, al mi	당신에게, 나에게	to you, to me	Saluton	3	2023-05-18 23:40:53
+Saluton	al vi, al mi	당신에게, 나에게	to you, to me	Saluton	4	2023-05-21 15:23:19
 Saluton	dankas, dankis	(현재) 감사한다, (과거) 감사했다	(present) thanks, (past) thanked	Saluton	1	2023-05-13 16:21:20
 Saluton	mi dankas al vi	나는 당신에게 감사합니다	I appreciate to you	Saluton	1	2023-05-13 16:21:21
 Saluton	jes, ne	예, 아니오	yes, no	Saluton	2	2023-05-13 16:36:23
@@ -628,7 +628,7 @@ la strato	diable	끔찍하게 (악마처럼)	to the awful (like a devil)	la stra
 la strato	damne	제기랄	dam it	la strato	0	-
 la strato	memoras	기억한다	remembers	la strato	0	-
 la strato	nun mi memoras	나는 지금 기억한다	now I remember	la strato	0	-
-la strato	dimanĉo	일요일	Sunday	la strato	1	2023-05-08 17:22:29
+la strato	dimanĉo	일요일	Sunday	la strato	2	2023-05-20 15:46:38
 la strato	hodiaŭ estas ~	오늘은 ~ 이다	today is ~	la strato	0	-
 la strato	hodiaŭ estas dimanĉo	오늘은 일요일이다	today is Sunday	la strato	0	-
 la strato	dormi kaj ekdormi	잠자다 그리고 잠에들다	to sleep and to get into sleep	la strato	0	-
@@ -671,7 +671,7 @@ la strato	nek li nek ŝi ridis	그도 웃지 않았고, 그녀도 웃지 않았�
 ĉiam Malfrue	ekridi	웃기 시작하다	to start laughing	ĉiam Malfrue	0	-
 ĉiam Malfrue	~aĵo	(접미사) 구체적인 물건	thing	ĉiam Malfrue	0	-
 ĉiam Malfrue	manĝi	먹다	to eat	ĉiam Malfrue	0	-
-ĉiam Malfrue	manĝaĵo	먹을 거리	food	ĉiam Malfrue	1	2023-05-08 17:22:31
+ĉiam Malfrue	manĝaĵo	먹을 거리	food	ĉiam Malfrue	2	2023-05-20 15:46:36
 ĉiam Malfrue	trinki	마시다	to drink	ĉiam Malfrue	0	-
 ĉiam Malfrue	trinkaĵo	마실 거리	a drink	ĉiam Malfrue	0	-
 ĉiam Malfrue	bela	아름다운	beautiful	ĉiam Malfrue	0	-
