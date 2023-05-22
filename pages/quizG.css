@@ -48,7 +48,7 @@ img.ic_close_gray {
 .Select-what-you-hear {
     width: 320px;
     height: 30px;
-    margin: 20px 20px 16px;
+    /* margin: 20px 20px 16px; */
     font-family: NotoSansCJKkr;
     font-size: 24px;
     font-weight: normal;
@@ -58,8 +58,8 @@ img.ic_close_gray {
     letter-spacing: normal;
     color: #111;
     position: absolute;
-    left: 20px;
-    top: 39px;
+    left: 2%;
+    top: 59px;
 }
 
 .Area2 {
@@ -75,14 +75,15 @@ img.ic_close_gray {
     border-radius: 12px;
     /* background-color: #ce82ff; */
     position: absolute;
-    left: 280px;
+    /* left: 280px; */
     top: 49px;
+    right: 2%;
 }
 
 .mi-vi {
     width: 264px;
     height: 25px;
-    margin: 7px 0 8px 16px;
+    /* margin: 7px 0 8px 16px; */
     font-family: NotoSansCJKkr;
     font-size: 21px;
     font-weight: bold;
@@ -92,8 +93,8 @@ img.ic_close_gray {
     letter-spacing: normal;
     color: #111;
     position: absolute;
-    left: 27px;
-    top: 95px;
+    left: 2%;
+    top: 100px;
 }
 
 .Area3 {
@@ -107,7 +108,7 @@ img.ic_close_gray {
     width: 264px;
     height: 18px;
     font-family: NotoSansCJKkr;
-    font-size: 14px;
+    font-size: 18pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -115,25 +116,25 @@ img.ic_close_gray {
     letter-spacing: normal;
     color: #999;
     position: absolute;
-    left: 43px;
+    left: 2%;
     top: 135px;
 }
 
 .Rectangle1 {
-    width: 320px;
+    width: 96%;
     height: 61px;
     /* margin: 16px 20px 10px;
     padding: 20px 12px; */
     border-radius: 10px;
     border: solid 1px #ddd;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 210px;
 }
 
 .Rectangle1-1 {
-    width: 320px;
-    height: 61px;
+    width: 100%;
+    height: 100%;
     /* margin: 10px 20px;
     padding: 19px 12px 20px; */
     /* opacity: 0.1; */
@@ -148,20 +149,20 @@ img.ic_close_gray {
 }
 
 .Rectangle2 {
-    width: 320px;
+    width: 96%;
     height: 61px;
     /* margin: 10px 20px;
     padding: 19px 12px 20px; */
     border-radius: 10px;
     border: solid 1px #ff5c58;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 281px;
 }
 
 .Rectangle2-1 {
-    width: 320px;
-    height: 61px;
+    width: 100%;
+    height: 100%;
     /* margin: 10px 20px;
     padding: 19px 12px 20px; */
     /* opacity: 0.1; */
@@ -176,20 +177,20 @@ img.ic_close_gray {
 }
 
 .Rectangle3 {
-    width: 320px;
+    width: 96%;
     height: 61px;
     /* margin: 10px 20px;
     padding: 20px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 352px;
 }
 
 .Rectangle3-1 {
-    width: 320px;
-    height: 61px;
+    width: 100%;
+    height: 100%;
     /* margin: 10px 20px;
     padding: 20px 12px; */
     /* opacity: 0.15; */
@@ -204,20 +205,20 @@ img.ic_close_gray {
 }
 
 .Rectangle4 {
-    width: 320px;
+    width: 96%;
     height: 61px;
     /* margin: 10px 20px 96px;
     padding: 20px 12px; */
     border-radius: 10px;
     border: solid 1px #ddd;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 423px;
 }
 
 .Rectangle4-1 {
-    width: 320px;
-    height: 61px;
+    width: 100%;
+    height: 100%;
     /* margin: 10px 20px;
     padding: 19px 12px 20px; */
     /* opacity: 0.1; */
@@ -308,9 +309,9 @@ img.ic_close_gray {
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
     position: fixed;
-    left: 0px;
+    /* left: 2%; */
     /* top: 468px; */
-    bottom: 0;
+    bottom: 0px;
 }
 
 .Listen-and-continue {
@@ -336,4 +337,7 @@ img.ic_close_gray {
     align-items: center;
     display: flex;
     justify-content: center;
+    font-size: 18pt;
+    background-color: #03bf6b;
+    color: white;
 }

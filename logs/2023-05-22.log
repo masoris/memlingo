@@ -25,3 +25,82 @@
 2023-05-22 04:19:56	/api/card-next.api	b@b.com	A	ko-kr	estas, estis	0	./quiz-first.html	male3
 2023-05-22 04:20:28	/api/logout.api	b@b.com	ko-kr	B
 2023-05-22 04:20:33	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-22 14:51:01	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-22 14:51:03	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-22 14:51:03	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	3	./quizH.html	male2
+2023-05-22 14:51:03	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 14:51:23	/api/similar-words-kor.api	a@a.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-05-22 14:52:50	/api/similar-words-kor.api	a@a.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-05-22 14:52:59	/api/put-score-kor.api	a@a.com	A	ko-kr	(현재) 감사한다, (과거) 감사했다	-1
+2023-05-22 14:53:10	/api/similar-words-kor.api	a@a.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-05-22 15:19:48	/api/put-score-kor.api	a@a.com	A	ko-kr	(현재) 지낸다, (과거) 지냈다	-1
+2023-05-22 15:19:49	/api/put-score-kor.api	a@a.com	A	ko-kr	(현재) 본다, (과거) 보았다	-1
+2023-05-22 15:19:50	/api/put-score-kor.api	a@a.com	A	ko-kr	(현재) 감사한다, (과거) 감사했다	-1
+2023-05-22 15:19:50	/api/put-score-kor.api	a@a.com	A	ko-kr	(현재) ~이다, (과거) ~이었다	1
+2023-05-22 15:20:44	/api/similar-words-kor.api	a@a.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-05-22 15:36:37	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 15:36:42	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 15:50:08	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 15:50:42	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 15:54:31	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 15:55:02	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 15:56:45	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 15:57:11	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:03:21	/api/put-score.api	a@a.com	A	ko-kr	fartas, fartis	-1
+2023-05-22 16:03:22	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:04:56	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:05:41	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:07:18	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:08:07	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:17:26	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:17:31	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:17:44	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:17:49	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:18:00	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:19:50	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:19:57	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:20:03	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:20:08	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:20:15	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:21:25	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:29:32	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:35:22	/api/put-score.api	a@a.com	A	ko-kr	vesto, vestiĝas	-1
+2023-05-22 16:35:23	/api/put-score.api	a@a.com	A	ko-kr	vesto, vestiĝas	-1
+2023-05-22 16:37:34	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:38	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:38	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:38	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:39	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:39	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:39	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:39	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:39	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:40	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:40	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:40	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:37:40	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:47:47	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:49:27	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:49:59	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:50:04	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:57:53	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:58:05	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:58:06	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:58:13	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:58:19	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:58:20	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:59:29	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 16:59:37	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:00:02	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:00:56	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:02:42	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:04:13	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:06:17	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:07:23	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:07:48	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:08:36	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:12:29	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:13:18	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:13:28	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:13:35	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-22 17:13:40	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis

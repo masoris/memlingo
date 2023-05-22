@@ -209,7 +209,13 @@ window.onload = function () {
 
     //progress_bar를 현재 quiz_count에 맞게 적용한다.
 
-    $('progress').style.width = (parseFloat(localStorage.quiz_count) / 10.0) * 280 + 'px';
+    //calc(96% - 30px);
+    max_cards = 11;
+    percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
+    // alert($('progress_bar').style.width);
+    $('progress').style.width = percent + "%";
+    // alert("calc(calc(96% - 30px) * " + percent + "%)");
+    // alert($('progress').style.width);
     // alert((parseFloat(localStorage.quiz_count)/10.0))
     // alert($('progress_bar').style.width)
 
