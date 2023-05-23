@@ -12,7 +12,7 @@ body {
 }
 
 .RectangleN {
-    width: 150px;
+    width: calc(50% - 2% - 5px);
     height: 100px;
 }
 
@@ -27,25 +27,26 @@ body {
 }
 
 .InsideN {
-    width: 100%;
-    height: 100%;
+    width: 90%;
+    height: 90%;
 }
 
 #speaker {
     width: 40px;
     height: 40px;
-    padding: 10px 11px 10px 10px;
+    /* padding: 10px 11px 10px 10px; */
     border-radius: 12px;
     position: absolute;
-    left: 286px;
-    top: -25px;
+    /* left: 286px; */
+    top: -8px;
+    right: 2%;
 }
 
 .Select-what-you-hear {
     width: 320px;
     height: 30px;
-    margin: 20px 20px 16px;
-    font-family: NotoSansCJKkr;
+    /* margin: 20px 20px 16px; */
+    font-family: Arial;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
@@ -54,19 +55,19 @@ body {
     letter-spacing: normal;
     color: #111;
     position: absolute;
-    left: 20px;
-    top: 40px;
+    left: 2%;
+    top: 61px;
 }
 
 .Area2 {
-    width: 320px;
+    width: 100%;
     height: 40px;
     margin: 0 0 2px;
     position: absolute;
     /* left: 20px; */
     top: 72px;
     height: 36px;
-    padding: 10px 11px 10px 10px;
+    /* padding: 10px 11px 10px 10px; */
     border-radius: 12px;
     position: absolute;
     /* left: 20px; */
@@ -93,10 +94,10 @@ body {
 .Area3 {
     width: 320px;
     height: 18px;
-    margin: 2px 0 0;
-    padding: 0 0 0 56px;
+    /* margin: 2px 0 0; */
+    /* padding: 0 0 0 56px; */
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 176px;
 }
 
@@ -104,7 +105,7 @@ body {
     width: 264px;
     height: 18px;
     font-family: NotoSansCJKkr;
-    font-size: 14px;
+    font-size: 14pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -112,25 +113,25 @@ body {
     letter-spacing: normal;
     color: #999;
     position: absolute;
-    left: 21px;
+    /* left: 2%; */
     top: -64px;
 }
 
 .Rectangle1 {
-    width: 150px;
+    /* width: calc(50% - 2% - 5px); */
     height: 120px;
-    margin: 16px 5px 10px 20px;
+    margin: 16px 0px 10px 0px;
     /* padding: 50px 12px 22px; */
     border-radius: 10px;
     border: solid 1px #ff5c58;
     position: absolute;
-    left: 3px;
+    left: 2%;
     top: 200px;
 }
 
 .Rectangle1-1 {
-    width: 155px;
-    height: 121px;
+    width: 100%;
+    height: 100%;
     /* margin: 16px 5px 10px 20px; */
     /* padding: 50px 12px 22px; */
     border-radius: 10px;
@@ -141,12 +142,13 @@ body {
     align-items: center;
     display: flex;
     justify-content: center;
+    vertical-align: middle;
 }
 
 .Inside1 {
-    width: 131px;
-    height: 21px;
-    margin: 0 0 7px;
+    /* width: 131px; */
+    /* height: 21px; */
+    /* margin: 0 0 7px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -158,24 +160,30 @@ body {
     /* position: absolute; */
     /* left: 32px; */
     /* top: 260px; */
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .Rectangle2 {
-    width: 150px;
+    /* width: 150px; */
     height: 120px;
-    margin: 16px 20px 10px 5px;
+    margin: 16px 0px 10px 0px;
     /* padding: 50px 12px; */
     border-radius: 10px;
     border: solid 1px #ddd;
     background-color: #fff;
     position: absolute;
-    left: 180px;
+    /* left: 180px; */
     top: 200px;
+    right: 2%;
 }
 
 .Rectangle2-1 {
-    width: 155px;
-    height: 121px;
+    width: 100%;
+    height: 100%;
     /* margin: 16px 5px 10px 20px; */
     /* padding: 50px 12px 22px; */
     border-radius: 10px;
@@ -183,14 +191,15 @@ body {
     /* position: absolute; */
     /* left: 185px; */
     /* top: 210px; */
-    align-items: center;
     display: flex;
     justify-content: center;
+    align-items: center;
+    vertical-align: middle;
 }
 
 .Inside2 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -203,24 +212,27 @@ body {
     /* position: absolute; */
     /* left: 197px; */
     /* top: 260px; */
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
 }
 
 .Rectangle3 {
-    width: 150px;
+    /* width: 150px; */
     height: 120px;
-    margin: 10px 5px 118px 20px;
+    margin: 10px 0px 118px 0px;
     /* padding: 50px 12px; */
     border-radius: 10px;
     border: solid 1px #ddd;
     background-color: #fff;
     position: absolute;
-    left: 3px;
+    left: 2%;
     top: 334px;
 }
 
 .Rectangle3-1 {
-    width: 155px;
-    height: 121px;
+    width: 100%;
+    height: 100%;
     /* margin: 16px 5px 10px 20px; */
     /* padding: 50px 12px 22px; */
     border-radius: 10px;
@@ -234,8 +246,8 @@ body {
 }
 
 .Inside3 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -248,23 +260,28 @@ body {
     /* position: absolute; */
     /* left: 32px; */
     /* top: 391px; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
 }
 
 .Rectangle4 {
-    width: 150px;
+    /* width: 150px; */
     height: 120px;
-    margin: 10px 20px 118px 5px;
+    margin: 10px 0px 118px 0px;
     /* padding: 50px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 180px;
+    /* left: 180px; */
     top: 334px;
+    right: 2%;
 }
 
 .Rectangle4-1 {
-    width: 155px;
-    height: 121px;
+    width: 100%;
+    height: 100%;
     /* margin: 10px 20px 118px 5px; */
     /* padding: 50px 12px; */
     border-radius: 10px;
@@ -278,8 +295,8 @@ body {
 }
 
 .Inside4 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -292,6 +309,10 @@ body {
     /* position: absolute; */
     left: 197px;
     top: 391px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
 }
 
 .Rectangle-continue {
@@ -347,7 +368,7 @@ body {
     width: 100%;
     height: 100%;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 20pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -365,4 +386,6 @@ body {
     background-color: #03bf6b;
     width: 100%;
     height: 100%;
+    font-size: 20pt;
+    color: white;
 }

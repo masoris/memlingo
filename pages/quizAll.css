@@ -2,8 +2,9 @@ body {
     margin: 0;
     justify-content: center;
     display: flex;
-    background-color: rgb(165, 255, 144);
+    /* background-color: rgb(165, 255, 144); */
     width: 100%;
+    /* min-width: 360px; */
 }
 
 .Container {

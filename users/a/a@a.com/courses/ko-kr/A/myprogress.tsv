@@ -1,20 +1,20 @@
 Saluton	mi, vi	나, 당신	I, you	Saluton	7	2023-06-09 15:23:17
-Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton	4	2023-05-23 15:19:50
+Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton	5	2023-05-25 15:20:01
 Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	7	2023-06-09 01:12:14
 Saluton	vi estas ~	당신은 ~ 이다	you are ~	Saluton	8	2023-07-09 16:18:23
 Saluton	saluton	안녕하세요	hello	Saluton	7	2023-06-10 17:00:46
 Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton	7	2023-06-10 15:01:16
 Saluton	mia, via	나의, 당신의	my, your	Saluton	6	2023-05-30 15:23:21
-Saluton	nomo	이름	a name	Saluton	5	2023-05-22 15:26:43
+Saluton	nomo	이름	a name	Saluton	7	2023-06-12 15:25:03
 Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	5	2023-05-23 17:00:50
-Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	4	2023-05-22 15:02:25
-Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	2	2023-05-22 04:00:29
-Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did 	Saluton	2	2023-05-22 16:23:21
-Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, (past) will be	Saluton	4	2023-05-23 03:40:37
+Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	8	2023-07-22 15:29:55
+Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	4	2023-05-24 16:24:51
+Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did 	Saluton	4	2023-05-24 15:42:45
+Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, (past) will be	Saluton	5	2023-05-25 16:10:42
 Saluton	nomo, nomon	이름, 이름을	a name, an objective name	Saluton	7	2023-06-09 15:26:35
 Saluton	mia amo	나의 사랑	my love	Saluton	8	2023-07-09 16:28:40
-Saluton	vi fartas	당신은 지낸다	you are doing ~	Saluton	3	2023-05-22 08:42:54
-Saluton	kiel	어떻게	how	Saluton	2	2023-05-21 18:17:33
+Saluton	vi fartas	당신은 지낸다	you are doing ~	Saluton	4	2023-05-24 15:42:41
+Saluton	kiel	어떻게	how	Saluton	3	2023-05-23 21:25:02
 Saluton	kiel vi fartas?	당신은 어떻게 지내세요?	how are you doing?	Saluton	7	2023-06-10 17:58:31
 Saluton	kio	무엇	what	Saluton	2	2023-05-13 16:27:54
 Saluton	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	Saluton	2	2023-05-13 16:27:55
@@ -300,7 +300,7 @@ Renkonto	revenis el la lernejo	그 학교로부터 되돌아왔다	came back fro
 Renkonto	kiam revenos la fratino?	그 자매는 언제 되돌아올까요?	when will the sister return?	Renkonto	0	-
 Miaj Leteroj	nova, denove	새로운, 다시	new, again	Miaj Leteroj	0	-
 Miaj Leteroj	volis legi denove	다시 읽기를 원했다	wanted to read again	Miaj Leteroj	0	-
-Miaj Leteroj	faris, fariĝis	했다 (만들었다), 되었다	made (did), became	Miaj Leteroj	0	-
+Miaj Leteroj	faris, fariĝis	했다 (만들었다), 되었다	made (did), became	Miaj Leteroj	1	2023-05-23 15:47:39
 Miaj Leteroj	rapide fariĝis ruĝa	빠르게 빨갛게 되었다	rapidly became red	Miaj Leteroj	0	-
 Miaj Leteroj	en ĉambro, en ĉambron	방안에서, 방안으로	in a room, into a room	Miaj Leteroj	0	-
 Miaj Leteroj	eniris en la ĉambron	방안으로 들어갔다	went into the room	Miaj Leteroj	0	-
@@ -348,7 +348,7 @@ Miaj Leteroj	metis en sian poŝon	자기자신의 호주머니 속에 두었다	
 Miaj Leteroj	du cent nacioj en la mondo	세상의 200개의 나라들	two hundred nations in the world	Miaj Leteroj	0	-
 Miaj Leteroj	prenis, forprenis	잡았다(취했다, 택했다), 빼앗아 가버렸다	took, took away	Miaj Leteroj	0	-
 Miaj Leteroj	prenis sep el siaj naŭ libroj	자신의 아홉권의 책에서 일곱을 집어들었다	took seven out of his own nine books	Miaj Leteroj	0	-
-Nova Aŭto	lasi, forlasita	남겨두다, 버려진	to leave, abandoned	Nova Aŭto	0	-
+Nova Aŭto	lasi, forlasita	남겨두다, 버려진	to leave, abandoned	Nova Aŭto	1	2023-05-23 15:47:36
 Nova Aŭto	lasu min sola kaj trankvila	나를 혼자 조용히 내버려두세요.	leave me alone and calm	Nova Aŭto	0	-
 Nova Aŭto	mil ok cent ok dek sep	천 팔백 팔십 칠 (1887)	thousand eight hundred and eighty seven (1887)	Nova Aŭto	0	-
 Nova Aŭto	taso da teo	한잔의 차	a cup of tea	Nova Aŭto	0	-

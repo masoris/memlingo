@@ -71,17 +71,17 @@ img.ic_close_gray {
 .Rectangle-speaker {
     width: 40px;
     height: 36px;
-    padding: 10px 11px 10px 10px;
+    /* padding: 10px 11px 10px 10px; */
     border-radius: 12px;
     /* background-color: #ce82ff; */
     position: absolute;
     /* left: 280px; */
-    top: 49px;
+    top: 59px;
     right: 2%;
 }
 
 .mi-vi {
-    width: 264px;
+    width: 96%;
     height: 25px;
     /* margin: 7px 0 8px 16px; */
     font-family: NotoSansCJKkr;
@@ -105,7 +105,7 @@ img.ic_close_gray {
 }
 
 .I-you {
-    width: 264px;
+    width: 96%;
     height: 18px;
     font-family: NotoSansCJKkr;
     font-size: 18pt;
@@ -202,6 +202,10 @@ img.ic_close_gray {
     align-items: center;
     display: flex;
     justify-content: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
 }
 
 .Rectangle4 {
@@ -230,13 +234,17 @@ img.ic_close_gray {
     align-items: center;
     display: flex;
     justify-content: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
 }
 
 .Inside1 {
-    width: 296px;
-    height: 21px;
+    width: 95%;
+    height: 95%;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 20pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -247,14 +255,18 @@ img.ic_close_gray {
     /* position: absolute; */
     left: 32px;
     top: 230px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
 }
 
 .Inside2 {
-    width: 296px;
-    height: 21px;
+    width: 95%;
+    height: 95%;
     margin: 1px 0 0;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 20pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -265,13 +277,17 @@ img.ic_close_gray {
     /* position: absolute; */
     left: 32px;
     top: 310px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
 }
 
 .Inside3 {
-    width: 296px;
-    height: 21px;
+    width: 95%;
+    height: 95%;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 20pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -282,13 +298,17 @@ img.ic_close_gray {
     /* position: absolute; */
     left: 32px;
     top: 372px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
 }
 
 .Inside4 {
-    width: 296px;
-    height: 21px;
+    width: 95%;
+    height: 95%;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 20pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -299,6 +319,10 @@ img.ic_close_gray {
     /* position: absolute; */
     left: 32px;
     top: 443px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
 }
 
 .Rectangle-listen {
@@ -309,9 +333,10 @@ img.ic_close_gray {
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
     position: fixed;
-    /* left: 2%; */
+    left: 0;
     /* top: 468px; */
     bottom: 0px;
+    /* display: flex; */
 }
 
 .Listen-and-continue {
@@ -340,4 +365,5 @@ img.ic_close_gray {
     font-size: 18pt;
     background-color: #03bf6b;
     color: white;
+    border-width: 0;
 }
