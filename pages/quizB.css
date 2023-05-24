@@ -88,8 +88,12 @@ img.ic_close_gray {
 }
 
 .InsideN {
-    width: 100%;
-    height: 100%;
+    width: 95%;
+    height: 95%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
 }
 
 
@@ -108,8 +112,8 @@ img.ic_close_gray {
 .Rectangle1-1 {}
 
 .Inside1 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -136,8 +140,8 @@ img.ic_close_gray {
 .Rectangle2-1 {}
 
 .Inside2 {
-    width: 131px;
-    height: 42px;
+    /* width: 131px; */
+    /* height: 42px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -162,8 +166,8 @@ img.ic_close_gray {
 .Rectangle3-1 {}
 
 .Inside3 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -189,8 +193,8 @@ img.ic_close_gray {
 .Rectangle4-1 {}
 
 .Inside4 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -215,8 +219,8 @@ img.ic_close_gray {
 .Rectangle5-1 {}
 
 .Inside5 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -242,8 +246,8 @@ img.ic_close_gray {
 .Rectangle6-1 {}
 
 .Inside6 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -268,8 +272,8 @@ img.ic_close_gray {
 .Rectangle7-1 {}
 
 .Inside7 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;
@@ -295,8 +299,8 @@ img.ic_close_gray {
 .Rectangle8-1 {}
 
 .Inside8 {
-    width: 131px;
-    height: 21px;
+    /* width: 131px; */
+    /* height: 21px; */
     font-family: NotoSansCJKkr;
     font-size: 17px;
     font-weight: normal;

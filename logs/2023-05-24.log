@@ -1,0 +1,11 @@
+2023-05-24 06:50:46	/api/similar-words.api	a@a.com	A	ko-kr	kiel
+2023-05-24 06:50:55	/api/similar-words.api	a@a.com	A	ko-kr	kiel
+2023-05-24 06:52:10	/api/similar-words-jk.api	a@a.com	A	ko-kr	kiel	
+2023-05-24 06:52:48	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-24 06:52:51	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-24 06:52:51	/api/card-next.api	a@a.com	A	ko-kr	mia nomo, via nomo	5	./quizE.html	ludoviko
+2023-05-24 06:52:55	/api/similar-words-jk.api	a@a.com	A	ko-kr	mia	nomo
+2023-05-24 06:57:11	/api/similar-words.api	a@a.com	A	ko-kr	mia nomo, via nomo
+2023-05-24 16:41:55	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-24 16:42:02	/api/logout.api	a@a.com	ko-kr	A
+2023-05-24 17:02:20	/api/login.api	a@a.com	a@a.com	ko-kr
