@@ -3,6 +3,14 @@
     height: 640px;
 }
 
+.Area0{
+    width: 96%;
+    position: absolute;
+    top: 100px;
+    left: 2%;
+    
+}
+
 .Area1 {
     width: 320px;
     height: 24px;
@@ -63,9 +71,9 @@ img.ic_close_gray {
 }
 
 .Area2 {
-    width: 320px;
-    height: 40px;
-    margin: 0 0 2px;
+    /* width: 320px; */
+    /* height: 40px; */
+    /* margin: 0 0 2px; */
 }
 
 .Rectangle-speaker {
@@ -92,32 +100,32 @@ img.ic_close_gray {
     line-height: 1.19;
     letter-spacing: normal;
     color: #111;
-    position: absolute;
+    /* position: absolute; */
     left: 2%;
     top: 100px;
 }
 
 .Area3 {
-    width: 320px;
-    height: 18px;
-    margin: 2px 0 0;
-    padding: 0 0 0 56px;
+    /* width: 320px; */
+    /* height: 18px; */
+    /* margin: 2px 0 0; */
+    /* padding: 0 0 0 56px; */
 }
 
 .I-you {
     width: 96%;
     height: 18px;
     font-family: NotoSansCJKkr;
-    font-size: 18pt;
+    font-size: 15pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
-    position: absolute;
+    /* position: absolute; */
     left: 2%;
-    top: 135px;
+    top: 145px;
 }
 
 .Rectangle1 {
@@ -129,7 +137,7 @@ img.ic_close_gray {
     border: solid 1px #ddd;
     position: absolute;
     left: 2%;
-    top: 210px;
+    top: 250px;
 }
 
 .Rectangle1-1 {
@@ -157,7 +165,7 @@ img.ic_close_gray {
     border: solid 1px #ff5c58;
     position: absolute;
     left: 2%;
-    top: 281px;
+    top: 321px;
 }
 
 .Rectangle2-1 {
@@ -185,7 +193,7 @@ img.ic_close_gray {
     border: solid 1px #49c0f8;
     position: absolute;
     left: 2%;
-    top: 352px;
+    top: 392px;
 }
 
 .Rectangle3-1 {
@@ -217,7 +225,7 @@ img.ic_close_gray {
     border: solid 1px #ddd;
     position: absolute;
     left: 2%;
-    top: 423px;
+    top: 463px;
 }
 
 .Rectangle4-1 {
@@ -244,7 +252,7 @@ img.ic_close_gray {
     width: 95%;
     height: 95%;
     font-family: NotoSansCJKkr;
-    font-size: 20pt;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -266,7 +274,7 @@ img.ic_close_gray {
     height: 95%;
     margin: 1px 0 0;
     font-family: NotoSansCJKkr;
-    font-size: 20pt;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -287,7 +295,7 @@ img.ic_close_gray {
     width: 95%;
     height: 95%;
     font-family: NotoSansCJKkr;
-    font-size: 20pt;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -308,7 +316,7 @@ img.ic_close_gray {
     width: 95%;
     height: 95%;
     font-family: NotoSansCJKkr;
-    font-size: 20pt;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -366,4 +374,5 @@ img.ic_close_gray {
     background-color: #03bf6b;
     color: white;
     border-width: 0;
+    font-weight: bold;
 }

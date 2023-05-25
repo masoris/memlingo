@@ -3,8 +3,28 @@
     height: 640px;
 }
 
-input {
+.Area0{
+    width: 96%;
+    position: absolute;
+    left: 2%;
+    top: 100px;
+}
+
+
+#answers input {
+    font-size: 20pt;
+    background-color: white;
+    margin-right: 10px;
+    margin-top: 10px;
     
+}
+
+#options input {
+    font-size: 20pt;
+    background-color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color:#e0ffe0;
 }
 
 .Area1 {
@@ -15,12 +35,14 @@ input {
 
 .Answers {
     position: absolute;
-    top: 300px;
+    top: 200px;
+    left: 2%;
 }
 
 .Options {
     position: absolute;
     top: 400px;
+    left: 2%;
 }
 
 img.ic_close_gray {
@@ -71,7 +93,7 @@ img.ic_close_gray {
     letter-spacing: normal;
     color: #111;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 61px;
 }
 
@@ -84,12 +106,13 @@ img.ic_close_gray {
 .Rectangle-speaker {
     width: 40px;
     height: 36px;
-    padding: 10px 11px 10px 10px;
+    /* padding: 10px 11px 10px 10px; */
     border-radius: 12px;
     /* background-color: #ce82ff; */
     position: absolute;
-    left: 280px;
-    top: 89px;
+    /* left: 280px; */
+    top: 55px;
+    right: 2%;
 }
 
 .mi-vi {
@@ -110,47 +133,47 @@ img.ic_close_gray {
 }
 
 .Area3 {
-    width: 320px;
-    height: 18px;
-    margin: 2px 0 0;
-    padding: 0 0 0 56px;
+    /* width: 320px; */
+    /* height: 18px; */
+    /* margin: 2px 0 0; */
+    /* padding: 0 0 0 56px; */
 }
 
 .I-you {
-    width: 264px;
-    height: 18px;
+    /* width: 264px; */
+    /* height: 18px; */
     font-family: NotoSansCJKkr;
-    font-size: 14px;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.29;
     letter-spacing: normal;
-    color: #999;
-    position: absolute;
-    left: 30px;
-    top: 115px;
+    /* color: #999; */
+    /* position: absolute; */
+    /* left: 30px; */
+    /* top: 115px; */
 }
 
 .Area4 {
-    width: 320px;
-    height: 18px;
-    margin: 12px 0 0;
-    padding: 0 0 0 56px;
+    /* width: 320px; */
+    /* height: 18px; */
+    /* margin: 12px 0 0; */
+    /* padding: 0 0 0 56px; */
 }
 
 .hello-I-am- {
     width: 264px;
     height: 18px;
     font-family: NotoSansCJKkr;
-    font-size: 14px;
+    font-size: 15pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
-    position: absolute;
+    /* position: absolute; */
     left: 30px;
     top: 147px;
 }
@@ -162,8 +185,9 @@ img.ic_woman_1 {
     /* padding: 8px 15px 7px; */
     object-fit: contain;
     position: absolute;
-    left: 230px;
-    top: 470px;
+    /* left: 230px; */
+    top: 305px;
+    right: 2%;
 }
 
 .Rectangle-hard {
@@ -240,13 +264,14 @@ img.ic_woman_1 {
     width: 100%;
     height: 100%;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
-    font-weight: normal;
+    font-size: 20pt;
+    font-weight: bold;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    /* color: #fff; */
+    color: #fff;
     background-color: #03bf6b;
+    border-width: 0;
 }

@@ -9,6 +9,16 @@
     margin: 20px;
 }
 
+.Area0 {
+    top: 95px;
+    left: 2%;
+    position: absolute;
+    width: 96%;
+}
+
+
+
+
 img.ic_close_gray {
     width: 24px;
     height: 24px;
@@ -48,7 +58,7 @@ img.ic_close_gray {
 .Select-what-you-hear {
     width: 320px;
     height: 30px;
-    margin: 20px 20px 16px;
+    margin: 20px 0px 16px;
     font-family: NotoSansCJKkr;
     font-size: 24px;
     font-weight: normal;
@@ -58,82 +68,82 @@ img.ic_close_gray {
     letter-spacing: normal;
     color: #111;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 39px;
 }
 
 .Area2 {
-    width: 320px;
-    height: 40px;
-    margin: 0 0 2px;
+    /* width: 320px; */
+    /* height: 40px; */
+    /* margin: 0 0 2px; */
 }
 
 .Rectangle-speaker {
     width: 40px;
     height: 36px;
-    padding: 10px 11px 10px 10px;
+    /* padding: 10px 11px 10px 10px; */
     border-radius: 12px;
     /* background-color: #ce82ff; */
     position: absolute;
-    left: 280px;
-    top: 49px;
+    /* left: 280px; */
+    right: 2%;
 }
 
 .mi-vi {
     width: 264px;
     height: 25px;
-    margin: 7px 0 8px 16px;
+    /* margin: 7px 0 8px 16px; */
     font-family: NotoSansCJKkr;
-    font-size: 21px;
+    font-size: 20pt;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.19;
+    /* line-height: 1.19; */
     letter-spacing: normal;
     color: #111;
-    position: absolute;
-    left: 27px;
-    top: 95px;
+    /* position: absolute; */
+    /* left: 27px; */
+    /* top: 95px; */
 }
 
 .Area3 {
-    width: 320px;
-    height: 18px;
-    margin: 2px 0 0;
-    padding: 0 0 0 56px;
+    /* width: 320px; */
+    /* height: 18px; */
+    /* margin: 2px 0 0; */
+    /* padding: 0 0 0 56px; */
 }
 
 .I-you {
     width: 264px;
     height: 18px;
     font-family: NotoSansCJKkr;
-    font-size: 14px;
+    font-size: 15pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
-    position: absolute;
+    /* position: absolute; */
     left: 43px;
     top: 135px;
 }
 
 .Rectangle1 {
-    width: 320px;
+    width: 96%;
     height: 61px;
     /* margin: 16px 20px 10px;
     padding: 20px 12px; */
     border-radius: 10px;
     border: solid 1px #ddd;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 210px;
 }
 
 .Rectangle1-1 {
-    width: 320px;
-    height: 61px;
+    width: 100%;
+    height: 100%;
     /* margin: 10px 20px;
     padding: 19px 12px 20px; */
     /* opacity: 0.1; */
@@ -148,20 +158,20 @@ img.ic_close_gray {
 }
 
 .Rectangle2 {
-    width: 320px;
+    width: 96%;
     height: 61px;
     /* margin: 10px 20px;
     padding: 19px 12px 20px; */
     border-radius: 10px;
     border: solid 1px #ff5c58;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 281px;
 }
 
 .Rectangle2-1 {
-    width: 320px;
-    height: 61px;
+    width: 100%;
+    height: 100%;
     /* margin: 10px 20px;
     padding: 19px 12px 20px; */
     /* opacity: 0.1; */
@@ -176,20 +186,20 @@ img.ic_close_gray {
 }
 
 .Rectangle3 {
-    width: 320px;
+    width: 96%;
     height: 61px;
     /* margin: 10px 20px;
     padding: 20px 12px; */
     border-radius: 10px;
     border: solid 1px #49c0f8;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 352px;
 }
 
 .Rectangle3-1 {
-    width: 320px;
-    height: 61px;
+    width: 100%;
+    height: 100%;
     /* margin: 10px 20px;
     padding: 20px 12px; */
     /* opacity: 0.15; */
@@ -204,20 +214,20 @@ img.ic_close_gray {
 }
 
 .Rectangle4 {
-    width: 320px;
+    width: 96%;
     height: 61px;
     /* margin: 10px 20px 96px;
     padding: 20px 12px; */
     border-radius: 10px;
     border: solid 1px #ddd;
     position: absolute;
-    left: 20px;
+    left: 2%;
     top: 423px;
 }
 
 .Rectangle4-1 {
-    width: 320px;
-    height: 61px;
+    width: 100%;
+    height: 100%;
     /* margin: 10px 20px;
     padding: 19px 12px 20px; */
     /* opacity: 0.1; */
@@ -232,10 +242,10 @@ img.ic_close_gray {
 }
 
 .Inside1 {
-    width: 296px;
-    height: 21px;
+    width: 95%;
+    height: 95%;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -246,14 +256,19 @@ img.ic_close_gray {
     /* position: absolute; */
     left: 32px;
     top: 230px;
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
 }
 
 .Inside2 {
-    width: 296px;
-    height: 21px;
+    width: 95%;
+    height: 95%;
     margin: 1px 0 0;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -264,13 +279,18 @@ img.ic_close_gray {
     /* position: absolute; */
     left: 32px;
     top: 310px;
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
 }
 
 .Inside3 {
-    width: 296px;
-    height: 21px;
+    width: 95%;
+    height: 95%;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -281,13 +301,18 @@ img.ic_close_gray {
     /* position: absolute; */
     left: 32px;
     top: 372px;
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
 }
 
 .Inside4 {
-    width: 296px;
-    height: 21px;
+    width: 95%;
+    height: 95%;
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -298,6 +323,11 @@ img.ic_close_gray {
     /* position: absolute; */
     left: 32px;
     top: 443px;
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
 }
 
 .Rectangle-listen {
@@ -339,4 +369,6 @@ img.ic_close_gray {
     background-color: #03bf6b;
     font-size: 18pt;
     color: white;
+    font-weight: bold;
+    border-width: 0;
 }

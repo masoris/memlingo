@@ -93,6 +93,13 @@ function click_option(item) { //제시된 여러개의 단어를 클릭한 경�
         } else if (k_word != "" && $('k_word').style.color == 'black') {
             $('btn_listen').value = "Listen and Continue";
         }
+
+        // 맞추면 progress bar를 한 칸 진전시킨다.
+        if (parseInt(localStorage.quiz_count) < 10) {
+            max_cards = 11;
+            percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
+            $('progress').style.width = percent + "%";
+        }
     }
 }
 
@@ -113,7 +120,7 @@ function get_similar_words_jk(j_word, k_word) {
             [rand_words[i], rand_words[j]] = [rand_words[j], rand_words[i]]; // i번째 요소와 j번째 요소를 서로 바꿈
         }
         for (i = 0; i < rand_words.length; i++) {
-            $('options').innerHTML = $('options').innerHTML + "&nbsp;<input onclick='click_option(this)' type='button' value='" + rand_words[i] + "'>";
+            $('options').innerHTML = $('options').innerHTML + "<input onclick='click_option(this)' type='button' value='" + rand_words[i] + "'>";
         }
         // 자바스크립트에서는 네트워크 호출이 얼마나 걸릴지 모르기 때문에, 호출이 끝난 후에 콜백 함수 형태로 수행을 한다.
         // 콜백 함수가 호출되면 그 때 서야 네트워크로부터 받아온 값이 준비 된 상태이다.
@@ -139,7 +146,7 @@ function click_continue() {
     quiz_count = parseInt(localStorage.quiz_count) + 1;
     localStorage.setItem("quiz_count", quiz_count.toString());
     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count > 1) { //TODO 임시로 10을 2로 바꿨음.
+    if (localStorage.quiz_count > 10) { //TODO 임시로 10을 2로 바꿨음.
         window.location.href = "session-finish.html";
         return;
     }
@@ -207,7 +214,7 @@ window.onload = function () {
 
     $('voice_img').src = carditem.voice_img_url;
     esp_txt2 = carditem.esp_txt.replace(",", " ,").replace("?", " ?").replace("!", " !").replace("~", " ~").replace(".", " .");
-    esp_txt_words = esp_txt2.trim().split(" ");
+    esp_txt_words = esp_txt2.trim().replace("  ", " ").split(" ");
 
     var j = Math.floor(Math.random() * (esp_txt_words.length));
     arr = [",", "?", "!", "~", ".", ""];
@@ -227,11 +234,11 @@ window.onload = function () {
     }
     for (i = 0; i < esp_txt_words.length; i++) {
         if (i == j) {
-            $('answers').innerHTML = $('answers').innerHTML + "&nbsp;<input id='j_word' style='color:white;' type='button' value='" + esp_txt_words[i] + "'>";
+            $('answers').innerHTML = $('answers').innerHTML + "<input id='j_word' style='color:white;' type='button' value='" + esp_txt_words[i] + "'>";
         } else if (i == k) {
-            $('answers').innerHTML = $('answers').innerHTML + "&nbsp;<input id='k_word' style='color:white;' type='button' value='" + esp_txt_words[i] + "'>";
+            $('answers').innerHTML = $('answers').innerHTML + "<input id='k_word' style='color:white;' type='button' value='" + esp_txt_words[i] + "'>";
         } else {
-            $('answers').innerHTML = $('answers').innerHTML + "&nbsp;<input type='button' value='" + esp_txt_words[i] + "'>";
+            $('answers').innerHTML = $('answers').innerHTML + "<input type='button' value='" + esp_txt_words[i] + "'>";
         }
     }
 
@@ -244,7 +251,12 @@ window.onload = function () {
     get_similar_words_jk(j_word, k_word);
     // rand_words = ["farti", "fartas", "fartus", "fartis", "farto"];
 
-
+    // 맞추면 progress bar를 한 칸 진전시킨다.
+    if (parseInt(localStorage.quiz_count) < 10) {
+        max_cards = 11;
+        percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
+        $('progress').style.width = percent + "%";
+    }
 
 };
 

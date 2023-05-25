@@ -105,7 +105,7 @@ body {
     width: 264px;
     height: 18px;
     font-family: NotoSansCJKkr;
-    font-size: 14pt;
+    font-size: 15pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -113,7 +113,7 @@ body {
     letter-spacing: normal;
     color: #999;
     position: absolute;
-    /* left: 2%; */
+    left: 2%;
     top: -64px;
 }
 
@@ -215,6 +215,8 @@ body {
     vertical-align: middle;
     align-items: center;
     display: flex;
+    /* align-items: center; */
+    justify-content: center;
 }
 
 .Rectangle3 {
@@ -380,6 +382,8 @@ body {
     left: 200px;
     top: 599px;
     color: white;
+    border-width: 0;
+    font-weight: bold;
 }
 
 .Continue {
@@ -388,4 +392,6 @@ body {
     height: 100%;
     font-size: 20pt;
     color: white;
+    border-width: 0;
+    font-weight: bold;
 }

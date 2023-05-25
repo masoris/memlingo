@@ -1,0 +1,51 @@
+2023-05-25 15:12:26	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-25 15:12:35	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-25 15:12:35	/api/card-next.api	a@a.com	A	ko-kr	mia nomo, via nomo	5	./quizI.html	male1
+2023-05-25 15:12:35	/api/similar-words-jk.api	a@a.com	A	ko-kr	mia	nomo
+2023-05-25 15:14:28	/api/similar-words-jk.api	a@a.com	A	ko-kr	mia	via
+2023-05-25 15:21:48	/api/similar-words.api	a@a.com	A	ko-kr	mia nomo, via nomo
+2023-05-25 15:32:50	/api/similar-words.api	a@a.com	A	ko-kr	mia nomo, via nomo
+2023-05-25 15:35:58	/api/similar-words.api	a@a.com	A	ko-kr	mia nomo, via nomo
+2023-05-25 15:40:37	/api/similar-words.api	a@a.com	A	ko-kr	mia nomo, via nomo
+2023-05-25 15:43:22	/api/similar-words.api	a@a.com	A	ko-kr	mia nomo, via nomo
+2023-05-25 15:43:26	/api/put-score.api	a@a.com	A	ko-kr	mia nomo, via nomo	1
+2023-05-25 15:43:35	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	5	./quizI.html	female3
+2023-05-25 15:43:35	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2023-05-25 15:43:39	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-25 15:44:30	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-05-25 15:53:57	/api/similar-words-jk.api	a@a.com	A	ko-kr	estis	
+2023-05-25 15:54:23	/api/similar-words-jk.api	a@a.com	A	ko-kr	estis	
+2023-05-25 15:59:39	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2023-05-25 16:03:04	/api/similar-words-jk.api	a@a.com	A	ko-kr	estis	
+2023-05-25 16:03:35	/api/similar-words-jk.api	a@a.com	A	ko-kr	estis	
+2023-05-25 16:07:40	/api/similar-words-jk.api	a@a.com	A	ko-kr	estis	
+2023-05-25 16:11:00	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2023-05-25 16:11:12	/api/card-next.api	a@a.com	A	ko-kr	via nomo estas ~	4	./quizG.html	female1
+2023-05-25 16:11:12	/api/similar-words.api	a@a.com	A	ko-kr	via nomo estas ~
+2023-05-25 16:11:17	/api/similar-words-jk.api	a@a.com	A	ko-kr	nomo	via
+2023-05-25 16:11:56	/api/similar-words-jk.api	a@a.com	A	ko-kr	nomo	via
+2023-05-25 16:12:09	/api/similar-words-jk.api	a@a.com	A	ko-kr	nomo	estas
+2023-05-25 16:12:51	/api/similar-words-jk.api	a@a.com	A	ko-kr	via	nomo
+2023-05-25 16:13:01	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	via
+2023-05-25 16:13:19	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	nomo
+2023-05-25 16:16:28	/api/similar-words-jk.api	a@a.com	A	ko-kr	nomo	via
+2023-05-25 16:17:33	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다
+2023-05-25 16:19:06	/api/put-score-kor.api	a@a.com	A	ko-kr	당신의 이름이 ~ 입니까?	-1
+2023-05-25 16:23:37	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다
+2023-05-25 16:24:07	/api/similar-words.api	a@a.com	A	ko-kr	via nomo estas ~
+2023-05-25 16:24:09	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다
+2023-05-25 16:24:12	/api/similar-words.api	a@a.com	A	ko-kr	via nomo estas ~
+2023-05-25 16:24:16	/api/put-score.api	a@a.com	A	ko-kr	via nomo estas ~	1
+2023-05-25 16:24:22	/api/put-score.api	a@a.com	A	ko-kr	via nomo estas ~	-1
+2023-05-25 16:24:24	/api/put-score.api	a@a.com	A	ko-kr	via nomo estas ~	1
+2023-05-25 16:24:28	/api/put-score.api	a@a.com	A	ko-kr	mia nomo estas ~	1
+2023-05-25 16:24:31	/api/put-score.api	a@a.com	A	ko-kr	estas via amikino	1
+2023-05-25 16:24:33	/api/put-score.api	a@a.com	A	ko-kr	ĝia nomo ne estas ~	1
+2023-05-25 16:26:45	/api/put-score-kor.api	a@a.com	A	ko-kr	나의 이름은 ~입니다	-1
+2023-05-25 16:26:46	/api/put-score-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다	1
+2023-05-25 16:29:47	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다
+2023-05-25 16:34:30	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다
+2023-05-25 16:42:45	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다
+2023-05-25 16:42:49	/api/put-score-kor.api	a@a.com	A	ko-kr	당신의 이름이 ~ 입니까?	-1
+2023-05-25 16:42:52	/api/put-score-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다	1
+2023-05-25 16:43:37	/api/login.api	a@a.com	a@a.com	ko-kr
