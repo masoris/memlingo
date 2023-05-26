@@ -150,7 +150,7 @@ body {
     /* height: 21px; */
     /* margin: 0 0 7px; */
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 17pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -201,7 +201,7 @@ body {
     /* width: 131px; */
     /* height: 21px; */
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 17pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -251,7 +251,7 @@ body {
     /* width: 131px; */
     /* height: 21px; */
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 17pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -300,7 +300,7 @@ body {
     /* width: 131px; */
     /* height: 21px; */
     font-family: NotoSansCJKkr;
-    font-size: 17px;
+    font-size: 17pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -325,7 +325,7 @@ body {
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
     position: fixed;
-    left: 0px;
+    left: 50%;
     /* top: 580px; */
     align-items: center;
     display: flex;
@@ -358,7 +358,7 @@ body {
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #4c5b75;
     position: fixed;
-    left: 50%;
+    left: 0;
     /* top: 580px; */
     bottom: 0px;
     align-items: center;

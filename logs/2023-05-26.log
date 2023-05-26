@@ -1,0 +1,167 @@
+2023-05-26 15:23:44	/api/card-next.api	a@a.com	A	ko-kr	fartas, fartis	4	./quizH.html	male1
+2023-05-26 15:23:44	/api/similar-words.api	a@a.com	A	ko-kr	fartas, fartis
+2023-05-26 15:47:03	/api/card-next.api	a@a.com	A	ko-kr	estis, estos	5	./quizI.html	female1
+2023-05-26 15:47:03	/api/similar-words-jk.api	a@a.com	A	ko-kr	estos	
+2023-05-26 15:47:34	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-26 15:47:43	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-26 15:47:58	/api/similar-words-kor.api	a@a.com	A	ko-kr	(과거) 이었다, (미래) 일 것이다
+2023-05-26 15:48:10	/api/similar-words-kor.api	a@a.com	A	ko-kr	(과거) 이었다, (미래) 일 것이다
+2023-05-26 15:48:43	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-26 15:48:59	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-26 15:50:15	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-26 15:50:45	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-26 15:50:47	/api/similar-words-kor.api	a@a.com	A	ko-kr	(과거) 이었다, (미래) 일 것이다
+2023-05-26 15:50:49	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-26 15:52:21	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-26 15:53:33	/api/similar-words.api	a@a.com	A	ko-kr	estis, estos
+2023-05-26 15:53:36	/api/put-score.api	a@a.com	A	ko-kr	estis, estos	1
+2023-05-26 15:53:42	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 15:54:36	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-26 16:03:13	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-26 16:03:21	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-26 16:03:21	/api/card-next.api	a@a.com	A	ko-kr	vi fartas	4	./quizI.html	male3
+2023-05-26 16:03:21	/api/similar-words-jk.api	a@a.com	A	ko-kr	fartas	
+2023-05-26 16:10:15	/api/card-next.api	a@a.com	A	ko-kr	kiel	3	./quizH.html	female1
+2023-05-26 16:10:15	/api/similar-words.api	a@a.com	A	ko-kr	kiel
+2023-05-26 16:11:39	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-05-26 16:11:43	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-26 16:11:43	/api/card-next.api	a@a.com	A	ko-kr	kiel	3	./quizG.html	female2
+2023-05-26 16:11:43	/api/similar-words.api	a@a.com	A	ko-kr	kiel
+2023-05-26 16:11:53	/api/put-score.api	a@a.com	A	ko-kr	kiel	1
+2023-05-26 16:12:58	/api/card-next.api	a@a.com	A	ko-kr	kio	2	./quizI.html	female2
+2023-05-26 16:12:58	/api/similar-words-jk.api	a@a.com	A	ko-kr	kio	
+2023-05-26 16:14:13	/api/card-next.api	a@a.com	A	ko-kr	kio estas via nomo?	2	./quizI.html	male2
+2023-05-26 16:14:13	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	kio
+2023-05-26 16:14:30	/api/card-next.api	a@a.com	A	ko-kr	bona, bone	1	./quizC.html	ludoviko
+2023-05-26 16:14:30	/api/similar-words-kor.api	a@a.com	A	ko-kr	좋은 (형용사), 잘 (부사)
+2023-05-26 16:24:43	/api/similar-words-kor.api	a@a.com	A	ko-kr	좋은 (형용사), 잘 (부사)
+2023-05-26 16:24:49	/api/put-score-kor.api	a@a.com	A	ko-kr	좋은 (형용사), 잘 (부사)	1
+2023-05-26 16:24:59	/api/card-next.api	a@a.com	A	ko-kr	fartas bone	2	./quizC.html	
+2023-05-26 16:24:59	/api/similar-words-kor.api	a@a.com	A	ko-kr	잘 지낸다 (지내고 있다)
+2023-05-26 16:25:04	/api/put-score-kor.api	a@a.com	A	ko-kr	잘 지낸다 (지내고 있다)	1
+2023-05-26 16:25:04	/api/card-next.api	a@a.com	A	ko-kr	mi fartas bone	2	./quizF.html	
+2023-05-26 16:25:17	/api/card-next.api	a@a.com	A	ko-kr	kaj	1	./quizI.html	
+2023-05-26 16:25:17	/api/similar-words-jk.api	a@a.com	A	ko-kr	kaj	
+2023-05-26 16:25:20	/api/card-next.api	a@a.com	A	ko-kr	bone, kaj vi?	2	./quizG.html	
+2023-05-26 16:25:20	/api/similar-words.api	a@a.com	A	ko-kr	bone, kaj vi?
+2023-05-26 16:26:39	/api/put-score.api	a@a.com	A	ko-kr	bone, kaj vi?	1
+2023-05-26 16:26:41	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 16:33:39	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 16:37:43	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 16:45:12	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 16:46:43	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 16:50:13	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 16:57:29	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-26 16:57:29	/api/card-next.api	a@a.com	A	ko-kr	mi fartas bone	2	./quizI.html	
+2023-05-26 16:57:29	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2023-05-26 16:57:37	/api/card-next.api	a@a.com	A	ko-kr	kaj	2	./quizF.html	
+2023-05-26 16:57:41	/api/card-next.api	a@a.com	A	ko-kr	ĝis ~	2	./quizH.html	
+2023-05-26 16:57:42	/api/similar-words.api	a@a.com	A	ko-kr	ĝis ~
+2023-05-26 17:00:06	/api/similar-words.api	a@a.com	A	ko-kr	ĝis ~
+2023-05-26 17:00:09	/api/similar-words.api	a@a.com	A	ko-kr	ĝis ~
+2023-05-26 17:00:10	/api/similar-words.api	a@a.com	A	ko-kr	ĝis ~
+2023-05-26 17:00:16	/api/similar-words.api	a@a.com	A	ko-kr	ĝis ~
+2023-05-26 17:00:31	/api/similar-words.api	a@a.com	A	ko-kr	ĝis ~
+2023-05-26 17:00:38	/api/put-score.api	a@a.com	A	ko-kr	ĝis ~	1
+2023-05-26 17:00:43	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 17:01:31	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-26 17:01:31	/api/card-next.api	a@a.com	A	ko-kr	vidas, vidis	2	./quizH.html	
+2023-05-26 17:01:31	/api/similar-words.api	a@a.com	A	ko-kr	vidas, vidis
+2023-05-26 17:01:36	/api/put-score.api	a@a.com	A	ko-kr	vidas, vidis	1
+2023-05-26 17:01:37	/api/card-next.api	a@a.com	A	ko-kr	vidis, revidis	1	./quizH.html	
+2023-05-26 17:01:37	/api/similar-words.api	a@a.com	A	ko-kr	vidis, revidis
+2023-05-26 17:01:38	/api/put-score.api	a@a.com	A	ko-kr	ree donis, redonis	-1
+2023-05-26 17:01:39	/api/put-score.api	a@a.com	A	ko-kr	revidis, revidos	-1
+2023-05-26 17:01:40	/api/put-score.api	a@a.com	A	ko-kr	iris, reiris	-1
+2023-05-26 17:01:40	/api/put-score.api	a@a.com	A	ko-kr	vidis, revidis	1
+2023-05-26 17:01:41	/api/card-next.api	a@a.com	A	ko-kr	revido, revidon	1	./quizI.html	
+2023-05-26 17:01:41	/api/similar-words-jk.api	a@a.com	A	ko-kr	revidon	
+2023-05-26 17:01:51	/api/card-next.api	a@a.com	A	ko-kr	ĝis revido!	1	./quizE.html	
+2023-05-26 17:01:55	/api/card-next.api	a@a.com	A	ko-kr	dankon	1	./quizC.html	
+2023-05-26 17:01:55	/api/similar-words-kor.api	a@a.com	A	ko-kr	감사합니다
+2023-05-26 17:01:58	/api/put-score-kor.api	a@a.com	A	ko-kr	나는 당신에게 감사합니다	-1
+2023-05-26 17:01:59	/api/put-score-kor.api	a@a.com	A	ko-kr	감사합니다	1
+2023-05-26 17:01:59	/api/card-next.api	a@a.com	A	ko-kr	dankon kaj ĝis revido!	1	./quizG.html	
+2023-05-26 17:01:59	/api/similar-words.api	a@a.com	A	ko-kr	dankon kaj ĝis revido!
+2023-05-26 17:02:01	/api/put-score.api	a@a.com	A	ko-kr	dankon kaj ĝis revido!	1
+2023-05-26 17:02:02	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 17:02:22	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 17:02:27	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-26 17:02:27	/api/card-next.api	a@a.com	A	ko-kr	al ~	1	./quizE.html	
+2023-05-26 17:02:34	/api/card-next.api	a@a.com	A	ko-kr	al vi, al mi	4	./quizE.html	male2
+2023-05-26 17:02:38	/api/card-next.api	a@a.com	A	ko-kr	dankas, dankis	1	./quizD.html	
+2023-05-26 17:02:38	/api/similar-words-kor.api	a@a.com	A	ko-kr	(현재) 감사한다, (과거) 감사했다
+2023-05-26 17:02:40	/api/put-score-kor.api	a@a.com	A	ko-kr	(현재) 감사한다, (과거) 감사했다	1
+2023-05-26 17:02:41	/api/card-next.api	a@a.com	A	ko-kr	jes, ne	2	./quizB.html	
+2023-05-26 17:02:41	/api/similar-words.api	a@a.com	A	ko-kr	jes, ne
+2023-05-26 17:02:44	/api/put-score.api	a@a.com	A	ko-kr	revenis, revenintoj	1
+2023-05-26 17:02:47	/api/put-score.api	a@a.com	A	ko-kr	je la sesa, li venos	1
+2023-05-26 17:02:49	/api/put-score.api	a@a.com	A	ko-kr	jes, dankon	1
+2023-05-26 17:02:50	/api/put-score.api	a@a.com	A	ko-kr	jes, ne	1
+2023-05-26 17:02:52	/api/card-next.api	a@a.com	A	ko-kr	manĝas, manĝos	2	./quizC.html	
+2023-05-26 17:02:52	/api/similar-words-kor.api	a@a.com	A	ko-kr	(현재) 먹는다, (미래) 먹을것이다
+2023-05-26 17:02:55	/api/put-score-kor.api	a@a.com	A	ko-kr	(현재) 먹는다, (미래) 먹을것이다	1
+2023-05-26 17:02:56	/api/card-next.api	a@a.com	A	ko-kr	mi ne manĝas	1	./quizB.html	
+2023-05-26 17:02:56	/api/similar-words.api	a@a.com	A	ko-kr	mi ne manĝas
+2023-05-26 17:02:59	/api/put-score.api	a@a.com	A	ko-kr	mi ne manĝas	-1
+2023-05-26 17:03:01	/api/put-score.api	a@a.com	A	ko-kr	mi ne manĝas	1
+2023-05-26 17:03:03	/api/put-score.api	a@a.com	A	ko-kr	mi ne estas ~	-1
+2023-05-26 17:03:05	/api/put-score.api	a@a.com	A	ko-kr	mi ne estas ~	1
+2023-05-26 17:03:07	/api/put-score.api	a@a.com	A	ko-kr	ne, mi ne manĝas	1
+2023-05-26 17:03:08	/api/put-score.api	a@a.com	A	ko-kr	ĝia nomo ne estas ~	1
+2023-05-26 17:03:10	/api/card-next.api	a@a.com	A	ko-kr	bela, bele	1	./quizB.html	
+2023-05-26 17:03:10	/api/similar-words.api	a@a.com	A	ko-kr	bela, bele
+2023-05-26 17:04:11	/api/put-score.api	a@a.com	A	ko-kr	bela, bele	-1
+2023-05-26 17:04:12	/api/put-score.api	a@a.com	A	ko-kr	bela, bele	1
+2023-05-26 17:04:14	/api/put-score.api	a@a.com	A	ko-kr	bela, beleta, belega	-1
+2023-05-26 17:04:15	/api/put-score.api	a@a.com	A	ko-kr	bela, beleta, belega	1
+2023-05-26 17:04:17	/api/put-score.api	a@a.com	A	ko-kr	labori, ellabori	1
+2023-05-26 17:04:19	/api/put-score.api	a@a.com	A	ko-kr	bela	1
+2023-05-26 17:04:20	/api/card-next.api	a@a.com	A	ko-kr	-inda	1	./quizE.html	
+2023-05-26 17:04:24	/api/card-next.api	a@a.com	A	ko-kr	dankinda, dankinde	1	./quizF.html	
+2023-05-26 17:04:30	/api/card-next.api	a@a.com	A	ko-kr	tuta, tute	1	./quizD.html	
+2023-05-26 17:04:31	/api/similar-words-kor.api	a@a.com	A	ko-kr	전체의, 전체적으로
+2023-05-26 17:05:26	/api/similar-words-kor.api	a@a.com	A	ko-kr	전체의, 전체적으로
+2023-05-26 17:06:30	/api/put-score-kor.api	a@a.com	A	ko-kr	전체의, 전체적으로	1
+2023-05-26 17:06:31	/api/card-next.api	a@a.com	A	ko-kr	tuto, tuton	1	./quizG.html	
+2023-05-26 17:06:31	/api/similar-words.api	a@a.com	A	ko-kr	tuto, tuton
+2023-05-26 17:07:00	/api/similar-words.api	a@a.com	A	ko-kr	tuto, tuton
+2023-05-26 17:07:11	/api/put-score.api	a@a.com	A	ko-kr	tuto, tuton	1
+2023-05-26 17:07:13	/api/session-finish.api	a@a.com	ko-kr	A
+2023-05-26 17:11:51	/api/session-start.api	a@a.com	ko-kr	A
+2023-05-26 17:11:51	/api/card-next.api	a@a.com	A	ko-kr	revidis, revidos	1	./quizE.html	
+2023-05-26 17:14:04	/api/card-next.api	a@a.com	A	ko-kr	ĝis revido!	1	./quizF.html	
+2023-05-26 17:14:51	/api/card-next.api	a@a.com	A	ko-kr	al ~	1	./quizC.html	
+2023-05-26 17:14:51	/api/similar-words-kor.api	a@a.com	A	ko-kr	~ 에게
+2023-05-26 17:15:18	/api/similar-words-kor.api	a@a.com	A	ko-kr	~ 에게
+2023-05-26 17:15:24	/api/put-score-kor.api	a@a.com	A	ko-kr	~ 에게	1
+2023-05-26 17:15:26	/api/card-next.api	a@a.com	A	ko-kr	mi dankas al vi	1	./quizC.html	
+2023-05-26 17:15:26	/api/similar-words-kor.api	a@a.com	A	ko-kr	나는 당신에게 감사합니다
+2023-05-26 17:15:31	/api/similar-words-kor.api	a@a.com	A	ko-kr	나는 당신에게 감사합니다
+2023-05-26 17:15:51	/api/put-score-kor.api	a@a.com	A	ko-kr	예, 감사합니다	-1
+2023-05-26 17:15:52	/api/put-score-kor.api	a@a.com	A	ko-kr	당신에게, 나에게	-1
+2023-05-26 17:15:53	/api/put-score-kor.api	a@a.com	A	ko-kr	감사합니다. 그렇게 그는 말했다	-1
+2023-05-26 17:15:53	/api/put-score-kor.api	a@a.com	A	ko-kr	나는 당신에게 감사합니다	1
+2023-05-26 17:15:54	/api/card-next.api	a@a.com	A	ko-kr	-inda	1	./quizE.html	
+2023-05-26 17:16:00	/api/card-next.api	a@a.com	A	ko-kr	dankinda, dankinde	1	./quizF.html	
+2023-05-26 17:16:03	/api/card-next.api	a@a.com	A	ko-kr	nedankinde	1	./quizI.html	
+2023-05-26 17:16:03	/api/similar-words-jk.api	a@a.com	A	ko-kr	nedankinde	
+2023-05-26 17:16:33	/api/similar-words-jk.api	a@a.com	A	ko-kr	nedankinde	
+2023-05-26 17:16:41	/api/similar-words-jk.api	a@a.com	A	ko-kr	nedankinde	
+2023-05-26 17:16:46	/api/card-next.api	a@a.com	A	ko-kr	tute ne	1	./quizE.html	
+2023-05-26 17:16:51	/api/card-next.api	a@a.com	A	ko-kr	pardoni ~, pardono	1	./quizH.html	
+2023-05-26 17:16:51	/api/similar-words.api	a@a.com	A	ko-kr	pardoni ~, pardono
+2023-05-26 17:17:17	/api/similar-words.api	a@a.com	A	ko-kr	pardoni ~, pardono
+2023-05-26 17:17:20	/api/put-score.api	a@a.com	A	ko-kr	pardoni ~, pardono	1
+2023-05-26 17:17:25	/api/card-next.api	a@a.com	A	ko-kr	pardonon al mi	1	./quizC.html	
+2023-05-26 17:17:25	/api/similar-words-kor.api	a@a.com	A	ko-kr	나에게 용서를
+2023-05-26 17:17:54	/api/put-score-kor.api	a@a.com	A	ko-kr	용서를 빌었다	-1
+2023-05-26 17:17:55	/api/put-score-kor.api	a@a.com	A	ko-kr	나에게 용서를	1
+2023-05-26 17:17:58	/api/card-next.api	a@a.com	A	ko-kr	kaj	2	./quizB.html	
+2023-05-26 17:17:58	/api/similar-words.api	a@a.com	A	ko-kr	kaj
+2023-05-26 17:18:27	/api/similar-words.api	a@a.com	A	ko-kr	kaj
+2023-05-26 17:18:33	/api/put-score.api	a@a.com	A	ko-kr	papero kaj paperoj	1
+2023-05-26 17:18:35	/api/put-score.api	a@a.com	A	ko-kr	kaj	1
+2023-05-26 17:18:36	/api/put-score.api	a@a.com	A	ko-kr	fine kaj finfine	1
+2023-05-26 17:18:37	/api/put-score.api	a@a.com	A	ko-kr	tablo kaj tabloj	1
+2023-05-26 17:18:39	/api/session-finish.api	a@a.com	ko-kr	A

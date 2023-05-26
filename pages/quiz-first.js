@@ -2,13 +2,13 @@ function $(id) {
     return document.getElementById(id);
 }
 
-function add_carditem(carditem){
+function add_carditem(carditem) {
     carditems = [];
-    if (localStorage.getItem("Carditems") != null){
+    if (localStorage.getItem("Carditems") != null) {
         carditems = JSON.parse(localStorage.Carditems);
     }
     carditems.push(carditem);
-    localStorage.setItem("Carditems",JSON.stringify(carditems));
+    localStorage.setItem("Carditems", JSON.stringify(carditems));
 }
 
 function click_btn_easy() {
@@ -24,13 +24,20 @@ function click_btn_easy_hard(easy_or_hard) {
     lang = localStorage.lang
     course = localStorage.session_course
 
+    // 맞추면 progress bar를 한 칸 진전시킨다.
+    if (parseInt(localStorage.quiz_count) < 10) {
+        max_cards = 11;
+        percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
+        $('progress').style.width = percent + "%";
+    }
+
     carditem = JSON.parse(localStorage.Carditem)
-    
-    console.log("localStorage.quiz_count:"+localStorage.quiz_count);
+
+    console.log("localStorage.quiz_count:" + localStorage.quiz_count);
     quiz_count = parseInt(localStorage.quiz_count) + 1;
-    localStorage.setItem("quiz_count",quiz_count.toString());
-    console.log("localStorage.quiz_count2:"+localStorage.quiz_count);
-    if ( localStorage.quiz_count > 10){
+    localStorage.setItem("quiz_count", quiz_count.toString());
+    console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
+    if (localStorage.quiz_count > 10) {
         window.location.href = "session-finish.html";
         return;
     }
@@ -53,7 +60,7 @@ function click_btn_easy_hard(easy_or_hard) {
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
     //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_txt.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score});
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score });
     postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
@@ -79,7 +86,7 @@ window.onload = function () {
         window.location.href = "./login.html";
         return;
     }
-    
+
     carditem = JSON.parse(localStorage.Carditem)
 
     $('btn_quit').onclick = function () {
@@ -113,47 +120,12 @@ window.onload = function () {
     $('btn_hard').onclick = click_btn_hard;
     $('btn_easy').onclick = click_btn_easy;
 
-
-
-
-
-    // alert(carditem.voice_img_url)
-
-    // ABC = localStorage.session_course
-
-    // user_courses = JSON.parse(localStorage.user_courses);
-    // if (ABC == 'A') {
-    //     $('session_course_name').innerText = user_courses.A.name;
-    //     $('session_course_short_description').innerText = user_courses.A.short_description;
-    //     $('session_course_familiar').innerText = user_courses.A.familiar;
-    //     $('session_course_mastered').innerText = user_courses.A.mastered;
-    //     $('session_course_needs_review').innerText = user_courses.A.needs_review;
-    //     $('session_course_points').innerText = user_courses.A.points;
-    //     $('session_course_progress').innerText = user_courses.A.progress;
-    //     $('session_course_total_count').innerText = user_courses.A.total_count;
-    // } else if (ABC == 'B') {
-    //     $('session_course_name').innerText = user_courses.B.name;
-    //     $('session_course_short_description').innerText = user_courses.B.short_description;
-    //     $('session_course_familiar').innerText = user_courses.B.familiar;
-    //     $('session_course_mastered').innerText = user_courses.B.mastered;
-    //     $('session_course_needs_review').innerText = user_courses.B.needs_review;
-    //     $('session_course_points').innerText = user_courses.B.points;
-    //     $('session_course_progress').innerText = user_courses.B.progress;
-    //     $('session_course_total_count').innerText = user_courses.B.total_count;
-    // } else {
-    //     $('session_course_name').innerText = user_courses.C.name;
-    //     $('session_course_short_description').innerText = user_courses.C.short_description;
-    //     $('session_course_familiar').innerText = user_courses.C.familiar;
-    //     $('session_course_mastered').innerText = user_courses.C.mastered;
-    //     $('session_course_needs_review').innerText = user_courses.C.needs_review;
-    //     $('session_course_points').innerText = user_courses.C.points;
-    //     $('session_course_progress').innerText = user_courses.C.progress;
-    //     $('session_course_total_count').innerText = user_courses.C.total_count;
-    // }
-
-
-
-    // $('Btn_Start_learning').onclick = click_btn_start_learning;
+    // 맞추면 progress bar를 한 칸 진전시킨다.
+    if (parseInt(localStorage.quiz_count) < 10) {
+        max_cards = 11;
+        percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
+        $('progress').style.width = percent + "%";
+    }
 
 
 };

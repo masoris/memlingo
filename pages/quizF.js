@@ -24,6 +24,13 @@ function click_btn_easy_hard(easy_or_hard) {
     lang = localStorage.lang
     course = localStorage.session_course
 
+    // 맞추면 progress bar를 한 칸 진전시킨다.
+    if (parseInt(localStorage.quiz_count) < 10) {
+        max_cards = 11;
+        percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
+        $('progress').style.width = percent + "%";
+    }
+
     carditem = JSON.parse(localStorage.Carditem)
 
     console.log("localStorage.quiz_count:" + localStorage.quiz_count);
@@ -104,6 +111,8 @@ window.onload = function () {
         $('kor_txt').innerText = carditem.kor_txt;
         $('btn_hard').disabled = false;
         $('btn_easy').disabled = false;
+        $('btn_hard').style.color = "white";
+        $('btn_easy').style.color = "white";
     }
 
     $('esp_txt').innerText = carditem.esp_txt;
@@ -117,7 +126,15 @@ window.onload = function () {
 
     $('btn_hard').disabled = true;
     $('btn_easy').disabled = true;
+    $('btn_hard').style.color = "#4c5b75";
+    $('btn_easy').style.color = "#4c5b75";
 
+    // 맞추면 progress bar를 한 칸 진전시킨다.
+    if (parseInt(localStorage.quiz_count) < 10) {
+        max_cards = 11;
+        percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
+        $('progress').style.width = percent + "%";
+    }
 
 };
 

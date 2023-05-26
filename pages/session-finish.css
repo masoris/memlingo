@@ -7,8 +7,8 @@ body {
 }
 
 .Kor_txt {
-    left: 77px;
-    position: relative;
+    /* left: 77px; */
+    /* position: relative; */
     top: -51px;
     font-size: 12pt;
     width: calc(94% - 74px);
@@ -17,7 +17,7 @@ body {
 
 .Eng_txt {
     left: 77px;
-    position: relative;
+    /* position: relative; */
     top: -68px;
     font-size: 12pt;
     width: calc(94% - 74px);
@@ -86,12 +86,13 @@ img.img_a {
     background-color: #fff;
     left: 2%;
     position: relative;
+    padding-bottom: 100px;
 }
 
 .Esperanto-A- {
     width: 100%;
     height: 30px;
-    margin: 0 0 16px;
+    /* margin: 0 0 16px; */
     font-family: NotoSansCJKkr;
     font-size: 24px;
     font-weight: normal;
@@ -106,6 +107,8 @@ img.img_a {
     align-items: center;
     justify-content: center;
     text-align: center;
+    top: 66px;
+    position: absolute;
 }
 
 img.ic_star_1 {
@@ -114,23 +117,93 @@ img.ic_star_1 {
     margin: 16px 0px 20px;
     object-fit: contain;
     left: calc(50% - 36px);
-    position: relative;
+    position: absolute;
+    top: 85px;
 }
 
-.Rectangle-speaker {
+.Rectangle-speaker1 {
     width: 42px;
     height: 38px;
-    /* padding: 0px 0px 0px 0px; */
-    /* border-radius: 12px;
-    background-color: #ce82ff; */
+    left: 4%;
+    position: absolute;
+    top: 131px;
+}
+
+.Rectangle-speaker2 {
+    width: 42px;
+    height: 38px;
+    left: 4%;
+    position: absolute;
+    top: 238px;
+}
+
+.Rectangle-speaker3 {
+    width: 42px;
+    height: 38px;
     left: 4%;
     position: relative;
-    top: -9px;
+    top: 81px;
+}
+
+.Rectangle-speaker4 {
+    width: 42px;
+    height: 38px;
+    left: 4%;
+    position: relative;
+    top: 81px;
+}
+
+.Rectangle-speaker5 {
+    width: 42px;
+    height: 38px;
+    left: 4%;
+    position: relative;
+    top: 81px;
+}
+
+.Rectangle-speaker6 {
+    width: 42px;
+    height: 38px;
+    left: 4%;
+    position: relative;
+    top: 81px;
+}
+
+.Rectangle-speaker7 {
+    width: 42px;
+    height: 38px;
+    left: 4%;
+    position: relative;
+    top: 81px;
+}
+
+.Rectangle-speaker8 {
+    width: 42px;
+    height: 38px;
+    left: 4%;
+    position: relative;
+    top: 81px;
+}
+
+.Rectangle-speaker9 {
+    width: 42px;
+    height: 38px;
+    left: 4%;
+    position: relative;
+    top: 81px;
+}
+
+.Rectangle-speaker10 {
+    width: 42px;
+    height: 38px;
+    left: 4%;
+    position: relative;
+    top: 81px;
 }
 
 .mi-vi {
     width: calc(94% - 79px);
-    height: 27px;
+    /* height: 27px; */
     /* margin: 6px 0 7px 0px; */
     font-family: NotoSansCJKkr;
     font-size: 18pt;
@@ -141,7 +214,7 @@ img.ic_star_1 {
     letter-spacing: normal;
     color: #111;
     top: -56px;
-    position: relative;
+    /* position: relative; */
     /* right: -32px; */
     left: 79px;
     display: flex;
@@ -204,51 +277,73 @@ img.ic_star_1 {
 }
 
 .Area1 {
-    width: 100%;
-    height: 40px;
-    margin: 0 0 25px;
-}
-
-.Area1-1 {
-    width: 94%;
-    height: 18px;
-    /* margin-left: 62px; */
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 23px;
 }
 
 .Area2 {
-    width: 280px;
-    height: 40px;
-    margin: 0 0 1px;
-}
-
-.Area2-1 {
-    width: 280px;
-    height: 18px;
-    margin: 1px 0;
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 47px;
 }
 
 .Area3 {
-    width: 280px;
-    height: 40px;
-    margin: 0 0 1px;
-}
-
-.Area3-1 {
-    width: 280px;
-    height: 18px;
-    margin: 1px 0;
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 31px;
 }
 
 .Area4 {
-    width: 280px;
-    height: 40px;
-    margin: 0 0 1px;
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 30px;
 }
 
-.Area4-1 {
-    width: 280px;
-    height: 18px;
-    margin: 1px 0;
+.Area5 {
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 30px;
+}
+
+.Area6 {
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 30px;
+}
+
+.Area7 {
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 30px;
+}
+
+.Area8 {
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 30px;
+}
+
+.Area9 {
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 30px;
+}
+
+.Area10 {
+    width: calc(100% - 4% - 42px - 5px - 2%);
+    position: relative;
+    left: calc(4% + 42px + 5px);
+    top: 30px;
 }
 
 .Rectangle-continue {
@@ -268,7 +363,7 @@ img.ic_star_1 {
     height: 100%;
     font-family: NotoSansCJKkr;
     font-size: 20pt;
-    font-weight: normal;
+    font-weight: bold;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.24;

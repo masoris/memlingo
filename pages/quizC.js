@@ -160,6 +160,7 @@ function word_click(item) {
 
         // 맞추면 continue 버튼을 켠다.
         $('btn_continue').disabled = false;
+        $('btn_continue').style.color = "white";
         // 맞추면 progress bar를 한 칸 진전시킨다.
         if (parseInt(localStorage.quiz_count) < 10) {
             max_cards = 11;
@@ -238,6 +239,7 @@ window.onload = function () {
 
     //처음에는 continue버튼이 눌러지지 않게 시작한다.
     $('btn_continue').disabled = true;
+    $('btn_continue').style.color = "#03bf6b";
 
     $('block_1').onclick = function () { word_click('block_1'); };
     $('block_2').onclick = function () { word_click('block_2'); };

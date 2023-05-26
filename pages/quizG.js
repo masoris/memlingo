@@ -107,7 +107,7 @@ function click_continue() {
     quiz_count = parseInt(localStorage.quiz_count) + 1;
     localStorage.setItem("quiz_count", quiz_count.toString());
     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count > 1) { //TODO 임시로 10을 2로 바꿨음.
+    if (localStorage.quiz_count > 10) { //TODO 임시로 10을 2로 바꿨음.
         window.location.href = "session-finish.html";
         return;
     }
