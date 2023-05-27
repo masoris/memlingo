@@ -107,7 +107,7 @@ function click_continue() {
     quiz_count = parseInt(localStorage.quiz_count) + 1;
     localStorage.setItem("quiz_count", quiz_count.toString());
     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count > 10) { //TODO 임시로 10을 2로 바꿨음.
+    if (localStorage.quiz_count >= 10) { //TODO 임시로 10을 2로 바꿨음.
         window.location.href = "session-finish.html";
         return;
     }
@@ -161,11 +161,9 @@ function word_click(item) {
         // 맞추면 continue 버튼을 켠다.
         $('btn_continue').disabled = false;
         // 맞추면 progress bar를 한 칸 진전시킨다.
-        if (parseInt(localStorage.quiz_count) < 10) {
-            max_cards = 11;
-            percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
-            $('progress').style.width = percent + "%";
-        }
+        max_cards = 11;
+        percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
+        $('progress').style.width = percent + "%";
 
         //해당 esp_txt 항목에 대해서 플러스 점수를 준다. 
         put_score_kor(kor_txt, 1);
@@ -214,11 +212,9 @@ window.onload = function () {
     $('btn_continue').onclick = click_continue;
 
     // 맞추면 progress bar를 한 칸 진전시킨다.
-    if (parseInt(localStorage.quiz_count) < 10) {
-        max_cards = 11;
-        percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
-        $('progress').style.width = percent + "%";
-    }
+    max_cards = 11;
+    percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
+    $('progress').style.width = percent + "%";
     // alert((parseFloat(localStorage.quiz_count)/10.0))
     // alert($('progress_bar').style.width)
 

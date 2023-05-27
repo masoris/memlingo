@@ -176,7 +176,7 @@ function click_continue() {
     quiz_count = parseInt(localStorage.quiz_count) + 1;
     localStorage.setItem("quiz_count", quiz_count.toString());
     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count > 10) { //TODO 임시로 10을 2로 바꿨음.
+    if (localStorage.quiz_count >= 10) { //TODO 임시로 10을 2로 바꿨음.
         window.location.href = "session-finish.html";
         return;
     }
@@ -309,8 +309,9 @@ function word_click(item) {
             disabled_count += 1;
             if (disabled_count >= 4) {
                 $('btn_continue').disabled = false;
+                $('btn_continue').style.color = "white";
                 // 맞추면 progress bar를 한 칸 진전시킨다.
-                if (parseInt(localStorage.quiz_count) < 10) {
+                if (parseInt(localStorage.quiz_count) <= 10) {
                     max_cards = 11;
                     percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
                     $('progress').style.width = percent + "%";
@@ -374,8 +375,7 @@ window.onload = function () {
     max_cards = 11;
     percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
     $('progress').style.width = percent + "%";
-    // alert((parseFloat(localStorage.quiz_count)/10.0))
-    // alert($('progress_bar').style.width)
+
 
     carditem = JSON.parse(localStorage.Carditem);
     get_similar_words(carditem);
@@ -384,6 +384,7 @@ window.onload = function () {
 
     //처음에는 continue버튼이 눌러지지 않게 시작한다.
     $('btn_continue').disabled = true;
+    $('btn_continue').style.color = "#03bf6b";
 
     $('right_1').onclick = function () { word_click('right_1'); };
     $('right_2').onclick = function () { word_click('right_2'); };

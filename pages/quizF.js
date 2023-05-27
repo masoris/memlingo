@@ -25,11 +25,9 @@ function click_btn_easy_hard(easy_or_hard) {
     course = localStorage.session_course
 
     // 맞추면 progress bar를 한 칸 진전시킨다.
-    if (parseInt(localStorage.quiz_count) < 10) {
-        max_cards = 11;
-        percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
-        $('progress').style.width = percent + "%";
-    }
+    max_cards = 11;
+    percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
+    $('progress').style.width = percent + "%";
 
     carditem = JSON.parse(localStorage.Carditem)
 
@@ -130,11 +128,9 @@ window.onload = function () {
     $('btn_easy').style.color = "#4c5b75";
 
     // 맞추면 progress bar를 한 칸 진전시킨다.
-    if (parseInt(localStorage.quiz_count) < 10) {
-        max_cards = 11;
-        percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
-        $('progress').style.width = percent + "%";
-    }
+    max_cards = 11;
+    percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
+    $('progress').style.width = percent + "%";
 
 };
 

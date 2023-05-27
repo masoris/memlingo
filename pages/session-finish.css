@@ -6,12 +6,32 @@ body {
     width: 100%;
 }
 
+.Area0{
+    width: 96%;
+    left: 2%;
+    position: relative;
+    top: 22px;
+}
+
+.Rectangle-speaker{
+    width: 51px;
+    /* align-items: flex-start; */
+    /* display: flex; */
+    vertical-align: top;
+}
+
+.Image-speaker{
+    width:42px;
+    height:38px;
+    margin-top: 7px;
+}
+
 .Kor_txt {
     /* left: 77px; */
     /* position: relative; */
     top: -51px;
     font-size: 12pt;
-    width: calc(94% - 74px);
+    /* width: calc(94% - 74px); */
     display: flex;
 }
 
@@ -20,7 +40,7 @@ body {
     /* position: relative; */
     top: -68px;
     font-size: 12pt;
-    width: calc(94% - 74px);
+    /* width: calc(94% - 74px); */
     display: flex;
 }
 
@@ -50,7 +70,7 @@ img.ic_close_white {
 }
 
 .You-have-just-learne {
-    width: 100%;
+    width: 96%;
     height: 60px;
     margin: 20px 0px 10px;
     font-family: NotoSansCJKkr;
@@ -124,24 +144,24 @@ img.ic_star_1 {
 .Rectangle-speaker1 {
     width: 42px;
     height: 38px;
-    left: 4%;
-    position: absolute;
-    top: 131px;
+    /* left: 4%; */
+    /* position: absolute; */
+    /* top: 131px; */
 }
 
 .Rectangle-speaker2 {
     width: 42px;
     height: 38px;
     left: 4%;
-    position: absolute;
-    top: 238px;
+    /* position: relative; */
+    top: 95px;
 }
 
 .Rectangle-speaker3 {
     width: 42px;
     height: 38px;
     left: 4%;
-    position: relative;
+    /* position: relative; */
     top: 81px;
 }
 
@@ -149,7 +169,7 @@ img.ic_star_1 {
     width: 42px;
     height: 38px;
     left: 4%;
-    position: relative;
+    /* position: relative; */
     top: 81px;
 }
 
@@ -157,7 +177,7 @@ img.ic_star_1 {
     width: 42px;
     height: 38px;
     left: 4%;
-    position: relative;
+    /* position: relative; */
     top: 81px;
 }
 
@@ -165,7 +185,7 @@ img.ic_star_1 {
     width: 42px;
     height: 38px;
     left: 4%;
-    position: relative;
+    /* position: relative; */
     top: 81px;
 }
 
@@ -173,7 +193,7 @@ img.ic_star_1 {
     width: 42px;
     height: 38px;
     left: 4%;
-    position: relative;
+    /* position: relative; */
     top: 81px;
 }
 
@@ -181,7 +201,7 @@ img.ic_star_1 {
     width: 42px;
     height: 38px;
     left: 4%;
-    position: relative;
+    /* position: relative; */
     top: 81px;
 }
 
@@ -189,7 +209,7 @@ img.ic_star_1 {
     width: 42px;
     height: 38px;
     left: 4%;
-    position: relative;
+    /* position: relative; */
     top: 81px;
 }
 
@@ -197,12 +217,12 @@ img.ic_star_1 {
     width: 42px;
     height: 38px;
     left: 4%;
-    position: relative;
+    /* position: relative; */
     top: 81px;
 }
 
 .mi-vi {
-    width: calc(94% - 79px);
+    /* width: calc(94% - 79px); */
     /* height: 27px; */
     /* margin: 6px 0 7px 0px; */
     font-family: NotoSansCJKkr;
