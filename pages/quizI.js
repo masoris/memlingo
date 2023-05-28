@@ -211,8 +211,8 @@ window.onload = function () {
     $('kor_txt').innerText = carditem.kor_txt;
 
     $('voice_img').src = carditem.voice_img_url;
-    esp_txt2 = carditem.esp_txt.replace(",", " ,").replace("?", " ?").replace("!", " !").replace("~", " ~").replace(".", " .");
-    esp_txt_words = esp_txt2.trim().replace("  ", " ").split(" ");
+    esp_txt2 = carditem.esp_txt.replace(",", " ,").replace("?", " ?").replace("!", " !").replace("~", " ~").replace(".", " .").replace("(", " ( ").replace(")", " )");
+    esp_txt_words = esp_txt2.trim().replace(/  /g, " ").split(" ");
 
     var j = Math.floor(Math.random() * (esp_txt_words.length));
     arr = [",", "?", "!", "~", ".", ""];
