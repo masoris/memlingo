@@ -53,6 +53,17 @@ function enable_disable_login_button() {
     }
 };
 
+function display_message() {
+    if ($('lang').value == 'ko-kr') {
+        $('email1').placeholder = "이메일 주소를 입력해 주세요.";
+        $('email2').placeholder = "이메일 주소를 한 번 더 입력해 주세요.";
+    }
+    else {
+        $('email1').placeholder = "Type in your e-mail adress.";
+        $('email2').placeholder = "Type in your e-mail adress again.";
+    }
+}
+
 window.onload = function () {
     //최초에 login버튼을 누르지 못하는 상태로 초기화 한다.
     $('btn_login').disabled = true;
@@ -92,10 +103,15 @@ window.onload = function () {
         $('email1').value = localStorage.getItem('email');
     }
 
-    if (localStorage.getItem('lang') != '') {
+    if (localStorage.getItem('lang') != null) {
         $('lang').value = localStorage.getItem('lang');
     } else {
         $('lang').value = 'ko-kr';
     }
+
+    $('lang').onchange = function () {
+        display_message();
+    }
+    display_message();
 
 };
