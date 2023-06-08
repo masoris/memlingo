@@ -1,0 +1,20 @@
+2023-06-08 16:37:47	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-08 16:37:58	/api/session-start.api	a@a.com	ko-kr	A
+2023-06-08 16:37:58	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	0	./quiz-first.html	ludoviko
+2023-06-08 16:47:20	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	0	./quiz-first.html	male3
+2023-06-08 17:11:10	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-08 17:11:12	/api/session-start.api	a@a.com	ko-kr	A
+2023-06-08 17:11:12	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	1	./quizH.html	female1
+2023-06-08 17:11:12	/api/similar-words.api	a@a.com	A	ko-kr	mi, vi
+2023-06-08 17:11:19	/api/put-score.api	a@a.com	A	ko-kr	mi, vi	1
+2023-06-08 17:12:11	/api/put-score.api	a@a.com	A	ko-kr	mi, vi	1
+2023-06-08 17:12:12	/api/similar-words.api	a@a.com	A	ko-kr	mi, vi
+2023-06-08 17:12:13	/api/put-score.api	a@a.com	A	ko-kr	mi, vi	1
+2023-06-08 17:12:16	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	0	./quiz-first.html	ludoviko
+2023-06-08 17:12:48	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	0	./quiz-first.html	female1
+2023-06-08 17:12:56	/api/card-next.api	a@a.com	A	ko-kr	vi estas ~	0	./quiz-first.html	male3
+2023-06-08 17:13:02	/api/card-next.api	a@a.com	A	ko-kr	saluton	0	./quiz-first.html	female1
+2023-06-08 17:13:06	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	0	./quiz-first.html	female3
+2023-06-08 17:13:12	/api/card-next.api	a@a.com	A	ko-kr	mia, via	0	./quiz-first.html	male3
+2023-06-08 17:13:15	/api/card-next.api	a@a.com	A	ko-kr	nomo	0	./quiz-first.html	female1
+2023-06-08 17:13:18	/api/card-next.api	a@a.com	A	ko-kr	mia nomo, via nomo	0	./quiz-first.html	ludoviko

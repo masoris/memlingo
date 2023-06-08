@@ -17,7 +17,7 @@ def serve_favicon():
 
 def LOG(log_line):
     log_file = "./logs/"+time.strftime("%Y-%m-%d", time.localtime())+".log"
-    f = open(log_file, '+a')
+    f = open(log_file, '+a', encoding='utf-8')
     log_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
     f.write(log_time+'\t'+log_line+'\n')
     f.close()
@@ -53,7 +53,7 @@ def create_user(email, lang):
         "admin_flag": "false"
     }
     user_info_file = os.path.join(user_dir, "userinfo.json")
-    with open(user_info_file, "w") as f:
+    with open(user_info_file, "w", encoding='utf-8') as f:
         json.dump(user_info, f)
     
     # 유저 하위 디렉토리에 course/lang 디렉토리를 만들어 준다.
@@ -73,8 +73,8 @@ def create_user(email, lang):
             row = line.strip().split('\t')
             if len(row) <7:
                 continue
-            row[5] = '0' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
-            row[6] = '-' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
+            row[5] = '0    ' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
+            row[6] = '0000-00-00 00:00:00' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
             f2.write('\t'.join(row)+'\n')
         f1.close()
         f2.close()
@@ -128,7 +128,7 @@ def login():
         master_content_tsv = os.path.join("./courses", lang, course_name, "content.tsv")
         course_info_json = courses_lang_dir +'/'+ course_name +'/'+ "course_info.json"
         #Json 파일을 읽어서 course_info 라는 객체를 만든다.
-        with open(course_info_json, 'r') as f:
+        with open(course_info_json, 'r', encoding='utf-8') as f:
             course_info = json.load(f)
             # {name:"Esperanto A (Memlingo 에스페란토)",
             # description: "Esperanto A (Memlingo 에스페란토) description",
@@ -166,10 +166,10 @@ def login():
             row = line.strip().split('\t')
             if len(row) < 7:
                 continue
-            if int(row[5]) >= 4: done_count += 1
-            if int(row[5]) >= 5: familiar_count += 1
-            if int(row[5]) >= 6: mastered_count += 1
-            if row[6] < now_str: needs_review_count += 1
+            if int(row[5].strip()) >= 4: done_count += 1
+            if int(row[5].strip()) >= 5: familiar_count += 1
+            if int(row[5].strip()) >= 6: mastered_count += 1
+            if row[6] != '0000-00-00 00:00:00' and row[6] < now_str: needs_review_count += 1
             total_count += 1
             points += int(row[5])
         f.close()
@@ -312,24 +312,31 @@ def card_next():
     # return resp   
     if esp_txt != "":
         myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
-        f = open(myprogress_tsv, 'r', encoding='utf-8')
-        lines = []
-        for i, line in enumerate(f):
+        f = open(myprogress_tsv, 'rb+') # 바이너리 모드, rw모드로 파일 오픈
+        data = f.read() # 파일 내용 통째로를 데이터에 바이너리로 읽어들임
+        data_lines = data.split(b'\n') # 바이너리 \n을 기준으로 라인단위로 쪼갬
+        prev_pos = 0
+        for data_line in data_lines: # 각각의 바이너리 라인 기준으로 
+            line = data_line.decode("utf-8") # 바이너리 라인을 일반 utf-8 텍스트 라인으로 바꿈
             #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
             row = line.strip().split('\t')
             if len(row) < 7:
                 continue
             if row[1] == esp_txt:
-                (next_count, next_review_str) = next_review_time(int(row[5]), int(score)) #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
-                row[5] = str(next_count + 1)
+                (next_count, next_review_str) = next_review_time(int(row[5].strip()), int(score)) #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
+                row[5] = "%-5d" % (next_count + 1)
                 row[6] = next_review_str
-            line = "\t".join(row)+'\n'
-            lines.append(line)
+                line = "\t".join(row)+'\n'
+                f.seek(prev_pos, 0) # 이 라인의 맨 앞 포지션으로 파일 커서를 옮긴다 
+                f.write(line.encode("utf-8")) # 변경된 한 라인을 utf-8 인코드로 바이너리 라인을 만들어 오버라이트 하고 끝낸다 
+                break
+            # lines.append(line)
+            prev_pos += len(data_line) + 1 # 현재 라인 길이만큼 포지션을 이동한다
         f.close()
 
-        f = open(myprogress_tsv, 'w', encoding='utf-8')
-        f.write("".join(lines))
-        f.close()
+        # f = open(myprogress_tsv, 'w', encoding='utf-8')
+        # f.write("".join(lines))
+        # f.close()
 
     #새로 학습할 카드를 선택해서 사용자에게 리턴한다.
     #     //         output: 
@@ -340,13 +347,13 @@ def card_next():
     next_row = []
     nowstr = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time()))
     
-    f = open(myprogress_tsv, 'r')
+    f = open(myprogress_tsv, 'r', encoding='utf-8')
     for i, line in enumerate(f):
         #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
         row = line.strip().split('\t')
         if len(row) < 7:
             continue
-        if row[6] == '-':
+        if row[6] == '0000-00-00 00:00:00':
             next_row = row
             break
         if row[6] <= nowstr:
@@ -361,7 +368,7 @@ def card_next():
         resp.set_cookie('login_status', 'loged_out')
         return resp
 
-    if next_row[6] == '-':
+    if next_row[6] == '0000-00-00 00:00:00':
         quiz_card_url = './quiz-first.html'
     else:
         quizlist = ['quizB','quizC','quizD','quizE','quizF','quizG','quizH','quizI']
@@ -385,8 +392,8 @@ def card_next():
        [voice, mp3_url] = random.choice(mp3list)
        voice_img_url = './img/'+voice+'.png'
 
-    LOG("/api/card-next.api\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, next_row[1], next_row[5], quiz_card_url, voice))
-    result = {'resp': 'OK', 'level': next_row[0], 'esp_txt': next_row[1], 'kor_txt': next_row[2], 'eng_txt': next_row[3], 'group': next_row[4], 'count':next_row[5], 'next_review_time': next_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice}
+    LOG("/api/card-next.api\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, next_row[1], next_row[5].strip(), quiz_card_url, voice))
+    result = {'resp': 'OK', 'level': next_row[0], 'esp_txt': next_row[1], 'kor_txt': next_row[2], 'eng_txt': next_row[3], 'group': next_row[4], 'count':next_row[5].strip(), 'next_review_time': next_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice}
     resp = make_response(jsonify(result))
     return resp
 
@@ -426,9 +433,9 @@ def similar_words_kor():
         resp = make_response(jsonify(result))
         resp.set_cookie('login_status', 'fail')
         return resp	
-    f = open(myprogress_tsv, 'r')
+    f = open(myprogress_tsv, 'r', encoding='utf-8')
     rows = []
-    for i, line in enumerate(f):
+    for line in f:
         #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
         row = line.strip().split('\t')
         if len(row) < 7:
@@ -482,9 +489,9 @@ def similar_words():
         resp = make_response(jsonify(result))
         resp.set_cookie('login_status', 'fail')
         return resp	
-    f = open(myprogress_tsv, 'r')
+    f = open(myprogress_tsv, 'r', encoding='utf-8')
     rows = []
-    for i, line in enumerate(f):
+    for line in f:
         #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
         row = line.strip().split('\t')
         if len(row) < 7:
@@ -543,9 +550,9 @@ def similar_words_jk():
     
     # esp_txt 컬럼에 들어 있는 속의 개별 단어들에 대해들에 대해서 j_word와 k_word간의 거리 값을
     # similiar_words 딕셔너리에 기억시킨다.
-    f = open(myprogress_tsv, 'r')
+    f = open(myprogress_tsv, 'r', encoding='utf-8')
     similar_words = {}
-    for i, line in enumerate(f):
+    for line in f:
         #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
         row = line.strip().split('\t')
         if len(row) < 7:
@@ -625,25 +632,33 @@ def put_score():
         return resp	
     
     #myprogress 파일을 읽어서 해당 esp_txt 항목에 대한 count 값과 next-review-time을 업데이트 해준다.
-    f = open(myprogress_tsv, 'r')
-    lines = []
-    for i, line in enumerate(f):
+    f = open(myprogress_tsv, 'rb+')
+    data = f.read()
+    data_lines = data.split(b"\n")
+    # lines = []
+    prev_pos = 0
+    for data_line in data_lines:
+        line = data_line.decode("utf-8")
         #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
         row = line.strip().split('\t')
         if len(row) < 7: #잘못 된 라인은 무시한다.
             continue
         if row[1] == esp_txt:
             #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
-            (next_count, next_review_str) = next_review_time(int(row[5]), int(score)) 
-            row[5] = str(next_count + 1)
+            (next_count, next_review_str) = next_review_time(int(row[5].strip()), int(score)) 
+            row[5] = "%-5d" % (next_count + 1)
             row[6] = next_review_str
-        line = "\t".join(row)+'\n'
-        lines.append(line)
+            line = "\t".join(row)+'\n'
+            f.seek(prev_pos, 0)
+            f.write(line.encode("utf-8"))
+            break
+        # lines.append(line)
+        prev_pos += len(data_line) + 1
     f.close()
 
-    f = open(myprogress_tsv, 'w', encoding='utf-8')
-    f.write("".join(lines))
-    f.close()
+    # f = open(myprogress_tsv, 'w', encoding='utf-8')
+    # f.write("".join(lines))
+    # f.close()
 
     result = {'resp': 'OK', 'message': 'score sucessfully updated'}
     resp = make_response(jsonify(result))
@@ -681,9 +696,13 @@ def put_score_kor():
         return resp	
     
     #myprogress 파일을 읽어서 해당 esp_txt 항목에 대한 count 값과 next-review-time을 업데이트 해준다.
-    f = open(myprogress_tsv, 'r')
-    lines = []
-    for i, line in enumerate(f):
+    f = open(myprogress_tsv, 'rb+')
+    data = f.read()
+    data_lines = data.split(b"\n")
+    # lines = []
+    prev_pos = 0
+    for data_line in data_lines:
+        line = data_line.decode("utf-8")
         #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
         row = line.strip().split('\t')
         if len(row) < 7: #잘못 된 라인은 무시한다.
@@ -693,13 +712,17 @@ def put_score_kor():
             (next_count, next_review_str) = next_review_time(int(row[5]), int(score)) 
             row[5] = str(next_count + 1)
             row[6] = next_review_str
-        line = "\t".join(row)+'\n'
-        lines.append(line)
+            line = "\t".join(row)+'\n'
+            f.seek(prev_pos, 0)
+            f.write(line.encode("utf-8"))
+            break
+        prev_pos += len(data_line) + 1
+        # lines.append(line)
     f.close()
 
-    f = open(myprogress_tsv, 'w', encoding='utf-8')
-    f.write("".join(lines))
-    f.close()
+    # f = open(myprogress_tsv, 'w', encoding='utf-8')
+    # f.write("".join(lines))
+    # f.close()
 
     result = {'resp': 'OK', 'message': 'score sucessfully updated'}
     resp = make_response(jsonify(result))

@@ -50,6 +50,52 @@ def update_contents(email_dir):
         # 마스터 파일과 개인 파일을 비교해서 마스터 파일에 있고 개인 파일에 없는 것은 개인 파일에 추가를 해주고
         # ,개인 파일에 있고 마스터 파일에는 없는 것은 개인 파일에서 지워준다
         content_lines = []
+        content_esps = {}
+        fp = open(content_tsv, "r", encoding='utf-8')
+        for line in fp:
+            #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
+            row = line.split('\t')
+            content_esps[row[1]] = 1
+            content_lines.append(line)
+        fp.close()
+        
+        myprogress_lines = []
+        myprogress_esps = {}
+        fp = open(myprogress_tsv, "r", encoding='utf-8')
+        for line in fp:
+            #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
+            row = line.split('\t')
+            myprogress_esps[row[1]] = 1
+            myprogress_lines.append(line)
+        fp.close()
+
+        only_in_content_lines = {}
+        for line in content_lines:
+            row = line.split('\t')
+            if not row[1] in myprogress_esps:
+                only_in_content_lines[line] = 1
+
+        only_in_myprogress_lines = {}
+        for line in myprogress_lines:
+            row = line.split('\t')
+            if not row[1] in content_esps:
+                only_in_myprogress_lines[line] = 1
+
+        fp = open(myprogress_tsv, "w", encoding='utf-8')
+        for line in myprogress_lines:
+            if not line in only_in_myprogress_lines:
+                fp.write(line.strip() + "\n")
+        
+        for line in content_lines:
+            if line in only_in_content_lines:
+                #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
+                row = line.strip().split('\t')
+                if len(row) <7:
+                    continue
+                row[5] = '0    ' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
+                row[6] = '0000-00-00 00:00:00' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
+                fp.write('\t'.join(row)+'\n')
+        fp.close()
 
 
 if __name__ == "__main__":
