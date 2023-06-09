@@ -1,14 +1,14 @@
-Saluton	mi, vi	나, 당신	I, you	Saluton	4    	2023-06-09 17:12:16
-Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton	1    	2023-06-08 17:17:48
-Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	1    	2023-06-08 17:17:56
-Saluton	vi estas ~	당신은 ~ 이다	you are ~	Saluton	1    	2023-06-08 17:18:02
-Saluton	saluton	안녕하세요	hello	Saluton	1    	2023-06-08 17:18:06
-Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton	1    	2023-06-08 17:18:12
-Saluton	mia, via	나의, 당신의	my, your	Saluton	1    	2023-06-08 17:18:15
-Saluton	nomo	이름	a name	Saluton	1    	2023-06-08 17:18:18
-Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	0    	0000-00-00 00:00:00
-Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	0    	0000-00-00 00:00:00
-Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	0    	0000-00-00 00:00:00
+Saluton	mi, vi	나, 당신	I, you	Saluton	3    	2023-06-09 20:34:04
+Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton	2    	2023-06-09 15:59:34
+Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	4    	2023-06-10 15:41:13
+Saluton	vi estas ~	당신은 ~ 이다	you are ~	Saluton	3    	2023-06-09 20:41:23
+Saluton	saluton	안녕하세요	hello	Saluton	3    	2023-06-09 20:51:27
+Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton	2    	2023-06-09 16:01:30
+Saluton	mia, via	나의, 당신의	my, your	Saluton	2    	2023-06-09 16:11:34
+Saluton	nomo	이름	a name	Saluton	3    	2023-06-09 20:44:11
+Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	3    	2023-06-09 20:51:49
+Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	2    	2023-06-09 16:06:32
+Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	1    	2023-06-09 15:46:19
 Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did 	Saluton	0    	0000-00-00 00:00:00
 Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, (past) will be	Saluton	0    	0000-00-00 00:00:00
 Saluton	nomo, nomon	이름, 이름을	a name, an objective name	Saluton	0    	0000-00-00 00:00:00
@@ -125,7 +125,7 @@ Amiko	via lernanto, viaj lernantoj	당신의 학생, 당신의 학생들	your st
 Amiko	ĉu ili estas viaj lernantoj?	그들이 당신의 학생들입니까?	are they your students?	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu vi estas lernanto?	당신은 학생인가?	are you a student?	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu vi estas en la ĉambro?	너는 그 방에 있는가?	are you in the room?	Amiko	0    	0000-00-00 00:00:00
-Amiko	mi ne estas ~	나는 ~이지 않다.	I'm not ~	Amiko	0    	0000-00-00 00:00:00
+Amiko	mi ne estas ~	나는 ~이지 않다.	I'm not ~	Amiko	1    	2023-06-09 15:46:21
 Amiko	ne estas en la ĉambro	그 방 안에 없다.	is not in the room	Amiko	0    	0000-00-00 00:00:00
 Amiko	esperantisto kaj esperantistino	에스페란티스토와 여성에스페란티스토	an Esperantist and a female Esperantist	Amiko	0    	0000-00-00 00:00:00
 Amiko	enskribis por la hotelĉambro	그 호텔방을 위해 예약했다	checked in for the hotel room	Amiko	0    	0000-00-00 00:00:00
@@ -278,7 +278,7 @@ Renkonto	akcidento okazis poste	사건이 그후에 일어났다	an accident hap
 Renkonto	ĉu vi scias, kiam ĝi okazis?	당신은 아는가, 그게 언제 발생했는지?	do you know when did it happen?	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	scias pri la afero	그 사건에 대해서 안다	knows about the matter	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ankoraŭ unu afero restas	아직 한가지가 남아 있다	still one thing remains	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	vi aŭ ŝi, ajna homo	당신 또는 그녀, 누구든	you or she, any person	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	vi aŭ ŝi, ajna homo	당신 또는 그녀, 누구든	you or she, any person	Renkonto	1    	2023-06-09 15:56:37
 Renkonto	kiel kantisto	가수처럼, 가수로서	like a singer, as a signer	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kantis kiel profesia kantisto	전문 가수처럼 노래했다	sang like a professional singer	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	tie, kie ŝi loĝis	거기, 그녀가 살았던 그 곳에	a the place, where she lived	Renkonto	0    	0000-00-00 00:00:00

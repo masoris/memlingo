@@ -377,7 +377,7 @@ body {
     line-height: 1.24;
     letter-spacing: normal;
     text-align: center;
-    background-color: #4c5b75;
+    background-color: #03bf6b;
     /* position: absolute; */
     left: 200px;
     top: 599px;
@@ -387,7 +387,7 @@ body {
 }
 
 .Continue {
-    background-color: #03bf6b;
+    background-color: #4c5b75;
     width: 100%;
     height: 100%;
     font-size: 20pt;

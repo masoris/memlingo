@@ -1,10 +1,11 @@
-{"name":"Esperanto A (Memlingo 에스페란토)",
-"description": "Esperanto A (Memlingo 에스페란토) description",
-"short_description": "Esperanto A (Memlingo 에스페란토) short_description",
-"tags": "",
-"source": "",
-"target": "",
-"audio_mode": "",
-"base_url": "",
-"course_status": ""
+{
+    "name": "Esperanto A (Memlingo 에스페란토)",
+    "description": "에스페란토 초급코스입니다. 이 코스를 마치면 기본적인 자기 자기소개 및 친구 사귀기에 필요한 회화를 할 수 있게 될 것입니다. 이 코스는 유명한 자그레브 코스(Zagreba Kurso)를 기반으로 만들어져 있습니다. ",
+    "short_description": "초급 에스페란토 코스, 에스페란토 기초, Baza Esperanto, 자그레브 코스, Zagreba Kurso",
+    "tags": "에스페란토, Esperanto, Zagreba Kurso",
+    "source": "8",
+    "target": "34",
+    "audio_mode": "on",
+    "base_url": "https://www.memrise.com/course/5699033/",
+    "course_status": "3"
 }

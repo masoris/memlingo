@@ -1,1 +1,100 @@
-level	esp	kor	eng	group	alternative	prononcation
+amo	amo	사랑	a love	NA,4H		amo
+amo	malamo	증오	a hate			malamo
+amo	silenta	조용한	silent	NA		silenta
+amo	ama	사랑의	of love			ama
+amo	silente	조용히	silently	NA		silente
+amo	ĝoje	기쁘게	gladly			ĝoje
+amo	doni	주다	to give	KO,G2,4H,ZG		doni
+amo	havi	가지다, 소유하다	to have, to wear, to carry, to own	KO,G2,4H,ZG		havi
+amo	sono	소리	a sound	NA		sono
+amo	silento	침묵	a silence	NA,4H		silento
+amo	silenti	조용히하다, 침묵하다	to be silent, to be quiet	KO,G4,4H,ZG		silenti
+amo	proksima	가까운	near, close to, soon, nearby	KO,G2,ZG		proksima
+amo	saluto	인사	a greeting, salute, salutation	NA,4H		saluto
+amo	esti	~이다, ~이 있다, 존재하다	to be	KO,G2,4H,ZG		esti
+amo	havaĵo	가진 것, 소유물	a possession			havaĵo
+amo	fari	~를 하다, ~를 만들다	to make, to do	KO,G2,4H,ZG		fari
+amo	mi	나	I, me	KO,G1,4H,ZG		mi
+amo	vi	너, 당신	you	KO,G1,4H,ZG		vi
+amo	ŝi	그녀	she	KO,G1,4H,ZG		ŝi
+amo	li	그 남자	he	KO,G1,4H,ZG		li
+amo	ili	그들, 그것들	they	KO,G1,4H,ZG		ili
+amo	ĝi	그것	it	G1,4H,ZG		ĝi
+amo	oni	누군가, 어떤 사람	one, someone, somebody	KO,G1,4H,ZG		oni
+amo	ni	우리들	we, us	KO,G1,4H,ZG		ni
+amo	si	자신, 자기자신	oneself	KO,G1,4H,ZG		si
+amo	mem	스스로, 친히, 직접, 혼자서	by oneself	KO,G1,4H,ZG		mem
+amo	mia	나의	my	NA,ZG		mia
+amo	via	당신의	your	NA,4H		via
+amo	ĝia	그것의	its	NA,4H		ĝia
+amo	ilia	그들의, 그것들의	their	NA		ilia
+amo	ŝia	그녀의	her	NA		ŝia
+amo	lia	그의	his	NA,ZG		lia
+amo	sia	자기자신의	one's own	NA,4H,ZG		sia
+amo	libroj	책들	books			libroj
+amo	libron	책을	a book (objective, accusative)			libron
+amo	alta	높은, 큰	high, tall	KO,G2,4H,ZG		alta
+amo	bona	좋은, 착한	good	KO,G2,4H,ZG		bona
+amo	bono	선 (善)	goodness	NA,4H		bono
+amo	bone	잘, 좋게	well	NA		bone
+amo	ĝis ~	~까지 (시간적, 공간적)	upto ~, until ~	KO,G1,4H,ZG		ĝis
+amo	de ~	~의, ~부터, ~로 인해	of ~	KO,G1,4H,ZG		de
+amo	da ~	수, 양을 나타내는 전치사	(much) of ~, (many) of ~	KO,G1,4H,ZG		da
+amo	espero	희망	a hope	NA,4H		espero
+amo	esperi	희망하다	to hope	KO,G4,4H,ZG		esperi
+amo	sukceso	성공	a success	NA		sukceso
+amo	sukcesi	성공하다	to succeed	KO,G5,ZG		sukcesi
+amo	porko	돼지	a pig, swine	G5,4H		porko
+amo	koko	닭	a cock, a hen, chicken, fowl	G5		koko
+amo	nova	새로운	new, novel	KO,G2,4H,ZG		nova
+amo	bovo	소	a cow, an ox, bovine animal	KO,G5		bovo
+glacio	glacio	얼음	an ice	KO,G5		glacio
+glacio	ovo	알, 계란	an egg	KO,G5,4H		ovo
+glacio	ŝafo	양	a sheep	KO,G5,4H		ŝafo
+glacio	araneo	거미	a spider	G8		araneo
+glacio	manĝi	먹다	to eat	KO,G3,4H,ZG		manĝi
+glacio	pentri	물감으로 그리다, 색칠하다	to paint	KO,G6,4H		pentri
+glacio	konstrui	짓다, 건축하다, 건설하다	to build, to construct	KO,G3		konstrui
+glacio	paki	짐을 꾸리다, 포장하다	to pack	NA		paki
+glacio	pako	꾸러미, 짐, 하물(荷物)	package	KO,G5		pako
+glacio	-aĵo	사물 접미사, ~한 것, ~한 사물	<suffix> thing, concrete manifestation	KO,G1,ZG	_aĵo	-aaĵ, -aaĵo
+glacio	konstruaĵo	건물	a building	NA		konstruaĵo
+glacio	pentraĵo	그림	a picture, a painting	NA		pentraĵo
+glacio	novaĵo	뉴스	a news	NA		novaĵo
+glacio	kokaĵo	닭고기	poultry, chicken	NA		kokaĵo
+glacio	porkaĵo	돼지고기	pork	NA		porkaĵo
+glacio	bovaĵo	소고기	beef	NA		bovaĵo
+glacio	glaciaĵo	아이스크림	an ice cream, icecream	NA		glaciaĵo
+glacio	ovaĵo	달걀 요리	an omelette, scrambled eggs	NA		ovaĵo
+glacio	ŝafaĵo	양고기	mutton	NA		ŝafaĵo
+glacio	pakaĵo	패키징한 것, 소포	a package, a luggage, a baggage	NA,4H		pakaĵo
+glacio	araneaĵo	거미줄	a spiderweb	NA		araneaĵo
+glacio	manĝaĵo	음식	a food	NA,ZG		manĝaĵo
+glacio	-adi	반복행위 접미사 (반복하다)	<suffix> repetitive action, lasting action	KO,G1,ZG	_ado	-adi
+glacio	manĝado	식사 (-ad-o)	eating, eating action	NA		manĝado
+glacio	instrui	가르치다	to teach, to instruct	KO,G5,4H,ZG		instrui
+glacio	instruado	가르침 (-ad-o), 교육, 가르치는 행위	teaching, instruction	NA		instruado
+glacio	administri	관리하다, 경영하다, 운영하다	to manage, to administer	G8		administri
+glacio	administrado	관리, 경영, 행정	administration, management	NA		administrado
+glacio	fumo	연기	a smoke	KO,G6,4H		fumo
+glacio	fumado	끽연	smoking, smoking action	NA		fumado
+glacio	fiŝo	생선	a fish	KO,G4,4H		fiŝo
+glacio	kapti	잡다, 붙잡다	to catch, to capture, to grapple	KO,G4,4H,ZG		kapti
+glacio	fiŝado	낚시	fishing, fishing action	NA		fiŝado
+glacio	fiŝkapti	낚시하다	to catch fishes	NA		fiŝkapti
+glacio	fiŝkaptado	물고기낚시	fish-catching, catching fishes	NA,4H		fiŝkaptado
+glacio	fiŝisto	어부(漁夫)	a fisherman	NA		fiŝisto
+glacio	diri	얘기하다 (내용)	to say, to tell	KO,G2,4H,ZG		diri
+glacio	paroli	말하다, 발언하다 (소리, 말)	to speak, to talk	KO,G2,4H,ZG		paroli
+glacio	parolado	연설	a speech	NA,4H		parolado
+glacio	interparoli	대화하다	to talk (between), to have a dialogue (with), to converse	NA		interparoli
+glacio	parolo	말, 말함	a speaking, speech	NA		parolo
+glacio	drinki	음주하다, 술마시다	to drink (something alkololic)	NA		drinki
+glacio	drinkado	음주	drinking action	NA		drinkado
+glacio	trinki	마시다	to drink (non-alkohol)	KO,G3,4H,ZG		trinki
+glacio	trinkakvo	식수	drinking water	NA		trinkakvo
+glacio	sendi	보내다	to send	KO,G2,4H,ZG		sendi
+glacio	danki	감사하다, 사례하다	to thank	KO,G3,4H,ZG		danki
+glacio	dankon	감사합니다.	thank you, thanks	NA,ZG		dankon
+glacio	lerni	배우다	to learn	KO,G2,4H,ZG		lerni
+glacio	-as	동사 현재형 어미	<suffix> present tense	KO,G1,ZG		-as

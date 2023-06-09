@@ -1,10 +1,11 @@
-{"name":"Esperanto B (Memlingo 에스페란토)",
-"description": "Esperanto B (Memlingo 에스페란토) description",
-"short_description": "Esperanto B (Memlingo 에스페란토) short_descrption",
-"tags": "",
-"source": "",
-"target": "",
-"audio_mode": "",
-"base_url": "",
-"course_status": ""
+{
+    "name": "Esperanto B (Memlingo 에스페란토)",
+    "description": "중급 에스페란토 코스입니다. Jen Nia Mondo 라고 부르는 코스를 기반으로 만들어졌습니다. IJK(세계청년대회)에 참가하는 내용입니다. 참고: https://memlingo.esperanto.or.kr/",
+    "short_description": "에스페란토 중급 코스, Jen Nia Mondo, Esperanto, Memlingo",
+    "tags": "Esperanto, Mezgrada Kurso, Jen Nia Mondo, 에스페란토, 중급코스, IJK",
+    "source": "8",
+    "target": "34",
+    "audio_mode": "on",
+    "base_url": "https://www.memrise.com/course/5538410",
+    "course_status": "3"
 }

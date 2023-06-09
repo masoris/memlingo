@@ -20,9 +20,9 @@ function click_btn_hard() {
 }
 
 function click_btn_easy_hard(easy_or_hard) {
-    email = localStorage.email
-    lang = localStorage.lang
-    course = localStorage.session_course
+    email = localStorage.email;
+    lang = localStorage.lang;
+    course = localStorage.session_course;
 
     // 맞추면 progress bar를 한 칸 진전시킨다.
     if (parseInt(localStorage.quiz_count) < 10) {
@@ -87,6 +87,13 @@ window.onload = function () {
         return;
     }
 
+    // easy 버튼과 hard 버튼을 listen 버튼을 누르기 전에는 disable 시킨다
+    $('btn_hard').disabled = true;
+    $('btn_hard').style.color = "#4c5b75";
+    $('btn_easy').disabled = true;
+    $('btn_easy').style.color = "#4c5b75";
+
+
     carditem = JSON.parse(localStorage.Carditem)
 
     $('btn_quit').onclick = function () {
@@ -100,6 +107,12 @@ window.onload = function () {
             audio.currentTime = 0;
         });
         audio.play();
+
+        // easy 버튼과 hard 버튼을 enable시킨다
+        $('btn_hard').disabled = false;
+        $('btn_hard').style.color = "white";
+        $('btn_easy').disabled = false;
+        $('btn_easy').style.color = "white";
     }
 
     $('btn_listen').onclick = function () {
@@ -109,6 +122,12 @@ window.onload = function () {
             audio.currentTime = 0;
         });
         audio.play();
+
+        // easy 버튼과 hard 버튼을 enable시킨다
+        $('btn_hard').disabled = false;
+        $('btn_hard').style.color = "white";
+        $('btn_easy').disabled = false;
+        $('btn_easy').style.color = "white";
     }
 
     $('esp_txt').innerText = carditem.esp_txt;

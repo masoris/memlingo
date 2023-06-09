@@ -6,9 +6,10 @@ app = Flask(__name__)
 # flash.html이 root가 되게 한다.
 @app.route('/')
 def serve_root():
+    return redirect('/pages/flash.html')
     # return serve_pages('/pages/flash.html')
     # return redirect(url_for('/pages/flash.html'))
-    return '<meta http-equiv="refresh" content="0; url=/pages/flash.html" />'
+    # return '<meta http-equiv="refresh" content="0; url=/pages/flash.html" />'
 
 # favicon.ico 파일 서비스
 @app.route('/favicon.ico')
@@ -71,13 +72,21 @@ def create_user(email, lang):
         for line in f1:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
             row = line.strip().split('\t')
-            if len(row) <7:
+            if len(row) <5:
                 continue
-            row[5] = '0    ' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
-            row[6] = '0000-00-00 00:00:00' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
+            if len(row) == 5:
+                row.append('0    ')
+                row.append('0000-00-00 00:00:00')
+            elif len(row) == 6:
+                row[5] = '0    '
+                row.append('0000-00-00 00:00:00')
+            elif len(row) == 7:
+                row[5] = '0    ' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
+                row[6] = '0000-00-00 00:00:00' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
             f2.write('\t'.join(row)+'\n')
-        f1.close()
         f2.close()
+        f1.close()
+        
 
 def dirs_in(target_dir):
     return [f.name for f in os.scandir(target_dir) if f.is_dir()]
@@ -171,7 +180,7 @@ def login():
             if int(row[5].strip()) >= 6: mastered_count += 1
             if row[6] != '0000-00-00 00:00:00' and row[6] < now_str: needs_review_count += 1
             total_count += 1
-            points += int(row[5])
+            points += int(row[5].strip())
         f.close()
         user_course['total_count'] = total_count 
         user_course['points'] = points
@@ -709,8 +718,8 @@ def put_score_kor():
             continue
         if row[2] == kor_txt:
             #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
-            (next_count, next_review_str) = next_review_time(int(row[5]), int(score)) 
-            row[5] = str(next_count + 1)
+            (next_count, next_review_str) = next_review_time(int(row[5].strip()), int(score)) 
+            row[5] = "%-5d" % (next_count + 1)
             row[6] = next_review_str
             line = "\t".join(row)+'\n'
             f.seek(prev_pos, 0)
@@ -728,5 +737,22 @@ def put_score_kor():
     resp = make_response(jsonify(result))
     return resp
 
-app.run(debug=True, host='192.168.117.129', port=5002)
+def read_conf():
+    svc = {}
+    fp = open("svc.conf", "r")
+    for line in fp:
+        if line[0] == "#":
+            continue
+        row = line.strip().split("=")
+        if len(row) != 2:
+            continue
+        svc[row[0].strip()] = row[1].strip()
+    fp.close()
+    return svc
+
+svc_conf = read_conf()
+
+app.run(debug=True, host=svc_conf["IP"], port=int(svc_conf["PORT"]))
+#IP=192.168.117.129
+#PORT=5002
 

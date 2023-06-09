@@ -237,7 +237,7 @@ window.onload = function () {
 
     //처음에는 continue버튼이 눌러지지 않게 시작한다.
     $('btn_continue').disabled = true;
-    $('btn_continue').style.color = "#03bf6b";
+    $('btn_continue').style.color = "#4c5b75";
 
     $('block_1').onclick = function () { word_click('block_1'); };
     $('block_2').onclick = function () { word_click('block_2'); };

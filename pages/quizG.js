@@ -39,7 +39,7 @@ function get_similar_words(carditem) {
 var voices = ["male1", "male2", "male3", "female1", "female2", "female3", "ludoviko"];
 var is_playing = false;
 
-function play_sound(esp_txt) {
+function play_sound(esp_txt, next_url) {
     // Fisher-Yates Shuffle 알고리즘
     for (let i = voices.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -56,6 +56,9 @@ function play_sound(esp_txt) {
             audio.addEventListener('ended', function () {
                 audio.currentTime = 0;
                 is_playing = false;
+                if (next_url != null && next_url != "") {
+                    window.location.href = next_url;
+                }
             });
             audio.play();
             is_playing = true;
@@ -101,7 +104,7 @@ function click_continue() {
     carditem = JSON.parse(localStorage.Carditem)
     esp_txt = carditem.esp_txt;
 
-    play_sound(esp_txt);
+
 
     console.log("localStorage.quiz_count:" + localStorage.quiz_count);
     quiz_count = parseInt(localStorage.quiz_count) + 1;
@@ -129,7 +132,8 @@ function click_continue() {
             add_carditem(responseObj);
 
             localStorage.setItem("Carditem", responseJSONStr);
-            window.location.href = responseObj.quiz_card_url;
+            // window.location.href = responseObj.quiz_card_url;
+            play_sound(esp_txt, responseObj.quiz_card_url);
         } else {
             alert('Error' + responseJSONStr);
         }
@@ -160,6 +164,7 @@ function word_click(item) {
 
         // 맞추면 continue 버튼을 켠다.
         $('btn_continue').disabled = false;
+        $('btn_continue').style.color = 'white';
 
         // 맞추면 progress bar를 한 칸 진전시킨다.
         max_cards = 11;
@@ -179,7 +184,7 @@ function word_click(item) {
             $(block_i).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
         }
         esp_txt = JSON.parse(localStorage.Carditem).esp_txt;
-        play_sound(esp_txt);
+        play_sound(esp_txt, "");
         return;
     }
 
@@ -227,11 +232,12 @@ window.onload = function () {
     // play_sound(carditem.esp_txt);
 
     $('speaker').onclick = function () {
-        play_sound(carditem.esp_txt);
+        play_sound(carditem.esp_txt, "");
     }
 
     //처음에는 continue버튼이 눌러지지 않게 시작한다.
     $('btn_continue').disabled = true;
+    $('btn_continue').style.color = "#03bf6b";
 
     $('block_1').onclick = function () { word_click('block_1'); };
     $('block_2').onclick = function () { word_click('block_2'); };
