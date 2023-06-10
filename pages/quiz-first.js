@@ -101,6 +101,7 @@ window.onload = function () {
     }
 
     $('btn_speaker').onclick = function () {
+        // alert(carditem.mp3_url);
         var audio = new Audio(carditem.mp3_url);
         audio.addEventListener('ended', function () {
             audio.pause();

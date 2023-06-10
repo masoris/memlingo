@@ -1,0 +1,14 @@
+2023-06-10 15:30:37	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-10 15:30:41	/api/session-start.api	a@a.com	ko-kr	A
+2023-06-10 15:30:41	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	3	./quizH.html	male1
+2023-06-10 15:30:42	/api/similar-words.api	a@a.com	A	ko-kr	mi, vi
+2023-06-10 15:30:51	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-10 15:30:54	/api/session-start.api	a@a.com	ko-kr	A
+2023-06-10 15:30:54	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	3	./quizI.html	male2
+2023-06-10 15:30:54	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2023-06-10 15:35:44	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-10 15:35:47	/api/session-start.api	a@a.com	ko-kr	A
+2023-06-10 15:35:47	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	0	./quiz-first.html	male3
+2023-06-10 15:35:56	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	0	./quiz-first.html	male2
+2023-06-10 15:36:02	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	0	./quiz-first.html	female1
+2023-06-10 15:36:10	/api/card-next.api	a@a.com	A	ko-kr	vi estas ~	0	./quiz-first.html	ludoviko
