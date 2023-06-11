@@ -1,7 +1,3 @@
-function $(id) {
-    return document.getElementById(id);
-}
-
 function isValidEmail(email) {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return emailRegex.test(email);

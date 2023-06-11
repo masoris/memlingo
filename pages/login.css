@@ -5,7 +5,7 @@ body {
     display: flex;
 }
 
-#lang{
+#lang {
     width: 96%;
     font-size: 15px;
 }
@@ -29,7 +29,7 @@ img.logo_subtitle {
     width: 96%;
     /* height: 60px; */
     /* margin: 133px 0px 8px 0px; */
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
@@ -47,7 +47,7 @@ img.logo_subtitle {
     width: 96%;
     height: 20px;
     /* margin: 8px 20px 16px; */
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 17px;
     font-weight: normal;
     font-stretch: normal;
@@ -75,7 +75,7 @@ img.logo_subtitle {
 .Span1 {
     width: 96%;
     height: 19px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 15px;
     font-weight: normal;
     font-stretch: normal;
@@ -111,7 +111,7 @@ img.logo_subtitle {
     width: 320px;
     height: 60px;
     margin: 0 0 16px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
@@ -125,7 +125,7 @@ img.logo_subtitle {
     width: 320px;
     height: 126px;
     margin: 16px 0 0;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 14px;
     font-weight: normal;
     font-stretch: normal;
@@ -139,7 +139,7 @@ img.logo_subtitle {
     width: 320px;
     height: 30px;
     /* margin: 5px; */
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
@@ -170,7 +170,7 @@ img.logo_subtitle {
     width: 262px;
     height: 19px;
     margin: 0 10px 0 0;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 15px;
     font-weight: normal;
     font-stretch: normal;
@@ -201,7 +201,7 @@ img.arrow_dropdown_black {
     width: 280px;
     height: 21px;
     margin: 0 auto;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 17px;
     font-weight: normal;
     font-stretch: normal;
@@ -225,7 +225,7 @@ img.arrow_dropdown_black {
     width: 280px;
     height: 21px;
     margin: 0 6px 3px 0;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 17px;
     font-weight: normal;
     font-stretch: normal;
@@ -248,7 +248,7 @@ img.arrow_dropdown_black {
 .Report-or {
     width: 280px;
     height: 21px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 17px;
     font-weight: normal;
     font-stretch: normal;
@@ -263,7 +263,7 @@ img.arrow_dropdown_black {
     width: 320px;
     height: 20px;
     margin: 24px 20px 60px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 14px;
     font-weight: normal;
     font-stretch: normal;
@@ -291,7 +291,7 @@ img.arrow_dropdown_black {
 .Login {
     width: 320px;
     height: 21px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 17px;
     font-weight: normal;
     font-stretch: normal;

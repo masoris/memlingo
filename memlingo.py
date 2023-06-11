@@ -1,5 +1,5 @@
-from flask import Flask, send_from_directory, request, make_response, jsonify, redirect, url_for
-import os, re, json, datetime, random, time 
+from flask import Flask, send_from_directory, request, make_response, jsonify, redirect, url_for, send_file
+import os, re, json, datetime, random, time, urllib.parse
 
 app = Flask(__name__)
 
@@ -289,6 +289,20 @@ def next_review_time(count, score):
 
     return (count, next_str)
 
+@app.route('/api/playsound.api', methods=['POST', 'GET'])
+def playsound():
+    if request.method == 'GET':
+        voice_esp_txt_mp3 = request.args['voice_esp_txt_mp3']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            voice_esp_txt_mp3 = request.json['voice_esp_txt_mp3']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            voice_esp_txt_mp3 = request.form['voice_esp_txt_mp3']
+    filename = "sounds/"+voice_esp_txt_mp3
+    if not os.path.exists(filename):
+        filename = "sounds/dingdong.mp3"
+    return send_file(filename, mimetype='audio/mpeg')
+
 @app.route('/api/card-next.api', methods=['POST', 'GET'])
 def card_next():
     if request.method == 'GET':
@@ -389,9 +403,9 @@ def card_next():
     voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
     mp3list = []
     for voice in voicelist:
-        mp3_url = '/sounds/'+voice+'/'+next_row[1]+'.mp3'
+        mp3_url = voice+'/'+next_row[1]+'.mp3'
         print("mp3_url:"+mp3_url) 
-        if os.path.exists("."+mp3_url):
+        if os.path.exists("./sounds/"+mp3_url):
             mp3list.append([voice, mp3_url])
     print("mp3list:"+ str(mp3list))
     voice = ""

@@ -1,74 +1,3 @@
-function $(id) {
-    return document.getElementById(id);
-}
-
-
-
-// function click_btn_easy() {
-//     click_btn_easy_hard("easy")
-// }
-
-// function click_btn_hard() {
-//     click_btn_easy_hard("hard")
-// }
-
-// function click_btn_easy_hard(easy_or_hard) {
-//     email = localStorage.email
-//     lang = localStorage.lang
-//     course = localStorage.session_course
-
-//     carditem = JSON.parse(localStorage.Carditem)
-
-//     console.log("localStorage.quiz_count:" + localStorage.quiz_count);
-//     quiz_count = parseInt(localStorage.quiz_count) + 1;
-//     localStorage.setItem("quiz_count", quiz_count.toString());
-//     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-//     if (localStorage.quiz_count > 10) {
-//         window.location.href = "session-finish.html";
-//         return;
-//     }
-//     $('progress').style.width = (quiz_count/10)*$('progress_bar').style.width;
-
-//     esp_txt = carditem.esp_txt
-//     if (easy_or_hard == "easy") {
-//         score = 1
-//     }
-//     else {
-//         score = -1
-//     }
-
-
-//     // /api/card-submit.api
-//     //         userid, email, cookie:login_status, lang, course, esp, score
-//     //         [level,esp,kor,eng,group,count,repeat_date,img_url,voice_name] //다음 항목
-//     // /api/card-next.api
-//     //         userid, email, cookie:login_status, lang, course
-//     //         output: 
-//     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
-//     //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
-//     //                voice_img,voice_name,esp_txt.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
-//     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score });
-//     postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
-//         responseObj = JSON.parse(responseJSONStr);
-//         console.log(responseObj);
-//         // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
-//         if (responseObj['resp'] == "OK") {
-//             add_carditem(responseObj);
-
-//             localStorage.setItem("Carditem", responseJSONStr);
-//             window.location.href = responseObj.quiz_card_url;
-//         } else {
-//             alert('Error' + responseJSONStr);
-//         }
-
-//     }, function (status, responseText) {
-//         alert(responseText);
-//         console.error('Error:', status);
-//         console.error(responseText);
-//     });
-// }
-
-
 function get_similar_words(carditem) {
 
     var email = localStorage.email;
@@ -105,63 +34,6 @@ function get_similar_words(carditem) {
         console.error(responseText);
     });
 
-}
-
-var voices = ["male1", "male2", "male3", "female1", "female2", "female3", "ludoviko"];
-var is_playing = false;
-
-function play_sound(esp_txt) {
-    // Fisher-Yates Shuffle 알고리즘
-    for (let i = voices.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [voices[i], voices[j]] = [voices[j], voices[i]];
-    }
-
-    for (i = 0; i < voices.length; i++) {
-        url = "../sounds/" + voices[i] + "/" + esp_txt + ".mp3";
-        try {
-            if (is_playing == true) {
-                break;
-            }
-            let audio = new Audio(url);
-            audio.addEventListener('ended', function () {
-                audio.currentTime = 0;
-                is_playing = false;
-            });
-            audio.play();
-            is_playing = true;
-        } catch (e) {
-            is_playing = false;
-            console.log('Failed to load audio file.');
-        }
-    }
-}
-
-function put_score(esp_txt, score) {
-
-    var email = localStorage.email;
-    var lang = localStorage.lang;
-    var course = localStorage.session_course;
-
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score });
-    postAjaxRequest('/api/put-score.api', jsonStr, function (responseJSONStr) {
-        console.log(responseJSONStr)
-        responseObj = JSON.parse(responseJSONStr);
-
-    }, function (status, responseText) {
-        alert(responseText);
-        console.error('Error:', status);
-        console.error(responseText);
-    });
-}
-
-function add_carditem(carditem) {
-    carditems = [];
-    if (localStorage.getItem("Carditems") != null) {
-        carditems = JSON.parse(localStorage.Carditems);
-    }
-    carditems.push(carditem);
-    localStorage.setItem("Carditems", JSON.stringify(carditems));
 }
 
 function click_continue() {
@@ -223,7 +95,7 @@ function word_click(item) {
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
         if (item.indexOf("left") >= 0) {
-            play_sound($(item + '_txt').innerText);
+            play_sound_esp($(item + '_txt').innerText);
         }
         return;
     }
@@ -244,9 +116,9 @@ function word_click(item) {
         localStorage.prev_item = item;
 
         if (item.indexOf("left") >= 0) {
-            play_sound($(item + "_txt").innerText);
+            play_sound_esp($(item + "_txt").innerText);
         } else if (prev_item.indexOf("left") >= 0) {
-            play_sound($(prev_item + "_txt").innerText);
+            play_sound_esp($(prev_item + "_txt").innerText);
         }
 
         //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.
@@ -300,9 +172,9 @@ function word_click(item) {
             $(prev_item).style.backgroundColor = disabled_color;
             $(prev_item).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
             if (item.indexOf("left") >= 0) {
-                play_sound($(item + "_txt").innerText);
+                play_sound_esp($(item + "_txt").innerText);
             } else if (prev_item.indexOf("left") >= 0) {
-                play_sound($(prev_item + "_txt").innerText);
+                play_sound_esp($(prev_item + "_txt").innerText);
             }
 
             // 모두다 맞춰서 카드가 다 disabled로 바뀌었으면 continue 버튼을 켠다.
@@ -340,9 +212,9 @@ function word_click(item) {
     $(item + '_border').style.borderColor = wrong_color;
     $(item).style.backgroundColor = wrong_color;
     if (item.indexOf("left") >= 0) {
-        play_sound($(item + "_txt").innerText);
+        play_sound_esp($(item + "_txt").innerText);
     } else if (prev_item.indexOf("left") >= 0) {
-        play_sound($(prev_item + "_txt").innerText);
+        play_sound_esp($(prev_item + "_txt").innerText);
     }
 
     //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.

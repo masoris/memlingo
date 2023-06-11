@@ -59,7 +59,7 @@ img.ic_close_gray {
     width: 320px;
     height: 30px;
     margin: 20px 0px 16px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
@@ -94,7 +94,7 @@ img.ic_close_gray {
     width: 264px;
     height: 25px;
     /* margin: 7px 0 8px 16px; */
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 20pt;
     font-weight: bold;
     font-stretch: normal;
@@ -117,7 +117,7 @@ img.ic_close_gray {
 .I-you {
     width: 264px;
     height: 18px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 15pt;
     font-weight: normal;
     font-stretch: normal;
@@ -245,7 +245,7 @@ img.ic_close_gray {
 .Inside1 {
     width: 95%;
     height: 95%;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
@@ -268,7 +268,7 @@ img.ic_close_gray {
     width: 95%;
     height: 95%;
     margin: 1px 0 0;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
@@ -290,7 +290,7 @@ img.ic_close_gray {
 .Inside3 {
     width: 95%;
     height: 95%;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
@@ -312,7 +312,7 @@ img.ic_close_gray {
 .Inside4 {
     width: 95%;
     height: 95%;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
@@ -347,7 +347,7 @@ img.ic_close_gray {
 .Listen-and-continue {
     width: 320px;
     height: 21px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 17px;
     font-weight: normal;
     font-stretch: normal;

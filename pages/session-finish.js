@@ -1,43 +1,9 @@
-function $(id) {
-    return document.getElementById(id);
-}
-
-var voices = ["male1", "male2", "male3", "female1", "female2", "female3", "ludoviko"];
-var is_playing = false;
-
-function play_sound(esp_txt) {
-    // Fisher-Yates Shuffle 알고리즘
-    for (let i = voices.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [voices[i], voices[j]] = [voices[j], voices[i]];
-    }
-
-    for (i = 0; i < voices.length; i++) {
-        url = "../sounds/" + voices[i] + "/" + esp_txt + ".mp3";
-        try {
-            if (is_playing == true) {
-                break;
-            }
-            let audio = new Audio(url);
-            audio.addEventListener('ended', function () {
-                audio.currentTime = 0;
-                is_playing = false;
-            });
-            audio.play();
-            is_playing = true;
-        } catch (e) {
-            is_playing = false;
-            console.log('Failed to load audio file.');
-        }
-    }
-}
-
 function click_continue() {
-    window.location.href = "session-start.html"
+    window.location.href = "session-start.html?time=" + new Date().getTime();
 }
 
 function click_speaker(esp_txt_span) {
-    play_sound($(esp_txt_span).innerText);
+    play_sound_esp($(esp_txt_span).innerText);
 }
 
 function call_session_finish_api() {
@@ -75,7 +41,7 @@ window.onload = function () {
         $('eng_txt_' + (i + 1)).innerText = carditem.eng_txt;
         // esp_txt = carditem.esp_txt;
         // $('speaker_' + (i + 1)) = function (esp_txt) {
-        //     play_sound(esp_txt);
+
     };
     $('speaker_1').onclick = function () { click_speaker('esp_txt_1'); };
     $('speaker_2').onclick = function () { click_speaker('esp_txt_2'); };

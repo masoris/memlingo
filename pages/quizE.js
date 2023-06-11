@@ -1,15 +1,4 @@
-function $(id) {
-    return document.getElementById(id);
-}
 
-function add_carditem(carditem) {
-    carditems = [];
-    if (localStorage.getItem("Carditems") != null) {
-        carditems = JSON.parse(localStorage.Carditems);
-    }
-    carditems.push(carditem);
-    localStorage.setItem("Carditems", JSON.stringify(carditems));
-}
 
 function click_btn_easy() {
     click_btn_easy_hard("easy")
@@ -75,14 +64,7 @@ function click_btn_easy_hard(easy_or_hard) {
     });
 }
 
-function play_sound_url(mp3_url) {
-    var audio = new Audio(mp3_url);
-    audio.addEventListener('ended', function () {
-        audio.pause();
-        audio.currentTime = 0;
-    });
-    audio.play();
-}
+
 
 
 window.onload = function () {
@@ -100,8 +82,6 @@ window.onload = function () {
     $('speaker').onclick = function () {
         play_sound_url(carditem.mp3_url);
     }
-
-    // play_sound_url(carditem.mp3_url);
 
     $('btn_listen').onclick = function () {
         play_sound_url(carditem.mp3_url);

@@ -1,0 +1,62 @@
+2023-06-11 15:38:44	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-11 15:38:48	/api/session-start.api	a@a.com	ko-kr	B
+2023-06-11 15:38:48	/api/card-next.api	a@a.com	B	ko-kr	saluton!	0	./quiz-first.html	ludoviko
+2023-06-11 15:38:50	/api/card-next.api	a@a.com	B	ko-kr	mi estas ~	0	./quiz-first.html	ludoviko
+2023-06-11 15:38:51	/api/card-next.api	a@a.com	B	ko-kr	kiu vi estas?	0	./quiz-first.html	ludoviko
+2023-06-11 15:55:49	/api/similar-words.api	a@a.com	B	ko-kr	kiu vi estas?
+2023-06-11 16:02:43	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-11 16:02:50	/api/session-start.api	a@a.com	ko-kr	B
+2023-06-11 16:02:50	/api/card-next.api	a@a.com	B	ko-kr	saluton!	1	./quizI.html	
+2023-06-11 16:02:50	/api/similar-words-jk.api	a@a.com	B	ko-kr	saluton	
+2023-06-11 16:03:04	/api/session-start.api	a@a.com	ko-kr	A
+2023-06-11 16:03:04	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	1	./quizH.html	
+2023-06-11 16:03:04	/api/similar-words.api	a@a.com	A	ko-kr	mi, vi
+2023-06-11 16:03:12	/api/session-start.api	a@a.com	ko-kr	B
+2023-06-11 16:03:12	/api/card-next.api	a@a.com	B	ko-kr	saluton!	1	./quizI.html	
+2023-06-11 16:03:12	/api/similar-words-jk.api	a@a.com	B	ko-kr	saluton	
+2023-06-11 16:07:00	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-11 16:07:02	/api/session-start.api	a@a.com	ko-kr	B
+2023-06-11 16:07:02	/api/card-next.api	a@a.com	B	ko-kr	saluton!	1	./quizI.html	
+2023-06-11 16:07:03	/api/similar-words-jk.api	a@a.com	B	ko-kr	saluton	
+2023-06-11 16:07:12	/api/session-start.api	a@a.com	ko-kr	B
+2023-06-11 16:07:12	/api/card-next.api	a@a.com	B	ko-kr	saluton!	1	./quizG.html	
+2023-06-11 16:07:12	/api/similar-words.api	a@a.com	B	ko-kr	saluton!
+2023-06-11 16:07:14	/api/put-score.api	a@a.com	B	ko-kr	saluton!	1
+2023-06-11 16:17:53	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-06-11 16:17:56	/api/session-start.api	c@c.com	ko-kr	B
+2023-06-11 16:17:56	/api/card-next.api	c@c.com	B	ko-kr	saluton!	0	./quiz-first.html	ludoviko
+2023-06-11 16:57:13	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-11 16:57:20	/api/session-start.api	a@a.com	ko-kr	B
+2023-06-11 16:57:20	/api/card-next.api	a@a.com	B	ko-kr	saluton!	2	./quizG.html	ludoviko
+2023-06-11 16:57:20	/api/similar-words.api	a@a.com	B	ko-kr	saluton!
+2023-06-11 16:57:23	/api/put-score.api	a@a.com	B	ko-kr	saluton!	1
+2023-06-11 16:59:20	/api/put-score.api	a@a.com	B	ko-kr	saluton!	1
+2023-06-11 16:59:23	/api/put-score.api	a@a.com	B	ko-kr	saluton!	1
+2023-06-11 16:59:26	/api/similar-words.api	a@a.com	B	ko-kr	saluton!
+2023-06-11 17:03:56	/api/similar-words.api	a@a.com	B	ko-kr	saluton!
+2023-06-11 17:05:43	/api/put-score.api	a@a.com	B	ko-kr	saluton!	1
+2023-06-11 17:05:52	/api/card-next.api	a@a.com	B	ko-kr	mi estas ~	1	./quizH.html	ludoviko
+2023-06-11 17:05:53	/api/card-next.api	a@a.com	B	ko-kr	kiu vi estas?	0	./quiz-first.html	ludoviko
+2023-06-11 17:05:54	/api/card-next.api	a@a.com	B	ko-kr	mia nomo estas ~	0	./quiz-first.html	ludoviko
+2023-06-11 17:05:55	/api/put-score.api	a@a.com	B	ko-kr	saluton!	-1
+2023-06-11 17:05:56	/api/put-score.api	a@a.com	B	ko-kr	saluton!	-1
+2023-06-11 17:07:43	/api/similar-words.api	a@a.com	B	ko-kr	mia nomo estas ~
+2023-06-11 17:07:46	/api/put-score.api	a@a.com	B	ko-kr	mi estas ~	-1
+2023-06-11 17:07:54	/api/put-score.api	a@a.com	B	ko-kr	mia nomo estas ~	1
+2023-06-11 17:07:56	/api/card-next.api	a@a.com	B	ko-kr	mi ĝojas	0	./quiz-first.html	ludoviko
+2023-06-11 17:08:20	/api/similar-words.api	a@a.com	B	ko-kr	mi ĝojas
+2023-06-11 17:08:59	/api/put-score.api	a@a.com	B	ko-kr	mi ĝojas	1
+2023-06-11 17:10:31	/api/similar-words.api	a@a.com	B	ko-kr	mi ĝojas
+2023-06-11 17:10:33	/api/put-score.api	a@a.com	B	ko-kr	mi ĝojas	1
+2023-06-11 17:11:17	/api/card-next.api	a@a.com	B	ko-kr	kiu vi estas?	1	./quizG.html	ludoviko
+2023-06-11 17:11:21	/api/card-next.api	a@a.com	B	ko-kr	ankaŭ mi ĝojas	0	./quiz-first.html	ludoviko
+2023-06-11 17:11:32	/api/card-next.api	a@a.com	B	ko-kr	ofte venas	0	./quiz-first.html	ludoviko
+2023-06-11 17:16:43	/api/similar-words.api	a@a.com	B	ko-kr	ofte venas
+2023-06-11 17:16:46	/api/put-score.api	a@a.com	B	ko-kr	ofte venas	1
+2023-06-11 17:16:51	/api/card-next.api	a@a.com	B	ko-kr	ankaŭ mi ĝojas	1	./quizH.html	ludoviko
+2023-06-11 17:16:57	/api/similar-words.api	a@a.com	B	ko-kr	ankaŭ mi ĝojas
+2023-06-11 17:17:05	/api/put-score.api	a@a.com	B	ko-kr	mi ĝojas	-1
+2023-06-11 17:17:06	/api/put-score.api	a@a.com	B	ko-kr	ankaŭ mi ĝojas	1
+2023-06-11 17:17:17	/api/card-next.api	a@a.com	B	ko-kr	al tiu ĉi dancejo	0	./quiz-first.html	ludoviko
+2023-06-11 17:17:28	/api/card-next.api	a@a.com	B	ko-kr	ĉu vi ofte venas al tiu ĉi dancejo?	0	./quiz-first.html	ludoviko
+2023-06-11 17:17:36	/api/session-finish.api	a@a.com	ko-kr	B

@@ -1,8 +1,3 @@
-function $(id) {
-    return document.getElementById(id);
-}
-
-
 function get_similar_words_kor(carditem) {
 
     var email = localStorage.email;
@@ -36,63 +31,6 @@ function get_similar_words_kor(carditem) {
 
 }
 
-var voices = ["male1", "male2", "male3", "female1", "female2", "female3", "ludoviko"];
-var is_playing = false;
-
-function play_sound(esp_txt) {
-    // Fisher-Yates Shuffle 알고리즘
-    for (let i = voices.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [voices[i], voices[j]] = [voices[j], voices[i]];
-    }
-
-    for (i = 0; i < voices.length; i++) {
-        url = "../sounds/" + voices[i] + "/" + esp_txt + ".mp3";
-        try {
-            if (is_playing == true) {
-                break;
-            }
-            let audio = new Audio(url);
-            audio.addEventListener('ended', function () {
-                audio.currentTime = 0;
-                is_playing = false;
-            });
-            audio.play();
-            is_playing = true;
-        } catch (e) {
-            is_playing = false;
-            console.log('Failed to load audio file.');
-        }
-    }
-}
-
-function put_score_kor(kor_txt, score) {
-
-    var email = localStorage.email;
-    var lang = localStorage.lang;
-    var course = localStorage.session_course;
-
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, kor_txt: kor_txt, score: score });
-    postAjaxRequest('/api/put-score-kor.api', jsonStr, function (responseJSONStr) {
-        console.log(responseJSONStr)
-        responseObj = JSON.parse(responseJSONStr);
-
-    }, function (status, responseText) {
-        alert(responseText);
-        console.error('Error:', status);
-        console.error(responseText);
-    });
-}
-
-function add_carditem(carditem) {
-    carditems = [];
-    if (localStorage.getItem("Carditems") != null) {
-        carditems = JSON.parse(localStorage.Carditems);
-    }
-    carditems.push(carditem);
-    localStorage.setItem("Carditems", JSON.stringify(carditems));
-}
-
 function click_continue() {
     email = localStorage.email
     lang = localStorage.lang
@@ -101,7 +39,7 @@ function click_continue() {
     carditem = JSON.parse(localStorage.Carditem)
     esp_txt = carditem.esp_txt;
 
-    play_sound(esp_txt);
+    play_sound_esp(esp_txt);
 
     console.log("localStorage.quiz_count:" + localStorage.quiz_count);
     quiz_count = parseInt(localStorage.quiz_count) + 1;
@@ -178,7 +116,7 @@ function word_click(item) {
             $(block_i).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
         }
         esp_txt = JSON.parse(localStorage.Carditem).esp_txt;
-        play_sound(esp_txt);
+        play_sound_esp(esp_txt);
         return;
     }
 
@@ -224,10 +162,10 @@ window.onload = function () {
 
     $('esp_txt').innerText = carditem.esp_txt;
     $('eng_txt').innerText = carditem.eng_txt;
-    play_sound(carditem.esp_txt);
+    play_sound_esp(carditem.esp_txt);
 
     $('speaker').onclick = function () {
-        play_sound(carditem.esp_txt);
+        play_sound_esp(carditem.esp_txt);
     }
 
 

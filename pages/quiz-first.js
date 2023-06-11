@@ -1,16 +1,3 @@
-function $(id) {
-    return document.getElementById(id);
-}
-
-function add_carditem(carditem) {
-    carditems = [];
-    if (localStorage.getItem("Carditems") != null) {
-        carditems = JSON.parse(localStorage.Carditems);
-    }
-    carditems.push(carditem);
-    localStorage.setItem("Carditems", JSON.stringify(carditems));
-}
-
 function click_btn_easy() {
     click_btn_easy_hard("easy")
 }
@@ -101,13 +88,8 @@ window.onload = function () {
     }
 
     $('btn_speaker').onclick = function () {
-        // alert(carditem.mp3_url);
-        var audio = new Audio(carditem.mp3_url);
-        audio.addEventListener('ended', function () {
-            audio.pause();
-            audio.currentTime = 0;
-        });
-        audio.play();
+        play_sound_url(carditem.mp3_url);
+
 
         // easy 버튼과 hard 버튼을 enable시킨다
         $('btn_hard').disabled = false;
@@ -117,12 +99,7 @@ window.onload = function () {
     }
 
     $('btn_listen').onclick = function () {
-        var audio = new Audio(carditem.mp3_url);
-        audio.addEventListener('ended', function () {
-            audio.pause();
-            audio.currentTime = 0;
-        });
-        audio.play();
+        play_sound_url(carditem.mp3_url);
 
         // easy 버튼과 hard 버튼을 enable시킨다
         $('btn_hard').disabled = false;
