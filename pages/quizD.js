@@ -39,14 +39,14 @@ function click_continue() {
     carditem = JSON.parse(localStorage.Carditem)
     esp_txt = carditem.esp_txt;
 
-    play_sound_esp(esp_txt);
+    // play_sound_esp(esp_txt);
 
     console.log("localStorage.quiz_count:" + localStorage.quiz_count);
     quiz_count = parseInt(localStorage.quiz_count) + 1;
     localStorage.setItem("quiz_count", quiz_count.toString());
     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count >= 10) { //TODO 임시로 10을 2로 바꿨음.
-        window.location.href = "session-finish.html";
+    if (quiz_count >= 10) { //TODO 임시로 10을 2로 바꿨음.
+        play_sound_esp_next_url(esp_txt, "session-finish.html");
         return;
     }
 
@@ -67,7 +67,7 @@ function click_continue() {
             add_carditem(responseObj);
 
             localStorage.setItem("Carditem", responseJSONStr);
-            window.location.href = responseObj.quiz_card_url;
+            play_sound_esp_next_url(esp_txt, responseObj.quiz_card_url);
         } else {
             alert('Error' + responseJSONStr);
         }
@@ -98,6 +98,8 @@ function word_click(item) {
 
         // 맞추면 continue 버튼을 켠다.
         $('btn_continue').disabled = false;
+        $('btn_continue').style.color = "white";
+
         // 맞추면 progress bar를 한 칸 진전시킨다.
         max_cards = 11;
         percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
@@ -162,7 +164,7 @@ window.onload = function () {
 
     $('esp_txt').innerText = carditem.esp_txt;
     $('eng_txt').innerText = carditem.eng_txt;
-    play_sound_esp(carditem.esp_txt);
+    // play_sound_esp(carditem.esp_txt);
 
     $('speaker').onclick = function () {
         play_sound_esp(carditem.esp_txt);
@@ -171,6 +173,7 @@ window.onload = function () {
 
     //처음에는 continue버튼이 눌러지지 않게 시작한다.
     $('btn_continue').disabled = true;
+    $('btn_continue').style.color = "#03bf6b";
 
     $('block_1').onclick = function () { word_click('block_1'); };
     $('block_2').onclick = function () { word_click('block_2'); };

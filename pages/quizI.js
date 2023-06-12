@@ -66,9 +66,9 @@ function click_option(item) { //제시된 여러개의 단어를 클릭한 경�
     // j_word와 k_word가 다 맞았으면 버튼 continue를 켜고 다음 페이지로 진행할 수 있게 한다.
     if ($('j_word').style.color == 'black') {
         if (k_word == "") {
-            $('btn_listen').value = "Listen and Continue";
+            $('btn_continue').value = "Listen and Continue";
         } else if (k_word != "" && $('k_word').style.color == 'black') {
-            $('btn_listen').value = "Listen and Continue";
+            $('btn_continue').value = "Listen and Continue";
         }
 
         // 맞추면 progress bar를 한 칸 진전시킨다.
@@ -121,8 +121,10 @@ function click_continue() {
     quiz_count = parseInt(localStorage.quiz_count) + 1;
     localStorage.setItem("quiz_count", quiz_count.toString());
     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count > 10) { //TODO 임시로 10을 2로 바꿨음.
-        window.location.href = "session-finish.html";
+    if (quiz_count >= 10) { //TODO 임시로 10을 2로 바꿨음.
+        // window.location.href = "session-finish.html";
+        // alert("asdf");
+        play_sound_esp_next_url(esp_txt, "session-finish.html");
         return;
     }
 
@@ -143,7 +145,7 @@ function click_continue() {
             add_carditem(responseObj);
 
             localStorage.setItem("Carditem", responseJSONStr);
-            window.location.href = responseObj.quiz_card_url;
+            play_sound_esp_next_url(esp_txt, responseObj.quiz_card_url);
         } else {
             alert('Error' + responseJSONStr);
         }
@@ -171,12 +173,12 @@ window.onload = function () {
         play_sound_url(carditem.mp3_url);
     }
 
-    $('btn_listen').onclick = function () {
+    $('btn_continue').onclick = function () {
         play_sound_url(carditem.mp3_url);
         $('eng_txt').innerText = carditem.eng_txt;
         $('kor_txt').innerText = carditem.kor_txt;
 
-        if ($('btn_listen').value == "Listen and Continue") {
+        if ($('btn_continue').value == "Listen and Continue") {
             click_continue();
         }
     }

@@ -40,14 +40,12 @@ function click_continue() {
     carditem = JSON.parse(localStorage.Carditem)
     esp_txt = carditem.esp_txt;
 
-    play_sound_esp(esp_txt);
-
     console.log("localStorage.quiz_count:" + localStorage.quiz_count);
     quiz_count = parseInt(localStorage.quiz_count) + 1;
     localStorage.setItem("quiz_count", quiz_count.toString());
     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count >= 10) { //TODO 임시로 10을 2로 바꿨음.
-        window.location.href = "session-finish.html";
+    if (quiz_count >= 10) { //TODO 임시로 10을 2로 바꿨음.
+        play_sound_esp_next_url(esp_txt, "session-finish.html");
         return;
     }
 
@@ -68,7 +66,8 @@ function click_continue() {
             add_carditem(responseObj);
 
             localStorage.setItem("Carditem", responseJSONStr);
-            window.location.href = responseObj.quiz_card_url;
+            play_sound_esp_next_url(esp_txt, responseObj.quiz_card_url);
+
         } else {
             alert('Error' + responseJSONStr);
         }

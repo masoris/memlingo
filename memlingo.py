@@ -292,15 +292,30 @@ def next_review_time(count, score):
 @app.route('/api/playsound.api', methods=['POST', 'GET'])
 def playsound():
     if request.method == 'GET':
+        email = request.args['email']
         voice_esp_txt_mp3 = request.args['voice_esp_txt_mp3']
     else:
         if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
             voice_esp_txt_mp3 = request.json['voice_esp_txt_mp3']
         else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
             voice_esp_txt_mp3 = request.form['voice_esp_txt_mp3']
+            
     filename = "sounds/"+voice_esp_txt_mp3
+    
+    LOG("/api/playsound.api\t%s\t%s" % (email, voice_esp_txt_mp3))
+
+    # 해당 음성 파일이 없으면 여러 음성을 대조해서 찾아보고 그래도 없으면 딩동을 내보낸다.
     if not os.path.exists(filename):
         filename = "sounds/dingdong.mp3"
+        voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
+        esp_txt_mp3 = voice_esp_txt_mp3[voice_esp_txt_mp3.find("/") + 1:]
+        for voice in voicelist:
+            if os.path.exists("sounds/" + voice + "/" + esp_txt_mp3):
+                filename = "sounds/" + voice + "/" + esp_txt_mp3
+                break
+                
     return send_file(filename, mimetype='audio/mpeg')
 
 @app.route('/api/card-next.api', methods=['POST', 'GET'])

@@ -5,7 +5,8 @@ function $(id) {
 var is_playing = false;
 function play_sound_url(url) {
     try {
-        var audio = new Audio("/api/playsound.api?voice_esp_txt_mp3=" + url);
+        var email = localStorage.getItem("email");
+        var audio = new Audio("/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + url);
         audio.addEventListener('ended', function () {
             audio.pause();
             audio.currentTime = 0;
@@ -31,7 +32,8 @@ function play_sound_esp(esp_txt) {
     }
 
     for (i = 0; i < voices.length; i++) {
-        url = "/api/playsound.api?voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3";
+        var email = localStorage.getItem("email");
+        url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3";
         try {
             if (is_playing == true) {
                 break;
@@ -40,11 +42,14 @@ function play_sound_esp(esp_txt) {
             audio.addEventListener('ended', function () {
                 audio.currentTime = 0;
                 is_playing = false;
+                $("btn_continue").disabled = false;
             });
             audio.play();
             is_playing = true;
+            $("btn_continue").disabled = true;
         } catch (e) {
             is_playing = false;
+            $("btn_continue").disabled = false;
             console.log('Failed to load audio file.');
         }
     }
@@ -56,26 +61,30 @@ function play_sound_esp_next_url(esp_txt, next_url) {
         const j = Math.floor(Math.random() * (i + 1));
         [voices[i], voices[j]] = [voices[j], voices[i]];
     }
-
+    is_playing = false;
     for (i = 0; i < voices.length; i++) {
-        url = "/api/playsound.api?voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3";
+        var email = localStorage.getItem("email");
+        var mp3_url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3";
         try {
             if (is_playing == true) {
                 break;
             }
-            let audio = new Audio(url);
+            let audio = new Audio(mp3_url);
             audio.addEventListener('ended', function () {
                 audio.currentTime = 0;
                 is_playing = false;
-                if (next_url != null && next_url != "") {
+                $("btn_continue").disabled = false;
+                if (next_url != "") {
                     window.location.href = next_url;
                 }
             });
             audio.play();
             is_playing = true;
+            $("btn_continue").disabled = true;
         } catch (e) {
             is_playing = false;
-            if (next_url != null && next_url != "") {
+            $("btn_continue").disabled = false;
+            if (next_url != "") {
                 window.location.href = next_url;
             }
             console.log('Failed to load audio file.');

@@ -34,7 +34,7 @@ window.onload = function () {
 
     carditems = JSON.parse(localStorage.Carditems);
 
-    for (i = 0; i < carditems.length; i++) {
+    for (i = 0; i < carditems.length && i < 10; i++) {
         carditem = carditems[i];
         $('esp_txt_' + (i + 1)).innerText = carditem.esp_txt;
         $('kor_txt_' + (i + 1)).innerText = carditem.kor_txt;
