@@ -19,11 +19,11 @@ function onlogin_click() {
         responseObj = JSON.parse(responseJSONStr);
 
         if (responseObj['resp'] == "OK") {
-            //'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang, "user_courses": user_courses
+            //'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang
             localStorage.setItem('user', responseObj['user']);
             localStorage.setItem('email', responseObj['email']);
             localStorage.setItem('lang', responseObj['lang']);
-            localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
+            // localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
             // alert(getCookie('login_status'));
             window.location.href = "./user-courses.html";
         } else {

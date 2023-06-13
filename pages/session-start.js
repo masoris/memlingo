@@ -63,17 +63,13 @@ function click_btn_start_learning() {
     });
 }
 
-window.onload = function () {
-    if (getCookie('login_status') != 'success') {
-        window.location.href = "./login.html";
-        return;
-    }
-
+function update_course_info() {
     user_courses = JSON.parse(localStorage.user_courses);
     ABC = localStorage.session_course;
     if (ABC == 'A') {
         $('session_course_name').innerText = user_courses.A.name;
         $('session_course_short_description').innerText = user_courses.A.short_description;
+        $('session_course_description').innerText = user_courses.A.description;
         $('session_course_familiar').innerText = user_courses.A.familiar;
         $('session_course_mastered').innerText = user_courses.A.mastered;
         $('session_course_needs_review').innerText = user_courses.A.needs_review;
@@ -83,6 +79,7 @@ window.onload = function () {
     } else if (ABC == 'B') {
         $('session_course_name').innerText = user_courses.B.name;
         $('session_course_short_description').innerText = user_courses.B.short_description;
+        $('session_course_description').innerText = user_courses.B.description;
         $('session_course_familiar').innerText = user_courses.B.familiar;
         $('session_course_mastered').innerText = user_courses.B.mastered;
         $('session_course_needs_review').innerText = user_courses.B.needs_review;
@@ -92,6 +89,7 @@ window.onload = function () {
     } else {
         $('session_course_name').innerText = user_courses.C.name;
         $('session_course_short_description').innerText = user_courses.C.short_description;
+        $('session_course_description').innerText = user_courses.C.description;
         $('session_course_familiar').innerText = user_courses.C.familiar;
         $('session_course_mastered').innerText = user_courses.C.mastered;
         $('session_course_needs_review').innerText = user_courses.C.needs_review;
@@ -99,6 +97,15 @@ window.onload = function () {
         $('session_course_progress').innerText = user_courses.C.progress;
         $('session_course_total_count').innerText = user_courses.C.total_count;
     }
+}
+
+window.onload = function () {
+    if (getCookie('login_status') != 'success') {
+        window.location.href = "./login.html";
+        return;
+    }
+
+    get_course_info(update_course_info);
 
     $('back_to_user_courses').onclick = function () {
         window.location.href = "./user-courses.html";

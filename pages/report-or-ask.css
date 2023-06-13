@@ -8,7 +8,7 @@
     width: 320px;
     height: 61px;
     margin: 36px 20px 60px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
@@ -22,7 +22,7 @@
     width: 320px;
     height: 30px;
     margin: 60px 20px 8px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
@@ -36,7 +36,7 @@
     width: 320px;
     height: 20px;
     margin: 8px 20px 16px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 14px;
     font-weight: normal;
     font-stretch: normal;
@@ -67,7 +67,7 @@
 span {
     width: 280px;
     height: 21px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 17px;
     font-weight: normal;
     font-stretch: normal;
@@ -82,7 +82,7 @@ span {
     width: 320px;
     height: 30px;
     margin: 60px 20px 8px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
@@ -96,7 +96,7 @@ span {
     width: 320px;
     height: 40px;
     margin: 8px 20px 16px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 14px;
     font-weight: normal;
     font-stretch: normal;
@@ -136,7 +136,7 @@ span {
 .Go-Back {
     width: 320px;
     height: 21px;
-    font-family: NotoSansCJKkr;
+    font-family: Arial, sans-serif;
     font-size: 17px;
     font-weight: normal;
     font-stretch: normal;

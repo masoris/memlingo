@@ -91,44 +91,19 @@ def create_user(email, lang):
 def dirs_in(target_dir):
     return [f.name for f in os.scandir(target_dir) if f.is_dir()]
 
-#  /api/login.api
-#           input: email1, email2, lang
-#output: userid, email, cookie:login_status, lang, courses{제목, 짧은 설명, 긴 설명, Points, Progress, Total_count, Needs_Review, Not_Seen, Familiar, Mastered}
-@app.route('/api/login.api', methods=['POST', 'GET'])
-def login():
+@app.route('/api/get_course_info.api', methods=['POST', 'GET'])
+def get_course_info():
     if request.method == 'GET':
-        email1 = request.args['email1']
-        email2 = request.args['email2']
+        email = request.args['email']
         lang = request.args['lang']
     else:
         if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
-            email1 = request.json['email1']
-            email2 = request.json['email2']
+            email = request.json['email']
             lang = request.json['lang']
         else: #헤더가 applicaiont/x-www-url-encoded이면: 
-            email1 = request.form['email1']
-            email2 = request.form['email2']
+            email = request.form['email']
             lang = request.form['lang']
-    LOG("/api/login.api\t%s\t%s\t%s" % (email1, email2, lang))
-
-    #이메일 검증과 lang 검증을 하고,
-    if email1 != email2 or not is_valid_email(email1):
-        result = {'resp': 'Fail', 'message': 'email is invalid or email1 is not same to email2'}
-        resp = make_response(jsonify(result))
-        resp.set_cookie('login_status', 'fail')
-        return resp
-    
-    # lang 검증 ./courses 폴더 밑에 lang 이라는 폴더가 있어야함
-    if lang not in dirs_in("./courses"):
-        result = {'resp': 'Fail', 'message': 'language is not supported'}
-        resp = make_response(jsonify(result))
-        resp.set_cookie('login_status', 'fail')
-        return resp	
-    
-    #처음에 들어온 이메일 이면 해당 사용자의 홈 디렉토리를 만들고, 해당 폴더를 초기화 시켜준다.
-    user_dir = os.path.join("./users", email1[0], email1)
-    if not os.path.exists(user_dir):
-        create_user(email1, lang)
+    LOG("/api/get_course_info.api\t%s\t%s" % (email, lang))
 
     #마스터 lang/코스 별로 course_info.json를 읽어온다
     course_infos = {}
@@ -144,12 +119,11 @@ def login():
             # short_description: "Esperanto A (Memlingo 에스페란토) short_description",
             # tags: "",source: "",target: "",audio_mode: "",base_url: "",course_status: ""
             # }
-        course_infos[course_name] = course_info
-            
+        course_infos[course_name] = course_info       
 
     #개인 코스 별 진도를 읽어온다.
     user_courses = {}		
-    user_dir = os.path.join("./users", email1[0], email1)
+    user_dir = os.path.join("./users", email[0], email)
     user_courses_lang_dir = os.path.join(user_dir, "courses", lang)
     # A, B, C 각각의 디렉토리를 생성한다
     for course_name in dirs_in("./courses/"+lang):#마스터 코스 목록 lang 하위의 마스터 코스 목록
@@ -189,8 +163,51 @@ def login():
         user_course['familiar'] = familiar_count #카운트가 5이상인 것들의 갯수
         user_course['mastered'] = mastered_count #카운트가 6이상인 것들의 갯수
         user_courses[course_name] = user_course
+        
+    result = {'resp': 'OK', "user_courses": user_courses}
+    resp = make_response(jsonify(result))
+    return resp
+
+#  /api/login.api
+#           input: email1, email2, lang
+#output: userid, email, cookie:login_status, lang, courses{제목, 짧은 설명, 긴 설명, Points, Progress, Total_count, Needs_Review, Not_Seen, Familiar, Mastered}
+@app.route('/api/login.api', methods=['POST', 'GET'])
+def login():
+    if request.method == 'GET':
+        email1 = request.args['email1']
+        email2 = request.args['email2']
+        lang = request.args['lang']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email1 = request.json['email1']
+            email2 = request.json['email2']
+            lang = request.json['lang']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email1 = request.form['email1']
+            email2 = request.form['email2']
+            lang = request.form['lang']
+    LOG("/api/login.api\t%s\t%s\t%s" % (email1, email2, lang))
+
+    #이메일 검증과 lang 검증을 하고,
+    if email1 != email2 or not is_valid_email(email1):
+        result = {'resp': 'Fail', 'message': 'email is invalid or email1 is not same to email2'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp
     
-    result = {'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang, "user_courses": user_courses}
+    # lang 검증 ./courses 폴더 밑에 lang 이라는 폴더가 있어야함
+    if lang not in dirs_in("./courses"):
+        result = {'resp': 'Fail', 'message': 'language is not supported'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp	
+    
+    #처음에 들어온 이메일 이면 해당 사용자의 홈 디렉토리를 만들고, 해당 폴더를 초기화 시켜준다.
+    user_dir = os.path.join("./users", email1[0], email1)
+    if not os.path.exists(user_dir):
+        create_user(email1, lang)
+
+    result = {'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang}
     resp = make_response(jsonify(result))
     resp.set_cookie('login_status', 'success')
     return resp
@@ -307,7 +324,9 @@ def playsound():
     LOG("/api/playsound.api\t%s\t%s" % (email, voice_esp_txt_mp3))
 
     # 해당 음성 파일이 없으면 여러 음성을 대조해서 찾아보고 그래도 없으면 딩동을 내보낸다.
-    if not os.path.exists(filename):
+    if voice_esp_txt_mp3 == "":
+        filename = "sounds/dingdong.mp3"
+    elif not os.path.exists(filename):
         filename = "sounds/dingdong.mp3"
         voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
         esp_txt_mp3 = voice_esp_txt_mp3[voice_esp_txt_mp3.find("/") + 1:]
@@ -426,7 +445,11 @@ def card_next():
     voice = ""
     mp3_url = ""
     voice_img_url = ""
-    if len(mp3list) > 0:
+    if len(mp3list) == 0:
+        voice = "ludoviko"
+        mp3_url = "dingdong.mp3"
+        voice_img_url ="./img/ludoviko.png" 
+    elif len(mp3list) > 0:
        [voice, mp3_url] = random.choice(mp3list)
        voice_img_url = './img/'+voice+'.png'
 

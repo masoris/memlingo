@@ -174,12 +174,14 @@ window.onload = function () {
     }
 
     $('btn_continue').onclick = function () {
-        play_sound_url(carditem.mp3_url);
         $('eng_txt').innerText = carditem.eng_txt;
         $('kor_txt').innerText = carditem.kor_txt;
 
         if ($('btn_continue').value == "Listen and Continue") {
             click_continue();
+        }
+        else {
+            play_sound_url(carditem.mp3_url);
         }
     }
 

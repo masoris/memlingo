@@ -36,12 +36,7 @@ function onlogout_click() {
 //   });
 // }
 
-window.onload = function () {
-    if (getCookie('login_status') != 'success') {
-        window.location.href = "./login.html";
-        return;
-    }
-
+function update_course_info() {
     user_courses = JSON.parse(localStorage.user_courses);
     $('CourseA_name').innerText = user_courses.A.name;
     $('CourseA_short_description').innerText = user_courses.A.short_description;
@@ -69,6 +64,16 @@ window.onload = function () {
     $('CourseC_points').innerText = user_courses.C.points;
     $('CourseC_progress').innerText = user_courses.C.progress;
     $('CourseC_total_count').innerText = user_courses.C.total_count;
+
+}
+
+window.onload = function () {
+    if (getCookie('login_status') != 'success') {
+        window.location.href = "./login.html";
+        return;
+    }
+
+    get_course_info(update_course_info);
 
     $('Btn_logout').onclick = onlogout_click;
     $('Btn_StartA').onclick = function () {

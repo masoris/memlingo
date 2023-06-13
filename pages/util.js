@@ -2,6 +2,8 @@ function $(id) {
     return document.getElementById(id);
 }
 
+
+
 var is_playing = false;
 function play_sound_url(url) {
     try {
@@ -50,6 +52,39 @@ function play_sound_esp(esp_txt) {
         } catch (e) {
             is_playing = false;
             $("btn_continue").disabled = false;
+            console.log('Failed to load audio file.');
+        }
+    }
+}
+
+function play_sound_esp_update(esp_txt, update_function) {
+    // Fisher-Yates Shuffle 알고리즘
+    for (let i = voices.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [voices[i], voices[j]] = [voices[j], voices[i]];
+    }
+
+    for (i = 0; i < voices.length; i++) {
+        var email = localStorage.getItem("email");
+        url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3";
+        try {
+            if (is_playing == true) {
+                break;
+            }
+            let audio = new Audio(url);
+            audio.addEventListener('ended', function () {
+                audio.currentTime = 0;
+                is_playing = false;
+                $("btn_continue").disabled = false;
+                update_function();
+            });
+            audio.play();
+            is_playing = true;
+            $("btn_continue").disabled = true;
+        } catch (e) {
+            is_playing = false;
+            $("btn_continue").disabled = false;
+            update_function();
             console.log('Failed to load audio file.');
         }
     }
@@ -137,3 +172,25 @@ function add_carditem(carditem) {
     localStorage.setItem("Carditems", JSON.stringify(carditems));
 }
 
+
+function get_course_info(update_course_info) {
+    const email = localStorage.getItem("email");
+    const lang = localStorage.getItem("lang");
+
+    var jsonStr = JSON.stringify({ email: email, lang: lang });
+    postAjaxRequest('/api/get_course_info.api', jsonStr, function (responseJSONStr) {
+        responseObj = JSON.parse(responseJSONStr);
+
+        if (responseObj['resp'] == "OK") {
+            localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
+            update_course_info();
+        } else {
+            alert('Error' + responseJSONStr);
+        }
+        console.log(responseObj);
+    }, function (status, responseText) {
+        alert(responseText);
+        console.error('Error:', status);
+        console.error(responseText);
+    });
+}

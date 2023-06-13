@@ -88,14 +88,40 @@ const wrong_color = '#ff5c58';
 const disabled_color = '#dddddd';
 var disabled_count = 0; //답을 맞출 때 마다 disabled_count를 1씩 증가시킨다.
 
+function enable_buttons() {
+    console.log("enable_buttons");
+    $("left_1").style.pointerEvents = "auto";
+    $("left_2").style.pointerEvents = "auto";
+    $("left_3").style.pointerEvents = "auto";
+    $("left_4").style.pointerEvents = "auto";
+    // $("left_1").removeEventListener("click", function (event) { event.preventDefault(); });
+    // $("left_2").removeEventListener("click", function (event) { event.preventDefault(); });
+    // $("left_3").removeEventListener("click", function (event) { event.preventDefault(); });
+    // $("left_4").removeEventListener("click", function (event) { event.preventDefault(); });
+}
+
+function disable_buttons() {
+    console.log("disable_buttons");
+    $("left_1").style.pointerEvents = "none";
+    $("left_2").style.pointerEvents = "none";
+    $("left_3").style.pointerEvents = "none";
+    $("left_4").style.pointerEvents = "none";
+    // $("left_1").addEventListener("click", function (event) { event.preventDefault(); });
+    // $("left_2").addEventListener("click", function (event) { event.preventDefault(); });
+    // $("left_3").addEventListener("click", function (event) { event.preventDefault(); });
+    // $("left_4").addEventListener("click", function (event) { event.preventDefault(); });
+}
+
 function word_click(item) {
+
     // 지금 선택한 것이 처음이면 prev_item에 기억시키고 selected색깔로 바꾼다.
     if (localStorage.getItem("prev_item") == '') {
         localStorage.setItem("prev_item", item);
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
         if (item.indexOf("left") >= 0) {
-            play_sound_esp($(item + '_txt').innerText);
+            disable_buttons();
+            play_sound_esp_update($(item + '_txt').innerText, enable_buttons);
         }
         return;
     }
@@ -116,9 +142,13 @@ function word_click(item) {
         localStorage.prev_item = item;
 
         if (item.indexOf("left") >= 0) {
-            play_sound_esp($(item + "_txt").innerText);
+            disable_buttons();
+            play_sound_esp_update($(item + '_txt').innerText, enable_buttons);
+            // play_sound_esp($(item + "_txt").innerText);
         } else if (prev_item.indexOf("left") >= 0) {
-            play_sound_esp($(prev_item + "_txt").innerText);
+            disable_buttons();
+            play_sound_esp_update($(prev_item + '_txt').innerText, enable_buttons);
+            // play_sound_esp($(prev_item + "_txt").innerText);
         }
 
         //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.
@@ -172,9 +202,13 @@ function word_click(item) {
             $(prev_item).style.backgroundColor = disabled_color;
             $(prev_item).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
             if (item.indexOf("left") >= 0) {
-                play_sound_esp($(item + "_txt").innerText);
+                disable_buttons();
+                play_sound_esp_update($(item + '_txt').innerText, enable_buttons);
+                // play_sound_esp($(item + "_txt").innerText);
             } else if (prev_item.indexOf("left") >= 0) {
-                play_sound_esp($(prev_item + "_txt").innerText);
+                disable_buttons();
+                play_sound_esp_update($(prev_item + '_txt').innerText, enable_buttons);
+                // play_sound_esp($(prev_item + "_txt").innerText);
             }
 
             // 모두다 맞춰서 카드가 다 disabled로 바뀌었으면 continue 버튼을 켠다.
@@ -212,9 +246,13 @@ function word_click(item) {
     $(item + '_border').style.borderColor = wrong_color;
     $(item).style.backgroundColor = wrong_color;
     if (item.indexOf("left") >= 0) {
-        play_sound_esp($(item + "_txt").innerText);
+        disable_buttons();
+        play_sound_esp_update($(item + '_txt').innerText, enable_buttons);
+        // play_sound_esp($(item + "_txt").innerText);
     } else if (prev_item.indexOf("left") >= 0) {
-        play_sound_esp($(prev_item + "_txt").innerText);
+        disable_buttons();
+        play_sound_esp_update($(prev_item + '_txt').innerText, enable_buttons);
+        // play_sound_esp($(prev_item + "_txt").innerText);
     }
 
     //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.
