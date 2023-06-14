@@ -1,0 +1,60 @@
+2023-06-14 15:33:44	/api/get_course_info.api	a@a.com	ko-kr
+2023-06-14 15:35:11	/api/session-start.api	a@a.com	ko-kr	A
+2023-06-14 15:35:11	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	3	./quizC.html	male2
+2023-06-14 15:35:11	/api/similar-words-kor.api	a@a.com	A	ko-kr	나, 당신
+2023-06-14 15:35:11	/api/playsound.api	a@a.com	female2/mi, vi.mp3
+2023-06-14 15:35:16	/api/similar-words.api	a@a.com	A	ko-kr	mi, vi
+2023-06-14 15:35:27	/api/playsound.api	a@a.com	male3/mi, vi.mp3
+2023-06-14 15:35:38	/api/put-score.api	a@a.com	A	ko-kr	mi, vi	1
+2023-06-14 15:35:39	/api/playsound.api	a@a.com	male1/mi, vi.mp3
+2023-06-14 15:35:41	/api/playsound.api	a@a.com	male2/mia, via.mp3
+2023-06-14 15:35:45	/api/playsound.api	a@a.com	female3/al vi, al mi.mp3
+2023-06-14 15:35:48	/api/playsound.api	a@a.com	male3/mia, via.mp3
+2023-06-14 15:36:41	/api/get_course_info.api	a@a.com	ko-kr
+2023-06-14 15:36:46	/api/logout.api	a@a.com	ko-kr	A
+2023-06-14 15:51:30	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-14 15:51:30	/api/get_course_info.api	a@a.com	ko-kr
+2023-06-14 15:51:32	/api/get_course_info.api	a@a.com	ko-kr
+2023-06-14 15:51:34	/api/session-start.api	a@a.com	ko-kr	A
+2023-06-14 15:51:34	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	3	./quizB.html	female1
+2023-06-14 15:51:34	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-06-14 15:56:52	/api/playsound.api	a@a.com	male1/estas, estis.mp3
+2023-06-14 15:56:59	/api/put-score.api	a@a.com	A	ko-kr	estas, estis	1
+2023-06-14 15:57:00	/api/playsound.api	a@a.com	male3/estas, estis.mp3
+2023-06-14 15:58:37	/api/playsound.api	a@a.com	male2/estas, estis.mp3
+2023-06-14 15:58:59	/api/playsound.api	a@a.com	female2/mi estas ~.mp3
+2023-06-14 15:59:40	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-06-14 15:59:49	/api/put-score.api	a@a.com	A	ko-kr	estas, estis	1
+2023-06-14 15:59:50	/api/playsound.api	a@a.com	female3/estas, estis.mp3
+2023-06-14 16:03:00	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-06-14 16:03:02	/api/playsound.api	a@a.com	male3/estas, estis.mp3
+2023-06-14 16:03:04	/api/put-score.api	a@a.com	A	ko-kr	estas, estis	1
+2023-06-14 16:03:08	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-06-14 16:04:42	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-06-14 16:04:46	/api/playsound.api	a@a.com	ludoviko/estis, estos.mp3
+2023-06-14 16:04:47	/api/put-score.api	a@a.com	A	ko-kr	estis, estos	1
+2023-06-14 16:04:48	/api/playsound.api	a@a.com	female2/estis, estos.mp3
+2023-06-14 16:04:50	/api/playsound.api	a@a.com	female1/estis, estos.mp3
+2023-06-14 16:04:56	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-06-14 16:08:40	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-06-14 16:08:42	/api/playsound.api	a@a.com	male2/estis, estos.mp3
+2023-06-14 16:08:44	/api/put-score.api	a@a.com	A	ko-kr	estis, estos	1
+2023-06-14 16:08:46	/api/playsound.api	a@a.com	ludoviko/estis, estos.mp3
+2023-06-14 16:18:30	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-06-14 16:18:31	/api/playsound.api	a@a.com	female2/estas, estis.mp3
+2023-06-14 16:18:33	/api/put-score.api	a@a.com	A	ko-kr	estas, estis	1
+2023-06-14 16:18:36	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-06-14 16:21:30	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-06-14 16:21:31	/api/playsound.api	a@a.com	male3/estas, estis.mp3
+2023-06-14 16:21:33	/api/put-score.api	a@a.com	A	ko-kr	estas, estis	1
+2023-06-14 16:21:34	/api/playsound.api	a@a.com	male2/estas, estis.mp3
+2023-06-14 16:21:44	/api/playsound.api	a@a.com	male1/estis, estos.mp3
+2023-06-14 16:21:47	/api/put-score.api	a@a.com	A	ko-kr	estis, estos	1
+2023-06-14 16:21:48	/api/playsound.api	a@a.com	male2/estis, estos.mp3
+2023-06-14 16:21:50	/api/playsound.api	a@a.com	male3/fartas, fartis.mp3
+2023-06-14 16:21:51	/api/put-score.api	a@a.com	A	ko-kr	fartas, fartis	1
+2023-06-14 16:21:52	/api/playsound.api	a@a.com	ludoviko/fartas, fartis.mp3
+2023-06-14 16:21:56	/api/playsound.api	a@a.com	ludoviko/mi estas ~.mp3
+2023-06-14 16:21:57	/api/put-score.api	a@a.com	A	ko-kr	mi estas ~	1
+2023-06-14 16:21:58	/api/playsound.api	a@a.com	female2/mi estas ~.mp3
+2023-06-14 16:24:53	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis

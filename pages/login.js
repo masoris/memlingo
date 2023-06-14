@@ -60,7 +60,24 @@ function display_message() {
     }
 }
 
+
+// Fullscreen API를 사용하여 전체 화면으로 표시합니다.
+// function enterFullscreen() {
+//     var element = document.getElementById("myElement");
+//     if (element.requestFullscreen) {
+//         element.requestFullscreen();
+//     } else if (element.mozRequestFullScreen) {
+//         element.mozRequestFullScreen();
+//     } else if (element.webkitRequestFullscreen) {
+//         element.webkitRequestFullscreen();
+//     } else if (element.msRequestFullscreen) {
+//         element.msRequestFullscreen();
+//     }
+// }
+
+
 window.onload = function () {
+    // enterFullscreen();
     //최초에 login버튼을 누르지 못하는 상태로 초기화 한다.
     $('btn_login').disabled = true;
     $('btn_login').style.backgroundColor = "#03bf6b";

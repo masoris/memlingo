@@ -87,13 +87,22 @@ const default_color = '#49c0f8';
 const wrong_color = '#ff5c58';
 const disabled_color = '#dddddd';
 var disabled_count = 0; //답을 맞출 때 마다 disabled_count를 1씩 증가시킨다.
+var disabled = {};
 
 function enable_buttons() {
     console.log("enable_buttons");
-    $("left_1").style.pointerEvents = "auto";
-    $("left_2").style.pointerEvents = "auto";
-    $("left_3").style.pointerEvents = "auto";
-    $("left_4").style.pointerEvents = "auto";
+    if (!("left_1" in disabled)) {
+        $("left_1").style.pointerEvents = "auto";
+    }
+    if (!("left_2" in disabled)) {
+        $("left_2").style.pointerEvents = "auto";
+    }
+    if (!("left_3" in disabled)) {
+        $("left_3").style.pointerEvents = "auto";
+    }
+    if (!("left_4" in disabled)) {
+        $("left_4").style.pointerEvents = "auto";
+    }
     // $("left_1").removeEventListener("click", function (event) { event.preventDefault(); });
     // $("left_2").removeEventListener("click", function (event) { event.preventDefault(); });
     // $("left_3").removeEventListener("click", function (event) { event.preventDefault(); });
@@ -223,6 +232,14 @@ function word_click(item) {
                     $('progress').style.width = percent + "%";
                 }
             }
+        }
+        if (item.indexOf("left") >= 0) {
+            disabled[item] = true;
+            console.log(item + " disabled");
+        }
+        else if (prev_item.indexOf("left") >= 0) {
+            disabled[prev_item] = true;
+            console.log(prev_item + " prev_disabled");
         }
         setTimeout(disable_matched_items, 1000);
 
