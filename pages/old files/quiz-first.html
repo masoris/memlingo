@@ -11,77 +11,69 @@
     <script src="./quiz-first.js"></script>
     <script src="./ajax.js"></script>
     <script src="./cookie.js"></script>
-    <title>Quiz-first</title>
+    <title>Quiz First</title>
 </head>
 
 <body>
     <!-- <div class="Container"> -->
     <div class="Area1">
         <img id="btn_quit" src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
+                       img/ic-close-gray@3x.png 3x" class="ic_close_gray">
+        <div id="progress_bar" class="Rectangle-progress-bar">
+            <div id="progress" class="Rectangle-progress"></div>
+        </div>
+    </div>
+    <!-- <div class="Area1">
+        <img id="btn_quit" src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
                    img/ic-close-gray@3x.png 3x" class="ic_close_gray">
         <div id="progress_bar" class="Rectangle-progress-bar">
             <div id="progress" class="Rectangle-progress"></div>
         </div>
+    </div> -->
 
     </div>
-
-
     <span class="Select-what-you-hear">
-        Listen and fill blanks.
+        Choose the level how you feel about this.
     </span>
-    <img id="speaker" src="img/speaker.png" class="Rectangle-speaker">
-
-
-    <!-- <div class="Area2">    
-            <span id="esp_txt" class="mi-vi">
-                saluton, mi estas~ -->
-    <!-- </span>
-        </div> -->
+    <div class="Rectangle-speaker">
+        <img id="btn_speaker" src="img/speaker.png" class="Rectangle-speaker">
+    </div>
     <table class="Area0">
         <tr>
-            <td class="Area3">
-                <span id="esp_txt" class="Esp-txt">
-                    <!-- Saluton, Mi estas ~ -->
+            <td class="Area2">
+                <span id="esp_txt" class="mi-vi">
+                    saluton, mi estas~
                 </span>
             </td>
         </tr>
         <tr>
             <td class="Area3">
                 <span id="kor_txt" class="I-you">
-                    <!-- 안녕하세요, 나는 ~ 입니다. -->
+                    안녕하세요, 나는 ~ 입니다.
                 </span>
             </td>
         </tr>
         <tr>
             <td class="Area4">
                 <span id="eng_txt" class="hello-I-am-">
-                    <!-- hello, I am ~ -->
+                    hello, I am ~
                 </span>
             </td>
         </tr>
     </table>
-
-
-    <div class="Answers">
-        <span id="answers">
-
-        </span>
-    </div>
-    <!-- <hr style="top:300px; position: absolute;"> -->
-    <div class="Options">
-        <span id="options">
-
-        </span>
-    </div>
-    <img id="voice_img" src="img/ic-woman-1.png" srcset="img/ic-woman-1@2x.png 2x,
-             img/ic-woman-1@3x.png 3x" class="ic_woman_1">
+    <img id="voice_img" src="img/ic-woman-1.png" class="ic_woman_1">
 
     <!-- </div> -->
+    <div class="Rectangle-hard">
+        <input class="Submit-hard" type="button" id="btn_hard" value="Hard for me">
+
     </div>
+    <div class="Rectangle-easy">
+        <input class="Submit-easy" type="button" id="btn_easy" value="Easy to me">
+    </div>
+
     <div class="Rectangle-listen">
-        <input type="button" id="btn_continue" class="Listen" value="Listen">
+        <input class="Listen" type="button" id="btn_listen" value="Listen">
     </div>
 
 </body>
-
-</html>

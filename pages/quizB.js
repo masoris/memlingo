@@ -93,15 +93,19 @@ function enable_buttons() {
     console.log("enable_buttons");
     if (!("left_1" in disabled)) {
         $("left_1").style.pointerEvents = "auto";
+        $("left_1").style.touchAction = "auto";
     }
     if (!("left_2" in disabled)) {
         $("left_2").style.pointerEvents = "auto";
+        $("left_2").style.touchAction = "auto";
     }
     if (!("left_3" in disabled)) {
         $("left_3").style.pointerEvents = "auto";
+        $("left_3").style.touchAction = "auto";
     }
     if (!("left_4" in disabled)) {
         $("left_4").style.pointerEvents = "auto";
+        $("left_4").style.touchAction = "auto";
     }
     // $("left_1").removeEventListener("click", function (event) { event.preventDefault(); });
     // $("left_2").removeEventListener("click", function (event) { event.preventDefault(); });

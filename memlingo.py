@@ -3,7 +3,7 @@ import os, re, json, datetime, random, time, urllib.parse
 
 app = Flask(__name__)
 
-# flash.html이 root가 되게 한다.
+# flash.html이 root가 되게 한다..
 @app.route('/')
 def serve_root():
     return redirect('/pages/flash.html')
@@ -293,7 +293,7 @@ def next_review_time(count, score):
         count = int(count/2)
 
     t0 = time.time()
-    if count == 0: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 5*60))
+    if count == 0: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 2*60))
     if count == 1: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 20*60))
     if count == 2: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 5*60*60))
     if count == 3: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 24*60*60))
@@ -334,7 +334,10 @@ def playsound():
             if os.path.exists("sounds/" + voice + "/" + esp_txt_mp3):
                 filename = "sounds/" + voice + "/" + esp_txt_mp3
                 break
-                
+    
+    if filename == "sounds/dingdong.mp3" and voice_esp_txt_mp3 != "":
+        LOG("/api/playsound.api\t%s\t%s" % ("ERROR: file not found.", voice_esp_txt_mp3))
+
     return send_file(filename, mimetype='audio/mpeg')
 
 @app.route('/api/card-next.api', methods=['POST', 'GET'])
@@ -420,7 +423,8 @@ def card_next():
     
 
     if len(next_row) < 7:
-        result = {'resp': 'Fail', 'message': 'Cannot find oldest row'}
+        LOG("/api/card_next.api\t%s\t%s\t%s\t%s" % (email, lang, course, "ERROR: Cannot find next row:" + str(next_row)))
+        result = {'resp': 'Fail', 'message': 'Cannot find oldest row:'+str(next_row)}
         resp = make_response(jsonify(result))
         resp.set_cookie('login_status', 'loged_out')
         return resp
