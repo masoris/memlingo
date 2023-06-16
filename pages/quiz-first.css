@@ -19,6 +19,7 @@
     width: auto;
     border-color: #03bf6b;
     border-radius: 10px;
+    display: inline-block;
 }
 
 #options input {
@@ -30,6 +31,7 @@
     width: auto;
     border-color: #03bf6b;
     border-radius: 10px;
+    display: inline-block;
 }
 
 .Area1 {

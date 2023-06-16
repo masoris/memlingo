@@ -8,7 +8,7 @@ var is_playing = false;
 function play_sound_url(url) {
     try {
         var email = localStorage.getItem("email");
-        var audio = new Audio("/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + url);
+        var audio = new Audio("/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + url + "&t=" + new Date().getTime());
         audio.addEventListener('ended', function () {
             audio.pause();
             audio.currentTime = 0;
@@ -35,7 +35,7 @@ function play_sound_esp(esp_txt) {
 
     for (i = 0; i < voices.length; i++) {
         var email = localStorage.getItem("email");
-        url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3";
+        url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
         try {
             if (is_playing == true) {
                 break;
@@ -66,7 +66,7 @@ function play_sound_esp_update(esp_txt, update_function) {
 
     for (i = 0; i < voices.length; i++) {
         var email = localStorage.getItem("email");
-        url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3";
+        url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
         try {
             if (is_playing == true) {
                 break;
@@ -99,7 +99,7 @@ function play_sound_esp_next_url(esp_txt, next_url) {
     is_playing = false;
     for (i = 0; i < voices.length; i++) {
         var email = localStorage.getItem("email");
-        var mp3_url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3";
+        var mp3_url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
         try {
             if (is_playing == true) {
                 break;

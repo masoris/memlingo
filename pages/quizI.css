@@ -19,6 +19,7 @@
     width: auto;
     border-color: #03bf6b;
     border-radius: 10px;
+    display: inline-block;
 }
 
 #options input {
@@ -30,6 +31,7 @@
     width: auto;
     border-color: #03bf6b;
     border-radius: 10px;
+    display: inline-block;
 }
 
 .Area1 {
@@ -144,11 +146,27 @@ img.ic_close_gray {
     /* padding: 0 0 0 56px; */
 }
 
-.I-you {
+.Esp-txt {
     /* width: 264px; */
     /* height: 18px; */
     font-family: Arial, sans-serif;
     font-size: 20pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    /* color: #999; */
+    /* position: absolute; */
+    /* left: 30px; */
+    /* top: 115px; */
+}
+
+.I-you {
+    /* width: 264px; */
+    /* height: 18px; */
+    font-family: Arial, sans-serif;
+    font-size: 16pt;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;

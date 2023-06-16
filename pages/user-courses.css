@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, sans-serif;
 }
 
 select {
@@ -38,7 +39,7 @@ img.logo_subtitle {
 }
 
 .Learn-Esperanto-by-E {
-    width: 320px;
+    width: 96%;
     height: 60px;
     margin: 20px 0px 16px;
     font-family: Arial, sans-serif;
@@ -109,7 +110,7 @@ img.img_a {
     width: 168px;
     height: 138px;
     margin: 20px 0 24px 12px;
-    font-family: Arial, sans-serif;
+    /* font-family: Arial, sans-serif; */
     font-size: 16px;
     font-weight: normal;
     font-stretch: normal;
@@ -120,7 +121,7 @@ img.img_a {
 }
 
 .Words-600-Words-t .text-style-1 {
-    font-family: LucidaGrande;
+    /* font-family: Arial, sans-serif; */
 }
 
 .Rectangle-Button {

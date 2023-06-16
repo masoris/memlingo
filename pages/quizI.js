@@ -193,18 +193,21 @@ window.onload = function () {
     esp_txt2 = carditem.esp_txt.replace(",", " ,").replace("?", " ?").replace("!", " !").replace("~", " ~").replace(".", " .").replace("(", " ( ").replace(")", " )");
     esp_txt_words = esp_txt2.trim().replace(/  /g, " ").split(" ");
 
+    //랜덤하게 두 개의 단어(j, k)를 선택해서 그 단어는 안 보이게 가린다.
     var j = Math.floor(Math.random() * (esp_txt_words.length));
-    arr = [",", "?", "!", "~", ".", ""];
-    wrd = esp_txt_words[j];
-    while (arr.includes(wrd)) {
+    var arr = [",", "?", "!", "~", ".", ""];
+    var wrd = esp_txt_words[j];
+    while (arr.includes(wrd)) { //특수 문자 단어는 j로 선택되지 않도록 한다.
         j = Math.floor(Math.random() * (esp_txt_words.length));
         wrd = esp_txt_words[j];
     }
+
     var k = -1;
-    if (esp_txt_words.length > 3) {
+    if (esp_txt_words.length > 3) { //최소 4단어 이상일 때만 k단어를 선택하고 그렇지 않으면 j단어 하나만 선택 되도록 한다.
         k = Math.floor(Math.random() * (esp_txt_words.length));
         wrd = esp_txt_words[k];
-        while (arr.includes(wrd) || k == j) {
+        //특수 문자 단어는 k로 선택되지 않게 하며, j단어와도 겹치지 않도록 한다.
+        while (arr.includes(wrd) || k == j || esp_txt_words[j] == esp_txt_words[k]) {
             k = Math.floor(Math.random() * (esp_txt_words.length));
             wrd = esp_txt_words[k];
         }

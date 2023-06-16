@@ -92,6 +92,7 @@ var disabled = {};
 function enable_buttons() {
     console.log("enable_buttons");
     if (!("left_1" in disabled)) {
+        alert("첫번째항목 enable");
         $("left_1").style.pointerEvents = "auto";
         $("left_1").style.touchAction = "auto";
     }
