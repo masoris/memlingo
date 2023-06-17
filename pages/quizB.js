@@ -88,54 +88,16 @@ const wrong_color = '#ff5c58';
 const disabled_color = '#dddddd';
 var disabled_count = 0; //답을 맞출 때 마다 disabled_count를 1씩 증가시킨다.
 var disabled = {};
-
-function enable_buttons() {
-    console.log("enable_buttons");
-    if (!("left_1" in disabled)) {
-        alert("첫번째항목 enable");
-        $("left_1").style.pointerEvents = "auto";
-        $("left_1").style.touchAction = "auto";
-    }
-    if (!("left_2" in disabled)) {
-        $("left_2").style.pointerEvents = "auto";
-        $("left_2").style.touchAction = "auto";
-    }
-    if (!("left_3" in disabled)) {
-        $("left_3").style.pointerEvents = "auto";
-        $("left_3").style.touchAction = "auto";
-    }
-    if (!("left_4" in disabled)) {
-        $("left_4").style.pointerEvents = "auto";
-        $("left_4").style.touchAction = "auto";
-    }
-    // $("left_1").removeEventListener("click", function (event) { event.preventDefault(); });
-    // $("left_2").removeEventListener("click", function (event) { event.preventDefault(); });
-    // $("left_3").removeEventListener("click", function (event) { event.preventDefault(); });
-    // $("left_4").removeEventListener("click", function (event) { event.preventDefault(); });
-}
-
-function disable_buttons() {
-    console.log("disable_buttons");
-    $("left_1").style.pointerEvents = "none";
-    $("left_2").style.pointerEvents = "none";
-    $("left_3").style.pointerEvents = "none";
-    $("left_4").style.pointerEvents = "none";
-    // $("left_1").addEventListener("click", function (event) { event.preventDefault(); });
-    // $("left_2").addEventListener("click", function (event) { event.preventDefault(); });
-    // $("left_3").addEventListener("click", function (event) { event.preventDefault(); });
-    // $("left_4").addEventListener("click", function (event) { event.preventDefault(); });
-}
+var disabled_right = {};
 
 function word_click(item) {
-
     // 지금 선택한 것이 처음이면 prev_item에 기억시키고 selected색깔로 바꾼다.
     if (localStorage.getItem("prev_item") == '') {
         localStorage.setItem("prev_item", item);
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
         if (item.indexOf("left") >= 0) {
-            disable_buttons();
-            play_sound_esp_update($(item + '_txt').innerText, enable_buttons);
+            play_sound_esp($(item + '_txt').innerText);
         }
         return;
     }
@@ -156,12 +118,10 @@ function word_click(item) {
         localStorage.prev_item = item;
 
         if (item.indexOf("left") >= 0) {
-            disable_buttons();
-            play_sound_esp_update($(item + '_txt').innerText, enable_buttons);
+            play_sound_esp($(item + '_txt').innerText);
             // play_sound_esp($(item + "_txt").innerText);
         } else if (prev_item.indexOf("left") >= 0) {
-            disable_buttons();
-            play_sound_esp_update($(prev_item + '_txt').innerText, enable_buttons);
+            play_sound_esp($(prev_item + '_txt').innerText);
             // play_sound_esp($(prev_item + "_txt").innerText);
         }
 
@@ -211,19 +171,9 @@ function word_click(item) {
         function disable_matched_items() {
             $(item + '_border').style.borderColor = disabled_color;
             $(item).style.backgroundColor = disabled_color;
-            $(item).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
             $(prev_item + '_border').style.borderColor = disabled_color;
             $(prev_item).style.backgroundColor = disabled_color;
-            $(prev_item).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
-            if (item.indexOf("left") >= 0) {
-                disable_buttons();
-                play_sound_esp_update($(item + '_txt').innerText, enable_buttons);
-                // play_sound_esp($(item + "_txt").innerText);
-            } else if (prev_item.indexOf("left") >= 0) {
-                disable_buttons();
-                play_sound_esp_update($(prev_item + '_txt').innerText, enable_buttons);
-                // play_sound_esp($(prev_item + "_txt").innerText);
-            }
+
 
             // 모두다 맞춰서 카드가 다 disabled로 바뀌었으면 continue 버튼을 켠다.
             disabled_count += 1;
@@ -240,13 +190,23 @@ function word_click(item) {
         }
         if (item.indexOf("left") >= 0) {
             disabled[item] = true;
+            disabled_right[prev_item] = true;
             console.log(item + " disabled");
         }
         else if (prev_item.indexOf("left") >= 0) {
             disabled[prev_item] = true;
+            disabled_right[item] = true;
             console.log(prev_item + " prev_disabled");
         }
         setTimeout(disable_matched_items, 1000);
+
+        if (item.indexOf("left") >= 0) {
+            play_sound_esp($(item + '_txt').innerText);
+            // play_sound_esp($(item + "_txt").innerText);
+        } else if (prev_item.indexOf("left") >= 0) {
+            play_sound_esp($(prev_item + '_txt').innerText);
+            // play_sound_esp($(prev_item + "_txt").innerText);
+        }
 
         //prev_item을 초기화 한다.
         localStorage.prev_item = "";
@@ -268,12 +228,10 @@ function word_click(item) {
     $(item + '_border').style.borderColor = wrong_color;
     $(item).style.backgroundColor = wrong_color;
     if (item.indexOf("left") >= 0) {
-        disable_buttons();
-        play_sound_esp_update($(item + '_txt').innerText, enable_buttons);
+        play_sound_esp($(item + '_txt').innerText);
         // play_sound_esp($(item + "_txt").innerText);
     } else if (prev_item.indexOf("left") >= 0) {
-        disable_buttons();
-        play_sound_esp_update($(prev_item + '_txt').innerText, enable_buttons);
+        play_sound_esp($(prev_item + '_txt').innerText);
         // play_sound_esp($(prev_item + "_txt").innerText);
     }
 
@@ -318,14 +276,14 @@ window.onload = function () {
     $('btn_continue').disabled = true;
     $('btn_continue').style.color = "#03bf6b";
 
-    $('right_1').onclick = function () { word_click('right_1'); };
-    $('right_2').onclick = function () { word_click('right_2'); };
-    $('right_3').onclick = function () { word_click('right_3'); };
-    $('right_4').onclick = function () { word_click('right_4'); };
-    $('left_1').onclick = function () { word_click('left_1'); };
-    $('left_2').onclick = function () { word_click('left_2'); };
-    $('left_3').onclick = function () { word_click('left_3'); };
-    $('left_4').onclick = function () { word_click('left_4'); };
+    $('right_1').onclick = function () { if (!("right_1" in disabled_right) && !is_playing) word_click('right_1'); };
+    $('right_2').onclick = function () { if (!("right_2" in disabled_right) && !is_playing) word_click('right_2'); };
+    $('right_3').onclick = function () { if (!("right_3" in disabled_right) && !is_playing) word_click('right_3'); };
+    $('right_4').onclick = function () { if (!("right_4" in disabled_right) && !is_playing) word_click('right_4'); };
+    $('left_1').onclick = function () { if (!("left_1" in disabled) && !is_playing) word_click('left_1'); };
+    $('left_2').onclick = function () { if (!("left_2" in disabled) && !is_playing) word_click('left_2'); };
+    $('left_3').onclick = function () { if (!("left_3" in disabled) && !is_playing) word_click('left_3'); };
+    $('left_4').onclick = function () { if (!("left_4" in disabled) && !is_playing) word_click('left_4'); };
 
 };
 

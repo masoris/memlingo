@@ -147,3 +147,23 @@
 2023-06-16 16:25:23	/api/get_course_info.api	c@c.com	ko-kr
 2023-06-16 16:25:25	/api/session-start.api	c@c.com	ko-kr	B
 2023-06-16 16:25:25	/api/card-next.api	c@c.com	B	ko-kr	ĉu?	1	./quizE.html	ludoviko
+2023-06-16 19:52:10	/api/login.api	d@d.com	d@d.com	ko-kr
+2023-06-16 19:52:10	/api/get_course_info.api	d@d.com	ko-kr
+2023-06-16 19:52:12	/api/get_course_info.api	d@d.com	ko-kr
+2023-06-16 19:52:13	/api/session-start.api	d@d.com	ko-kr	A
+2023-06-16 19:52:13	/api/card-next.api	d@d.com	A	ko-kr	mi, vi	0	./quiz-first.html	male2
+2023-06-16 19:52:13	/api/similar-words-jk.api	d@d.com	A	ko-kr	mi	
+2023-06-16 19:52:18	/api/similar-words.api	d@d.com	A	ko-kr	mi, vi
+2023-06-16 19:52:19	/api/playsound.api	d@d.com	male2/mia nomo, via nomo.mp3
+2023-06-16 19:52:22	/api/put-score.api	d@d.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-16 19:52:23	/api/playsound.api	d@d.com	male2/mi, vi.mp3
+2023-06-16 19:52:25	/api/put-score.api	d@d.com	A	ko-kr	mi, vi	1
+2023-06-16 19:52:26	/api/playsound.api	d@d.com	female1/mi, vi.mp3
+2023-06-16 19:52:28	/api/playsound.api	d@d.com	male3/al vi, al mi.mp3
+2023-06-16 19:52:31	/api/put-score.api	d@d.com	A	ko-kr	al vi, al mi	1
+2023-06-16 19:52:32	/api/playsound.api	d@d.com	female1/al vi, al mi.mp3
+2023-06-16 19:52:35	/api/playsound.api	d@d.com	male3/mia, via.mp3
+2023-06-16 19:52:37	/api/put-score.api	d@d.com	A	ko-kr	mia, via	1
+2023-06-16 19:52:38	/api/playsound.api	d@d.com	female1/mia, via.mp3
+2023-06-16 19:52:38	/api/card-next.api	d@d.com	A	ko-kr	estas, estis	0	./quiz-first.html	ludoviko
+2023-06-16 19:52:38	/api/similar-words-jk.api	d@d.com	A	ko-kr	estas	

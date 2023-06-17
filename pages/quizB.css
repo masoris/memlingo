@@ -75,6 +75,7 @@ img.ic_close_gray {
 .RectangleN {
     width: calc(50% - 2% - 5px);
     height: 120px;
+    z-index: 0;
 }
 
 .RectangleN-1 {
@@ -85,6 +86,9 @@ img.ic_close_gray {
     justify-content: center;
     border-radius: 10px;
     background-color: #49c0f8;
+    pointer-events: auto;
+    z-index: 99;
+    position: relative;
 }
 
 .InsideN {
@@ -107,6 +111,7 @@ img.ic_close_gray {
     position: absolute;
     left: 2%;
     top: 80px;
+    pointer-events: none;
 }
 
 .Rectangle1-1 {}

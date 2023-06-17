@@ -33,62 +33,62 @@ function play_sound_esp(esp_txt) {
         [voices[i], voices[j]] = [voices[j], voices[i]];
     }
 
-    for (i = 0; i < voices.length; i++) {
-        var email = localStorage.getItem("email");
-        url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
-        try {
-            if (is_playing == true) {
-                break;
-            }
-            let audio = new Audio(url);
-            audio.addEventListener('ended', function () {
-                audio.currentTime = 0;
-                is_playing = false;
-                $("btn_continue").disabled = false;
-            });
-            audio.play();
-            is_playing = true;
-            $("btn_continue").disabled = true;
-        } catch (e) {
+    // for (i = 0; i < voices.length; i++) {
+    var email = localStorage.getItem("email");
+    url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
+    try {
+        // if (is_playing == true) {
+        // break;
+        // }
+        let audio = new Audio(url);
+        audio.addEventListener('ended', function () {
+            audio.currentTime = 0;
             is_playing = false;
             $("btn_continue").disabled = false;
-            console.log('Failed to load audio file.');
-        }
+        });
+        audio.play();
+        is_playing = true;
+        $("btn_continue").disabled = true;
+    } catch (e) {
+        is_playing = false;
+        $("btn_continue").disabled = false;
+        console.log('Failed to load audio file.');
     }
+    // }
 }
 
-function play_sound_esp_update(esp_txt, update_function) {
-    // Fisher-Yates Shuffle 알고리즘
-    for (let i = voices.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [voices[i], voices[j]] = [voices[j], voices[i]];
-    }
+// function play_sound_esp_update(esp_txt, update_function) {
+//     // Fisher-Yates Shuffle 알고리즘
+//     for (let i = voices.length - 1; i > 0; i--) {
+//         const j = Math.floor(Math.random() * (i + 1));
+//         [voices[i], voices[j]] = [voices[j], voices[i]];
+//     }
 
-    for (i = 0; i < voices.length; i++) {
-        var email = localStorage.getItem("email");
-        url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
-        try {
-            if (is_playing == true) {
-                break;
-            }
-            let audio = new Audio(url);
-            audio.addEventListener('ended', function () {
-                audio.currentTime = 0;
-                is_playing = false;
-                $("btn_continue").disabled = false;
-                update_function();
-            });
-            audio.play();
-            is_playing = true;
-            $("btn_continue").disabled = true;
-        } catch (e) {
-            is_playing = false;
-            $("btn_continue").disabled = false;
-            update_function();
-            console.log('Failed to load audio file.');
-        }
-    }
-}
+//     for (i = 0; i < voices.length; i++) {
+//         var email = localStorage.getItem("email");
+//         url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
+//         try {
+//             if (is_playing == true) {
+//                 break;
+//             }
+//             let audio = new Audio(url);
+//             audio.addEventListener('ended', function () {
+//                 audio.currentTime = 0;
+//                 is_playing = false;
+//                 $("btn_continue").disabled = false;
+//                 update_function();
+//             });
+//             audio.play();
+//             is_playing = true;
+//             $("btn_continue").disabled = true;
+//         } catch (e) {
+//             is_playing = false;
+//             $("btn_continue").disabled = false;
+//             update_function();
+//             console.log('Failed to load audio file.');
+//         }
+//     }
+// }
 
 function play_sound_esp_next_url(esp_txt, next_url) {
     // Fisher-Yates Shuffle 알고리즘
