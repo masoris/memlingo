@@ -90,9 +90,11 @@ function word_click(item) {
 
     //현재 클릭된 esp_txt를 받아낸다.
     var esp_txt = $(item + '_txt').innerText
+    play_sound_esp(esp_txt);
 
     //만약에 match되면 현재 아이템을 색깔을 selected로 바꾼다.
     if (esp_txt_card == esp_txt) {
+        $("kor_txt").innerText = JSON.parse(localStorage.Carditem).kor_txt;
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
 
@@ -117,7 +119,7 @@ function word_click(item) {
             $(block_i).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
         }
         esp_txt = JSON.parse(localStorage.Carditem).esp_txt;
-        play_sound_esp(esp_txt);
+
         return;
     }
 

@@ -38,7 +38,7 @@ body {
     border-radius: 12px;
     position: absolute;
     /* left: 286px; */
-    top: -8px;
+    top: 60px;
     right: 2%;
 }
 
@@ -60,7 +60,7 @@ body {
 }
 
 .Area2 {
-    width: 100%;
+    width: 96%;
     height: 40px;
     margin: 0 0 2px;
     position: absolute;
@@ -70,16 +70,16 @@ body {
     /* padding: 10px 11px 10px 10px; */
     border-radius: 12px;
     position: absolute;
-    /* left: 20px; */
-    /* top: 134px; */
+    left: 2%;
+    top: 100px;
 }
 
 .mi-vi {
     width: 264px;
     height: 25px;
-    margin: 7px 0 8px 16px;
+    /* margin: 7px 0 8px 16px; */
     font-family: Arial, sans-serif;
-    font-size: 21px;
+    font-size: 20pt;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -112,7 +112,7 @@ body {
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
-    position: absolute;
+    /* position: absolute; */
     left: 2%;
     top: -64px;
 }

@@ -35,7 +35,7 @@ function play_sound_esp(esp_txt) {
 
     // for (i = 0; i < voices.length; i++) {
     var email = localStorage.getItem("email");
-    url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
+    url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[0] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
     try {
         // if (is_playing == true) {
         // break;

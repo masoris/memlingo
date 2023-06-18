@@ -93,6 +93,7 @@ function word_click(item) {
 
     //만약에 match되면 현재 아이템을 색깔을 selected로 바꾼다.
     if (kor_txt_card == kor_txt) {
+        $('esp_txt').innerText = carditem.esp_txt;
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
 
@@ -163,7 +164,7 @@ window.onload = function () {
 
     // $('esp_txt').innerText = carditem.esp_txt;
     $('eng_txt').innerText = carditem.eng_txt;
-    play_sound_esp(carditem.esp_txt);
+    // play_sound_esp(carditem.esp_txt);
 
     $('speaker').onclick = function () {
         play_sound_esp(carditem.esp_txt);

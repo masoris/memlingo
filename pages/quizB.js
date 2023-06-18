@@ -230,9 +230,6 @@ function word_click(item) {
     if (item.indexOf("left") >= 0) {
         play_sound_esp($(item + '_txt').innerText);
         // play_sound_esp($(item + "_txt").innerText);
-    } else if (prev_item.indexOf("left") >= 0) {
-        play_sound_esp($(prev_item + '_txt').innerText);
-        // play_sound_esp($(prev_item + "_txt").innerText);
     }
 
     //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.

@@ -38,7 +38,7 @@ body {
     border-radius: 12px;
     position: absolute;
     /* left: 286px; */
-    top: -8px;
+    top: 56px;
     right: 2%;
 }
 
@@ -70,16 +70,16 @@ body {
     /* padding: 10px 11px 10px 10px; */
     border-radius: 12px;
     position: absolute;
-    /* left: 20px; */
-    /* top: 134px; */
+    left: 2%;
+    top: 95px;
 }
 
 .mi-vi {
-    width: 264px;
-    height: 25px;
-    margin: 7px 0 8px 16px;
+    /* width: 264px; */
+    /* height: 25px; */
+    /* margin: 7px 0 8px 16px; */
     font-family: Arial, sans-serif;
-    font-size: 21px;
+    font-size: 20pt;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -112,9 +112,9 @@ body {
     line-height: 1.29;
     letter-spacing: normal;
     color: #999;
-    position: absolute;
-    left: 2%;
-    top: -64px;
+    /* position: absolute; */
+    /* left: 2%; */
+    /* top: -64px; */
 }
 
 .Rectangle1 {

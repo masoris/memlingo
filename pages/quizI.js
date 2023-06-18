@@ -1,54 +1,3 @@
-function click_btn_easy_hard(easy_or_hard) {
-    email = localStorage.email
-    lang = localStorage.lang
-    course = localStorage.session_course
-
-    carditem = JSON.parse(localStorage.Carditem)
-
-    console.log("localStorage.quiz_count:" + localStorage.quiz_count);
-    quiz_count = parseInt(localStorage.quiz_count) + 1;
-    localStorage.setItem("quiz_count", quiz_count.toString());
-    console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (localStorage.quiz_count >= 10) {
-        window.location.href = "session-finish.html";
-        return;
-    }
-
-    esp_txt = carditem.esp_txt
-    if (easy_or_hard == "easy") {
-        score = 1
-    }
-    else {
-        score = -1
-    }
-
-    // /api/card-next.api
-    //         userid, email, cookie:login_status, lang, course
-    //         output: 
-    //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
-    //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
-    //                voice_img,voice_name,esp_txt.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score });
-    postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
-        responseObj = JSON.parse(responseJSONStr);
-        console.log(responseObj);
-        // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 
-        if (responseObj['resp'] == "OK") {
-            add_carditem(responseObj);
-
-            localStorage.setItem("Carditem", responseJSONStr);
-            window.location.href = responseObj.quiz_card_url;
-        } else {
-            alert('Error' + responseJSONStr);
-        }
-
-    }, function (status, responseText) {
-        alert(responseText);
-        console.error('Error:', status);
-        console.error(responseText);
-    });
-}
-
 
 var j_word = "";
 var k_word = "";
@@ -65,9 +14,8 @@ function click_option(item) { //제시된 여러개의 단어를 클릭한 경�
     }
     // j_word와 k_word가 다 맞았으면 버튼 continue를 켜고 다음 페이지로 진행할 수 있게 한다.
     if ($('j_word').style.color == 'black') {
-        if (k_word == "") {
-            $('btn_continue').value = "Listen and Continue";
-        } else if (k_word != "" && $('k_word').style.color == 'black') {
+        if (k_word == "" || $('k_word').style.color == 'black') {
+            play_sound_esp(JSON.parse(localStorage.Carditem).esp_txt);
             $('btn_continue').value = "Listen and Continue";
         }
 
