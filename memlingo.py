@@ -406,6 +406,8 @@ def card_next():
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
     next_row = []
     nowstr = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time()))
+    oldest_str = ""
+    oldest_row = []
     
     f = open(myprogress_tsv, 'r', encoding='utf-8')
     for i, line in enumerate(f):
@@ -419,15 +421,24 @@ def card_next():
         if row[6] <= nowstr:
             next_row = row
             break
+        if oldest_str == "":
+            oldest_str = row[6]
+            oldest_row = row
+        if row[6] <= oldest_str:
+            oldest_str = row[6]
+            oldest_row = row
     f.close()
     
 
     if len(next_row) < 7:
-        LOG("/api/card_next.api\t%s\t%s\t%s\t%s" % (email, lang, course, "ERROR: Cannot find next row:" + str(next_row)))
-        result = {'resp': 'Fail', 'message': 'Cannot find oldest row:'+str(next_row)}
-        resp = make_response(jsonify(result))
-        resp.set_cookie('login_status', 'loged_out')
-        return resp
+        if len(oldest_row) < 7:
+            LOG("/api/card_next.api\t%s\t%s\t%s\t%s" % (email, lang, course, "ERROR: Cannot find next row:" + str(next_row)))
+            result = {'resp': 'Fail', 'message': 'Cannot find oldest row:'+str(next_row)}
+            resp = make_response(jsonify(result))
+            resp.set_cookie('login_status', 'loged_out')
+            return resp
+        else:
+            next_row = oldest_row
 
     if next_row[6] == '0000-00-00 00:00:00':
         quiz_card_url = './quiz-first.html'

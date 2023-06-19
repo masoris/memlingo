@@ -211,6 +211,7 @@ img.ic_woman_1 {
     /* left: 230px; */
     top: 305px;
     right: 2%;
+    z-index: -100;
 }
 
 .Rectangle-hard {

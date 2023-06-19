@@ -1,0 +1,29 @@
+2023-06-19 16:40:36	/api/similar-words-jk.api	c@c.com	A	ko-kr	mia	nomo
+2023-06-19 16:45:48	/api/similar-words-jk.api	c@c.com	A	ko-kr	nomo	via
+2023-06-19 16:49:49	/api/similar-words-jk.api	c@c.com	A	ko-kr	mia	nomo
+2023-06-19 16:52:11	/api/similar-words-jk.api	c@c.com	A	ko-kr	via	nomo
+2023-06-19 16:53:44	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo, via nomo
+2023-06-19 16:55:52	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo, via nomo
+2023-06-19 16:55:53	/api/put-score.api	c@c.com	A	ko-kr	al vi, al mi	-1
+2023-06-19 16:55:53	/api/playsound.api	c@c.com	female1/al vi, al mi.mp3
+2023-06-19 16:55:56	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-19 16:55:56	/api/playsound.api	c@c.com	female2/vidanta, vidanto.mp3
+2023-06-19 16:55:59	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-06-19 16:55:59	/api/playsound.api	c@c.com	female2/mia, via.mp3
+2023-06-19 16:56:01	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-19 16:56:01	/api/playsound.api	c@c.com	female3/mia nomo, via nomo.mp3
+2023-06-19 16:56:40	/api/playsound.api	c@c.com	female3/mia nomo, via nomo.mp3
+2023-06-19 16:56:41	/api/playsound.api	c@c.com	female3/mia nomo, via nomo.mp3
+2023-06-19 17:14:24	/api/get_course_info.api	c@c.com	ko-kr
+2023-06-19 17:14:26	/api/get_course_info.api	c@c.com	ko-kr
+2023-06-19 17:14:26	/api/session-start.api	c@c.com	ko-kr	A
+2023-06-19 17:14:26	/api/card-next.api	c@c.com	A	ko-kr	vi estas ~	3	./quizF.html	ludoviko
+2023-06-19 17:14:28	/api/playsound.api	c@c.com	ludoviko/vi estas ~.mp3
+2023-06-19 17:14:29	/api/card-next.api	c@c.com	A	ko-kr	saluton	3	./quizD.html	female2
+2023-06-19 17:14:29	/api/similar-words-kor.api	c@c.com	A	ko-kr	안녕하세요
+2023-06-19 17:14:31	/api/put-score-kor.api	c@c.com	A	ko-kr	아침인사, 안녕하세요	-1
+2023-06-19 17:14:33	/api/put-score-kor.api	c@c.com	A	ko-kr	안녕하세요	1
+2023-06-19 17:14:33	/api/playsound.api	c@c.com	ludoviko/saluton.mp3
+2023-06-19 17:14:37	/api/card-next.api	c@c.com	A	ko-kr	nomo	3	./quizF.html	female2
+2023-06-19 17:14:37	/api/playsound.api	c@c.com	ludoviko/saluton.mp3
+2023-06-19 17:14:40	/api/playsound.api	c@c.com	female2/nomo.mp3
