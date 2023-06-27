@@ -1,3 +1,7 @@
+body {
+    height: 1500px;
+}
+
 .Quiz_E-2 {
     width: 360px;
     height: 640px;
@@ -166,7 +170,7 @@ img.ic_close_gray {
     /* width: 264px; */
     /* height: 18px; */
     font-family: Arial, sans-serif;
-    font-size: 16pt;
+    font-size: 20pt;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;

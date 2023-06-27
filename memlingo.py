@@ -135,6 +135,7 @@ def get_course_info():
         user_course['short_description'] = course_infos[course_name]['short_description']
         
         #myprogress.tsv 파일을 읽어서 user_course 객체에 각 진도값을 채워 넣는다
+        started_count = 0
         done_count = 0 # progress는 완료한 것(4이상)과 total_count 사이의 비율을 백분율로 나눈것.
         points = 0 # points는 사용자가 공부한 총 카운트 수 = myprogress.tsv 파일의 count 칼럼의 총합
         familiar_count = 0 #카운트가 5이상인 것들의 갯수
@@ -149,16 +150,23 @@ def get_course_info():
             row = line.strip().split('\t')
             if len(row) < 7:
                 continue
-            if int(row[5].strip()) >= 4: done_count += 1
-            if int(row[5].strip()) >= 5: familiar_count += 1
-            if int(row[5].strip()) >= 6: mastered_count += 1
+            if int(row[5].strip()) >= 6: mastered_count += 1   
+            elif int(row[5].strip()) >= 5: familiar_count += 1  
+            elif int(row[5].strip()) >= 4: done_count += 1                               
+            elif int(row[5].strip()) > 0: started_count += 1
+
             if row[6] != '0000-00-00 00:00:00' and row[6] < now_str: needs_review_count += 1
             total_count += 1
             points += int(row[5].strip())
         f.close()
         user_course['total_count'] = total_count 
         user_course['points'] = points
-        user_course['progress'] = int(float(done_count)/float(total_count)*100.0)
+        progress = 0.0
+        progress += started_count * 0.1
+        progress += done_count * 0.3
+        progress += familiar_count * 0.5
+        progress += mastered_count * 1.0
+        user_course['progress'] = "%.1f" % float(progress/float(total_count)*100.0)
         user_course['needs_review'] = needs_review_count
         user_course['familiar'] = familiar_count #카운트가 5이상인 것들의 갯수
         user_course['mastered'] = mastered_count #카운트가 6이상인 것들의 갯수
@@ -634,14 +642,17 @@ def similar_words_jk():
         if len(row) < 7:
             continue
         esp_txt = row[1]
-        esp_txt = esp_txt.replace(',', ' ,')
-        esp_txt = esp_txt.replace('?', ' ?')
-        esp_txt = esp_txt.replace('.', ' .')
-        esp_txt = esp_txt.replace('~', ' ~')
-        esp_txt = esp_txt.replace('!', ' !')
+        esp_txt = esp_txt.replace(',', ' , ')
+        esp_txt = esp_txt.replace('?', ' ? ')
+        esp_txt = esp_txt.replace('.', ' . ')
+        esp_txt = esp_txt.replace('~', ' ~ ')
+        esp_txt = esp_txt.replace('!', ' ! ')
+        esp_txt = esp_txt.replace('(', ' ( ')
+        esp_txt = esp_txt.replace(')', ' ) ')
+        esp_txt = esp_txt.replace('"', ' " ')
         words = esp_txt.strip().split(' ')
         for word in words:
-            if word in [',', '?', '.', '~', '!', '']:
+            if word in [',', '?', '.', '~', '!', "(", ")", '"', '']:
                 continue
             if not word in similar_words:
                 diff_value_j = get_word_to_word_diff(word, j_word)

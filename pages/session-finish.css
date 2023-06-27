@@ -30,9 +30,11 @@ body {
     /* left: 77px; */
     /* position: relative; */
     top: -51px;
-    font-size: 12pt;
+    font-size: 16pt;
     /* width: calc(94% - 74px); */
     display: flex;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
 }
 
 .Eng_txt {
@@ -42,6 +44,7 @@ body {
     font-size: 12pt;
     /* width: calc(94% - 74px); */
     display: flex;
+    font-family: Arial, sans-serif;
 }
 
 .Rectangle-background {
@@ -226,7 +229,7 @@ img.ic_star_1 {
     /* height: 27px; */
     /* margin: 6px 0 7px 0px; */
     font-family: Arial, sans-serif;
-    font-size: 18pt;
+    font-size: 20pt;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;

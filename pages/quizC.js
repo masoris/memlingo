@@ -100,6 +100,8 @@ function word_click(item) {
         // 맞추면 continue 버튼을 켠다.
         $('btn_continue').disabled = false;
         $('btn_continue').style.color = "white";
+        $('rectangle_listen').style.width = "50%";
+        $('rectangle_continue').style.display = "block";
         // 맞추면 progress bar를 한 칸 진전시킨다.
         max_cards = 11;
         percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
@@ -150,6 +152,8 @@ window.onload = function () {
     }
 
     $('btn_continue').onclick = click_continue;
+    $('rectangle_listen').style.width = "100%";
+    $('rectangle_continue').style.display = "none";
 
     //progress_bar를 현재 quiz_count에 맞게 적용한다.
     max_cards = 11;

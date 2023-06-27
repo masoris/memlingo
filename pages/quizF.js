@@ -89,7 +89,15 @@ window.onload = function () {
         $('btn_easy').disabled = false;
         $('btn_hard').style.color = "white";
         $('btn_easy').style.color = "white";
+        $('rectangle_hard').style.display = "block";
+        $('rectangle_easy').style.display = "block";
+        $('btn_hard').style.display = "block";
+        $('btn_easy').style.display = "block";
     }
+    $('rectangle_hard').style.display = "none";
+    $('rectangle_easy').style.display = "none";
+    $('btn_hard').style.display = "none";
+    $('btn_easy').style.display = "none";
 
     $('esp_txt').innerText = carditem.esp_txt;
     // $('eng_txt').innerText = carditem.eng_txt;

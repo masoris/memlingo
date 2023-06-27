@@ -138,12 +138,12 @@ window.onload = function () {
     $('kor_txt').innerText = carditem.kor_txt;
 
     $('voice_img').src = carditem.voice_img_url;
-    esp_txt2 = carditem.esp_txt.replace(",", " ,").replace("?", " ?").replace("!", " !").replace("~", " ~").replace(".", " .").replace("(", " ( ").replace(")", " )");
+    esp_txt2 = carditem.esp_txt.replace(/,/g, " , ").replace(/\?/g, " ? ").replace(/!/g, " ! ").replace(/~/g, " ~ ").replace(/\./g, " . ").replace(/\(/g, " ( ").replace(/\)/g, " ) ").replace(/"/g, ' " ');
     esp_txt_words = esp_txt2.trim().replace(/  /g, " ").split(" ");
 
     //랜덤하게 두 개의 단어(j, k)를 선택해서 그 단어는 안 보이게 가린다.
     var j = Math.floor(Math.random() * (esp_txt_words.length));
-    var arr = [",", "?", "!", "~", ".", ""];
+    var arr = [",", "?", "!", "~", ".", "(", ")", '"', ""];
     var wrd = esp_txt_words[j];
     while (arr.includes(wrd)) { //특수 문자 단어는 j로 선택되지 않도록 한다.
         j = Math.floor(Math.random() * (esp_txt_words.length));
