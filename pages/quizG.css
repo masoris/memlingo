@@ -334,17 +334,18 @@ img.ic_close_gray {
 }
 
 .Rectangle-listen {
-    width: 100%;
+    width: 96%;
     height: 60px;
     /* margin: 96px 0 0; */
     /* padding: 19px 20px 20px; */
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
     position: fixed;
-    left: 0;
+    left: 2%;
     /* top: 468px; */
-    bottom: 0px;
+    bottom: 10px;
     /* display: flex; */
+    border-radius: 10px;
 }
 
 .Listen-and-continue {
@@ -375,4 +376,5 @@ img.ic_close_gray {
     color: white;
     border-width: 0;
     font-weight: bold;
+    border-radius: 10px;
 }

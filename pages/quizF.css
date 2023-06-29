@@ -162,20 +162,21 @@ img.ic_woman_1 {
 }
 
 .Rectangle-hard {
-    width: calc(50% - 1px);
+    width: calc(48% - 1px);
     height: 60px;
     /* margin: 270px 10px 10px 0;
     padding: 13px 20px 14px; */
     border-radius: 2px;
     background-color: #4c5b75;
     position: fixed;
-    left: 0px;
+    left: 2%;
     /* top: 524px; */
-    bottom: 60px;
+    bottom: 70px;
+    border-radius: 10px;
 }
 
 .Rectangle-easy {
-    width: 50%;
+    width: 48%;
     height: 60px;
     /* margin: 270px 0 10px 10px;
     padding: 13px 20px 14px; */
@@ -184,7 +185,8 @@ img.ic_woman_1 {
     position: fixed;
     left: 50%;
     /* top: 524px; */
-    bottom: 60px;
+    bottom: 70px;
+    border-radius: 10px;
 }
 
 .Submit-hard {
@@ -201,6 +203,7 @@ img.ic_woman_1 {
     color: #fff;
     background-color: #4c5b75;
     border-width: 0;
+    border-radius: 10px;
 }
 
 .Submit-easy {
@@ -218,19 +221,21 @@ img.ic_woman_1 {
     color: #fff;
     background-color: #4c5b75;
     border-width: 0;
+    border-radius: 10px;
 }
 
 .Rectangle-listen {
-    width: 100%;
+    width: 96%;
     height: 60px;
     /* margin: 10px 0 0; */
     /* padding: 19px 20px 20px; */
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
     position: fixed;
-    left: 0px;
+    left: 2%;
     /* top: 580px; */
-    bottom: 0;
+    bottom: 10px;
+    border-radius: 10px;
 }
 
 .Listen {
@@ -247,4 +252,5 @@ img.ic_woman_1 {
     color: #fff;
     background-color: #03bf6b;
     border-width: 0;
+    border-radius: 10px;
 }

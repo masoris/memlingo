@@ -30,6 +30,8 @@ window.onload = function () {
     }
     call_session_finish_api();
 
+    display_language_str();
+
     $('btn_continue').onclick = click_continue;
 
     carditems = JSON.parse(localStorage.Carditems);

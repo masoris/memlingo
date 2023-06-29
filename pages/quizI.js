@@ -111,6 +111,8 @@ window.onload = function () {
         return;
     }
 
+    display_language_str();
+
     carditem = JSON.parse(localStorage.Carditem)
 
     $('btn_quit').onclick = function () {

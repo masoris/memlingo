@@ -276,16 +276,17 @@ img.ic_woman_1 {
 }
 
 .Rectangle-listen {
-    width: 100%;
+    width: 96%;
     height: 60px;
     /* margin: 10px 0 0; */
     /* padding: 19px 20px 20px; */
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #03bf6b;
     position: fixed;
-    left: 0px;
+    left: 2%;
     /* top: 580px; */
-    bottom: 0;
+    bottom: 10px;
+    border-radius: 10px;
 }
 
 .Listen {
@@ -302,4 +303,5 @@ img.ic_woman_1 {
     color: #fff;
     background-color: #03bf6b;
     border-width: 0;
+    border-radius: 10px;
 }

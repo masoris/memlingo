@@ -53,10 +53,12 @@ function display_message() {
     if ($('lang').value == 'ko-kr') {
         $('email1').placeholder = "이메일 주소를 입력해 주세요.";
         $('email2').placeholder = "이메일 주소를 한 번 더 입력해 주세요.";
+        $('span_message_email_twice').innerText = "이메일을 두 번 입력해주세요.";
     }
     else {
         $('email1').placeholder = "Type in your e-mail adress.";
         $('email2').placeholder = "Type in your e-mail adress again.";
+        $('span_message_email_twice').innerText = "Enter your e-mail twice.";
     }
 }
 
@@ -82,6 +84,8 @@ window.onload = function () {
     $('btn_login').disabled = true;
     $('btn_login').style.backgroundColor = "#03bf6b";
     $('btn_login').style.color = "#03bf6b";
+
+    display_language_str();
 
     $('btn_login').onclick = onlogin_click;
     $('email2').onchange = function (event) {
@@ -124,6 +128,7 @@ window.onload = function () {
 
     $('lang').onchange = function () {
         display_message();
+        display_language_str();
     }
     display_message();
 

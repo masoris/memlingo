@@ -71,6 +71,8 @@ window.onload = function () {
 
     carditem = JSON.parse(localStorage.Carditem)
 
+    display_language_str();
+
     $('btn_quit').onclick = function () {
         window.location.href = "./user-courses.html";
     }

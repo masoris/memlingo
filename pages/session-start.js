@@ -105,6 +105,8 @@ window.onload = function () {
         return;
     }
 
+    display_language_str();
+
     get_course_info(update_course_info);
 
     $('back_to_user_courses').onclick = function () {

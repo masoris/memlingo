@@ -337,19 +337,20 @@ img.ic_star_1 {
 }
 
 .Rectangle4 {
-    width: 100%;
+    width: 96%;
     height: 60px;
     /* margin: 1112px 0 0; */
     /* padding: 19px 20px 20px; */
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #4c5b75;
     position: fixed;
-    /* left: 0px; */
+    left: 2%;
     /* top: 651px; */
-    bottom: 0px;
+    bottom: 10px;
     align-items: center;
     justify-content: center;
     display: flex;
+    border-radius: 10px;
 }
 
 .Start-Learning {
@@ -369,4 +370,5 @@ img.ic_star_1 {
     top: 131px;
     background-color: #4c5b75;
     border-width: 0;
+    border-radius: 10px;
 }

@@ -67,11 +67,22 @@ function update_course_info() {
 
 }
 
+function display_message() {
+    if ($('lang').value == 'ko-kr') {
+        $('span_learn_by_examples').innerText = "예제를 통한 에스페란토 학습";
+    }
+    else {
+        $('span_learn_by_examples').innerText = "Learn Esperanto by Examples";
+    }
+}
+
 window.onload = function () {
     if (getCookie('login_status') != 'success') {
         window.location.href = "./login.html";
         return;
     }
+
+    display_language_str();
 
     get_course_info(update_course_info);
 
@@ -88,16 +99,10 @@ window.onload = function () {
         localStorage.setItem('session_course', "C");
         window.location.href = "./session-start.html";
     }
-    //   $('btn_saluton').onclick = saluton_click;
-    //   $('welcome_msg').onmouseover = function(){
-    //     $('welcome_msg').innerHTML = "<B>" + $('welcome_msg').innerHTML + "</B>";
-    //   };
-    //   $('welcome_msg').onmouseout = function(){
-    //     len = $('welcome_msg').innerHTML.length;
-    //     $('welcome_msg').innerHTML =  $('welcome_msg').innerHTML.substring(3, len-4);
-    //   };
 
-    // $('welcome_msg').innerText = 'Welcome. You are now logged in as '+localStorage.getItem('user');
-
+    $('lang').onchange = function () {
+        display_message();
+    }
+    display_message();
 };
 

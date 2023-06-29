@@ -370,15 +370,16 @@ img.ic_star_1 {
 }
 
 .Rectangle-continue {
-    width: 100%;
+    width: 96%;
     height: 60px;
     /* margin: 50px auto; */
     /* padding: 19px 20px 20px; */
     /* box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2); */
     background-color: #4c5b75;
     position: fixed;
-    bottom: 0;
-    left: 0;
+    bottom: 10px;
+    left: 2%;
+    border-radius: 10px;
 }
 
 .Continue {
@@ -395,4 +396,5 @@ img.ic_star_1 {
     color: #fff;
     background-color: #4c5b75;
     border-width: 0;
+    border-radius: 10px;
 }

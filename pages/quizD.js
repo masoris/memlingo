@@ -151,6 +151,8 @@ window.onload = function () {
         window.location.href = "./user-courses.html";
     }
 
+    display_language_str();
+
     $('btn_continue').onclick = click_continue;
     $('btn_continue').style.display = "none";
     $('rectangle_listen').style.display = "none";

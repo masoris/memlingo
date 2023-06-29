@@ -102,7 +102,8 @@ function word_click(item) {
         $('btn_continue').disabled = false;
         $('btn_continue').style.color = "white";
         $('rectangle_continue').style.display = "block";
-        $('rectangle_listen').style.width = "50%";
+        $('rectangle_listen').style.width = "96%";
+        $('rectangle_listen').style.display = "none";
         // 맞추면 progress bar를 한 칸 진전시킨다.
         max_cards = 11;
         percent = Math.floor(((parseFloat(localStorage.quiz_count) + 2.0) / max_cards) * 100);
@@ -148,13 +149,15 @@ window.onload = function () {
         return;
     }
 
+    display_language_str();
+
     $('btn_quit').onclick = function () {
         window.location.href = "./user-courses.html";
     }
 
     $('btn_continue').onclick = click_continue;
     $('rectangle_continue').style.display = "none";
-    $('rectangle_listen').style.width = "100%";
+    $('rectangle_listen').style.width = "96%";
 
     // 맞추면 progress bar를 한 칸 진전시킨다.
     max_cards = 11;
