@@ -24,10 +24,6 @@ function click_btn_easy_hard(easy_or_hard) {
     quiz_count = parseInt(localStorage.quiz_count) + 1;
     localStorage.setItem("quiz_count", quiz_count.toString());
     console.log("localStorage.quiz_count2:" + localStorage.quiz_count);
-    if (quiz_count >= 10) {
-        window.location.href = "session-finish.html";
-        return;
-    }
 
     esp_txt = carditem.esp_txt
     if (easy_or_hard == "easy") {
@@ -36,6 +32,13 @@ function click_btn_easy_hard(easy_or_hard) {
     else {
         score = -1
     }
+
+    if (quiz_count >= 10) {
+        play_sound_esp_next_url(esp_txt, "session-finish.html");
+        // window.location.href = "session-finish.html";
+        return;
+    }
+
 
     // /api/card-next.api
     //         userid, email, cookie:login_status, lang, course
@@ -52,7 +55,8 @@ function click_btn_easy_hard(easy_or_hard) {
             add_carditem(responseObj);
 
             localStorage.setItem("Carditem", responseJSONStr);
-            window.location.href = responseObj.quiz_card_url;
+            play_sound_esp_next_url(esp_txt, responseObj.quiz_card_url);
+            // window.location.href = responseObj.quiz_card_url;
         } else {
             alert('Error' + responseJSONStr);
         }

@@ -75,17 +75,22 @@ function play_sound_esp_next_url(esp_txt, next_url) {
             audio.addEventListener('ended', function () {
                 audio.currentTime = 0;
                 is_playing = false;
-                $("btn_continue").disabled = false;
+                if ($("btn_continue") != null) {
+                    $("btn_continue").disabled = false;
+                }
                 if (next_url != "") {
                     window.location.href = next_url;
                 }
             });
             audio.play();
             is_playing = true;
-            $("btn_continue").disabled = true;
+            if ($("btn_continue") != null) {
+                $("btn_continue").disabled = true;
+            }
         } catch (e) {
             is_playing = false;
-            $("btn_continue").disabled = false;
+            if ($("btn_continue") != null)
+                $("btn_continue").disabled = false;
             if (next_url != "") {
                 window.location.href = next_url;
             }

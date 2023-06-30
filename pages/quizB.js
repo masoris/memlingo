@@ -283,10 +283,30 @@ window.onload = function () {
     $('right_2').onclick = function () { if (!("right_2" in disabled_right) && !is_playing) word_click('right_2'); };
     $('right_3').onclick = function () { if (!("right_3" in disabled_right) && !is_playing) word_click('right_3'); };
     $('right_4').onclick = function () { if (!("right_4" in disabled_right) && !is_playing) word_click('right_4'); };
-    $('left_1').onclick = function () { if (!("left_1" in disabled) && !is_playing) word_click('left_1'); };
-    $('left_2').onclick = function () { if (!("left_2" in disabled) && !is_playing) word_click('left_2'); };
-    $('left_3').onclick = function () { if (!("left_3" in disabled) && !is_playing) word_click('left_3'); };
-    $('left_4').onclick = function () { if (!("left_4" in disabled) && !is_playing) word_click('left_4'); };
+    $('left_1').onclick = function () {
+        if (!("left_1" in disabled) && !is_playing) word_click('left_1');
+        else if (!is_playing) {
+            play_sound_esp($("left_1_txt").innerText);
+        }
+    };
+    $('left_2').onclick = function () {
+        if (!("left_2" in disabled) && !is_playing) word_click('left_2');
+        else if (!is_playing) {
+            play_sound_esp($("left_2_txt").innerText);
+        }
+    };
+    $('left_3').onclick = function () {
+        if (!("left_3" in disabled) && !is_playing) word_click('left_3');
+        else if (!is_playing) {
+            play_sound_esp($("left_3_txt").innerText);
+        }
+    };
+    $('left_4').onclick = function () {
+        if (!("left_4" in disabled) && !is_playing) word_click('left_4');
+        else if (!is_playing) {
+            play_sound_esp($("left_4_txt").innerText);
+        }
+    };
 
 };
 

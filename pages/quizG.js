@@ -91,6 +91,7 @@ const selected_color = '#03bf6b';
 const default_color = '#49c0f8';
 const wrong_color = '#ff5c58';
 const disabled_color = '#dddddd';
+var disabled = {};
 
 function word_click(item) {
     esp_txt_card = JSON.parse(localStorage.Carditem).esp_txt;
@@ -126,21 +127,27 @@ function word_click(item) {
             }
             $(block_i + '_border').style.borderColor = disabled_color;
             $(block_i).style.backgroundColor = disabled_color;
-            $(block_i).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
+            disabled[block_i] = true;
+            // $(block_i).style.pointerEvents = "none"; //해당 div 사각형이 눌러지지 않게 한다.
         }
         esp_txt = JSON.parse(localStorage.Carditem).esp_txt;
         return;
     }
 
-    //매칭이 안되면 현재 아이템 색깔을 wrong색깔로 바꾼다.
-    $(item + '_border').style.borderColor = wrong_color;
-    $(item).style.backgroundColor = wrong_color;
+    if (!(item in disabled)) {
+        //매칭이 안되면 현재 아이템 색깔을 wrong색깔로 바꾼다.
+        $(item + '_border').style.borderColor = wrong_color;
+        $(item).style.backgroundColor = wrong_color;
+    }
+
 
     //만약에 이전에 틀린 항목이 있으면 그것도 꺼버린다.
     wrong_prev_item = localStorage.getItem("wrong_prev_item");
     if (wrong_prev_item != "") {
-        $(wrong_prev_item + '_border').style.borderColor = default_color;
-        $(wrong_prev_item).style.backgroundColor = default_color;
+        if (!(wrong_prev_item in disabled)) {
+            $(wrong_prev_item + '_border').style.borderColor = default_color;
+            $(wrong_prev_item).style.backgroundColor = default_color;
+        }
         localStorage.wrong_prev_item = "";
     }
 

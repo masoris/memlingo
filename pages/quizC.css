@@ -43,7 +43,7 @@ body {
 }
 
 .Select-what-you-hear {
-    width: 320px;
+    /* width: 320px; */
     height: 30px;
     /* margin: 20px 20px 16px; */
     font-family: Arial, sans-serif;
@@ -60,7 +60,7 @@ body {
 }
 
 .Area2 {
-    width: 100%;
+    width: 96%;
     height: 40px;
     margin: 0 0 2px;
     position: absolute;

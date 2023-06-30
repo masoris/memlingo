@@ -1,0 +1,126 @@
+2023-06-30 06:42:20	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-06-30 06:42:20	/api/get_course_info.api	a@a.com	ko-kr
+2023-06-30 06:42:21	/api/get_course_info.api	a@a.com	ko-kr
+2023-06-30 06:42:22	/api/session-start.api	a@a.com	ko-kr	A
+2023-06-30 06:42:22	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	3	./quizI.html	female3
+2023-06-30 06:42:22	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2023-06-30 16:53:25	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-06-30 16:53:25	/api/get_course_info.api	c@c.com	ko-kr
+2023-06-30 16:53:26	/api/get_course_info.api	c@c.com	ko-kr
+2023-06-30 16:53:27	/api/session-start.api	c@c.com	ko-kr	A
+2023-06-30 16:53:27	/api/card-next.api	c@c.com	A	ko-kr	estas, estis	6	./quizH.html	ludoviko
+2023-06-30 16:53:27	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 16:53:37	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-06-30 16:56:04	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 16:56:30	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-06-30 16:57:03	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 16:57:20	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 16:57:35	/api/similar-words-jk.api	c@c.com	A	ko-kr	estis	
+2023-06-30 16:58:48	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 16:58:54	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-06-30 17:02:20	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-06-30 17:02:28	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-06-30 17:03:28	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 17:03:34	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-06-30 17:04:07	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 17:04:13	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 17:04:18	/api/similar-words-jk.api	c@c.com	A	ko-kr	estas	
+2023-06-30 17:04:46	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 17:05:38	/api/playsound.api	c@c.com	female2/estis, estos.mp3
+2023-06-30 17:12:33	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-06-30 17:12:34	/api/playsound.api	c@c.com	ludoviko/estis, estos.mp3
+2023-06-30 17:12:36	/api/put-score.api	c@c.com	A	ko-kr	estis, estos	-1
+2023-06-30 17:12:37	/api/put-score.api	c@c.com	A	ko-kr	estis, estos	1
+2023-06-30 17:12:37	/api/playsound.api	c@c.com	female2/estis, estos.mp3
+2023-06-30 17:12:39	/api/playsound.api	c@c.com	female1/estis, estos.mp3
+2023-06-30 17:12:42	/api/playsound.api	c@c.com	male1/estis, estos.mp3
+2023-06-30 17:12:46	/api/playsound.api	c@c.com	female3/estis, estos.mp3
+2023-06-30 17:12:54	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-06-30 17:12:56	/api/put-score-kor.api	c@c.com	A	ko-kr	(현재) 감사한다, (과거) 감사했다	-1
+2023-06-30 17:13:00	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-06-30 17:13:09	/api/playsound.api	c@c.com	ludoviko/estas, estis.mp3
+2023-06-30 17:13:16	/api/card-next.api	c@c.com	A	ko-kr	vi estas ~	4	./quizC.html	female3
+2023-06-30 17:13:16	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신은 ~ 이다
+2023-06-30 17:16:24	/api/playsound.api	c@c.com	female3/vi estas ~.mp3
+2023-06-30 17:16:25	/api/card-next.api	c@c.com	A	ko-kr	saluton	5	./quizI.html	male3
+2023-06-30 17:16:25	/api/playsound.api	c@c.com	female3/vi estas ~.mp3
+2023-06-30 17:16:31	/api/card-next.api	c@c.com	A	ko-kr	saluton, mi estas ~	5	./quizC.html	male1
+2023-06-30 17:16:31	/api/playsound.api	c@c.com	male1/saluton.mp3
+2023-06-30 17:16:33	/api/playsound.api	c@c.com	male3/saluton.mp3
+2023-06-30 17:18:18	/api/playsound.api	c@c.com	male1/saluton, mi estas ~.mp3
+2023-06-30 17:18:20	/api/card-next.api	c@c.com	A	ko-kr	mia, via	2	./quizF.html	ludoviko
+2023-06-30 17:18:20	/api/playsound.api	c@c.com	female2/saluton, mi estas ~.mp3
+2023-06-30 17:18:25	/api/playsound.api	c@c.com	ludoviko/mia, via.mp3
+2023-06-30 17:18:26	/api/card-next.api	c@c.com	A	ko-kr	nomo	3	./quizE.html	female2
+2023-06-30 17:18:28	/api/playsound.api	c@c.com	female2/nomo.mp3
+2023-06-30 17:18:29	/api/card-next.api	c@c.com	A	ko-kr	mia nomo, via nomo	6	./quizG.html	ludoviko
+2023-06-30 17:18:29	/api/playsound.api	c@c.com	female2/nomo.mp3
+2023-06-30 17:18:30	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo, via nomo
+2023-06-30 17:18:36	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-30 17:18:36	/api/playsound.api	c@c.com	female3/mia nomo, via nomo.mp3
+2023-06-30 17:21:13	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo, via nomo
+2023-06-30 17:21:13	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-30 17:21:13	/api/playsound.api	c@c.com	female3/mia nomo, via nomo.mp3
+2023-06-30 17:21:15	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-06-30 17:21:15	/api/playsound.api	c@c.com	male1/mia, via.mp3
+2023-06-30 17:21:17	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-30 17:21:17	/api/playsound.api	c@c.com	male3/vidanta, vidanto.mp3
+2023-06-30 17:21:19	/api/put-score.api	c@c.com	A	ko-kr	al vi, al mi	-1
+2023-06-30 17:21:19	/api/playsound.api	c@c.com	female2/al vi, al mi.mp3
+2023-06-30 17:21:21	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-30 17:21:21	/api/playsound.api	c@c.com	female2/vidanta, vidanto.mp3
+2023-06-30 17:21:27	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-06-30 17:21:27	/api/playsound.api	c@c.com	male3/mia, via.mp3
+2023-06-30 17:21:29	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-30 17:21:29	/api/playsound.api	c@c.com	male3/mia nomo, via nomo.mp3
+2023-06-30 17:23:52	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo, via nomo
+2023-06-30 17:23:53	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-30 17:23:53	/api/playsound.api	c@c.com	male2/mia nomo, via nomo.mp3
+2023-06-30 17:23:55	/api/put-score.api	c@c.com	A	ko-kr	al vi, al mi	-1
+2023-06-30 17:23:55	/api/playsound.api	c@c.com	female3/al vi, al mi.mp3
+2023-06-30 17:23:57	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-30 17:23:57	/api/playsound.api	c@c.com	male2/vidanta, vidanto.mp3
+2023-06-30 17:23:59	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-06-30 17:23:59	/api/playsound.api	c@c.com	male1/mia, via.mp3
+2023-06-30 17:24:01	/api/put-score.api	c@c.com	A	ko-kr	al vi, al mi	-1
+2023-06-30 17:24:01	/api/playsound.api	c@c.com	male1/al vi, al mi.mp3
+2023-06-30 17:25:21	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo, via nomo
+2023-06-30 17:25:22	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-30 17:25:22	/api/playsound.api	c@c.com	male3/mia nomo, via nomo.mp3
+2023-06-30 17:25:24	/api/put-score.api	c@c.com	A	ko-kr	al vi, al mi	-1
+2023-06-30 17:25:24	/api/playsound.api	c@c.com	male2/al vi, al mi.mp3
+2023-06-30 17:25:26	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-30 17:25:26	/api/playsound.api	c@c.com	female2/vidanta, vidanto.mp3
+2023-06-30 17:25:28	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-06-30 17:25:28	/api/playsound.api	c@c.com	female1/mia, via.mp3
+2023-06-30 17:25:30	/api/put-score.api	c@c.com	A	ko-kr	al vi, al mi	-1
+2023-06-30 17:25:30	/api/playsound.api	c@c.com	male1/al vi, al mi.mp3
+2023-06-30 17:25:31	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-30 17:25:31	/api/playsound.api	c@c.com	male3/vidanta, vidanto.mp3
+2023-06-30 17:27:20	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo, via nomo
+2023-06-30 17:27:22	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-30 17:27:22	/api/playsound.api	c@c.com	female1/mia nomo, via nomo.mp3
+2023-06-30 17:27:32	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-30 17:27:32	/api/playsound.api	c@c.com	male3/vidanta, vidanto.mp3
+2023-06-30 17:30:15	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo, via nomo
+2023-06-30 17:30:17	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-30 17:30:17	/api/playsound.api	c@c.com	ludoviko/mia nomo, via nomo.mp3
+2023-06-30 17:30:21	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-06-30 17:30:21	/api/playsound.api	c@c.com	female1/mia, via.mp3
+2023-06-30 17:30:24	/api/playsound.api	c@c.com	female2/vidanta, vidanto.mp3
+2023-06-30 17:30:24	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-30 17:30:26	/api/put-score.api	c@c.com	A	ko-kr	al vi, al mi	-1
+2023-06-30 17:30:26	/api/playsound.api	c@c.com	female3/al vi, al mi.mp3
+2023-06-30 17:30:38	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo, via nomo
+2023-06-30 17:30:43	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-06-30 17:30:43	/api/playsound.api	c@c.com	ludoviko/mia, via.mp3
+2023-06-30 17:30:45	/api/put-score.api	c@c.com	A	ko-kr	al vi, al mi	-1
+2023-06-30 17:30:45	/api/playsound.api	c@c.com	female1/al vi, al mi.mp3
+2023-06-30 17:30:47	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-30 17:30:47	/api/playsound.api	c@c.com	female3/vidanta, vidanto.mp3
+2023-06-30 17:30:49	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-06-30 17:30:49	/api/playsound.api	c@c.com	male1/mia nomo, via nomo.mp3
+2023-06-30 17:30:52	/api/put-score.api	c@c.com	A	ko-kr	vidanta, vidanto	-1
+2023-06-30 17:30:52	/api/playsound.api	c@c.com	male3/vidanta, vidanto.mp3
+2023-06-30 17:30:56	/api/card-next.api	c@c.com	A	ko-kr	mia nomo estas ~	1	./quizF.html	male2
+2023-06-30 17:30:56	/api/playsound.api	c@c.com	ludoviko/mia nomo, via nomo.mp3
