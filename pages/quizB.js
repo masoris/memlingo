@@ -253,7 +253,8 @@ window.onload = function () {
         return;
     }
 
-    display_language_str();
+    display_message();
+    // display_language_str();
 
     $('btn_quit').onclick = function () {
         window.location.href = "./user-courses.html";

@@ -97,9 +97,9 @@ function word_click(item) {
         $(item).style.backgroundColor = selected_color;
 
         // 맞추면 continue 버튼을 켠다.
-        $('btn_continue').disabled = false;
-        $('btn_continue').style.color = "white";
-        $('btn_continue').style.display = "block";
+        $('btn_listen_continue').disabled = false;
+        $('btn_listen_continue').style.color = "white";
+        $('btn_listen_continue').style.display = "block";
         $('rectangle_listen').style.display = "block";
 
         // 맞추면 progress bar를 한 칸 진전시킨다.
@@ -151,10 +151,11 @@ window.onload = function () {
         window.location.href = "./user-courses.html";
     }
 
-    display_language_str();
+    display_message();
+    // display_language_str();
 
-    $('btn_continue').onclick = click_continue;
-    $('btn_continue').style.display = "none";
+    $('btn_listen_continue').onclick = click_continue;
+    $('btn_listen_continue').style.display = "none";
     $('rectangle_listen').style.display = "none";
 
     // 맞추면 progress bar를 한 칸 진전시킨다.
@@ -178,8 +179,8 @@ window.onload = function () {
 
 
     //처음에는 continue버튼이 눌러지지 않게 시작한다.
-    $('btn_continue').disabled = true;
-    $('btn_continue').style.color = "#03bf6b";
+    $('btn_listen_continue').disabled = true;
+    $('btn_listen_continue').style.color = "#03bf6b";
 
     $('block_1').onclick = function () { word_click('block_1'); };
     $('block_2').onclick = function () { word_click('block_2'); };

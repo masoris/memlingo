@@ -104,8 +104,8 @@ window.onload = function () {
         window.location.href = "./login.html";
         return;
     }
-
-    display_language_str();
+    display_message();
+    // display_language_str();
 
     get_course_info(update_course_info);
 

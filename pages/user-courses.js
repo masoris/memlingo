@@ -67,14 +67,14 @@ function update_course_info() {
 
 }
 
-function display_message() {
-    if ($('lang').value == 'ko-kr') {
-        $('span_learn_by_examples').innerText = "예제를 통한 에스페란토 학습";
-    }
-    else {
-        $('span_learn_by_examples').innerText = "Learn Esperanto by Examples";
-    }
-}
+// function display_message() {
+//     if ($('lang').value == 'ko-kr') {
+//         $('span_learn_by_examples').innerText = "예제를 통한 에스페란토 학습";
+//     }
+//     else {
+//         $('span_learn_by_examples').innerText = "Learn Esperanto by Examples";
+//     }
+// }
 
 window.onload = function () {
     if (getCookie('login_status') != 'success') {
@@ -82,7 +82,7 @@ window.onload = function () {
         return;
     }
 
-    display_language_str();
+    // display_language_str();
 
     get_course_info(update_course_info);
 
@@ -100,9 +100,16 @@ window.onload = function () {
         window.location.href = "./session-start.html";
     }
 
+    if (localStorage.getItem("lang") == null) {
+        localStorage.setItem("lang") = "ko-kr";
+    }
+    $("lang").value = localStorage.lang;
+
     $('lang').onchange = function () {
+        localStorage.lang = $('lang').value;
         display_message();
     }
+
     display_message();
 };
 

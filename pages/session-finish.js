@@ -30,11 +30,16 @@ window.onload = function () {
     }
     call_session_finish_api();
 
+
     display_language_str();
 
     $('btn_continue').onclick = click_continue;
 
     carditems = JSON.parse(localStorage.Carditems);
+
+    user_courses = JSON.parse(localStorage.user_courses);
+    course_name = user_courses[localStorage.session_course].name;
+    $("course_name").innerText = course_name;
 
     for (i = 0; i < carditems.length && i < 10; i++) {
         carditem = carditems[i];

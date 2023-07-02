@@ -1,0 +1,200 @@
+2023-07-02 15:13:17	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-07-02 15:13:17	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:13:18	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:13:19	/api/session-start.api	c@c.com	ko-kr	A
+2023-07-02 15:13:19	/api/card-next.api	c@c.com	A	ko-kr	mia, via	2	./quizH.html	ludoviko
+2023-07-02 15:13:19	/api/similar-words.api	c@c.com	A	ko-kr	mia, via
+2023-07-02 15:13:26	/api/playsound.api	c@c.com	ludoviko/mia, via.mp3
+2023-07-02 15:13:43	/api/card-next.api	c@c.com	A	ko-kr	nomo	4	./quizD.html	ludoviko
+2023-07-02 15:13:43	/api/similar-words-kor.api	c@c.com	A	ko-kr	이름
+2023-07-02 15:16:58	/api/playsound.api	c@c.com	ludoviko/nomo.mp3
+2023-07-02 15:17:00	/api/card-next.api	c@c.com	A	ko-kr	mia nomo estas ~	1	./quizF.html	female1
+2023-07-02 15:17:00	/api/playsound.api	c@c.com	male3/nomo.mp3
+2023-07-02 15:17:02	/api/playsound.api	c@c.com	female1/mia nomo estas ~.mp3
+2023-07-02 15:17:03	/api/card-next.api	c@c.com	A	ko-kr	via nomo estas ~	1	./quizD.html	ludoviko
+2023-07-02 15:17:03	/api/playsound.api	c@c.com	female2/mia nomo estas ~.mp3
+2023-07-02 15:17:05	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신의 이름은 ~입니다
+2023-07-02 15:17:32	/api/playsound.api	c@c.com	ludoviko/via nomo estas ~.mp3
+2023-07-02 15:17:52	/api/card-next.api	c@c.com	A	ko-kr	fartas, fartis	6	./quizF.html	ludoviko
+2023-07-02 15:17:52	/api/playsound.api	c@c.com	male3/via nomo estas ~.mp3
+2023-07-02 15:17:56	/api/playsound.api	c@c.com	ludoviko/fartas, fartis.mp3
+2023-07-02 15:17:59	/api/card-next.api	c@c.com	A	ko-kr	estis, estos	4	./quizI.html	female2
+2023-07-02 15:17:59	/api/playsound.api	c@c.com	male3/fartas, fartis.mp3
+2023-07-02 15:18:00	/api/similar-words-jk.api	c@c.com	A	ko-kr	estos	
+2023-07-02 15:18:06	/api/playsound.api	c@c.com	female1/estis, estos.mp3
+2023-07-02 15:18:08	/api/card-next.api	c@c.com	A	ko-kr	nomo, nomon	1	./quizF.html	male3
+2023-07-02 15:18:08	/api/playsound.api	c@c.com	male2/estis, estos.mp3
+2023-07-02 15:18:12	/api/playsound.api	c@c.com	male3/nomo, nomon.mp3
+2023-07-02 15:18:14	/api/card-next.api	c@c.com	A	ko-kr	mia amo	1	./quizG.html	female1
+2023-07-02 15:18:14	/api/playsound.api	c@c.com	male1/nomo, nomon.mp3
+2023-07-02 15:18:16	/api/similar-words.api	c@c.com	A	ko-kr	mia amo
+2023-07-02 15:20:00	/api/similar-words.api	c@c.com	A	ko-kr	mia amo
+2023-07-02 15:20:08	/api/put-score.api	c@c.com	A	ko-kr	mia amo	1
+2023-07-02 15:20:08	/api/playsound.api	c@c.com	male2/mia amo.mp3
+2023-07-02 15:20:10	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-07-02 15:20:10	/api/playsound.api	c@c.com	male3/mia, via.mp3
+2023-07-02 15:20:10	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-07-02 15:20:10	/api/playsound.api	c@c.com	male1/mia, via.mp3
+2023-07-02 15:20:12	/api/card-next.api	c@c.com	A	ko-kr	mia nomo estas ~	1	./quizH.html	female1
+2023-07-02 15:20:12	/api/playsound.api	c@c.com	ludoviko/mia amo.mp3
+2023-07-02 15:20:13	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo estas ~
+2023-07-02 15:21:28	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo estas ~
+2023-07-02 15:21:29	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo estas ~
+2023-07-02 15:21:29	/api/similar-words.api	c@c.com	A	ko-kr	mia nomo estas ~
+2023-07-02 15:21:34	/api/playsound.api	c@c.com	male2/mia nomo estas ~.mp3
+2023-07-02 15:21:36	/api/put-score.api	c@c.com	A	ko-kr	mia nomo estas ~	1
+2023-07-02 15:21:36	/api/playsound.api	c@c.com	female1/mia nomo estas ~.mp3
+2023-07-02 15:21:39	/api/card-next.api	c@c.com	A	ko-kr	vi fartas	1	./quizH.html	male1
+2023-07-02 15:21:39	/api/playsound.api	c@c.com	female2/mia nomo estas ~.mp3
+2023-07-02 15:21:41	/api/similar-words.api	c@c.com	A	ko-kr	vi fartas
+2023-07-02 15:21:44	/api/playsound.api	c@c.com	ludoviko/vi fartas.mp3
+2023-07-02 15:21:47	/api/put-score.api	c@c.com	A	ko-kr	vi fartas	1
+2023-07-02 15:21:47	/api/playsound.api	c@c.com	female1/vi fartas.mp3
+2023-07-02 15:21:49	/api/playsound.api	c@c.com	female3/vi fartas.mp3
+2023-07-02 15:21:50	/api/session-finish.api	c@c.com	ko-kr	A
+2023-07-02 15:21:54	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:21:55	/api/session-start.api	c@c.com	ko-kr	A
+2023-07-02 15:21:55	/api/card-next.api	c@c.com	A	ko-kr	kiel	1	./quizI.html	ludoviko
+2023-07-02 15:21:55	/api/similar-words-jk.api	c@c.com	A	ko-kr	kiel	
+2023-07-02 15:21:59	/api/playsound.api	c@c.com	female1/kiel.mp3
+2023-07-02 15:22:01	/api/card-next.api	c@c.com	A	ko-kr	kiel vi fartas?	0	./quiz-first.html	female3
+2023-07-02 15:22:01	/api/playsound.api	c@c.com	female1/kiel.mp3
+2023-07-02 15:22:02	/api/similar-words-jk.api	c@c.com	A	ko-kr	fartas	vi
+2023-07-02 15:22:06	/api/playsound.api	c@c.com	male1/kiel vi fartas?.mp3
+2023-07-02 15:22:11	/api/card-next.api	c@c.com	A	ko-kr	kio	0	./quiz-first.html	ludoviko
+2023-07-02 15:22:11	/api/playsound.api	c@c.com	female3/kiel vi fartas?.mp3
+2023-07-02 15:22:13	/api/similar-words-jk.api	c@c.com	A	ko-kr	kio	
+2023-07-02 15:22:16	/api/playsound.api	c@c.com	ludoviko/kio.mp3
+2023-07-02 15:22:17	/api/card-next.api	c@c.com	A	ko-kr	kio estas via nomo?	0	./quiz-first.html	female1
+2023-07-02 15:22:17	/api/playsound.api	c@c.com	male3/kio.mp3
+2023-07-02 15:22:18	/api/similar-words-jk.api	c@c.com	A	ko-kr	via	estas
+2023-07-02 15:22:23	/api/playsound.api	c@c.com	female3/kio estas via nomo?.mp3
+2023-07-02 15:22:28	/api/card-next.api	c@c.com	A	ko-kr	bona, bone	0	./quiz-first.html	male2
+2023-07-02 15:22:28	/api/playsound.api	c@c.com	male2/kio estas via nomo?.mp3
+2023-07-02 15:22:30	/api/similar-words-jk.api	c@c.com	A	ko-kr	bone	
+2023-07-02 15:22:33	/api/playsound.api	c@c.com	female3/bona, bone.mp3
+2023-07-02 15:22:35	/api/card-next.api	c@c.com	A	ko-kr	fartas bone	0	./quiz-first.html	male2
+2023-07-02 15:22:35	/api/playsound.api	c@c.com	female2/bona, bone.mp3
+2023-07-02 15:22:36	/api/similar-words-jk.api	c@c.com	A	ko-kr	bone	
+2023-07-02 15:22:39	/api/playsound.api	c@c.com	male2/fartas bone.mp3
+2023-07-02 15:22:41	/api/card-next.api	c@c.com	A	ko-kr	mi fartas bone	0	./quiz-first.html	female2
+2023-07-02 15:22:41	/api/playsound.api	c@c.com	male1/fartas bone.mp3
+2023-07-02 15:22:42	/api/similar-words-jk.api	c@c.com	A	ko-kr	mi	
+2023-07-02 15:22:45	/api/playsound.api	c@c.com	female2/mi fartas bone.mp3
+2023-07-02 15:22:48	/api/card-next.api	c@c.com	A	ko-kr	kaj	0	./quiz-first.html	ludoviko
+2023-07-02 15:22:48	/api/playsound.api	c@c.com	male3/mi fartas bone.mp3
+2023-07-02 15:22:49	/api/similar-words-jk.api	c@c.com	A	ko-kr	kaj	
+2023-07-02 15:22:52	/api/playsound.api	c@c.com	female1/kaj.mp3
+2023-07-02 15:22:53	/api/card-next.api	c@c.com	A	ko-kr	bone, kaj vi?	0	./quiz-first.html	female2
+2023-07-02 15:22:53	/api/playsound.api	c@c.com	ludoviko/kaj.mp3
+2023-07-02 15:22:54	/api/similar-words-jk.api	c@c.com	A	ko-kr	vi	kaj
+2023-07-02 15:22:57	/api/playsound.api	c@c.com	male3/bone, kaj vi?.mp3
+2023-07-02 15:23:00	/api/card-next.api	c@c.com	A	ko-kr	ĝis ~	0	./quiz-first.html	ludoviko
+2023-07-02 15:23:00	/api/playsound.api	c@c.com	female1/bone, kaj vi?.mp3
+2023-07-02 15:23:02	/api/similar-words-jk.api	c@c.com	A	ko-kr	ĝis	
+2023-07-02 15:23:04	/api/playsound.api	c@c.com	female1/ĝis ~.mp3
+2023-07-02 15:23:05	/api/playsound.api	c@c.com	female1/ĝis ~.mp3
+2023-07-02 15:23:06	/api/session-finish.api	c@c.com	ko-kr	A
+2023-07-02 15:23:07	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:23:09	/api/session-start.api	c@c.com	ko-kr	A
+2023-07-02 15:23:09	/api/card-next.api	c@c.com	A	ko-kr	ĝis ~	0	./quiz-first.html	ludoviko
+2023-07-02 15:23:09	/api/similar-words-jk.api	c@c.com	A	ko-kr	ĝis	
+2023-07-02 15:23:12	/api/playsound.api	c@c.com	female2/ĝis ~.mp3
+2023-07-02 15:23:13	/api/card-next.api	c@c.com	A	ko-kr	vidas, vidis	0	./quiz-first.html	ludoviko
+2023-07-02 15:23:13	/api/playsound.api	c@c.com	male2/ĝis ~.mp3
+2023-07-02 15:23:14	/api/similar-words-jk.api	c@c.com	A	ko-kr	vidis	
+2023-07-02 15:23:15	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:25:29	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:25:33	/api/session-start.api	c@c.com	ko-kr	C
+2023-07-02 15:25:33	/api/card-next.api	c@c.com	C	ko-kr	amo	3	./quizB.html	ludoviko
+2023-07-02 15:25:33	/api/similar-words.api	c@c.com	C	ko-kr	amo
+2023-07-02 15:28:01	/api/session-finish.api	c@c.com	ko-kr	C
+2023-07-02 15:28:43	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:28:43	/api/session-start.api	c@c.com	ko-kr	C
+2023-07-02 15:28:43	/api/card-next.api	c@c.com	C	ko-kr	amo	3	./quizD.html	female1
+2023-07-02 15:28:44	/api/similar-words-kor.api	c@c.com	C	ko-kr	사랑
+2023-07-02 15:28:46	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:28:47	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:28:49	/api/session-start.api	c@c.com	ko-kr	A
+2023-07-02 15:28:49	/api/card-next.api	c@c.com	A	ko-kr	kiel vi fartas?	1	./quizI.html	male2
+2023-07-02 15:28:49	/api/similar-words-jk.api	c@c.com	A	ko-kr	vi	fartas
+2023-07-02 15:28:55	/api/similar-words.api	c@c.com	A	ko-kr	kiel vi fartas?
+2023-07-02 15:29:03	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신은 어떻게 지내세요?
+2023-07-02 15:30:28	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신은 어떻게 지내세요?
+2023-07-02 15:30:33	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신은 어떻게 지내세요?
+2023-07-02 15:31:30	/api/playsound.api	c@c.com	male2/kiel vi fartas?.mp3
+2023-07-02 15:31:39	/api/similar-words.api	c@c.com	A	ko-kr	kiel vi fartas?
+2023-07-02 15:31:46	/api/similar-words.api	c@c.com	A	ko-kr	kiel vi fartas?
+2023-07-02 15:31:53	/api/similar-words-jk.api	c@c.com	A	ko-kr	kiel	vi
+2023-07-02 15:32:07	/api/similar-words.api	c@c.com	A	ko-kr	kiel vi fartas?
+2023-07-02 15:32:37	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 15:32:41	/api/logout.api	c@c.com	ko-kr	A
+2023-07-02 16:18:54	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-07-02 16:18:54	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:20:51	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:21:14	/api/logout.api	c@c.com	ko-kr	A
+2023-07-02 16:21:22	/api/login.api	c@c.com	c@c.com	en-us
+2023-07-02 16:21:22	/api/get_course_info.api	c@c.com	en-us
+2023-07-02 16:23:08	/api/logout.api	c@c.com	en-us	A
+2023-07-02 16:23:15	/api/login.api	c@c.com	c@c.com	en-us
+2023-07-02 16:23:15	/api/get_course_info.api	c@c.com	en-us
+2023-07-02 16:26:32	/api/logout.api	c@c.com	en-us	A
+2023-07-02 16:26:37	/api/login.api	c@c.com	c@c.com	en-us
+2023-07-02 16:26:37	/api/get_course_info.api	c@c.com	en-us
+2023-07-02 16:26:49	/api/logout.api	c@c.com	ko-kr	A
+2023-07-02 16:27:02	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-07-02 16:27:02	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:27:08	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:30:15	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:30:30	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:30:35	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:30:40	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:31:34	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:34:35	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-02 16:35:00	/api/session-start.api	c@c.com	ko-kr	A
+2023-07-02 16:35:00	/api/card-next.api	c@c.com	A	ko-kr	mia, via	2	./quizE.html	ludoviko
+2023-07-02 16:35:05	/api/similar-words.api	c@c.com	A	ko-kr	mia, via
+2023-07-02 16:38:55	/api/similar-words.api	c@c.com	A	ko-kr	mia, via
+2023-07-02 16:38:57	/api/playsound.api	c@c.com	female2/mi, vi.mp3
+2023-07-02 16:38:59	/api/playsound.api	c@c.com	female1/mi, vi.mp3
+2023-07-02 16:38:59	/api/put-score.api	c@c.com	A	ko-kr	mi, vi	1
+2023-07-02 16:39:01	/api/playsound.api	c@c.com	male2/mia, via.mp3
+2023-07-02 16:39:02	/api/put-score.api	c@c.com	A	ko-kr	mia, via	-1
+2023-07-02 16:39:03	/api/put-score.api	c@c.com	A	ko-kr	mia, via	1
+2023-07-02 16:39:03	/api/playsound.api	c@c.com	female3/mia, via.mp3
+2023-07-02 16:39:05	/api/playsound.api	c@c.com	male1/al vi, al mi.mp3
+2023-07-02 16:39:08	/api/put-score.api	c@c.com	A	ko-kr	al vi, al mi	1
+2023-07-02 16:39:08	/api/playsound.api	c@c.com	female2/al vi, al mi.mp3
+2023-07-02 16:39:10	/api/playsound.api	c@c.com	male3/mia nomo, via nomo.mp3
+2023-07-02 16:39:12	/api/put-score.api	c@c.com	A	ko-kr	mia nomo, via nomo	1
+2023-07-02 16:39:12	/api/playsound.api	c@c.com	ludoviko/mia nomo, via nomo.mp3
+2023-07-02 16:39:16	/api/card-next.api	c@c.com	A	ko-kr	via nomo estas ~	2	./quizB.html	female3
+2023-07-02 16:39:16	/api/similar-words.api	c@c.com	A	ko-kr	via nomo estas ~
+2023-07-02 16:39:24	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신의 이름은 ~입니다
+2023-07-02 16:44:27	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신의 이름은 ~입니다
+2023-07-02 16:44:33	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신의 이름은 ~입니다
+2023-07-02 16:45:17	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신의 이름은 ~입니다
+2023-07-02 16:45:55	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신의 이름은 ~입니다
+2023-07-02 16:47:01	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신의 이름은 ~입니다
+2023-07-02 16:47:08	/api/playsound.api	c@c.com	ludoviko/via nomo estas ~.mp3
+2023-07-02 16:56:36	/api/similar-words-kor.api	c@c.com	A	ko-kr	당신의 이름은 ~입니다
+2023-07-02 16:56:40	/api/put-score-kor.api	c@c.com	A	ko-kr	나의 이름은 ~입니다	-1
+2023-07-02 16:56:42	/api/playsound.api	c@c.com	male2/via nomo estas ~.mp3
+2023-07-02 16:56:44	/api/put-score-kor.api	c@c.com	A	ko-kr	당신은 ~ 이다	-1
+2023-07-02 16:56:45	/api/put-score-kor.api	c@c.com	A	ko-kr	당신의 이름은 ~입니다	1
+2023-07-02 16:56:45	/api/playsound.api	c@c.com	male1/via nomo estas ~.mp3
+2023-07-02 16:56:49	/api/card-next.api	c@c.com	A	ko-kr	nomo, nomon	2	./quizC.html	ludoviko
+2023-07-02 16:56:49	/api/playsound.api	c@c.com	male3/via nomo estas ~.mp3
+2023-07-02 16:56:51	/api/similar-words-kor.api	c@c.com	A	ko-kr	이름, 이름을
+2023-07-02 16:57:01	/api/similar-words-kor.api	c@c.com	A	ko-kr	이름, 이름을
+2023-07-02 16:59:40	/api/similar-words-kor.api	c@c.com	A	ko-kr	이름, 이름을
+2023-07-02 17:03:42	/api/similar-words-kor.api	c@c.com	A	ko-kr	이름, 이름을
+2023-07-02 17:05:25	/api/similar-words-kor.api	c@c.com	A	ko-kr	이름, 이름을
+2023-07-02 17:05:29	/api/put-score-kor.api	c@c.com	A	ko-kr	이름, 이름을	1
+2023-07-02 17:05:29	/api/playsound.api	c@c.com	male1/nomo, nomon.mp3
+2023-07-02 17:05:34	/api/card-next.api	c@c.com	A	ko-kr	vi fartas	2	./quizG.html	male1
+2023-07-02 17:05:34	/api/playsound.api	c@c.com	ludoviko/nomo, nomon.mp3
+2023-07-02 17:05:35	/api/similar-words.api	c@c.com	A	ko-kr	vi fartas
+2023-07-02 17:05:47	/api/card-next.api	c@c.com	A	ko-kr	kiel	2	./quizB.html	ludoviko
+2023-07-02 17:05:47	/api/playsound.api	c@c.com	male3/vi fartas.mp3
+2023-07-02 17:05:49	/api/similar-words.api	c@c.com	A	ko-kr	kiel

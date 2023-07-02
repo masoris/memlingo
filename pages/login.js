@@ -49,33 +49,8 @@ function enable_disable_login_button() {
     }
 };
 
-function display_message() {
-    if ($('lang').value == 'ko-kr') {
-        $('email1').placeholder = "이메일 주소를 입력해 주세요.";
-        $('email2').placeholder = "이메일 주소를 한 번 더 입력해 주세요.";
-        $('span_message_email_twice').innerText = "이메일을 두 번 입력해주세요.";
-    }
-    else {
-        $('email1').placeholder = "Type in your e-mail adress.";
-        $('email2').placeholder = "Type in your e-mail adress again.";
-        $('span_message_email_twice').innerText = "Enter your e-mail twice.";
-    }
-}
 
 
-// Fullscreen API를 사용하여 전체 화면으로 표시합니다.
-// function enterFullscreen() {
-//     var element = document.getElementById("myElement");
-//     if (element.requestFullscreen) {
-//         element.requestFullscreen();
-//     } else if (element.mozRequestFullScreen) {
-//         element.mozRequestFullScreen();
-//     } else if (element.webkitRequestFullscreen) {
-//         element.webkitRequestFullscreen();
-//     } else if (element.msRequestFullscreen) {
-//         element.msRequestFullscreen();
-//     }
-// }
 
 
 window.onload = function () {
@@ -85,7 +60,7 @@ window.onload = function () {
     $('btn_login').style.backgroundColor = "#03bf6b";
     $('btn_login').style.color = "#03bf6b";
 
-    display_language_str();
+
 
     $('btn_login').onclick = onlogin_click;
     $('email2').onchange = function (event) {
@@ -126,10 +101,15 @@ window.onload = function () {
         $('lang').value = 'ko-kr';
     }
 
-    $('lang').onchange = function () {
-        display_message();
-        display_language_str();
+    if (localStorage.getItem("lang") == null) {
+        localStorage.setItem("lang") = "ko-kr";
     }
-    display_message();
+    $("lang").value = localStorage.lang;
 
+    $('lang').onchange = function () {
+        localStorage.lang = $('lang').value;
+        display_message();
+    }
+
+    display_message();
 };
