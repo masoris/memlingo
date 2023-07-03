@@ -170,35 +170,35 @@ function get_course_info(update_course_info) {
     });
 }
 
-var lang_str = {
-    "ko-kr": {
-        "Listen and fill blanks.": "듣고 빈칸을 채우세요.",
-        "Match correct pairs.": "짝을 맞추세요.",
-        "Choose the level how you feel about this.": "이것이 쉽나요? 어렵나요?",
-        "Select what you hear.": "들은 것을 선택하세요.",
-        "Select correct one.": "맞는 것을 선택하세요.",
-        "You have just learned these words.": "방금 학습하신 목록입니다.",
-    }
-}
+// var lang_str = {
+//     "ko-kr": {
+//         "Listen and fill blanks.": "듣고 빈칸을 채우세요.",
+//         "Match correct pairs.": "짝을 맞추세요.",
+//         "Choose the level how you feel about this.": "이것이 쉽나요? 어렵나요?",
+//         "Select what you hear.": "들은 것을 선택하세요.",
+//         "Select correct one.": "맞는 것을 선택하세요.",
+//         "You have just learned these words.": "방금 학습하신 목록입니다.",
+//     }
+// }
 
-function display_language_str() {
-    var lang = localStorage.getItem("lang");
-    // 모든 span 요소 가져오기
-    var spanElements = document.getElementsByTagName("span");
+// function display_language_str() {
+//     var lang = localStorage.getItem("lang");
+//     // 모든 span 요소 가져오기
+//     var spanElements = document.getElementsByTagName("span");
 
-    // 가져온 span 요소를 반복하여 작업 수행
-    for (var i = 0; i < spanElements.length; i++) {
-        var span = spanElements[i];
-        var txt = span.innerText;
-        console.log(txt);
-        if (lang in lang_str) {
-            if (txt in lang_str[lang]) {
-                span.innerText = lang_str[lang][txt];
-            }
-        }
+//     // 가져온 span 요소를 반복하여 작업 수행
+//     for (var i = 0; i < spanElements.length; i++) {
+//         var span = spanElements[i];
+//         var txt = span.innerText;
+//         console.log(txt);
+//         if (lang in lang_str) {
+//             if (txt in lang_str[lang]) {
+//                 span.innerText = lang_str[lang][txt];
+//             }
+//         }
 
-    }
-}
+//     }
+// }
 
 
 var lang_msgs = {
@@ -217,6 +217,13 @@ var lang_msgs = {
         "btn_continue": "다음",
         "btn_listen_continue": "듣고 다음으로",
         "btn_listen": "들어보기",
+        "btn_hard": "어려워요",
+        "btn_easy": "쉬워요",
+        "btn_login": "로그인",
+        "Btn_StartA": "학습시작",
+        "Btn_StartB": "학습시작",
+        "Btn_StartC": "학습시작",
+        "Btn_logout": "로그아웃",
     },
     "en-us": {
         "type_e-mail": "Type in your e-mail adress.",
@@ -233,6 +240,13 @@ var lang_msgs = {
         "btn_continue": "Continue",
         "btn_listen_continue": "Listen and Continue",
         "btn_listen": "Listen",
+        "btn_hard": "Hard for me",
+        "btn_easy": "Easy to me",
+        "btn_login": "Login",
+        "Btn_StartA": "Start Learning",
+        "Btn_StartB": "Start Learning",
+        "Btn_StartC": "Start Learning",
+        "Btn_logout": "Logout",
     }
 };
 
@@ -275,6 +289,16 @@ function display_message() {
     display_msg("btn_listen", "value", "btn_listen");
     display_msg("select_what_you_hear", "innerText", "select_what_you_hear");
     display_msg("select_correct_one", "innerText", "select_correct_one");
+    display_msg("choose_the_level", "innerText", "choose_the_level");
+    display_msg("btn_hard", "value", "btn_hard");
+    display_msg("btn_easy", "value", "btn_easy");
+    display_msg("listen_and_fill", "innerText", "listen_and_fill");
+    display_msg("learned_these_words", "innerText", "learned_these_words");
+    display_msg("btn_login", "value", "btn_login");
+    display_msg("Btn_StartA", "value", "Btn_StartA");
+    display_msg("Btn_StartB", "value", "Btn_StartB");
+    display_msg("Btn_StartC", "value", "Btn_StartC");
+    display_msg("Btn_logout", "value", "Btn_logout");
 
     // if ($('lang').value == 'ko-kr') {
     //     $('email1').placeholder = "이메일 주소를 입력해 주세요.";

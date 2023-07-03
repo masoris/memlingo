@@ -77,7 +77,8 @@ window.onload = function () {
         return;
     }
 
-    display_language_str();
+    // display_language_str();
+    display_message();
 
     carditem = JSON.parse(localStorage.Carditem)
 

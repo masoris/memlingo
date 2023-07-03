@@ -99,8 +99,8 @@ function word_click(item) {
         $(item).style.backgroundColor = selected_color;
 
         // 맞추면 continue 버튼을 켠다.
-        $('btn_continue').disabled = false;
-        $('btn_continue').style.color = "white";
+        $('btn_listen_continue').disabled = false;
+        $('btn_listen_continue').style.color = "white";
         $('rectangle_continue').style.display = "block";
         $('rectangle_listen').style.width = "96%";
         $('rectangle_listen').style.display = "none";
@@ -149,13 +149,14 @@ window.onload = function () {
         return;
     }
 
-    display_language_str();
+    // display_language_str();
+    display_message();
 
     $('btn_quit').onclick = function () {
         window.location.href = "./user-courses.html";
     }
 
-    $('btn_continue').onclick = click_continue;
+    $('btn_listen_continue').onclick = click_continue;
     $('rectangle_continue').style.display = "none";
     $('rectangle_listen').style.width = "96%";
 
@@ -181,8 +182,8 @@ window.onload = function () {
     }
 
     //처음에는 continue버튼이 눌러지지 않게 시작한다.
-    $('btn_continue').disabled = true;
-    $('btn_continue').style.color = "#4c5b75";
+    $('btn_listen_continue').disabled = true;
+    $('btn_listen_continue').style.color = "#4c5b75";
 
     $('block_1').onclick = function () { word_click('block_1'); };
     $('block_2').onclick = function () { word_click('block_2'); };

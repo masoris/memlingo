@@ -1,4 +1,4 @@
-
+var correct_answer = false;
 var j_word = "";
 var k_word = "";
 function click_option(item) { //제시된 여러개의 단어를 클릭한 경우 
@@ -17,7 +17,9 @@ function click_option(item) { //제시된 여러개의 단어를 클릭한 경�
     if ($('j_word').style.color == 'black') {
         if (k_word == "" || $('k_word').style.color == 'black') {
             play_sound_esp(JSON.parse(localStorage.Carditem).esp_txt);
-            $('btn_continue').value = "Listen and Continue";
+            // $('btn_continue').value = "Listen and Continue";
+            display_msg("btn_continue", "value", "btn_listen_continue");
+            correct_answer = true;
         }
 
         // 맞추면 progress bar를 한 칸 진전시킨다.
@@ -112,7 +114,8 @@ window.onload = function () {
         return;
     }
 
-    display_language_str();
+    // display_language_str();
+    display_message();
 
     carditem = JSON.parse(localStorage.Carditem)
 
@@ -124,11 +127,12 @@ window.onload = function () {
         play_sound_url(carditem.mp3_url);
     }
 
+    display_msg("btn_continue", "value", "btn_listen");
     $('btn_continue').onclick = function () {
         $('eng_txt').innerText = carditem.eng_txt;
         $('kor_txt').innerText = carditem.kor_txt;
 
-        if ($('btn_continue').value == "Listen and Continue") {
+        if (correct_answer) {
             click_continue();
         }
         else {

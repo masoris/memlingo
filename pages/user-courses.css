@@ -16,6 +16,13 @@ body {
     display: flex;
 }
 
+.Rectangle-lang {
+    color: white;
+    left: 4%;
+    position: relative;
+    font-weight: bold;
+}
+
 .Rectangle-Background {
     width: 100%;
     /* height: 1784px; */

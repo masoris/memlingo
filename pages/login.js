@@ -6,7 +6,7 @@ function isValidEmail(email) {
 function onlogin_click() {
     const email1 = $('email1').value;
     const email2 = $('email2').value;
-    const lang = $('lang').value;
+    const lang = localStorage.lang;
     if (email1 != email2 || !isValidEmail(email1)) {
         alert("Email1 is not same with Email2 or Invalid Email format")
         return
@@ -49,7 +49,12 @@ function enable_disable_login_button() {
     }
 };
 
+function lang_changed() {
+    var selected_lang = document.querySelector('input[name="lang"]:checked').value;
+    localStorage.lang = selected_lang;
+    display_message();
 
+}
 
 
 
@@ -95,21 +100,35 @@ window.onload = function () {
         $('email1').value = localStorage.getItem('email');
     }
 
+    $("radio-ko-kr").onclick = lang_changed;
+    $("radio-en-us").onclick = lang_changed;
+    $("radio-ja-jp").onclick = lang_changed;
+    $("radio-cn-zh").onclick = lang_changed;
+    $("radio-cn-tw").onclick = lang_changed;
+
+
+
     if (localStorage.getItem('lang') != null) {
-        $('lang').value = localStorage.getItem('lang');
+        var lang = localStorage.getItem('lang');
+        $("radio-" + lang).checked = true;
+
+        // $('lang').value = localStorage.getItem('lang');
+
     } else {
-        $('lang').value = 'ko-kr';
+        $("radio-ko-kr").checked = true;
+
+        // $('lang').value = 'ko-kr';
     }
 
-    if (localStorage.getItem("lang") == null) {
-        localStorage.setItem("lang") = "ko-kr";
-    }
-    $("lang").value = localStorage.lang;
+    // if (localStorage.getItem("lang") == null) {
+    //     localStorage.setItem("lang") = "ko-kr";
+    // }
+    // $("lang").value = localStorage.lang;
 
-    $('lang').onchange = function () {
-        localStorage.lang = $('lang').value;
-        display_message();
-    }
+    // $('lang').onchange = function () {
+    //     localStorage.lang = $('lang').value;
+    //     display_message();
+    // }
 
     display_message();
 };

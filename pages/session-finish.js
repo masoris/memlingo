@@ -30,8 +30,8 @@ window.onload = function () {
     }
     call_session_finish_api();
 
-
-    display_language_str();
+    // display_language_str();
+    display_message();
 
     $('btn_continue').onclick = click_continue;
 

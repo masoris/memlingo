@@ -38,6 +38,10 @@ function onlogout_click() {
 
 function update_course_info() {
     user_courses = JSON.parse(localStorage.user_courses);
+    if (user_courses.A == null) {
+        alert("user_courses not available");
+        return
+    }
     $('CourseA_name').innerText = user_courses.A.name;
     $('CourseA_short_description').innerText = user_courses.A.short_description;
     $('CourseA_familiar').innerText = user_courses.A.familiar;
@@ -65,6 +69,13 @@ function update_course_info() {
     $('CourseC_progress').innerText = user_courses.C.progress;
     $('CourseC_total_count').innerText = user_courses.C.total_count;
 
+}
+
+function lang_changed() {
+    var selected_lang = document.querySelector('input[name="lang"]:checked').value;
+    localStorage.lang = selected_lang;
+    display_message();
+    get_course_info(update_course_info);
 }
 
 // function display_message() {
@@ -100,15 +111,35 @@ window.onload = function () {
         window.location.href = "./session-start.html";
     }
 
-    if (localStorage.getItem("lang") == null) {
-        localStorage.setItem("lang") = "ko-kr";
-    }
-    $("lang").value = localStorage.lang;
+    $("radio-ko-kr").onclick = lang_changed;
+    $("radio-en-us").onclick = lang_changed;
+    $("radio-ja-jp").onclick = lang_changed;
+    $("radio-cn-zh").onclick = lang_changed;
+    $("radio-cn-tw").onclick = lang_changed;
 
-    $('lang').onchange = function () {
-        localStorage.lang = $('lang').value;
-        display_message();
+
+
+    if (localStorage.getItem('lang') != null) {
+        var lang = localStorage.getItem('lang');
+        $("radio-" + lang).checked = true;
+
+        // $('lang').value = localStorage.getItem('lang');
+
+    } else {
+        $("radio-ko-kr").checked = true;
+
+        // $('lang').value = 'ko-kr';
     }
+
+    // if (localStorage.getItem("lang") == null) {
+    //     localStorage.setItem("lang") = "ko-kr";
+    // }
+    // $("lang").value = localStorage.lang;
+
+    // $('lang').onchange = function () {
+    //     localStorage.lang = $('lang').value;
+    //     display_message();
+    // }
 
     display_message();
 };

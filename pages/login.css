@@ -10,6 +10,13 @@ body {
     display: flex;
 }
 
+.Rectangle-lang {
+    color: white;
+    left: 4%;
+    position: relative;
+    font-weight: bold;
+}
+
 #lang {
     width: 96%;
     font-size: 15px;

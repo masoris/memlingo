@@ -63,6 +63,11 @@ def create_user(email, lang):
         os.makedirs(user_courses_lang_dir)
 
     # lang/course에 대응 되는 개인별 lang/course의 개인별 progress 를 개인 홈에 만들어 준다.
+    if not os.path.exists("./courses/"+lang):
+        result = {'resp': 'Fail', "message": "folder not found :"+"./courses/"+lang}
+        resp = make_response(jsonify(result))
+        return resp
+
     for course_name in dirs_in("./courses/"+lang): #마스터 코스 목록 lang 하위의 마스터 코스 목록
         master_content_tsv = os.path.join("./courses", lang, course_name, "content.tsv")
         os.makedirs(os.path.join(user_courses_lang_dir, course_name)) #개인 홈 디렉토리 밑에 있는 개인용 코스
@@ -108,6 +113,11 @@ def get_course_info():
     #마스터 lang/코스 별로 course_info.json를 읽어온다
     course_infos = {}
     courses_lang_dir = os.path.join("./courses",lang)
+    if not os.path.exists(courses_lang_dir):
+        result = {'resp': 'Fail', "message": "folder not found :"+courses_lang_dir}
+        resp = make_response(jsonify(result))
+        return resp
+    
     for course_name in dirs_in(courses_lang_dir): #마스터 코스 목록 lang 하위의 마스터 코스 목록
         master_content_tsv = os.path.join("./courses", lang, course_name, "content.tsv")
         course_info_json = courses_lang_dir +'/'+ course_name +'/'+ "course_info.json"
@@ -126,6 +136,11 @@ def get_course_info():
     user_dir = os.path.join("./users", email[0], email)
     user_courses_lang_dir = os.path.join(user_dir, "courses", lang)
     # A, B, C 각각의 디렉토리를 생성한다
+    if not os.path.exists("./courses/"+lang):
+        result = {'resp': 'Fail', "message": "folder not found :"+"./courses/"+lang}
+        resp = make_response(jsonify(result))
+        return resp
+
     for course_name in dirs_in("./courses/"+lang):#마스터 코스 목록 lang 하위의 마스터 코스 목록
         user_course = {} #"subject":subject, "description":description, "short_description":short_description, "points":points, "progress":progress, "total_count":total_count, "needs_review":need_review, "not_seen":not_seen, "familiar":familiar, "mastered":mastered}
         user_course['course_name'] = course_name
@@ -204,6 +219,11 @@ def login():
         return resp
     
     # lang 검증 ./courses 폴더 밑에 lang 이라는 폴더가 있어야함
+    if not os.path.exists("./courses"):
+        result = {'resp': 'Fail', "message": "folder not found :"+"./courses"}
+        resp = make_response(jsonify(result))
+        return resp
+
     if lang not in dirs_in("./courses"):
         result = {'resp': 'Fail', 'message': 'language is not supported'}
         resp = make_response(jsonify(result))
