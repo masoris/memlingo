@@ -1,0 +1,13 @@
+2023-07-04 17:15:51	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-07-04 17:15:51	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-04 17:15:52	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-04 17:15:53	/api/session-start.api	c@c.com	ko-kr	A
+2023-07-04 17:15:53	/api/card-next.api	c@c.com	A	ko-kr	vi estas ~	4	./quizI.html	female3
+2023-07-04 17:15:53	/api/similar-words-jk.api	c@c.com	A	ko-kr	vi	
+2023-07-04 17:15:54	/api/playsound.api	c@c.com	male3/vi estas ~.mp3
+2023-07-04 17:15:57	/api/card-next.api	c@c.com	A	ko-kr	mia, via	4	./quizH.html	male1
+2023-07-04 17:15:57	/api/playsound.api	c@c.com	male2/vi estas ~.mp3
+2023-07-04 17:15:59	/api/similar-words.api	c@c.com	A	ko-kr	mia, via
+2023-07-04 17:16:04	/api/put-score.api	c@c.com	A	ko-kr	mia, via	1
+2023-07-04 17:16:04	/api/playsound.api	c@c.com	female2/mia, via.mp3
+2023-07-04 17:16:07	/api/get_course_info.api	c@c.com	ko-kr

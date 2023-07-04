@@ -20,7 +20,6 @@ Saluton	kio	무엇	what	Saluton	4    	2023-06-28 15:58:14
 Saluton	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	Saluton	2    	2023-06-27 16:11:55
 Saluton	bona, bone	좋은 (형용사), 잘 (부사)	good, well	Saluton	3    	2023-06-27 20:58:17
 Saluton	fartas bone	잘 지낸다 (지내고 있다)	is doing well	Saluton	7    	2023-07-17 16:00:23
-Saluton	mi "fartas" bone	나는 잘 지냅니다	I am doing well	Saluton	2    	2023-06-27 16:43:47
 Saluton	kaj	그리고 (~와, ~과)	and	Saluton	2    	2023-06-13 17:40:27
 Saluton	bone, kaj vi?	좋아요, 당신은요?	fine, and you?	Saluton	1    	2023-06-13 16:35:42
 Saluton	ĝis ~	~ 까지	until ~	Saluton	1    	2023-06-13 16:37:50
@@ -98,3 +97,41 @@ Bonan nokton	skribas sur la skribotablo	그 책상 위에서 쓴다	is writing o
 Bonan nokton	la libroj estas ~	그 책들은 ~이다	the book is ~	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sur la tablo	그 책상 위에	on the table	Bonan nokton	1    	2023-06-13 16:11:38
 Bonan nokton	lernolibro kaj la lernolibroj	교과서와 그 교과서들	a textbook and the textbooks	Bonan nokton	0    	0000-00-00 00:00:00
+Saluton	mi fartas bone	나는 잘 지냅니다	I am doing well	Saluton	0    	0000-00-00 00:00:00
+Amiko	ili nun laboras	그들은 지금 일하고 있다	they are now working	Amiko	0    	0000-00-00 00:00:00
+Amiko	lia patro estas laboristo	그의 아버지는 노동자이다	his father is a worker	Amiko	0    	0000-00-00 00:00:00
+Amiko	li laboras en hotelo	그는 호텔에서 일한다	he works in a hotel	Amiko	0    	0000-00-00 00:00:00
+Amiko	la patrino instruas	그 어머니는 가르친다	the mother teaches	Amiko	0    	0000-00-00 00:00:00
+Amiko	ŝi estas instruistino	그녀는 여선생님이다	she is a teacher	Amiko	0    	0000-00-00 00:00:00
+Amiko	ne, ŝi estas hotelisto	아니오, 그녀는 호텔직원입니다	no, she is an hotelier	Amiko	0    	0000-00-00 00:00:00
+Amiko	ne, mi ne laboras	아니오, 저는 일하지 않습니다	no, I don't work	Amiko	0    	0000-00-00 00:00:00
+Amiko	skribas nun en la ĉambro	그 방안에서 지금 쓰고 있다	is writing now in the room	Amiko	0    	0000-00-00 00:00:00
+La amiko	bonvolu eniri	들어오세요	please come in	La amiko	0    	0000-00-00 00:00:00
+La amiko	mi volas paroli	나는 말하고 싶다	I want to speak	La amiko	0    	0000-00-00 00:00:00
+La amiko	li havas libron	그는 책을 가지고 있다	he has a book	La amiko	0    	0000-00-00 00:00:00
+La amiko	jes, mi havas	예, 나는 가지고 있습니다	yes, I have	La amiko	0    	0000-00-00 00:00:00
+La amiko	ili ŝatas ĝin	그들은 그것을 좋아한다	they like it	La amiko	0    	0000-00-00 00:00:00
+La amiko	ŝi legis libron	그녀는 책을 읽는다	she read a book	La amiko	0    	0000-00-00 00:00:00
+La amiko	la junulo trinkis kafon	그 젊은이는 커피를 마셨다	the youngster drank coffee	La amiko	0    	0000-00-00 00:00:00
+La amiko	patro kaj patrino, gepatroj	아버지, 어머니; 부모님들	a father and a mother; parents	La amiko	0    	0000-00-00 00:00:00
+La amiko	frato kaj fratino, gefratoj	형제와 자매, 형제자매	a bother and a sister, siblings	La amiko	0    	0000-00-00 00:00:00
+La amiko	jen la kafo	여기 커피 있어요	here is the coffee	La amiko	0    	0000-00-00 00:00:00
+La amiko	dankon. tiel li diris	감사합니다. 그렇게 그는 말했다	thank you. so he said.	La amiko	0    	0000-00-00 00:00:00
+En kafejo	ŝi sentis, ke li amas ŝin	그녀는 느꼈다, 그가 그녀를 사랑한다는 것을	she feels that he loves her	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	ne forgesu akuzativon	목적격 접미사를 잊지마	don't forget the accusative ending	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	enhavo estis tre malfacila	내용이 매우 어려웠다	a content is very difficult	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	bonvenon, al la kunveno	환영합니다, 대회에 오신 것을	welcome to the meeting	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	ni eniru kaj manĝu	우리 들어가서 먹자	let's come in and eat	En kafejo	0    	0000-00-00 00:00:00
+Renkonto	kompreneble!	당연히!	of course!	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	tio ne sufiĉas	그것은 충분하지 않다	that is not enough	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	cent dolaroj sufiĉas	백 달러는 충분하다	a hundred dollars is enough	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	portis tion al ni, alportis tion	그것을 우리에게 가져왔다, 그것을 가져왔다	brought that to us, brought that	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	tie, kie ŝi loĝis	거기, 그녀가 살았던 그 곳에	a the place, where she lived	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	nu, vidu la rapidan aŭton	음, 그 빠른 차를 보세요	well, look the fast car	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	li havis rapidan veturilon	그는 빠른 탈것(차)을 가졌다	he has a fast vehicle	Renkonto	0    	0000-00-00 00:00:00
+Miaj Leteroj	pardonu, mi serĉis mian libron	미안해, 나는 내 책을 찾고 있었어	sorry, I was looking for my book.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	sed vi bone scias	그러나 당신은 잘 알고 있잖아요	but you know well	Miaj Leteroj	0    	0000-00-00 00:00:00
+Nova Aŭto	mil ok cent ok dek sep	천 팔백 팔십 칠 (1887)	thousand eight hundred and eighty seven (1887)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	tio plaĉis al mi	그것은 나의 맘에 들었다	that pleased me (I like that)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	tiu, kiu eniris la domon	그사람, 그 집으로 들어간	the one who entered the house	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	ŝi skribas dum li legas	그가 읽고 있는 동안 그녀는 쓴다	she writes while he reads	Nova Aŭto	0    	0000-00-00 00:00:00
