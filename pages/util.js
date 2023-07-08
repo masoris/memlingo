@@ -60,6 +60,24 @@ function play_sound_esp(esp_txt) {
     // }
 }
 
+
+function play_sound_esp_voice(esp_txt, voice) {
+    var email = "hiongun@gmail.com";
+    var url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voice + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
+    try {
+        let audio = new Audio(url);
+        audio.addEventListener('ended', function () {
+            audio.currentTime = 0;
+            is_playing = false;
+        });
+        audio.play();
+        is_playing = true;
+    } catch (e) {
+        is_playing = false;
+        console.log('Failed to load audio file.');
+    }
+}
+
 function play_sound_esp_next_url(esp_txt, next_url) {
     // Fisher-Yates Shuffle 알고리즘
     for (let i = voices.length - 1; i > 0; i--) {

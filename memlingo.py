@@ -835,6 +835,40 @@ def put_score_kor():
     resp = make_response(jsonify(result))
     return resp
 
+@app.route('/tts/get_voices.api', methods=['POST'])
+def get_voices():
+    wordlist = request.json['wordlist']
+
+    word_voice_pairs = []
+    voices = ["male1", "male2", "male3", "female1",
+              "female2", "female3", "ludoviko"]
+
+    for word in wordlist:
+        voice_list = ""
+        for voice in voices:
+            if os.path.exists("./sounds/"+voice+"/"+word+".mp3"):
+                voice_list += voice + ","
+        word_voice_pair = [word, voice_list]
+        word_voice_pairs.append(word_voice_pair)
+
+    result = {'word_voice_pairs': word_voice_pairs}
+
+    resp = make_response(jsonify(result))
+    return resp
+
+@app.route('/tts/del_voice.api', methods=['POST'])
+def del_voice():
+    # cmd = request.json['cmd']
+    esp_txt = request.json['esp_txt']
+    voice = request.json['voice']
+
+    os.remove("./sounds/"+voice+"/"+esp_txt+".mp3")
+
+    result = {'OK': 'deleted'}
+
+    resp = make_response(jsonify(result))
+    return resp
+
 def read_conf():
     svc = {}
     fp = open("svc.conf", "r")

@@ -145,7 +145,7 @@ window.onload = function () {
 
     $('voice_img').src = carditem.voice_img_url;
     esp_txt2 = carditem.esp_txt.replace(/,/g, " , ").replace(/\?/g, " ? ").replace(/!/g, " ! ").replace(/~/g, " ~ ").replace(/\./g, " . ").replace(/\(/g, " ( ").replace(/\)/g, " ) ").replace(/"/g, ' " ');
-    esp_txt_words = esp_txt2.trim().replace(/  /g, " ").split(" ");
+    esp_txt_words = esp_txt2.trim().replace(/ +/g, " ").split(" ");
 
     //랜덤하게 두 개의 단어(j, k)를 선택해서 그 단어는 안 보이게 가린다.
     var j = Math.floor(Math.random() * (esp_txt_words.length));
