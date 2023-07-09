@@ -99,7 +99,7 @@ function click_button(item) {
         esp_txt = C_course[i];
     }
     // alert(esp_txt);
-    var voice = cmd_i_voice[2];
+    var voice = cmd_i_voice[2].replace("new", "");
     var cmd = cmd_i_voice[0];
     if (cmd == 'listen') {
         play_sound_esp_voice(esp_txt, voice);
@@ -153,8 +153,8 @@ function display_voices(wordlist, which) {
                 if (voice == "") {
                     continue;
                 }
-                $(found_i + "_span").innerHTML += "<input type='button' onclick='click_button(this)' id='listen_" + found_i + "_" + voice + "' value='Listen " + voice + "'>";
-                $(found_i + "_span").innerHTML += "<input type='button' onclick='click_button(this)' id='delete_" + found_i + "_" + voice + "' value='Delete " + voice + "'>";
+                $(found_i + "_span").innerHTML += "<input type='button' class='Listen' onclick='click_button(this)' id='listen_" + found_i + "_" + voice + "' value='Listen " + voice + "'>";
+                $(found_i + "_span").innerHTML += "<input type='button' class='Delete' onclick='click_button(this)' id='delete_" + found_i + "_" + voice + "' value='Delete " + voice + "'><br>";
             }
             // if (word == "bedaŭrinde") alert(voice);
 

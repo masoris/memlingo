@@ -25,7 +25,7 @@ function play_sound_url(url) {
     }
 }
 
-var voices = ["male1", "male2", "male3", "female1", "female2", "female3", "ludoviko"];
+var voices = ["male1", "male2", "female1", "female2", "ludoviko"];
 function play_sound_esp(esp_txt) {
     // Fisher-Yates Shuffle 알고리즘
     for (let i = voices.length - 1; i > 0; i--) {

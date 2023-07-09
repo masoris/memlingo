@@ -356,7 +356,7 @@ def playsound():
         filename = "sounds/dingdong.mp3"
     elif not os.path.exists(filename):
         filename = "sounds/dingdong.mp3"
-        voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
+        voicelist = ['male1','male2','female1','female2','ludoviko']
         esp_txt_mp3 = voice_esp_txt_mp3[voice_esp_txt_mp3.find("/") + 1:]
         for voice in voicelist:
             if os.path.exists("sounds/" + voice + "/" + esp_txt_mp3):
@@ -477,7 +477,7 @@ def card_next():
         quiz_card_url = './'+quiz_card+'.html'
 
     #TODO 현재 음성 파일이 없어서 음성 파일들을 생성해서 저장해 놔야함 
-    voicelist = ['male1','male2','male3','female1','female2','female3','ludoviko']
+    voicelist = ['male1','male2','female1','female2','ludoviko']
     mp3list = []
     for voice in voicelist:
         mp3_url = voice+'/'+next_row[1]+'.mp3'
@@ -840,14 +840,18 @@ def get_voices():
     wordlist = request.json['wordlist']
 
     word_voice_pairs = []
-    voices = ["male1", "male2", "male3", "female1",
-              "female2", "female3", "ludoviko"]
+    voices = ["male1", "male2", "female1",
+              "female2", "ludoviko"]
 
     for word in wordlist:
         voice_list = ""
         for voice in voices:
             if os.path.exists("./sounds/"+voice+"/"+word+".mp3"):
-                voice_list += voice + ","
+                last_modified_time = os.path.getmtime("./sounds/"+voice+"/"+word+".mp3")
+                if time.time() - last_modified_time < 24*60*60:
+                    voice_list += voice + "new,"
+                else:
+                    voice_list += voice + ","
         word_voice_pair = [word, voice_list]
         word_voice_pairs.append(word_voice_pair)
 

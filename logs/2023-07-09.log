@@ -1,0 +1,27 @@
+2023-07-09 15:41:58	/api/playsound.api	hiongun@gmail.com	male1/rapide fariĝis ruĝa.mp3
+2023-07-09 15:42:01	/api/playsound.api	hiongun@gmail.com	female1/rapide fariĝis ruĝa.mp3
+2023-07-09 15:42:03	/api/playsound.api	hiongun@gmail.com	ludoviko/rapide fariĝis ruĝa.mp3
+2023-07-09 17:12:12	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-07-09 17:12:13	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-09 17:12:13	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-09 17:12:14	/api/session-start.api	c@c.com	ko-kr	A
+2023-07-09 17:12:14	/api/card-next.api	c@c.com	A	ko-kr	mi estas ~	7	./quizI.html	male1
+2023-07-09 17:12:14	/api/similar-words-jk.api	c@c.com	A	ko-kr	estas	
+2023-07-09 17:12:20	/api/playsound.api	c@c.com	female2/mi estas ~.mp3
+2023-07-09 17:12:22	/api/card-next.api	c@c.com	A	ko-kr	vi estas ~	5	./quizI.html	female1
+2023-07-09 17:12:22	/api/playsound.api	c@c.com	female2/mi estas ~.mp3
+2023-07-09 17:12:23	/api/similar-words-jk.api	c@c.com	A	ko-kr	vi	
+2023-07-09 17:12:25	/api/playsound.api	c@c.com	male1/vi estas ~.mp3
+2023-07-09 17:12:26	/api/card-next.api	c@c.com	A	ko-kr	mia, via	5	./quizE.html	ludoviko
+2023-07-09 17:12:26	/api/playsound.api	c@c.com	male2/vi estas ~.mp3
+2023-07-09 17:12:29	/api/playsound.api	c@c.com	ludoviko/mia, via.mp3
+2023-07-09 17:12:31	/api/card-next.api	c@c.com	A	ko-kr	nomo	5	./quizD.html	female2
+2023-07-09 17:12:31	/api/playsound.api	c@c.com	male1/mia, via.mp3
+2023-07-09 17:12:32	/api/similar-words-kor.api	c@c.com	A	ko-kr	이름
+2023-07-09 17:12:34	/api/put-score-kor.api	c@c.com	A	ko-kr	이름, 이름을	-1
+2023-07-09 17:12:35	/api/put-score-kor.api	c@c.com	A	ko-kr	이름	1
+2023-07-09 17:12:35	/api/playsound.api	c@c.com	female2/nomo.mp3
+2023-07-09 17:12:37	/api/card-next.api	c@c.com	A	ko-kr	mia nomo estas ~	4	./quizI.html	male2
+2023-07-09 17:12:37	/api/playsound.api	c@c.com	male1/nomo.mp3
+2023-07-09 17:12:38	/api/similar-words-jk.api	c@c.com	A	ko-kr	nomo	estas
+2023-07-09 17:12:39	/api/get_course_info.api	c@c.com	ko-kr
