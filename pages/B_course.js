@@ -283,7 +283,6 @@ B_course = [
     'jen, se vi rigardas la kotiztabelon',
     'la kotiztabelo de la IJK-invitilo',
     'vi vidas, ke ~',
-    'temas pri ~',
     'temas pri entute nur 50 eŭroj',
     'vi vidas, ke por vi temas pri entute nur 50 eŭroj',
     'se ni dormas surplanke',
