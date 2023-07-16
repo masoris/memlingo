@@ -150,7 +150,7 @@ Amiko	junaj kaj belaj amikoj	젊고 아름다운 친구들	young and beautiful f
 La amiko	estas geamikoj	남녀 친구들이다	are male-and-female friends	La amiko		
 La amiko	hejmo de ŝia instruisto	그녀의 선생님의 가정	a home of her teacher	La amiko		
 La amiko	venis al la hejmo	그 집으로 왔다	came to the home	La amiko		
-La amiko	la hejmo de ~	~의 가정	the home of ~	La amiko		
+La amiko	la hejmo de ~	~의 가정(집)	the home of ~	La amiko		
 La amiko	bonvolu eniri	들어오세요	please come in	La amiko		bonvolu eniri.
 La amiko	saluton! kion vi faras?	안녕하세요! 뭘 하고 계세요?	hello, what are you doing?	La amiko		
 La amiko	kion vi faras?	뭘 하고 있습니까?	what do you do? what are you doing?	La amiko		
@@ -215,7 +215,7 @@ En kafejo	diris, ke li iros	얘기했다, 그가 갈 것이라고	said, that he 
 En kafejo	malbela kaj malbona	추하고 나쁜	ugly and bad	En kafejo		
 En kafejo	kion ŝi diris?	그녀가 뭘 얘기했는가?	what did she say?	En kafejo		
 En kafejo	kion vi atendas?	너는 무엇을 기다리고 있는가?	what are you waiting for?	En kafejo		
-En kafejo	eniris en la ĉambron	그 방안으로 들어갔다	went into the room	En kafejo		
+En kafejo	eniris en la ĉambron	그 방 안으로 들어갔다	went into the room	En kafejo		
 En kafejo	enhavo estis tre malfacila	내용이 매우 어려웠다	a content is very difficult	En kafejo		enhavo estis tre malfacila.
 En kafejo	alvenis al la kunsido	그 회의에 도착했다	arrived at the meeting	En kafejo		
 En kafejo	bonvenon, al la kunveno	환영합니다, 대회에 오신 것을	welcome to the meeting	En kafejo		bonvenon, al la kunveno.
@@ -296,12 +296,10 @@ Renkonto	ankaŭ ses leteroj revenis	또한 편지 6통이 되돌아왔다	also s
 Renkonto	volis vidi la foton	그 사진을 보고 싶어했다	wanted to see the photo	Renkonto		
 Renkonto	revenis el la lernejo	그 학교로부터 되돌아왔다	came back from the school	Renkonto		
 Renkonto	kiam revenos la fratino?	그 자매는 언제 되돌아올까요?	when will the sister return?	Renkonto		
-Miaj Leteroj	nova, denove	새로운, 다시	new, again	Miaj Leteroj		
 Miaj Leteroj	volis legi denove	다시 읽기를 원했다	wanted to read again	Miaj Leteroj		
 Miaj Leteroj	faris, fariĝis	했다 (만들었다), 되었다	made (did), became	Miaj Leteroj		
 Miaj Leteroj	rapide fariĝis ruĝa	빠르게 빨갛게 되었다	rapidly became red	Miaj Leteroj		
 Miaj Leteroj	en ĉambro, en ĉambron	방안에서, 방안으로	in a room, into a room	Miaj Leteroj		
-Miaj Leteroj	eniris en la ĉambron	방안으로 들어갔다	went into the room	Miaj Leteroj		
 Miaj Leteroj	staris kaj sidis	서있었다 그리고 앉아있었다	stood and sat	Miaj Leteroj		
 Miaj Leteroj	tie staris antaŭ la foto	거기에 서 있었다 사진앞에	there stood in front of the photo	Miaj Leteroj		
 Miaj Leteroj	mi havas tion	나는 그것을 가지고 있다	I have that	Miaj Leteroj		
@@ -520,7 +518,6 @@ Maja	je kioma horo?	몇시에?	at what hour?	Maja
 Maja	je kvina horo	다섯시에	at five o'clock	Maja		
 Maja	je la sesa, li venos	여섯시에 그는 올 것이다	at six he will come	Maja		
 Maja	la libreto estis ĉarma	그 소책자는 매력적이었다	the libretto was charming	Maja		
-Maja	venos por revidi vin	당신을 다시 보기 위해 올 것이다	will come to see you again	Maja		
 Maja	estu trankvila	고요하게 있으라	be quiet	Maja		
 Maja	li estu trankvila	그 사람으로 하여금, 고요하게 있도록 하라	let him be quiet	Maja		
 Maja	ankaŭ li	그도 역시	he too	Maja		
@@ -619,7 +616,6 @@ la strato	vidis nek instruiston nek gelernantojn	선생님도 못봤고, 학생�
 la strato	sidi, eksidi	앉아있다, 앉는다	to sit, to get sitted	la strato		
 la strato	eksidis	앉았다	got seated (had seated)	la strato		
 la strato	li eksidis	그는 앉았다	he got seated	la strato		
-la strato	antaŭ la lernejo	그 학교 앞에	in front of the school	la strato		
 la strato	kaj pensis	그리고 생각했다	and thought	la strato		
 la strato	kio okazis?	무엇이 일어났을까?	what did happen?	la strato		
 la strato	diable	끔찍하게 (악마처럼)	to the awful (like a devil)	la strato		
@@ -682,7 +678,6 @@ la strato	nek li nek ŝi ridis	그도 웃지 않았고, 그녀도 웃지 않았�
 ĉiam Malfrue	la libron, kiun vi atendis	당신이 기다렸던 그 책을	the book which you waited			
 ĉiam Malfrue	tiun, kiun vi atendis pli ol du jarojn	당신이 2년이상 기다렸던 그 것	that, which you waited for more than 2 years			
 ĉiam Malfrue	ĉu vi volas tion?	당신은 그것을 원하느냐?	do you want that?			
-ĉiam Malfrue	ke mi montru al vi	내가 당신에게 보여주기를	that I show to you			
 ĉiam Malfrue	ĉu vi volas, ke ~ ?	당신은 ~하는 것을 원하느냐?	do you want that ~ ?			
 ĉiam Malfrue	plej kara	가장 소중한	dearest			
 ĉiam Malfrue	plej kara foto	가장 소중한 사진	dearest photo			
@@ -737,7 +732,6 @@ Malbela Tago	tiom malsaĝa	그렇게 멍청한	so stupid
 Malbela Tago	ĉu mi estas tiom malsaĝa?	내가 그렇게 멍청한가?	am I that stupid?			
 Malbela Tago	kvankam mi lernis multe	내가 많이 공부했음에도 불구하고	although I learned a lot			
 Malbela Tago	la patrino eniris	어머니가 들어왔다	the mother entered			
-Malbela Tago	eniris en la ĉambron	방 안으로 들어왔다	entered the room			
 Malbela Tago	miaj vortoj	나의 말들	my words			
 Malbela Tago	kaj aŭdis miajn vortojn	그리고 내가 말하는 것들을 들었다	and heard my words			
 Malbela Tago	ŝi tuj respondis	그녀는 즉시 대답했다	she answered immediately			
@@ -865,7 +859,6 @@ Planoj pri Veturado	sed li atendis	그러나 그는 기다렸다	but he waited
 Planoj pri Veturado	kial ni ne ~ ?	우리 ~하지 않을래요?	why don't we ~ ?			
 Planoj pri Veturado	kial ni ne ekveturas?	어째서 우리 출발하지 않나요? (우리 출발합시다)	why don't we start driving?			
 Planoj pri Veturado	ankaŭ mi havas ~	나도 ~를 가지고 있다	I have ~ too			
-Planoj pri Veturado	mi havas sekreton	나는 비밀이 있다	I have a secret			
 Planoj pri Veturado	veturigus la aŭton	그 자동차를 운전하겠지요	would drive the car			
 Planoj pri Veturado	sed mi ne scias ~	그러나 나는 ~를 모릅니다	but I don't know ~			
 Planoj pri Veturado	mi neniam lernis tion	나는 그것을 배운적이 없어요	I never learned that			
@@ -980,7 +973,6 @@ Familianoj kunvenas	mi foriros kun miaj geamikoj	나는 내 남녀 친구들과 
 Familianoj kunvenas	parolos pri ~	~에 대해서 말할 것이다	will talk about ~			
 Familianoj kunvenas	malsukcesa veturado	실패한 차량 이동	a failed drive			
 Familianoj kunvenas	certe parolos pri la malsukcesa veturado	그 실패한 차량 이동에 대해서 확실히 말할 것이다	will definitely talk about the failed drive			
-Familianoj kunvenas	per aŭto	자동차로	by car			
 Familianoj kunvenas	post la kuko	그 과자 다음에	after the cake			
 Familianoj kunvenas	mi ne plu volas tion	나는 더이상 그것을 원하지 않는다	I don't want that anymore			
 Familianoj kunvenas	volas tion aŭdi	그것을 듣고 싶어한다	wants to hear that			
@@ -1284,7 +1276,6 @@ Nokta Promeno	aŭdiĝis tuj proksime	바로 가까이에 들렸다	heard immedia
 Nokta Promeno	li faris belan surlokan salton	그는 근사한 제자리 뛰기를 했다	he made a nice on-site jump			
 Nokta Promeno	kiu movis lian koron	누가 그의 심장을 움직였는가	who moved his heart			
 Nokta Promeno	supren ĝis la buŝo	그 입술까지 위로	upword to the mouth			
-Nokta Promeno	li diris	그는 말했다	he said			
 Nokta Promeno	kun la provo rekapti trankvilon	평안을 되찾기 위한 시도로	with the attempt to recapture calm			
 Nokta Promeno	iom da trankvilo	약간의 평온함	a little tranquility			
 Nokta Promeno	la lumo de lampeto	작은 등잔에서 나오는 그 빛	the light of a lamp			

@@ -188,8 +188,8 @@ filo	volonte	자발적으로, 기뻐서, 기꺼이	willingly (from heart)	NA,4H	
 filo	leginte	읽은 후에	after reading	NA		leginte
 filo	enironte	들어가려고 하는 중에	while about to enter	NA		enironte
 filo	bonvoli	호의를 베풀다, 자발적으로 하다	to will (from heart), to want (from heart)	G9,4H,ZG		bonvoli
-filo	bonvole (~u)	청컨데 (~해 주세요 -u)	please (~u)	NA,4H		bonvole
-filo	bonvolu (-i)	청컨데 (~해 주세요 -i)	please (~i)	NA,ZG		bonvolu
+filo	bonvole -u	청컨데 (~해 주세요 -u)	please (~u)	NA,4H		bonvole
+filo	bonvolu -i	청컨데 (~해 주세요 -i)	please (~i)	NA,ZG		bonvolu
 filo	ĝirafo	기린	a giraffe	NA,4H		ĝirafo
 filo	gitaro	기타 (악기)	a guitar	NA		gitaro
 filo	kaj	그리고, ~와, ~과	and	KO,G1,4H,ZG		kaj
@@ -1494,7 +1494,6 @@ vestiblo	naŭ	9 (아홉)	nine	KO,G1,4H,ZG		naŭ
 	bezono	필요	necessity, need	4H		
 	certe	확실히	certainly	4H		
 	dankinde	고맙게 여겨	in worthy of appreciation	4H		
-	decembro	12월	Decembro	4H		
 	denaska	태어날 때부터의	native, from the birth	4H		
 	dua	제2의	second	4H		
 	ĥoro	합창단, 성가대	a choir, a chorus	G9,4H	_koro	ĥoro
@@ -1516,11 +1515,9 @@ vestiblo	naŭ	9 (아홉)	nine	KO,G1,4H,ZG		naŭ
 	malfrua	늦은	late (in time)	4H		
 	malfruiĝi	늦어지다	to become late	4H		
 	malprava	부당한, 틀린	wrong	4H		
-	malsaniĝi	병들다	to become sick	4H		
 	mendo	주문	an order	4H		
 	oscedi	하품하다	to yawn	G8,4H		oscedi
 	momente	잠시, 순간에	momentarily	4H		
-	morgaŭa	내일의	tomorrow's	4H		
 	naĝejo	수영장	a swimming pool	4H		
 	duŝo	샤워	shower, a shower	G8,4H		duŝo
 	nei	부정하다	to nay	4H		
@@ -1538,7 +1535,6 @@ vestiblo	naŭ	9 (아홉)	nine	KO,G1,4H,ZG		naŭ
 	kubuto	팔꿈치	an elbow	G8,4H		kubuto
 	sano	건강	health	4H		
 	senfine	끝없이	endlessly	4H		
-	sinjoro	신사	a gentleman	4H		
 	soifa	목마른	thirsty	4H		
 	suda	남쪽의	southern	4H		
 	Tokio	도쿄	Tokyo	4H		
@@ -1563,7 +1559,6 @@ vestiblo	naŭ	9 (아홉)	nine	KO,G1,4H,ZG		naŭ
 	tricent	삼백, 300	three hundred	ZG		
 	iom post iom	조금씩 조금씩	little by little	ZG		
 	mem kompreneble	자명하게	self-explanatorily	ZG		
-	iomete	약간, 조금	a little	ZG		
 	ni diru	어디 보자, 이렇게 얘기하자	let's say	ZG		
 	sfero	구, 구형, 구체	a sphere, a ball	OA,4H		sfero
 	hm	흠	hmm	ZG		
@@ -1580,13 +1575,11 @@ vestiblo	naŭ	9 (아홉)	nine	KO,G1,4H,ZG		naŭ
 	Ĝorĝo	조지(George)	George	ZG		
 	-unt	<어미> 가정법 능동태	<suffix> conditional active	ZG		
 	ekde	~로 부터	since	ZG		
-	ricevi	받다	to receive	ZG		
 	bluzo	블라우스	a blouse	G8,4H		bluzo
 	turko	터키사람	a Turkish	ZG		
 	ki-	<접두사> 의문, 무슨, 어떤	<prefix> what, wh-, h-	ZG		
 	i-	<접두사> 어떤, 불특정	<prefix> some	ZG		
 	neni-	<접두사> 아무, 아닌	<prefix> no, none	ZG		
-	-u	<접미사> 사람, ~한 것	<suffix> someone, something	ZG		
 	-a	<접미사> 특성의, ~한	<suffix> attribute	ZG		
 	-al	<접미사> 이유, 원인, ~한	<suffix> reason why	ZG		
 	-om	<접미사> 양, 분량	<suffix> quantity	ZG		
@@ -1635,11 +1628,9 @@ vestiblo	naŭ	9 (아홉)	nine	KO,G1,4H,ZG		naŭ
 	mallaŭte	낮은 목소리로	in low voice	ZG		
 	mallumo	어둠, 암흑	darkness	ZG		
 	malmultekosta	싼	cheap	ZG		
-	malplaĉa	기분나쁘게 하는, 비위에 거슬리는	unpleasant	ZG		
 	malproksime	멀리에	far away	ZG		
 	malsaĝa	바보같은	silly	ZG		
 	malsukcesa	실패한	unsuccessful, failing	ZG		
-	malvarma	추운, 차가운	cold	ZG		
 	halo	홀	a hall	G9,4H		halo
 	manĝegi	많이 먹다	to eat much	ZG		
 	mortigo	살해, 죽임	a murder	ZG		

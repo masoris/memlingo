@@ -234,6 +234,36 @@ function display_voices(wordlist, which) {
 
 
 window.onload = function () {
+    A_course_map = {};
+    for (i = 0; i < A_course.length; i++) {
+        if (A_course[i] in A_course_map) {
+            console.log(A_course[i]);
+        }
+        else {
+            A_course_map[A_course[i]] = true;
+        }
+    }
+
+    B_course_map = {};
+    for (i = 0; i < B_course.length; i++) {
+        if (B_course[i] in B_course_map) {
+            console.log(B_course[i]);
+        }
+        else {
+            B_course_map[B_course[i]] = true;
+        }
+    }
+
+    C_course_map = {};
+    for (i = 0; i < C_course.length; i++) {
+        if (C_course[i] in C_course_map) {
+            console.log(C_course[i]);
+        }
+        else {
+            C_course_map[C_course[i]] = true;
+        }
+    }
+
     $("A").onclick = display_A;
     $("B").onclick = display_B;
     $("C").onclick = display_C;
