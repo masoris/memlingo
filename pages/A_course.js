@@ -940,7 +940,7 @@ A_course = [
     'necesas havigi ~',
     'iom da manĝaĵo',
     'el vendejo',
-    'havigi iom da manĝaĵo el vedejo',
+    'havigi iom da manĝaĵo el vendejo',
     'mi aĉetumos',
     'por la naskiĝtago',
     'anstataŭ sidi kaj manĝegi',
