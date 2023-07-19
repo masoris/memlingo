@@ -171,8 +171,9 @@ img.ic_woman_1 {
     position: fixed;
     left: 2%;
     /* top: 524px; */
-    bottom: 70px;
+    bottom: 75px;
     border-radius: 10px;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .Rectangle-easy {
@@ -185,7 +186,7 @@ img.ic_woman_1 {
     position: fixed;
     left: 50%;
     /* top: 524px; */
-    bottom: 70px;
+    bottom: 75px;
     border-radius: 10px;
 }
 
@@ -222,6 +223,7 @@ img.ic_woman_1 {
     background-color: #4c5b75;
     border-width: 0;
     border-radius: 10px;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .Rectangle-listen {

@@ -116,6 +116,7 @@ function click_button(item) {
 }
 
 function search() {
+    $("contents").innerHTML = "";
     word = prompt("Search Word:");
     words = [];
     for (i = 0; i < A_course.length; i++) {

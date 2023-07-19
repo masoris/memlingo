@@ -242,6 +242,24 @@ var lang_msgs = {
         "Btn_StartB": "학습시작",
         "Btn_StartC": "학습시작",
         "Btn_logout": "로그아웃",
+        "wordsA": "전체 항목 수",
+        "words_to_reviewA": "복습 필요 항목",
+        "familiarA": "익숙해진 항목",
+        "masteredA": "마스터한 항목",
+        "progressA": "진도율",
+        "pointsA": "누적 점수",
+        "wordsB": "전체 항목 수",
+        "words_to_reviewB": "복습 필요 항목",
+        "familiarB": "익숙해진 항목",
+        "masteredB": "마스터한 항목",
+        "progressB": "진도율",
+        "pointsB": "누적 점수",
+        "wordsC": "전체 항목 수",
+        "words_to_reviewC": "복습 필요 항목",
+        "familiarC": "익숙해진 항목",
+        "masteredC": "마스터한 항목",
+        "progressC": "진도율",
+        "pointsC": "누적 점수",
     },
     "en-us": {
         "type_e-mail": "Type in your e-mail adress.",
@@ -265,6 +283,24 @@ var lang_msgs = {
         "Btn_StartB": "Start Learning",
         "Btn_StartC": "Start Learning",
         "Btn_logout": "Logout",
+        "wordsA": "Words",
+        "words_to_reviewA": "Words to review",
+        "familiarA": "Familiar",
+        "masteredA": "Mastered",
+        "progressA": "Progress",
+        "pointsA": "Points",
+        "wordsB": "Words",
+        "words_to_reviewB": "Words to review",
+        "familiarB": "Familiar",
+        "masteredB": "Mastered",
+        "progressB": "Progress",
+        "pointsB": "Points",
+        "wordsC": "Words",
+        "words_to_reviewC": "Words to review",
+        "familiarC": "Familiar",
+        "masteredC": "Mastered",
+        "progressC": "Progress",
+        "pointsC": "Points",
     }
 };
 
@@ -317,6 +353,24 @@ function display_message() {
     display_msg("Btn_StartB", "value", "Btn_StartB");
     display_msg("Btn_StartC", "value", "Btn_StartC");
     display_msg("Btn_logout", "value", "Btn_logout");
+    display_msg("wordsA", "innerText", "wordsA");
+    display_msg("words_to_reviewA", "innerText", "words_to_reviewA");
+    display_msg("familiarA", "innerText", "familiarA");
+    display_msg("masteredA", "innerText", "masteredA");
+    display_msg("progressA", "innerText", "progressA");
+    display_msg("pointsA", "innerText", "pointsA");
+    display_msg("wordsB", "innerText", "wordsB");
+    display_msg("words_to_reviewB", "innerText", "words_to_reviewB");
+    display_msg("familiarB", "innerText", "familiarB");
+    display_msg("masteredB", "innerText", "masteredB");
+    display_msg("progressB", "innerText", "progressB");
+    display_msg("pointsB", "innerText", "pointsB");
+    display_msg("wordsC", "innerText", "wordsC");
+    display_msg("words_to_reviewC", "innerText", "words_to_reviewC");
+    display_msg("familiarC", "innerText", "familiarC");
+    display_msg("masteredC", "innerText", "masteredC");
+    display_msg("progressC", "innerText", "progressC");
+    display_msg("pointsC", "innerText", "pointsC");
 
     // if ($('lang').value == 'ko-kr') {
     //     $('email1').placeholder = "이메일 주소를 입력해 주세요.";

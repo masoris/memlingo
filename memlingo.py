@@ -166,8 +166,8 @@ def get_course_info():
             if len(row) < 7:
                 continue
             if int(row[5].strip()) >= 6: mastered_count += 1   
-            elif int(row[5].strip()) >= 5: familiar_count += 1  
-            elif int(row[5].strip()) >= 4: done_count += 1                               
+            elif int(row[5].strip()) >= 3: familiar_count += 1  
+            elif int(row[5].strip()) >= 2: done_count += 1                               
             elif int(row[5].strip()) > 0: started_count += 1
 
             if row[6] != '0000-00-00 00:00:00' and row[6] < now_str: needs_review_count += 1
@@ -181,9 +181,9 @@ def get_course_info():
         progress += done_count * 0.3
         progress += familiar_count * 0.5
         progress += mastered_count * 1.0
-        user_course['progress'] = "%.1f" % float(progress/float(total_count)*100.0)
+        user_course['progress'] = "%.2f" % float(progress/float(total_count)*100.0)
         user_course['needs_review'] = needs_review_count
-        user_course['familiar'] = familiar_count #카운트가 5이상인 것들의 갯수
+        user_course['familiar'] = familiar_count #카운트가 3이상인 것들의 갯수
         user_course['mastered'] = mastered_count #카운트가 6이상인 것들의 갯수
         user_courses[course_name] = user_course
         

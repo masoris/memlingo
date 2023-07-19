@@ -30,7 +30,7 @@ body {
     /* left: 77px; */
     /* position: relative; */
     top: -51px;
-    font-size: 16pt;
+    font-size: 15pt;
     /* width: calc(94% - 74px); */
     display: flex;
     font-family: Arial, sans-serif;
@@ -41,10 +41,11 @@ body {
     left: 77px;
     /* position: relative; */
     top: -68px;
-    font-size: 12pt;
+    font-size: 13pt;
     /* width: calc(94% - 74px); */
     display: flex;
     font-family: Arial, sans-serif;
+    color: gray;
 }
 
 .Rectangle-background {
@@ -229,7 +230,7 @@ img.ic_star_1 {
     /* height: 27px; */
     /* margin: 6px 0 7px 0px; */
     font-family: Arial, sans-serif;
-    font-size: 20pt;
+    font-size: 18pt;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -374,7 +375,7 @@ img.ic_star_1 {
     height: 60px;
     /* margin: 50px auto; */
     /* padding: 19px 20px 20px; */
-    /* box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2); */
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #4c5b75;
     position: fixed;
     bottom: 10px;

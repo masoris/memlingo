@@ -1,0 +1,43 @@
+2023-07-19 16:32:00	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-07-19 16:32:00	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:32:02	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:35:11	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:43:28	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:43:42	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:43:48	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:43:49	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:44:03	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:44:11	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:46:35	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:51:59	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:52:05	/api/get_course_info.api	c@c.com	en-us
+2023-07-19 16:52:12	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:52:22	/api/get_course_info.api	c@c.com	en-us
+2023-07-19 16:52:28	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:52:31	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:54:16	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:54:25	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:55:44	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:55:47	/api/session-start.api	c@c.com	ko-kr	A
+2023-07-19 16:55:47	/api/card-next.api	c@c.com	A	ko-kr	saluton	6	./quizI.html	female1
+2023-07-19 16:55:47	/api/similar-words-jk.api	c@c.com	A	ko-kr	saluton	
+2023-07-19 16:56:05	/api/playsound.api	c@c.com	female1/saluton.mp3
+2023-07-19 16:56:06	/api/card-next.api	c@c.com	A	ko-kr	saluton, mi estas ~	6	./quizF.html	female1
+2023-07-19 16:56:06	/api/playsound.api	c@c.com	male2/saluton.mp3
+2023-07-19 16:57:31	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 16:57:40	/api/logout.api	c@c.com	ko-kr	A
+2023-07-19 16:58:15	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-07-19 16:58:15	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 17:00:05	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 17:00:33	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-19 17:00:38	/api/session-start.api	c@c.com	ko-kr	B
+2023-07-19 17:00:38	/api/card-next.api	c@c.com	B	ko-kr	saluton!	3	./quizH.html	female1
+2023-07-19 17:00:38	/api/similar-words.api	c@c.com	B	ko-kr	saluton!
+2023-07-19 17:00:54	/api/similar-words-jk.api	c@c.com	B	ko-kr	saluton	
+2023-07-19 17:01:03	/api/similar-words.api	c@c.com	B	ko-kr	saluton!
+2023-07-19 17:01:05	/api/playsound.api	c@c.com	female2/saluton!.mp3
+2023-07-19 17:01:10	/api/similar-words-kor.api	c@c.com	B	ko-kr	안녕하세요
+2023-07-19 17:01:15	/api/similar-words-kor.api	c@c.com	B	ko-kr	안녕하세요
+2023-07-19 17:01:27	/api/playsound.api	c@c.com	female1/saluton!.mp3
+2023-07-19 17:02:41	/api/session-finish.api	c@c.com	ko-kr	B
+2023-07-19 17:04:27	/api/get_course_info.api	c@c.com	ko-kr

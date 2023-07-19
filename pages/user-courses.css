@@ -142,6 +142,8 @@ img.img_a {
     justify-content: center;
     display: flex;
     /* font-weight: bold; */
+    border-radius: 10px;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .Learn-Esperanto-Button-Inside {
@@ -159,6 +161,7 @@ img.img_a {
     border: none;
     outline: none;
     background-color: #03bf6b;
+    border-radius: 10px;
 }
 
 .Esperanto-B- {
@@ -312,6 +315,7 @@ img.arrow_dropdown_black {
     letter-spacing: normal;
     text-align: center;
     color: #078d4f;
+    border-radius: 10px;
 }
 
 .Rectangle-Logout {
@@ -323,6 +327,8 @@ img.arrow_dropdown_black {
     background-color: #e9e9e9;
     left: 2%;
     position: relative;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
 }
 
 .Rectangle-Logout-Inside {
