@@ -1271,7 +1271,7 @@ A_course = [
     'ion ajn',
     'li atendis ion ajn',
     'krom homa voĉo',
-    'kiam voĉo aŭdigis, ~',
+    'kiam voĉo aŭdiĝis, ~',
     'aŭdiĝis tuj proksime',
     'li faris belan surlokan salton',
     'kiu movis lian koron',

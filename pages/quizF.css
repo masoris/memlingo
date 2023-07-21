@@ -171,21 +171,23 @@ img.ic_woman_1 {
     position: fixed;
     left: 2%;
     /* top: 524px; */
-    bottom: 70px;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    bottom: 75px;
     border-radius: 10px;
 }
 
 .Rectangle-easy {
-    width: 48%;
+    width: 47%;
     height: 60px;
     /* margin: 270px 0 10px 10px;
     padding: 13px 20px 14px; */
     border-radius: 2px;
     background-color: #4c5b75;
     position: fixed;
-    left: 50%;
+    left: 51%;
     /* top: 524px; */
-    bottom: 70px;
+    bottom: 75px;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 10px;
 }
 

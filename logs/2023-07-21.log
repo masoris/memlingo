@@ -1,0 +1,26 @@
+2023-07-21 15:30:00	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-21 15:30:01	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-21 15:30:02	/api/session-start.api	c@c.com	ko-kr	A
+2023-07-21 15:30:02	/api/card-next.api	c@c.com	A	ko-kr	estas, estis	7	./quizB.html	ludoviko
+2023-07-21 15:30:02	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-07-21 15:30:09	/api/playsound.api	c@c.com	ludoviko/estas, estis.mp3
+2023-07-21 15:31:42	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-07-21 15:31:48	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-07-21 15:31:57	/api/playsound.api	c@c.com	ludoviko/estas, estis.mp3
+2023-07-21 15:33:01	/api/similar-words.api	c@c.com	A	ko-kr	estas, estis
+2023-07-21 15:33:06	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-07-21 15:33:14	/api/put-score-kor.api	c@c.com	A	ko-kr	(현재) 지낸다, (과거) 지냈다	-1
+2023-07-21 15:33:15	/api/put-score-kor.api	c@c.com	A	ko-kr	(현재) 본다, (과거) 보았다	-1
+2023-07-21 15:33:16	/api/put-score-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다	1
+2023-07-21 15:33:16	/api/playsound.api	c@c.com	male1/estas, estis.mp3
+2023-07-21 15:36:29	/api/similar-words-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2023-07-21 15:36:32	/api/put-score-kor.api	c@c.com	A	ko-kr	(현재) ~이다, (과거) ~이었다	1
+2023-07-21 15:36:32	/api/playsound.api	c@c.com	female1/estas, estis.mp3
+2023-07-21 15:36:34	/api/card-next.api	c@c.com	A	ko-kr	vi estas ~	6	./quizE.html	female1
+2023-07-21 15:36:34	/api/playsound.api	c@c.com	male1/estas, estis.mp3
+2023-07-21 15:36:38	/api/playsound.api	c@c.com	female1/vi estas ~.mp3
+2023-07-21 15:44:04	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-21 15:44:07	/api/logout.api	c@c.com	ko-kr	A
+2023-07-21 15:44:09	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-07-21 15:44:09	/api/get_course_info.api	c@c.com	ko-kr
+2023-07-21 15:44:43	/api/get_course_info.api	c@c.com	ko-kr

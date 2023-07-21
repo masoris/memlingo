@@ -99,6 +99,9 @@ function play_sound_esp_next_url(esp_txt, next_url) {
                 if ($("btn_continue") != null) {
                     $("btn_continue").disabled = false;
                 }
+                if ($("btn_listen_continue") != null) {
+                    $("btn_listen_continue").disabled = false;
+                }
                 if (next_url != "") {
                     window.location.href = next_url;
                 }
@@ -108,10 +111,16 @@ function play_sound_esp_next_url(esp_txt, next_url) {
             if ($("btn_continue") != null) {
                 $("btn_continue").disabled = true;
             }
+            if ($("btn_listen_continue") != null) {
+                $("btn_listen_continue").disabled = true;
+            }
         } catch (e) {
             is_playing = false;
             if ($("btn_continue") != null)
                 $("btn_continue").disabled = false;
+            if ($("btn_listen_continue") != null) {
+                $("btn_listen_continue").disabled = false;
+            }
             if (next_url != "") {
                 window.location.href = next_url;
             }

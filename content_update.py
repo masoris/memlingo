@@ -1,4 +1,4 @@
-import os, re, json, datetime, random, time, sys
+import os, re, json, datetime, random, time, sys, fcntl
 
 #모든 사용자의 홈 디렉토리를 가져온다
 def get_all_users_home_dir():
@@ -82,6 +82,7 @@ def update_contents(email_dir):
                 only_in_myprogress_lines[line] = 1
 
         fp = open(myprogress_tsv, "w", encoding='utf-8')
+        fcntl.flock(fp, fcntl.LOCK_EX)
         for line in myprogress_lines:
             if not line in only_in_myprogress_lines:
                 fp.write(line.strip() + "\n")
@@ -100,6 +101,7 @@ def update_contents(email_dir):
                 row[5] = '0    ' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
                 row[6] = '0000-00-00 00:00:00' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
                 fp.write('\t'.join(row)+'\n')
+        fcntl.flock(fp, fcntl.LOCK_UN)
         fp.close()
 
 

@@ -1,5 +1,5 @@
 from flask import Flask, send_from_directory, request, make_response, jsonify, redirect, url_for, send_file
-import os, re, json, datetime, random, time, urllib.parse
+import os, re, json, datetime, random, time, urllib.parse, fcntl
 
 app = Flask(__name__)
 
@@ -74,6 +74,7 @@ def create_user(email, lang):
         myprogress_tsv = os.path.join(user_courses_lang_dir, course_name, "myprogress.tsv")
         f1 = open(master_content_tsv, 'r', encoding = 'utf-8')
         f2 = open(myprogress_tsv, 'w', encoding = 'utf-8')
+        fcntl.flock(f2, fcntl.LOCK_EX)
         for line in f1:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
             row = line.strip().split('\t')
@@ -89,6 +90,7 @@ def create_user(email, lang):
                 row[5] = '0    ' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
                 row[6] = '0000-00-00 00:00:00' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
             f2.write('\t'.join(row)+'\n')
+        fcntl.flock(f2, fcntl.LOCK_UN)
         f2.close()
         f1.close()
         
@@ -401,6 +403,7 @@ def card_next():
     if esp_txt != "":
         myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
         f = open(myprogress_tsv, 'rb+') # 바이너리 모드, rw모드로 파일 오픈
+        fcntl.flock(f, fcntl.LOCK_EX)
         data = f.read() # 파일 내용 통째로를 데이터에 바이너리로 읽어들임
         data_lines = data.split(b'\n') # 바이너리 \n을 기준으로 라인단위로 쪼갬
         prev_pos = 0
@@ -420,6 +423,7 @@ def card_next():
                 break
             # lines.append(line)
             prev_pos += len(data_line) + 1 # 현재 라인 길이만큼 포지션을 이동한다
+        fcntl.flock(f, fcntl.LOCK_UN)
         f.close()
 
         # f = open(myprogress_tsv, 'w', encoding='utf-8')
@@ -740,6 +744,7 @@ def put_score():
     
     #myprogress 파일을 읽어서 해당 esp_txt 항목에 대한 count 값과 next-review-time을 업데이트 해준다.
     f = open(myprogress_tsv, 'rb+')
+    fcntl.flock(f, fcntl.LOCK_EX)
     data = f.read()
     data_lines = data.split(b"\n")
     # lines = []
@@ -761,6 +766,7 @@ def put_score():
             break
         # lines.append(line)
         prev_pos += len(data_line) + 1
+    fcntl.flock(f, fcntl.LOCK_UN)
     f.close()
 
     # f = open(myprogress_tsv, 'w', encoding='utf-8')
@@ -804,6 +810,7 @@ def put_score_kor():
     
     #myprogress 파일을 읽어서 해당 esp_txt 항목에 대한 count 값과 next-review-time을 업데이트 해준다.
     f = open(myprogress_tsv, 'rb+')
+    fcntl.flock(f, fcntl.LOCK_EX)
     data = f.read()
     data_lines = data.split(b"\n")
     # lines = []
@@ -825,6 +832,7 @@ def put_score_kor():
             break
         prev_pos += len(data_line) + 1
         # lines.append(line)
+    fcntl.flock(f, fcntl.LOCK_UN)
     f.close()
 
     # f = open(myprogress_tsv, 'w', encoding='utf-8')
