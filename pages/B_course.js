@@ -1069,7 +1069,7 @@ B_course = [
     'provizoraj programoj',
     'ĝeneralaj kondiĉoj de mendado',
     'antaŭ-kongresaj ekskursoj',
-    'post-kongresa ekskuso',
+    'post-kongresa ekskurso',
     'tut-tagaj ekskursoj',
     'duon-tagaj ekskursoj',
     'tabelo de dum-kongresaj ekskursoj',

@@ -26,6 +26,9 @@ function display_A() {
         wordlist.push(A_course[i]);
     }
     display_voices(wordlist, "A");
+    $("contents").innerHTML += "A_page: " + A_page;
+    $("contents").innerHTML += "<br><a onclick='prev_A()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_A()'>[next]</a>";
 }
 
 
@@ -54,6 +57,9 @@ function display_B() {
         wordlist.push(B_course[i]);
     }
     display_voices(wordlist, "B");
+    $("contents").innerHTML += "B_page: " + B_page;
+    $("contents").innerHTML += "<br><a onclick='prev_B()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_B()'>[next]</a>";
 }
 
 
@@ -82,6 +88,9 @@ function display_C() {
         wordlist.push(C_course[i]);
     }
     display_voices(wordlist, "C");
+    $("contents").innerHTML += "C_page: " + C_page;
+    $("contents").innerHTML += "<br><a onclick='prev_C()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_C()'>[next]</a>";
 }
 
 function click_button(item) {
