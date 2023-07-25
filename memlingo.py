@@ -852,6 +852,7 @@ def get_voices():
               "female2", "ludoviko"]
 
     for word in wordlist:
+        word = word.strip()
         voice_list = ""
         for voice in voices:
             if os.path.exists("./sounds/"+voice+"/"+word+".mp3"):

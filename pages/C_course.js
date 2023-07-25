@@ -837,7 +837,7 @@ C_course = [
     "kuko",
     "amikiĝi(kun ~)",
     "maro",
-    "to receive, to get",
+    "ricevi",
     "lasi",
     "la",
     "ami",
