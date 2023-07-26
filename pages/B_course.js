@@ -997,7 +997,7 @@ B_course = [
     'desegnis grandan koron',
     'desegnis grandan koron en la sablo',
     'en la sablo kaj skribis en ĝi',
-    'skribis en ĝi "I + J + K"',
+    'skribis en ĝi "I J K"',
     'post sekunda pripensado diris',
     'post pripensado diris "Jen nia IJK"',
     'kaj ili ekridis!',

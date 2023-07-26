@@ -350,6 +350,7 @@ def playsound():
             voice_esp_txt_mp3 = request.form['voice_esp_txt_mp3']
             
     filename = "sounds/"+voice_esp_txt_mp3
+    print(filename)
     
     LOG("/api/playsound.api\t%s\t%s" % (email, voice_esp_txt_mp3))
 
