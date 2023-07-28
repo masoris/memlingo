@@ -71,26 +71,30 @@ function prev_C() {
     display_C();
 }
 
-function next_C() {
+function next_C(page) {
     if (C_page * page_size >= C_course.length) { return; }
-    C_page += 1;
+    if (page == -1) {
+        C_page += 1;
+    }
+    else {
+        C_page = page;
+    }
     display_C();
 }
 
 function display_C() {
-    cur_course = "C";
     wordlist = [];
     $("contents").innerHTML = "C_page: " + C_page;
     $("contents").innerHTML += "<br><a onclick='prev_C()'>[prev]</a>";
-    $("contents").innerHTML += " <a onclick='next_C()'>[next]</a>";
+    $("contents").innerHTML += " <a onclick='next_C(-1)'>[next]</a>";
+    for (page = 0; page * page_size * 3 < C_course.length; page++) {
+        $("contents").innerHTML += " <a onclick='next_C(" + (page * 3) + ")'>[" + (page * 3) + "]</a>";
+    }
     for (i = (C_page * page_size); i < C_course.length && i < ((C_page + 1) * page_size); i++) {
-        $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + C_course[i] + "</a><br>&nbsp;<span id='C_" + i + "_span'></span>";
+        $("contents").innerHTML += "<br><a id='" + i + "' onclick='setitem(this)'>" + C_course[i] + "</a><br>&nbsp;<font size='-2'><span id='C_" + i + "_span'></span></font>";
         wordlist.push(C_course[i]);
     }
     display_voices(wordlist, "C");
-    $("contents").innerHTML += "C_page: " + C_page;
-    $("contents").innerHTML += "<br><a onclick='prev_C()'>[prev]</a>";
-    $("contents").innerHTML += " <a onclick='next_C()'>[next]</a>";
 }
 
 function click_button(item) {

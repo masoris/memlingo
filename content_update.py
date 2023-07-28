@@ -55,8 +55,9 @@ def update_contents(email_dir):
         for line in fp:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
             row = line.split('\t')
-            content_esps[row[1]] = 1
-            content_lines.append(line)
+            if not row[1] in content_esps:
+                content_esps[row[1]] = 1
+                content_lines.append(line)
         fp.close()
         
         myprogress_lines = []
@@ -65,8 +66,9 @@ def update_contents(email_dir):
         for line in fp:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
             row = line.split('\t')
-            myprogress_esps[row[1]] = 1
-            myprogress_lines.append(line)
+            if not row[1] in myprogress_esps:
+                myprogress_esps[row[1]] = 1
+                myprogress_lines.append(line)
         fp.close()
 
         only_in_content_lines = {}
