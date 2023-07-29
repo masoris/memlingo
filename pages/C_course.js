@@ -1,1 +1,1 @@
-/home/masoris/tts/C_course.js
+../../tts/C_course.js

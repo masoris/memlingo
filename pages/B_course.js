@@ -1,1 +1,1 @@
-/home/masoris/tts/B_course.js
+../../tts/B_course.js
