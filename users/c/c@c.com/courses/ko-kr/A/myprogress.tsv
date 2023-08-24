@@ -49,7 +49,7 @@ Saluton	nedankinde	천만에요	not at all, you're welcome	Saluton	0    	0000-00
 Saluton	tute ne	전혀 아닌	totally no	Saluton	0    	0000-00-00 00:00:00
 Saluton	pardoni ~, pardono	~를 용서하다, 용서	to forgive, a forgiving	Saluton	0    	0000-00-00 00:00:00
 Bonan nokton	pardonon al mi	나에게 용서를	a forgiving to me	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	pardonon	미안합니다	I'm sorry! pardon me	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	pardonon	미안합니다	I'm sorry! (pardon me)	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	pardonon, mi petas	미안합니다, 부탁합니다	I'm sorry, please	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bona mateno	좋은 아침	a good morning	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bonan matenon	아침인사, 안녕하세요	good morning	Bonan nokton	1    	2023-06-19 17:16:31
@@ -57,10 +57,10 @@ Bonan nokton	bonan nokton	(밤인사) 안녕히 주무세요	good night	Bonan no
 Bonan nokton	bonan sonĝon	좋은 꿈꾸세요	sweet dream	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bonan vojaĝon, al vi	좋은 여행이 되기를, 당신에게 (기원합니다)	(have) a good trip, to you	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bonan tagon	낮인사, 안녕하세요	good day!	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	ĉu ~	~인가요?	is it ~?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	ĉu ~	~인가요?	is it ~ ?	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ĉu vi fartas bone?	당신은 잘 지내십니까?	are you doing well? (how are you?)	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	jes, mi fartas bone	예, 나는 잘 지냅니다	yes, I'm fine	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	ne, tute ne	아뇨, 전혀	no, not at all	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	ne, tute ne	아뇨, 전혀 아닙니다	no, not at all	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	tre, tro	매우, 너무	very, too much	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	granda, grande	커다란, 커다랗게	big, largely	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	tre bona, tro granda	매우 좋은, 너무 큰	very big, too big	Bonan nokton	0    	0000-00-00 00:00:00
@@ -95,7 +95,7 @@ Bonan nokton	libro kaj libroj	책과 책들	a book and books	Bonan nokton	1    	
 Bonan nokton	la paperoj kaj libroj	그 종이들과 책들	the papers and books	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ĝi estas sur tablo	그것이 탁자 위에 있다	it is on a table.	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	skribas sur la skribotablo	그 책상 위에서 쓴다	is writing on a writing table	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	la libroj estas ~	그 책들은 ~이다	the book is ~	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	la libroj estas ~	그 책들은 ~이다	the books are ~	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sur la tablo	그 책상 위에	on the table	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lernolibro kaj la lernolibroj	교과서와 그 교과서들	a textbook and the textbooks	Bonan nokton	0    	0000-00-00 00:00:00
 Amiko	ili nun laboras	그들은 지금 일하고 있다	they are now working	Amiko	0    	0000-00-00 00:00:00

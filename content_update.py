@@ -56,7 +56,7 @@ def update_contents(email_dir):
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
             row = line.split('\t')
             if not row[1] in content_esps:
-                content_esps[row[1]] = 1
+                content_esps[row[1]] = line
                 content_lines.append(line)
         fp.close()
         
@@ -87,7 +87,13 @@ def update_contents(email_dir):
         fcntl.flock(fp, fcntl.LOCK_EX)
         for line in myprogress_lines:
             if not line in only_in_myprogress_lines:
-                fp.write(line.strip() + "\n")
+                # fp.write(line.strip() + "\n")
+                row = line.split('\t')
+                content_line = content_esps[row[1]]
+                content_row = content_line.split('\t')
+                row[2] = content_row[2]
+                row[3] = content_row[3]
+                fp.write("\t".join(row))
         
         for line in content_lines:
             if line in only_in_content_lines:

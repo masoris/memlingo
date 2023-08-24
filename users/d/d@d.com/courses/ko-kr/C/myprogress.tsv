@@ -192,7 +192,6 @@ filo	bonvole -u	청컨데 (~해 주세요 -u)	please (~u)	NA,4H	0    	0000-00-00
 filo	bonvolu -i	청컨데 (~해 주세요 -i)	please (~i)	NA,ZG	0    	0000-00-00 00:00:00
 filo	ĝirafo	기린	a giraffe	NA,4H	0    	0000-00-00 00:00:00
 filo	gitaro	기타 (악기)	a guitar	NA	0    	0000-00-00 00:00:00
-filo	kaj	그리고, ~와, ~과	and	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 filo	aŭ	또는, 혹은	or	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 filo	jes	예	yes	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 filo	ne	~아닌, 아니오	not, no	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -211,7 +210,7 @@ kiom	celo	목적	a goal, a target, a purpose, an objective	KO,G4,4H	0    	0000-0
 kiom	celi	겨누다, 목표삼다	to aim, to target, to intend	NA	0    	0000-00-00 00:00:00
 kiom	ĉelo	세포, 독방, 감방, 봉장, 지하실	a cell, a memory cell	G9	0    	0000-00-00 00:00:00
 kiom	fermi	닫다	to close, to shut	KO,G3,ZG	0    	0000-00-00 00:00:00
-kiom	nacio	국가, 나라	a nation	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
+kiom	nacio	나라, 국가	a nation	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	ilustri	그림으로 설명하다, 장식하다, 만화그리다	to illustrate	G8	0    	0000-00-00 00:00:00
 kiom	okupi	차지하다, 점령하다	to occupy, to take	KO,G3	0    	0000-00-00 00:00:00
 kiom	koni	알다, 아는 사이이다	to know (a person), to be aquainted with	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -836,7 +835,6 @@ stomako	sciigi	알게 하다, 알려 주다	to let know, to inform, to share, to
 stomako	kuko	과자	a cake	KO,G5,4H,ZG	0    	0000-00-00 00:00:00
 stomako	amikiĝi (kun ~)	친구가 되다	to make friends (with ~)	NA	0    	0000-00-00 00:00:00
 stomako	maro	바다	a sea	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
-stomako	to receive, to get	받다	to receive	KO,G2	0    	0000-00-00 00:00:00
 stomako	lasi	뒤에 남겨두다, 놔두다, 방치하다	to leave, to release, to allow, to let	KO,G3,ZG	0    	0000-00-00 00:00:00
 stomako	la	<정관사> 그	the	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ami	사랑하다	to love	KO,G2,4H,ZG,ZG,ZG	0    	0000-00-00 00:00:00
@@ -1189,7 +1187,6 @@ stomako	geknaboj	소년소녀들	boys and girls	NA	0    	0000-00-00 00:00:00
 stomako	eks-	<접두사> 전직의	<prefix> ex-, former	G9	0    	0000-00-00 00:00:00
 stomako	eksedziĝo	이혼(남자)	divorce (male)	NA	0    	0000-00-00 00:00:00
 stomako	eksedziĝinta	이혼한(남)	divorced (male)	NA	0    	0000-00-00 00:00:00
-stomako	eksedziniginta	이혼한(녀)	divorced (female)	NA	0    	0000-00-00 00:00:00
 stomako	mapo	지도	a map	G8,4H	0    	0000-00-00 00:00:00
 stomako	bo-	혼인으로 인한 친척관계 (접두사)	<prefix> -in-law, by marriage	KO,G1	0    	0000-00-00 00:00:00
 stomako	bopatro	장인, 시아버지	a father-in-law	NA	0    	0000-00-00 00:00:00
@@ -1236,8 +1233,6 @@ stomako	io	<대명사> (불특정한) 어떤 것	something	KO,G1	0    	0000-00-0
 stomako	anaso	오리	a duck	G8,4H	0    	0000-00-00 00:00:00
 stomako	-end-	<접미사> ~ 해야 하는	<suffix> obligation	G9	0    	0000-00-00 00:00:00
 stomako	-ing-	<접미사> 한쪽 끝을 꽂거나, 꽂아 쓰는 물건	<suffix> long holder, socket	G9	0    	0000-00-00 00:00:00
-stomako	-nj-	<접미사> 여성 애칭 (예: 엄마)	<suffix> female pet name	G9	0    	0000-00-00 00:00:00
-stomako	-ĉj-	<접미사> 남성 애칭 (예: 아빠)	<suffix> male pet name	G9	0    	0000-00-00 00:00:00
 stomako	panjo	엄마, 어머니(patrino)의 애칭	mom, a mom, mommy	G8	0    	0000-00-00 00:00:00
 stomako	paĉjo	아빠, 아버지(patro)의 애칭	dad, a dad, daddy	G8	0    	0000-00-00 00:00:00
 stomako	biciklo	자전거	a bike, a bicycle	G8,4H	0    	0000-00-00 00:00:00
@@ -1327,24 +1322,10 @@ stomako	arboplena	나무가 가득한	full of trees	ZG	0    	0000-00-00 00:00:00
 stomako	antaŭeniri	앞으로 가다	to go ahead	ZG	0    	0000-00-00 00:00:00
 stomako	amikino	여자친구	a girl friend	ZG	0    	0000-00-00 00:00:00
 stomako	alilanda	다른 나라의	foreign	ZG	0    	0000-00-00 00:00:00
-stomako	-es	<접미사> 소유	<suffix> of ~, possesive, whose	ZG	0    	0000-00-00 00:00:00
-stomako	-am	<접미사> 시간	<suffix> time, when	ZG	0    	0000-00-00 00:00:00
-stomako	-el	<접미사> 방법	<suffix> way, method, how	ZG	0    	0000-00-00 00:00:00
-stomako	-e	<접미사> 장소	<suffix> place	ZG	0    	0000-00-00 00:00:00
-stomako	-o	<접미사> 사물	<suffix> thing	ZG	0    	0000-00-00 00:00:00
-stomako	ĉi-	<접두사> 모든	<prefix> all, every	ZG	0    	0000-00-00 00:00:00
-stomako	ti-	<접두사> 그, 그것	<prefix> that, this	ZG	0    	0000-00-00 00:00:00
 stomako	Venecia	베니스	Venice	ZG	0    	0000-00-00 00:00:00
 stomako	teroro	테러	a terror	ZG	0    	0000-00-00 00:00:00
 stomako	doĝo	총독	a doge, a viceroy	ZG	0    	0000-00-00 00:00:00
 stomako	-ut-	<어미> 가정법 수동태	<suffix> conditional passive	ZG	0    	0000-00-00 00:00:00
-stomako	Venecion	베네딕	Venedig	ZG	0    	0000-00-00 00:00:00
-stomako	Pipelbom	삐뻴봉	Pipelbom	ZG	0    	0000-00-00 00:00:00
-stomako	Monfort	몬포르	Monfort	ZG	0    	0000-00-00 00:00:00
-stomako	Maja	마야	Maja	ZG	0    	0000-00-00 00:00:00
-stomako	Don Kamilo	돈 카밀로	Don Camillus	ZG	0    	0000-00-00 00:00:00
-stomako	Ana	아나	Ana	ZG	0    	0000-00-00 00:00:00
-stomako	Sankt-Mark	성 마르코스	Saint Marcus	ZG	0    	0000-00-00 00:00:00
 stomako	rilate al	~와 관계하여	relating to	ZG	0    	0000-00-00 00:00:00
 stomako	temas pri	~에 관한 것이다	it is about	ZG	0    	0000-00-00 00:00:00
 stomako	pli-malpli	대략	more or less	ZG	0    	0000-00-00 00:00:00
@@ -1417,7 +1398,6 @@ stomako	aminda	사랑스러운	amiable	4H	0    	0000-00-00 00:00:00
 stomako	alveno	도착	an arrival	4H	0    	0000-00-00 00:00:00
 stomako	agrable	유쾌하게, 기분좋게	pleasantly, agreeablely, nicely	4H	0    	0000-00-00 00:00:00
 stomako	Z (Zamenhof)	자멘호프	Zamenhof	4H	0    	0000-00-00 00:00:00
-stomako	UN (Unuigitaj Nacioj)	국제연합	United Nations	4H	0    	0000-00-00 00:00:00
 stomako	t.n. (tiel nomata)	소위	so called	4H	0    	0000-00-00 00:00:00
 stomako	S-ro (Sinjoro)	~씨	Mr.	4H	0    	0000-00-00 00:00:00
 stomako	sekr. (sekretario)	비서	secretary	4H	0    	0000-00-00 00:00:00
@@ -1437,8 +1417,6 @@ stomako	k.a. (kaj aliaj)	기타 (다른 것들)	and others	4H	0    	0000-00-00 0
 stomako	JEI (Japana E-Instituto)	일본에스페란토학회	JEI (Japanese Esperanto Institute)	4H	0    	0000-00-00 00:00:00
 stomako	il. (ilustrita)	삽화가 있는	il. (illustrated)	4H	0    	0000-00-00 00:00:00
 stomako	IEMW (Internacia E-Muzeo en Wien)	빈국제에스페란토박물관	IEMW (International E-Muzeum in Vienna)	4H	0    	0000-00-00 00:00:00
-stomako	Fino. (Fraŭlino)	~양	Miss.	4H	0    	0000-00-00 00:00:00
-stomako	EPA (E-Polulariga Asocio de Oomoto)	오오모토 에스페란토 보급회	EPA (E-Propaganda Association of Oomoto)	4H	0    	0000-00-00 00:00:00
 stomako	ekz. (Ekzemple)	예를 들어	ex. (For example)	4H	0    	0000-00-00 00:00:00
 stomako	D-ro (Doktoro)	박사, 의사	Dr. (Doctor)	4H	0    	0000-00-00 00:00:00
 stomako	ĉ. (ĉirkaŭ)	주위에	around	4H	0    	0000-00-00 00:00:00
@@ -1464,7 +1442,6 @@ stomako	propagandi	선전하다	to make propaganda, to advertise	G9,4H	0    	000
 stomako	IKU (Internacia Kongresa Universitato)	국제대회대학	ICU (International Congress University)	4H	0    	0000-00-00 00:00:00
 stomako	ISAE (Internacia Scienca Asocio E-ista)	에스페란티스토국제과학협회	ISAE (International Science Association of Esperantists)	4H	0    	0000-00-00 00:00:00
 stomako	apetito	식욕	an appetite	G8,4H	0    	0000-00-00 00:00:00
-stomako	k. (kaj)	그리고	and	4H	0    	0000-00-00 00:00:00
 stomako	muso	쥐	a mouse	G8,4H	0    	0000-00-00 00:00:00
 stomako	k.c. (kaj ceteraj)	기타 (남겨진 것들)	and others	4H	0    	0000-00-00 00:00:00
 stomako	KEA (Korea E-Asocio)	한국에스페란토협회	KEA (Korea Esperanto Association)	4H	0    	0000-00-00 00:00:00
@@ -1522,7 +1499,6 @@ stomako	duŝo	샤워	shower, a shower	G8,4H	0    	0000-00-00 00:00:00
 stomako	nei	부정하다	to nay	4H	0    	0000-00-00 00:00:00
 stomako	norda	북쪽의	northern	4H	0    	0000-00-00 00:00:00
 stomako	nulo	영, 0, 제, 무	a zero	4H	0    	0000-00-00 00:00:00
-stomako	oh	아(감탄)	oh	4H	0    	0000-00-00 00:00:00
 stomako	orienten	동쪽으로	toward the east	4H	0    	0000-00-00 00:00:00
 stomako	parolanto	연설자, 연사	a speaker	4H	0    	0000-00-00 00:00:00
 stomako	piediri	걷다	to walk	4H	0    	0000-00-00 00:00:00
@@ -1560,28 +1536,13 @@ stomako	iom post iom	조금씩 조금씩	little by little	ZG	0    	0000-00-00 00
 stomako	mem kompreneble	자명하게	self-explanatorily	ZG	0    	0000-00-00 00:00:00
 stomako	ni diru	어디 보자, 이렇게 얘기하자	let's say	ZG	0    	0000-00-00 00:00:00
 stomako	sfero	구, 구형, 구체	a sphere, a ball	OA,4H	0    	0000-00-00 00:00:00
-stomako	hm	흠	hmm	ZG	0    	0000-00-00 00:00:00
 stomako	S-ro	~씨	Mr.	ZG	0    	0000-00-00 00:00:00
-stomako	Adriano	아드리아노	Adrian	ZG	0    	0000-00-00 00:00:00
-stomako	Bonifacio	보니파씨오	Bonifacio	ZG	0    	0000-00-00 00:00:00
-stomako	Jakopo	야곱	Jacob	ZG	0    	0000-00-00 00:00:00
 stomako	rano	개구리	a frog	G9,4H	0    	0000-00-00 00:00:00
 stomako	karoto	당근	a carrot	G7,4H	0    	0000-00-00 00:00:00
-stomako	Marko	마르코	Mark	ZG	0    	0000-00-00 00:00:00
-stomako	Pietro	피에트로	Peter	ZG	0    	0000-00-00 00:00:00
-stomako	Stefan	스티븐	Stephen	ZG	0    	0000-00-00 00:00:00
-stomako	Vera	베라	Vera	ZG	0    	0000-00-00 00:00:00
-stomako	Ĝorĝo	조지	George	ZG	0    	0000-00-00 00:00:00
 stomako	-unt	<어미> 가정법 능동태	<suffix> conditional active	ZG	0    	0000-00-00 00:00:00
 stomako	ekde	~로 부터	since	ZG	0    	0000-00-00 00:00:00
 stomako	bluzo	블라우스	a blouse	G8,4H	0    	0000-00-00 00:00:00
 stomako	turko	터키사람	a Turkish	ZG	0    	0000-00-00 00:00:00
-stomako	ki-	<접두사> 의문, 무슨, 어떤	<prefix> what, wh-, h-	ZG	0    	0000-00-00 00:00:00
-stomako	i-	<접두사> 어떤, 불특정	<prefix> some	ZG	0    	0000-00-00 00:00:00
-stomako	neni-	<접두사> 아무, 아닌	<prefix> no, none	ZG	0    	0000-00-00 00:00:00
-stomako	-a	<접미사> 특성의, ~한	<suffix> attribute	ZG	0    	0000-00-00 00:00:00
-stomako	-al	<접미사> 이유, 원인, ~한	<suffix> reason why	ZG	0    	0000-00-00 00:00:00
-stomako	-om	<접미사> 양, 분량	<suffix> quantity	ZG	0    	0000-00-00 00:00:00
 stomako	akceptebla	수용가능한	acceptable	ZG	0    	0000-00-00 00:00:00
 stomako	alvenigi	인도하다	to make arrive	ZG	0    	0000-00-00 00:00:00
 stomako	arbeto	작은 나무	a small tree	ZG	0    	0000-00-00 00:00:00
@@ -1804,7 +1765,6 @@ stomako	sezono	계절	season, a season	KO,G6	0    	0000-00-00 00:00:00
 stomako	katedralo	대성당	a cathedral	OA,4H	0    	0000-00-00 00:00:00
 stomako	somera solstico	하지(夏至)	summer solstice	NA	0    	0000-00-00 00:00:00
 stomako	vintra solstico	동지(冬至)	winter solstice	NA	0    	0000-00-00 00:00:00
-stomako	ferio (-a tago)	휴일	holiday, a holiday	KO,G7	0    	0000-00-00 00:00:00
 stomako	ferioj	휴일들	holidays, vacation	NA	0    	0000-00-00 00:00:00
 stomako	someraj ferioj	여름방학, 여름휴가	summer holidays	NA	0    	0000-00-00 00:00:00
 stomako	vintraj ferioj	겨울방학, 겨울휴가	winter holidays	NA	0    	0000-00-00 00:00:00
@@ -2043,14 +2003,14 @@ stomako	centralizo	중앙집권제, 중앙집중화	centralization, a centraliza
 stomako	generalo	장군	a general	G9	0    	0000-00-00 00:00:00
 stomako	reĝo	왕	king, a king	KO,G5	0    	0000-00-00 00:00:00
 stomako	rakedo	(테니스) 라켓	a racket	NA	0    	0000-00-00 00:00:00
-stomako	raketo	로케트	a flare, a rocket	OA	0    	0000-00-00 00:00:00
+stomako	raketo	로켓	a flare, a rocket	OA	0    	0000-00-00 00:00:00
 stomako	prava	옳은	right, true	KO,G4	0    	0000-00-00 00:00:00
 stomako	ringo	링, 반지, 고리	a ring	G7	0    	0000-00-00 00:00:00
 stomako	orelringo	귀걸이	an earring	NA	0    	0000-00-00 00:00:00
 stomako	animo	영혼	a soul	KO,G5	0    	0000-00-00 00:00:00
 stomako	rokmuziko	록음악	a rock music	NA	0    	0000-00-00 00:00:00
 stomako	religio	종교	a religion	KO,G5	0    	0000-00-00 00:00:00
-stomako	ŝtato	국가	a nation, a state	KO,G5	0    	0000-00-00 00:00:00
+stomako	ŝtato	국가	a state, a nation	KO,G5	0    	0000-00-00 00:00:00
 stomako	stato	상태	status, condition, state	KO,G4	0    	0000-00-00 00:00:00
 stomako	neceseja papero	화장지 (화장실)	a toilet paper, a paper towel	NA	0    	0000-00-00 00:00:00
 stomako	klozetpapero	화장지 (화장대)	a facial tissue	NA	0    	0000-00-00 00:00:00
@@ -2428,7 +2388,6 @@ stomako	teorio	이론	a theory	KO,G8	0    	0000-00-00 00:00:00
 stomako	epoko	시대, 신세기	an epoch, an age, a period, time	G7	0    	0000-00-00 00:00:00
 stomako	arĝento	은	silver	G5	0    	0000-00-00 00:00:00
 stomako	baro	장애물, 장벽	a barrier, an obstruction	G6	0    	0000-00-00 00:00:00
-stomako	esperanto	희망하는 사람, 에스페란토	Esperanto, one who hopes	G8	0    	0000-00-00 00:00:00
 stomako	spico	양념	a spice	KO,G6	0    	0000-00-00 00:00:00
 stomako	nutri	먹을것을 주다, 영양을 공급하다	to nourish, to feed	G7	0    	0000-00-00 00:00:00
 stomako	pafi	쏘다, 사격하다, 발사하다	to shoot, to fire	G6	0    	0000-00-00 00:00:00
@@ -2444,7 +2403,7 @@ stomako	grado	도 (각도, 온도, 농도)	degree, grade	G7	0    	0000-00-00 00:
 stomako	reprezenti	대표하다	to represent	G7	0    	0000-00-00 00:00:00
 stomako	peli	내쫓다, 몰아 내다, 추격하다	to propel, to drive, to chase, to impel	G6	0    	0000-00-00 00:00:00
 stomako	poezio	작시, 작시법	poetry	KO,G8	0    	0000-00-00 00:00:00
-stomako	regno	국가, 왕국	a kingdom, a realm, a state	G6	0    	0000-00-00 00:00:00
+stomako	regno	왕국	a kingdom, a realm	G6	0    	0000-00-00 00:00:00
 stomako	titolo	제목, 표제, 직함, 칭호	a title	G7	0    	0000-00-00 00:00:00
 stomako	komisii	위임하다, 위탁하다	to entrust	KO,G8	0    	0000-00-00 00:00:00
 stomako	projekto	계획, 기획	a project	KO,G9	0    	0000-00-00 00:00:00
@@ -2565,7 +2524,7 @@ stomako	disputi	논쟁하다	to argue, to dispute, to contend	G8	0    	0000-00-0
 stomako	gloro	영예, 영광	a glory, a fame	G8	0    	0000-00-00 00:00:00
 stomako	nomi	이름짓다, ~로 부른다	to name, to designate, to nominate	NA,ZG	0    	0000-00-00 00:00:00
 stomako	financo	재정	finance	G8	0    	0000-00-00 00:00:00
-stomako	italia	이태리의	italia	NA,ZG	0    	0000-00-00 00:00:00
+stomako	italia	이탈리아의	italia	NA,ZG	0    	0000-00-00 00:00:00
 stomako	renversi	뒤집어 엎다, 전복하다, 타도하다	to upset, to overturn, to overthrow, to turn over	G7	0    	0000-00-00 00:00:00
 stomako	Japanio	일본	Japan	NA,4H	0    	0000-00-00 00:00:00
 stomako	japana	일본의	Japanese	NA,4H	0    	0000-00-00 00:00:00
@@ -2830,7 +2789,6 @@ stomako	ŝveli	부풀다, 팽창하다	to swell	G7	0    	0000-00-00 00:00:00
 stomako	indiferenta	무관심한, 냉담한	indifferent	G8	0    	0000-00-00 00:00:00
 stomako	civito	자치시, 참정권을 갖는 시민(국민)	citizenry, polity, city state	G9	0    	0000-00-00 00:00:00
 stomako	tabako	담재, 잎담배	tobacco	G7	0    	0000-00-00 00:00:00
-stomako	brava	용감한	brave, gallant, valiant	G8	0    	0000-00-00 00:00:00
 stomako	televido	텔레비젼	TV, television	KO	0    	0000-00-00 00:00:00
 stomako	sekura	안전한	secure, safe	G9	0    	0000-00-00 00:00:00
 stomako	trotuaro	인도	a sidewalk, a pavement	G8	0    	0000-00-00 00:00:00
@@ -2900,7 +2858,7 @@ stomako	individuo	개인, 개체	an individual	G9	0    	0000-00-00 00:00:00
 stomako	kupro	구리, 동	copper	G8	0    	0000-00-00 00:00:00
 stomako	hoko	갈고리, 호크단추, 낚시바늘	a hook	G8	0    	0000-00-00 00:00:00
 stomako	fenomeno	현상	a phenomenon	G9	0    	0000-00-00 00:00:00
-stomako	bv. (~i)	제발 ~해(주세요)	please ~	NA,4H	0    	0000-00-00 00:00:00
+stomako	bv. (~i)	bonvoli 제발 ~해(주세요)	please ~	NA,4H	0    	0000-00-00 00:00:00
 stomako	ruino	폐허, 황폐	a ruin	G9	0    	0000-00-00 00:00:00
 stomako	kontinento	대륙	a continent	OA	0    	0000-00-00 00:00:00
 stomako	genio	천재	a genius	G8	0    	0000-00-00 00:00:00
@@ -3358,7 +3316,7 @@ stomako	fonetiko	음성학	phonetics	OA	0    	0000-00-00 00:00:00
 stomako	labirinto	미궁, 미로	a labyrinth, a maze	OA	0    	0000-00-00 00:00:00
 stomako	fatala	숙명적인, 치명적인, 비운의	fatal, fated, fateful, disastrous	OA	0    	0000-00-00 00:00:00
 stomako	brando	브랜드(술)	a brandy	G9	0    	0000-00-00 00:00:00
-stomako	perlo	진주 귀중품	a pearl	G9	0    	0000-00-00 00:00:00
+stomako	perlo	진주, 귀중품	a pearl	G9	0    	0000-00-00 00:00:00
 stomako	strebi	분투노력하다, 전력을 다하다	to strive for	OA	0    	0000-00-00 00:00:00
 stomako	friti	튀기다, 프라이하다	to fry, to sauté	G8	0    	0000-00-00 00:00:00
 stomako	vulgara	속된, 비속한, 천한	vulgar, vernacular, common	OA	0    	0000-00-00 00:00:00
@@ -3659,7 +3617,7 @@ stomako	alegorio	풍유, 비유	an allegory	OA	0    	0000-00-00 00:00:00
 stomako	aŭtentika	의심할 여지없는, 확실한	authentic, genuine	OA	0    	0000-00-00 00:00:00
 stomako	determini	정하다, 확정짓다, 결정짓다	to determine	G9	0    	0000-00-00 00:00:00
 stomako	aŭkcio	경매	an auction	OA	0    	0000-00-00 00:00:00
-stomako	salivo	참, 타액	saliva, slaver	OA	0    	0000-00-00 00:00:00
+stomako	salivo	침, 타액	saliva, slaver	OA	0    	0000-00-00 00:00:00
 stomako	agiti	선동하다, (마음을) 불안하게 하다	to agitate, to incite, to stir up	G9	0    	0000-00-00 00:00:00
 stomako	pavo	공작새	a peacock	G9	0    	0000-00-00 00:00:00
 stomako	torento	급류	a torrent	G9	0    	0000-00-00 00:00:00
@@ -3844,7 +3802,7 @@ stomako	vanta	공허한, 덧없는, 허무한	vain, frivolous, conceited	G9	0   
 stomako	miaŭi	야옹하고 울다	to meow, to mew	OA	0    	0000-00-00 00:00:00
 stomako	admiralo	해군대장, 제독	an admiral, Sea Lord	OA	0    	0000-00-00 00:00:00
 stomako	polo	폴란드 사람	a Polish person, a polander	PA	0    	0000-00-00 00:00:00
-stomako	jodo	요오드	iodine	OA	0    	0000-00-00 00:00:00
+stomako	jodo	요오드, 아이오딘	iodine	OA	0    	0000-00-00 00:00:00
 stomako	he!	이봐요! 헤이!	eh! hey!	G8	0    	0000-00-00 00:00:00
 stomako	kronologio	연대기, 연표	a chronology	OA	0    	0000-00-00 00:00:00
 stomako	arabo	아랍인	an Arabean person, an Arab	OA	0    	0000-00-00 00:00:00
@@ -3897,11 +3855,10 @@ stomako	kantato	칸타타	cantata	OA	0    	0000-00-00 00:00:00
 stomako	varti	간호하다, 돌보다, 사육하다	to look after, to nurse	G9	0    	0000-00-00 00:00:00
 stomako	cikatro	상처, 흉	a scar, a cicatrice	G9	0    	0000-00-00 00:00:00
 stomako	nomado	유목민	a nomad	OA	0    	0000-00-00 00:00:00
-stomako	Georgo	조지, 게오르그 (남자 이름)	George	PA	0    	0000-00-00 00:00:00
 stomako	sakristio	향방, (교회)성물안치소, 성의실, 제의실	a vestry (in a church)	OA	0    	0000-00-00 00:00:00
 stomako	fantomo	유령, 망령	a phantom, a ghost	PA	0    	0000-00-00 00:00:00
 stomako	biografio	전기	biography	OA	0    	0000-00-00 00:00:00
-stomako	elfo	꼬마요정	an elf	OA	0    	0000-00-00 00:00:00
+stomako	elfo	꼬마요정, 엘프	an elf	OA	0    	0000-00-00 00:00:00
 stomako	amatoro	아마추어, 비전문가, 애호가	an amateur	G9	0    	0000-00-00 00:00:00
 stomako	kolizii	충돌하다, 부딪히다	to collide with, to run into, to clash	G9	0    	0000-00-00 00:00:00
 stomako	luko	천창, 빛들이 창	a skylight, a porthole, a louver	G9	0    	0000-00-00 00:00:00
@@ -3966,7 +3923,7 @@ stomako	splito	조각, 파편, 토막	a splinter, a chip	G9	0    	0000-00-00 00:
 stomako	kalo	티눈	a callus	G9	0    	0000-00-00 00:00:00
 stomako	angoro	격통 (질식, 심장발작), 심한 고통	an anguish, an agony, a distress	OA	0    	0000-00-00 00:00:00
 stomako	kasedo	카세트	a cassette	KO	0    	0000-00-00 00:00:00
-stomako	kanado	카나다	Canada	OA	0    	0000-00-00 00:00:00
+stomako	kanado	캐나다	Canada	OA	0    	0000-00-00 00:00:00
 stomako	torto	과일파이, 잼을 바른 빵, 케잌	a tart, a pie	G9	0    	0000-00-00 00:00:00
 stomako	injekti	주사놓다	to inject	G9	0    	0000-00-00 00:00:00
 stomako	refo	암초, (돛)축범부	a reef, a reef (sail)	OA	0    	0000-00-00 00:00:00
@@ -3979,7 +3936,7 @@ stomako	angilo	뱀장어	an eel	G9	0    	0000-00-00 00:00:00
 stomako	vejno	혈관	a vein	G9	0    	0000-00-00 00:00:00
 stomako	katalogo	목록	a catalogue	G9	0    	0000-00-00 00:00:00
 stomako	ĝendarmo	헌병	a gendarme, a patrolman	G9	0    	0000-00-00 00:00:00
-stomako	mastrumi	가사를 돌보다	to keep a house, to manage	G8	0    	0000-00-00 00:00:00
+stomako	mastrumi	관리하다, 돌보다 (가사를 돌보다)	to manage, to keep (a house)	G8	0    	0000-00-00 00:00:00
 stomako	imuna	면역의	immune, resistant	G9	0    	0000-00-00 00:00:00
 stomako	epilepsio	간질, 지랄병	an epilepsy	OA	0    	0000-00-00 00:00:00
 stomako	stadio	단계, 시기, 스타디온(280미터)	a stage, a period, a phase, a stadium	G9	0    	0000-00-00 00:00:00
@@ -4044,7 +4001,7 @@ stomako	grafologio	필적학자	graphology	OA	0    	0000-00-00 00:00:00
 stomako	mahagono	마호가니, 적갈색 목재	a mahogany	OA	0    	0000-00-00 00:00:00
 stomako	garaĝo	주차장, (자동차) 정비소	a garage	G8	0    	0000-00-00 00:00:00
 stomako	arkaika	고대의, 고풍의	archaic	OA	0    	0000-00-00 00:00:00
-stomako	homonimo	동음의의어	a homonym	OA	0    	0000-00-00 00:00:00
+stomako	homonimo	동음이의어(同音異議語)	a homonym	OA	0    	0000-00-00 00:00:00
 stomako	konveni	적합하다	to be appropriate, to be suitable	KO	0    	0000-00-00 00:00:00
 stomako	karato	캐럿	a carat	OA	0    	0000-00-00 00:00:00
 stomako	agrafo	호크, 고리	a fastener, a binding, a staple, a clamp	OA	0    	0000-00-00 00:00:00
@@ -4659,7 +4616,7 @@ stomako	amuleto	부적, (목에 거는) 호신패(護身牌)	an amulet	OA	0    	
 stomako	akselo	겨드랑이	an armpit, a crotch (of a tree), an axil	OA	0    	0000-00-00 00:00:00
 stomako	tropo	비유(比喩, trope) (수사법)	a trope	OA	0    	0000-00-00 00:00:00
 stomako	atributo	속성, 성질, 관직의 표식	an attribute	OA	0    	0000-00-00 00:00:00
-stomako	debeto	부채	a debit	G9	0    	0000-00-00 00:00:00
+stomako	debeto	부채, 빚	a debit	G9	0    	0000-00-00 00:00:00
 stomako	kluki	꼬꼬댁 거리다 (암닭)	to cluck	OA	0    	0000-00-00 00:00:00
 stomako	akvilegio	매발톱꽃	a columbine, an aquilegia	OA	0    	0000-00-00 00:00:00
 stomako	anagalo	뚜껑별꽃, 별봄맞이꽃, 지유꽃	a scarlet pimpernel (Anagallis)	OA	0    	0000-00-00 00:00:00
@@ -4922,7 +4879,7 @@ stomako	kolodio	콜로디온 (알콜/에테르 혼합액, 사진원판/상처에
 stomako	etiketo	예절, 예의범절, 에티켓	an etiquette, a label, a tag, code of conduct	OA	0    	0000-00-00 00:00:00
 stomako	konglomerato	역암 (자갈이 교결된 암석), 복합기업, 재벌기업	a conglomerate	OA	0    	0000-00-00 00:00:00
 stomako	konkava	오목면의, 오목한	a concave	OA	0    	0000-00-00 00:00:00
-stomako	sindona	헌신적인	generous	G9	0    	0000-00-00 00:00:00
+stomako	sindona	헌신적인	devoted, generous	G9	0    	0000-00-00 00:00:00
 stomako	konveksa	볼록면의, 볼록한	convex	OA	0    	0000-00-00 00:00:00
 stomako	eŭkaristio	성체, 성만찬, 성찬 (빵과 포도주)	a eucharist, a sacrament	OA	0    	0000-00-00 00:00:00
 stomako	kosmogonio	우주기원론	cosmogony	OA	0    	0000-00-00 00:00:00
@@ -5007,7 +4964,6 @@ stomako	lamao	라마승	Lama	OA	0    	0000-00-00 00:00:00
 stomako	stenografi	속기하다	to stenography, to write shorthand	OA	0    	0000-00-00 00:00:00
 stomako	mandareno	(중국) 관리, 관인(官人), 고관(高官)	a mandarin (officer)	OA	0    	0000-00-00 00:00:00
 stomako	libano	레바논 (나라)	Lebanon	OA	0    	0000-00-00 00:00:00
-stomako	manufakuturo	공장	a manufacture	OA	0    	0000-00-00 00:00:00
 stomako	mediumo	영매(靈媒)	a medium	OA	0    	0000-00-00 00:00:00
 stomako	sekcio	과, 조, 구분, 구획, 섹션	a section	G9	0    	0000-00-00 00:00:00
 stomako	metempsikozo	윤회(輪廻), 윤회(輪廻)설	metempsychosis, reincarnation	OA	0    	0000-00-00 00:00:00
@@ -5245,7 +5201,7 @@ stomako	instituto	연구소, 학회	an institute	NA	0    	0000-00-00 00:00:00
 stomako	operatoro	연산자	an operator	NA	0    	0000-00-00 00:00:00
 stomako	oratori	연설하다	to deliver an oration, to harangue	NA	0    	0000-00-00 00:00:00
 stomako	amato	연인	a beloved, a beloved one	NA	0    	0000-00-00 00:00:00
-stomako	Anglio	영국	England	NA	0    	0000-00-00 00:00:00
+stomako	Anglio	잉글랜드(영국)	England	NA	0    	0000-00-00 00:00:00
 stomako	Britio	영국	United Kingdom	NA	0    	0000-00-00 00:00:00
 stomako	brita	영국의	British	NA	0    	0000-00-00 00:00:00
 stomako	kinejo	영화관	a cinema, a movie theater	NA	0    	0000-00-00 00:00:00
@@ -5275,7 +5231,7 @@ stomako	rakonto	이야기	a narrative, a story	NA	0    	0000-00-00 00:00:00
 stomako	najbara	이웃의	neighboring	NA	0    	0000-00-00 00:00:00
 stomako	Italio	이태리	Italy	NA	0    	0000-00-00 00:00:00
 stomako	indonezio	인도네시아	Indonesia	NA	0    	0000-00-00 00:00:00
-stomako	Hindio	인디아	India	NA	0    	0000-00-00 00:00:00
+stomako	Hindio	인도	India	NA	0    	0000-00-00 00:00:00
 stomako	haladzo	일산화탄소, 냄새, 악취, 유독가스	stench, stink	NA	0    	0000-00-00 00:00:00
 stomako	ellitiĝi	일어나다(침대에서 나오다)	to get out of bed, to get up	NA	0    	0000-00-00 00:00:00
 stomako	laborejo	일터	a workplace, a studio, a workshop	NA	0    	0000-00-00 00:00:00
@@ -5302,7 +5258,6 @@ stomako	talento	재능	a talent	NA	0    	0000-00-00 00:00:00
 stomako	cindrujo	재떨이	an ashtray	NA	0    	0000-00-00 00:00:00
 stomako	stebmaŝino	재봉틀	a sewing machine, a sewer	NA	0    	0000-00-00 00:00:00
 stomako	spirita	정신적인, 영적인	spiritual	NA	0    	0000-00-00 00:00:00
-stomako	verspere	저녁에	in the evening	NA	0    	0000-00-00 00:00:00
 stomako	deca	적절한, 적당한, 어울리는	decent, proper, suitable	NA	0    	0000-00-00 00:00:00
 stomako	ĉiopova	전능의	almighty, all-powered, omnipotent	NA	0    	0000-00-00 00:00:00
 stomako	propraĵo	전유물, 재산	a property, a possesion	NA	0    	0000-00-00 00:00:00
@@ -5383,15 +5338,14 @@ stomako	detektiva	탐정의	detective	NA	0    	0000-00-00 00:00:00
 stomako	lanfadeno	털실	a worsted	NA	0    	0000-00-00 00:00:00
 stomako	ŝako	체스, 장기	chess	NA	0    	0000-00-00 00:00:00
 stomako	traveturo	통과	a drive-through	NA	0    	0000-00-00 00:00:00
-stomako	ladmanĝajo	통조림	a can (of food)	NA	0    	0000-00-00 00:00:00
 stomako	akuzativo	목적격, 목적격 접미사 (-n)	an accusative	NA	0    	0000-00-00 00:00:00
 stomako	balisto	투석기	a ballista	NA	0    	0000-00-00 00:00:00
-stomako	televidkanalo	티브이 채널	a TV channel	NA	0    	0000-00-00 00:00:00
+stomako	televidkanalo	텔레비전 채널	a TV channel	NA	0    	0000-00-00 00:00:00
 stomako	teamo	팀	a team	NA	0    	0000-00-00 00:00:00
 stomako	detruita	파괴된	destroyed	NA	0    	0000-00-00 00:00:00
 stomako	Pakistano	파키스탄	Pakistan	NA	0    	0000-00-00 00:00:00
 stomako	vendota	판매예정의, 팔릴	for sale	NA	0    	0000-00-00 00:00:00
-stomako	fervorulo	팬	a fan, a devotee, a zeelot, an enthusiast	NA	0    	0000-00-00 00:00:00
+stomako	fervorulo	팬, 추종자	a fan, a devotee, a zeelot, an enthusiast	NA	0    	0000-00-00 00:00:00
 stomako	pando	팬더	a panda	NA	0    	0000-00-00 00:00:00
 stomako	Peruo	페루	Peru	NA	0    	0000-00-00 00:00:00
 stomako	pingveno	펭귄	a penguin	NA	0    	0000-00-00 00:00:00
@@ -5403,9 +5357,8 @@ stomako	pola	폴란드의	Polish	NA	0    	0000-00-00 00:00:00
 stomako	Francio	프랑스	France	NA	0    	0000-00-00 00:00:00
 stomako	franca	프랑스의	French	NA	0    	0000-00-00 00:00:00
 stomako	lacigi	피곤하게 하다	to exhaust, to fatique, to tire	NA	0    	0000-00-00 00:00:00
-stomako	Finlando	핀랜드	Finland	NA	0    	0000-00-00 00:00:00
 stomako	skribilaro	필기도구(들)	witing utensils, stationary	NA	0    	0000-00-00 00:00:00
-stomako	necese	필연적으로	necessarily	NA	0    	0000-00-00 00:00:00
+stomako	necese	필요하게, 불가피하게	necessarily	NA	0    	0000-00-00 00:00:00
 stomako	unuiĝi	하나가 되다, 단결하다	to get united, to join, to coalesce, to unite	NA	0    	0000-00-00 00:00:00
 stomako	unuope	하나씩	one at a time	NA	0    	0000-00-00 00:00:00
 stomako	servisto	하인	a servant	NA	0    	0000-00-00 00:00:00
@@ -5427,23 +5380,21 @@ stomako	adiaŭo	헤어짐	a farewell, a goodbye	NA	0    	0000-00-00 00:00:00
 stomako	Hago	헤이그	The Hague	NA	0    	0000-00-00 00:00:00
 stomako	saĝo	현명, 지혜	a wisdom	NA	0    	0000-00-00 00:00:00
 stomako	saĝulo	현인	a sage	NA	0    	0000-00-00 00:00:00
-stomako	simpatia	호감이 가는	sympathetic	NA	0    	0000-00-00 00:00:00
+stomako	simpatia	동정심이 드는	sympathetic	NA	0    	0000-00-00 00:00:00
 stomako	favoro	호의, 은총	a favor, a goodwill	NA	0    	0000-00-00 00:00:00
 stomako	konfuzilo	혼란시키는 도구	something that confuses	NA	0    	0000-00-00 00:00:00
 stomako	fantazia	환상적인	fantastic	NA	0    	0000-00-00 00:00:00
-stomako	klare	환하게	clearly	NA	0    	0000-00-00 00:00:00
+stomako	klare	명확하게	clearly	NA	0    	0000-00-00 00:00:00
 stomako	ŝlagro	히트송	a hit song	NA	0    	0000-00-00 00:00:00
 stomako	inundo	홍수	an inundation, a flood	NA	0    	0000-00-00 00:00:00
 stomako	ŝtormo	폭풍, 태풍	a storm	NA	0    	0000-00-00 00:00:00
-stomako	T-cxemizo	티셔츠	a T-shirt	NA	0    	0000-00-00 00:00:00
-stomako	elektra	전등	electric, electrical	NA	0    	0000-00-00 00:00:00
+stomako	elektra	전기의	electric, electrical	NA	0    	0000-00-00 00:00:00
 stomako	abako	주판(珠板)	an abacus	NA	0    	0000-00-00 00:00:00
 stomako	alergio	알레르기	allergy	NA	0    	0000-00-00 00:00:00
 stomako	Adamo	아담	Adam	NA	0    	0000-00-00 00:00:00
 stomako	acero	단풍	a maple	NA	0    	0000-00-00 00:00:00
 stomako	aklamo	환호, 갈채	an acclamation (joyful)	NA	0    	0000-00-00 00:00:00
 stomako	akordiono	아코디언	an accordion	NA	0    	0000-00-00 00:00:00
-stomako	acrobata trupo	곡마단	acrobat troops	NA	0    	0000-00-00 00:00:00
 stomako	akuŝejo	조산원	a maternity home	NA	0    	0000-00-00 00:00:00
 stomako	akvoralo	뜸부기	a water rail	NA	0    	0000-00-00 00:00:00
 stomako	almozulo	거지	a beggar	NA	0    	0000-00-00 00:00:00
@@ -5465,7 +5416,7 @@ stomako	aŭskultilo	이어폰	a earphone, a receiver	NA	0    	0000-00-00 00:00:0
 stomako	aŭtodidakto	독학자	an autodidact, a self-taught person	NA	0    	0000-00-00 00:00:00
 stomako	aŭtografio	자서전	an autography	NA	0    	0000-00-00 00:00:00
 stomako	azaleo	진달래	an azalea	NA	0    	0000-00-00 00:00:00
-stomako	balaaĵujo	쓰레기통	a wastebin, a dust-bin	NA	0    	0000-00-00 00:00:00
+stomako	balaaĵujo	쓰레기통 (쓰레받기)	a wastebin, a dust-bin	NA	0    	0000-00-00 00:00:00
 stomako	balailo	빗자루	a broom, a sweeper	NA	0    	0000-00-00 00:00:00
 stomako	balotilo	투표용지	a ballot, a ballot paper	NA	0    	0000-00-00 00:00:00
 stomako	bankizo	빙산(氷山)	a ice cap, a floe	NA	0    	0000-00-00 00:00:00
@@ -5519,7 +5470,6 @@ stomako	erinaco	고슴도치	a hedgehog	NA	0    	0000-00-00 00:00:00
 stomako	ermito	은둔자(隱遁者)	an hermit	NA	0    	0000-00-00 00:00:00
 stomako	eskadro (floto)	함대(艦隊)	a fleet	NA	0    	0000-00-00 00:00:00
 stomako	eskimo	에스키모	Eskimo	NA	0    	0000-00-00 00:00:00
-stomako	esperantolgo	에스페란토학	esperantolgo	NA	0    	0000-00-00 00:00:00
 stomako	Everesto	에베레스트	Everest	NA	0    	0000-00-00 00:00:00
 stomako	fajfilo	호각, 기적(汽笛)	a whistle	NA	0    	0000-00-00 00:00:00
 stomako	faladpupo	오뚝이	a roly poly toy	NA	0    	0000-00-00 00:00:00
@@ -5545,7 +5495,6 @@ stomako	fosilio	화석(化石)	a fossil	NA	0    	0000-00-00 00:00:00
 stomako	frenezulo	미친사람, 광인	a fanatic, a lunatic, a maniac	NA	0    	0000-00-00 00:00:00
 stomako	frizistino	미용사	a hairdresser	NA	0    	0000-00-00 00:00:00
 stomako	frizosalono	미용실	a hairdressing salon	NA	0    	0000-00-00 00:00:00
-stomako	fromaĵo	치즈	cheese	NA	0    	0000-00-00 00:00:00
 stomako	funebrulo	조객, 문상객	a mouner	NA	0    	0000-00-00 00:00:00
 stomako	galaksio	은하수	a galaxy	NA	0    	0000-00-00 00:00:00
 stomako	galerio	화랑(畵廊)	a gallery	NA	0    	0000-00-00 00:00:00
@@ -5565,7 +5514,7 @@ stomako	gongo	종(鐘)	a gong	NA	0    	0000-00-00 00:00:00
 stomako	granato	석류	a grenade, a pomegranate	NA	0    	0000-00-00 00:00:00
 stomako	gravito	중력(重力)	gravity, gravitation	NA	0    	0000-00-00 00:00:00
 stomako	grenado	수류탄	a grenade	NA	0    	0000-00-00 00:00:00
-stomako	aligatori	에스페란토 모임에서 영어로 말하다	to speak in non-Esperanto (English)	NA	0    	0000-00-00 00:00:00
+stomako	aligatori	에스페란토 모임에서 외국어(영어)로 말하다	to speak in non-Esperanto (English)	NA	0    	0000-00-00 00:00:00
 stomako	gutetigilo	스프레이	a spray	NA	0    	0000-00-00 00:00:00
 stomako	harpinglo	머리핀	a hairpin, a bracket	NA	0    	0000-00-00 00:00:00
 stomako	harpo	하프(악기)	a harp	NA	0    	0000-00-00 00:00:00
@@ -5599,7 +5548,7 @@ stomako	kapuĉo	두건, 모자	a hood, a cowl	NA	0    	0000-00-00 00:00:00
 stomako	karaso	붕어(물고기)	a crucian carp	NA	0    	0000-00-00 00:00:00
 stomako	kariertabelo	이력서	a résumé	NA	0    	0000-00-00 00:00:00
 stomako	karolo	캐럴	a carol	NA	0    	0000-00-00 00:00:00
-stomako	kaskado	폭포	a cascade, a waterfall	NA	0    	0000-00-00 00:00:00
+stomako	kaskado	다단계 폭포	a cascade, a waterfall	NA	0    	0000-00-00 00:00:00
 stomako	kasko	투구, 철모	a helmet, a casque	NA	0    	0000-00-00 00:00:00
 stomako	kiosko	가판대, 가두 판매대	a kiosque	NA	0    	0000-00-00 00:00:00
 stomako	kiraso	갑옷	a armor, an armored car, armor plate	NA	0    	0000-00-00 00:00:00
@@ -5613,7 +5562,7 @@ stomako	komikulo	익살꾼	a comedian	NA	0    	0000-00-00 00:00:00
 stomako	kompakt-disko	씨디, CD	a compact-disc	NA	0    	0000-00-00 00:00:00
 stomako	komputila pirato	해커	a computer pirate, a hacker	NA	0    	0000-00-00 00:00:00
 stomako	konfitaĵo	잼	a conserved jam	NA	0    	0000-00-00 00:00:00
-stomako	konko	조가비	a sea shell, a conch	NA	0    	0000-00-00 00:00:00
+stomako	konko	조개, 조가비	a sea shell, a conch	NA	0    	0000-00-00 00:00:00
 stomako	konsilanto	자문, 조언자	an adviser, a counsellor	NA	0    	0000-00-00 00:00:00
 stomako	kontanto	현찰	a cash money	NA	0    	0000-00-00 00:00:00
 stomako	konvekto	대류(對流)	a convection	NA	0    	0000-00-00 00:00:00
@@ -5646,9 +5595,8 @@ stomako	maĉgumo	껌	a chewing gum	NA	0    	0000-00-00 00:00:00
 stomako	magiisto	마술사(魔術師)	a magician	NA	0    	0000-00-00 00:00:00
 stomako	vindi	(포대기로) 싸다	to wrap, to swathe, to swaddle	NA	0    	0000-00-00 00:00:00
 stomako	magneto	자석(磁石)	a magnet	NA	0    	0000-00-00 00:00:00
-stomako	delfeno	돌핀	a dolphin	NA	0    	0000-00-00 00:00:00
+stomako	delfeno	돌고래	a dolphin	NA	0    	0000-00-00 00:00:00
 stomako	magnolio	목련화	a magnolia	NA	0    	0000-00-00 00:00:00
-stomako	maĝobastonetoj	젓가락	chopsticks	NA	0    	0000-00-00 00:00:00
 stomako	malalta tajdo	썰물	a low tide	NA	0    	0000-00-00 00:00:00
 stomako	malsano	병(病)	a disease	NA	0    	0000-00-00 00:00:00
 stomako	mamulo (mambesto)	포유동물	a mammal	NA	0    	0000-00-00 00:00:00
@@ -5790,7 +5738,7 @@ stomako	sojsaŭco	간장	soy sauce	NA	0    	0000-00-00 00:00:00
 stomako	ĉarniro	돌쩌귀	a hinge	NA	0    	0000-00-00 00:00:00
 stomako	spektanto	관람객, 구경꾼	a spectator, a viewer	NA	0    	0000-00-00 00:00:00
 stomako	spino (vertebraro)	척추	a spine	NA	0    	0000-00-00 00:00:00
-stomako	spiono	간첩	a spy	NA	0    	0000-00-00 00:00:00
+stomako	spiono	간첩, 스파이	a spy	NA	0    	0000-00-00 00:00:00
 stomako	sprono	박차(拍車)	a spur	NA	0    	0000-00-00 00:00:00
 stomako	stampilo	스탬프	a stamp, a punch	NA	0    	0000-00-00 00:00:00
 stomako	stepo	대초원	a steppe	NA	0    	0000-00-00 00:00:00
@@ -5850,7 +5798,7 @@ stomako	vintrodormo	동면(冬眠)	a hibernation	NA	0    	0000-00-00 00:00:00
 stomako	viŝilo	닦는 기구	an eraser, a wiper	NA	0    	0000-00-00 00:00:00
 stomako	voĉkordoj	성대(聲帶)	vocal cords	NA	0    	0000-00-00 00:00:00
 stomako	vojaĝagentejo	여행사	a travel agency	NA	0    	0000-00-00 00:00:00
-stomako	Zamenhof	자멘호프	Zamenhof	NA	0    	0000-00-00 00:00:00
+stomako	Zamenhof	자멘호프 (에스페란토 창시자)	Zamenhof (Esperanto Creator)	NA	0    	0000-00-00 00:00:00
 stomako	zipo	지퍼	a zipper	NA	0    	0000-00-00 00:00:00
 stomako	zookulturado	축산(畜産)	farming of animals	NA	0    	0000-00-00 00:00:00
 stomako	ĉapano	샴페인	a champagne	NA	0    	0000-00-00 00:00:00
@@ -6125,3 +6073,17 @@ stomako	kreskaĵo	(자라난 것) 식물, 초목	(something that grows) a weed, 
 stomako	apetigilo	식욕촉진제	appetite stimulant	NA	0    	0000-00-00 00:00:00
 stomako	anorako	방수, 방한용 후드달린 파커	an anorak, a parka	NA	0    	0000-00-00 00:00:00
 stomako	ŝironte	찢으려고 하면서, 찢으려다가	(being) about to tear	NA	0    	0000-00-00 00:00:00
+filo	kaj (k.)	그리고, ~와, ~과	and	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ferio (feria tago)	휴일	holiday, a holiday	KO,G7	0    	0000-00-00 00:00:00
+stomako	-njo	<접미사> 여성 애칭 (예: 엄마)	<suffix> female pet name	G9	0    	0000-00-00 00:00:00
+stomako	-ĉjo	<접미사> 남성 애칭 (예: 아빠)	<suffix> male pet name	G9	0    	0000-00-00 00:00:00
+stomako	vespere	저녁에	in the evening	NA	0    	0000-00-00 00:00:00	4
+stomako	UN (Unuiĝintaj Nacioj)	국제연합	United Nations	4H	0    	0000-00-00 00:00:00
+stomako	F-ino. (Fraŭlino)	~양	Miss.	4H	0    	0000-00-00 00:00:00
+stomako	manĝobastonetoj	젓가락	chopsticks	NA	0    	0000-00-00 00:00:00	6
+stomako	eksedziniĝinta	이혼한(녀)	divorced (female)	NA	0    	0000-00-00 00:00:00
+stomako	Finnlando	핀란드	Finland	NA	0    	0000-00-00 00:00:00	8
+stomako	manufakturo	공장	a manufacture	OA	0    	0000-00-00 00:00:00
+stomako	akrobata trupo	곡마단	acrobat troops	NA	0    	0000-00-00 00:00:00
+stomako	esperantologo	에스페란토학	Esperanto-Study	NA	0    	0000-00-00 00:00:00
+stomako	EPA (E-Populariga Asocio de Oomoto)	오오모토 에스페란토 보급회	EPA (E-Propaganda Association of Oomoto)	4H	0    	0000-00-00 00:00:00	11

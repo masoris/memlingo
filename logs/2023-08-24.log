@@ -1,0 +1,58 @@
+2023-08-24 16:38:29	/api/login.api	c@c.com	c@c.com	ko-kr
+2023-08-24 16:38:29	/api/get_course_info.api	c@c.com	ko-kr
+2023-08-24 16:38:34	/api/get_course_info.api	c@c.com	ko-kr
+2023-08-24 16:38:35	/api/session-start.api	c@c.com	ko-kr	C
+2023-08-24 16:38:35	/api/card-next.api	c@c.com	C	ko-kr	amo	3	./quizH.html	female1
+2023-08-24 16:38:36	/api/similar-words.api	c@c.com	C	ko-kr	amo
+2023-08-24 16:38:39	/api/put-score.api	c@c.com	C	ko-kr	amo	1
+2023-08-24 16:38:39	/api/playsound.api	c@c.com	ludoviko/amo.mp3
+2023-08-24 16:38:42	/api/card-next.api	c@c.com	C	ko-kr	malamo	2	./quizI.html	male1
+2023-08-24 16:38:42	/api/playsound.api	c@c.com	male1/amo.mp3
+2023-08-24 16:38:43	/api/similar-words-jk.api	c@c.com	C	ko-kr	malamo	
+2023-08-24 16:38:47	/api/playsound.api	c@c.com	female2/malamo.mp3
+2023-08-24 16:38:48	/api/card-next.api	c@c.com	C	ko-kr	silenta	3	./quizF.html	ludoviko
+2023-08-24 16:38:48	/api/playsound.api	c@c.com	female2/malamo.mp3
+2023-08-24 16:38:51	/api/playsound.api	c@c.com	ludoviko/silenta.mp3
+2023-08-24 16:38:53	/api/card-next.api	c@c.com	C	ko-kr	ama	2	./quizI.html	male1
+2023-08-24 16:38:53	/api/playsound.api	c@c.com	male2/silenta.mp3
+2023-08-24 16:38:54	/api/similar-words-jk.api	c@c.com	C	ko-kr	ama	
+2023-08-24 16:39:00	/api/playsound.api	c@c.com	male1/ama.mp3
+2023-08-24 16:39:01	/api/card-next.api	c@c.com	C	ko-kr	silente	2	./quizI.html	female1
+2023-08-24 16:39:01	/api/playsound.api	c@c.com	female1/ama.mp3
+2023-08-24 16:39:02	/api/similar-words-jk.api	c@c.com	C	ko-kr	silente	
+2023-08-24 16:39:04	/api/playsound.api	c@c.com	ludoviko/silente.mp3
+2023-08-24 16:39:05	/api/card-next.api	c@c.com	C	ko-kr	ĝoje	2	./quizD.html	male1
+2023-08-24 16:39:05	/api/playsound.api	c@c.com	male1/silente.mp3
+2023-08-24 16:39:07	/api/similar-words-kor.api	c@c.com	C	ko-kr	기쁘게
+2023-08-24 16:39:09	/api/put-score-kor.api	c@c.com	C	ko-kr	용기있게	-1
+2023-08-24 16:39:09	/api/put-score-kor.api	c@c.com	C	ko-kr	기쁘게	1
+2023-08-24 16:39:09	/api/playsound.api	c@c.com	female1/ĝoje.mp3
+2023-08-24 16:39:10	/api/card-next.api	c@c.com	C	ko-kr	doni	2	./quizB.html	female1
+2023-08-24 16:39:10	/api/playsound.api	c@c.com	female2/ĝoje.mp3
+2023-08-24 16:39:11	/api/similar-words.api	c@c.com	C	ko-kr	doni
+2023-08-24 16:39:14	/api/playsound.api	c@c.com	female2/digno.mp3
+2023-08-24 16:39:18	/api/put-score.api	c@c.com	C	ko-kr	digno	1
+2023-08-24 16:39:18	/api/playsound.api	c@c.com	ludoviko/digno.mp3
+2023-08-24 16:39:20	/api/playsound.api	c@c.com	male1/Hindio.mp3
+2023-08-24 16:39:21	/api/put-score.api	c@c.com	C	ko-kr	Hindio	1
+2023-08-24 16:39:21	/api/playsound.api	c@c.com	ludoviko/Hindio.mp3
+2023-08-24 16:39:23	/api/playsound.api	c@c.com	ludoviko/doni.mp3
+2023-08-24 16:39:24	/api/put-score.api	c@c.com	C	ko-kr	doni	1
+2023-08-24 16:39:24	/api/playsound.api	c@c.com	female2/doni.mp3
+2023-08-24 16:39:25	/api/playsound.api	c@c.com	female2/cidonio.mp3
+2023-08-24 16:39:27	/api/put-score.api	c@c.com	C	ko-kr	cidonio	1
+2023-08-24 16:39:27	/api/playsound.api	c@c.com	male2/cidonio.mp3
+2023-08-24 16:39:29	/api/card-next.api	c@c.com	C	ko-kr	havi	3	./quizD.html	female2
+2023-08-24 16:39:29	/api/similar-words-kor.api	c@c.com	C	ko-kr	가지다, 소유하다
+2023-08-24 16:39:31	/api/put-score-kor.api	c@c.com	C	ko-kr	가지다, 소유하다	1
+2023-08-24 16:39:31	/api/playsound.api	c@c.com	female2/havi.mp3
+2023-08-24 16:39:32	/api/card-next.api	c@c.com	C	ko-kr	sono	2	./quizE.html	female1
+2023-08-24 16:39:32	/api/playsound.api	c@c.com	male1/havi.mp3
+2023-08-24 16:39:35	/api/playsound.api	c@c.com	female1/sono.mp3
+2023-08-24 16:39:37	/api/card-next.api	c@c.com	C	ko-kr	silento	2	./quizI.html	female1
+2023-08-24 16:39:37	/api/playsound.api	c@c.com	ludoviko/sono.mp3
+2023-08-24 16:39:37	/api/similar-words-jk.api	c@c.com	C	ko-kr	silento	
+2023-08-24 16:39:39	/api/playsound.api	c@c.com	female2/silento.mp3
+2023-08-24 16:39:41	/api/playsound.api	c@c.com	male1/silento.mp3
+2023-08-24 16:39:42	/api/session-finish.api	c@c.com	ko-kr	C
+2023-08-24 16:39:48	/api/get_course_info.api	c@c.com	ko-kr
