@@ -66,7 +66,7 @@ function click_btn_easy_hard(easy_or_hard) {
 }
 
 window.onload = function () {
-    if (getCookie('login_status') != 'success') {
+    if (localStorage.getItem('login_status') != 'success') {
         window.location.href = "./login.html";
         return;
     }

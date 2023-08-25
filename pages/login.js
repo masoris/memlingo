@@ -23,6 +23,7 @@ function onlogin_click() {
             localStorage.setItem('user', responseObj['user']);
             localStorage.setItem('email', responseObj['email']);
             localStorage.setItem('lang', responseObj['lang']);
+            localStorage.setItem('login_status', 'success');
             // localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
             // alert(getCookie('login_status'));
             window.location.href = "./user-courses.html";
@@ -106,29 +107,14 @@ window.onload = function () {
     $("radio-cn-zh").onclick = lang_changed;
     $("radio-cn-tw").onclick = lang_changed;
 
-
-
     if (localStorage.getItem('lang') != null) {
         var lang = localStorage.getItem('lang');
         $("radio-" + lang).checked = true;
-
-        // $('lang').value = localStorage.getItem('lang');
-
     } else {
         $("radio-ko-kr").checked = true;
-
-        // $('lang').value = 'ko-kr';
     }
 
-    // if (localStorage.getItem("lang") == null) {
-    //     localStorage.setItem("lang") = "ko-kr";
-    // }
-    // $("lang").value = localStorage.lang;
-
-    // $('lang').onchange = function () {
-    //     localStorage.lang = $('lang').value;
-    //     display_message();
-    // }
-
+    lang_changed();
     display_message();
+    localStorage.setItem('login_status', 'logout');
 };

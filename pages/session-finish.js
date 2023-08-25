@@ -24,7 +24,7 @@ function call_session_finish_api() {
 }
 
 window.onload = function () {
-    if (getCookie('login_status') != 'success') {
+    if (localStorage.getItem('login_status') != 'success') {
         window.location.href = "./login.html";
         return;
     }
