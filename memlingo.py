@@ -56,7 +56,12 @@ def create_user(email, lang):
     user_info_file = os.path.join(user_dir, "userinfo.json")
     with open(user_info_file, "w", encoding='utf-8') as f:
         json.dump(user_info, f)
+
+    create_user_courses_lang(email, lang)
     
+
+def create_user_courses_lang(email, lang):
+    user_dir = os.path.join("./users", email[0], email)
     # 유저 하위 디렉토리에 course/lang 디렉토리를 만들어 준다.
     user_courses_lang_dir = os.path.join(user_dir, "courses", lang)
     if not os.path.exists(user_courses_lang_dir):
@@ -80,15 +85,9 @@ def create_user(email, lang):
             row = line.strip().split('\t')
             if len(row) <5:
                 continue
-            if len(row) == 5:
-                row.append('0    ')
-                row.append('0000-00-00 00:00:00')
-            elif len(row) == 6:
-                row[5] = '0    '
-                row.append('0000-00-00 00:00:00')
-            elif len(row) == 7:
-                row[5] = '0    ' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
-                row[6] = '0000-00-00 00:00:00' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
+            row = row[0:5]
+            row.append('0    ')
+            row.append('0000-00-00 00:00:00')
             f2.write('\t'.join(row)+'\n')
         fcntl.flock(f2, fcntl.LOCK_UN)
         f2.close()
@@ -142,6 +141,9 @@ def get_course_info():
         result = {'resp': 'Fail', "message": "folder not found :"+"./courses/"+lang}
         resp = make_response(jsonify(result))
         return resp
+    
+    if not os.path.exists(user_courses_lang_dir):
+        create_user_courses_lang(email, lang)
 
     for course_name in dirs_in("./courses/"+lang):#마스터 코스 목록 lang 하위의 마스터 코스 목록
         user_course = {} #"subject":subject, "description":description, "short_description":short_description, "points":points, "progress":progress, "total_count":total_count, "needs_review":need_review, "not_seen":not_seen, "familiar":familiar, "mastered":mastered}

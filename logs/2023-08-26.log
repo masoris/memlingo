@@ -1,0 +1,69 @@
+2023-08-26 16:57:13	/api/login.api	c@c.com	c@c.com	en-us
+2023-08-26 16:57:13	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:09:43	/api/login.api	c@c.com	c@c.com	en-us
+2023-08-26 17:09:43	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:10:13	/api/login.api	c@c.com	c@c.com	en-us
+2023-08-26 17:10:13	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:17:58	/api/login.api	c@c.com	c@c.com	en-us
+2023-08-26 17:17:58	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:18:04	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:18:05	/api/session-start.api	c@c.com	en-us	A
+2023-08-26 17:18:05	/api/card-next.api	c@c.com	A	en-us	Esperanto	0	./quiz-first.html	ludoviko
+2023-08-26 17:18:06	/api/similar-words-jk.api	c@c.com	A	en-us	Esperanto	
+2023-08-26 17:21:47	/api/login.api	c@c.com	c@c.com	en-us
+2023-08-26 17:21:47	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:21:48	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:21:49	/api/session-start.api	c@c.com	en-us	A
+2023-08-26 17:21:49	/api/card-next.api	c@c.com	A	en-us	mi, vi	0	./quiz-first.html	ludoviko
+2023-08-26 17:21:49	/api/similar-words-jk.api	c@c.com	A	en-us	vi	
+2023-08-26 17:21:53	/api/playsound.api	c@c.com	female2/mi, vi.mp3
+2023-08-26 17:21:56	/api/card-next.api	c@c.com	A	en-us	estas, estis	0	./quiz-first.html	male2
+2023-08-26 17:21:56	/api/playsound.api	c@c.com	male2/mi, vi.mp3
+2023-08-26 17:21:57	/api/similar-words-jk.api	c@c.com	A	en-us	estis	
+2023-08-26 17:22:00	/api/playsound.api	c@c.com	male1/estas, estis.mp3
+2023-08-26 17:22:03	/api/card-next.api	c@c.com	A	en-us	mi estas ~	0	./quiz-first.html	female1
+2023-08-26 17:22:03	/api/playsound.api	c@c.com	female2/estas, estis.mp3
+2023-08-26 17:22:05	/api/similar-words-jk.api	c@c.com	A	en-us	mi	
+2023-08-26 17:22:08	/api/playsound.api	c@c.com	ludoviko/mi estas ~.mp3
+2023-08-26 17:22:10	/api/card-next.api	c@c.com	A	en-us	vi estas ~	0	./quiz-first.html	female1
+2023-08-26 17:22:10	/api/playsound.api	c@c.com	ludoviko/mi estas ~.mp3
+2023-08-26 17:22:11	/api/similar-words-jk.api	c@c.com	A	en-us	vi	
+2023-08-26 17:22:13	/api/playsound.api	c@c.com	ludoviko/vi estas ~.mp3
+2023-08-26 17:22:15	/api/card-next.api	c@c.com	A	en-us	saluton	0	./quiz-first.html	female1
+2023-08-26 17:22:15	/api/playsound.api	c@c.com	female1/vi estas ~.mp3
+2023-08-26 17:22:16	/api/similar-words-jk.api	c@c.com	A	en-us	saluton	
+2023-08-26 17:22:19	/api/playsound.api	c@c.com	female2/saluton.mp3
+2023-08-26 17:22:21	/api/card-next.api	c@c.com	A	en-us	saluton, mi estas ~	0	./quiz-first.html	male1
+2023-08-26 17:22:21	/api/playsound.api	c@c.com	male2/saluton.mp3
+2023-08-26 17:22:23	/api/similar-words-jk.api	c@c.com	A	en-us	saluton	mi
+2023-08-26 17:22:27	/api/playsound.api	c@c.com	male1/saluton, mi estas ~.mp3
+2023-08-26 17:22:29	/api/card-next.api	c@c.com	A	en-us	mia, via	0	./quiz-first.html	male1
+2023-08-26 17:22:29	/api/playsound.api	c@c.com	female2/saluton, mi estas ~.mp3
+2023-08-26 17:22:31	/api/similar-words-jk.api	c@c.com	A	en-us	via	
+2023-08-26 17:22:34	/api/playsound.api	c@c.com	female1/mia, via.mp3
+2023-08-26 17:22:36	/api/card-next.api	c@c.com	A	en-us	nomo	0	./quiz-first.html	male2
+2023-08-26 17:22:36	/api/playsound.api	c@c.com	male1/mia, via.mp3
+2023-08-26 17:22:37	/api/similar-words-jk.api	c@c.com	A	en-us	nomo	
+2023-08-26 17:22:40	/api/playsound.api	c@c.com	ludoviko/nomo.mp3
+2023-08-26 17:22:42	/api/card-next.api	c@c.com	A	en-us	mia nomo, via nomo	0	./quiz-first.html	male1
+2023-08-26 17:22:42	/api/playsound.api	c@c.com	female1/nomo.mp3
+2023-08-26 17:22:43	/api/similar-words-jk.api	c@c.com	A	en-us	via	nomo
+2023-08-26 17:22:45	/api/playsound.api	c@c.com	male1/mia nomo, via nomo.mp3
+2023-08-26 17:22:50	/api/card-next.api	c@c.com	A	en-us	mia nomo estas ~	0	./quiz-first.html	male2
+2023-08-26 17:22:50	/api/playsound.api	c@c.com	female2/mia nomo, via nomo.mp3
+2023-08-26 17:22:52	/api/similar-words-jk.api	c@c.com	A	en-us	nomo	mia
+2023-08-26 17:22:55	/api/playsound.api	c@c.com	male2/mia nomo estas ~.mp3
+2023-08-26 17:22:58	/api/playsound.api	c@c.com	male2/mia nomo estas ~.mp3
+2023-08-26 17:23:00	/api/session-finish.api	c@c.com	en-us	A
+2023-08-26 17:23:03	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:23:06	/api/session-start.api	c@c.com	en-us	A
+2023-08-26 17:23:06	/api/card-next.api	c@c.com	A	en-us	mia nomo estas ~	0	./quiz-first.html	female1
+2023-08-26 17:23:07	/api/similar-words-jk.api	c@c.com	A	en-us	nomo	mia
+2023-08-26 17:23:11	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:23:13	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:23:14	/api/session-start.api	c@c.com	en-us	C
+2023-08-26 17:23:14	/api/card-next.api	c@c.com	C	en-us	doni	0	./quiz-first.html	male1
+2023-08-26 17:23:14	/api/similar-words-jk.api	c@c.com	C	en-us	doni	
+2023-08-26 17:23:20	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:23:25	/api/get_course_info.api	c@c.com	en-us
+2023-08-26 17:23:39	/api/get_course_info.api	c@c.com	en-us

@@ -99,15 +99,11 @@ def update_contents(email_dir):
             if line in only_in_content_lines:
                 #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
                 row = line.strip().split('\t')
-                if len(row) == 5:
-                    row.append('0    ')
-                    row.append('0000-00-00 00:00:00')
-                elif len(row) == 6:
-                    row.append('0000-00-00 00:00:00')
-                elif len(row) <5:
+                if len(row) <5:
                     continue
-                row[5] = '0    ' #master_content_tsv 의 4번째 필드는 Alternative인데 myprogress_tsv의 4번째 필드는 Count임
-                row[6] = '0000-00-00 00:00:00' #master_content_tsv 의 5번째 필드는 Prononcation인데 myprogress_tsv의 5번째 필드는 Next Review Time임
+                row = row[0:5]
+                row.append('0    ')
+                row.append('0000-00-00 00:00:00')
                 fp.write('\t'.join(row)+'\n')
         fcntl.flock(fp, fcntl.LOCK_UN)
         fp.close()
