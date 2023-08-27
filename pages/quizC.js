@@ -92,7 +92,7 @@ function word_click(item) {
     var kor_txt = $(item + '_txt').innerText
 
     //만약에 match되면 현재 아이템을 색깔을 selected로 바꾼다.
-    if (kor_txt_card == kor_txt) {
+    if (kor_txt_card.trim() == kor_txt.trim()) {
         $('esp_txt').innerText = carditem.esp_txt;
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;

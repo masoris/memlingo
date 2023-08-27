@@ -55,6 +55,9 @@ def update_contents(email_dir):
         for line in fp:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]alternative1	[6]prononcation1
             row = line.split('\t')
+            if len(row) < 5: continue
+            if row[0] == "Level" and row[1] == "Esperanto":
+                continue
             if not row[1] in content_esps:
                 content_esps[row[1]] = line
                 content_lines.append(line)

@@ -102,7 +102,7 @@ function word_click(item) {
     play_sound_esp(esp_txt);
 
     //만약에 match되면 현재 아이템을 색깔을 selected로 바꾼다.
-    if (esp_txt_card == esp_txt) {
+    if (esp_txt_card.trim() == esp_txt.trim()) {
         $(item + '_border').style.borderColor = selected_color;
         $(item).style.backgroundColor = selected_color;
 

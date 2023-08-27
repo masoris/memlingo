@@ -14,19 +14,19 @@ function get_similar_words(carditem) {
         localStorage.setItem('similar_words', JSON.stringify(responseObj.selected));
         for (i = 0; i < 4; i++) {
             selected_item = responseObj.selected[i];
-            selected_esps[i] = selected_item[0];
-            selected_kors[i] = selected_item[1];
+            selected_esps[i] = selected_item[0].trim();
+            selected_kors[i] = selected_item[1].trim();
         }
         selected_kors.sort(() => Math.random() - 0.5);
         selected_esps.sort(() => Math.random() - 0.5);
-        $('right_1_txt').innerText = selected_kors[0];
-        $('right_2_txt').innerText = selected_kors[1];
-        $('right_3_txt').innerText = selected_kors[2];
-        $('right_4_txt').innerText = selected_kors[3];
-        $('left_1_txt').innerText = selected_esps[0];
-        $('left_2_txt').innerText = selected_esps[1];
-        $('left_3_txt').innerText = selected_esps[2];
-        $('left_4_txt').innerText = selected_esps[3];
+        $('right_1_txt').innerText = selected_kors[0].trim();
+        $('right_2_txt').innerText = selected_kors[1].trim();
+        $('right_3_txt').innerText = selected_kors[2].trim();
+        $('right_4_txt').innerText = selected_kors[3].trim();
+        $('left_1_txt').innerText = selected_esps[0].trim();
+        $('left_2_txt').innerText = selected_esps[1].trim();
+        $('left_3_txt').innerText = selected_esps[2].trim();
+        $('left_4_txt').innerText = selected_esps[3].trim();
 
     }, function (status, responseText) {
         alert(responseText);
@@ -157,7 +157,7 @@ function word_click(item) {
     for (i = 0; i < 4; i++) {
         console.log(similar_words[i][0]);
         console.log(similar_words[i][1]);
-        if (esp_txt == similar_words[i][0] && kor_txt == similar_words[i][1]) {
+        if (esp_txt.trim() == similar_words[i][0].trim() && kor_txt.trim() == similar_words[i][1].trim()) {
             matched = true;
         }
     }

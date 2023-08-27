@@ -57,7 +57,7 @@ function click_btn_start_learning() {
         }
 
     }, function (status, responseText) {
-        alert(responseText);
+        alert(responseText + "\nstatus:" + status);
         console.error('Error:', status);
         console.error(responseText);
     });
@@ -68,8 +68,8 @@ function update_course_info() {
     ABC = localStorage.session_course;
     if (ABC == 'A') {
         $('session_course_name').innerText = user_courses.A.name;
-        $('session_course_short_description').innerText = user_courses.A.short_description;
-        $('session_course_description').innerText = user_courses.A.description;
+        $('session_course_short_description').innerHTML = user_courses.A.short_description;
+        $('session_course_description').innerHTML = user_courses.A.description;
         $('session_course_familiar').innerText = user_courses.A.familiar;
         $('session_course_mastered').innerText = user_courses.A.mastered;
         $('session_course_needs_review').innerText = user_courses.A.needs_review;
@@ -78,8 +78,8 @@ function update_course_info() {
         $('session_course_total_count').innerText = user_courses.A.total_count;
     } else if (ABC == 'B') {
         $('session_course_name').innerText = user_courses.B.name;
-        $('session_course_short_description').innerText = user_courses.B.short_description;
-        $('session_course_description').innerText = user_courses.B.description;
+        $('session_course_short_description').innerHTML = user_courses.B.short_description;
+        $('session_course_description').innerHTML = user_courses.B.description;
         $('session_course_familiar').innerText = user_courses.B.familiar;
         $('session_course_mastered').innerText = user_courses.B.mastered;
         $('session_course_needs_review').innerText = user_courses.B.needs_review;
@@ -88,8 +88,8 @@ function update_course_info() {
         $('session_course_total_count').innerText = user_courses.B.total_count;
     } else {
         $('session_course_name').innerText = user_courses.C.name;
-        $('session_course_short_description').innerText = user_courses.C.short_description;
-        $('session_course_description').innerText = user_courses.C.description;
+        $('session_course_short_description').innerHTML = user_courses.C.short_description;
+        $('session_course_description').innerHTML = user_courses.C.description;
         $('session_course_familiar').innerText = user_courses.C.familiar;
         $('session_course_mastered').innerText = user_courses.C.mastered;
         $('session_course_needs_review').innerText = user_courses.C.needs_review;

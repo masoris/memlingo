@@ -1,0 +1,203 @@
+2023-08-27 15:41:35	/api/login.api	a@a.com	a@a.com	en-us
+2023-08-27 15:41:35	/api/get_course_info.api	a@a.com	en-us
+2023-08-27 15:53:02	/api/get_course_info.api	a@a.com	en-us
+2023-08-27 15:53:04	/api/session-start.api	a@a.com	en-us	A
+2023-08-27 15:53:04	/api/card-next.api	a@a.com	A	en-us	mi, vi	0	./quiz-first.html	ludoviko
+2023-08-27 15:53:04	/api/similar-words-jk.api	a@a.com	A	en-us	vi	
+2023-08-27 15:53:10	/api/similar-words.api	a@a.com	A	en-us	mi, vi
+2023-08-27 15:58:31	/api/similar-words-kor.api	a@a.com	A	en-us	I, you
+2023-08-27 15:59:38	/api/similar-words-kor.api	a@a.com	A	en-us	I, you
+2023-08-27 16:00:18	/api/similar-words.api	a@a.com	A	en-us	mi, vi
+2023-08-27 16:00:40	/api/similar-words.api	a@a.com	A	en-us	mi, vi
+2023-08-27 16:01:01	/api/similar-words-jk.api	a@a.com	A	en-us	vi	
+2023-08-27 16:45:47	/api/login.api	a@a.com	a@a.com	ja-jp
+2023-08-27 16:45:47	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:45:49	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:45:50	/api/session-start.api	a@a.com	ja-jp	A
+2023-08-27 16:45:50	/api/card-next.api	a@a.com	A	ja-jp	Esperanto	0	./quiz-first.html	male1
+2023-08-27 16:45:51	/api/similar-words-jk.api	a@a.com	A	ja-jp	Esperanto	
+2023-08-27 16:46:56	/api/similar-words-jk.api	a@a.com	A	ja-jp	Esperanto	
+2023-08-27 16:47:23	/api/login.api	a@a.com	a@a.com	ja-jp
+2023-08-27 16:47:23	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:47:24	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:47:25	/api/session-start.api	a@a.com	ja-jp	A
+2023-08-27 16:47:25	/api/card-next.api	a@a.com	A	ja-jp	mi, vi	0	./quiz-first.html	ludoviko
+2023-08-27 16:47:25	/api/similar-words-jk.api	a@a.com	A	ja-jp	mi	
+2023-08-27 16:47:28	/api/playsound.api	a@a.com	female2/mi, vi.mp3
+2023-08-27 16:47:30	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:47:37	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:47:39	/api/session-start.api	a@a.com	ja-jp	C
+2023-08-27 16:47:39	/api/card-next.api	a@a.com	C	ja-jp	Esperanto	0	./quiz-first.html	male1
+2023-08-27 16:47:39	/api/similar-words-jk.api	a@a.com	C	ja-jp	Esperanto	
+2023-08-27 16:49:00	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:51:40	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:51:49	/api/session-start.api	a@a.com	ja-jp	C
+2023-08-27 16:51:49	/api/card-next.api	a@a.com	C	ja-jp	Esperanto	0	./quiz-first.html	male1
+2023-08-27 16:51:49	/api/similar-words-jk.api	a@a.com	C	ja-jp	Esperanto	
+2023-08-27 16:52:03	/api/playsound.api	a@a.com	female1/Esperanto.mp3
+2023-08-27 16:52:05	/api/card-next.api	a@a.com	C	ja-jp	doni	0	./quiz-first.html	female1
+2023-08-27 16:52:05	/api/playsound.api	a@a.com	male2/Esperanto.mp3
+2023-08-27 16:52:07	/api/similar-words-jk.api	a@a.com	C	ja-jp	doni	
+2023-08-27 16:52:09	/api/playsound.api	a@a.com	male1/doni.mp3
+2023-08-27 16:52:10	/api/card-next.api	a@a.com	C	ja-jp	mi	0	./quiz-first.html	male1
+2023-08-27 16:52:10	/api/playsound.api	a@a.com	ludoviko/doni.mp3
+2023-08-27 16:52:11	/api/similar-words-jk.api	a@a.com	C	ja-jp	mi	
+2023-08-27 16:52:13	/api/playsound.api	a@a.com	female2/mi.mp3
+2023-08-27 16:52:14	/api/card-next.api	a@a.com	C	ja-jp	vi	0	./quiz-first.html	male2
+2023-08-27 16:52:14	/api/playsound.api	a@a.com	female2/mi.mp3
+2023-08-27 16:52:15	/api/similar-words-jk.api	a@a.com	C	ja-jp	vi	
+2023-08-27 16:52:17	/api/playsound.api	a@a.com	ludoviko/vi.mp3
+2023-08-27 16:52:18	/api/card-next.api	a@a.com	C	ja-jp	havi	0	./quiz-first.html	female2
+2023-08-27 16:52:18	/api/playsound.api	a@a.com	male2/vi.mp3
+2023-08-27 16:52:19	/api/similar-words-jk.api	a@a.com	C	ja-jp	havi	
+2023-08-27 16:52:20	/api/playsound.api	a@a.com	male1/havi.mp3
+2023-08-27 16:52:22	/api/card-next.api	a@a.com	C	ja-jp	ŝi	0	./quiz-first.html	male1
+2023-08-27 16:52:22	/api/playsound.api	a@a.com	female2/havi.mp3
+2023-08-27 16:52:23	/api/similar-words-jk.api	a@a.com	C	ja-jp	ŝi	
+2023-08-27 16:52:25	/api/playsound.api	a@a.com	male1/ŝi.mp3
+2023-08-27 16:52:26	/api/card-next.api	a@a.com	C	ja-jp	li	0	./quiz-first.html	female2
+2023-08-27 16:52:26	/api/playsound.api	a@a.com	male1/ŝi.mp3
+2023-08-27 16:52:27	/api/similar-words-jk.api	a@a.com	C	ja-jp	li	
+2023-08-27 16:52:29	/api/playsound.api	a@a.com	male2/li.mp3
+2023-08-27 16:52:30	/api/card-next.api	a@a.com	C	ja-jp	ili	0	./quiz-first.html	female2
+2023-08-27 16:52:30	/api/playsound.api	a@a.com	female1/li.mp3
+2023-08-27 16:52:31	/api/similar-words-jk.api	a@a.com	C	ja-jp	ili	
+2023-08-27 16:52:33	/api/playsound.api	a@a.com	female1/ili.mp3
+2023-08-27 16:52:35	/api/card-next.api	a@a.com	C	ja-jp	ĝi	0	./quiz-first.html	female1
+2023-08-27 16:52:35	/api/playsound.api	a@a.com	female1/ili.mp3
+2023-08-27 16:52:36	/api/similar-words-jk.api	a@a.com	C	ja-jp	ĝi	
+2023-08-27 16:52:37	/api/playsound.api	a@a.com	male1/ĝi.mp3
+2023-08-27 16:52:38	/api/card-next.api	a@a.com	C	ja-jp	oni	0	./quiz-first.html	ludoviko
+2023-08-27 16:52:38	/api/playsound.api	a@a.com	female1/ĝi.mp3
+2023-08-27 16:52:39	/api/similar-words-jk.api	a@a.com	C	ja-jp	oni	
+2023-08-27 16:52:42	/api/playsound.api	a@a.com	ludoviko/oni.mp3
+2023-08-27 16:52:43	/api/playsound.api	a@a.com	female1/oni.mp3
+2023-08-27 16:52:44	/api/session-finish.api	a@a.com	ja-jp	C
+2023-08-27 16:52:47	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:52:51	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:52:55	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:53:00	/api/session-start.api	a@a.com	ja-jp	A
+2023-08-27 16:53:00	/api/card-next.api	a@a.com	A	ja-jp	mi, vi	0	./quiz-first.html	female1
+2023-08-27 16:53:00	/api/similar-words-jk.api	a@a.com	A	ja-jp	mi	
+2023-08-27 16:53:04	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2023-08-27 16:53:05	/api/card-next.api	a@a.com	A	ja-jp	estas, estis	0	./quiz-first.html	female2
+2023-08-27 16:53:05	/api/playsound.api	a@a.com	female2/mi, vi.mp3
+2023-08-27 16:53:07	/api/similar-words-jk.api	a@a.com	A	ja-jp	estas	
+2023-08-27 16:53:12	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-08-27 16:53:16	/api/card-next.api	a@a.com	A	ja-jp	mi estas ~	0	./quiz-first.html	female1
+2023-08-27 16:53:16	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-08-27 16:53:18	/api/similar-words-jk.api	a@a.com	A	ja-jp	mi	
+2023-08-27 16:53:20	/api/playsound.api	a@a.com	female2/mi estas ~.mp3
+2023-08-27 16:53:22	/api/card-next.api	a@a.com	A	ja-jp	vi estas ~	0	./quiz-first.html	male1
+2023-08-27 16:53:22	/api/playsound.api	a@a.com	ludoviko/mi estas ~.mp3
+2023-08-27 16:53:23	/api/similar-words-jk.api	a@a.com	A	ja-jp	vi	
+2023-08-27 16:53:25	/api/playsound.api	a@a.com	male2/vi estas ~.mp3
+2023-08-27 16:53:27	/api/card-next.api	a@a.com	A	ja-jp	saluton	0	./quiz-first.html	female1
+2023-08-27 16:53:27	/api/playsound.api	a@a.com	male1/vi estas ~.mp3
+2023-08-27 16:53:28	/api/similar-words-jk.api	a@a.com	A	ja-jp	saluton	
+2023-08-27 16:53:31	/api/playsound.api	a@a.com	male2/saluton.mp3
+2023-08-27 16:53:32	/api/card-next.api	a@a.com	A	ja-jp	saluton, mi estas ~	0	./quiz-first.html	male1
+2023-08-27 16:53:32	/api/playsound.api	a@a.com	female2/saluton.mp3
+2023-08-27 16:53:34	/api/similar-words-jk.api	a@a.com	A	ja-jp	saluton	estas
+2023-08-27 16:53:39	/api/playsound.api	a@a.com	female1/saluton, mi estas ~.mp3
+2023-08-27 16:53:44	/api/card-next.api	a@a.com	A	ja-jp	mia, via	0	./quiz-first.html	male1
+2023-08-27 16:53:44	/api/playsound.api	a@a.com	male2/saluton, mi estas ~.mp3
+2023-08-27 16:53:46	/api/similar-words-jk.api	a@a.com	A	ja-jp	via	
+2023-08-27 16:53:49	/api/playsound.api	a@a.com	female2/mia, via.mp3
+2023-08-27 16:53:50	/api/card-next.api	a@a.com	A	ja-jp	nomo	0	./quiz-first.html	male1
+2023-08-27 16:53:50	/api/playsound.api	a@a.com	female2/mia, via.mp3
+2023-08-27 16:53:52	/api/similar-words-jk.api	a@a.com	A	ja-jp	nomo	
+2023-08-27 16:53:53	/api/playsound.api	a@a.com	female2/nomo.mp3
+2023-08-27 16:53:54	/api/card-next.api	a@a.com	A	ja-jp	mia nomo, via nomo	0	./quiz-first.html	male1
+2023-08-27 16:53:54	/api/playsound.api	a@a.com	ludoviko/nomo.mp3
+2023-08-27 16:53:55	/api/similar-words-jk.api	a@a.com	A	ja-jp	via	nomo
+2023-08-27 16:53:59	/api/playsound.api	a@a.com	ludoviko/mia nomo, via nomo.mp3
+2023-08-27 16:54:02	/api/card-next.api	a@a.com	A	ja-jp	mia nomo estas ~	0	./quiz-first.html	male2
+2023-08-27 16:54:02	/api/playsound.api	a@a.com	male2/mia nomo, via nomo.mp3
+2023-08-27 16:54:05	/api/similar-words-jk.api	a@a.com	A	ja-jp	estas	nomo
+2023-08-27 16:54:09	/api/playsound.api	a@a.com	male2/mia nomo estas ~.mp3
+2023-08-27 16:54:11	/api/playsound.api	a@a.com	ludoviko/mia nomo estas ~.mp3
+2023-08-27 16:54:13	/api/session-finish.api	a@a.com	ja-jp	A
+2023-08-27 16:54:14	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:54:15	/api/session-start.api	a@a.com	ja-jp	A
+2023-08-27 16:54:15	/api/card-next.api	a@a.com	A	ja-jp	mia nomo estas ~	0	./quiz-first.html	ludoviko
+2023-08-27 16:54:15	/api/similar-words-jk.api	a@a.com	A	ja-jp	mia	estas
+2023-08-27 16:54:19	/api/playsound.api	a@a.com	female2/mia nomo estas ~.mp3
+2023-08-27 16:54:21	/api/card-next.api	a@a.com	A	ja-jp	via nomo estas ~	0	./quiz-first.html	ludoviko
+2023-08-27 16:54:21	/api/playsound.api	a@a.com	male1/mia nomo estas ~.mp3
+2023-08-27 16:54:23	/api/similar-words-jk.api	a@a.com	A	ja-jp	nomo	estas
+2023-08-27 16:54:26	/api/playsound.api	a@a.com	male1/via nomo estas ~.mp3
+2023-08-27 16:54:30	/api/card-next.api	a@a.com	A	ja-jp	fartas, fartis	0	./quiz-first.html	ludoviko
+2023-08-27 16:54:30	/api/playsound.api	a@a.com	female2/via nomo estas ~.mp3
+2023-08-27 16:54:32	/api/similar-words-jk.api	a@a.com	A	ja-jp	fartas	
+2023-08-27 16:54:38	/api/playsound.api	a@a.com	female1/fartas, fartis.mp3
+2023-08-27 16:54:42	/api/card-next.api	a@a.com	A	ja-jp	estis, estos	0	./quiz-first.html	male1
+2023-08-27 16:54:42	/api/playsound.api	a@a.com	female2/fartas, fartis.mp3
+2023-08-27 16:54:44	/api/similar-words-jk.api	a@a.com	A	ja-jp	estos	
+2023-08-27 16:54:46	/api/playsound.api	a@a.com	female1/estis, estos.mp3
+2023-08-27 16:54:49	/api/card-next.api	a@a.com	A	ja-jp	nomo, nomon	0	./quiz-first.html	female1
+2023-08-27 16:54:49	/api/playsound.api	a@a.com	ludoviko/estis, estos.mp3
+2023-08-27 16:54:50	/api/similar-words-jk.api	a@a.com	A	ja-jp	nomo	
+2023-08-27 16:54:52	/api/playsound.api	a@a.com	male1/nomo, nomon.mp3
+2023-08-27 16:54:54	/api/card-next.api	a@a.com	A	ja-jp	mia amo	0	./quiz-first.html	ludoviko
+2023-08-27 16:54:54	/api/playsound.api	a@a.com	female2/nomo, nomon.mp3
+2023-08-27 16:54:56	/api/similar-words-jk.api	a@a.com	A	ja-jp	mia	
+2023-08-27 16:54:59	/api/playsound.api	a@a.com	female2/mia amo.mp3
+2023-08-27 16:55:01	/api/card-next.api	a@a.com	A	ja-jp	vi fartas	0	./quiz-first.html	male1
+2023-08-27 16:55:01	/api/playsound.api	a@a.com	female2/mia amo.mp3
+2023-08-27 16:55:02	/api/similar-words-jk.api	a@a.com	A	ja-jp	fartas	
+2023-08-27 16:55:07	/api/playsound.api	a@a.com	male2/vi fartas.mp3
+2023-08-27 16:55:11	/api/card-next.api	a@a.com	A	ja-jp	mi, vi	1	./quizE.html	female1
+2023-08-27 16:55:11	/api/playsound.api	a@a.com	male2/vi fartas.mp3
+2023-08-27 16:55:15	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2023-08-27 16:55:18	/api/card-next.api	a@a.com	A	ja-jp	estas, estis	1	./quizC.html	female2
+2023-08-27 16:55:18	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2023-08-27 16:55:20	/api/similar-words-kor.api	a@a.com	A	ja-jp	（現在）~だ、（過去）~だった
+2023-08-27 16:55:24	/api/playsound.api	a@a.com	male2/estas, estis.mp3
+2023-08-27 16:55:36	/api/put-score-kor.api	a@a.com	A	ja-jp	（現在）~だ、（過去）~だった	1
+2023-08-27 16:55:36	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-08-27 16:55:40	/api/card-next.api	a@a.com	A	ja-jp	mi estas ~	1	./quizB.html	male1
+2023-08-27 16:55:40	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-08-27 16:55:42	/api/similar-words.api	a@a.com	A	ja-jp	mi estas ~
+2023-08-27 16:55:44	/api/playsound.api	a@a.com	female2/mi estas ~.mp3
+2023-08-27 16:55:46	/api/put-score.api	a@a.com	A	ja-jp	mi estas ~	1
+2023-08-27 16:55:46	/api/playsound.api	a@a.com	male2/mi estas ~.mp3
+2023-08-27 16:55:48	/api/playsound.api	a@a.com	male2/mi ne estas ~.mp3
+2023-08-27 16:55:51	/api/put-score.api	a@a.com	A	ja-jp	mi ne estas ~	1
+2023-08-27 16:55:51	/api/playsound.api	a@a.com	male1/mi ne estas ~.mp3
+2023-08-27 16:55:53	/api/playsound.api	a@a.com	female2/~ estas mia amiko.mp3
+2023-08-27 16:55:56	/api/put-score.api	a@a.com	A	ja-jp	~ estas mia amiko	1
+2023-08-27 16:55:56	/api/playsound.api	a@a.com	female1/~ estas mia amiko.mp3
+2023-08-27 16:55:58	/api/playsound.api	a@a.com	male1/mia nomo estas ~.mp3
+2023-08-27 16:56:00	/api/put-score.api	a@a.com	A	ja-jp	mia nomo estas ~	1
+2023-08-27 16:56:00	/api/playsound.api	a@a.com	male2/mia nomo estas ~.mp3
+2023-08-27 16:56:03	/api/session-finish.api	a@a.com	ja-jp	A
+2023-08-27 16:56:13	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:56:15	/api/session-start.api	a@a.com	ja-jp	A
+2023-08-27 16:56:15	/api/card-next.api	a@a.com	A	ja-jp	vi estas ~	1	./quizB.html	male1
+2023-08-27 16:56:15	/api/similar-words.api	a@a.com	A	ja-jp	vi estas ~
+2023-08-27 16:56:17	/api/playsound.api	a@a.com	male1/via nomo estas ~.mp3
+2023-08-27 16:56:21	/api/put-score.api	a@a.com	A	ja-jp	via nomo estas ~	1
+2023-08-27 16:56:21	/api/playsound.api	a@a.com	male2/via nomo estas ~.mp3
+2023-08-27 16:56:24	/api/playsound.api	a@a.com	female1/li devis atenti ~.mp3
+2023-08-27 16:56:28	/api/put-score.api	a@a.com	A	ja-jp	li devis atenti ~	1
+2023-08-27 16:56:28	/api/playsound.api	a@a.com	male2/li devis atenti ~.mp3
+2023-08-27 16:56:31	/api/playsound.api	a@a.com	female2/vi estas ~.mp3
+2023-08-27 16:56:33	/api/put-score.api	a@a.com	A	ja-jp	vi estas ~	1
+2023-08-27 16:56:33	/api/playsound.api	a@a.com	ludoviko/vi estas ~.mp3
+2023-08-27 16:56:35	/api/playsound.api	a@a.com	male1/mi estas ~.mp3
+2023-08-27 16:56:36	/api/put-score.api	a@a.com	A	ja-jp	mi estas ~	1
+2023-08-27 16:56:36	/api/playsound.api	a@a.com	female2/mi estas ~.mp3
+2023-08-27 16:56:38	/api/card-next.api	a@a.com	A	ja-jp	saluton	1	./quizD.html	male1
+2023-08-27 16:56:38	/api/similar-words-kor.api	a@a.com	A	ja-jp	こんにちは
+2023-08-27 16:56:45	/api/put-score-kor.api	a@a.com	A	ja-jp	こんにちは	1
+2023-08-27 16:56:45	/api/playsound.api	a@a.com	male2/saluton.mp3
+2023-08-27 16:56:47	/api/card-next.api	a@a.com	A	ja-jp	saluton, mi estas ~	1	./quizI.html	female1
+2023-08-27 16:56:47	/api/playsound.api	a@a.com	ludoviko/saluton.mp3
+2023-08-27 16:56:48	/api/similar-words-jk.api	a@a.com	A	ja-jp	saluton	mi
+2023-08-27 16:56:53	/api/playsound.api	a@a.com	female1/saluton, mi estas ~.mp3
+2023-08-27 16:56:55	/api/card-next.api	a@a.com	A	ja-jp	mia, via	1	./quizI.html	male1
+2023-08-27 16:56:55	/api/playsound.api	a@a.com	female2/saluton, mi estas ~.mp3
+2023-08-27 16:56:58	/api/similar-words-jk.api	a@a.com	A	ja-jp	via	
+2023-08-27 16:57:02	/api/get_course_info.api	a@a.com	ja-jp
+2023-08-27 16:57:06	/api/logout.api	a@a.com	ja-jp	A

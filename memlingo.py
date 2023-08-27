@@ -85,6 +85,8 @@ def create_user_courses_lang(email, lang):
             row = line.strip().split('\t')
             if len(row) <5:
                 continue
+            if row[0] == "Level" and row[1] == "Esperanto":
+                continue
             row = row[0:5]
             row.append('0    ')
             row.append('0000-00-00 00:00:00')
