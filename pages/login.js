@@ -104,8 +104,8 @@ window.onload = function () {
     $("radio-ko-kr").onclick = lang_changed;
     $("radio-en-us").onclick = lang_changed;
     $("radio-ja-jp").onclick = lang_changed;
-    $("radio-cn-zh").onclick = lang_changed;
-    $("radio-cn-tw").onclick = lang_changed;
+    $("radio-zh-cn").onclick = lang_changed;
+    $("radio-zh-tw").onclick = lang_changed;
 
     if (localStorage.getItem('lang') != null) {
         var lang = localStorage.getItem('lang');
