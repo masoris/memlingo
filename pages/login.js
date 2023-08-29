@@ -97,7 +97,7 @@ window.onload = function () {
     };
 
 
-    if (localStorage.getItem('email') != '') {
+    if (localStorage.getItem('email') != null) {
         $('email1').value = localStorage.getItem('email');
     }
 
@@ -117,4 +117,6 @@ window.onload = function () {
     lang_changed();
     display_message();
     localStorage.setItem('login_status', 'logout');
+
+    parentBgColor("#03bf6b");
 };

@@ -60,6 +60,8 @@ window.onload = function () {
     $('speaker_8').onclick = function () { click_speaker('esp_txt_8'); };
     $('speaker_9').onclick = function () { click_speaker('esp_txt_9'); };
     $('speaker_10').onclick = function () { click_speaker('esp_txt_10'); };
+
+    parentBgColor("#03bf6b");
 };
 
 

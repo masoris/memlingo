@@ -270,6 +270,47 @@ var lang_msgs = {
         "progressC": "진도율",
         "pointsC": "누적 점수",
     },
+    "zh-tw": {
+        "type_e-mail": "請輸入電子郵件地址。",
+        "type_e-mail_again": "請再輸入一次電子郵件地址。",
+        "type_e-mail_twice": "請輸入兩次電子郵件",
+        "listen_and_fill": "聽完後填滿空格。",
+        "match_correct": "請配對.",
+        "choose_the_level": "這容易嗎? 很難嗎？",
+        "select_what_you_hear": "請聽後選擇。",
+        "select_correct_one": "請選擇正確的。",
+        "learned_these_words": " 這是您剛剛學習的列表。",
+        "span_learn_by_examples": "通過例題學習世界語",
+        "Btn_Start_learning": "開始學習",
+        "btn_continue": "下一個",
+        "btn_listen_continue": "聽完之後",
+        "btn_listen": " 聽",
+        "btn_hard": "好難",
+        "btn_easy": "簡單",
+        "btn_login": "登錄",
+        "Btn_StartA": "學習開始",
+        "Btn_StartB": "學習開始",
+        "Btn_StartC": "學習開始",
+        "Btn_logout": "註銷",
+        "wordsA": "總項目數",
+        "words_to_reviewA": " 複習項目",
+        "familiarA": "熟悉的項目",
+        "masteredA": "掌握的項目",
+        "progressA": "進度率",
+        "pointsA": "累計分數",
+        "wordsB": "總項目數",
+        "words_to_reviewB": " 複習項目",
+        "familiarB": "已熟悉的項目",
+        "masteredB": "掌握的項目",
+        "progressB": "進度率",
+        "pointsB": "累計分數",
+        "wordsC": "總項目數",
+        "words_to_reviewC": "複習項目",
+        "familiarC": "熟悉的項目",
+        "masteredC": "掌握的項目",
+        "progressC": "進度率",
+        "pointsC": "累計分數",
+    },
     "zh-cn": {
         "type_e-mail": "请输入电子邮件地址。",
         "type_e-mail_again": "请再输入一次电子邮件地址。",
@@ -309,7 +350,7 @@ var lang_msgs = {
         "familiarC": "熟悉的项目",
         "masteredC": "掌握的项目",
         "progressC": "进度率",
-        "积分C": "累计分数"
+        "pointsC": "累计分数"
     },
     "ja-jp": {
         "type_e-mail": "メールアドレスを入力してください。",
@@ -473,4 +514,17 @@ function display_message() {
     //     $('email2').placeholder = "Type in your e-mail adress again.";
     //     $('span_message_email_twice').innerText = "Enter your e-mail twice.";
     // }
+}
+
+function parentBgColor(color) {
+    try {
+        window.parent.postMessage({
+            'func': 'parentFunc',
+            'message': color
+        }, "http://memlingo.esperanto.or.kr");
+        // Use target origin instead of *
+    }
+    catch (e) {
+        alert(e);
+    }
 }

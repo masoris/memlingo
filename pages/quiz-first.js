@@ -191,6 +191,7 @@ window.onload = function () {
     percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
     $('progress').style.width = percent + "%";
 
+    parentBgColor("white");
 };
 
 

@@ -142,5 +142,6 @@ window.onload = function () {
     // }
 
     display_message();
+    parentBgColor("#03bf6b");
 };
 
