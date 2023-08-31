@@ -115,6 +115,5 @@ window.onload = function () {
 
     $('Btn_Start_learning').onclick = click_btn_start_learning;
 
-    parentBgColor("#03bf6b");
 };
 

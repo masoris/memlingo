@@ -433,6 +433,47 @@ var lang_msgs = {
         "masteredC": "Mastered",
         "progressC": "Progress",
         "pointsC": "Points",
+    },
+    "vi-vn": {
+        "type_e-mail": "Nhập địa chỉ email của bạn.",
+        "type_e-mail_again": "Nhập lại địa chỉ email của bạn.",
+        "type_e-mail_twice": "Nhập e-mail của bạn hai lần.",
+        "listen_and_fill": "Nghe và điền vào chỗ trống.",
+        "match_core": "Ghép các cặp đúng.",
+        "choose_the_level": "Hãy chọn mức độ bạn cảm nhận về điều này.",
+        "select_what_you_hear": "Chọn những gì bạn nghe thấy.",
+        "select_Corr_one": "Chọn đúng.",
+        "learned_these_words": "Bạn vừa học được những từ này.",
+        "span_learn_by_examples": "Học Esperanto qua ví dụ",
+        "Btn_Start_learning": "Bắt đầu học",
+        "btn_continue": "Tiếp tục",
+        "btn_listen_continue": "Nghe và tiếp tục",
+        "btn_listen": "Nghe này",
+        "btn_hard": "Khó cho tôi",
+        "btn_easy": "Dễ dàng với tôi",
+        "btn_login": "Đăng nhập",
+        "Btn_StartA": "Bắt đầu học",
+        "Btn_StartB": "Bắt đầu học",
+        "Btn_StartC": "Bắt đầu học",
+        "Btn_logout": "Đăng xuất",
+        "wordsA": "Từ",
+        "words_to_reviewA": "Những từ cần ôn lại",
+        "familiarA": "Quen thuộc",
+        "masteredA": "Thành thạo",
+        "progressA": "Tiến trình",
+        "pointsA": "Điểm",
+        "wordsB": "Từ",
+        "words_to_reviewB": "Những từ cần ôn lại",
+        "familiarB": "Quen thuộc",
+        "masteredB": "Thành thạo",
+        "progressB": "Tiến trình",
+        "pointsB": "Điểm",
+        "wordsC": "Từ",
+        "words_to_reviewC": "Những từ cần ôn lại",
+        "familiarC": "Quen thuộc",
+        "masteredC": "Thành thạo",
+        "progressC": "Tiến trình",
+        "pointsC": "Điểm",
     }
 };
 
@@ -514,17 +555,4 @@ function display_message() {
     //     $('email2').placeholder = "Type in your e-mail adress again.";
     //     $('span_message_email_twice').innerText = "Enter your e-mail twice.";
     // }
-}
-
-function parentBgColor(color) {
-    try {
-        window.parent.postMessage({
-            'func': 'parentFunc',
-            'message': color
-        }, "http://memlingo.esperanto.or.kr");
-        // Use target origin instead of *
-    }
-    catch (e) {
-        alert(e);
-    }
 }

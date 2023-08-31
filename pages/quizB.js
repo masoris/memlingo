@@ -308,7 +308,6 @@ window.onload = function () {
             play_sound_esp($("left_4_txt").innerText);
         }
     };
-    parentBgColor("white");
 };
 
 

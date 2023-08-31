@@ -1,0 +1,18 @@
+2023-08-31 16:23:12	/api/login.api	a@a.com	a@a.com	vi-vn
+2023-08-31 16:23:12	/api/get_course_info.api	a@a.com	vi-vn
+2023-08-31 16:23:57	/api/get_course_info.api	a@a.com	vi-vn
+2023-08-31 16:24:04	/api/get_course_info.api	a@a.com	vi-vn
+2023-08-31 16:24:08	/api/get_course_info.api	a@a.com	vi-vn
+2023-08-31 16:24:09	/api/session-start.api	a@a.com	vi-vn	A
+2023-08-31 16:24:09	/api/card-next.api	a@a.com	A	vi-vn	mi, vi	0	./quiz-first.html	ludoviko
+2023-08-31 16:24:09	/api/similar-words-jk.api	a@a.com	A	vi-vn	vi	
+2023-08-31 16:24:11	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2023-08-31 16:24:15	/api/card-next.api	a@a.com	A	vi-vn	estas, estis	0	./quiz-first.html	male2
+2023-08-31 16:24:15	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2023-08-31 16:24:16	/api/similar-words-jk.api	a@a.com	A	vi-vn	estis	
+2023-08-31 16:24:20	/api/playsound.api	a@a.com	ludoviko/estas, estis.mp3
+2023-08-31 16:24:23	/api/card-next.api	a@a.com	A	vi-vn	mi estas ~	0	./quiz-first.html	female1
+2023-08-31 16:24:23	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-08-31 16:24:25	/api/similar-words-jk.api	a@a.com	A	vi-vn	mi	
+2023-08-31 16:24:28	/api/get_course_info.api	a@a.com	vi-vn
+2023-08-31 16:24:32	/api/logout.api	a@a.com	vi-vn	A

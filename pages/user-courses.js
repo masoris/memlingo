@@ -116,7 +116,7 @@ window.onload = function () {
     $("radio-ja-jp").onclick = lang_changed;
     $("radio-zh-cn").onclick = lang_changed;
     $("radio-zh-tw").onclick = lang_changed;
-
+    $("radio-vi-vn").onclick = lang_changed;
 
 
     if (localStorage.getItem('lang') != null) {

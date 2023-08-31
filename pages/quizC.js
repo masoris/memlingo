@@ -199,7 +199,6 @@ window.onload = function () {
     $('block_3').style.backgroundColor = default_color;
     $('block_4_border').style.borderColor = default_color;
     $('block_4').style.backgroundColor = default_color;
-    parentBgColor("white");
 };
 
 
