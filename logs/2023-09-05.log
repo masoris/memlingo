@@ -1,0 +1,48 @@
+2023-09-05 16:48:20	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-09-05 16:48:20	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-05 16:55:43	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-05 16:55:44	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-05 16:55:46	/api/session-start.api	a@a.com	ko-kr	A
+2023-09-05 16:55:46	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	5	./quizI.html	female2
+2023-09-05 16:55:46	/api/similar-words-jk.api	a@a.com	A	ko-kr	estis	
+2023-09-05 16:55:47	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-09-05 16:55:52	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	3	./quizI.html	female1
+2023-09-05 16:55:52	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-09-05 16:55:54	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2023-09-05 16:55:56	/api/playsound.api	a@a.com	male2/mi estas ~.mp3
+2023-09-05 16:55:58	/api/card-next.api	a@a.com	A	ko-kr	vi estas ~	8	./quizD.html	female1
+2023-09-05 16:55:58	/api/playsound.api	a@a.com	male2/mi estas ~.mp3
+2023-09-05 16:55:59	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신은 ~ 이다
+2023-09-05 16:56:02	/api/put-score-kor.api	a@a.com	A	ko-kr	당신은 ~ 이다	1
+2023-09-05 16:56:02	/api/playsound.api	a@a.com	male1/vi estas ~.mp3
+2023-09-05 16:56:06	/api/card-next.api	a@a.com	A	ko-kr	saluton	4	./quizI.html	male1
+2023-09-05 16:56:06	/api/playsound.api	a@a.com	female2/vi estas ~.mp3
+2023-09-05 16:56:07	/api/similar-words-jk.api	a@a.com	A	ko-kr	saluton	
+2023-09-05 16:56:09	/api/playsound.api	a@a.com	ludoviko/saluton.mp3
+2023-09-05 16:56:11	/api/card-next.api	a@a.com	A	ko-kr	saluton, mi estas ~	7	./quizF.html	male1
+2023-09-05 16:56:11	/api/playsound.api	a@a.com	female1/saluton.mp3
+2023-09-05 16:56:14	/api/playsound.api	a@a.com	male1/saluton, mi estas ~.mp3
+2023-09-05 16:56:16	/api/card-next.api	a@a.com	A	ko-kr	mia, via	3	./quizF.html	male1
+2023-09-05 16:56:16	/api/playsound.api	a@a.com	ludoviko/saluton, mi estas ~.mp3
+2023-09-05 16:56:19	/api/playsound.api	a@a.com	male1/mia, via.mp3
+2023-09-05 16:56:21	/api/card-next.api	a@a.com	A	ko-kr	nomo	7	./quizF.html	male2
+2023-09-05 16:56:21	/api/playsound.api	a@a.com	female1/mia, via.mp3
+2023-09-05 16:56:23	/api/playsound.api	a@a.com	male2/nomo.mp3
+2023-09-05 16:56:24	/api/card-next.api	a@a.com	A	ko-kr	mia nomo, via nomo	3	./quizI.html	male1
+2023-09-05 16:56:24	/api/playsound.api	a@a.com	male1/nomo.mp3
+2023-09-05 16:56:25	/api/similar-words-jk.api	a@a.com	A	ko-kr	nomo	mia
+2023-09-05 16:56:25	/api/playsound.api	a@a.com	male1/mia nomo, via nomo.mp3
+2023-09-05 16:56:29	/api/playsound.api	a@a.com	male2/mia nomo, via nomo.mp3
+2023-09-05 16:56:31	/api/card-next.api	a@a.com	A	ko-kr	mia nomo estas ~	2	./quizI.html	female1
+2023-09-05 16:56:31	/api/playsound.api	a@a.com	male1/mia nomo, via nomo.mp3
+2023-09-05 16:56:34	/api/similar-words-jk.api	a@a.com	A	ko-kr	nomo	mia
+2023-09-05 16:56:37	/api/playsound.api	a@a.com	male2/mia nomo estas ~.mp3
+2023-09-05 16:56:39	/api/card-next.api	a@a.com	A	ko-kr	via nomo estas ~	4	./quizD.html	male1
+2023-09-05 16:56:39	/api/playsound.api	a@a.com	ludoviko/mia nomo estas ~.mp3
+2023-09-05 16:56:41	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다
+2023-09-05 16:56:43	/api/put-score-kor.api	a@a.com	A	ko-kr	나의 이름은 ~입니다	-1
+2023-09-05 16:56:45	/api/put-score-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다	1
+2023-09-05 16:56:45	/api/playsound.api	a@a.com	male1/via nomo estas ~.mp3
+2023-09-05 16:56:48	/api/playsound.api	a@a.com	female1/via nomo estas ~.mp3
+2023-09-05 16:56:50	/api/session-finish.api	a@a.com	ko-kr	A
+2023-09-05 16:56:52	/api/get_course_info.api	a@a.com	ko-kr

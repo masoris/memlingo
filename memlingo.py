@@ -848,6 +848,60 @@ def put_score_kor():
     resp = make_response(jsonify(result))
     return resp
 
+def files_in(target_dir):
+    return [f.name for f in os.scandir(target_dir) if f.is_file()]
+
+def get_users_stats():
+    #2023-08-31 16:23:12	/api/login.api	a@a.com	a@a.com	vi-vn
+    #2023-08-31 16:24:09	/api/session-start.api	a@a.com	vi-vn	A
+    #2023-08-27 16:52:44	/api/session-finish.api	a@a.com	ja-jp	C
+    date_from = time.strftime("%Y-%m-%d.log", time.localtime(time.time()-7*24*60*60))
+    date_to = time.strftime("%Y-%m-%d.log", time.localtime(time.time()))
+    log_files = files_in("./logs")
+    stat = {}
+    for log_file in log_files:
+        if log_file >= date_from:
+            print(log_file)
+            fp = open("./logs/" + log_file)
+            for line in fp:
+                row = line.strip().split("\t")
+                if row[1] == "/api/login.api":
+                    if not "login" in stat:
+                        stat["login"] = {}
+                        stat["login"]["count"] = 0
+                    stat["login"]["count"] += 1
+                    if not row[4] in stat["login"]:
+                        stat["login"][row[4]] = {}
+                    stat["login"][row[4]][row[2]] = row[0]
+                if row[1] == "/api/session-start.api":
+                    if not "sessionstart" in stat:
+                        stat["sessionstart"] = {}
+                        stat["sessionstart"]["count"] = 0
+                    stat["sessionstart"]["count"] += 1
+                    if not row[3]+"."+row[4] in stat["sessionstart"]:
+                        stat["sessionstart"][row[3]+"."+row[4]] = {}
+                    stat["sessionstart"][row[3]+"."+row[4]][row[2]] = row[0]
+                if row[1] == "/api/session-finish.api":
+                    if not "sessionfinish" in stat:
+                        stat["sessionfinish"] = {}
+                        stat["sessionfinish"]["count"] = 0
+                    stat["sessionfinish"]["count"] += 1
+                    if not row[3]+"."+row[4] in stat["sessionfinish"]:
+                        stat["sessionfinish"][row[3]+"."+row[4]] = {}
+                    stat["sessionfinish"][row[3]+"."+row[4]][row[2]] = row[0]
+            fp.close()
+
+    return stat
+
+
+@app.route('/api/users_stats.api', methods=['POST'])
+def users_stats():
+    #wordlist = request.json['wordlist']
+    stats = get_users_stats()
+    result = {'stats': stats}
+    resp = make_response(jsonify(result))
+    return resp
+
 @app.route('/tts/get_voices.api', methods=['POST'])
 def get_voices():
     wordlist = request.json['wordlist']
