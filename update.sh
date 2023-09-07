@@ -3,8 +3,9 @@ ssh memlingo@141.164.48.63 "cd ~/svc/memlingo/ && ./stop.sh"
 rsync --delete -avz -e 'ssh -p 22' ./pages/ memlingo@141.164.48.63:~/svc/memlingo/pages/
 rsync --delete -avz -e 'ssh -p 22' ./courses/ memlingo@141.164.48.63:~/svc/memlingo/courses/
 rsync --delete -avz -e 'ssh -p 22' ./sounds/ memlingo@141.164.48.63:~/svc/memlingo/sounds/
-rsync --delete -avz -e 'ssh -p 22' ./memlingo.py memlingo@141.164.48.63:~/svc/memlingo/memlingo.py
-rsync --delete -avz -e 'ssh -p 22' ./content_update.py memlingo@141.164.48.63:~/svc/memlingo/content_update.py
+rsync --delete -avz -e 'ssh -p 22' ./*.py memlingo@141.164.48.63:~/svc/memlingo/
+rsync --delete -avz -e 'ssh -p 22' ./*.ico memlingo@141.164.48.63:~/svc/memlingo/
+rsync --delete -avz -e 'ssh -p 22' ./*.json memlingo@141.164.48.63:~/svc/memlingo/
 rsync --delete -avz -e 'ssh -p 22' ~/tts/?_course.js memlingo@141.164.48.63:~/svc/tts/
 #scp -r ./pages/* memlingo@141.164.48.63:~/svc/memlingo/pages/
 #scp -r ./sounds/* memlingo@141.164.48.63:~/svc/memlingo/sounds/
