@@ -478,10 +478,11 @@ def card_next():
             next_row = oldest_row
 
     if next_row[6] == '0000-00-00 00:00:00':
-        quiz_card_url = './quiz-first.html'
+        quizlist = ['quizA','quizC','quizD','quizE','quizF','quizG','quizH','quizI']
+        quiz_card = random.choice(quizlist)
+        quiz_card_url = './'+quiz_card+'.html'
     else:
         quizlist = ['quizB','quizC','quizD','quizE','quizF','quizG','quizH','quizI']
-        # quizlist = ['quizB','quizC','quizD','quizE','quizF','quizG','quizH','quizI']
         quiz_card = random.choice(quizlist)
         quiz_card_url = './'+quiz_card+'.html'
 
