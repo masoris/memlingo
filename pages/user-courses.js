@@ -42,32 +42,32 @@ function update_course_info() {
         alert("user_courses not available");
         return
     }
-    $('CourseA_name').innerText = user_courses.A.name;
-    $('CourseA_short_description').innerText = user_courses.A.short_description;
-    $('CourseA_familiar').innerText = user_courses.A.familiar;
-    $('CourseA_mastered').innerText = user_courses.A.mastered;
-    $('CourseA_needs_review').innerText = user_courses.A.needs_review;
-    $('CourseA_points').innerText = user_courses.A.points;
-    $('CourseA_progress').innerText = user_courses.A.progress;
-    $('CourseA_total_count').innerText = user_courses.A.total_count;
-
-    $('CourseB_name').innerText = user_courses.B.name;
-    $('CourseB_short_description').innerText = user_courses.B.short_description;
-    $('CourseB_familiar').innerText = user_courses.B.familiar;
-    $('CourseB_mastered').innerText = user_courses.B.mastered;
-    $('CourseB_needs_review').innerText = user_courses.B.needs_review;
-    $('CourseB_points').innerText = user_courses.B.points;
-    $('CourseB_progress').innerText = user_courses.B.progress;
-    $('CourseB_total_count').innerText = user_courses.B.total_count;
-
-    $('CourseC_name').innerText = user_courses.C.name;
-    $('CourseC_short_description').innerText = user_courses.C.short_description;
-    $('CourseC_familiar').innerText = user_courses.C.familiar;
-    $('CourseC_mastered').innerText = user_courses.C.mastered;
-    $('CourseC_needs_review').innerText = user_courses.C.needs_review;
-    $('CourseC_points').innerText = user_courses.C.points;
-    $('CourseC_progress').innerText = user_courses.C.progress;
-    $('CourseC_total_count').innerText = user_courses.C.total_count;
+    $('Course_table').innerHTML = "";
+    for (var X in user_courses) {
+        var course_table_X = course_table.replace(/\$A/g, X);
+        $('Course_table').innerHTML += "<tr><td>" + course_table_X + "</td></tr>";
+        $('Course' + X + '_name').innerText = user_courses[X].name;
+        $('Course' + X + '_short_description').innerText = user_courses[X].short_description;
+        $('Course' + X + '_familiar').innerText = user_courses[X].familiar;
+        $('Course' + X + '_mastered').innerText = user_courses[X].mastered;
+        $('Course' + X + '_needs_review').innerText = user_courses[X].needs_review;
+        $('Course' + X + '_points').innerText = user_courses[X].points;
+        $('Course' + X + '_progress').innerText = user_courses[X].progress;
+        $('Course' + X + '_total_count').innerText = user_courses[X].total_count;
+        console.log(X);
+    }
+    for (var X in user_courses) {
+        console.log(X);
+        var btn_ID = 'Btn_Start' + X;
+        console.log(btn_ID);
+        $(btn_ID).onclick = function () {
+            var btn_ID = this.id;
+            localStorage.setItem('session_course', btn_ID.charAt(btn_ID.length - 1));
+            // alert(X);
+            window.location.href = "./session-start.html";
+        }
+        // alert($('Btn_Start' + X));
+    }
 
 }
 
@@ -98,18 +98,18 @@ window.onload = function () {
     get_course_info(update_course_info);
 
     $('Btn_logout').onclick = onlogout_click;
-    $('Btn_StartA').onclick = function () {
-        localStorage.setItem('session_course', "A");
-        window.location.href = "./session-start.html";
-    }
-    $('Btn_StartB').onclick = function () {
-        localStorage.setItem('session_course', "B");
-        window.location.href = "./session-start.html";
-    }
-    $('Btn_StartC').onclick = function () {
-        localStorage.setItem('session_course', "C");
-        window.location.href = "./session-start.html";
-    }
+    // $('Btn_StartA').onclick = function () {
+    //     localStorage.setItem('session_course', "A");
+    //     window.location.href = "./session-start.html";
+    // }
+    // $('Btn_StartB').onclick = function () {
+    //     localStorage.setItem('session_course', "B");
+    //     window.location.href = "./session-start.html";
+    // }
+    // $('Btn_StartC').onclick = function () {
+    //     localStorage.setItem('session_course', "C");
+    //     window.location.href = "./session-start.html";
+    // }
 
     $("radio-ko-kr").onclick = lang_changed;
     $("radio-en-us").onclick = lang_changed;
@@ -142,6 +142,5 @@ window.onload = function () {
     // }
 
     display_message();
-    parentBgColor("#03bf6b");
 };
 

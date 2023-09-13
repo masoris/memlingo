@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./user-courses.css">
     <script src="./util.js"></script>
+    <script src="./user-course.js"></script>
     <script src="./user-courses.js"></script>
     <script src="./ajax.js"></script>
     <script src="./cookie.js"></script>
@@ -23,120 +24,63 @@
         <span id="span_learn_by_examples" class="Learn-Esperanto-by-E">
             Learn Esperanto by Examples
         </span>
-
-        <div class="Rectangle-Copy">
-            <span id="CourseA_name" class="Esperanto-A-">
-                Esperanto A (에스페란토)
-            </span>
-            <span id="CourseA_short_description" class="Short-description">
-                초급 에스페란토 코스, 에스페란토 기초, Baza Esperanto, 자그레브 코스, Zagreba Kurso
-            </span>
-            <table>
+        <table>
+            <tbody id="Course_table">
                 <tr>
                     <td>
-                        <img src="img/img-a.png" srcset="img/img-a@2x.png 2x, img/img-a@3x.png 3x" class="img_a">
-                    </td>
-                    <td>
-                        <span class="Words-600-Words-t">
-                            <br />
-                            <span class="text-style-1">• </span><span id='wordsA'>Words</span>: <span
-                                id="CourseA_total_count">600</span><br />
-                            <span class="text-style-2">• </span><span id='words_to_reviewA'>Words to review</span>:
-                            <span id="CourseA_needs_review">4</span><br />
-                            <span class="text-style-3">• </span><span id='familiarA'>Familiar</span>: <span
-                                id="CourseA_familiar">4</span><br />
-                            <span class="text-style-4">• </span><span id='masteredA'>Mastered</span>: <span
-                                id="CourseA_mastered">0</span><br />
-                            <span class="text-style-5">• </span><span id='progressA'>Progress</span>: <span
-                                id="CourseA_progress">0.3</span>%<br />
-                            <span class="text-style-6">• </span><span id='pointsA'>Points</span>: <span
-                                id="CourseA_points">18</span><br />
-                        </span>
-                    </td>
-                </tr>
-            </table>
-            <div class="Rectangle-Button">
-                <input class="Learn-Esperanto-Button-Inside" type="button" id="Btn_StartA" value="Learn (Esperanto A)">
-
-            </div>
-
-        </div>
-        <div class="Rectangle-Copy">
-
-            <span id="CourseB_name" class="Esperanto-B-">
-                Esperanto B (에스페란토)
-            </span>
-            <span id="CourseB_short_description" class="-Jen-Nia">
-                에스페란토 중급 코스, Jen Nia Mondo 코스에 기반한 코스
-            </span>
-            <table>
-                <tr>
-                    <td>
-                        <img src="img/img-b.png" srcset="img/img-b@2x.png 2x,
-             img/img-b@3x.png 3x" class="img_b">
-                    </td>
-                    <td>
-                        <span class="Words-500-Words-t"><br />
-                            <span class="text-style-1">• </span><span id='wordsB'>Words</span>: <span
-                                id="CourseB_total_count">600</span><br />
-                            <span class="text-style-2">• </span><span id='words_to_reviewB'>Words to review</span>:
-                            <span id="CourseB_needs_review">4</span><br />
-                            <span class="text-style-3">• </span><span id='familiarB'>Familiar</span>: <span
-                                id="CourseB_familiar">4</span><br />
-                            <span class="text-style-4">• </span><span id='masteredB'>Mastered</span>: <span
-                                id="CourseB_mastered">0</span><br />
-                            <span class="text-style-5">• </span><span id='progressB'>Progress</span>: <span
-                                id="CourseB_progress">0.3</span>%<br />
-                            <span class="text-style-6">• </span><span id='pointsB'>Points</span>: <span
-                                id="CourseB_points">18</span><br />
-                        </span>
+                        <table class="Rectangle-Copy">
+                            <tr>
+                                <td colspan="2">
+                                    <span id="CourseA_name" class="Esperanto-A-">
+                                        Esperanto A (에스페란토)
+                                    </span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <span id="CourseA_short_description" class="Short-description">
+                                        초급 에스페란토 코스, 에스페란토 기초, Baza Esperanto, 자그레브 코스, Zagreba Kurso
+                                    </span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="100px">
+                                    <img src="img/img-a.png" srcset="img/img-a@2x.png 2x, img/img-a@3x.png 3x"
+                                        class="img_a">
+                                </td>
+                                <td>
+                                    <span class="Words-600-Words-t">
+                                        <br />
+                                        <span class="text-style-1">• </span><span id='wordsA'>Words</span>: <span
+                                            id="CourseA_total_count">600</span><br />
+                                        <span class="text-style-2">• </span><span id='words_to_reviewA'>Words to
+                                            review</span>:
+                                        <span id="CourseA_needs_review">4</span><br />
+                                        <span class="text-style-3">• </span><span id='familiarA'>Familiar</span>: <span
+                                            id="CourseA_familiar">4</span><br />
+                                        <span class="text-style-4">• </span><span id='masteredA'>Mastered</span>: <span
+                                            id="CourseA_mastered">0</span><br />
+                                        <span class="text-style-5">• </span><span id='progressA'>Progress</span>: <span
+                                            id="CourseA_progress">0.3</span>%<br />
+                                        <span class="text-style-6">• </span><span id='pointsA'>Points</span>: <span
+                                            id="CourseA_points">18</span><br />
+                                    </span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <div class="Rectangle-Button">
+                                        <input class="Learn-Esperanto-Button-Inside" type="button" id="Btn_StartA"
+                                            value="Learn (Esperanto A)">
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
                     </td>
                 </tr>
-            </table>
-            <div class="Rectangle-Button">
-                <input class="Learn-Esperanto-Button-Inside" type="button" id="Btn_StartB" value="Learn (Esperanto B)">
+            </tbody>
+        </table>
 
-            </div>
-
-
-        </div>
-        <div class="Rectangle-Copy">
-            <span id="CourseC_name" class="Esperanto-C-">
-                Esperanto C (에스페란토)
-            </span>
-            <span id="CourseC_short_description" class="-G6-990">
-                권고 단어: 초급자 G6까지 990단어, 중급자 G8까지 1700단어, 상급자 G9까지 2500 단어
-            </span>
-            <table>
-                <tr>
-                    <td>
-                        <img src="img/img-c.png" srcset="img/img-c@2x.png 2x,
-        img/img-c@3x.png 3x" class="img_c">
-                    </td>
-                    <td>
-                        <span class="Words-500-Words-t"><br />
-                            <span class="text-style-1">• </span><span id='wordsC'>Words</span>: <span
-                                id="CourseC_total_count">600</span><br />
-                            <span class="text-style-2">• </span><span id='words_to_reviewC'>Words to review</span>:
-                            <span id="CourseC_needs_review">4</span><br />
-                            <span class="text-style-3">• </span><span id='familiarC'>Familiar</span>: <span
-                                id="CourseC_familiar">4</span><br />
-                            <span class="text-style-4">• </span><span id='masteredC'>Mastered</span>: <span
-                                id="CourseC_mastered">0</span><br />
-                            <span class="text-style-5">• </span><span id='progressC'>Progress</span>: <span
-                                id="CourseC_progress">0.3</span>%<br />
-                            <span class="text-style-6">• </span><span id='pointsC'>Points</span>: <span
-                                id="CourseC_points">18</span><br />
-                        </span>
-                    </td>
-                </tr>
-            </table>
-            <div class="Rectangle-Button">
-                <input class="Learn-Esperanto-Button-Inside" type="button" id="Btn_StartC" value="Learn (Esperanto C)">
-            </div>
-
-
-        </div>
 
         <span class="Your-Language">
             Your Language

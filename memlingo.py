@@ -455,7 +455,7 @@ def card_next():
         if row[6] == '0000-00-00 00:00:00':
             next_row = row
             break
-        if row[6] <= nowstr:
+        if row[6] <= nowstr and esp_txt != "": #esp_txt == ""이면 old_row를 찾는 것이 아니라 new_row만 찾는다 
             next_row = row
             break
         if oldest_str == "":
