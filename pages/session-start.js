@@ -66,37 +66,16 @@ function click_btn_start_learning() {
 function update_course_info() {
     user_courses = JSON.parse(localStorage.user_courses);
     ABC = localStorage.session_course;
-    if (ABC == 'A') {
-        $('session_course_name').innerText = user_courses.A.name;
-        $('session_course_short_description').innerHTML = user_courses.A.short_description;
-        $('session_course_description').innerHTML = user_courses.A.description;
-        $('session_course_familiar').innerText = user_courses.A.familiar;
-        $('session_course_mastered').innerText = user_courses.A.mastered;
-        $('session_course_needs_review').innerText = user_courses.A.needs_review;
-        $('session_course_points').innerText = user_courses.A.points;
-        $('session_course_progress').innerText = user_courses.A.progress;
-        $('session_course_total_count').innerText = user_courses.A.total_count;
-    } else if (ABC == 'B') {
-        $('session_course_name').innerText = user_courses.B.name;
-        $('session_course_short_description').innerHTML = user_courses.B.short_description;
-        $('session_course_description').innerHTML = user_courses.B.description;
-        $('session_course_familiar').innerText = user_courses.B.familiar;
-        $('session_course_mastered').innerText = user_courses.B.mastered;
-        $('session_course_needs_review').innerText = user_courses.B.needs_review;
-        $('session_course_points').innerText = user_courses.B.points;
-        $('session_course_progress').innerText = user_courses.B.progress;
-        $('session_course_total_count').innerText = user_courses.B.total_count;
-    } else {
-        $('session_course_name').innerText = user_courses.C.name;
-        $('session_course_short_description').innerHTML = user_courses.C.short_description;
-        $('session_course_description').innerHTML = user_courses.C.description;
-        $('session_course_familiar').innerText = user_courses.C.familiar;
-        $('session_course_mastered').innerText = user_courses.C.mastered;
-        $('session_course_needs_review').innerText = user_courses.C.needs_review;
-        $('session_course_points').innerText = user_courses.C.points;
-        $('session_course_progress').innerText = user_courses.C.progress;
-        $('session_course_total_count').innerText = user_courses.C.total_count;
-    }
+    $('session_course_name').innerText = user_courses[ABC].name;
+    $('session_course_short_description').innerHTML = user_courses[ABC].short_description;
+    $('session_course_description').innerHTML = user_courses[ABC].description;
+    $('session_course_familiar').innerText = user_courses[ABC].familiar;
+    $('session_course_mastered').innerText = user_courses[ABC].mastered;
+    $('session_course_needs_review').innerText = user_courses[ABC].needs_review;
+    $('session_course_points').innerText = user_courses[ABC].points;
+    $('session_course_progress').innerText = user_courses[ABC].progress;
+    $('session_course_total_count').innerText = user_courses[ABC].total_count;
+
 }
 
 window.onload = function () {

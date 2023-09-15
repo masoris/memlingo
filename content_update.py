@@ -17,6 +17,33 @@ def get_subdirectories(directory):
             subdirectories.append(full_path)
     return subdirectories
 
+def get_subdirs(directory):
+    subdirs = []
+    for entry in os.listdir(directory):
+        full_path = os.path.join(directory, entry)
+        if os.path.isdir(full_path):
+            subdirs.append(entry)
+    return subdirs
+
+def apply_new_courses():
+    langs = get_subdirs("./courses")
+    lang_ABC = {}
+    for lang in langs:
+        lang_ABC[lang] = get_subdirs("./courses/"+lang)
+    all_emails = get_all_users_home_dir()
+    for email in all_emails:
+        courses_dir = email + "/courses"
+        langs = get_subdirs(courses_dir)
+        for lang in langs:
+            master_ABC = lang_ABC[lang]
+            user_ABC = get_subdirs(courses_dir+"/"+lang)
+            for m_ABC in master_ABC:
+                if not m_ABC in user_ABC:
+                    os.makedirs(courses_dir+"/"+lang+"/"+m_ABC)
+                    fp = open(courses_dir+"/"+lang+"/"+m_ABC+"/"+"myprogress.tsv","w")
+                    fp.close()
+
+
 def get_all_myprogress_tsvs(email_dir):
     myprogress_tsvs = []
     courses_dir = email_dir + "/courses"
@@ -36,6 +63,7 @@ def get_all_myprogress_tsvs(email_dir):
 
 def update_contents(email_dir):
     print(email_dir)
+    apply_new_courses()
     myprogress_tsvs = get_all_myprogress_tsvs(email_dir)
     for myprogress_tsv in myprogress_tsvs:
         print(myprogress_tsv)

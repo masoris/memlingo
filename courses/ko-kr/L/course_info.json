@@ -1,8 +1,8 @@
 {
-    "name": "Esperanto L (Memlingo 에스페란토)",
-    "description": "에스페란토 초급코스입니다. 이 코스를 마치면 기본적인 자기 자기소개 및 친구 사귀기에 필요한 회화를 할 수 있게 될 것입니다. 이 코스는 유명한 자그레브 코스(Zagreba Kurso)를 기반으로 만들어져 있습니다. ",
-    "short_description": "초급 에스페란토 코스, 에스페란토 기초, Baza Esperanto, 자그레브 코스, Zagreba Kurso",
-    "tags": "에스페란토, Esperanto, Zagreba Kurso",
+    "name": "인터넷 시대의 국제어 에스페란토 입문",
+    "description": "<font color=red>이 코스는 지금 콘텐츠를 생성 중에 있습니다.</font> 이중기 저서 (개정판, 2011) 초급 에스페란토 교재에 나오는 예문을 반복 학습 할 수 있도록 만든 코스입니다. 120쪽 원본 텍스트에서 추출한 600여 모범문장을 학습하실 수 있습니다.",
+    "short_description": "초급 에스페란토 코스, 에스페란토 기초, 이중기, 국제어 에스페란토 입문",
+    "tags": "에스페란토, Esperanto, 국제어 에스페란토 입문, 이중기",
     "source": "8",
     "target": "34",
     "audio_mode": "on",

@@ -1,0 +1,37 @@
+2023-09-15 16:15:32	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:16:39	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:16:51	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:16:57	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:00	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:13	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:15	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:17	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:19	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:21	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:24	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:28	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:31	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:17:36	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:18:26	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:20:32	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:20:34	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:20:43	/api/session-start.api	a@a.com	ko-kr	L
+2023-09-15 16:20:43	/api/card-next.api	a@a.com	L	ko-kr	mi, vi	0	./quizE.html	ludoviko
+2023-09-15 16:20:44	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2023-09-15 16:20:46	/api/card-next.api	a@a.com	L	ko-kr	estas, estis	0	./quizF.html	female2
+2023-09-15 16:20:46	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2023-09-15 16:20:48	/api/playsound.api	a@a.com	female2/estas, estis.mp3
+2023-09-15 16:20:50	/api/card-next.api	a@a.com	L	ko-kr	mi estas ~	0	./quizF.html	female1
+2023-09-15 16:20:50	/api/playsound.api	a@a.com	male2/estas, estis.mp3
+2023-09-15 16:20:52	/api/playsound.api	a@a.com	female1/mi estas ~.mp3
+2023-09-15 16:20:53	/api/card-next.api	a@a.com	L	ko-kr	vi estas ~	0	./quizG.html	ludoviko
+2023-09-15 16:20:53	/api/playsound.api	a@a.com	female1/mi estas ~.mp3
+2023-09-15 16:20:55	/api/similar-words.api	a@a.com	L	ko-kr	vi estas ~
+2023-09-15 16:20:57	/api/put-score.api	a@a.com	L	ko-kr	mi estas ~	-1
+2023-09-15 16:20:57	/api/playsound.api	a@a.com	male2/mi estas ~.mp3
+2023-09-15 16:20:59	/api/put-score.api	a@a.com	L	ko-kr	mia nomo estas ~	-1
+2023-09-15 16:20:59	/api/playsound.api	a@a.com	female2/mia nomo estas ~.mp3
+2023-09-15 16:21:02	/api/put-score.api	a@a.com	L	ko-kr	vi estas ~	1
+2023-09-15 16:21:02	/api/playsound.api	a@a.com	male1/vi estas ~.mp3
+2023-09-15 16:22:47	/api/get_course_info.api	a@a.com	ko-kr
+2023-09-15 16:22:52	/api/logout.api	a@a.com	ko-kr	L
