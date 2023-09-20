@@ -2,6 +2,36 @@
 var cur_course = "";
 var page_size = 20;
 var wordlist = [];
+
+var L_page = 0;
+function prev_L() {
+    if (L_page == 0) { return; }
+    L_page -= 1;
+    display_L();
+}
+
+function next_L() {
+    if (L_page * page_size >= L_course.length) { return; }
+    L_page += 1;
+    display_L();
+}
+
+function display_L() {
+    cur_course = "L";
+    wordlist = [];
+    $("contents").innerHTML = "L_page: " + L_page;
+    $("contents").innerHTML += "<br><a onclick='prev_L()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_L()'>[next]</a>";
+    for (i = (L_page * page_size); i < L_course.length && i < ((L_page + 1) * page_size); i++) {
+        $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + L_course[i] + "</a><br>&nbsp;<span id='L_" + i + "_span'></span>";
+        wordlist.push(L_course[i]);
+    }
+    display_voices(wordlist, "L");
+    $("contents").innerHTML += "L_page: " + L_page;
+    $("contents").innerHTML += "<br><a onclick='prev_L()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_L()'>[next]</a>";
+}
+
 var A_page = 0;
 function prev_A() {
     if (A_page == 0) { return; }
@@ -131,6 +161,26 @@ function click_button(item) {
 function search() {
     $("contents").innerHTML = "";
     word = prompt("Search Word:");
+
+    words = [];
+    for (i = 0; i < L_course.length; i++) {
+        if (L_course[i].indexOf(word) >= 0) {
+            words.push(L_course[i]);
+        }
+    }
+    if (words.length > 0) {
+        for (i = 0; i < L_course.length; i++) {
+            for (j = 0; j < words.length; j++) {
+                if (L_course[i] == words[j]) {
+                    $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + L_course[i] + "</a><br>&nbsp;<span id='L_" + i + "_span'></span>";
+                }
+            }
+        }
+
+        // alert(words.length);
+        display_voices(words, "L");
+    }
+
     words = [];
     for (i = 0; i < A_course.length; i++) {
         if (A_course[i].indexOf(word) >= 0) {
@@ -219,6 +269,9 @@ function display_voices(wordlist, which) {
             else if (which == "B") {
                 ABC_course = B_course;
             }
+            else if (which == "L") {
+                ABC_course = L_course;
+            }
             for (i = 0; i < ABC_course.length; i++) {
                 if (word == ABC_course[i]) {
                     found_i = i;
@@ -248,6 +301,16 @@ function display_voices(wordlist, which) {
 
 
 window.onload = function () {
+    L_course_map = {};
+    for (i = 0; i < L_course.length; i++) {
+        if (L_course[i] in L_course_map) {
+            console.log(L_course[i]);
+        }
+        else {
+            L_course_map[L_course[i]] = true;
+        }
+    }
+
     A_course_map = {};
     for (i = 0; i < A_course.length; i++) {
         if (A_course[i] in A_course_map) {
@@ -281,5 +344,6 @@ window.onload = function () {
     $("A").onclick = display_A;
     $("B").onclick = display_B;
     $("C").onclick = display_C;
+    $("L").onclick = display_L;
     $("search").onclick = search;
 };

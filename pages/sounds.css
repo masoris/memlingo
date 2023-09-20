@@ -10,6 +10,10 @@ body {
     display: flex;
 }
 
+#L {
+    font-size: 16pt;
+}
+
 #A {
     font-size: 16pt;
 }
