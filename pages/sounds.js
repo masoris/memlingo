@@ -139,6 +139,9 @@ function click_button(item) {
     else if (which == "B") {
         esp_txt = B_course[i];
     }
+    else if (which == "L") {
+        esp_txt = L_course[i];
+    }
     else {
         esp_txt = C_course[i];
     }
@@ -236,7 +239,7 @@ function search() {
         }
 
         // alert(words.length);
-        display_voices(words, "A");
+        display_voices(words, "C");
     }
 }
 
