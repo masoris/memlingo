@@ -310,7 +310,7 @@ def session_start():
 
 def next_review_time(count, score):
     #다음 리뷰 시간 정하는 규칙
-    #1. 만약 처음이면(count == 0) +5분 후로 
+    #1. 만약 처음이면(count == 0) +2분 후로 
     #2. count == 1 이면 +20분 후로
     #2. count == 2 이면 +5시간 후로
     #2. count == 3 이면 +1일 후로
@@ -782,6 +782,70 @@ def put_score():
     result = {'resp': 'OK', 'message': 'score sucessfully updated'}
     resp = make_response(jsonify(result))
     return resp
+
+@app.route('/api/jump-level.api', methods=['POST', 'GET'])
+def jump_level():
+    if request.method == 'GET':
+        email = request.args['email']
+        course = request.args['course']
+        lang = request.args['lang']
+        level = request.args['level']
+    else:
+        if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
+            email = request.json['email']
+            course = request.json['course']
+            lang = request.json['lang']
+            level = request.json['level']
+        else: #헤더가 applicaiont/x-www-url-encoded이면: 
+            email = request.form['email']
+            course = request.form['course']
+            lang = request.form['lang']
+            level = request.form['level']
+    LOG("/api/jump-level.api\t%s\t%s\t%s\t%s" % (email, course, lang, level))
+
+    #myprogress_tsv파일이 존재하지 않으면 error를 리턴하고 로그아웃 시킨다. 
+    myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
+    if not (os.path.exists(myprogress_tsv)):
+        result = {'resp': 'Fail', 'message': myprogress_tsv+' not found'}
+        resp = make_response(jsonify(result))
+        resp.set_cookie('login_status', 'fail')
+        return resp	
+    
+    #myprogress 파일을 읽어서 해당 esp_txt 항목에 대한 count 값과 next-review-time을 업데이트 해준다.
+    f = open(myprogress_tsv, 'rb+')
+    fcntl.flock(f, fcntl.LOCK_EX)
+    data = f.read()
+    data_lines = data.split(b"\n")
+    # lines = []
+    prev_pos = 0
+    for data_line in data_lines:
+        line = data_line.decode("utf-8")
+        #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
+        row = line.strip().split('\t')
+        if len(row) < 7: #잘못 된 라인은 무시한다.
+            continue
+        if row[1] == esp_txt:
+            #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
+            (next_count, next_review_str) = next_review_time(int(row[5].strip()), int(score)) 
+            row[5] = "%-5d" % (next_count + 1)
+            row[6] = next_review_str
+            line = "\t".join(row)+'\n'
+            f.seek(prev_pos, 0)
+            f.write(line.encode("utf-8"))
+            break
+        # lines.append(line)
+        prev_pos += len(data_line) + 1
+    fcntl.flock(f, fcntl.LOCK_UN)
+    f.close()
+
+    # f = open(myprogress_tsv, 'w', encoding='utf-8')
+    # f.write("".join(lines))
+    # f.close()
+
+    result = {'resp': 'OK', 'message': 'score sucessfully updated'}
+    resp = make_response(jsonify(result))
+    return resp
+
 
 @app.route('/api/put-score-kor.api', methods=['POST', 'GET'])
 def put_score_kor():
