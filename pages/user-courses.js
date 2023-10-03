@@ -74,18 +74,10 @@ function update_course_info() {
 function lang_changed() {
     var selected_lang = document.querySelector('input[name="lang"]:checked').value;
     localStorage.lang = selected_lang;
-    display_message();
     get_course_info(update_course_info);
+    display_message();
 }
 
-// function display_message() {
-//     if ($('lang').value == 'ko-kr') {
-//         $('span_learn_by_examples').innerText = "예제를 통한 에스페란토 학습";
-//     }
-//     else {
-//         $('span_learn_by_examples').innerText = "Learn Esperanto by Examples";
-//     }
-// }
 
 window.onload = function () {
     if (localStorage.getItem('login_status') != 'success') {
@@ -93,23 +85,9 @@ window.onload = function () {
         return;
     }
 
-    // display_language_str();
-
     get_course_info(update_course_info);
 
     $('Btn_logout').onclick = onlogout_click;
-    // $('Btn_StartA').onclick = function () {
-    //     localStorage.setItem('session_course', "A");
-    //     window.location.href = "./session-start.html";
-    // }
-    // $('Btn_StartB').onclick = function () {
-    //     localStorage.setItem('session_course', "B");
-    //     window.location.href = "./session-start.html";
-    // }
-    // $('Btn_StartC').onclick = function () {
-    //     localStorage.setItem('session_course', "C");
-    //     window.location.href = "./session-start.html";
-    // }
 
     $("radio-ko-kr").onclick = lang_changed;
     $("radio-en-us").onclick = lang_changed;
@@ -118,28 +96,13 @@ window.onload = function () {
     $("radio-zh-tw").onclick = lang_changed;
     $("radio-vi-vn").onclick = lang_changed;
 
-
     if (localStorage.getItem('lang') != null) {
         var lang = localStorage.getItem('lang');
         $("radio-" + lang).checked = true;
 
-        // $('lang').value = localStorage.getItem('lang');
-
     } else {
         $("radio-ko-kr").checked = true;
-
-        // $('lang').value = 'ko-kr';
     }
-
-    // if (localStorage.getItem("lang") == null) {
-    //     localStorage.setItem("lang") = "ko-kr";
-    // }
-    // $("lang").value = localStorage.lang;
-
-    // $('lang').onchange = function () {
-    //     localStorage.lang = $('lang').value;
-    //     display_message();
-    // }
 
     display_message();
 };

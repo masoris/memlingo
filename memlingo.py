@@ -783,8 +783,72 @@ def put_score():
     resp = make_response(jsonify(result))
     return resp
 
+def calc_progress(rows):
+    score = 0.0
+    for row in rows:
+        cnt = int(row[6])
+        if cnt >= 6: score += 1.0
+        elif cnt >= 3: score += 0.5
+        elif cnt >= 2: score += 0.3
+        elif cnt > 0: score += 0.1
+    return (score / len(rows))*100.0
+    
+next_time = [2*60, 20*60, 5*60*60, 1*24*60*60, 2*24*60*60, 10*24*60*60, 20*24*60*60, 30*24*60*60, 60*24*60*60, 180*24*60*60, 360*24*60*60, 720*24*60*60]
+
+def do_one_card(rows, t):
+    for i, row in enumerate(rows):
+        cnt = int(row[5])
+        if cnt == 0:
+            rows[i][5] = 1
+            rows[i][6] = t + 2*60
+            return
+        if row[6] < t:
+            rows[i][5] = cnt + 1
+            if cnt >= len(next_time):
+                rows[i][6] = t + next_time[-1]
+            else:
+                rows[i][6] = t + next_time[cnt]
+            return
+    
+def do_daily_routine(rows, days):
+    t0 = time.time()+(days*24*60*60)
+    for i in range(50):
+        do_one_card(rows, t0+i*60)
+        
+def do_simulation(lines, percent):  
+    rows = []
+    for line in lines:
+        row = line.strip().split("\t")
+        if len(row) < 7: continue
+        row[5] = int(row[5].strip())
+        if row[6] == "0000-00-00 00:00:00":
+            row[6] = 0
+        else:
+            row[6] = time.time()
+        rows.append(row)
+        
+    days = 0
+    while True:
+        progress = calc_progress(rows)
+        # print(progress)
+        if progress >= percent:
+            break
+        do_daily_routine(rows, days)
+        days += 1
+
+    for i, row in enumerate(rows):
+        rows[i][5] = "%-5d" % row[5]
+        rows[i][6] = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(row[6]-days*24*60*60))
+        
+    lines = []
+    for row in rows:
+        lines.append("\t".join(row))
+
+    return lines
+
 @app.route('/api/jump-level.api', methods=['POST', 'GET'])
 def jump_level():
+    print("api/jump-level.api")
     if request.method == 'GET':
         email = request.args['email']
         course = request.args['course']
@@ -812,37 +876,22 @@ def jump_level():
         return resp	
     
     #myprogress 파일을 읽어서 해당 esp_txt 항목에 대한 count 값과 next-review-time을 업데이트 해준다.
-    f = open(myprogress_tsv, 'rb+')
+    f = open(myprogress_tsv, 'r')
+    lines = []
+    for line in f:
+        lines.append(line.strip())
+    f.close()
+
+    lines = do_simulation(lines, int(level))
+
+    f = open(myprogress_tsv, 'w')
     fcntl.flock(f, fcntl.LOCK_EX)
-    data = f.read()
-    data_lines = data.split(b"\n")
-    # lines = []
-    prev_pos = 0
-    for data_line in data_lines:
-        line = data_line.decode("utf-8")
-        #  [0]level,[1]esp_txt,[2]kor,[3]eng,[4]group,[5]count,[6]next-review-time
-        row = line.strip().split('\t')
-        if len(row) < 7: #잘못 된 라인은 무시한다.
-            continue
-        if row[1] == esp_txt:
-            #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
-            (next_count, next_review_str) = next_review_time(int(row[5].strip()), int(score)) 
-            row[5] = "%-5d" % (next_count + 1)
-            row[6] = next_review_str
-            line = "\t".join(row)+'\n'
-            f.seek(prev_pos, 0)
-            f.write(line.encode("utf-8"))
-            break
-        # lines.append(line)
-        prev_pos += len(data_line) + 1
+    f.write("\n".join(lines))
+    # print("\n".join(lines))
     fcntl.flock(f, fcntl.LOCK_UN)
     f.close()
 
-    # f = open(myprogress_tsv, 'w', encoding='utf-8')
-    # f.write("".join(lines))
-    # f.close()
-
-    result = {'resp': 'OK', 'message': 'score sucessfully updated'}
+    result = {'resp': 'OK', 'message': 'myprogress.tsv successfully updated'}
     resp = make_response(jsonify(result))
     return resp
 

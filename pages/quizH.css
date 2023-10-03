@@ -127,7 +127,7 @@ body {
     border: solid 1px white;
     position: absolute;
     left: 2%;
-    top: 200px;
+    top: 240px;
 }
 
 .Rectangle1-1 {
@@ -151,7 +151,7 @@ body {
     /* height: 21px; */
     /* margin: 0 0 7px; */
     font-family: Arial, sans-serif;
-    font-size: 17pt;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -178,7 +178,7 @@ body {
     background-color: #fff;
     position: absolute;
     /* left: 180px; */
-    top: 200px;
+    top: 240px;
     right: 2%;
 }
 
@@ -202,7 +202,7 @@ body {
     /* width: 131px; */
     /* height: 21px; */
     font-family: Arial, sans-serif;
-    font-size: 17pt;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -230,7 +230,7 @@ body {
     background-color: #fff;
     position: absolute;
     left: 2%;
-    top: 334px;
+    top: 374px;
 }
 
 .Rectangle3-1 {
@@ -252,7 +252,7 @@ body {
     /* width: 131px; */
     /* height: 21px; */
     font-family: Arial, sans-serif;
-    font-size: 17pt;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -278,7 +278,7 @@ body {
     border: solid 1px white;
     position: absolute;
     /* left: 180px; */
-    top: 334px;
+    top: 374px;
     right: 2%;
 }
 
@@ -301,7 +301,7 @@ body {
     /* width: 131px; */
     /* height: 21px; */
     font-family: Arial, sans-serif;
-    font-size: 17pt;
+    font-size: 16pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;

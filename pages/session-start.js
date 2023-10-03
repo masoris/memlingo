@@ -34,7 +34,9 @@ function click_btn_level_jump() {
     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, level: '50' });
+    console.log("/api/jump-level.api");
     postAjaxRequest('/api/jump-level.api', jsonStr, function (responseJSONStr) {
+        console.log("/api/jump-level.api response");
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
         window.location.href = '/pages/session-start.html';
@@ -59,6 +61,7 @@ function click_btn_level_jump() {
 
     }, function (status, responseText) {
         // alert(responseText + "\nstatus:" + status);
+        console.log("/api/jump-level.api error");
         console.error('Error:', status);
         console.error(responseText);
     });

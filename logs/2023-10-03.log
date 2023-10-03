@@ -1,0 +1,75 @@
+2023-10-03 16:01:56	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:02:01	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-10-03 16:02:01	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:02:03	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:02:04	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:03:23	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:03:24	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:10:34	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:10:35	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:13:28	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:13:29	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:14:14	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:14:15	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:16:37	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:16:38	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:19:34	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:19:35	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:19:47	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:19:54	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:22:36	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:22:37	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:23:07	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:23:16	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:24:09	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:24:11	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:25:03	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:25:09	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:25:11	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:26:46	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:26:47	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:30:21	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:30:22	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:31:22	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:31:23	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:31:23	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:34:05	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:34:06	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:34:06	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:34:17	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-03 16:34:17	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:34:19	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:34:21	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:34:24	/api/jump-level.api	a@a.com	B	ko-kr	50
+2023-10-03 16:34:24	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:34:51	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:34:55	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:35:00	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:38:14	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:38:15	/api/session-start.api	a@a.com	ko-kr	A
+2023-10-03 16:38:15	/api/card-next.api	a@a.com	A	ko-kr	kun iu ajn viro	0	./quizD.html	male1
+2023-10-03 16:38:15	/api/similar-words-kor.api	a@a.com	A	ko-kr	어떠한 남자와도
+2023-10-03 16:38:21	/api/similar-words.api	a@a.com	A	ko-kr	kun iu ajn viro
+2023-10-03 16:40:58	/api/similar-words-jk.api	a@a.com	A	ko-kr	kun	iu
+2023-10-03 16:41:03	/api/similar-words.api	a@a.com	A	ko-kr	kun iu ajn viro
+2023-10-03 16:41:07	/api/similar-words-kor.api	a@a.com	A	ko-kr	어떠한 남자와도
+2023-10-03 16:41:17	/api/similar-words.api	a@a.com	A	ko-kr	kun iu ajn viro
+2023-10-03 16:41:45	/api/similar-words-kor.api	a@a.com	A	ko-kr	어떠한 남자와도
+2023-10-03 16:42:50	/api/similar-words-kor.api	a@a.com	A	ko-kr	어떠한 남자와도
+2023-10-03 16:43:24	/api/similar-words.api	a@a.com	A	ko-kr	kun iu ajn viro
+2023-10-03 16:44:01	/api/similar-words.api	a@a.com	A	ko-kr	kun iu ajn viro
+2023-10-03 16:44:26	/api/similar-words-jk.api	a@a.com	A	ko-kr	kun	ajn
+2023-10-03 16:45:16	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:47:40	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:47:48	/api/get_course_info.api	a@a.com	en-us
+2023-10-03 16:47:49	/api/get_course_info.api	a@a.com	ja-jp
+2023-10-03 16:47:51	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:54:54	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:56:01	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 16:58:45	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 17:01:50	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-03 17:01:52	/api/session-start.api	a@a.com	ko-kr	B
+2023-10-03 17:01:52	/api/card-next.api	a@a.com	B	ko-kr	ekskursojn akompanos gvidanto	0	./quizD.html	female2
+2023-10-03 17:01:52	/api/similar-words-kor.api	a@a.com	B	ko-kr	소풍들에 안내자가 동행할 것이다
+2023-10-03 17:02:03	/api/put-score-kor.api	a@a.com	B	ko-kr	소풍들에 안내자가 동행할 것이다	1
+2023-10-03 17:02:03	/api/playsound.api	a@a.com	female1/ekskursojn akompanos gvidanto.mp3

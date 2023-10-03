@@ -186,6 +186,7 @@ function get_course_info(update_course_info) {
         if (responseObj['resp'] == "OK") {
             localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
             update_course_info();
+            display_message();
         } else {
             alert('Error' + responseJSONStr);
         }
@@ -248,8 +249,6 @@ var lang_msgs = {
         "btn_easy": "쉬워요",
         "btn_login": "로그인",
         "Btn_StartA": "학습시작",
-        "Btn_StartB": "학습시작",
-        "Btn_StartC": "학습시작",
         "Btn_logout": "로그아웃",
         "wordsA": "전체 항목 수",
         "words_to_reviewA": "복습 필요 항목",
@@ -257,18 +256,6 @@ var lang_msgs = {
         "masteredA": "마스터한 항목",
         "progressA": "진도율",
         "pointsA": "누적 점수",
-        "wordsB": "전체 항목 수",
-        "words_to_reviewB": "복습 필요 항목",
-        "familiarB": "익숙해진 항목",
-        "masteredB": "마스터한 항목",
-        "progressB": "진도율",
-        "pointsB": "누적 점수",
-        "wordsC": "전체 항목 수",
-        "words_to_reviewC": "복습 필요 항목",
-        "familiarC": "익숙해진 항목",
-        "masteredC": "마스터한 항목",
-        "progressC": "진도율",
-        "pointsC": "누적 점수",
     },
     "zh-tw": {
         "type_e-mail": "請輸入電子郵件地址。",
@@ -289,8 +276,6 @@ var lang_msgs = {
         "btn_easy": "簡單",
         "btn_login": "登錄",
         "Btn_StartA": "學習開始",
-        "Btn_StartB": "學習開始",
-        "Btn_StartC": "學習開始",
         "Btn_logout": "註銷",
         "wordsA": "總項目數",
         "words_to_reviewA": " 複習項目",
@@ -298,18 +283,7 @@ var lang_msgs = {
         "masteredA": "掌握的項目",
         "progressA": "進度率",
         "pointsA": "累計分數",
-        "wordsB": "總項目數",
-        "words_to_reviewB": " 複習項目",
-        "familiarB": "已熟悉的項目",
-        "masteredB": "掌握的項目",
-        "progressB": "進度率",
-        "pointsB": "累計分數",
-        "wordsC": "總項目數",
-        "words_to_reviewC": "複習項目",
-        "familiarC": "熟悉的項目",
-        "masteredC": "掌握的項目",
-        "progressC": "進度率",
-        "pointsC": "累計分數",
+
     },
     "zh-cn": {
         "type_e-mail": "请输入电子邮件地址。",
@@ -330,8 +304,6 @@ var lang_msgs = {
         "btn_easy": "简单",
         "btn_login": "登录",
         "Btn_StartA": "学习开始",
-        "Btn_StartB": "学习开始",
-        "Btn_StartC": "学习开始",
         "Btn_logout": "注销",
         "wordsA": "总项目数",
         "words_to_reviewA": " 复习项目",
@@ -339,18 +311,6 @@ var lang_msgs = {
         "masteredA": "掌握的项目",
         "progressA": "进度率",
         "pointsA": "累计分数",
-        "wordsB": "总项目数",
-        "words_to_reviewB": " 复习项目",
-        "familiarB": "已熟悉的项目",
-        "masteredB": "掌握的项目",
-        "progressB": "进度率",
-        "pointsB": "累计分数",
-        "wordsC": "总项目数",
-        "words_to_reviewC": "复习项目",
-        "familiarC": "熟悉的项目",
-        "masteredC": "掌握的项目",
-        "progressC": "进度率",
-        "pointsC": "累计分数"
     },
     "ja-jp": {
         "type_e-mail": "メールアドレスを入力してください。",
@@ -371,8 +331,6 @@ var lang_msgs = {
         "btn_easy": "簡単です",
         "btn_login": "ログイン",
         "Btn_StartA": "学習開始",
-        "Btn_StartB": "学習開始",
-        "Btn_StartC": "学習開始",
         "Btn_logout": "ログアウト",
         "wordsA": "全項目数",
         "words_to_reviewA": "復習必要項目",
@@ -380,18 +338,6 @@ var lang_msgs = {
         "masteredA": "マスターな項目",
         "progressA": "進度率",
         "pointsA": "累積点数",
-        "wordsB": "全項目数",
-        "words_to_review B": "復習必要項目",
-        "familiarB": "慣れた項目",
-        "mastered B": "マスターな項目",
-        "progressB": "進度率",
-        "pointsB": "累積点数",
-        "wordsC": "全項目数",
-        "words_to_reviewC": "復習必要項目",
-        "familiarC": "慣れた項目",
-        "masteredC": "マスターな項目",
-        "progressC": "進度率",
-        "pointsC": "累積点数",
     },
     "en-us": {
         "type_e-mail": "Type in your e-mail adress.",
@@ -412,8 +358,6 @@ var lang_msgs = {
         "btn_easy": "Easy to me",
         "btn_login": "Login",
         "Btn_StartA": "Start Learning",
-        "Btn_StartB": "Start Learning",
-        "Btn_StartC": "Start Learning",
         "Btn_logout": "Logout",
         "wordsA": "Words",
         "words_to_reviewA": "Words to review",
@@ -421,18 +365,7 @@ var lang_msgs = {
         "masteredA": "Mastered",
         "progressA": "Progress",
         "pointsA": "Points",
-        "wordsB": "Words",
-        "words_to_reviewB": "Words to review",
-        "familiarB": "Familiar",
-        "masteredB": "Mastered",
-        "progressB": "Progress",
-        "pointsB": "Points",
-        "wordsC": "Words",
-        "words_to_reviewC": "Words to review",
-        "familiarC": "Familiar",
-        "masteredC": "Mastered",
-        "progressC": "Progress",
-        "pointsC": "Points",
+
     },
     "vi-vn": {
         "type_e-mail": "Nhập địa chỉ email của bạn.",
@@ -453,8 +386,6 @@ var lang_msgs = {
         "btn_easy": "Dễ dàng với tôi",
         "btn_login": "Đăng nhập",
         "Btn_StartA": "Bắt đầu học",
-        "Btn_StartB": "Bắt đầu học",
-        "Btn_StartC": "Bắt đầu học",
         "Btn_logout": "Đăng xuất",
         "wordsA": "Từ",
         "words_to_reviewA": "Những từ cần ôn lại",
@@ -462,18 +393,6 @@ var lang_msgs = {
         "masteredA": "Thành thạo",
         "progressA": "Tiến trình",
         "pointsA": "Điểm",
-        "wordsB": "Từ",
-        "words_to_reviewB": "Những từ cần ôn lại",
-        "familiarB": "Quen thuộc",
-        "masteredB": "Thành thạo",
-        "progressB": "Tiến trình",
-        "pointsB": "Điểm",
-        "wordsC": "Từ",
-        "words_to_reviewC": "Những từ cần ôn lại",
-        "familiarC": "Quen thuộc",
-        "masteredC": "Thành thạo",
-        "progressC": "Tiến trình",
-        "pointsC": "Điểm",
     }
 };
 
@@ -523,8 +442,9 @@ function display_message() {
     display_msg("learned_these_words", "innerText", "learned_these_words");
     display_msg("btn_login", "value", "btn_login");
     display_msg("Btn_StartA", "value", "Btn_StartA");
-    display_msg("Btn_StartB", "value", "Btn_StartB");
-    display_msg("Btn_StartC", "value", "Btn_StartC");
+    display_msg("Btn_StartB", "value", "Btn_StartA");
+    display_msg("Btn_StartC", "value", "Btn_StartA");
+    display_msg("Btn_StartL", "value", "Btn_StartA");
     display_msg("Btn_logout", "value", "Btn_logout");
     display_msg("wordsA", "innerText", "wordsA");
     display_msg("words_to_reviewA", "innerText", "words_to_reviewA");
@@ -532,18 +452,24 @@ function display_message() {
     display_msg("masteredA", "innerText", "masteredA");
     display_msg("progressA", "innerText", "progressA");
     display_msg("pointsA", "innerText", "pointsA");
-    display_msg("wordsB", "innerText", "wordsB");
-    display_msg("words_to_reviewB", "innerText", "words_to_reviewB");
-    display_msg("familiarB", "innerText", "familiarB");
-    display_msg("masteredB", "innerText", "masteredB");
-    display_msg("progressB", "innerText", "progressB");
-    display_msg("pointsB", "innerText", "pointsB");
-    display_msg("wordsC", "innerText", "wordsC");
-    display_msg("words_to_reviewC", "innerText", "words_to_reviewC");
-    display_msg("familiarC", "innerText", "familiarC");
-    display_msg("masteredC", "innerText", "masteredC");
-    display_msg("progressC", "innerText", "progressC");
-    display_msg("pointsC", "innerText", "pointsC");
+    display_msg("wordsB", "innerText", "wordsA");
+    display_msg("words_to_reviewB", "innerText", "words_to_reviewA");
+    display_msg("familiarB", "innerText", "familiarA");
+    display_msg("masteredB", "innerText", "masteredA");
+    display_msg("progressB", "innerText", "progressA");
+    display_msg("pointsB", "innerText", "pointsA");
+    display_msg("wordsC", "innerText", "wordsA");
+    display_msg("words_to_reviewC", "innerText", "words_to_reviewA");
+    display_msg("familiarC", "innerText", "familiarA");
+    display_msg("masteredC", "innerText", "masteredA");
+    display_msg("progressC", "innerText", "progressA");
+    display_msg("pointsC", "innerText", "pointsA");
+    display_msg("wordsL", "innerText", "wordsA");
+    display_msg("words_to_reviewL", "innerText", "words_to_reviewA");
+    display_msg("familiarL", "innerText", "familiarA");
+    display_msg("masteredL", "innerText", "masteredA");
+    display_msg("progressL", "innerText", "progressA");
+    display_msg("pointsL", "innerText", "pointsA");
 
     // if ($('lang').value == 'ko-kr') {
     //     $('email1').placeholder = "이메일 주소를 입력해 주세요.";
