@@ -50,7 +50,7 @@ function update_course_info() {
         $('Course' + X + '_short_description').innerText = user_courses[X].short_description;
         $('Course' + X + '_familiar').innerText = user_courses[X].familiar;
         $('Course' + X + '_mastered').innerText = user_courses[X].mastered;
-        $('Course' + X + '_needs_review').innerText = user_courses[X].needs_review;
+        // $('Course' + X + '_needs_review').innerText = user_courses[X].needs_review;
         $('Course' + X + '_points').innerText = user_courses[X].points;
         $('Course' + X + '_progress').innerText = user_courses[X].progress;
         $('Course' + X + '_total_count').innerText = user_courses[X].total_count;

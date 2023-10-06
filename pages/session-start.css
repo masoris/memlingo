@@ -20,6 +20,10 @@ span {
     color: #078d4f;
 }
 
+.Level-Jump {
+    font-size: 15pt;
+}
+
 .Rectangle-Background {
     width: 100%;
     height: 600px;
@@ -337,14 +341,14 @@ img.ic_star_1 {
 }
 
 .Rectangle4 {
-    width: 69%;
+    width: 63%;
     height: 60px;
     /* margin: 1112px 0 0; */
     /* padding: 19px 20px 20px; */
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #4c5b75;
     position: fixed;
-    left: 27%;
+    left: 33%;
     /* top: 651px; */
     bottom: 10px;
     align-items: center;
@@ -354,7 +358,7 @@ img.ic_star_1 {
 }
 
 .Rectangle5 {
-    width: 22%;
+    width: 28%;
     height: 60px;
     /* margin: 1112px 0 0; */
     /* padding: 19px 20px 20px; */

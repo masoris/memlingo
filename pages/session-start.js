@@ -119,7 +119,7 @@ function update_course_info() {
     $('session_course_description').innerHTML = user_courses[ABC].description;
     $('session_course_familiar').innerText = user_courses[ABC].familiar;
     $('session_course_mastered').innerText = user_courses[ABC].mastered;
-    $('session_course_needs_review').innerText = user_courses[ABC].needs_review;
+    // $('session_course_needs_review').innerText = user_courses[ABC].needs_review;
     $('session_course_points').innerText = user_courses[ABC].points;
     $('session_course_progress').innerText = user_courses[ABC].progress;
     $('session_course_total_count').innerText = user_courses[ABC].total_count;

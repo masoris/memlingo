@@ -24,9 +24,9 @@ course_table = `
             <br />
             <span class="text-style-1">• </span><span id='words$A'>Words</span>: <span
                 id="Course$A_total_count">600</span><br />
-            <span class="text-style-2">• </span><span id='words_to_review$A'>Words to
+            <!--<span class="text-style-2">• </span><span id='words_to_review$A'>Words to
                 review</span>:
-            <span id="Course$A_needs_review">4</span><br />
+            <span id="Course$A_needs_review">4</span><br />-->
             <span class="text-style-3">• </span><span id='familiar$A'>Familiar</span>: <span
                 id="Course$A_familiar">4</span><br />
             <span class="text-style-4">• </span><span id='mastered$A'>Mastered</span>: <span

@@ -1,0 +1,36 @@
+2023-10-06 15:22:37	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 15:22:47	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-10-06 15:22:47	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 15:22:48	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 15:22:49	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-06 15:22:49	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 15:56:27	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-06 15:56:27	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:14:24	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:14:25	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-06 16:16:23	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:16:24	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-06 16:16:24	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:21:47	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:21:48	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-10-06 16:21:48	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:25:48	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:25:54	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:27:58	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:28:43	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:28:44	/api/session-start.api	a@a.com	ko-kr	A
+2023-10-06 16:28:44	/api/card-next.api	a@a.com	A	ko-kr	aĉetis tiun vestaĵon	0	./quizH.html	male1
+2023-10-06 16:28:44	/api/similar-words.api	a@a.com	A	ko-kr	aĉetis tiun vestaĵon
+2023-10-06 16:29:21	/api/similar-words-jk.api	a@a.com	A	ko-kr	vestaĵon	
+2023-10-06 16:29:25	/api/similar-words.api	a@a.com	A	ko-kr	aĉetis tiun vestaĵon
+2023-10-06 16:29:38	/api/similar-words-kor.api	a@a.com	A	ko-kr	그 옷을 샀다
+2023-10-06 16:29:45	/api/put-score-kor.api	a@a.com	A	ko-kr	그 옷을 샀다	1
+2023-10-06 16:29:45	/api/playsound.api	a@a.com	female1/aĉetis tiun vestaĵon.mp3
+2023-10-06 16:30:13	/api/similar-words-kor.api	a@a.com	A	ko-kr	그 옷을 샀다
+2023-10-06 16:30:57	/api/similar-words.api	a@a.com	A	ko-kr	aĉetis tiun vestaĵon
+2023-10-06 16:31:29	/api/similar-words-jk.api	a@a.com	A	ko-kr	tiun	
+2023-10-06 16:32:00	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:32:02	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:33:05	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:33:24	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-06 16:33:27	/api/get_course_info.api	a@a.com	ko-kr

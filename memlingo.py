@@ -826,6 +826,7 @@ def do_simulation(lines, percent):
         else:
             row[6] = time.time()
         rows.append(row)
+        # print(row[6])
         
     days = 0
     while True:
@@ -835,10 +836,14 @@ def do_simulation(lines, percent):
             break
         do_daily_routine(rows, days)
         days += 1
-
+    # print("-------------------------")
     for i, row in enumerate(rows):
         rows[i][5] = "%-5d" % row[5]
-        rows[i][6] = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(row[6]-days*24*60*60))
+        # print(row[6])
+        if rows[i][6] == 0:
+            rows[i][6] = "0000-00-00 00:00:00"
+        else:
+            rows[i][6] = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(row[6]-days*24*60*60))
         
     lines = []
     for row in rows:
