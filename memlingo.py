@@ -793,9 +793,10 @@ def calc_progress(rows):
         elif cnt > 0: score += 0.1
     return (score / len(rows))*100.0
     
-next_time = [2*60, 20*60, 5*60*60, 1*24*60*60, 2*24*60*60, 10*24*60*60, 20*24*60*60, 30*24*60*60, 60*24*60*60, 180*24*60*60, 360*24*60*60, 720*24*60*60]
+next_time = [2*60, 20*60, 5*60*60, 1*24*60*60, 2*24*60*60, 10*24*60*60, 20*24*60*60, 60*24*60*60, 180*24*60*60, 720*24*60*60]
 
 def do_one_card(rows, t):
+    global next_time
     for i, row in enumerate(rows):
         cnt = int(row[5])
         if cnt == 0:
@@ -805,7 +806,7 @@ def do_one_card(rows, t):
         if row[6] < t:
             rows[i][5] = cnt + 1
             if cnt >= len(next_time):
-                rows[i][6] = t + next_time[-1]
+                rows[i][6] = t + next_time[len(next_time) - 1]
             else:
                 rows[i][6] = t + next_time[cnt]
             return

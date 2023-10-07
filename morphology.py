@@ -40,18 +40,24 @@ def get_stem(word):
 
 seed = random.randint(0, 1)
 def randint(a,b):
+    global seed
     seed = random.randint(0,1)
+    # seed = (seed+1) % 2
+    # print (seed)
     return seed
 
-consonants = "cĉjĵklzvbnmrtsfgĝhĥ" 
+consonants = "cĉjĵklzvbnmrtsfgĝhĥp" 
 vowels = "aeiou"
 
 def rand_char(group, c):
     group = group.replace(c, '')
-    return group[random.randint(0, len(group)-1)]
+    c2 = group[random.randint(0, len(group)-1)]
+    # print("rand_char:"+ c +","+ c2)
+    return c2
     
 def change_chars(group: str, s: str) -> str:
     s1 = s
+    # print(group+":"+s)
     r = False
     if randint(0,1) == 0:
         s1 = s[::-1] # reverse
@@ -67,20 +73,25 @@ def change_chars(group: str, s: str) -> str:
     s1 = s2
     if r == True:
         s1 = s1[::-1] # reverse
+    if s1 == s:
+        return None
+    # print(s1)
     return s1
 
-def get_fake_word(word: str) -> str:
-    w = get_stem(word)
-    if w[0] == "":
+def get_fake_word(word: str) -> str: #가짜 에스페란토 단어 만들기
+    global consonants
+    global vowels
+    w = get_stem(word) 
+    if len(w[0]) <= 1:
         return None
     while True:
         if randint(0,1) == 0:
             w0 = change_chars(consonants, w[0])
         else:
             w0 = change_chars(vowels, w[0])
-        print(w[0]+","+w0)
-        if len(w0) == 1:
-            break
+        if w0 == None:
+            continue
+        # print(w[0]+","+w0)
         if not w0 in esp_stems.esp_stems:
             break
     w[0] = w0
@@ -101,6 +112,7 @@ def get_stems(lines: list, stems: dict):
             stem_tail = get_stem(w)
             if stem_tail[0].lower() == stem_tail[0]:
                 stems[stem_tail[0]] = get_fake_word(w)
+                print(w + " " + str(stems[stem_tail[0]]))
 
 
 

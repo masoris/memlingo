@@ -1,10 +1,655 @@
-Saluton	mi, vi	나, 당신	I, you	Saluton	1    	2023-09-15 16:22:46
-Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton	1    	2023-09-15 16:22:50
-Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	1    	2023-09-15 16:22:57
-Saluton	vi estas ~	당신은 ~ 이다	you are ~	Saluton	1    	2023-09-15 16:23:02
-Saluton	saluton	안녕하세요	hello	Saluton	0    	0000-00-00 00:00:00
-Saluton	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	Saluton	0    	0000-00-00 00:00:00
-Saluton	mia, via	나의, 당신의	my, your	Saluton	0    	0000-00-00 00:00:00
-Saluton	nomo	이름	a name	Saluton	0    	0000-00-00 00:00:00
-Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	0    	0000-00-00 00:00:00
-Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	1    	2023-09-15 16:22:59
+Saluton	Esperanto estas facila kaj interesa.	에스페란토는 쉽고 재미있다.	Esperanto is easy and interesting.	Saluton	0    	0000-00-00 00:00:00
+Saluton	La rozo estas bela floro.	장미는 아름다운 꽃이다	The rose is a beautiful flower.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Mi estas diligenta studento	나는 부지런한 대학생입니다.	I am a diligent student	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ni estas koreaj Esperantistoj.	우리는 한국의 에스페란티스토들입니다.	We are Korean Esperantists.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Vi estas tre saĝa.	당신은 매우 현명합니다.	You are very smart.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Vi estas bona kuracisto.	당신은 좋은 의사입니다.	You are a good doctor.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Li skribos leteron al vi en Esperanto.	그는 당신에게 에스페란토로 편지를 쓸 것입니다.	He will write you a letter in Esperanto.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Vi estas diligentaj.	당신들은 부지런합니다.	You are diligent.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Vi estas bonaj kuracistoj.	당신들은 좋은 의사들입니다.	You are good doctors.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Li estas bona knabo.	그는 착한 소년이다.	He is a good boy.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ŝi estas saĝa knabino.	그녀는 현명한 소녀이다.	She is a smart girl.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ĝi estas granda kaj bela domo.	그것은 크고 아름다운 집이다.	It is a big and beautiful house.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ili estas bonaj homoj.	그들은 착한 사람들이다.	They are good people.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Li havas sian domon.	그는 자기의 집을 갖고 있다.	He has his house.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ŝi amas siajn edzon kaj filon.	그녀는 자기의 남편과 아들을 사랑한다.	She loves her husband and son.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ili havas siajn librojn.	그들은 자신의 책을 갖고있다.	They have their books.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Oni parolas en Esperanto.	사람들이 에스페란토로 말한다.	They speak in Esperanto.	Saluton	0    	0000-00-00 00:00:00
+Saluton	La hundo estas fidela besto.	개는 충직한 동물이다.	The dog is a faithful animal.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Li estas bona instruisto.	그는 훌륭한 선생님이다.	He is a good teacher.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ŝi havas grandan domon.	그녀는 큰 집을 갖고 있다.	She has a big house.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ĉu li estas bona knabo?	그는 착한 소년입니까?	Is he a good boy?	Saluton	0    	0000-00-00 00:00:00
+Saluton	Jes, li estas bona knabo.	예, 그는 착한 소년입니다.	Yes, he is a good boy.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ne, li ne estas bona knabo.	아니오, 그는 착한 소년이 아닙니다.	No, he is not a good boy.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Li parolas bone en Esperanto.	그는 에스페란토로 잘 말합니다.	He speaks well in Esperanto.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ĉu li parolas bone en Esperanto?	그는 에스페란토로 잘 말합니까 ?	Does he speak Esperanto well?	Saluton	0    	0000-00-00 00:00:00
+Saluton	Jes, li parolas bone en Esperanto.	예, 그는 에스페란토로 잘 말합니다.	Yes, he speaks well in Esperanto.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ne, li ne parolas bone en Esperanto.	아니오, 그는 에스페란토로 잘 말하지 않습니다.	No, he doesn't speak Esperanto well.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ĉu la knabo estas saĝa?	그 소년은 현명합니까?	Is the boy smart?	Saluton	0    	0000-00-00 00:00:00
+Saluton	Jes, la knabo estas saĝa.	예, 그 소년은 현명합니다.	Yes, the boy is smart.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ne, la knabo ne estas saĝa.	아니오, 그 소년은 현명하지 않습니다.	No, the boy is not smart.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ĉu la fraŭlino estas bona amikino?	그 아가씨는 좋은 친구입니까?	Is the young lady a good friend?	Saluton	0    	0000-00-00 00:00:00
+Saluton	Jes, la fraŭlino estas bona amikino.	예, 그 아가씨는 좋은 친구입니다.	Yes, the young lady is a good friend.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ne, la fraŭlino ne estas bona amikino.	아니오, 그 아가씨는 좋은 친구가 아닙니다.	No, the young lady is not a good friend.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ĉu la pomo estas granda frukto?	그 사과는 큰 열매입니까?	Is the apple a big fruit?	Saluton	0    	0000-00-00 00:00:00
+Saluton	Jes, la pomo estas granda frukto.	예, 그 사과는 큰 열매입니다.	Yes, the apple is a big fruit.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ne, la pomo ne estas granda frukto.	아니오, 그 사과는 큰 열매가 아닙니다.	No, the apple is not a large fruit.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ĉu la rozo estas blanka?	그 장미는 흰색입니까?	Is the rose white?	Saluton	0    	0000-00-00 00:00:00
+Saluton	Jes, la rozo estas blanka.	예, 그 장미는 흰색입니다.	Yes, the rose is white.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ne, la rozo ne estas blanka.	아니오, 그 장미는 희지 않습니다.	No, the rose is not white.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ĉu la kato estas granda?	그 고양이는 크나요?	Is the cat big?	Saluton	0    	0000-00-00 00:00:00
+Saluton	Jes, la kato estas granda.	예, 그 고양이는 큽니다.	Yes, the cat is big.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ne, la kato ne estas granda.	아니오, 그 고양이는 크지 않습니다.	No, the cat is not big.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ĉu Esperanto estas facila?	에스페란토는 쉬운가요?	Is Esperanto easy?	Saluton	0    	0000-00-00 00:00:00
+Saluton	Jes, Esperanto estas facila.	예, 에스페란토는 쉽습니다.	Yes, Esperanto is easy.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Ne, Esperanto ne estas facila.	아니오, 에스페란토는 쉽지 않습니다	No, Esperanto is not easy.	Saluton	0    	0000-00-00 00:00:00
+Saluton	Kie estas la libro?	그 책 어디에 있지?	Where is the book?	Saluton	0    	0000-00-00 00:00:00
+Saluton	La bovo estas diligenta.	소는 부지런하다.	The ox is diligent.	Saluton	0    	0000-00-00 00:00:00
+Saluton	la suno, la ĉielo, la tero	태양, 하늘, 땅	the sun, the sky, the earth	Saluton	0    	0000-00-00 00:00:00
+Bonan nokton	Li estas la Zamenhof de Koreio.	그는 한국의 자멘호프이다.	He is the Zamenhof of Korea.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Vi estas la unua en nia klaso.	네가 우리 반에서 1등이다.	You are the first in our class.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Li estas la plej rapida el la sportistoj.	그가 운동 선수 중에서 가장 빠르다.	He is the fastest of the athletes.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kio estas Esperantismo?	에스페란토주의는 무엇입니까?	What is Esperantism?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kiu lernas korean lingvon?	누가 한국어를 배웁니까?	Who is learning Korean?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kia estas Seulo?	서울이 어떻습니까?	What is Seoul like?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kies domo estas bela?	누구의 집이 아름답습니까?	Whose house is beautiful?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kies libro estas interesa?	누구의 책이 재미있습니까 ?	Whose book is interesting?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kie vi loĝas?	당신은 어디에 삽니까?	Where do you live?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kiam vi laboras?	당신은 언제 일합니까?	When do you work?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kiom ĝi kostas?	그것은 얼마입니까?	How much does it cost?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kiom da libroj vi havas?	당신은 몇권의 책을 갖고 있습니까?	How many books do you have?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kial vi lernas Esperanton?	왜 당신은 에스페란토를 배웁니까?	Why are you learning Esperanto?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kial li vizitis min?	그가 왜 나를 방문했지요?	Why did he visit me?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kiel vi fartas?	당신은 어떻게 지냅니까?	How are you?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Mi lernas internacian lingvon.	나는 국제어를 배운다.	I am learning an international language.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Li estas honesta komercisto.	그는 정직한 상인이다.	He is an honest businessman.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	La domo estas tre bela.	그 집은 매우 아름답다.	The house is very nice.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Ĉu vi iras al la lernejo nun?	너는 지금 학교에 가니?	Are you going to school now?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Ĉu vi amas vian malamikon?	당신은 당신의 원수를 사랑합니까?	Do you love your enemy?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Mi eklernis Esperanton antaŭ du jaroj.	나는 어제 직장에서 일했습니다.	I started learning Esperanto two years ago.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Ĉu vi ambaŭ manĝis multe en la manĝejo?	(당신들) 두 분께서는 식당에서 많이 드셨습니까?	Did you both eat a lot in the dining hall?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kiam vi vizitis Francion?	당신은 언제 프랑스를 방문했습니까 ?	When did you visit France?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Ŝi lernos ĉinan lingvon baldaŭ.	그녀는 곧 중국어를 배울 것입니다.	She will learn Chinese soon.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Ĉu vi vizitos Ĉinion?	당신은 중국을 방문할 예정입니까?	Will you visit China?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Mia filo venos morgaŭ.	나의 아들은 내일 올 것입니다.	My son will come tomorrow.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Mi iru al la kursejo.	나는 강습소에 가겠다.	I should go to the course.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Ni manĝu bonguste.	우리 맛있게 식사합시다.	Let's eat deliciously.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Ni ekiru.	우리 출발합시다.	Let's get going.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Ni kantu kune.	우리 함께 노래합시다.	Let's sing together.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Li laboru.	그가 일하기 바란다. = 그를 일하게 하라.	Let him work.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Vi venu morgaŭ matene.	당신은 내일 아침에 오시오.	You come tomorrow morning.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Vi ne plu memoru la aferon.	당신은 그 일을 더 이상 기억하지 마시오.	You don't remember the thing anymore.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Bonvole, dormu trankvile. (Bonvolu, dormi trankvile.)	아무쪼록 편히 주무십시오.	Please, sleep peacefully. (Please, sleep peacefully.)	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Estas al mi tre ĝoje, ke mi renkontis vin.	내가 당신을 만난 것이 매우 기쁘다.	I am very glad to have met you.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	La fakto, ke li estas sincera, estas vera.	그가 성실하다는 사실은 참말이다.	The fact that he is sincere is true.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Mi ĝojas pro tio, ke vi fartas bone.	당신이 잘 지낸다니 나는 기쁘다.	I am glad that you are well.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Ĉu vi pensas, ke Esperanto estas utila?	당신은 에스페란토가 유용하다고 생각합니까?	Do you think that Esperanto is useful?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	La patrino deziras, ke gefiloj studu diligente.	어머니는 자식들이 열심히 공부하기를 원한다.	The mother wants her children to study diligently.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kio vi estas? (Kio estas vi?)	당신은 무엇(직업)입니까?	What (profession) are you?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Mi estas instruisto.	나는 선생님입니다.	I am a teacher.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Mi estas oficisto.	나는 회사원입니다.	I am an official.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kion vi lernas?	당신은 무엇을 배웁니까?	What are you learning?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Mi lernas Esperanton.	나는 에스페란토를 배웁니다.	I'm learning Esperanto.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kiu li estas? (Kiu estas li?)	그는 누구입니까?	Who is he? (Who is he?)	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Li estas Lazaro Ludoviko Zamenhof.	그는 라자로 루도비코 자멘호프입니다.	He is Lazarus Ludovic Zamenhof.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kiun vi renkontis?	당신은 누구를 만났습니까?	Who did you meet?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Mi renkontis mian amikon.	나는 나의 친구를 만났습니다.	I met my friend.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	Kio estas la tulipo?	튤립은 무엇입니까?	What is the tulip?	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	La tulipo estas floro.	튤립은 꽃입니다.	The tulip is a flower.	Bonan nokton	0    	0000-00-00 00:00:00
+Amiko	Kiu estas la tulipo?	어느 것이 튤립입니까?	Who is the tulip?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Ĝi estas la tulipo.	그것이 튤립입니다.	It is the tulip.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kiu sinjoro laboras diligente?	어느 분이 부지런히 일합니까?	Which gentleman works diligently?	Amiko	0    	0000-00-00 00:00:00
+Amiko	La alta sinjoro laboras diligente.	그 키 큰 분이 열심히 일합니다.	The tall gentleman works diligently.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kiun floron vi ŝatas?	당신은 어느 꽃을 좋아합니까?	Which flower do you like?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi ŝatas rozon.	나는 장미를 좋아합니다.	I like roses.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kiu besto kuras rapide?	어느 동물이 빨리 달립니까?	Which animal runs fast?	Amiko	0    	0000-00-00 00:00:00
+Amiko	La hundo kuras rapide.	개가 빨리 달립니다.	The dog runs fast.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kia estas la flegistino?	그 여간호사는 어떻습니까?	What is the nurse like?	Amiko	0    	0000-00-00 00:00:00
+Amiko	La flegistino estas afabla.	그 여간호사는 친절합니다.	The nurse is kind.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kia urbo estas Seulo?	서울은 어떤 도시입니까?	What kind of city is Seoul?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Seulo estas bela kaj granda urbo.	서울은 아름답고 큰 도시입니다.	Seoul is a beautiful and big city.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kia libro ĝi estas?	그것은 어떤 종류의 책인가요?	What book is it?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Ĝi estas lernolibro.(lerno-libro)	그것은 학습 교재입니다.	It is a textbook. (textbook)	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kian koloron ĝi havas?	그것은 어떤 색깔입니까?	What color is it?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Ĝi estas ruĝa. Ĝi havas ruĝan koloron.	그것은 붉은 색입니다.	It is red. It has a red color.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kies libro ĝi estas?	그것은 누구의 책입니까?	Whose book is it?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Ĝi estas mia libro.	그것은 나의 책입니다.	It's my book.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Ĝi estas libro de mia patro.	그것은 나의 아버지의 그 책입니다.	It is the book of my father.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kies libron vi havas?	당신은 누구의 책을 갖고 있습니까?	Whose book do you have?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi havas lian libron.	나는 그의 책을 가지고 있습니다.	I have his book.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi havas libron de la amiko.	나는 그 친구의 책을 갖고 있습니다.	I have a book from the friend.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Lia domo estas bela.	그의 집이 아름답습니다.	His house is beautiful.	Amiko	0    	0000-00-00 00:00:00
+Amiko	La domo de lia patro estas bela.	그의 아버지의 집이 아름답습니다.	His father's house is beautiful.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi loĝas ekster Seulo.	나는 서울 외곽에 삽니다.	I live outside Seoul.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kie situas Koreio?	한국은 어디에 (위치하고) 있습니까?	Where is Korea located?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Koreio situas en Azio.	한국은 아시아에 (위치하고) 있습니다.	Korea is located in Asia.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kie estas Esperanto-Kulturcentro?	에스페란토 문화원은 어디에 있나요?	Where is the Esperanto Cultural Center?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Esperanto-Kulturcentro sidas en la centro de Seulo.	에스페란토 문화원은 서울의 중심에 있습니다.	Esperanto Cultural Center sits in the center of Seoul.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kien vi iras?	당신은 어디로 갑니까?	where are you going	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi iras hejmen.	나는 집(가정)으로 갑니다.	I'm going home.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi lernas Esperanton, ĉar ĝi estas facila kaj utila.	왜냐하면 나는 에스페란토가 쉽고 유용하기 때문에 배웁니다.	I am learning Esperanto because it is easy and useful.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi lernas Esperanton por lingva egaleco de homaro.	나는 인류의 언어적 평등(성)을 위하여 에스페란토를 배웁니다.	I am learning Esperanto for linguistic equality of humanity.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kial doktoro Zamenhof kreis Esperanton?	왜 자멘호프박사는 에스페란토를 창안했습니까?	Why did Dr. Zamenhof create Esperanto?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Doktoro Zamenhof kreis Esperanton por mondpaco.	자멘호프 박사는 세계 평화를 위하여 에스페란토를 창안했습니다.	Doctor Zamenhof created Esperanto for world peace.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kial vi verkis la libron?	당신은 왜 그 책을 지었습니까?	Why did you write the book?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi verkis la libron, por ke vi lernu Esperanton facile.	나는 당신(들)이 에스페란토를 쉽게 배우도록 하기 위하여 그 책을 지었습니다.	I wrote the book so that you can learn Esperanto easily.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kiel vi fartis?	당신은 어떻게 지내셨습니까?	How have you been?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi fartis bone kun miaj familianoj.	나는 나의 가족들과 잘 지냈습니다.	I was fine with my family members.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kiel li veturis al Ĉinio?	그는 어떻게 중국에 갔습니까? (어떤 교통편으로)	How did he travel to China?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Li veturis al Ĉinio per aviadilo.	그는 비행기로 중국에 갔습니다.	He traveled to China by plane.	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kiel vi solvis la problemon?	당신은 그 문제를 어떻게 해결했나요?	How did you solve the problem?	Amiko	0    	0000-00-00 00:00:00
+Amiko	Mi solvis la problemon saĝa (=kun saĝo).	나는 그 문제를 지혜롭게 해결했어요.	I solved the problem cleverly (=with wisdom).	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kiel afabla ŝi estas!	그녀는 얼마나 친절한가! (정도를 나타낸다)	How kind she is!	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kia malsaĝulo li estas!	그는 얼마나 어리석은 사람인가!	What a fool he is!	Amiko	0    	0000-00-00 00:00:00
+Amiko	Kiam vi lernas Esperanton?	당신은 언제 에스페란토를 배웁니까?	When do you learn Esperanto?	Amiko	0    	0000-00-00 00:00:00
+La amiko	Mi lernas Esperanton vespere.(=en la vespero)	나는 저녁에 에스페란토를 배웁니다.	I learn Esperanto in the evening.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kiam vi eklernis Esperanton?	당신은 언제부터 에스페란토를 배우기 시작했나요?	When did you start learning Esperanto?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kiam vi forlasos Koreion?	당신은 언제 한국을 떠날 예정입니까?	When will you leave Korea?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Mi forlasos Koreion post unu jaro.	나는 1년 후에 한국을 떠날 것입니다.	I will leave Korea in one year.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kiom da Esperantistoj estas en la ĉambro?	방안에 에스페란티스토가 몇 명 있습니까?	How many Esperanto speakers are there in the room?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Dek homoj estas en la ĉambro.	방안에 사람들이 10명 있습니다.	Ten people are in the room.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kiom da tagoj vi restos en Koreio?	한국에 며칠 동안 머물 예정입니까?	How many days will you stay in Korea?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Mi restos dum tri tagoj en Koreio.	나는 3일 동안 한국에 머물 예정입니다.	I will stay for three days in Korea.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kiom da familianoj vi havas?	당신에게는 몇 명의 가족이 있습니까?	How many family members do you have?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Mi havas kvin familianojn.	나는 5명의 가족이 있습니다.	I have five family members.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kiom da mono vi havas?	얼마의 돈을 갖고 있습니까?	how much money do you have	La amiko	0    	0000-00-00 00:00:00
+La amiko	Mi havas kvinmil ŭonojn.	나는 5천 원을 갖고 있습니다.	I have five thousand won.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kiom da akvo estas en la akvujo?	얼마의 물이 물통에 있습니까 ?	How much water is in the water tank?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Multe da akvo estas en la akvujo.	많은 물이 물통에 있습니다.	There is a lot of water in the water tank.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Paroli estas facile, sed fari estas malfacile.	말하기는 쉽지만 행하기는 어렵다.	Talking is easy, but doing is hard.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Ĉu vi volas viziti malnovajn urbojn?	당신은 옛 도시를 방문하기를 원합니까?	Do you want to visit old cities?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Mia hobio estas kolekti poŝtmarkojn.	나의 취미는 우표를 모으는 것이다.	My hobby is collecting stamps.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Estas la horo ekiri al mia domo.	나의 집으로 출발할 시간이다.	It's time to go to my house.	La amiko	0    	0000-00-00 00:00:00
+La amiko	La libro estas malfacila por legi.	그 책은 읽기가 어렵다.	The book is difficult to read.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Mi laboras por gajni monon.	나는 돈을 벌기 위하여 일한다.	I work to earn money.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Ĉu li estas via dua filo?	그가 당신의 둘째 아들입니까?	Is he your second son?	La amiko	0    	0000-00-00 00:00:00
+La amiko	La unuaj libroj de Esperanto estas legindaj.	에스페란토의 초기 책들은 읽을 가치가 있다.	The first books of Esperanto are worth reading.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Unue, ni devas labori diligente.	첫째로, 우리는 열심히 일해야만 한다.	First, we must work diligently.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Milionoj da homoj kantas en la placo.	수백만의 사람들이 광장에서 노래한다.	Millions of people sing in the square.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Sen saĝo oni estas nulo.	지혜가 없으면 아무것도 없다.	Without wisdom one is nothing.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Du kaj(plus) tri estas(faras) kvin.	2 + 3 = 5	Two and(plus) three is(makes) five.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Dek minus kvin estas(faras) kvin.	10 - 5 = 5	Ten minus five is (makes) five.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Okoble tri estas(faras) dudek kvar.	8 × 3 = 24	Eight times three is (makes) twenty-four.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Dudek dividite per tri estas (faras) ses kaj restas du.	20 ÷ 3 = 6 … 2	Twenty divided by three is (makes) six and there are two left.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kioma horo estas?	몇 시입니까?	What time is it?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Estas la tria (horo) kaj dudek minutoj.	3시 20분입니다.	It is twenty minutes past three.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Estas la sepa (horo) kaj unu minuto.	7시 1분입니다.	It is one minute past seven (hour).	La amiko	0    	0000-00-00 00:00:00
+La amiko	Estas la kvina (horo) kaj duono.	5시 반(30분)입니다.	It is half past five (o'clock).	La amiko	0    	0000-00-00 00:00:00
+La amiko	Estas dek minutoj antaŭ la sepa (horo).	7시 10분 전입니다.	It is ten minutes to seven (o'clock).	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kio vi estas? (Kio estas via profesio?)	당신은 무엇 하는 분입니까? (당신의 직업은 무엇입니까?)	What are you? (What is your profession?)	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kio estas homaranismo?	인류인주의는 무엇입니까?	What is humanism?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Tio estas la domo de mia amiko.	저것은 나의 친구의 집이다.	That's my friend's house.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Io estas en la tirkesto.	무언가가 그 서랍 속에 있다.	There's something in the drawer.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Ĉio estas en via koro.	모든 것은 당신 마음 속에 있다.	Everything is in your heart.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Nenio estas en la monujo.	지갑 안에 아무것도 없다.	There is nothing in the wallet.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kiu vi estas? (= Kio estas via nomo?)	당신은 누구입니까? (이름)	Who are you? (= What is your name?)	La amiko	0    	0000-00-00 00:00:00
+La amiko	Tiu estas sinjoro Kim.	저 분은 김씨입니다.	That is Mr. Kim.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Iu vokis min sur la strato.	누군가가 거리에서 나를 불렀다.	Someone called me on the street.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Mi disdonis la libron al ĉiu.	나는 모두(각 개인)에게 책을 나누어 주었다.	I distributed the book to everyone.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Ĉiuj diras, ke Esperanto estas internacia lingvo.	모든 사람들은 에스페란토가 국제어라고 말합니다.	Everyone says that Esperanto is an international language.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Neniu estas en la ĉambro.	방안에 아무도 없다.	No one is in the room.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Kia estas la fraŭlino el viaj klasanoj?	당신 학급생 중에 그 아가씨는 어떻습니까?	What is the girl in your class like?	La amiko	0    	0000-00-00 00:00:00
+La amiko	Tia koloro ne plaĉas al mi.	저런 색깔은 내 마음에 들지 않습니다.	I don't like that color.	La amiko	0    	0000-00-00 00:00:00
+En kafejo	Ŝi ĵetis iajn vortojn al mi.	그녀는 나에게 어떤 말을 건넸다.	She threw some words at me.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ĉia dono estas bono.	모든 형태의 기여는 선이다.	All giving is good.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Nenia ideo aperis en mia kapo.	어떠한 의견도 내 머리에 떠오르지 않았다.	No idea popped into my head.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Kiu lando estas vizitinda?	어느 나라가 방문할 만합니까?	Which country is worth visiting?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Tiu floro floras en la kamparo.	저 꽃은 들판에서 핀다.	That flower blooms in the countryside.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Iu knabo perdis la vojon.	어떤 소년이 길을 잃어버렸다.	A boy lost his way.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ĉiu persono havas propran karakteron.	모든 사람은 각자의 고유의 성격을 갖고 있다.	Each person has their own character.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Neniu laboristo estas en la laborejo.	일터에 일꾼이 아무도 없다	No worker is in the workplace.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ties koloro estas blanka.	저것의 색깔은 희다.	Its color is white.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ies voĉon mi aŭdis.	누군가의 목소리를 들었다.	I heard someone's voice.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ĉies lingvo estas Esperanto.	모든 사람의 언어가 에스페란토이다.	Everyone's language is Esperanto.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Nenies okuloj favoris al li.	그 누구의 눈빛도 그에게 호의적이지 않았다.	No one's eyes favored him.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Kien vi volas iri?	어디로 가려고 합니까?	Where do you want to go?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Tie estas mia preĝejo.	저기에 나의 교회가 있다.	There is my church.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ie loĝas mia malnova amiko.	어딘가에 나의 옛 친구가 살고 있다.	My old friend lives somewhere.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ĉie loĝas bonaj homoj en la mondo.	세계 모든 곳에 좋은 사람들이 살고 있다.	There are good people everywhere in the world.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Nenie mi vidis tiel honestan personon.	어디에서도 나는 저렇게 정직한 사람을 보지 못했다.	Nowhere have I seen such an honest person.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Kiel mi povas iri al Pekino?	내가 어떤 방법으로 북경으로 갈 수 있습니까?	How can I go to Beijing?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ankaŭ mi pensas tiel.	나도 그렇게 생각합니다.	I think so too.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Iel ŝi solvos sian hejmtaskon.	어떤 방법으로든 그녀는 자신의 숙제를 해결할 것입니다.	Somehow she will solve her homework.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ĉiel li helpis al mi.	그는 갖은 방법으로 나를 도와주었다.	In every way he helped me.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Vi neniel venkos lin.	당신은 그를 어떤 방법으로든 이길 수 없을 것이다.	There's no way you'll beat him.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Kial vi lernas la lingvon?	왜 당신은 그 언어를 배웁니까?	Why are you learning the language?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Tial mi ridegis gaje.	그래서 나는 유쾌하게 크게 웃었다.	That's why I smiled happily.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ial li ne venis hodiaŭ.	무슨 까닭인지 그는 오늘 오지 않았다.	For some reason he didn't come today.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Tio estas ĉial bona.	그것은 모든 면에서 좋다.	That's all good.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Nenial li koleras.	그는 어떤 이유로도 화내지 않는다.	There is no reason for him to be angry.	En kafejo	0    	0000-00-00 00:00:00
+La amiko	Tiam li ne estis en la domo.	그 때 그는 집에 없었다.	Then he was not in the house.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Iam vi povos rerenkonti lin.	언젠가 당신은 그를 다시 만날 수 있을 것이다.	Someday you will be able to meet him again.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Ĉiam ŝi pensas pri vi.	그녀는 항상 당신에 대하여 생각하고 있다.	She always thinks about you.	La amiko	0    	0000-00-00 00:00:00
+La amiko	Neniam mi atendos ŝin.	나는 결코(어느 때도) 그녀를 기다리지 않을 것이다.	I will never wait for her.	La amiko	0    	0000-00-00 00:00:00
+En kafejo	Kiom da landoj vi vojaĝis?	당신은 몇 나라를 여행했습니까?	How many countries have you traveled?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Tiom da libroj ankaŭ mi havas.	나도 저만큼의 책을 가지고 있다.	I have so many books too.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Donu iom da sukero.	설탕을 조금 주세요.	Give some sugar.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Neniom da akvo estas en la akvujo.	물통에 물이 전혀 없다.	There is no water in the water tank.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ĉu vi deziras havi ĉiom?	당신은 전부 갖기를 원하십니까?	Do you wish you had it all?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Kiom da Esperantistoj estas en Japanio?	일본에는 에스페란티스토가 얼마나 있습니까?	How many Esperanto speakers are there in Japan?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Multaj Esperantistoj estas en Japanio.	일본에는 많은 에스페란티스토들이 있습니다.	Many Esperantists are in Japan.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Mi havas kvinmil usonajn dolarojn.	나는 미화 5천 달러를 갖고 있습니다.	I have five thousand US dollars.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ĉiu havas sian propran guston.	모두는 각자 자신의 맛을 갖고 있다.	Everyone has their own taste.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Mi vokis ĉiun el ili aparte.	나는 그들 모두를 따로 불렀다.	I called each of them separately.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Ĉiuj rapide kuris, ĉiu revenis al sia hejmo.	모두들 빨리 뛰어 각자의 가정으로 돌아갔다.	Everyone ran quickly, everyone returned to their home.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Se mi estus riĉa, mi aĉetus la aŭton.	내가 만약 부유하다면, 그 차를 살 텐데.	If I were rich, I would buy the car.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Se mi estus sana, mi povus vivi longe.	내가 만약 건강하다면, 오래 살 수 있을 텐데.	If I were healthy, I could live a long time.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Se mi havus flugilojn, mi flugus al vi.	만약 나에게 날개(들)가 있다면, 그대에게 날아갈 텐데.	If I had wings, I would fly to you.	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	Se mi estus dio, mi povus fari tion.	내가 만약 신이라면, 그 일을 할 수 있을 텐데.	If I were god, I could do that.	En kafejo	0    	0000-00-00 00:00:00
+Renkonto	Ĉu vi volus trinki kafon?	커피 드시겠습니까?	Would you like to drink coffee?	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Ĉu vi povus porti ĝin al mi?	그것을 나에게 가져다 줄 수 있겠습니까?	Could you take it to me?	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Se vi lernos Esperanton, mi donos lernolibron al vi.	만약 당신이 에스페란토를 배운다면, 내가 당신에게 교재를 줄 것이다.	If you will learn Esperanto, I will give you a textbook.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Se vi lernus Esperanton lastjare, mi donus lernolibron al vi.	만약 당신이 작년에 에스페란토를 배웠더라면, 내가 당신에게 교재를 주었을 텐데.	If you learned Esperanto last year, I would give you a textbook.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Je kioma horo li venis al la lernejo?	몇 시에 그는 학교에 왔습니까?	What time did he come to school?	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li venis al la lernejo je la 7-a horo matene.	그는 아침 7시에 학교에 왔습니다.	He came to school at 7 o'clock in the morning.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li estas alta je 2 metroj.	그는 키가 2미터이다.	He is 2 meters tall.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Mi prenis je ŝia mano.	나는 그녀의 손을 잡았다.	I took her hand.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Vi havas rajton je tio.	당신은 그것에 대해 권리를 갖고 있다.	You have a right to that.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li estas vundita je la piedo.	그는 발에 상처를 입었다.	He is wounded in the foot.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Estas la dua horo kaj dek minutoj.	2시 10분이다.	It is ten minutes past two.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Hodiaŭ neĝas.	오늘 눈이 내린다.	Today it is snowing.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Pluvas multe.	비가 많이 온다.	It rains a lot.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Estas varme.	덥다.	It's hot.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Estas trankvile.	마음이 평안하다.	It's quiet.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Estas agrable.	기분이 좋다.	It's nice.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Estas necese.	필요하다.	It is necessary.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Estas komforte.	안락하다.	It's comfortable.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Vojaĝi kun Esperanto estas interese.	에스페란토와 함께하는 여행은 흥미롭다.	Traveling with Esperanto is interesting.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Estas mirinde, ke li sukcesis.	그가 성공했다니 놀랍다.	It's amazing that he made it.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li studas tiel diligente kiel mi.	그는 나처럼 그렇게 열심히 공부한다.	He studies as diligently as I do.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La kato kuras tiel rapide kiel la hundo.	고양이가 개처럼 그렇게 빨리 달린다.	The cat runs as fast as the dog.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li estas tiel saĝa kiel Zamenhof.	그는 자멘호프처럼 그렇게 현명하다.	He is as wise as Zamenhof.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li estas tiel afabla kiel mia instruisto.	그는 나의 선생님처럼 그렇게 친절하다.	He is as kind as my teacher.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Ŝi estas tiel eleganta kiel mia fratino.	그녀는 나의 여동생처럼 그렇게 우아하다.	She is as elegant as my sister.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li estas tiel bona kiel sia patro.	그는 자신의 아버지처럼 그렇게 훌륭하다.	He is as good as his father.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Ĉu li estas pli saĝa ol mi?	그가 나보다 더 현명합니까?	Is he smarter than me?	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	En Esperanto li parolas pli flue ol angla lingvo.	에스페란토로 그는 영어보다 더 유창하게 말한다.	He speaks Esperanto more fluently than English.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li estas malpli laborema ol ŝi.	그는 그녀보다 덜 부지런하다.	He is less hardworking than her.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Ŝi parolas pri la afero malpli serioze ol mi.	그녀는 그 일에 관하여 나보다 덜 심각하게 말한다.	She talks about the matter less seriously than I do.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li estas la plej saĝa el miaj klasanoj.	그는 우리 학급생 중에서 가장 현명하다.	He is the smartest of my classmates.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Ĉi tiu birdo flugas la plej malrapide el la birdoj.	이 새가 새들 중에서 가장 느리게 날아간다.	This bird flies the slowest of the birds.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Li estas unu el la plej famaj verkistoj en la mondo.	그는 이 세상에서 가장 유명한 작가들 중의 한명이다.	He is one of the most famous writers in the world.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Mi estas la malplej aktiva el miaj familianoj.	나는 우리 가족들 중에서 가장 덜 적극적이다.	I am the least active of my family members.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Mi estas manĝanta la bongustaĵon.	나는 맛있는 것을 먹고 있다.	I am eating the delicacy.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Mi estas laborinta en la laborejo.	나는 일터에서 일을 마쳤다.	I have worked in the workshop.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Mi estas ironta al la domo de mia amiko.	나는 나의 친구의 집에 가려고 한다.	I am about to go to my friend's house.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La kato estis manĝanta la fiŝon.	고양이가 생선을 먹고 있었다.	The cat was eating the fish.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La kato estis manĝinta la fiŝon.	고양이가 생선을 먹었었다.	The cat had eaten the fish.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La kato estis manĝonta la fiŝon.	고양이가 생선을 먹으려고 했다.	The cat was about to eat the fish.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Mi estos instruanta korean lingvon.	나는 한국어를 가르치고 있는 중일 것이다.	I will be teaching Korean language.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Mi estos instruinta korean lingvon.	나는 한국어를 가르친 후일 것이다.	I will have taught Korean language.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	Mi estos instruonta korean lingvon.	나는 한국어를 가르치려고 할 것이다.	I am about to teach Korean language.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La pordo estas fermata de la knabo.	문이 소년에 의해 닫히고 있다.	The door is closed by the boy.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La pordo estas fermita de la knabo.	문이 소년에 의해 닫혀 있다.	The door was closed by the boy.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La pordo estas fermota de la knabo.	문이 소년에 의해 닫히려 하고 있다.	The door is about to be closed by the boy.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La domo estis konstruata de la laboristoj.	그 집은 일꾼들에 의해 건설되고 있었다.	The house was being built by the workers.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La domo estis konstruita de la laboristoj.	그 집은 일꾼들에 의해 건설되었었다.	The house was built by the workers.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La domo estis konstruota de la laboristoj.	그 집은 일꾼들에 의해 건설될 예정이었다.	The house was to be built by the workers.	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	La ĉielo estos kovrata de la nubo.	하늘은 구름으로 덮여지고 있을 것이다.	The sky will be being covered by the cloud.	Renkonto	0    	0000-00-00 00:00:00
+Miaj Leteroj	La ĉielo estos kovrita de la nubo.	하늘은 구름으로 덮여져 있을 것이다.	The sky will be covered by the cloud.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	La ĉielo estos kovrota de la nubo.	하늘은 구름으로 덮여지려 할 것이다.	The sky will be about to be covered by the cloud.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi ludas la pianon.	나는 피아노를 친다.	I play the piano.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	La piano estas donacita de miaj gepatroj.	그 피아노는 나의 부모님으로부터 선물받은 것이다.	The piano is a gift from my parents.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi ludas la pianon, kiu estas donacita de miaj gepatroj.	나는 나의 부모님으로부터 선물받은 피아노를 친다.	I play the piano, which is a gift from my parents.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Doktoro Zamenhof kreis Esperanton en la jaro 1887.	자멘호프 박사는 에스페란토를 1887년에 창안했다.	Doctor Zamenhof created Esperanto in 1887.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi lernas Esperanton, kiun doktoro Zamenhof kreis en la jaro 1887.	나는 1887년, 자멘호프 박사가 창안한 에스페란토를 배운다.	I am learning Esperanto, which Dr. Zamenhof created in 1887.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi havas la belan ĝardenon.	나는 아름다운 정원을 갖고 있다.	I have the beautiful garden.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	La koloro de la ĝardeno estas verda kaj flava.	정원의 색깔은 녹색과 노란색이다.	The color of the garden is green and yellow.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi havas la belan ĝardenon, kies koloro estas verda kaj flava.	나는 초록색과 노란색의 아름다운 정원을 갖고 있다.	I have the beautiful garden whose color is green and yellow.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi manĝis ion, kio estis bongusta.	나는 맛있는 무언가를 먹었다.	I ate something that was delicious.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Li ne komprenis tion, kion mi diris.	그는 내가 말한 것을 이해하지 못했다.	He didn't understand what I said.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi batis mian fraton, kio estas malbona.	내가 나의 동생를 때린 것은 나쁘다.	I hit my brother, which is bad.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi batis mian amikon, kiu estis maldiligenta.	나는 나의 게으른 친구를 때렸다.	I beat my friend who was lazy.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	La brila, kion mi vidis, estis orero.	내가 본 빛나는 것은 금싸라기였다.	The shiny thing I saw was gold.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi vizitis mian hejmlokon.	나는 나의 고향을 방문했다.	I visited my home place.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi loĝis en mia hejmloko antaŭ dek jaroj.	나는 10년 전에 나의 고향에서 살았다.	I lived in my home place ten years ago.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi vizitis mian hejmlokon, kie mi loĝis antaŭ dek jaroj.	나는 10년 전에 살았던 나의 고향을 방문했다.	I visited my hometown, where I lived ten years ago.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi renkontis lin hodiaŭ matene.	나는 오늘 아침에 그를 만났다.	I met him this morning.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi promenis en la parko hodiaŭ matene.	나는 오늘 아침에 공원에서 산보했다.	I walked in the park this morning.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi renkontis lin hodiaŭ matene, kiam mi promenis en la parko.	내가 오늘 아침 공원을 산보했을 때 그를 만났다.	I met him this morning when I was walking in the park.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Ankaŭ mi estas komencanta Esperantisto.	나도 초보 에스페란티스토입니다.	I am also a beginner in Esperanto.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Ĉu li ankoraŭ laboras en la laborejo?	그가 아직 일터에서 일합니까?	Does he still work in the workshop?	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi apenaŭ kaptis la kurantan trajnon.	나는 달리는 기차를 겨우 잡았다.	I barely caught the running train.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi ekiros, apenaŭ mi finos la laboron.	내가 일을 마치자마자 나는 출발할 것입니다.	I will start, I will hardly finish the work.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Ŝi ne diris eĉ unu vorton antaŭ mi.	그녀는 내 앞에서 한마디도 하지 않았다.	She didn't say a single word in front of me.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Li loĝas kun sia panjo for de la urbo.	그는 자신의 엄마와 함께 도시에서 멀리 떨어진 곳에 산다.	He lives with his mom away from the city.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Ili forlasis la domon hieraŭ nokte.	그들은 어젯밤 그 집을 떠났다.	They left the house last night.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Jam estas tempo iri hejmen.	벌써 집으로 갈 시간입니다.	It's time to go home.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Jen, li malaperis subite	보세요, 그가 갑자기 사라졌어요.	Lo and behold, he disappeared suddenly	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Jen estas la seĝo por vi.	여기 당신의 의자가 있습니다.	This is the chair for you.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Li ĵus foriris kun sia amikino.	그는 막 자기 여자친구와 떠났다.	He just left with his friend.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi amas ŝin kiel min mem.	나는 나 자신를 사랑하는 것처럼 그녀를 사랑한다.	I love her as myself.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Nur du homoj vizitis min hodiaŭ matene.	단지 두 사람만이 오늘 아침 나를 방문했다.	Only two people visited me this morning.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Ĉu li estas la plej bona el viaj konatoj?	당신이 아는 사람 중에서 그가 가장 착합니까?	Is he the best of your acquaintances?	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Ŝi estas pli ĉarma ol rozo.	그녀는 장미보다 더 매력적이다.	She is lovelier than a rose.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	La soldatoj marŝis kelkajn paŝojn plu.	군인들은 몇 걸음을 더 행진했다.	The soldiers walked a few steps further.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi tuj rimarkis, ke li estas honesta.	나는 즉시 그가 정직하다는 것을 알아차렸다.	I noticed right away that he was honest.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Li aspektas almenaŭ kvardek jara.	그는 적어도 40세가 돼 보인다.	He looks at least forty years old.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Baldaŭ li venos al mia domo.	곧 그는 나의 집으로 올 것이다.	Soon he will come to my house.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Ĉirkaŭ dek samideanoj estas en la ĉambro.	약 열 명의 동지들이 방안에 있다.	About ten fellows are in the room.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Mi renkontis lin hieraŭ en mia laborejo.	나는 어제 그를 내 직장에서 만났다.	I met him yesterday in my workplace.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Hodiaŭ li estas serioze malsana.	오늘 그는 몹시 아프다.	Today he is seriously ill.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Morgaŭ mi iros al la preĝejo kun miaj gefiloj.	나는 나의 자식들과 함께 내일 교회에 갈 것입니다.	Tomorrow I will go to church with my children.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Ŝi estas ja sincera oficistino.	그녀는 정말 성실한 여사무원입니다.	She is indeed a sincere employee.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Jes, li ĉiam kaj ĉie diras la veron.	예, 그는 언제 어디서나 진실을 말합니다.	Yes, he always and everywhere tells the truth.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	Li ne venis al mi hieraŭ vespere.	그는 어제 저녁에 나에게 오지 않았습니다.	He did not come to me last night.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Nova Aŭto	Li estas dormanta kvazaŭ mortinto.	그는 마치 죽은 사람처럼 잠자고 있다.	He is sleeping like a dead man.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Aŭdinte la novaĵon, li tre surpriziĝis.	그 소식을 듣고, 그는 매우 놀랐다.	Having heard the news, he was very surprised.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Tro da kuiristoj kaĉon difektas.	요리사가 너무 많으면 죽을 망친다.	Too many cooks spoil porridge.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li hastas tro urĝe.	그는 지나치게 급히 서둔다.	He is in too much of a hurry.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Nun li estas tre okupita pro la ofico.	그는 지금 업무 때문에 매우 바쁘다.	Now he is very busy because of the office.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Miaj amikoj preskaŭ ĉiam estas kun mi.	나의 친구들은 거의 늘 나와 같이 있다.	My friends are almost always with me.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La birdo sidas supre de la arbo.	새가 나무 위에 앉아 있다.	The bird sits on top of the tree.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La birdo sur la ĉielo flugas suden rapide.	하늘의 새가 남쪽으로 빠르게 날아간다.	The bird in the sky flies south quickly.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La figuro de la fluganta birdo estas vere bela.	날아가는 새의 모습이 정말 아름답다.	The figure of the flying bird is really beautiful.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li rakontis al mi sincere amike.	그는 나에게 진실로 다정하게 이야기해 주었다.	He told me in a sincere friendly manner.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mi iras al mia domo, kiu sidas en la nordo de Seulo.	나는 서울의 북쪽에 위치한 나의 집으로 간다.	I go to my house, which sits in the north of Seoul.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mia onklo donis la libron al mi.	나의 아저씨께서 그 책을 나에게 주셨다.	My uncle gave me the book.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ŝi diligente laboris anstataŭ mi.	그녀는 나 대신에 부지런히 일했다.	She worked diligently instead of me.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Antaŭ la domo staras la arboj.	그 집 앞에 나무들이 서 있다.	In front of the house stand the trees.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li revenis al la domo antaŭ unu horo.	그는 1시간 전에 집에 돌아왔다.	He returned to the house an hour ago.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Apud mia domo loĝas mia amika amiko.	나의 집 옆에 나의 다정스런 친구가 살고 있다.	My friend lives next to my house.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ŝi restas ne ĉe mia domo, sed apud la mia.	그녀는 나의 집에 머무는 것이 아니라 나의 옆 집에 머문다.	She doesn't stay at my house, but next to mine.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La luno rondiras ĉirkaŭ la tero.	달은 지구 주위를 돈다.	The moon revolves around the earth.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Kiom da homoj estas en la ĉambro?	방 안에 사람들이 얼마나 있습니까?	How many people are in the room?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Kiom da mono estas en via monujo?	당신 지갑에 돈이 얼마나 있습니까?	How much money is in your wallet?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	De kiu vi ricevis la ruĝan floron?	당신은 누구로부터 그 붉은 꽃을 받았습니까?	Who did you get the red flower from?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĝi estas la libro de mia patro.	그것은 나의 아버지의 책이다.	It is my father's book.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li kuris ŝvitante dum du horoj laŭ la rivero.	그는 강을 따라 땀 흘리면서 2시간 동안 뛰었다.	He ran sweating for two hours along the river.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li staras ekster la pordo kun pluvo.	그는 문 밖에서 비를 맞고 서 있다.	He stands outside the door with rain.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ŝi estas la plej saĝa el la klasanoj.	그녀는 학급생 중 가장 현명하다.	She is the smartest of the class members.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La flago pendas el la fenestro.	깃발이 창밖으로 걸려 있다.	The flag hangs from the window.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu vi loĝas en tiu ĉi urbo kun viaj gepatroj?	당신은 부모님과 함께 이 도시에 삽니까?	Do you live in this city with your parents?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mi laboris ĝis la kvina horo hieraŭ.	나는 어제 5시까지 일했다.	I worked until five o'clock yesterday.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Inter du landoj estas etaj insuloj.	두 나라 사이에 작은 섬들이 있다.	Between two countries there are small islands.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Je kioma horo vi vekiĝis?	몇 시에 당신은 일어났습니까?	What time did you wake up?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mi vekiĝis je la kvina frumatene.	나는 이른 아침 5시에 일어났다.	I woke up at five in the morning.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La domo staras kontraŭ la rivero.	그 집은 강을 마주하고 있다.	The house stands against the river.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Krom Esperanto, mi povas paroli germanan lingvon.	나는 에스페란토 외에 독일어를 할 수 있다.	Besides Esperanto, I can speak German.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mi volas vivi kun vi feliĉe en bela domo.	나는 아름다운 집에서 당신과 함께 행복하게 살고 싶습니다.	I want to live with you happily in a beautiful house.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Sen libero, ni ne povas vivi.	자유 없이 우리는 살 수 없다.	Without freedom, we cannot live.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La akvo fluas laŭ la rivero.	물은 강 따라 흐른다.	The water flows along the river.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Malantaŭ la domo staras granda roko.	그 집 뒤에 큰 바위가 서 있다.	Behind the house stands a large rock.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Malgraŭ la problemoj, la afero estis solvita de li.	문제가 있음에도 불구하고 그 일은 그에 의해 해결되었다.	Despite the problems, the matter was resolved by him.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu vi volas vojaĝi tra la mondo per aviadilo?	당신은 비행기로 세계를(통하여) 여행하고 싶습니까?	Do you want to travel the world by plane?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La patrino disdonis la pomojn po tri al la filoj.	어머니는 아들들에게 사과를 3개씩 나누어 주었다.	The mother distributed the apples three at a time to the sons.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li pasis preter mi sen saluto.	그는 인사도 없이 내 옆을 지나갔다.	He walked past me without saying hello.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Nun temas pri internacia politika situacio.	지금 국제 정치 상황에 대하여 화제를 삼고 있다.	Now it is an international political situation.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mi laboras kun plezuro por mia estonto.	나는 나의 미래를 위하여 기쁘게 일한다.	I work with pleasure for my future.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mi pagis kvinmil ŭonojn por la nova libro.	나는 새 책값으로 5천 원을 지불했다.	I paid five thousand won for the new book.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu ŝi ploras pro malĝojo aŭ malsano?	그녀는 슬퍼서 웁니까, 아니면 아파서 웁니까?	Is she crying because of sadness or illness?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Sub la ponto, la ŝipo pasas malrapide.	다리 아래로 배가 느리게 지나간다.	Under the bridge, the ship passes slowly.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La libelo flugas libere super la rivero.	잠자리가 강위를 자유롭게 날아간다.	The dragonfly flies freely over the river.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu la manĝaĵo estas sur la tablo?	먹을 것이 책상 위에 있습니까?	Is the food on the table?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Tra la kamparo, ĉevaloj kuras rapide.	들판을 가로질러, 말들이 빨리 달린다.	Through the countryside, horses run fast.	Nova Aŭto	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu li loĝas trans la monto?	그는 저 산 너머에 삽니까?	Does he live over the mountain?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	La birdoj flugis trans la maron.	새들이 바다 건너로 날아갔다.	The birds flew across the sea.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Post unu jaro, mi povos paroli bone en Esperanto.	1년 후에 나는 에스페란토를 잘 말할 수 있을 것이다.	After a year, I will be able to speak Esperanto well.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu la knaboj estas bonaj amikoj?	그 소년들은 착한 친구들 입니까?	Are the boys good friends?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu ili estas malbonaj najbaroj?	그들은 나쁜 이웃들입니까?	Are they bad neighbors?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu li estas diligenta laboristo?	그는 부지런한 일꾼입니까?	Is he a diligent worker?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	La dormemulo estas maldiligenta.	잠꾸러기는 게으르다.	The sleepyhead is lazy.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Via koro povas esti la plej granda en la mondo.	당신의 마음이 세상에서 가장 클 수 있다.	Your heart can be the biggest in the world.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	La ĉambro de mia filino estas malgranda.	내 딸의 방은 작다.	My daughter's room is small.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Lia patro estas fama artisto.	그의 아버지는 훌륭한 예술가이시다.	His father is a famous artist.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	La bopatro estas la patro de mia edzino.	장인은 내 아내의 아버지이다.	The father-in-law is my wife's father.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Mia filo estas verkisto.	내 아들은 작가입니다.	My son is a writer.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu via bofilo estas inĝeniero?	당신의 사위는 기술자입니까?	Is your son-in-law an engineer?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Kiom da fratoj vi havas?	당신은 형제가 몇 명입니까?	How many brothers do you have?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Li estas mia dua bofrato.	그는 나의 둘째 처남이다.	He is my second brother-in-law.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Kiom da amikoj vi havas en la mondo?	당신은 이 세상에 몇 명의 친구가 있습니까?	How many friends do you have in the world?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu viaj geamikoj fartas bone?	당신의 남녀 친구들은 잘 지냅니까 ?	Are your friends doing well?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Mia patro estas la unua filo de mia avo.	나의 아버지는 나의 할아버지의 첫아들이다.	My father is the first son of my grandfather.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Kiel viaj gepatroj fartas?	당신의 부모님은 어떻게 지내십니까?	How are your parents?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Kie loĝas viaj fratoj?	당신의 형제들은 어디에 삽니까?	Where do your brothers live?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Kiom da gefratoj vi havas?	당신은 형제 자매가 몇 명 입니까?	How many siblings do you have?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu li iris al la lernejo?	그는 학교에 갔습니까?	Did he go to school?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ili ekiris en la frua mateno.	그들은 이른 아침에 출발하였다.	They set out in the early morning.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Li kriis laŭte kun ĝojo.	그는 기뻐서 큰 소리로 외쳤다.	He shouted out loud with joy.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ŝi ekkriis pro neatendita atako.	그녀는 예기치 않은 공격 때문에 소리치기 시작했다.	She screamed from an unexpected attack.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	La oro hele brilas.	금이 눈부시게 빛난다.	The gold shines brightly.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	La stelo ekbrilas sur la ĉielo.	하늘에서 별이 반짝반짝 빛난다.	The star sparkles in the sky.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu li venis de la najbara vilaĝo?	그는 이웃 마을에서 왔습니까?	Did he come from the neighboring village?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu via amiko revenis malfrue?	당신의 친구는 늦게 돌아왔습니까?	Did your friend come back late?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu vi memoras vian malnovan amikon?	당신은 당신의 옛 친구를 기억합니까?	Do you remember your old friend?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Li rememoris sian belan memoron.	그는 자신의 아름다운 기억을 회상했다.	He recalled his beautiful memory.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Mia patro donis la monon al mi.	나의 아버지는 나에게 그 돈을 주셨다.	My father gave me the money.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu vi redonis la libron al ŝi?	당신은 그녀에게 그 책을 돌려주었습니까?	Did you give her the book back?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu li donis la libron al vi?	그가 당신에게 그 책을 주었습니까?	Did he give you the book?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ŝi disdonis la panon al ili.	그녀는 그들에게 빵을 나누어 주었다.	She distributed the bread to them.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	La rozoj disfloras en la ĝardeno.	장미가 정원에 만발하다.	The roses bloom in the garden.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	La ŝtoneto falis de la ŝtonego.	돌멩이가 바위에서 떨어졌다.	The pebble fell from the boulder.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	La ponto disfalis abrupte.	다리가 갑자기 붕괴되었다.	The bridge collapsed abruptly.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Kvankam (ŝi estas) riĉa, tamen ŝi vestas sin tre modeste.	그녀는 부유하지만, 매우 검소하게 옷을 입는다.	Although (she is) rich, yet she dresses very modestly.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu li estas la prezidanto de nia klubo?	그가 우리 모임의 회장입니까?	Is he the president of our club?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Li estas la eksprezidanto de nia societo.	그는 우리 단체(회)의 전 회장이다.	He is the former president of our society.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu la vestaĵo estas lasta moda?	그 옷이 최근에 유행하는 것입니까?	Is the clothing the latest fashion?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Li vestis sin en la eksmoda vestaĵo.	그는 유행이 지난 옷을 입었다.	He dressed in the old fashioned clothes.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Li estas mia sincera edzo.	그는 나의 성실한 남편이다.	He is my sincere husband.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu li estas via eksedzo?	그가 당신의 전 남편입니까 ?	Is he your ex-husband?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu vi komprenas miajn vortojn?	당신은 나의 말을 이해합니까?	Do you understand my words?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Li miskomprenis mian sugeston.	그는 나의 제의를 오해했다.	He misunderstood my suggestion.	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Ĉu via patro laboras en Seulo?	당신의 아버지는 서울에서 일하십니까?	Does your father work in Seoul?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Kie via prapatro loĝis antaŭ cent jaroj?	당신의 선조는 100년 전에 어디에서 살았습니까?	Where did your ancestor live a hundred years ago?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	Kun kiu via avo loĝas en la hejmloko?	당신의 할아버지는 고향에서 누구와 사십니까?	Who does your grandfather live with at home?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu lia praavo vivas feliĉe?	그의 증조할아버지는 행복하게 살고 있습니까?	Is his great-grandfather living happily?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu li estas saĝa homo?	그는 현명한 사람입니까?	Is he a wise man?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Kiel la prahomo faris fajron?	원시인은 어떻게 불을 피웠습니까?	How did the primitive man make fire?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu li estas kapabla prezidento?	그는 능력 있는 대통령입니까?	Is he a capable president?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Nia vicprezidento estas tre honesta persono.	우리의 부통령은 매우 정직한 분입니다.	Our vice president is a very honest person.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu li estas nova ministro?	그분이 신임 장관입니까?	Is he a new minister?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Kia estas eksa vicministro?	전 차관은 어떤 분이었습니까?	What is a former deputy minister like?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu li estas kuraĝa knabo?	그는 용감한 소년입니까?	Is he a brave boy?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La knabino estas mia dua filino.	그 소녀는 나의 둘째 딸입니다.	The girl is my second daughter.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu via kato estas aminda?	당신의 고양이는 사랑스럽습니까?	Is your cat cute?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La katinoj dormas sub la lito.	그 암코양이들이 침대 아래서 잔다.	The cats sleep under the bed.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Biblio estas la instruo de Jesuo.	성경은 예수의 가르침이다.	Bible is the teaching of Jesus.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Kiel fartas via instruisto?	당신의 선생님은 어떻게 지내십니까?	How is your teacher?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La paco estas espero de la homaro.	평화는 인류의 희망이다.	Peace is the hope of mankind.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Oni vokas nin pacistoj.	사람들은 우리를 평화주의자라고 부른다.	They call us peacemakers.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mia familio konsistas el kvin personoj.	나의 가족은 5명이다. (5명으로 구성되어 있다.)	My family consists of five people.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉiuj familianoj estas sanaj.	모든 가족들은 건강하다.	All family members are healthy.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Nia klubo havis kunsidon hieraŭ.	우리 모임은 어제 회합을 가졌다.	Our club had a meeting yesterday.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu ŝi estas la klubano de Zamenhofa klubo?	그녀는 자멘호프 클럽의 회원입니까?	Is she the club member of Zamenhofa club?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu via frato estas pli juna ol mi?	당신의 형님은 나보다 더 젊습니까?	Is your brother younger than me?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La junulo devas havi ambicion.	청년은 야망을 가져야 합니다.	The young man must have ambition.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu la malsanulo iris al la malsanulejo?	그 환자는 병원에 갔습니까?	Did the sick person go to the hospital?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Hodiaŭ matene mi trinkis kafon.	오늘 아침에 나는 커피를 마셨다.	This morning I drank coffee.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ni renkontiĝos je la sesa horo ĉe kafejo.	우리는 찻집에서 6시에 만날 것입니다.	We will meet at six o'clock at a cafe.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mi skribas leteron al miaj amikoj en la mondo per reta poŝto.	나는 전자우편으로 세계에 있는 나의 친구들에게 편지를 쓴다.	I am writing a letter to my friends in the world via online mail.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La skribilo estas necesa por skribi leteron.	편지를 쓰기 위해서는 필기구가 필요하다.	The pen is necessary to write a letter.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ŝi tondas ŝiajn longajn harojn.	그녀는 그녀(주어와 다른)의 긴 머리카락을 자른다.	She cuts her long hair.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu li tondas la branĉojn de la arbo per tondilo?	그는 가위로 나무의 가지를 자릅니까?	Does he trim the branches of the tree with scissors?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu li havas sufiĉe da mono?	그는 충분한 돈을 갖고 있나요?	Does he have enough money?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mia monujo estas malnova.	나의 지갑은 헌 것이다.	My wallet is old.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu la kandelo estas en la tirkesto?	초가 서랍에 있나요?	Is the candle in the drawer?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li metas la kandelon sur la kandelingon.	그는 초를 그 촛대 위로 꽂는다.	He puts the candle on the candlestick.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ŝia vesto estas eleganta kaj hela.	그녀의 옷은 우아하고 밝다.	Her dress is elegant and bright.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li portas vestaĉon kvazaŭ almozulo.	그는 마치 거지처럼 남루한 옷을 입고 있다.	He wears clothes like a beggar.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu la domo de via amiko estas du etaĝa?	당신 친구의 집은 2층입니까?	Is your friend's house two stories?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Kiu loĝas en la domaĉo?	누가 그 누추한 집에 삽니까?	Who lives in the house?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu vi povas paroli en hispana lingvo?	당신은 스페인어로 말할 수 있습니까?	Can you speak Spanish?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La parolado de la profesoro estis impresa.	그 교수님의 강연은 인상적이었다.	The professor's speech was impressive.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu la bebo dormas profunde?	아기가 깊이 잡니까?	Is the baby sleeping soundly?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li dormadas dolĉe kaj trankvile.	그는 달콤하고 편안하게 숙면을 취한다.	He sleeps sweetly and peacefully.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Li manĝas manĝaĵon bonguste en la manĝejo.	그는 식당에서 음식을 맛있게 먹는다.	He eats food deliciously in the dining hall.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu la manĝaĵo estas akra?	그 음식이 맵습니까?	Is the food spicy?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La diraĵo de la patro estas severa.	아버지의 말씀은 엄격하시다.	The father's saying is harsh.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mi pakas mian sakon por vojaĝo.	나는 여행을 위하여 나의 가방을 꾸린다.	I am packing my bag for a trip.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ŝia pakaĵo estas peza kaj granda.	그녀의 짐은 무겁고 크다.	Her luggage is heavy and big.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Mi plantis la arbon hieraŭ.	나는 어제 그 나무를 심었다.	I planted the tree yesterday.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Tra la arbaro multaj homoj trapasis.	숲을 통과하여 많은 사람들이 지나갔다.	Many people passed through the forest.	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	Ĉu li estas sincera kaj homa homo?	그는 성실하고 인간적인 사람입니까?	Is he a sincere and human person?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	La paco estas bela sonĝo de la homaro	평화는 인류의 아름다운 꿈이다.	Peace is a beautiful dream of humanity	Nova Aŭto	0    	0000-00-00 00:00:00
+Maja	Kial vi volas gajni monon?	왜 당신은 돈을 벌고자 하는가?	Why do you want to earn money?	Maja	0    	0000-00-00 00:00:00
+Maja	En mia poŝo estas nur monero.	내 주머니에는 동전뿐이다.	There is only a coin in my pocket.	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu tio estas via domo?	저것이 당신의 집입니까?	Is that your house?	Maja	0    	0000-00-00 00:00:00
+Maja	La domego de mia amiko estas granda.	내 친구의 빌딩은 크다.	My friend's mansion is big.	Maja	0    	0000-00-00 00:00:00
+Maja	Hodiaŭa vetero estas varmega.	오늘 날씨가 매우 덥다.	Today's weather is hot.	Maja	0    	0000-00-00 00:00:00
+Maja	Li vivas ĉiam gaje kaj ĝoje kun rido.	그는 항상 웃음을 띠며 유쾌하고 즐겁게 산다.	He lives always cheerfully and joyfully with laughter.	Maja	0    	0000-00-00 00:00:00
+Maja	Ŝi ĵetas rideton al mi.	그녀가 나에게 미소를 짓는다.	She gives me a little smile.	Maja	0    	0000-00-00 00:00:00
+Maja	Kiam via Esperanto-amiko venos el Ĉinio?	언제 당신 에스페란토 친구가 중국에서 옵니까?	When will your Esperanto friend come from China?	Maja	0    	0000-00-00 00:00:00
+Maja	Nia amikeco daŭros eterne.	우리의 우정은 영원히 계속 될 것이다.	Our friendship will last forever.	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu la bovo de via onklo laboras diligente?	당신 아저씨의 소는 부지런히 일합니까?	Does your uncle's ox work diligently?	Maja	0    	0000-00-00 00:00:00
+Maja	La bovido estas ido de la bovo.	송아지는 소의 새끼이다.	The calf is the calf of the ox.	Maja	0    	0000-00-00 00:00:00
+Maja	Li estas nia bona reĝo.	그는 우리의 훌륭한 왕이다.	He is our good king.	Maja	0    	0000-00-00 00:00:00
+Maja	Nia reĝido estas ĉarma kaj danda.	우리의 왕자는 매력적이고 멋쟁이다.	Our princess is cute and dandy.	Maja	0    	0000-00-00 00:00:00
+Maja	Mia filo dormas en sia lito.	나의 아들은 자기의 침대에서 잔다	My son is sleeping in his bed.	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu ŝi estas babilema virino?	그녀는 수다스러운 여자인가요?	Is she a talkative woman?	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu vi ŝatas legi originalan novelon skribita en Esperanto?	당신은 에스페란토로 쓰여진 원작 소설을 읽기를 좋아하나요?	Do you like to read an original short story written in Esperanto?	Maja	0    	0000-00-00 00:00:00
+Maja	La novelo de la verkisto estis leginda por mi.	나로서는, 그 작가의 소설이 읽을 만했다.	The short story of the writer was worth reading for me.	Maja	0    	0000-00-00 00:00:00
+Maja	Li manĝas la bongustan pomon.	그는 맛있는 사과를 먹는다.	He eats the delicious apple.	Maja	0    	0000-00-00 00:00:00
+Maja	La pano, kiu estas farita de panjo, estas manĝinda.	엄마가 만든 빵이 먹음직하다.	The bread that mom makes is worth eating.	Maja	0    	0000-00-00 00:00:00
+Maja	Li legas la libron pri Esperanto-movado.	그는 에스페란토 운동에 관한 책을 읽는다.	He is reading the book about the Esperanto movement.	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu la biografio pri Zamenhof estas legenda libro?	자멘호프에 관한 전기는 읽어야만 하는 책인가요?	Is the biography of Zamenhof a legendary book?	Maja	0    	0000-00-00 00:00:00
+Maja	Mi volas manĝi kun miaj familianoj.	나는 나의 가족들과 함께 식사하기를 원합니다.	I want to eat with my family members.	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu ĝi estas manĝebla pano?	그것은 먹을 수 있는 빵입니까?	Is it edible bread?	Maja	0    	0000-00-00 00:00:00
+Maja	Mia patro estas ĵurnalisto de la gazeto-kompanio.	나의 아버지는 잡지사의 기자이시다.	My father is a journalist of the newspaper company.	Maja	0    	0000-00-00 00:00:00
+Maja	Kiu knabino vokas sian paĉjon?	어느 소녀가 자기 아빠를 부릅니까?	Which girl calls her daddy?	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu vi komprenas la koron de via patrino?	당신은 당신 어머니의 마음을 이해합니까?	Do you understand your mother's heart?	Maja	0    	0000-00-00 00:00:00
+Maja	Mia panjo estas komprenema.	나의 엄마는 이해심이 있습니다.	My mom is understanding.	Maja	0    	0000-00-00 00:00:00
+Maja	Mi havas tri gefratojn.	나는 세 명의 형제 자매가 있습니다.	I have three siblings.	Maja	0    	0000-00-00 00:00:00
+Maja	La triono de la kongresanoj estas azianoj.	대회 참석자들의 1/3은 아시아인이다.	A third of the congress members are Asian.	Maja	0    	0000-00-00 00:00:00
+Maja	Du manoj faras ĉion, sed unu nenion.	두 손은 모든 것을 하지만, 한 손은 아무것도 못한다.	Two hands do everything, but one does nothing.	Maja	0    	0000-00-00 00:00:00
+Maja	Duope ili ĵetis sin sur min.	그들은 둘이서 나에게 덤벼들었다.	In pairs they threw themselves on me.	Maja	0    	0000-00-00 00:00:00
+Maja	La gusto de la pano estas dolĉa.	그 빵의 맛이 달콤하다.	The taste of the bread is sweet.	Maja	0    	0000-00-00 00:00:00
+Maja	Bonvolu, gustumi la manĝaĵon.	(아무쪼록) 그 음식을 맛보시지요.	Please, taste the food.	Maja	0    	0000-00-00 00:00:00
+Maja	Li brakumis sian filinon varme.	그는 자신의 딸을 뜨겁게 껴안았다.	He hugged his daughter warmly.	Maja	0    	0000-00-00 00:00:00
+Maja	Mi plenumis mian mision sukcese.	나는 나의 사명을 성공적으로 수행했다.	I have completed my mission successfully.	Maja	0    	0000-00-00 00:00:00
+Maja	Mi malvarmumis hieraŭ nokte.	나는 어제 밤에 감기에 걸렸다.	I had a cold last night.	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu vi retumas ĉiutage kun viaj amikoj?	당신은 친구들과 매일 인터넷을 즐기나요?	Do you surf the web every day with your friends?	Maja	0    	0000-00-00 00:00:00
+Maja	Ni cerbumu por solvi la problemon.	그 문제를 해결하기 위하여 우리 머리를 짜 봅시다.	Let's brainstorm to solve the problem.	Maja	0    	0000-00-00 00:00:00
+Maja	Proksimume, cent homoj aŭskultis lian prelegon.	대략, 100명이 그의 강연을 들었다.	Approximately, a hundred people listened to his lecture.	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu ŝi povas fari bongustan kukon?	그녀는 맛있는 과자를 만들 수 있습니까?	Can she make a delicious cake?	Maja	0    	0000-00-00 00:00:00
+Maja	Esperantisto ne fariĝas, sed naskiĝas	에스페란티스토는 되는 것이지 태어나는 것이 아니다.	An Esperantist is not made, but born	Maja	0    	0000-00-00 00:00:00
+Maja	Mia patrino naskis min en Seulo.	나의 어머니께서는 나를 서울에서 낳으셨다.	My mother gave birth to me in Seoul.	Maja	0    	0000-00-00 00:00:00
+Maja	Mi naskiĝis en la bela urbeto.	나는 아름다운 작은 도시에서 태어났다.	I was born in the beautiful little town.	Maja	0    	0000-00-00 00:00:00
+Maja	En kiu urbo vi naskiĝis?	당신은 어느 도시에서 태어났습니까?	What city were you born in?	Maja	0    	0000-00-00 00:00:00
+Maja	Mi sidas sur la seĝo.	나는 의자 위에 앉아 있다.	I'm sitting on the chair.	Maja	0    	0000-00-00 00:00:00
+Maja	Li sidigis min sur la seĝo.	그는 나를 의자 위에 앉혔다.	He sat me down on the chair.	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu la pejzaĝo de la monto estas bela?	산의 풍경이 아름답습니까?	Is the scenery of the mountain beautiful?	Maja	0    	0000-00-00 00:00:00
+Maja	Ŝi beligas la ĉambron.	그녀는 방을 예쁘게 꾸민다.	She beautifies the room.	Maja	0    	0000-00-00 00:00:00
+Maja	Ĉu ŝi havas viglan karakteron?	그녀의 성격은 활발합니까?	Does she have a lively character?	Maja	0    	0000-00-00 00:00:00
+ĉiam malfrue	Printempo vigligas ĉian vivaĵon en la mondo.	봄은 세상의 모든 생명체를 활발하게 한다.	Spring invigorates all living things in the world.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mi rigardas belan pejzaĝon.	나는 아름다운 풍경을 바라본다.	I am looking at a beautiful landscape.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Du horojn, mi ludis tenison.	2시간 동안 나는 테니스를 쳤다.	For two hours, I played tennis.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	La 2-an de Januaro mi renkontis lin.	1월 2일에 나는 그를 만났다.	On the 2nd of January I met him.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mi paŝas en la ĉambro.	나는 방안에서 걷는다.	I pace in the room.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mi paŝas en la ĉambron.	나는 방안으로 걸어간다.	I step into the room.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mi transformiĝis en birdon.	나는 한 마리 새가 되었네.	I turned into a bird.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Kien vi iros?	어디로 갑니까?	Where are you going?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mi iros hejmen.	나는 집으로 갑니다.	I will go home.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Saluton, Instruisto.	선생님, 안녕하세요.	Hello, Teacher.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Bonan matenon!	(아침인사) 안녕하세요	Good morning!	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Bonan tagon!	(낮 인사) 안녕하세요	Good day!	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Bonan vesperon!	(저녁 인사) 안녕하세요	Good evening!	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mi tre ĝojas vidi vin.	당신을 뵙게 되어 기쁩니다.	I am very glad to see you.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mi tre ĝojas konatiĝi kun vi.	당신을 알게 되어 기쁩니다.	I am very pleased to meet you.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mia nomo estas Hong Gildong, kiu eklernis Esperanton antaŭ unu jaro.	저는 에스페란토를 1년 전에 배우기 시작한 홍길동입니다.	My name is Hong Gildong, who started learning Esperanto a year ago.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mi loĝas en Seulo.	저는‘서울’에 살고 있습니다.	I live in Seoul.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mi estas ankoraŭ komencanto.	저는 아직 초보자입니다.	I am still a beginner.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Mia profesio estas instruisto.	제 직업은 교사입니다.	My profession is a teacher.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Dankon, Sinjoro. Do, ĝis revido.	감사합니다, 선생님. 그럼 또 뵙기로 하죠	Thank you, Sir. So, goodbye.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Pli malrapide, mi petas.	좀 더 천천히 말씀해 주십시오.	Slower, please.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Pri kio vi demandis min?	저에게 무엇에 대하여 물어셨나요?	What did you ask me about?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Pardonon, Sinjoro.	미안(실례)합니다. 선생.	Sorry, Sir.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Momenton.	잠깐만요	A moment.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Ĉu vere?	정말입니까?	Really?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Ne gravas.	괜찮습니다.	It doesn't matter.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Kiel diri ...? Kion diri...?	뭐라고 할까..? (대화 도중에)	How to say ...? What to say...?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Iom poste.	조금 후에.	A little later.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Ĝis revido.	다시 만나요.	Goodbye	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Ĝis baldaŭ.	곧 만나요.	See you soon	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Ĝis poste.	나중에	See you later.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Ĉu bone?	좋습니까?	Is it OK?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Al kiu vi diris?	누구에게 말했죠?	Who did you tell?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Laŭ via volo.	원하시는 대로	At your will.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Laŭ via plaĉo.	마음에 드시는 대로	To your liking.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Kompreneble.	물론	Of course	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Kio estas via profesio(okupo, laboro)?	당신의 직업은 무엇입니까?	What is your profession (occupation, job)?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Bonvolu ripeti vian nomon.	이름을 한 번 더 말씀해 주십시오.	Please repeat your name.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Hodiaŭa vetero estas tre agrabla.	오늘 날씨가 아주 온화합니다.	Today's weather is very pleasant.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Kia estas hodiaŭa vetero?	오늘 날씨는 어떻습니까?	What's the weather like today?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Nun pluvas en Seulo.	지금 서울에는 비가 내립니다.	It's raining in Seoul now.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Laŭ la veterprognozo,	일기예보에 의하면.	According to the weather forecast,	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Nuna temperaturo estas tridek gradoj.	지금 온도는 30도입니다.	Current temperature is thirty degrees.	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Kiujn urbojn vi volas viziti morgaŭ?	내일 어느 도시들을 방문할 예정입니까?	Which cities do you want to visit tomorrow?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Kian impreson vi havas pri Koreio?	한국에 대한 인상이 어떻습니까?	What is your impression of Korea?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Kiun vi volas renkonti en Seulo?	서울에서 누구를 만나기를 원합니까?	Who do you want to meet in Seoul?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	Ĉu Koreio plaĉas al vi?	한국이 당신의 마음에 듭니까?	Do you like Korea?	ĉiam malfrue	0    	0000-00-00 00:00:00
+la strato	Kiam vi revizitos Koreion?	언제 한국을 다시 방문할 예정입니까?	When will you visit Korea again?	la strato	0    	0000-00-00 00:00:00
+la strato	Kio estas via nomo?	이름이 무엇입니까?	What is your name?	la strato	0    	0000-00-00 00:00:00
+la strato	Mia nomo estas HONG Gildong.	제 이름은 홍길동입니다.	My name is HONG Gildong.	la strato	0    	0000-00-00 00:00:00
+la strato	Mia familia nomo estas HONG, kaj persona nomo estas Gildong.	성은 홍이고, 이름은 길동입니다.	My family name is HONG, and given name is Gildong.	la strato	0    	0000-00-00 00:00:00
+la strato	Mi prezentas min.	제 소개를 하겠습니다.	I introduce myself.	la strato	0    	0000-00-00 00:00:00
+la strato	De kiu lando vi venis?	어느 나라에서 오셨습니까?	What country did you come from?	la strato	0    	0000-00-00 00:00:00
+la strato	Mi venis de Koreio, de Seulo.	저는 한국 서울에서 왔습니다.	I came from Korea, from Seoul.	la strato	0    	0000-00-00 00:00:00
+la strato	Jen estas mia nomkarto.	제 명함입니다.	This is my name card.	la strato	0    	0000-00-00 00:00:00
+la strato	Mi esperas, ke ni fariĝos bonaj amikoj.	좋은 친구가 되었으면 합니다.	I hope we will become good friends.	la strato	0    	0000-00-00 00:00:00
+la strato	Dum via restado en Koreio, bonvole havu agrablan tempon.	한국에 머무는 동안 즐거운 시간 되시기 바랍니다.	During your stay in Korea, please have a nice time.	la strato	0    	0000-00-00 00:00:00
+la strato	Kiam vi foriros?	언제 떠나십니까?	When will you leave?	la strato	0    	0000-00-00 00:00:00
+la strato	Kian laboron vi havas?	무슨 일을 하십니까?	What kind of job do you have?	la strato	0    	0000-00-00 00:00:00
+la strato	Dankon pro via afableco.	친절히 대해 주셔서 감사합니다.	Thank you for your kindness.	la strato	0    	0000-00-00 00:00:00
+la strato	Estas mia plezuro.	오히려 제 기쁨입니다.	It's my pleasure.	la strato	0    	0000-00-00 00:00:00
+la strato	Jen estas menuo.	메뉴 여기 있습니다.	Here is a menu.	la strato	0    	0000-00-00 00:00:00
+la strato	Ĉu ni mendu?	우리 주문할까요?	Shall we order?	la strato	0    	0000-00-00 00:00:00
+la strato	Kian manĝaĵon vi volas manĝi?	어떤 식사를 드시기를 원하십니까?	What food do you want to eat?	la strato	0    	0000-00-00 00:00:00
+la strato	Kia estas la gusto de la manĝaĵo?	음식 맛이 어떻습니까?	How does the food taste?	la strato	0    	0000-00-00 00:00:00
+la strato	Ĉu mi rajtas fumi ĉi tie?	여기서 담배를 피워도 됩니까?	Am I allowed to smoke here?	la strato	0    	0000-00-00 00:00:00
+la strato	Akvon mi petas.	물 좀 주세요.	Water, please.	la strato	0    	0000-00-00 00:00:00
+la strato	Mi volas manĝi glaciaĵon.	아이스크림을 먹고 싶어요.	I want to eat ice cream.	la strato	0    	0000-00-00 00:00:00
+la strato	Kian trinkaĵon vi volas?	어떤 음료를 원하십니까?	What kind of drink do you want?	la strato	0    	0000-00-00 00:00:00
+la strato	Ĉu vi prenos deserton?	디저트 드시겠습니까?	Will you have dessert?	la strato	0    	0000-00-00 00:00:00
+la strato	Kiamaniere oni manĝas ĉi tiun manĝaĵon?	이 음식은 어떻게 먹는 건가요?	How do you eat this food?	la strato	0    	0000-00-00 00:00:00
+la strato	Mi regalos vin hodiaŭ.	오늘은 제가 대접하겠습니다.	It is on me today.	la strato	0    	0000-00-00 00:00:00
+la strato	Duonon mi pagu.	제가 반을 낼게요.	Let me pay half.	la strato	0    	0000-00-00 00:00:00
+la strato	Ĝi estis bongusta!	맛있게 먹었습니다.	It was delicious!	la strato	0    	0000-00-00 00:00:00
+la strato	Kie estas bushaltejo?	버스 정류장이 어디입니까?	Where is the bus stop?	la strato	0    	0000-00-00 00:00:00
+la strato	Kie mi povas preni tiun buson?	그 버스를 어디에서 탈 수 있습니까?	Where can I take that bus?	la strato	0    	0000-00-00 00:00:00
+la strato	Je kiu horo tiu buso startos?	그 버스는 몇 시에 출발합니까?	What time will that bus start?	la strato	0    	0000-00-00 00:00:00
+la strato	Je kiu horo vi revenos?	몇 시에 돌아옵니까?	What time will you be back?	la strato	0    	0000-00-00 00:00:00
+la strato	Ĉu la buso iras al Seul-stacidomo?	이 버스 서울역으로 갑니까?	Does the bus go to Seoul station?	la strato	0    	0000-00-00 00:00:00
+la strato	En kiu loko mi devas elbusiĝi?	어디에서 내려야 하나요?	Where should I get off the bus?	la strato	0    	0000-00-00 00:00:00
+la strato	Ĉu vi povus rekomendi por mi vizitindan lokon?	저를 위하여 방문할 만한 곳을 추천해 주시겠습니까?	Could you recommend a place for me to visit?	la strato	0    	0000-00-00 00:00:00
+la strato	Kiom da minutoj ni bezonas de ĉi tie ĝis la muzeo per taksio?	여기서 그 박물관까지 택시로 몇 분 걸립니까?	How many minutes does it take us from here to the museum by taxi?	la strato	0    	0000-00-00 00:00:00
+la strato	Kie estas taksio-haltejo?	택시 정류장이 어디입니까?	Where is the taxi stand?	la strato	0    	0000-00-00 00:00:00
+la strato	Turnu vin en la sekvanta angulo.	다음 모퉁이에서 돌아주세요.	Turn around the next corner.	la strato	0    	0000-00-00 00:00:00
+la strato	Kie estas metroo-stacio?	지하철역이 어디입니까?	Where is the subway station?	la strato	0    	0000-00-00 00:00:00
+la strato	Vi prenu la duan linion.	2호선을 타세요.	You take the second line.	la strato	0    	0000-00-00 00:00:00
+la strato	Kie mi ŝanĝu trajnon?	어디서 갈아탑니까?	Where should I change trains?	la strato	0    	0000-00-00 00:00:00
+la strato	Mi lasis sakon en la trajno.	기차에 가방을 놓고 내렸습니다.	I left a bag on the train.	la strato	0    	0000-00-00 00:00:00
+la strato	Ĉu eblas ricevi informilon?	안내서를 얻을 수 있습니까?	Is it possible to receive a newsletter?	la strato	0    	0000-00-00 00:00:00
+la strato	Bonvolu doni al mi turisman mapon?	관광지도 한 장 주세요.	Please give me a tourist map?	la strato	0    	0000-00-00 00:00:00
+la strato	Kiu loko estas la plej vidinda?	구경하기가 제일 좋은 곳이 어디입니까?	Which place is the most worth seeing?	la strato	0    	0000-00-00 00:00:00
+la strato	Ĉu eblas iri piede ĝis tiu loko?	그곳까지 걸어서 갈 수 있습니까?	Is it possible to walk to that place?	la strato	0    	0000-00-00 00:00:00
+la strato	Estas rekomendinde uzi taksion.	택시를 타는 것이 좋을 겁니다.	It is recommended to use a taxi.	la strato	0    	0000-00-00 00:00:00
+la strato	Kiam la prezento finiĝos?	공연은 몇 시에 끝납니까?	When will the presentation end?	la strato	0    	0000-00-00 00:00:00
+la strato	Ĉu oni rajtas foti en la halo?	홀 안에서 사진을 찍어도 됩니까?	Are you allowed to take pictures in the hall?	la strato	0    	0000-00-00 00:00:00
+la strato	Ĉu la biletoj estas elĉerpitaj?	표가 매진되었나요?	Are the tickets sold out?	la strato	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kie mi nun estas?	여기가 어딘가요?	Where am I now?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu vi bonvolus desegni la mapon?	지도를 좀 그려 주시겠습니까?	Could you please draw the map?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu vi bonvolus ekspliki por mi la vojon al Hotelo "Sejong"?	세종호텔 가는 길을 안내해 주시겠습니까?	Could you please explain the way to Hotel "Sejong" for me?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kie estas ĉiovendejo (magazeno)?	백화점이 어디에 있나요?	Where is the convenience store (store)?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Je kiu horo oni malfermas la pordon?	몇 시에 그 백화점은 문을 엽니까?	What time do you open the door?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Je kiu horo oni fermas la pordon?	몇 시에 문을 닫습니까?	What time do you close the door?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu tiu ĉi estas plej moda varo?	이건 최신 유행 상품인가요?	Is this the most fashionable item?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĝi kostas tridek mil ŭonojn.	그것은 3만 원입니다.	It costs thirty thousand won.	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĝi kostas tro multekosta.	그것은 너무 비싸요.	It costs too expensive.	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu vi povas doni al mi rabaton?	할인해 줍니까?	Can you give me a discount?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu Petro estas hejme?	페트로 씨 집에 계십니까?	Is Peter at home?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu mi povus paroli kun Petro?	페트로 씨와 통화할 수 있습니까?	Could I speak to Peter?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Li ne estas hejme.	그는 지금 부재중입니다.	He is not at home.	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu vi volas doni mesaĝon de vi?	전하실 말씀이 있습니까?	Do you want to give a message from yourself?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Mi petas vian telefonnumeron.	전화번호를 말씀해 주세요.	I'm asking for your phone number.	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu vi amas Esperanton?	당신은 에스페란토를 사랑합니까?	Do you love Esperanto?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu viaj familianoj fartas bone?	당신 가족들은 잘 지내나요?	Are your family members well?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu vi povas paroli korean lingvon?	당신은 한국어를 말할 수 있나요?	Can you speak Korean language?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Ĉu vi havas planon viziti koreion?	당신은 한국을 방문할 계획이 있나요?	Do you have a plan to visit Korea?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kiu estas via amika amiko en Koreio?	한국에서 누가 당신의 다정한 친구인가요?	Who is your best friend in Korea?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kia estas hodiaŭa vetero en via urbo?	당신 도시의 오늘 날씨가 어떤가요?	What is the weather like today in your city?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kies verkaĵo estas impresa por vi?	누구의 작품이 당신에게 인상적인가요?	Whose writing is impressive to you?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kiu urbo estas vizitinda en via lando?	당신 나라에서 어느 도시가 방문할만 한가요?	Which city is worth visiting in your country?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kie loĝas viaj gepatroj?	당신의 부모님들은 어느곳에 사시나요?	Where do your parents live?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kien vi iros post via nuna laboro?	당신은 지금 일 후에 어디로 가나요?	Where will you go after your current job?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kiel vi lernis Esperanton?	당신은 에스페란토를 어떻게 배웠나요?	How did you learn Esperanto?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	Kiam vi vizitos Koreion?	당신은 언제 한국을 방문할 예정입니까?	When will you visit Korea?	ĉiam Malfrue	0    	0000-00-00 00:00:00
