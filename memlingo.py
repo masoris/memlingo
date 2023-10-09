@@ -325,6 +325,8 @@ def next_review_time(count, score):
 
     if score < 0:
         count = int(count/2)
+    elif score == 2:
+        count += 1
 
     t0 = time.time()
     if count == 0: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 2*60))
@@ -419,7 +421,8 @@ def card_next():
             if len(row) < 7:
                 continue
             if row[1] == esp_txt:
-                (next_count, next_review_str) = next_review_time(int(row[5].strip()), int(score)) #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
+                #사용자가 보내온 스코어 값과 이 아이템의 카운트에 따라서 다음에 리뷰할 시간을 결정해서 적어 놓는다.
+                (next_count, next_review_str) = next_review_time(int(row[5].strip()), int(score)) 
                 row[5] = "%-5d" % (next_count + 1)
                 row[6] = next_review_str
                 line = "\t".join(row)+'\n'

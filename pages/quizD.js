@@ -83,6 +83,10 @@ const selected_color = '#03bf6b';
 const default_color = '#49c0f8';
 const wrong_color = '#ff5c58';
 const disabled_color = '#dddddd';
+// const selected_color = '#c4d7ce';
+// const default_color = '#cef0f7';
+// const wrong_color = '#f6d4d3';
+// const disabled_color = '#ffffff';
 
 function word_click(item) {
     esp_txt_card = JSON.parse(localStorage.Carditem).esp_txt;

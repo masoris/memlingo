@@ -3,6 +3,10 @@ function click_btn_easy() {
     click_btn_easy_hard("easy")
 }
 
+function click_btn_too_easy() {
+    click_btn_easy_hard("too_easy")
+}
+
 function click_btn_hard() {
     click_btn_easy_hard("hard")
 }
@@ -20,7 +24,10 @@ function click_btn_easy_hard(easy_or_hard) {
     carditem = JSON.parse(localStorage.Carditem)
 
     esp_txt = carditem.esp_txt
-    if (easy_or_hard == "easy") {
+    if (easy_or_hard == "too_easy") {
+        score = 2
+    }
+    else if (easy_or_hard == "easy") {
         score = 1
     }
     else {
@@ -92,17 +99,23 @@ window.onload = function () {
         $('kor_txt').innerText = carditem.kor_txt;
         $('btn_hard').disabled = false;
         $('btn_easy').disabled = false;
+        $('btn_too_easy').disabled = false;
         $('btn_hard').style.color = "white";
         $('btn_easy').style.color = "white";
+        $('btn_too_easy').style.color = "white";
         $('rectangle_hard').style.display = "block";
         $('rectangle_easy').style.display = "block";
+        $('rectangle_too_easy').style.display = "block";
         $('btn_hard').style.display = "block";
         $('btn_easy').style.display = "block";
+        $('btn_too_easy').style.display = "block";
     }
     $('rectangle_hard').style.display = "none";
     $('rectangle_easy').style.display = "none";
+    $('rectangle_too_easy').style.display = "none";
     $('btn_hard').style.display = "none";
     $('btn_easy').style.display = "none";
+    $('btn_too_easy').style.display = "none";
 
     $('esp_txt').innerText = carditem.esp_txt;
     // $('eng_txt').innerText = carditem.eng_txt;
@@ -112,11 +125,14 @@ window.onload = function () {
 
     $('btn_hard').onclick = click_btn_hard;
     $('btn_easy').onclick = click_btn_easy;
+    $('btn_too_easy').onclick = click_btn_too_easy;
 
     $('btn_hard').disabled = true;
     $('btn_easy').disabled = true;
+    $('btn_too_easy').disabled = true;
     $('btn_hard').style.color = "#4c5b75";
     $('btn_easy').style.color = "#4c5b75";
+    $('btn_too_easy').style.color = "#4c5b75";
 
     // 맞추면 progress bar를 한 칸 진전시킨다.
     max_cards = 11;

@@ -1,5 +1,14 @@
 body {
     background-color: white;
+    /* color: #03bf6b;
+    color: #49c0f8;
+    color: #ff5c58;
+    color: #dddddd;
+
+    color: #60bd93;
+    color: #9bddfc;
+    color: #f4a2a1;
+    color: #dddddd;  */
 }
 
 .Quiz_D-3 {
@@ -143,7 +152,7 @@ img.ic_close_gray {
     border: solid 1px #ddd;
     position: absolute;
     left: 2%;
-    top: 210px;
+    top: 250px;
 }
 
 .Rectangle1-1 {
@@ -171,7 +180,7 @@ img.ic_close_gray {
     border: solid 1px white;
     position: absolute;
     left: 2%;
-    top: 281px;
+    top: 321px;
 }
 
 .Rectangle2-1 {
@@ -199,7 +208,7 @@ img.ic_close_gray {
     border: solid 1px white;
     position: absolute;
     left: 2%;
-    top: 352px;
+    top: 392px;
 }
 
 .Rectangle3-1 {
@@ -227,7 +236,7 @@ img.ic_close_gray {
     border: solid 1px white;
     position: absolute;
     left: 2%;
-    top: 423px;
+    top: 463px;
 }
 
 .Rectangle4-1 {

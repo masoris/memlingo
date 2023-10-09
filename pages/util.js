@@ -247,6 +247,7 @@ var lang_msgs = {
         "btn_listen": "들어보기",
         "btn_hard": "어려워요",
         "btn_easy": "쉬워요",
+        "btn_too_easy": "너무쉬워요",
         "btn_login": "로그인",
         "Btn_StartA": "학습시작",
         "Btn_logout": "로그아웃",
@@ -274,6 +275,7 @@ var lang_msgs = {
         "btn_listen": " 聽",
         "btn_hard": "好難",
         "btn_easy": "簡單",
+        "btn_too_easy": "很簡單",
         "btn_login": "登錄",
         "Btn_StartA": "學習開始",
         "Btn_logout": "註銷",
@@ -302,6 +304,7 @@ var lang_msgs = {
         "btn_listen": "听",
         "btn_hard": "好难",
         "btn_easy": "简单",
+        "btn_too_easy": "很简单",
         "btn_login": "登录",
         "Btn_StartA": "学习开始",
         "Btn_logout": "注销",
@@ -329,6 +332,7 @@ var lang_msgs = {
         "btn_listen": "聞いてみる",
         "btn_hard": "難しいです",
         "btn_easy": "簡単です",
+        "btn_too_easy": "とても簡単です",
         "btn_login": "ログイン",
         "Btn_StartA": "学習開始",
         "Btn_logout": "ログアウト",
@@ -356,6 +360,7 @@ var lang_msgs = {
         "btn_listen": "Listen",
         "btn_hard": "Hard for me",
         "btn_easy": "Easy to me",
+        "btn_too_easy": "Too easy",
         "btn_login": "Login",
         "Btn_StartA": "Start Learning",
         "Btn_logout": "Logout",
@@ -384,6 +389,7 @@ var lang_msgs = {
         "btn_listen": "Nghe này",
         "btn_hard": "Khó cho tôi",
         "btn_easy": "Dễ dàng với tôi",
+        "btn_too_easy": "Nó rất đơn giản",
         "btn_login": "Đăng nhập",
         "Btn_StartA": "Bắt đầu học",
         "Btn_logout": "Đăng xuất",
@@ -438,6 +444,7 @@ function display_message() {
     display_msg("choose_the_level", "innerText", "choose_the_level");
     display_msg("btn_hard", "value", "btn_hard");
     display_msg("btn_easy", "value", "btn_easy");
+    display_msg("btn_too_easy", "value", "btn_too_easy");
     display_msg("listen_and_fill", "innerText", "listen_and_fill");
     display_msg("learned_these_words", "innerText", "learned_these_words");
     display_msg("btn_login", "value", "btn_login");
