@@ -1,0 +1,12 @@
+2023-10-13 16:01:11	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-10-13 16:01:11	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-13 16:01:12	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-13 16:01:13	/api/session-start.api	a@a.com	ko-kr	A
+2023-10-13 16:01:13	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	0	./quizF.html	female2
+2023-10-13 16:01:21	/api/playsound.api	a@a.com	female2/estas, estis.mp3
+2023-10-13 16:01:24	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	4	./quizC.html	female1
+2023-10-13 16:01:24	/api/playsound.api	a@a.com	female2/estas, estis.mp3
+2023-10-13 16:01:26	/api/similar-words-kor.api	a@a.com	A	ko-kr	나, 당신
+2023-10-13 16:02:08	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2023-10-13 16:12:00	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2023-10-13 17:32:02	/api/get_course_info.api	a@a.com	ko-kr

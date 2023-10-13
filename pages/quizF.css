@@ -166,7 +166,7 @@ img.ic_woman_1 {
 }
 
 .Rectangle-hard {
-    width: calc(32% - 5px);
+    width: 31.4%;
     height: 60px;
     /* margin: 270px 10px 10px 0;
     padding: 13px 20px 14px; */
@@ -181,14 +181,14 @@ img.ic_woman_1 {
 }
 
 .Rectangle-easy {
-    width: 32%;
+    width: 31.4%;
     height: 60px;
     /* margin: 270px 0 10px 10px;
     padding: 13px 20px 14px; */
     border-radius: 2px;
     background-color: #4c5b75;
     position: fixed;
-    left: calc(33% + 6px);
+    left: 34.3%;
     /* top: 524px; */
     bottom: 75px;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
@@ -196,14 +196,14 @@ img.ic_woman_1 {
 }
 
 .Rectangle-too-easy {
-    width: calc(32% - 5px);
+    width: 31.4%;
     height: 60px;
     /* margin: 270px 0 10px 10px;
     padding: 13px 20px 14px; */
     border-radius: 2px;
     background-color: #4c5b75;
     position: fixed;
-    left: calc(66% + 5px);
+    left: 66.6%;
     /* top: 524px; */
     bottom: 75px;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
@@ -262,6 +262,7 @@ img.ic_woman_1 {
     border-width: 0;
     border-radius: 10px;
 }
+
 
 .Rectangle-listen {
     width: 96%;
