@@ -1,0 +1,10 @@
+2023-10-16 15:55:57	/api/get_course_info.api	a@a.com	ko-kr
+2023-10-16 15:55:59	/api/session-start.api	a@a.com	ko-kr	A
+2023-10-16 15:55:59	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	0	./quizF.html	female1
+2023-10-16 15:56:05	/api/playsound.api	a@a.com	female1/mi estas ~.mp3
+2023-10-16 15:58:41	/api/playsound.api	a@a.com	female1/mi estas ~.mp3
+2023-10-16 15:59:15	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2023-10-16 16:00:29	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2023-10-16 16:01:05	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2023-10-16 16:01:16	/api/playsound.api	a@a.com	male2/mi estas ~.mp3
+2023-10-16 16:01:32	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	

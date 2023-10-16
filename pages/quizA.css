@@ -25,6 +25,8 @@ body {
     border-color: #03bf6b;
     border-radius: 10px;
     display: inline-block;
+    padding-left: 4px;
+    padding-right: 4px;
 }
 
 #options input {
@@ -37,6 +39,8 @@ body {
     border-color: #03bf6b;
     border-radius: 10px;
     display: inline-block;
+    padding-left: 4px;
+    padding-right: 4px;
 }
 
 .Area1 {
