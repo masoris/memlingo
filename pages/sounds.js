@@ -32,6 +32,69 @@ function display_L() {
     $("contents").innerHTML += " <a onclick='next_L()'>[next]</a>";
 }
 
+
+var H_page = 0;
+function prev_H() {
+    if (H_page == 0) { return; }
+    H_page -= 1;
+    display_H();
+}
+
+function next_H() {
+    if (H_page * page_size >= H_course.length) { return; }
+    H_page += 1;
+    display_H();
+}
+
+function display_H() {
+    cur_course = "H";
+    wordlist = [];
+    $("contents").innerHTML = "H_page: " + H_page;
+    $("contents").innerHTML += "<br><a onclick='prev_H()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_H()'>[next]</a>";
+    for (i = (H_page * page_size); i < H_course.length && i < ((H_page + 1) * page_size); i++) {
+        $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + H_course[i] + "</a><br>&nbsp;<span id='H_" + i + "_span'></span>";
+        wordlist.push(H_course[i]);
+    }
+    display_voices(wordlist, "H");
+    $("contents").innerHTML += "H_page: " + H_page;
+    $("contents").innerHTML += "<br><a onclick='prev_H()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_H()'>[next]</a>";
+}
+
+
+
+var K_page = 0;
+function prev_K() {
+    if (K_page == 0) { return; }
+    K_page -= 1;
+    display_K();
+}
+
+function next_K() {
+    if (K_page * page_size >= K_course.length) { return; }
+    K_page += 1;
+    display_K();
+}
+
+function display_K() {
+    cur_course = "K";
+    wordlist = [];
+    $("contents").innerHTML = "K_page: " + K_page;
+    $("contents").innerHTML += "<br><a onclick='prev_K()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_K()'>[next]</a>";
+    for (i = (K_page * page_size); i < L_course.length && i < ((K_page + 1) * page_size); i++) {
+        $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + K_course[i] + "</a><br>&nbsp;<span id='K_" + i + "_span'></span>";
+        wordlist.push(K_course[i]);
+    }
+    display_voices(wordlist, "K");
+    $("contents").innerHTML += "K_page: " + K_page;
+    $("contents").innerHTML += "<br><a onclick='prev_K()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_K()'>[next]</a>";
+}
+
+
+
 var A_page = 0;
 function prev_A() {
     if (A_page == 0) { return; }
@@ -142,6 +205,12 @@ function click_button(item) {
     else if (which == "L") {
         esp_txt = L_course[i];
     }
+    else if (which == "H") {
+        esp_txt = H_course[i];
+    }
+    else if (which == "K") {
+        esp_txt = K_course[i];
+    }
     else {
         esp_txt = C_course[i];
     }
@@ -179,9 +248,42 @@ function search() {
                 }
             }
         }
-
-        // alert(words.length);
         display_voices(words, "L");
+    }
+
+    words = [];
+    for (i = 0; i < H_course.length; i++) {
+        if (H_course[i].indexOf(word) >= 0) {
+            words.push(H_course[i]);
+        }
+    }
+    if (words.length > 0) {
+        for (i = 0; i < H_course.length; i++) {
+            for (j = 0; j < words.length; j++) {
+                if (H_course[i] == words[j]) {
+                    $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + H_course[i] + "</a><br>&nbsp;<span id='H_" + i + "_span'></span>";
+                }
+            }
+        }
+        display_voices(words, "H");
+    }
+
+
+    words = [];
+    for (i = 0; i < K_course.length; i++) {
+        if (K_course[i].indexOf(word) >= 0) {
+            words.push(K_course[i]);
+        }
+    }
+    if (words.length > 0) {
+        for (i = 0; i < K_course.length; i++) {
+            for (j = 0; j < words.length; j++) {
+                if (K_course[i] == words[j]) {
+                    $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + K_course[i] + "</a><br>&nbsp;<span id='K_" + i + "_span'></span>";
+                }
+            }
+        }
+        display_voices(words, "K");
     }
 
     words = [];
@@ -275,6 +377,12 @@ function display_voices(wordlist, which) {
             else if (which == "L") {
                 ABC_course = L_course;
             }
+            else if (which == "H") {
+                ABC_course = H_course;
+            }
+            else if (which == "K") {
+                ABC_course = K_course;
+            }
             for (i = 0; i < ABC_course.length; i++) {
                 if (word == ABC_course[i]) {
                     found_i = i;
@@ -314,6 +422,26 @@ window.onload = function () {
         }
     }
 
+    H_course_map = {};
+    for (i = 0; i < H_course.length; i++) {
+        if (H_course[i] in H_course_map) {
+            console.log(H_course[i]);
+        }
+        else {
+            H_course_map[H_course[i]] = true;
+        }
+    }
+
+    K_course_map = {};
+    for (i = 0; i < K_course.length; i++) {
+        if (K_course[i] in K_course_map) {
+            console.log(K_course[i]);
+        }
+        else {
+            K_course_map[K_course[i]] = true;
+        }
+    }
+
     A_course_map = {};
     for (i = 0; i < A_course.length; i++) {
         if (A_course[i] in A_course_map) {
@@ -348,5 +476,7 @@ window.onload = function () {
     $("B").onclick = display_B;
     $("C").onclick = display_C;
     $("L").onclick = display_L;
+    $("H").onclick = display_H;
+    $("K").onclick = display_K;
     $("search").onclick = search;
 };
