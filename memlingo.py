@@ -683,9 +683,13 @@ def similar_words_jk():
         esp_txt = esp_txt.replace('(', ' ( ')
         esp_txt = esp_txt.replace(')', ' ) ')
         esp_txt = esp_txt.replace('"', ' " ')
+        esp_txt = esp_txt.replace('”', ' ” ')
+        esp_txt = esp_txt.replace('=', ' = ')
+        esp_txt = esp_txt.replace('「', ' 「 ')
+        esp_txt = esp_txt.replace('」', ' 」 ')
         words = esp_txt.strip().split(' ')
         for word in words:
-            if word in [',', '?', '.', '~', '!', "(", ")", '"', '']:
+            if word in [',', '?', '.', '~', '!', "(", ")", '"', '”', '=', '「', '」', '']:
                 continue
             if not word in similar_words:
                 diff_value_j = get_word_to_word_diff(word, j_word)
