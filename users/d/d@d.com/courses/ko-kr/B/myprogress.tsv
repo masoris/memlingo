@@ -20,7 +20,7 @@ La unua renkonto	mi ne aŭdis bone	나는 잘 듣지 못했습니다	I didn't he
 La unua renkonto	~ estas tro laŭta	~는 너무 시끄럽다	~ is too loud	La unua renkonto	0    	0000-00-00 00:00:00
 La unua renkonto	la muziko estas tro laŭta	그 음악이 너무 시끄러워요	the music is too loud	La unua renkonto	0    	0000-00-00 00:00:00
 La unua renkonto	mi diris, ke ~	나는 ~이라고 얘기했습니다	I said that ~	La unua renkonto	0    	0000-00-00 00:00:00
-La unua renkonto	mi diris ke via nomo rilatas al Esperanto	나는 당신 이름이 에스페란토와 관계가 있다고 말했습니다	I said that your name is related to Espernato	La unua renkonto	0    	0000-00-00 00:00:00
+La unua renkonto	mi diris ke via nomo rilatas al Esperanto	나는 당신 이름이 에스페란토와 관계가 있다고 말했습니다	I said that your name is related to Esperanto	La unua renkonto	0    	0000-00-00 00:00:00
 La unua renkonto	ĉu vere?	진짜로?	really?	La unua renkonto	0    	0000-00-00 00:00:00
 La unua renkonto	novaĵo por mi	나를 위한 뉴스 (나에게는 새로운 소식)	a news for me	La unua renkonto	0    	0000-00-00 00:00:00
 La unua renkonto	tio estas novaĵo por mi	그것은 나에게 새로운 소식이군요	that's a news for me	La unua renkonto	0    	0000-00-00 00:00:00
@@ -87,7 +87,7 @@ La unua renkonto	ankaŭ al mi	또한 나에게도	also to me	La unua renkonto	0 
 ĉe la kurspaĝaro	vortaro	사전	a dictionary	ĉe la kurspaĝaro	0    	0000-00-00 00:00:00
 ĉe la kurspaĝaro	superrigardo	개괄, 개요	an overview	ĉe la kurspaĝaro	0    	0000-00-00 00:00:00
 ĉe la kurspaĝaro	ekzerco	연습	an excecise	ĉe la kurspaĝaro	0    	0000-00-00 00:00:00
-ĉe la kurspaĝaro	ekzemple vortaroj, superrigardo, tujmesaĝilo kaj ekzercoj	예를들어 사전, 전체둘러보기, 메신저, 그리고 연습문제들	ekzemple vortaroj, superrigardo, tujmesaĝilo kaj ekzercoj	ĉe la kurspaĝaro	0    	0000-00-00 00:00:00
+ĉe la kurspaĝaro	ekzemple vortaroj, superrigardo, tujmesaĝilo kaj ekzercoj	예를들어 사전, 전체둘러보기, 메신저, 그리고 연습문제들	example words, overview, messanger and execerces	ĉe la kurspaĝaro	0    	0000-00-00 00:00:00
 ĉe la kurspaĝaro	superrigardo de la gramatiko	문법에 대한 개괄	an overview of the grammar	ĉe la kurspaĝaro	0    	0000-00-00 00:00:00
 ĉe la kurspaĝaro	tujmesaĝilo kaj diversaj ekzercoj	메신저와 다양한 연습문제들	an instant messenger and various excercises	ĉe la kurspaĝaro	0    	0000-00-00 00:00:00
 ĉe la kurspaĝaro	estas bona komenco	좋은 출발이다	it is a good start	ĉe la kurspaĝaro	0    	0000-00-00 00:00:00
@@ -129,29 +129,25 @@ Akceptiĝo	LKK-ano	대회 조직 위원회 멤버	a member in the local congress
 Akceptiĝo	sako kun programo, mapo ktp	프로그램과 지도등이 들어있는 가방	a bag with program, map etc	Akceptiĝo	0    	0000-00-00 00:00:00
 Akceptiĝo	vi povas pagi kaj ricevi sakon kun programo, mapo ktp	지불 하시면, 프로그램, 맵 등등이 있는 가방을 받으실 수 있습니다	you can pay and receive a bag with program, map etc	Akceptiĝo	0    	0000-00-00 00:00:00
 Akceptiĝo	la LKK laboras jam dum eble ok horoj	대회조직위원회는 이미 아마 8시간 동안 일하고 있다	the LKK has been working for maybe eight hours	Akceptiĝo	0    	0000-00-00 00:00:00
-Akceptiĝo	sed memoru ke la LKK laboras sen paŭzoj	대회조직위원회는 쉬지 않고 일하고 있음을 기억하라	but remember that the LKK works without breaks	Akceptiĝo	0    	0000-00-00 00:00:00
+Akceptiĝo	sed memoru ke la LKK laboras sen paŭzoj	대회조직위원회는 쉬지 않고 일한다는 것을 기억하라	but remember that the LKK works without breaks	Akceptiĝo	0    	0000-00-00 00:00:00
 Komenco	ĉu vi vidis la knabinon ĉe la TEJO-budo?	청년회(TEJO) 부스의 그 소녀를 봤는가?	did you see the girl at the TEJO booth?	Komenco	0    	0000-00-00 00:00:00
 Komenco	aspekte ktp	겉모습에도 그렇고, 기타등등	aspect etc	Komenco	0    	0000-00-00 00:00:00
 Komenco	eble vi estis nervoza pri via unua IJK-tago?	어쩌면 너가 청년대회(IJK) 첫날에 대해서 신경쓰였나요?	maybe you were nervous about your first IJK day?	Komenco	0    	0000-00-00 00:00:00
-la unua tago	per -ĉj- eblas krei karesnomojn en Esperanto	쵸(ĉj)를 가지고, 에스페란토의 별명을 만들 수 있다	with -ĉj- it is possible to create nicknames in Esperanto	la unua tago	0    	0000-00-00 00:00:00
-la unua tago	o, fek"!	아, 망했다!	oh, shit!	la unua tago	0    	0000-00-00 00:00:00
 la unua tago	ĉu ĝi estas vizitinda entute?	그게 전체적으로 참석할 만한가요?	is it worth visiting at all?	la unua tago	0    	0000-00-00 00:00:00
-la unua tago	iu de LKK verŝajne prezentos la temon de la kongreso	조직위원회의 누군가 틀림없이 대회 주제를 소개할 것이다	someone from LKK will probably present the topic of the congress	la unua tago	0    	0000-00-00 00:00:00
-la unua tago	ĉiu IJK havas sian temon	모든 청년대회(IJK)는 주제가 있다	each IJK has its theme	la unua tago	0    	0000-00-00 00:00:00
+la unua tago	iu de LKK verŝajne prezentos la temon de la kongreso	아마 조직위원회 누군가가 대회 주제를 소개할 것이다	someone from LKK will probably present the topic of the congress	la unua tago	0    	0000-00-00 00:00:00
+la unua tago	ĉiu IJK havas sian temon	모든 청년대회(IJK)는 자체 주제가 있다	each IJK has its theme	la unua tago	0    	0000-00-00 00:00:00
 Gardanĝeloj	dum eble 100 metroj	대략 100 미터 동안	for maybe 100 meters	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	dekstren denove, rekten dum eble 100 metroj	다시 오른쪽으로, 직진으로 100 미터 동안	right again, straight for maybe 100 meters	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	ŝildoj pri ĉiuj ejoj de IJK	청년대회(IJK) 모든 장소에 대한 표지판	signs about all IJK sites	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	en ĝi, vi trovos ŝildojn pri ĉiuj ejoj de IJK	그 속에서, 청년대회(IJK) 모든 장소에 대한 표지판을 볼 수 있을 것이다	in it, you will find signs about all IJK sites	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	ni estas 423 ĉi tie de 38 landoj	여기에 우리는 38개국에서 온 423명입니다	we are 423 here from 38 countries	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	mi deziras fruktodonan kaj amuzegan IJK-semajnon	유익하고 매우 즐거운 청년대회(IJK) 주간을 기원합니다	I wish you a fruitful and great fun IJK week	Gardanĝeloj	0    	0000-00-00 00:00:00
-Gardanĝeloj	ne, mi ŝercas estis interese aŭdi	아니, 농담이야. 들어보는 게 흥미로왔어	no, I'm kidding. it was interesting to hear	Gardanĝeloj	0    	0000-00-00 00:00:00
 IJK-preĝo	ĝi kostas 1 eŭron	그것은 1유로 입니다	it costs 1 euro	IJK-preĝo	0    	0000-00-00 00:00:00
 Gufujo	la aliaj okazaĵoj dum IJK	청년 대회(IJK) 동안의 다른 행사들	the other events during IJK	Gufujo	0    	0000-00-00 00:00:00
-Ekskurso	ekzemple biciklokaravanoj, festivaloj ktp	예를 들어 자전거 동회회, 축제 등등	for example bicycle caravans, festivals etc	Ekskurso	0    	0000-00-00 00:00:00
+Ekskurso	ekzemple biciklokaravanoj, festivaloj ktp	예를 들어 자전거 동반행렬, 축제 등등	for example bicycle caravans, festivals etc	Ekskurso	0    	0000-00-00 00:00:00
 Ekskurso	karavano, festivalo, konstruado ktp	행렬, 축제, 건축 등등	caravan, festival, construction etc	Ekskurso	0    	0000-00-00 00:00:00
 UNESKO	diversaj instancoj kiel UNESKO kaj la junulara sekcio de UN	유네스코와 유엔의 청년부 같은 다양한 기구	various bodies such as UNESCO and the youth section of the UN	UNESKO	0    	0000-00-00 00:00:00
 UNESKO	Forumo Junulara Eŭropa kaj la junulara sekcio de UN	유럽 청년 포럼과 UN의 청년부	European Youth Forum and the youth section of the UN	UNESKO	0    	0000-00-00 00:00:00
-Jen nia IJK	skribis en ĝi "I + J + K"	"I + J + K"라고 그 속에 썼다	wrote in it "I + J + K"	Jen nia IJK	0    	0000-00-00 00:00:00
 ĉe la kurspaĝaro	mi estas ŝia "lingvohelpanto"	나는 그녀의 언어 도움이 입니다	I am her language helper	ĉe la kurspaĝaro	0    	0000-00-00 00:00:00
 Kelkaj demandoj	paroli pri unu ekzerco	연습문제 하나에 대해서 얘기하다	to talk about an excercise	Kelkaj demandoj	0    	0000-00-00 00:00:00
 Kelkaj demandoj	baldaŭ revenos	곧 돌아올 것이다	soon will come back	Kelkaj demandoj	0    	0000-00-00 00:00:00
@@ -197,7 +193,6 @@ Kelkaj demandoj	kie mi povas trovi tiun kulturon	내가 어디서 그런 문화�
 Kelkaj demandoj	vi trovos ĝin ĉie, kie estas ~	당신은 ~가 있는 곳에서는 어디든지 그걸 발견할 겁니다	you'll find everwhere, where ~ is	Kelkaj demandoj	0    	0000-00-00 00:00:00
 Kelkaj demandoj	ĉie, kie estas homoj, kiuj parolas Esperanton	에스페란토를 말하는 사람들이 있는 곳이라면 어디든	any place where are people who speak Esperanto	Kelkaj demandoj	0    	0000-00-00 00:00:00
 Kelkaj demandoj	sed neniu popolo uzas Esperanton	그러나 아무 민족도 에스페란토를 사용하지 않는다	but no people use Esperanto	Kelkaj demandoj	0    	0000-00-00 00:00:00
-Kelkaj demandoj	prave	맞습니다	right!	Kelkaj demandoj	0    	0000-00-00 00:00:00
 Kelkaj demandoj	sed homoj, kiuj parolas Esperanton	그러나 에스페란토를 말하는 그 사람들은 	but people who speak Esperanto	Kelkaj demandoj	0    	0000-00-00 00:00:00
 Kelkaj demandoj	ofte vojaĝas kaj renkontas aliajn Esperantistojn	자주 여행하고, 다른 에스페란티스토들을 만난다	often travel and meet other Esperantists	Kelkaj demandoj	0    	0000-00-00 00:00:00
 Kelkaj demandoj	dum tiuj renkontoj	그러한 만남 중에서 (만나는 동안)	during those meetings	Kelkaj demandoj	0    	0000-00-00 00:00:00
@@ -205,7 +200,6 @@ Kelkaj demandoj	ili uzas la lingvon en plej diversaj situacioj	그들은 그 언
 Pliaj demandoj	do, tie vi trovos ~	그래서 거기에서 ~를 발견할(볼 수 있을) 것이다	so there you will find ~	Pliaj demandoj	0    	0000-00-00 00:00:00
 Pliaj demandoj	vi trovos la kulturon	(그) 문화를 발견할(볼 수 있을) 것이다	you'll find the culture	Pliaj demandoj	0    	0000-00-00 00:00:00
 Pliaj demandoj	trovos la kulturon de Esperanto	에스페란토의 문화를 발견할(볼 수 있을)것이다	will find the culture of Esperanto	Pliaj demandoj	0    	0000-00-00 00:00:00
-Pliaj demandoj	bone ĉu ekzistas muziko?	좋아요 음악이 존재하나요?	okay, does music exist?	Pliaj demandoj	0    	0000-00-00 00:00:00
 Pliaj demandoj	muziko, literaturo, teatraĵo	음악, 문학, 연극	music, literature, theater	Pliaj demandoj	0    	0000-00-00 00:00:00
 Pliaj demandoj	same kiel ~	~와 마찬가지로	same as ~	Pliaj demandoj	0    	0000-00-00 00:00:00
 Pliaj demandoj	same kiel estas por aliaj lingvoj	다른 언어들에 있는 것과 마찬가지로	same as there are for other languages	Pliaj demandoj	0    	0000-00-00 00:00:00
@@ -259,7 +253,6 @@ IJK-invitilo	estas pli alta	더 높다	is higher	IJK-invitilo	0    	0000-00-00 0
 IJK-invitilo	hodiaŭ la lingvonivelo estas pli alta	오늘날 언어 수준이 더 높다	today the language level is higher	IJK-invitilo	0    	0000-00-00 00:00:00
 IJK-invitilo	la lingvonivelo de la Esperantistoj	에스페란티스토들의 언어 수준	the language level of the Esperantists	IJK-invitilo	0    	0000-00-00 00:00:00
 IJK-invitilo	sed mi pensas ke hodiaŭ la nivelo estas pli alta	하지만 내 생각에, 오늘날 그 수준이 더 높다	but I think that today the level is higher	IJK-invitilo	0    	0000-00-00 00:00:00
-IJK-invitilo	do mi devas bone lerni la lingvon	따라서 내가 그 언어를 잘 배워야만 한다	so I have to learn the language well	IJK-invitilo	0    	0000-00-00 00:00:00
 IJK-invitilo	por esti bona homo	좋은 사람이 되기 위해서	for being a good person	IJK-invitilo	0    	0000-00-00 00:00:00
 IJK-invitilo	kaj vi devas uzi simplan stilon	그리고 당신은 단순한 스타일을 사용해야 합니다	and you should use simple style	IJK-invitilo	0    	0000-00-00 00:00:00
 IJK-invitilo	ĉar tio estis tre grava por li	왜냐하면 그게 그에게 매우 중요했기 때문입니다	because that was very important for him	IJK-invitilo	0    	0000-00-00 00:00:00
@@ -312,7 +305,6 @@ Planado	venas de multaj diversaj landoj	서로 다른 많은 나라에서 온다
 Planado	estas ke la partoprenantoj venas de diversaj landoj	참가자들이 다양한 나라에서 온다는 것이다	is that the participants come from different countries	Planado	0    	0000-00-00 00:00:00
 Planado	pro tiu mikso de diversaj homoj	다양한 사람이 이렇게 혼합됨으로 인해서	because of that mix of different people	Planado	0    	0000-00-00 00:00:00
 Planado	estas bona etoso, kiu tre plaĉas al mi	분위기가 좋은데, 나는 그게 정말 좋다	it's a good atmosphere that I like very much	Planado	0    	0000-00-00 00:00:00
-Planado	bone sonas interese	좋아요 흥미롭게 들리네요	all right sounds like interest	Planado	0    	0000-00-00 00:00:00
 Planado	mi pripensos	내가 고려해 보겠습니다	I will think about	Planado	0    	0000-00-00 00:00:00
 Planado	certe	꼭 (틀림없이)	for sure	Planado	0    	0000-00-00 00:00:00
 Planado	tamen, problemo estas ~	하지만 문제는 ~ 이다	however, a problem is ~	Planado	0    	0000-00-00 00:00:00
@@ -392,7 +384,6 @@ Alveno kaj akceptiĝo	bone, kaj kiel funkcias tiu servo?	좋아요, 그럼 어�
 Alveno kaj akceptiĝo	mi vidas ke en la libreto estas ~	나는 본다, 그 책안에는 ~가 있다는 것을	I see that in the booket there is ~	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	multe da adresoj	많은 주소들	lots of addresses	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	estas multe da adresoj de pluraj landoj	여러 나라의 많은 주소들이 있다	there are many addresses from several countries	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
-Alveno kaj akceptiĝo	ĝuste!	맞아요!	right!	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	je via dispono	당신이 쓸 수 있는 (당신 처분의)	at your disposal	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	ili ĉiuj	그들(그것들) 모두	they all, all of them	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	fakte ili ĉiuj estas je via dispono!	사실 그것들 모두를 당신이 쓸 수 있어요	in fact they are all at your disposal!	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
@@ -408,7 +399,7 @@ Alveno kaj akceptiĝo	signifas ke homoj pretas gastigi vin kaj helpi	사람들�
 Alveno kaj akceptiĝo	sonas interese!	흥미롭게 들리네요!	sounds interesting!	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	do	그래서	so	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	oni loĝas en la hejmo de aliaj Esperantistoj, ĉu?	누군가가 다른 에스페란티스토 집에서 묵는다는 거죠? 그쵸?	somebody stays in the home of other Esperantists, right?	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
-Alveno kaj akceptiĝo	prave!	맞아요!	that's correct!	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
+Alveno kaj akceptiĝo	prave!	맞습니다	right!	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	pluraj spertoj per Pasporta Servo	Paporta Servo를 이용한 여러번의 경험들	several experiences with Passport Service	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	mi havis plurajn interesajn spertojn	나는 여러번의 흥미로운 경험을 했다	I had several interesting experiences	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
 Alveno kaj akceptiĝo	mi uzis ĝin en tri kontinentoj	나는 그것을 3개의 대륙에서 사용했다	I have used it on three continents	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
@@ -473,7 +464,6 @@ Komenco	mi certas ke ~	나는 확신한다	I'm sure that ~	Komenco	0    	0000-00
 Komenco	mi certas ke ili estos pli afablaj	그들이 더 친절할 것이라고 나는 확신한다	I'm sure they'll be kinder	Komenco	0    	0000-00-00 00:00:00
 Komenco	ili estos pli afablaj kaj babilemaj	그들이 더 친절하고 말도 많을 것이다	they will be kinder and more talkative	Komenco	0    	0000-00-00 00:00:00
 Komenco	ni trovu ĝin	우리 그걸 찾아보자	let's find it	Komenco	0    	0000-00-00 00:00:00
-Komenco	bone nun ni trovu la amasloĝejon	좋아요, 이제 우리 단체합숙장을 찾아봅시다	well now let's find the mass-lodging place	Komenco	0    	0000-00-00 00:00:00
 Komenco	kaj poste mi ŝatus ion manĝi	그리고 다음에 나는 뭔가 먹고 싶다	and then I would like something to eat	Komenco	0    	0000-00-00 00:00:00
 Komenco	jes, kio pri ŝi?	예, 그녀에 대해서 뭐가요?	yes, what about her?	Komenco	0    	0000-00-00 00:00:00
 Komenco	ĉu vi konas ŝin?	당신은 그녀를 압니까?	do you know her?	Komenco	0    	0000-00-00 00:00:00
@@ -483,7 +473,7 @@ Komenco	mi konsentas	나도 동의한다	I agree	Komenco	0    	0000-00-00 00:00:
 Komenco	tamen ne bone komprenas	하지만 잘 이해하지 못하겠다	however does not understand well	Komenco	0    	0000-00-00 00:00:00
 Komenco	mi konsentas tamen ne komprenas	동의는 하지만 이해는 못하겠다	I agree but I don't understand	Komenco	0    	0000-00-00 00:00:00
 Komenco	ĉu al vi plaĉas inoj?	너에게 여자들이 더 맘에 드니?	do you like females?	Komenco	0    	0000-00-00 00:00:00
-Komenco	jes, mi volis diri al vi antaŭe	예, 내가 전에 얘기하고 싶었어요	jes, mi volis diri al vi antaŭe	Komenco	0    	0000-00-00 00:00:00
+Komenco	jes, mi volis diri al vi antaŭe	예, 내가 전에 얘기하고 싶었어요	yes, I want tell you before	Komenco	0    	0000-00-00 00:00:00
 Komenco	sed ial ne faris	하지만 어떤 이유론가 하지 못했다	but for some reason did not	Komenco	0    	0000-00-00 00:00:00
 Komenco	virinoj plaĉas al mi pli ol viroj	여자들이 나에게 남자들보다 더 맘에 들어요	virinoj plaĉas al mi pli ol viroj	Komenco	0    	0000-00-00 00:00:00
 Komenco	ĉu, ĉu vi estas ?	당신 혹시 인가요?	are you, are you?	Komenco	0    	0000-00-00 00:00:00
@@ -552,7 +542,7 @@ la unua tago	povus esti interese ĉeesti ĝin	그걸 참석하는 것이 흥미�
 la unua tago	mi supozas ke ~	~일 것이라고 나는 짐작해	I guess that ~	la unua tago	0    	0000-00-00 00:00:00
 la unua tago	la prezidanto de TEJO diros kelkajn vortojn	청년회(TEJO) 회장이 몇마디 할 것이다	the president of TEJO will say a few words	la unua tago	0    	0000-00-00 00:00:00
 la unua tago	la temon de la kongreso	대회의 주제	the theme of the congress	la unua tago	0    	0000-00-00 00:00:00
-la unua tago	ŝajnas, verŝajne	처럼 보인다, 확실히(틀림없이)	it seems, probably	la unua tago	0    	0000-00-00 00:00:00
+la unua tago	ŝajnas, verŝajne	처럼 보인다, 아마(확실히)	it seems, probably	la unua tago	0    	0000-00-00 00:00:00
 la unua tago	mi esperas ke estos iom da muziko ankaŭ	나는 약간의 음악도 있을 것으로 희망한다	I hope there will be some music as well	la unua tago	0    	0000-00-00 00:00:00
 la unua tago	bone, kie ĝi okazos?	좋아요, 그게(개막식) 어디서 있죠?	well, where will it take place?	la unua tago	0    	0000-00-00 00:00:00
 la unua tago	en la granda prelegejo	큰 강당에서	in the great lecture hall	la unua tago	0    	0000-00-00 00:00:00
@@ -563,7 +553,6 @@ Gardanĝeloj	kaj estas flava domo	그리고 노란색 집이 있다	and there is
 Gardanĝeloj	je la maldekstra flanko de la vojo	그 길의 왼쪽 편에	on the left side of the road	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	mi sendos mesaĝon per poŝtelefono	휴대폰으로 메세지를 보낼께요	I will send a message by mobile phone	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	se mi ne trovos	내가 못 찾으면	if I don't find it	Gardanĝeloj	0    	0000-00-00 00:00:00
-Gardanĝeloj	ha, bona ideo ĝis tie!	아, 좋은 생각이야, 그곳(에서 다시볼때)까지 안녕!	oh, good idea see you up there!	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	en la prelegejo	강연장에서	in the lecture hall	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	gardanĝeloj? ĉu vi ŝercas?	수호천사들? 농담이세요?	guardian angels? are you kidding?	Gardanĝeloj	0    	0000-00-00 00:00:00
 Gardanĝeloj	prezidanto de TEJO	청년회(TEJO) 회장	president of TEJO	Gardanĝeloj	0    	0000-00-00 00:00:00
@@ -1068,7 +1057,6 @@ Dua Bulteno	paroligaj kursoj	회화 코스들	speaking courses	Dua Bulteno	0    
 Dua Bulteno	provizoraj programoj	임시 프로그램들	temporary programs	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	ĝeneralaj kondiĉoj de mendado	주문의 일반 조건들	general conditions of ordering	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	antaŭ-kongresaj ekskursoj	대회전 소풍관광들	pre-congress tours	Dua Bulteno	0    	0000-00-00 00:00:00
-Dua Bulteno	post-kongresa ekskuso	대회후 소풍관광	a post-congress tour	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	tut-tagaj ekskursoj	종일 소풍관광	full-day tours	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	duon-tagaj ekskursoj	반일 소풍관광들	half-day tours	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	tabelo de dum-kongresaj ekskursoj	대회기간중에 소풍관광들 표	a table of during-congress tours	Dua Bulteno	0    	0000-00-00 00:00:00
@@ -1101,7 +1089,6 @@ Dua Bulteno	asekuro kovras san-traktadon	보험이 건강상의 처리를 커버
 Dua Bulteno	kaze de la akcidentoj	사고가 날 경우에	in case of the accidents	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	deponi la valizojn	여행 가방을 맡기다	to deposit the suitcases	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	internacia flug-haveno	국제 공항	international airport	Dua Bulteno	0    	0000-00-00 00:00:00
-Dua Bulteno	iri buse aŭ taksie/aŭtomobile	버스로 가거나 택시/차량으로 가다	to go by bus or taxi/car	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	la veturo daŭras ĉirkaŭ 40 minutojn	그 차량이동은 대략 40분 정도 걸린다	the ride takes about 40 minutes	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	utiligi metroon ĝis la bus-haltejo	버스 정거장까지는 지하철을 이용하다	to use the subway to the bus stop	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	ankaŭ alteriĝis en alia flug-haveno	또한 다른 공항에 착륙했다	also landed at another airport	Dua Bulteno	0    	0000-00-00 00:00:00
@@ -1120,7 +1107,6 @@ Dua Bulteno	programo de la Kleriga Lundo	"계몽하는 월요일" 프로그램	p
 Dua Bulteno	movada foiro	에스페란토 운동 전시회	movement fair	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	Ekumena Diservo	대회 내 세계종교행사	Ecumenical Service	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	Kongresa Balo	대회 내 무도회	Congressional Ball	Dua Bulteno	0    	0000-00-00 00:00:00
-Dua Bulteno	Esteraro Respondas	"협회 이사회 대답하다" 프로그램	Board of Directors Responds	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	faka kunsido	전문분야 회의	specialist meeting	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	kongresa aŭkcio	대회내의 경매	convention auction	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	komitato de UEA (Universala Esperanto Asocio)	세계협회(UEA) 위원회	committee of UEA (Universal Esperanto Association)	Dua Bulteno	0    	0000-00-00 00:00:00
@@ -1131,3 +1117,16 @@ Dua Bulteno	hazarda kunloĝigo de nekonatoj	모르는 사람들끼리 우연히 
 Dua Bulteno	disponigas nur al anticipaj konsentitoj	사전에 동의한 사람들에게만 쓸 수 있게 허용하다	available only to advance consenters	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	krom se aliloke indikite	다른 장소에 적시되지 않았다면	unless indicated in other place	Dua Bulteno	0    	0000-00-00 00:00:00
 Dua Bulteno	ekskursojn akompanos gvidanto	소풍들에 안내자가 동행할 것이다	tours will be accompanied by a guide	Dua Bulteno	0    	0000-00-00 00:00:00
+Pliaj demandoj	bone, ĉu ekzistas muziko?	좋아요 음악이 존재하나요?	okay, does music exist?	Pliaj demandoj	0    	0000-00-00 00:00:00
+IJK-invitilo	do, mi devas bone lerni la lingvon	따라서 내가 그 언어를 잘 배워야만 한다	so I have to learn the language well	IJK-invitilo	0    	0000-00-00 00:00:00
+Planado	bone, sonas interese	좋아요, 흥미롭게 들리네요	all right, sounds like interest	Planado	0    	0000-00-00 00:00:00
+Alveno kaj akceptiĝo	ĝuste, jes!	맞아요, 예!	right, yes!	Alveno kaj akceptiĝo	0    	0000-00-00 00:00:00
+Komenco	bone, nun ni trovu la amasloĝejon	좋아요, 이제 우리 단체합숙장을 찾아봅시다	well, now let's find the mass-lodging place	Komenco	0    	0000-00-00 00:00:00
+la unua tago	per -ĉjo aŭ -njo eblas krei karesnomojn en Esperanto	쵸(-ĉjo)나 뇨(-njo)를 가지고, 에스페란토의 별명을 만들 수 있다	with -ĉjo or -njo, it is possible to create nicknames in Esperanto	la unua tago	0    	0000-00-00 00:00:00
+la unua tago	o, fek!	아, 망했다!	oh, shit!	la unua tago	0    	0000-00-00 00:00:00
+Gardanĝeloj	ha, bona ideo, ĝis tie!	아, 좋은 생각이야, 그곳(에서 다시볼때)까지 안녕!	oh, good idea, see you up there!	Gardanĝeloj	0    	0000-00-00 00:00:00
+Gardanĝeloj	ne, mi ŝercas, estis interese aŭdi	아니, 농담이야. 들어보는 게 흥미로왔어	no, I'm kidding. it was interesting to hear	Gardanĝeloj	0    	0000-00-00 00:00:00
+Jen nia IJK	skribis en ĝi "I J K"	"I J K"라고 그 속에 썼다	wrote in it "I J K"	Jen nia IJK	0    	0000-00-00 00:00:00
+Dua Bulteno	post-kongresa ekskurso	대회후 소풍관광	a post-congress tour	Dua Bulteno	0    	0000-00-00 00:00:00
+Dua Bulteno	iri buse aŭ taksie aŭ aŭtomobile	버스로 가거나 택시 또는 차량으로 가다	to go by bus or taxi or car	Dua Bulteno	0    	0000-00-00 00:00:00
+Dua Bulteno	Estraro Respondas	"협회 이사회 대답하다" 프로그램	Board of Directors Responds	Dua Bulteno	0    	0000-00-00 00:00:00

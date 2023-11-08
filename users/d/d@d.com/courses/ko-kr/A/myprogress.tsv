@@ -1,5 +1,5 @@
 Saluton	mi, vi	나, 당신	I, you	Saluton	2    	2023-06-16 20:12:38
-Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) am, (past) was	Saluton	0    	0000-00-00 00:00:00
+Saluton	estas, estis	(현재) ~이다, (과거) ~이었다	(present) is, am, are (past) was, were	Saluton	0    	0000-00-00 00:00:00
 Saluton	mi estas ~	나는 ~ 이다	I am ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	vi estas ~	당신은 ~ 이다	you are ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	saluton	안녕하세요	hello	Saluton	0    	0000-00-00 00:00:00
@@ -9,9 +9,9 @@ Saluton	nomo	이름	a name	Saluton	0    	0000-00-00 00:00:00
 Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	1    	2023-06-16 19:54:22
 Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	0    	0000-00-00 00:00:00
-Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did 	Saluton	0    	0000-00-00 00:00:00
-Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, (past) will be	Saluton	0    	0000-00-00 00:00:00
-Saluton	nomo, nomon	이름, 이름을	a name, an objective name	Saluton	0    	0000-00-00 00:00:00
+Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did	Saluton	0    	0000-00-00 00:00:00
+Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, were (future) will be	Saluton	0    	0000-00-00 00:00:00
+Saluton	nomo, nomon	이름, 이름을	a name, an (objective) name	Saluton	0    	0000-00-00 00:00:00
 Saluton	mia amo	나의 사랑	my love	Saluton	0    	0000-00-00 00:00:00
 Saluton	vi fartas	당신은 지낸다	you are doing ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	kiel	어떻게	how	Saluton	0    	0000-00-00 00:00:00
@@ -111,7 +111,7 @@ La amiko	mi volas paroli	나는 말하고 싶다	I want to speak	La amiko	0    	
 La amiko	li havas libron	그는 책을 가지고 있다	he has a book	La amiko	0    	0000-00-00 00:00:00
 La amiko	jes, mi havas	예, 나는 가지고 있습니다	yes, I have	La amiko	0    	0000-00-00 00:00:00
 La amiko	ili ŝatas ĝin	그들은 그것을 좋아한다	they like it	La amiko	0    	0000-00-00 00:00:00
-La amiko	ŝi legis libron	그녀는 책을 읽는다	she read a book	La amiko	0    	0000-00-00 00:00:00
+La amiko	ŝi legis libron	그녀는 책을 읽었다	she read a book	La amiko	0    	0000-00-00 00:00:00
 La amiko	la junulo trinkis kafon	그 젊은이는 커피를 마셨다	the youngster drank coffee	La amiko	0    	0000-00-00 00:00:00
 La amiko	patro kaj patrino, gepatroj	아버지, 어머니; 부모님들	a father and a mother; parents	La amiko	0    	0000-00-00 00:00:00
 La amiko	frato kaj fratino, gefratoj	형제와 자매, 형제자매	a bother and a sister, siblings	La amiko	0    	0000-00-00 00:00:00
@@ -127,7 +127,7 @@ Renkonto	tio ne sufiĉas	그것은 충분하지 않다	that is not enough	Renkon
 Renkonto	cent dolaroj sufiĉas	백 달러는 충분하다	a hundred dollars is enough	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	portis tion al ni, alportis tion	그것을 우리에게 가져왔다, 그것을 가져왔다	brought that to us, brought that	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	tie, kie ŝi loĝis	거기, 그녀가 살았던 그 곳에	a the place, where she lived	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	nu, vidu la rapidan aŭton	음, 그 빠른 차를 보세요	well, look the fast car	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	nu, vidu la rapidan aŭton	음, 그 빠른 차를 보세요	well, look at the fast car	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	li havis rapidan veturilon	그는 빠른 탈것(차)을 가졌다	he has a fast vehicle	Renkonto	0    	0000-00-00 00:00:00
 Miaj Leteroj	pardonu, mi serĉis mian libron	미안해, 나는 내 책을 찾고 있었어	sorry, I was looking for my book.	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	sed vi bone scias	그러나 당신은 잘 알고 있잖아요	but you know well	Miaj Leteroj	0    	0000-00-00 00:00:00
@@ -206,7 +206,7 @@ La amiko	trinkis malvarman kafon	차가운 커피를 마셨다	drank cold coffee
 La amiko	ankaŭ varma kafo	뜨거운 커피도	still warm coffee	La amiko	0    	0000-00-00 00:00:00
 La amiko	trinkas ankaŭ malvarman kafon	차가운 커피도 마신다	drinks cold coffee too	La amiko	0    	0000-00-00 00:00:00
 La amiko	povas trinki ankaŭ malvarman kafon	차가운 커피도 마실 수 있다	can also drink cold coffee	La amiko	0    	0000-00-00 00:00:00
-La amiko	rigardas ŝian okulon	그녀의 눈을 바라본다	looks her eye	La amiko	0    	0000-00-00 00:00:00
+La amiko	rigardas ŝian okulon	그녀의 눈을 바라본다	looks at her eye	La amiko	0    	0000-00-00 00:00:00
 La amiko	la plej bela okulo	가장 아름다운 눈	the most beautiful eye	La amiko	0    	0000-00-00 00:00:00
 La amiko	la belaj okuloj	그 아름다운 눈들	the beautiful eyes	La amiko	0    	0000-00-00 00:00:00
 La amiko	rigardis la belajn okulojn	그 아름다운 눈들을 바라보았다	looked the beautiful eyes	La amiko	0    	0000-00-00 00:00:00
@@ -219,7 +219,7 @@ En kafejo	pri facila demando	쉬운 질문에 대해서	about an easy question	E
 En kafejo	diris pri nova mono	새로운 돈에 대해서 얘기했다	said about a new money	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	tre belaj okuloj	매우 아름다운 눈들	very beautiful eyes	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	rigardis la grandan fraton	그 큰 형을 보았다	looked the big brother	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	malgranda fratino forgesis ĝin	작은 자매는 그것을 잊어버렸다	a little sister forgot it	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	malgranda fratino forgesis ĝin	여동생은 그것을 잊어버렸다	a little sister forgot it	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	akuzativo	목적격	an accusative (objective)	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	kiun vi vidas?	당신은 어느 누구를 보는가?	whom are you seeing? which one do you see?	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	mi vidas amikon	나는 친구를 본다	I see a friend	En kafejo	0    	0000-00-00 00:00:00
@@ -294,7 +294,7 @@ Renkonto	tro forte	너무 강하게	too strongly	Renkonto	0    	0000-00-00 00:00
 Renkonto	li tro forte malfermis	그는 너무 세게 열었다	he opened too hard	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	veturis tro rapide	너무 빠르게 운전했다	drove (traveled) too fast	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	manĝis per kulero	숟가락으로 먹었다	ate with a spoon	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	ni forte dubas	우리는 강하게 의심한다	we doubt very much	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	ni forte dubas	우리는 강하게 의심한다	we strongly doubt	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	vera letero de li	그로부터 온 진짜 편지	a true letter from him	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	amletero kun kvin fotoj	5장의 사진을 동봉한 연애 편지	a love letter with five photos	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	revenis, revenintoj	되돌아왔다, 되돌아 왔던 사람들	returned, the people who returned	Renkonto	0    	0000-00-00 00:00:00
@@ -403,11 +403,11 @@ Aŭto Vendejo	plej bona el ili	그것들 중에서 가장 좋은	best of them	A�
 Aŭto Vendejo	estas la plej bona	가장 좋다	is the best	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	kiu aŭto estas la plej bona?	어느 자동차가 가장 좋은 것인가?	which car is the best?	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	tiu ĉi aŭto estas pli bona	이 자동차가 더 좋다	this car is better	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	tiu ĉi estas la plej bona	이것 가장 좋다	this one is the best	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	tiu ĉi estas la plej bona	이것이 가장 좋다	this one is the best	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	vidis ĉiujn aŭtojn	모든 자동차를 봤다	saw all the cars	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	la plej bona el ĉiuj	모든 것들 중에서 가장 좋은	the best of all	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	ĉu ĝi estas rapida?	그것은 빠른가?	is it fast?	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	pli rapida ol aliaj	다른 것들보다 더 빠르다	faster than others	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	pli rapida ol aliaj	다른 것들보다 더 빠른	faster than others	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	estas ankaŭ forta	또한 강력하다	is also strong	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	ho jes, kompreneble!	오, 예. 물론이죠!	oh yes, of course!	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	estas tre forta	매우 강력하다	is very strong	Aŭto Vendejo	0    	0000-00-00 00:00:00
@@ -448,7 +448,7 @@ Aŭto Vendejo	kia estas la vetero?	날씨가 어떠한가?	what's the weather li
 Nova Aŭto	kian aŭton vi havas?	어떤 자동차를 당신은 가지고 있는가?	what kind of car do you have?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kiaj estis ŝiaj leteroj?	그녀의 편지들이 어떠했는가?	what were her letters like?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kie ni estas?	우리는 어디에 있는가?	where are we?	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	kien vi iras?	당신은 어디를 향해 가는가?	kien vi iras?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	kien vi iras?	당신은 어디를 향해 가는가?	where are you going to?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	al kiu vi donis ĝin?	누구에게 당신은 그것을 줬는가?	to whom did you give it?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la viro, kun kiu vi vojaĝis	당신이 같이 여행했던 그 남자	the man whom you traveled with	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	pli granda ol la aŭto	그 자동차보다 더 큰	bigger than the car	Nova Aŭto	0    	0000-00-00 00:00:00
@@ -460,7 +460,7 @@ Nova Aŭto	aŭskultinda novaĵo	들어볼 만한 뉴스	a news worth listening	N
 Nova Aŭto	la libro estas vere leginda	그 책은 진짜 읽을 만하다	the book is really worth reading	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	bedaŭra afero	걱정스러운 일	an unfortunate thing	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	bedaŭrinde, mi ne povas	불행히도, 나는 할 수 없어요	unfortunately, I can't	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	nedankinde. estis mia plezuro	전혀요. 저의 즐거움이었습니다	you are welcome. it was my pleasure	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	nedankinde. estis mia plezuro	천만에요. 저의 즐거움이었습니다	you are welcome. it was my pleasure	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	eta belulino ege belas	작은 미인은 매우 아름답다	small pretty girl is very beautiful	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ĉiuj amikoj amas ŝin	모든 친구들은 그녀를 사랑한다	all friends love her	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	antaŭ tri monatoj	3개월 전에	three months ago	Nova Aŭto	0    	0000-00-00 00:00:00
@@ -515,7 +515,6 @@ Maja	esperis trankvilan vesperon	고요한 저녁을 희망했다	hoped for a qu
 Maja	deziras, ke vi lernu	당신이 배우기를 바란다	wants that you learn	Maja	0    	0000-00-00 00:00:00
 Maja	insistis, ke mi iru	내가 가라고 주장했다	insisted that I go	Maja	0    	0000-00-00 00:00:00
 Maja	je kioma horo?	몇시에?	at what hour?	Maja	0    	0000-00-00 00:00:00
-Maja	je kvina horo	다섯시에	at five o'clock	Maja	0    	0000-00-00 00:00:00
 Maja	je la sesa, li venos	여섯시에 그는 올 것이다	at six he will come	Maja	0    	0000-00-00 00:00:00
 Maja	la libreto estis ĉarma	그 소책자는 매력적이었다	the libretto was charming	Maja	0    	0000-00-00 00:00:00
 Maja	estu trankvila	고요하게 있으라	be quiet	Maja	0    	0000-00-00 00:00:00
@@ -652,7 +651,7 @@ la strato	nek li nek ŝi ridis	그도 웃지 않았고, 그녀도 웃지 않았�
 ĉiam Malfrue	mem	스스로 (손수)	to oneself (by oneself)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	mi mem faris	나 혼자서 했다 (만들었다)	I did it myself	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	faris tion	그것을 했다 (그것을 만들었다)	did it (made it)	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	mem faris tion	혼자서 그것을 했다 (만들었다)	did it alone (made it alone)	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	mem faris tion	스스로 그것을 했다 (만들었다)	did it oneself (made it oneself)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ĝis la revido, ĝis revido	다시 볼때까지 (안녕)	see you (again), see you (again)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ĝis!	안녕! (다시 볼때까지)	until! (goodbye!)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ekparoli	말하기 시작하다	to start talking	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -683,9 +682,9 @@ la strato	nek li nek ŝi ridis	그도 웃지 않았고, 그녀도 웃지 않았�
 ĉiam Malfrue	mian plej karan foton	나의 가장 소중한 사진을	my dearest photo	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kie vi aĉetis ~ ?	어디에서 ~를 샀느냐?	where did you buy ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	tiu vestaĵo	그 옷	that clothing	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	tiun vestaĵon	그 옷을	that clothing	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	tiun vestaĵon	그 옷을	that clothing (objective)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	aĉetis tiun vestaĵon	그 옷을 샀다	bought that outfit	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	vi iros tien	나는 거기로 갈 것이다	you will go there	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	vi iros tien	너는 거기로 갈 것이다	you will go there	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kien vi iros?	어디로 당신은 갈 것입니까?	where are you going to?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	suna tago	햇볓이 좋은 날	sunny day	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	estos suna tago	햇볓이 좋은 날이 될 것이다	it will be a sunny day	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -739,7 +738,7 @@ Malbela Tago	vi ne estas malsaĝa	너는 멍청하지 않아	you are not stupid	
 Malbela Tago	la problemo estas, ke ~	문제라면, ~ 한 거야	the problem is that ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ke vi devas lerni	너가 공부해야하는 것	that you must learn	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	devas lerni multe pli	훨씬 많이 공부해야 한다	must learn much more	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	tiam vi ne havos	그제서야 너는 가질 것이다	then you will not have	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	tiam vi ne havos	그 때 너는 가질 것이다	then you will not have	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	malbonaj notoj	나쁜 점수들	bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	havos nur malbonajn notojn	나쁜 점수들만 받게 될 것이다	will have only bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ankaŭ nun	지금도	also now	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -934,7 +933,6 @@ Familianoj kunvenas	mi ŝatus ~	나는 ~하는 것이 좋아	I would like ~	Fami
 Familianoj kunvenas	mi ŝatus kuiri ion	나는 무언가 요리하길 좋아해	I would like to cook something	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ion bonan	무엇인가 좋은 것을	something good	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kuiri ion bonan	무언가 좋은 것을 요리하다	cook something good	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	por la naskiĝitaga kuko	생일 케이크를 위해	for the birthday cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mankas lakto	우유가 없다	is lacking of milk	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en la hejmo	집 안에	in the home	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	necesas havigi ~	~을 갖출 필요가 있다	it is necessary to procure ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -1006,7 +1004,7 @@ Familianoj kunvenas	en juneco	젊을 때	in youth	Familianoj kunvenas	0    	0000
 Familianoj kunvenas	oni havas	사람들은 가지고 있다	one has	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	havas ankaŭ belecon	아름다움도 가지고 있다	also has beauty	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	malsimplaj laboroj	복잡한 일들	complicated jobs	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	malsimplajn laborojn	복잡한 일들을	complicated jobs	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	malsimplajn laborojn	복잡한 일들을	complicated jobs (objective)	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	devus plisimpligi	더욱 단순화 시켜야 할 것이다	should simplify	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en tiu aĝo	그 나이에	at that age	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	li jam fariĝis ~	그는 이미 ~이 되었다	he has already become ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -1098,7 +1096,7 @@ La sentimulo	la gondolisto subite haltigis lin	그 곤돌라 운전수 갑자기
 La sentimulo	li diris	그는 말했다	he said	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	tiam iu homo pasis	그 때 어떤 사람이 지나갔다	then a man passed by	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	iu homo pasis apud li	어떤 사람이 그 곁을 지나갔다	a man passed by him	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	li ankoraŭ ne estis tridekjara	그는 아직도 30세가 되지 않았다	he was not yet thirty	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	li ankoraŭ ne estis tridekjara	그는 아직 30세가 아니었다	he was not yet thirty	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kaj lia vizaĝo estis senkolora	그리고 그의 얼굴을 창백해졌다	and his face was colorless	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	lia iro estis certa kaj facila	그가 가는 것은 확실하고 쉬웠다	his going was sure and easy	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	lia vizaĝo estis malĝoja	그의 얼굴은 슬펐다	his face was sad	La sentimulo	0    	0000-00-00 00:00:00
@@ -1140,7 +1138,7 @@ La sentimulo	por vidi ŝipkuron	보트 경주를 보기 위해	to see a boat rac
 La sentimulo	iu diris malforte	누군가 나즈막히 말했다	someone said weakly	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	proksime de la gondolisto	그 곤돌라 운전사 가까이에	near the gondolier	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la estro de la urbo	그 도시의 시장(市長)	the mayor of the city	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	senvorte montris al la gondolo	말없이 그 곤돌라는 가리켰다	wordlessly pointed to the gondola	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	senvorte montris al la gondolo	말없이 그 곤돌라를 가리켰다	wordlessly pointed to the gondola	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	diris la gondolisto	그 곤돌라 운전수가 말했다	said the gondolier	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kaj prenis la manon de sia amiko	그리고 자기 친구의 손을 잡았다	and took his friend's hand	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ĵetas la paperon	그 종이를 던진다	throws the paper	La sentimulo	0    	0000-00-00 00:00:00
@@ -1270,7 +1268,6 @@ Nokta Promeno	preta por iu ajn malplaĉa renkonto	어떠한 불쾌한 만남에�
 Nokta Promeno	ion ajn	무엇인가를 (그 무엇이든)	anything (whatever)	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	li atendis ion ajn	그는 어떤 것이든 기다렸다	he was waiting for anything	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	krom homa voĉo	사람 목소리 외에	aside human voice	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kiam voĉo aŭdigis, ~	목소리가 들릴 때, ~ 했다	when a voice heard, ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	aŭdiĝis tuj proksime	바로 가까이에 들렸다	heard immediately close	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	li faris belan surlokan salton	그는 근사한 제자리 뛰기를 했다	he made a nice on-site jump	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kiu movis lian koron	누가 그의 심장을 움직였는가	who moved his heart	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1334,7 +1331,6 @@ Nokta Promeno	post la terura malfeliĉo	그 끔찍한 불행 후에	after the te
 Nokta Promeno	la homoj foriris	그 사람들은 떠나갔다	the people left	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kaj la malnovaj urboj disfalis	그리고 그 오래된 도시들은 무너졌다	and the old cities fell apart	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ni devus revidi vin	우리는 당신을 다시 보아야 할 것이다	we should see you again	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	mia amiko	나의 친구	my friend	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli ofte	자주 일수록	the more often	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	mi pripensas	나는 궁리한다	I'm thinking	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	des pli mi koleras	더더욱 나는 화가난다	the more angry I am	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1353,3 +1349,6 @@ Nokta Promeno	ju pli longe	오래 될 수록	the longer	Nokta Promeno	0    	0000
 Nokta Promeno	ni atendas ~	우리는 ~을 기다린다	we are waiting ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉu vi kontentas kun ~ ?	당신은 ~에 만족하십니까?	are you satisfied with ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kun iu ajn viro	어떠한 남자와도	with any man	Nokta Promeno	0    	0000-00-00 00:00:00
+Familianoj kunvenas	por la naskiĝ-taga kuko	생일 케이크를 위해	for the birthday cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Nokta Promeno	kiam voĉo aŭdiĝis, ~	목소리가 들릴 때, ~ 했다	when a voice heard, ~	Nokta Promeno	0    	0000-00-00 00:00:00
+tiom malgranda momento	그렇게 작은 순간	such a small moment			0    	0000-00-00 00:00:00

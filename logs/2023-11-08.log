@@ -1,0 +1,134 @@
+2023-11-08 08:25:02	/api/login.api	a@a.com	a@a.com	ja-jp
+2023-11-08 08:25:02	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:25:08	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:25:20	/api/session-start.api	a@a.com	ja-jp	H
+2023-11-08 08:25:20	/api/card-next.api	a@a.com	H	ja-jp	Mi estas besto.	0	./quizA.html	female1
+2023-11-08 08:25:20	/api/similar-words-jk.api	a@a.com	H	ja-jp	Mi	estas
+2023-11-08 08:25:22	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:25:30	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:29:46	/api/session-start.api	a@a.com	ja-jp	H
+2023-11-08 08:29:46	/api/card-next.api	a@a.com	H	ja-jp	Mi estas besto.	0	./quizD.html	male2
+2023-11-08 08:29:46	/api/similar-words-kor.api	a@a.com	H	ja-jp	私は動物です。
+2023-11-08 08:29:52	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:29:59	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:30:09	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:30:38	/api/login.api	a@a.com	a@a.com	ja-jp
+2023-11-08 08:30:38	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:31:01	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:31:10	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:31:11	/api/session-start.api	a@a.com	ja-jp	H
+2023-11-08 08:31:11	/api/card-next.api	a@a.com	H	ja-jp	Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo".	0	./quizC.html	male2
+2023-11-08 08:31:11	/api/similar-words-kor.api	a@a.com	H	ja-jp	今考えているのは、「ワーカホリズム」だけでなく「遊びホリズム」としても人生を楽しみたいということです。
+2023-11-08 08:32:18	/api/playsound.api	a@a.com	ludoviko/Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo"..mp3
+2023-11-08 08:32:29	/api/put-score-kor.api	a@a.com	H	ja-jp	今考えているのは、「ワーカホリズム」だけでなく「遊びホリズム」としても人生を楽しみたいということです。	1
+2023-11-08 08:32:29	/api/playsound.api	a@a.com	ludoviko/Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo"..mp3
+2023-11-08 08:33:14	/api/similar-words-jk.api	a@a.com	H	ja-jp	mian	deziras
+2023-11-08 08:34:05	/api/playsound.api	a@a.com	male2/Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo"..mp3
+2023-11-08 08:34:12	/api/playsound.api	a@a.com	male2/Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo"..mp3
+2023-11-08 08:34:35	/api/similar-words.api	a@a.com	H	ja-jp	Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo".
+2023-11-08 08:36:52	/api/login.api	a@a.com	a@a.com	ja-jp
+2023-11-08 08:36:52	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:36:56	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:37:02	/api/session-start.api	a@a.com	ja-jp	H
+2023-11-08 08:37:02	/api/card-next.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.	0	./quizF.html	female2
+2023-11-08 08:37:32	/api/similar-words.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.
+2023-11-08 08:38:53	/api/similar-words.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.
+2023-11-08 08:38:56	/api/similar-words.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.
+2023-11-08 08:38:59	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:39:11	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:39:13	/api/session-start.api	a@a.com	ja-jp	H
+2023-11-08 08:39:13	/api/card-next.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.	0	./quizD.html	female2
+2023-11-08 08:39:13	/api/similar-words-kor.api	a@a.com	H	ja-jp	例えば、大阪の生徒たちはエスペランティストの二人の教師を通じてスウェーデンの学生の手紙と写真を受け取りました。
+2023-11-08 08:39:18	/api/similar-words.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.
+2023-11-08 08:40:23	/api/playsound.api	a@a.com	female1/En la komencaj tagoj en via lando mi estis embarasita de la enigma japana esprimo..mp3
+2023-11-08 08:40:31	/api/put-score.api	a@a.com	H	ja-jp	En la komencaj tagoj en via lando mi estis embarasita de la enigma japana esprimo.	1
+2023-11-08 08:40:31	/api/playsound.api	a@a.com	ludoviko/En la komencaj tagoj en via lando mi estis embarasita de la enigma japana esprimo..mp3
+2023-11-08 08:40:39	/api/playsound.api	a@a.com	female1/Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj..mp3
+2023-11-08 08:40:48	/api/put-score.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.	1
+2023-11-08 08:40:48	/api/playsound.api	a@a.com	ludoviko/Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj..mp3
+2023-11-08 08:40:58	/api/playsound.api	a@a.com	male1/En la litero ni vidas, ke du linioj subtenas unu la alian..mp3
+2023-11-08 08:41:03	/api/put-score.api	a@a.com	H	ja-jp	En la litero ni vidas, ke du linioj subtenas unu la alian.	1
+2023-11-08 08:41:03	/api/playsound.api	a@a.com	male1/En la litero ni vidas, ke du linioj subtenas unu la alian..mp3
+2023-11-08 08:41:09	/api/playsound.api	a@a.com	male1/En la nokto, Aligato dormis trankvile kun malgranda palmarbo..mp3
+2023-11-08 08:41:15	/api/put-score.api	a@a.com	H	ja-jp	En la nokto, Aligato dormis trankvile kun malgranda palmarbo.	1
+2023-11-08 08:41:15	/api/playsound.api	a@a.com	male2/En la nokto, Aligato dormis trankvile kun malgranda palmarbo..mp3
+2023-11-08 08:41:20	/api/card-next.api	a@a.com	H	ja-jp	Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo".	1	./quizI.html	male2
+2023-11-08 08:41:20	/api/similar-words-jk.api	a@a.com	H	ja-jp	ludoholismo	mi
+2023-11-08 08:41:34	/api/similar-words-kor.api	a@a.com	H	ja-jp	今考えているのは、「ワーカホリズム」だけでなく「遊びホリズム」としても人生を楽しみたいということです。
+2023-11-08 08:41:39	/api/similar-words-kor.api	a@a.com	H	ja-jp	今考えているのは、「ワーカホリズム」だけでなく「遊びホリズム」としても人生を楽しみたいということです。
+2023-11-08 08:42:31	/api/playsound.api	a@a.com	male2/Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo"..mp3
+2023-11-08 08:43:14	/api/playsound.api	a@a.com	male2/Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo"..mp3
+2023-11-08 08:43:47	/api/similar-words.api	a@a.com	H	ja-jp	Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo".
+2023-11-08 08:44:37	/api/similar-words.api	a@a.com	H	ja-jp	Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo".
+2023-11-08 08:44:40	/api/playsound.api	a@a.com	female1/Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo"..mp3
+2023-11-08 08:45:15	/api/put-score.api	a@a.com	H	ja-jp	Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo".	1
+2023-11-08 08:45:15	/api/playsound.api	a@a.com	female1/Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo"..mp3
+2023-11-08 08:45:35	/api/similar-words-jk.api	a@a.com	H	ja-jp	Kion	nun
+2023-11-08 08:46:04	/api/playsound.api	a@a.com	ludoviko/Kion mi pripensas nun estas, ke mi deziras ĝui mian vivon ne nur kiel "laboroholismo" sed ankaŭ kiel "ludoholismo"..mp3
+2023-11-08 08:46:57	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:47:01	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:47:02	/api/session-start.api	a@a.com	ja-jp	A
+2023-11-08 08:47:02	/api/card-next.api	a@a.com	A	ja-jp	mi, vi	0	./quizF.html	ludoviko
+2023-11-08 08:47:03	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2023-11-08 08:47:13	/api/card-next.api	a@a.com	A	ja-jp	estas, estis	0	./quizF.html	female2
+2023-11-08 08:47:13	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2023-11-08 08:47:15	/api/playsound.api	a@a.com	female2/estas, estis.mp3
+2023-11-08 08:47:18	/api/card-next.api	a@a.com	A	ja-jp	mi estas ~	0	./quizC.html	male1
+2023-11-08 08:47:18	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2023-11-08 08:47:20	/api/similar-words-kor.api	a@a.com	A	ja-jp	私は~だ
+2023-11-08 08:47:24	/api/playsound.api	a@a.com	male1/mi estas ~.mp3
+2023-11-08 08:47:27	/api/put-score-kor.api	a@a.com	A	ja-jp	私は~だ	1
+2023-11-08 08:47:27	/api/playsound.api	a@a.com	female1/mi estas ~.mp3
+2023-11-08 08:47:30	/api/card-next.api	a@a.com	A	ja-jp	vi estas ~	0	./quizF.html	ludoviko
+2023-11-08 08:47:30	/api/playsound.api	a@a.com	female1/mi estas ~.mp3
+2023-11-08 08:47:33	/api/playsound.api	a@a.com	ludoviko/vi estas ~.mp3
+2023-11-08 08:47:36	/api/card-next.api	a@a.com	A	ja-jp	saluton	0	./quizE.html	male1
+2023-11-08 08:47:36	/api/playsound.api	a@a.com	male1/vi estas ~.mp3
+2023-11-08 08:47:39	/api/playsound.api	a@a.com	male1/saluton.mp3
+2023-11-08 08:47:41	/api/card-next.api	a@a.com	A	ja-jp	saluton, mi estas ~	0	./quizH.html	male1
+2023-11-08 08:47:41	/api/playsound.api	a@a.com	female1/saluton.mp3
+2023-11-08 08:47:42	/api/similar-words.api	a@a.com	A	ja-jp	saluton, mi estas ~
+2023-11-08 08:47:43	/api/playsound.api	a@a.com	male2/saluton, mi estas ~.mp3
+2023-11-08 08:47:46	/api/put-score.api	a@a.com	A	ja-jp	saluton, mi estas ~	1
+2023-11-08 08:47:46	/api/playsound.api	a@a.com	male1/saluton, mi estas ~.mp3
+2023-11-08 08:47:48	/api/card-next.api	a@a.com	A	ja-jp	mia, via	0	./quizD.html	male1
+2023-11-08 08:47:48	/api/playsound.api	a@a.com	female1/saluton, mi estas ~.mp3
+2023-11-08 08:47:50	/api/similar-words-kor.api	a@a.com	A	ja-jp	私の、あなたの
+2023-11-08 08:47:53	/api/put-score-kor.api	a@a.com	A	ja-jp	私、あなた	-1
+2023-11-08 08:47:54	/api/put-score-kor.api	a@a.com	A	ja-jp	あなたへ、私へ	-1
+2023-11-08 08:47:55	/api/put-score-kor.api	a@a.com	A	ja-jp	私の、あなたの	1
+2023-11-08 08:47:55	/api/playsound.api	a@a.com	ludoviko/mia, via.mp3
+2023-11-08 08:47:56	/api/card-next.api	a@a.com	A	ja-jp	nomo	0	./quizG.html	male2
+2023-11-08 08:47:56	/api/playsound.api	a@a.com	female2/mia, via.mp3
+2023-11-08 08:47:58	/api/similar-words.api	a@a.com	A	ja-jp	nomo
+2023-11-08 08:48:00	/api/put-score.api	a@a.com	A	ja-jp	nomo	1
+2023-11-08 08:48:00	/api/playsound.api	a@a.com	female2/nomo.mp3
+2023-11-08 08:48:02	/api/card-next.api	a@a.com	A	ja-jp	mia nomo, via nomo	0	./quizI.html	female2
+2023-11-08 08:48:02	/api/playsound.api	a@a.com	male1/nomo.mp3
+2023-11-08 08:48:03	/api/similar-words-jk.api	a@a.com	A	ja-jp	via	nomo
+2023-11-08 08:48:08	/api/playsound.api	a@a.com	female1/mia nomo, via nomo.mp3
+2023-11-08 08:48:10	/api/card-next.api	a@a.com	A	ja-jp	mia nomo estas ~	0	./quizG.html	female1
+2023-11-08 08:48:10	/api/playsound.api	a@a.com	female2/mia nomo, via nomo.mp3
+2023-11-08 08:48:13	/api/similar-words.api	a@a.com	A	ja-jp	mia nomo estas ~
+2023-11-08 08:48:15	/api/put-score.api	a@a.com	A	ja-jp	mia nomo estas ~	1
+2023-11-08 08:48:15	/api/playsound.api	a@a.com	ludoviko/mia nomo estas ~.mp3
+2023-11-08 08:48:17	/api/playsound.api	a@a.com	male2/mia nomo estas ~.mp3
+2023-11-08 08:48:19	/api/session-finish.api	a@a.com	ja-jp	A
+2023-11-08 08:48:21	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-08 08:48:29	/api/session-start.api	a@a.com	ja-jp	A
+2023-11-08 08:48:29	/api/card-next.api	a@a.com	A	ja-jp	via nomo estas ~	0	./quizE.html	female1
+2023-11-08 08:48:30	/api/playsound.api	a@a.com	female1/via nomo estas ~.mp3
+2023-11-08 08:48:32	/api/card-next.api	a@a.com	A	ja-jp	fartas, fartis	0	./quizD.html	ludoviko
+2023-11-08 08:48:32	/api/playsound.api	a@a.com	female1/via nomo estas ~.mp3
+2023-11-08 08:48:34	/api/similar-words-kor.api	a@a.com	A	ja-jp	(現在)過ごす, (過去)過ごした
+2023-11-08 08:48:38	/api/put-score-kor.api	a@a.com	A	ja-jp	(過去)だった, (未来)だろう	-1
+2023-11-08 08:48:39	/api/put-score-kor.api	a@a.com	A	ja-jp	(現在)見る、見た	-1
+2023-11-08 08:48:40	/api/playsound.api	a@a.com	female2/fartas, fartis.mp3
+2023-11-08 08:48:42	/api/put-score-kor.api	a@a.com	A	ja-jp	(現在)過ごす, (過去)過ごした	1
+2023-11-08 08:48:42	/api/playsound.api	a@a.com	male1/fartas, fartis.mp3
+2023-11-08 08:48:48	/api/card-next.api	a@a.com	A	ja-jp	nomo, nomon	0	./quizC.html	male1
+2023-11-08 08:48:48	/api/playsound.api	a@a.com	male2/fartas, fartis.mp3
+2023-11-08 08:48:50	/api/similar-words-kor.api	a@a.com	A	ja-jp	名前、名前を
+2023-11-08 08:49:06	/api/card-next.api	a@a.com	A	ja-jp	mia amo	0	./quizG.html	ludoviko
+2023-11-08 08:49:06	/api/playsound.api	a@a.com	female2/nomo, nomon.mp3
+2023-11-08 08:49:07	/api/similar-words.api	a@a.com	A	ja-jp	mia amo
