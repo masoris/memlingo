@@ -1,0 +1,51 @@
+2023-11-14 15:43:31	/api/login.api	a@a.com	a@a.com	ja-jp
+2023-11-14 15:43:31	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-14 15:43:37	/api/get_course_info.api	a@a.com	ja-jp
+2023-11-14 15:43:40	/api/session-start.api	a@a.com	ja-jp	H
+2023-11-14 15:43:40	/api/card-next.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.	0	./quizG.html	ludoviko
+2023-11-14 15:43:40	/api/similar-words.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.
+2023-11-14 15:44:57	/api/similar-words-jk.api	a@a.com	H	ja-jp	lernantoj	svedaj
+2023-11-14 15:45:22	/api/similar-words.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.
+2023-11-14 15:47:07	/api/similar-words-kor.api	a@a.com	H	ja-jp	例えば、大阪の生徒たちはエスペランティストの二人の教師を通じてスウェーデンの学生の手紙と写真を受け取りました。
+2023-11-14 15:47:57	/api/similar-words-kor.api	a@a.com	H	ja-jp	例えば、大阪の生徒たちはエスペランティストの二人の教師を通じてスウェーデンの学生の手紙と写真を受け取りました。
+2023-11-14 15:48:44	/api/playsound.api	a@a.com	ludoviko/Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj..mp3
+2023-11-14 15:49:11	/api/playsound.api	a@a.com	ludoviko/Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj..mp3
+2023-11-14 15:50:15	/api/similar-words.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.
+2023-11-14 15:50:22	/api/similar-words.api	a@a.com	H	ja-jp	Ekzemple, lernantoj en Osaka ricevis leterojn kaj bildojn de svedaj lernantoj pere de la du esperantistaj instruistoj.
+2023-11-14 15:51:04	/api/similar-words-jk.api	a@a.com	H	ja-jp	Osaka	svedaj
+2023-11-14 15:51:37	/api/session-finish.api	a@a.com	ja-jp	H
+2023-11-14 16:32:30	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-11-14 16:32:30	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 16:32:31	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 16:32:32	/api/session-start.api	a@a.com	ko-kr	A
+2023-11-14 16:32:32	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	0	./quizF.html	male1
+2023-11-14 16:32:37	/api/similar-words.api	a@a.com	A	ko-kr	mi estas ~
+2023-11-14 16:32:40	/api/put-score.api	a@a.com	A	ko-kr	mi estas ~	-1
+2023-11-14 16:32:40	/api/playsound.api	a@a.com	female2/mi estas ~.mp3
+2023-11-14 16:32:53	/api/put-score.api	a@a.com	A	ko-kr	mi estas ~	-1
+2023-11-14 16:32:53	/api/playsound.api	a@a.com	female1/mi estas ~.mp3
+2023-11-14 16:32:59	/api/put-score.api	a@a.com	A	ko-kr	mi estas ~	-1
+2023-11-14 16:32:59	/api/playsound.api	a@a.com	female1/mi estas ~.mp3
+2023-11-14 16:33:03	/api/put-score.api	a@a.com	A	ko-kr	~ estas mia amiko	1
+2023-11-14 16:33:03	/api/playsound.api	a@a.com	female1/~ estas mia amiko.mp3
+2023-11-14 16:33:06	/api/playsound.api	a@a.com	male2/~ estas mia amiko.mp3
+2023-11-14 16:33:09	/api/playsound.api	a@a.com	male1/~ estas mia amiko.mp3
+2023-11-14 16:49:48	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-11-14 16:49:48	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 16:49:51	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 16:49:53	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-11-14 16:49:53	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 16:57:04	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 16:58:43	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:02:39	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:02:42	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-11-14 17:02:42	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:02:55	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:03:36	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:03:37	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:03:39	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-11-14 17:03:39	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:03:42	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:03:44	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:03:45	/api/jump-level.api	a@a.com	B	ko-kr	50
+2023-11-14 17:03:45	/api/get_course_info.api	a@a.com	ko-kr

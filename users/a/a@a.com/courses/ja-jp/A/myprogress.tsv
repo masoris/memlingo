@@ -1,17 +1,17 @@
-Saluton	mi, vi	私、あなた	I, you	Saluton	1    	2023-11-08 08:49:53
-Saluton	estas, estis	（現在）~だ、（過去）~だった	(present) am, (past) was	Saluton	1    	2023-11-08 08:49:18
-Saluton	mi estas ~	私は~だ	I am ~	Saluton	2    	2023-11-08 09:07:30
-Saluton	vi estas ~	あなたは~だ	you are ~	Saluton	1    	2023-11-08 08:49:36
-Saluton	saluton	こんにちは	hello	Saluton	1    	2023-11-08 08:49:41
-Saluton	saluton, mi estas ~	こんにちは、私は~です	hello, I am ~	Saluton	2    	2023-11-08 09:07:48
-Saluton	mia, via	私の、あなたの	my, your	Saluton	2    	2023-11-08 09:07:56
-Saluton	nomo	名前	a name	Saluton	2    	2023-11-08 09:08:02
-Saluton	mia nomo, via nomo	私の名前、あなたの名前	my name, your name	Saluton	1    	2023-11-08 08:50:10
-Saluton	mia nomo estas ~	私の名前は~です	my name is ~	Saluton	1    	2023-11-08 08:50:15
-Saluton	via nomo estas ~	あなたのなまえは~です	your name is ~	Saluton	1    	2023-11-08 08:50:32
-Saluton	fartas, fartis	(現在)過ごす, (過去)過ごした	(present) does, (past) did	Saluton	2    	2023-11-08 09:08:48
-Saluton	estis, estos	(過去)だった, (未来)だろう	(present) was, (future) will be	Saluton	1    	2023-11-08 08:50:38
-Saluton	nomo, nomon	名前、名前を	a name, an (objective) name	Saluton	1    	2023-11-08 08:51:06
+Saluton	mi, vi	私、あなた	I, you	Saluton	0    	0000-00-00 00:00:00
+Saluton	estas, estis	（現在）~だ、（過去）~だった	(present) am, (past) was	Saluton	0    	0000-00-00 00:00:00
+Saluton	mi estas ~	私は~だ	I am ~	Saluton	0    	0000-00-00 00:00:00
+Saluton	vi estas ~	あなたは~だ	you are ~	Saluton	0    	0000-00-00 00:00:00
+Saluton	saluton	こんにちは	hello	Saluton	0    	0000-00-00 00:00:00
+Saluton	saluton, mi estas ~	こんにちは、私は~です	hello, I am ~	Saluton	0    	0000-00-00 00:00:00
+Saluton	mia, via	私の、あなたの	my, your	Saluton	0    	0000-00-00 00:00:00
+Saluton	nomo	名前	a name	Saluton	0    	0000-00-00 00:00:00
+Saluton	mia nomo, via nomo	私の名前、あなたの名前	my name, your name	Saluton	0    	0000-00-00 00:00:00
+Saluton	mia nomo estas ~	私の名前は~です	my name is ~	Saluton	0    	0000-00-00 00:00:00
+Saluton	via nomo estas ~	あなたのなまえは~です	your name is ~	Saluton	0    	0000-00-00 00:00:00
+Saluton	fartas, fartis	(現在)過ごす, (過去)過ごした	(present) does, (past) did	Saluton	0    	0000-00-00 00:00:00
+Saluton	estis, estos	(過去)だった, (未来)だろう	(present) was, (future) will be	Saluton	0    	0000-00-00 00:00:00
+Saluton	nomo, nomon	名前、名前を	a name, an (objective) name	Saluton	0    	0000-00-00 00:00:00
 Saluton	mia amo	私の愛	my love	Saluton	0    	0000-00-00 00:00:00
 Saluton	vi fartas	あなたは過ごす	you are doing ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	kiel	どういうふうに	how	Saluton	0    	0000-00-00 00:00:00
@@ -24,7 +24,7 @@ Saluton	mi fartas bone	私は元気です	I am doing well	Saluton	0    	0000-00-
 Saluton	kaj	そして(~わ、~と)	and	Saluton	0    	0000-00-00 00:00:00
 Saluton	bone, kaj vi?	いいですよ、あなたは？	fine, and you?	Saluton	0    	0000-00-00 00:00:00
 Saluton	ĝis ~	~ まで	until ~	Saluton	0    	0000-00-00 00:00:00
-Saluton	vidas, vidis	(現在)見る、見た	(present) sees, (past) saw	Saluton	1    	2023-11-08 08:50:39
+Saluton	vidas, vidis	(現在)見る、見た	(present) sees, (past) saw	Saluton	0    	0000-00-00 00:00:00
 Saluton	vidis, revidis	見た、もう一度見た	(past) saw, (past) saw again	Saluton	0    	0000-00-00 00:00:00
 Saluton	revidis, revidos	（過去）もう一度見た、（未来）もう一度見るつもりだ	saw again, will see again	Saluton	0    	0000-00-00 00:00:00
 Saluton	revido, revidon	再放送、再放送を	seeing-again, seeing-again (objective)	Saluton	0    	0000-00-00 00:00:00
@@ -32,7 +32,7 @@ Saluton	ĝis revido!	また会える日まで(さようなら)！	see you again!
 Saluton	dankon	ありがとうございます。	thank you	Saluton	0    	0000-00-00 00:00:00
 Saluton	dankon kaj ĝis revido!	ありがとうございます。 そしてまた会える日まで(さようなら)！	thank you and see you again!	Saluton	0    	0000-00-00 00:00:00
 Saluton	al ~	~ エーゲ	to ~	Saluton	0    	0000-00-00 00:00:00
-Saluton	al vi, al mi	あなたへ、私へ	to you, to me	Saluton	1    	2023-11-08 08:49:54
+Saluton	al vi, al mi	あなたへ、私へ	to you, to me	Saluton	0    	0000-00-00 00:00:00
 Saluton	dankas, dankis	(現在)ありがとう、(過去)感謝した	(present) thanks, (past) thanked	Saluton	0    	0000-00-00 00:00:00
 Saluton	mi dankas al vi	私はあなたに感謝します	I appreciate to you	Saluton	0    	0000-00-00 00:00:00
 Saluton	jes, ne	はい, いいえ	yes, no	Saluton	0    	0000-00-00 00:00:00

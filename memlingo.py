@@ -166,11 +166,13 @@ def get_course_info():
         now_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         myprogress_tsv = os.path.join(user_courses_lang_dir, course_name, "myprogress.tsv")
         f = open(myprogress_tsv, 'r', encoding = 'utf-8')
+        # rows = []
         for line in f:
             #[0]level1	[1]esp1	[2]kor1	[3]eng1	[4]group1	[5]count	[6]next_review_time
             row = line.strip().split('\t')
             if len(row) < 7:
                 continue
+            # rows.append(row)
             if int(row[5].strip()) >= 6: mastered_count += 1   
             elif int(row[5].strip()) >= 3: familiar_count += 1  
             elif int(row[5].strip()) >= 2: done_count += 1                               
@@ -188,6 +190,7 @@ def get_course_info():
         progress += familiar_count * 0.5
         progress += mastered_count * 1.0
         user_course['progress'] = "%.2f" % float(progress/float(total_count)*100.0)
+        # user_course['progress'] = "%.2f" % calc_progress(rows)
         user_course['needs_review'] = needs_review_count
         user_course['familiar'] = familiar_count #카운트가 3이상인 것들의 갯수
         user_course['mastered'] = mastered_count #카운트가 6이상인 것들의 갯수
@@ -793,11 +796,12 @@ def put_score():
 def calc_progress(rows):
     score = 0.0
     for row in rows:
-        cnt = int(row[6])
+        cnt = int(row[5])
         if cnt >= 6: score += 1.0
         elif cnt >= 3: score += 0.5
         elif cnt >= 2: score += 0.3
         elif cnt > 0: score += 0.1
+    # print("rows=%d" % len(rows))
     return (score / len(rows))*100.0
     
 next_time = [2*60, 20*60, 5*60*60, 1*24*60*60, 2*24*60*60, 10*24*60*60, 20*24*60*60, 60*24*60*60, 180*24*60*60, 720*24*60*60]
