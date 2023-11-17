@@ -83,7 +83,7 @@ function display_K() {
     $("contents").innerHTML = "K_page: " + K_page;
     $("contents").innerHTML += "<br><a onclick='prev_K()'>[prev]</a>";
     $("contents").innerHTML += " <a onclick='next_K()'>[next]</a>";
-    for (i = (K_page * page_size); i < L_course.length && i < ((K_page + 1) * page_size); i++) {
+    for (i = (K_page * page_size); i < K_course.length && i < ((K_page + 1) * page_size); i++) {
         $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + K_course[i] + "</a><br>&nbsp;<span id='K_" + i + "_span'></span>";
         wordlist.push(K_course[i]);
     }

@@ -832,11 +832,13 @@ def do_simulation(lines, percent):
     for line in lines:
         row = line.strip().split("\t")
         if len(row) < 7: continue
-        row[5] = int(row[5].strip())
-        if row[6] == "0000-00-00 00:00:00":
-            row[6] = 0
-        else:
-            row[6] = time.time()
+        # row[5] = int(row[5].strip())
+        # if row[6] == "0000-00-00 00:00:00":
+        #     row[6] = 0
+        # else:
+        #     row[6] = time.time()
+        row[5] = 0
+        row[6] = 0
         rows.append(row)
         # print(row[6])
         

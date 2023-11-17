@@ -21,6 +21,18 @@ function call_session_start_api() {
 
 function click_btn_level_jump() {
     // call_session_start_api(); //session_start 로그를 남긴다.
+    var userResponse = confirm("\n\nJumps progress by 50%. There is no turning back.\nWill you do it?\n\nProgreso saltas al 50%. Ne eblas returniĝi.\nĈu vi faros ĝin?\n\n");
+
+    if (userResponse) {
+        // alert("작업이 실행됩니다!");
+        // 여기에 실행하려는 코드를 추가하세요.
+    } else {
+        // 사용자가 Cancel(No) 버튼을 눌렀을 때 또는 창을 닫았을 때
+        // alert("작업이 취소되었습니다.");
+        return;
+        // 여기에 취소되었을 때의 코드를 추가하세요.
+    }
+
 
     email = localStorage.email
     lang = localStorage.lang
@@ -123,6 +135,9 @@ function update_course_info() {
     $('session_course_points').innerText = user_courses[ABC].points;
     $('session_course_progress').innerText = user_courses[ABC].progress;
     $('session_course_total_count').innerText = user_courses[ABC].total_count;
+    if (parseFloat(user_courses[ABC].progress) >= 50.0) {
+        $('Btn_Level_Jump').style.visibility = "hidden";
+    }
 
 }
 

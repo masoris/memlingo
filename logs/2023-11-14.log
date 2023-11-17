@@ -49,3 +49,105 @@
 2023-11-14 17:03:44	/api/get_course_info.api	a@a.com	ko-kr
 2023-11-14 17:03:45	/api/jump-level.api	a@a.com	B	ko-kr	50
 2023-11-14 17:03:45	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:11:44	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-11-14 17:11:44	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:11:45	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:11:46	/api/session-start.api	a@a.com	ko-kr	A
+2023-11-14 17:11:46	/api/card-next.api	a@a.com	A	ko-kr	kaj raportis al ŝi	0	./quizF.html	ludoviko
+2023-11-14 17:11:47	/api/playsound.api	a@a.com	ludoviko/kaj raportis al ŝi.mp3
+2023-11-14 17:11:50	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	10	./quizD.html	female1
+2023-11-14 17:11:50	/api/playsound.api	a@a.com	ludoviko/kaj raportis al ŝi.mp3
+2023-11-14 17:11:52	/api/similar-words-kor.api	a@a.com	A	ko-kr	나, 당신
+2023-11-14 17:11:53	/api/put-score-kor.api	a@a.com	A	ko-kr	나, 당신	1
+2023-11-14 17:11:53	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2023-11-14 17:11:55	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	10	./quizH.html	female2
+2023-11-14 17:11:55	/api/playsound.api	a@a.com	male1/mi, vi.mp3
+2023-11-14 17:11:56	/api/similar-words.api	a@a.com	A	ko-kr	estas, estis
+2023-11-14 17:11:58	/api/playsound.api	a@a.com	male2/estas, estis.mp3
+2023-11-14 17:12:00	/api/put-score.api	a@a.com	A	ko-kr	estas, estis	1
+2023-11-14 17:12:00	/api/playsound.api	a@a.com	ludoviko/estas, estis.mp3
+2023-11-14 17:12:02	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	10	./quizE.html	male1
+2023-11-14 17:12:02	/api/playsound.api	a@a.com	male1/estas, estis.mp3
+2023-11-14 17:12:05	/api/playsound.api	a@a.com	male1/mi estas ~.mp3
+2023-11-14 17:12:11	/api/playsound.api	a@a.com	male1/mi estas ~.mp3
+2023-11-14 17:12:18	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:12:23	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:12:25	/api/jump-level.api	a@a.com	C	ko-kr	50
+2023-11-14 17:12:26	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:12:26	/api/session-start.api	a@a.com	ko-kr	C
+2023-11-14 17:12:26	/api/card-next.api	a@a.com	C	ko-kr	degeli	0	./quizC.html	male1
+2023-11-14 17:12:27	/api/similar-words-kor.api	a@a.com	C	ko-kr	녹다, 해빙되다
+2023-11-14 17:12:28	/api/put-score-kor.api	a@a.com	C	ko-kr	녹다, 해빙되다	1
+2023-11-14 17:12:28	/api/playsound.api	a@a.com	female1/degeli.mp3
+2023-11-14 17:12:29	/api/card-next.api	a@a.com	C	ko-kr	hipopotamo	4	./quizC.html	male1
+2023-11-14 17:12:29	/api/playsound.api	a@a.com	female1/degeli.mp3
+2023-11-14 17:12:30	/api/similar-words-kor.api	a@a.com	C	ko-kr	하마
+2023-11-14 17:12:33	/api/put-score-kor.api	a@a.com	C	ko-kr	악마	-1
+2023-11-14 17:12:33	/api/put-score-kor.api	a@a.com	C	ko-kr	하마	1
+2023-11-14 17:12:33	/api/playsound.api	a@a.com	male2/hipopotamo.mp3
+2023-11-14 17:12:35	/api/card-next.api	a@a.com	C	ko-kr	ĉerizo	3	./quizC.html	male1
+2023-11-14 17:12:35	/api/playsound.api	a@a.com	male2/hipopotamo.mp3
+2023-11-14 17:12:37	/api/similar-words-kor.api	a@a.com	C	ko-kr	버찌, 체리
+2023-11-14 17:12:38	/api/put-score-kor.api	a@a.com	C	ko-kr	버찌, 체리	1
+2023-11-14 17:12:38	/api/playsound.api	a@a.com	ludoviko/ĉerizo.mp3
+2023-11-14 17:12:40	/api/card-next.api	a@a.com	C	ko-kr	ritmo	3	./quizC.html	female1
+2023-11-14 17:12:40	/api/playsound.api	a@a.com	female1/ĉerizo.mp3
+2023-11-14 17:12:42	/api/similar-words-kor.api	a@a.com	C	ko-kr	운률, 리듬
+2023-11-14 17:12:43	/api/put-score-kor.api	a@a.com	C	ko-kr	운률, 리듬	1
+2023-11-14 17:12:43	/api/playsound.api	a@a.com	female2/ritmo.mp3
+2023-11-14 17:12:46	/api/card-next.api	a@a.com	C	ko-kr	broŝuro	3	./quizF.html	male1
+2023-11-14 17:12:46	/api/playsound.api	a@a.com	ludoviko/ritmo.mp3
+2023-11-14 17:12:48	/api/playsound.api	a@a.com	male1/broŝuro.mp3
+2023-11-14 17:12:50	/api/card-next.api	a@a.com	C	ko-kr	orfejo	3	./quizF.html	female1
+2023-11-14 17:12:50	/api/playsound.api	a@a.com	female2/broŝuro.mp3
+2023-11-14 17:12:52	/api/playsound.api	a@a.com	female1/orfejo.mp3
+2023-11-14 17:12:54	/api/card-next.api	a@a.com	C	ko-kr	ornamaĵo	3	./quizI.html	female2
+2023-11-14 17:12:54	/api/playsound.api	a@a.com	female2/orfejo.mp3
+2023-11-14 17:12:56	/api/similar-words-jk.api	a@a.com	C	ko-kr	ornamaĵo	
+2023-11-14 17:12:58	/api/playsound.api	a@a.com	female1/ornamaĵo.mp3
+2023-11-14 17:12:59	/api/card-next.api	a@a.com	C	ko-kr	provizora	3	./quizD.html	male1
+2023-11-14 17:12:59	/api/playsound.api	a@a.com	female1/ornamaĵo.mp3
+2023-11-14 17:13:01	/api/similar-words-kor.api	a@a.com	C	ko-kr	일시적인, 임시의
+2023-11-14 17:13:03	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:20:10	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:20:11	/api/session-start.api	a@a.com	ko-kr	C
+2023-11-14 17:20:11	/api/card-next.api	a@a.com	C	ko-kr	pinĉi	0	./quizA.html	male2
+2023-11-14 17:20:11	/api/similar-words-jk.api	a@a.com	C	ko-kr	pinĉi	
+2023-11-14 17:20:12	/api/playsound.api	a@a.com	male2/pinĉi.mp3
+2023-11-14 17:20:14	/api/playsound.api	a@a.com	ludoviko/pinĉi.mp3
+2023-11-14 17:20:17	/api/card-next.api	a@a.com	C	ko-kr	striki	4	./quizE.html	male2
+2023-11-14 17:20:17	/api/playsound.api	a@a.com	female2/pinĉi.mp3
+2023-11-14 17:20:19	/api/playsound.api	a@a.com	male2/striki.mp3
+2023-11-14 17:20:20	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:20:22	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:20:23	/api/session-start.api	a@a.com	ko-kr	A
+2023-11-14 17:20:23	/api/card-next.api	a@a.com	A	ko-kr	raportis, ke ~	0	./quizE.html	ludoviko
+2023-11-14 17:20:24	/api/playsound.api	a@a.com	ludoviko/raportis, ke ~.mp3
+2023-11-14 17:20:25	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	10	./quizF.html	male1
+2023-11-14 17:20:25	/api/playsound.api	a@a.com	male1/raportis, ke ~.mp3
+2023-11-14 17:20:27	/api/playsound.api	a@a.com	male1/mi estas ~.mp3
+2023-11-14 17:20:59	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-11-14 17:20:59	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:21:02	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:21:03	/api/jump-level.api	a@a.com	A	ko-kr	50
+2023-11-14 17:21:03	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-14 17:21:04	/api/session-start.api	a@a.com	ko-kr	A
+2023-11-14 17:21:04	/api/card-next.api	a@a.com	A	ko-kr	vi mem kunportis	0	./quizI.html	female2
+2023-11-14 17:21:04	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2023-11-14 17:21:08	/api/playsound.api	a@a.com	male2/vi mem kunportis.mp3
+2023-11-14 17:21:08	/api/playsound.api	a@a.com	male1/vi mem kunportis.mp3
+2023-11-14 17:21:11	/api/card-next.api	a@a.com	A	ko-kr	mian plej karan foton	3	./quizC.html	male2
+2023-11-14 17:21:11	/api/playsound.api	a@a.com	male1/vi mem kunportis.mp3
+2023-11-14 17:21:12	/api/similar-words-kor.api	a@a.com	A	ko-kr	나의 가장 소중한 사진을
+2023-11-14 17:21:15	/api/put-score-kor.api	a@a.com	A	ko-kr	나의 가장 소중한 사진을	1
+2023-11-14 17:21:15	/api/playsound.api	a@a.com	male1/mian plej karan foton.mp3
+2023-11-14 17:21:18	/api/card-next.api	a@a.com	A	ko-kr	kie vi aĉetis ~ ?	3	./quizG.html	ludoviko
+2023-11-14 17:21:18	/api/playsound.api	a@a.com	female1/mian plej karan foton.mp3
+2023-11-14 17:21:20	/api/similar-words.api	a@a.com	A	ko-kr	kie vi aĉetis ~ ?
+2023-11-14 17:21:22	/api/put-score.api	a@a.com	A	ko-kr	kie estas ~ ?	-1
+2023-11-14 17:21:22	/api/playsound.api	a@a.com	male1/kie estas ~ ?.mp3
+2023-11-14 17:21:23	/api/put-score.api	a@a.com	A	ko-kr	kie vi aĉetis ~ ?	1
+2023-11-14 17:21:23	/api/playsound.api	a@a.com	male2/kie vi aĉetis ~ ?.mp3
+2023-11-14 17:21:25	/api/card-next.api	a@a.com	A	ko-kr	tiu vestaĵo	3	./quizF.html	female1
+2023-11-14 17:21:25	/api/playsound.api	a@a.com	ludoviko/kie vi aĉetis ~ ?.mp3
+2023-11-14 17:21:27	/api/get_course_info.api	a@a.com	ko-kr
