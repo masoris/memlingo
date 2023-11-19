@@ -72,6 +72,9 @@ window.onload = function () {
     $('email2').onchange = function (event) {
         enable_disable_login_button()
     };
+    $('email2').oninput = function (event) {
+        enable_disable_login_button()
+    };
     $('email2').onkeydown = function (event) {
         enable_disable_login_button()
         if (event.key === "Enter") {
@@ -83,6 +86,9 @@ window.onload = function () {
         enable_disable_login_button()
     };
     $('email1').onchange = function (event) {
+        enable_disable_login_button()
+    };
+    $('email1').oninput = function (event) {
         enable_disable_login_button()
     };
     $('email1').onkeydown = function (event) {
