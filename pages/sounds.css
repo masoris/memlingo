@@ -10,6 +10,11 @@ body {
     display: flex;
 }
 
+input {
+    font-size: 16pt;
+}
+
+/* 
 #L {
     font-size: 16pt;
 }
@@ -36,7 +41,7 @@ body {
 
 #search {
     font-size: 16pt;
-}
+} */
 
 .Listen {
     font-size: 16pt;

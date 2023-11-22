@@ -94,6 +94,37 @@ function display_K() {
 }
 
 
+var VZ_page = 0;
+function prev_VZ() {
+    if (VZ_page == 0) { return; }
+    VZ_page -= 1;
+    display_VZ();
+}
+
+function next_VZ() {
+    if (VZ_page * page_size >= VZ_course.length) { return; }
+    VZ_page += 1;
+    display_VZ();
+}
+
+function display_VZ() {
+    cur_course = "VZ";
+    wordlist = [];
+    $("contents").innerHTML = "VZ_page: " + VZ_page;
+    $("contents").innerHTML += "<br><a onclick='prev_VZ()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_VZ()'>[next]</a>";
+    for (i = (VZ_page * page_size); i < VZ_course.length && i < ((VZ_page + 1) * page_size); i++) {
+        $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + VZ_course[i] + "</a><br>&nbsp;<span id='VZ_" + i + "_span'></span>";
+        wordlist.push(VZ_course[i]);
+    }
+    display_voices(wordlist, "VZ");
+    $("contents").innerHTML += "VZ_page: " + VZ_page;
+    $("contents").innerHTML += "<br><a onclick='prev_VZ()'>[prev]</a>";
+    $("contents").innerHTML += " <a onclick='next_VZ()'>[next]</a>";
+}
+
+
+
 
 var A_page = 0;
 function prev_A() {
@@ -211,6 +242,9 @@ function click_button(item) {
     else if (which == "K") {
         esp_txt = K_course[i];
     }
+    else if (which == "VZ") {
+        esp_txt = VZ_course[i];
+    }
     else {
         esp_txt = C_course[i];
     }
@@ -285,6 +319,26 @@ function search() {
         }
         display_voices(words, "K");
     }
+
+
+
+    words = [];
+    for (i = 0; i < VZ_course.length; i++) {
+        if (VZ_course[i].indexOf(word) >= 0) {
+            words.push(VZ_course[i]);
+        }
+    }
+    if (words.length > 0) {
+        for (i = 0; i < VZ_course.length; i++) {
+            for (j = 0; j < words.length; j++) {
+                if (VZ_course[i] == words[j]) {
+                    $("contents").innerHTML += "<br><a onclick='setitem(this)'>" + VZ_course[i] + "</a><br>&nbsp;<span id='VZ_" + i + "_span'></span>";
+                }
+            }
+        }
+        display_voices(words, "VZ");
+    }
+
 
     words = [];
     for (i = 0; i < A_course.length; i++) {
@@ -383,6 +437,9 @@ function display_voices(wordlist, which) {
             else if (which == "K") {
                 ABC_course = K_course;
             }
+            else if (which == "VZ") {
+                ABC_course = VZ_course;
+            }
             for (i = 0; i < ABC_course.length; i++) {
                 if (word == ABC_course[i]) {
                     found_i = i;
@@ -442,6 +499,16 @@ window.onload = function () {
         }
     }
 
+    VZ_course_map = {};
+    for (i = 0; i < VZ_course.length; i++) {
+        if (VZ_course[i] in VZ_course_map) {
+            console.log(VZ_course[i]);
+        }
+        else {
+            VZ_course_map[VZ_course[i]] = true;
+        }
+    }
+
     A_course_map = {};
     for (i = 0; i < A_course.length; i++) {
         if (A_course[i] in A_course_map) {
@@ -478,5 +545,6 @@ window.onload = function () {
     $("L").onclick = display_L;
     $("H").onclick = display_H;
     $("K").onclick = display_K;
+    $("VZ").onclick = display_VZ;
     $("search").onclick = search;
 };

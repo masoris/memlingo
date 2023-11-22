@@ -28,6 +28,10 @@ def LOG(log_line):
 def serve_pages(path):
     return send_from_directory('pages', path)
 
+@app.route('/dialog/<path:path>')
+def serve_dialog(path):
+    return send_from_directory('dialog', path)
+
 @app.route('/sounds/<path:path>')
 def serve_sounds(path):
     return send_from_directory('sounds', path)
