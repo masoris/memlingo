@@ -58,33 +58,27 @@
     </div>
 
     <div class="Record-speak">
-        <p>Convert recorded audio to:</p>
-        <select id="encodingTypeSelect" style="visibility: hidden;">
-            <option value="wav">Waveform Audio (.wav)</option>
-            <option value="mp3" selected>MP3 (MPEG-1 Audio Layer III) (.mp3)</option>
-            <option value="ogg">Ogg Vorbis (.ogg)</option>
-        </select>
-        <div id="controls">
-            <button id="recordButton">Record</button>
-            <button id="stopButton" disabled>Stop</button>
+        <div style="max-width: 28em;">
+            <select id="encodingTypeSelect">
+                <!-- <option value="wav">Waveform Audio (.wav)</option> -->
+                <option value="mp3" selected>MP3 (MPEG-1 Audio Layer III) (.mp3)</option>
+                <!-- <option value="ogg">Ogg Vorbis (.ogg)</option> -->
+            </select>
+            <div id="controls">
+                <button id="recordButton">Record</button>
+                <button id="stopButton" disabled>Stop</button>
+            </div>
+            <div id="formats"></div>
+            <pre>Log</pre>
+            <pre id="log"></pre>
+
+            <pre>Recordings</pre>
+            <ol id="recordingsList"></ol>
         </div>
-        <div id="formats"></div>
-        <pre>Log</pre>
-        <pre id="log"></pre>
-
-        <pre>Recordings</pre>
-        <ol id="recordingsList"></ol>
     </div>
 
-    <!-- </div> -->
-    <div id="rectangle_hard" class="Rectangle-hard">
-        <input type="button" id="btn_hard" class="Submit-hard" value="Hard for me">
-    </div>
-    <div id="rectangle_easy" class="Rectangle-easy">
-        <input type="button" id="btn_easy" class="Submit-easy" value="Easy to me">
-    </div>
-    <div id="rectangle_too_easy" class="Rectangle-too-easy">
-        <input type="button" id="btn_too_easy" class="Submit-too-easy" value="Too easy">
+    <div id="rectangle_record" class="Rectangle-record">
+        <input type="button" id="btn_record" class="Submit-record" value="Tap to Speak">
     </div>
     <div class="Rectangle-listen">
         <input type="button" id="btn_listen" class="Listen" value="Listen">

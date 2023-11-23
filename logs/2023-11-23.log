@@ -1,0 +1,13 @@
+2023-11-23 16:11:25	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-11-23 16:11:25	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-23 16:19:17	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-11-23 16:19:18	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-23 16:19:24	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-23 16:19:50	/api/get_course_info.api	a@a.com	ko-kr
+2023-11-23 16:20:21	/api/session-start.api	a@a.com	ko-kr	A
+2023-11-23 16:20:21	/api/card-next.api	a@a.com	A	ko-kr	vi mem kunportis	0	./quizG.html	ludoviko
+2023-11-23 16:20:21	/api/similar-words.api	a@a.com	A	ko-kr	vi mem kunportis
+2023-11-23 16:20:34	/api/similar-words-kor.api	a@a.com	A	ko-kr	너는 스스로 들고 갔다
+2023-11-23 16:20:42	/api/playsound.api	a@a.com	ludoviko/vi mem kunportis.mp3
+2023-11-23 16:21:17	/api/session-finish.api	a@a.com	ko-kr	A
+2023-11-23 16:22:21	/api/get_course_info.api	a@a.com	ko-kr

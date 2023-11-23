@@ -41,12 +41,14 @@ function onlogin_click() {
 function enable_disable_login_button() {
     if ($('email1').value == $('email2').value && isValidEmail($('email1').value)) {
         $('btn_login').disabled = false;
-        $('btn_login').style.backgroundColor = "#4c5b75";
+        $('btn_login').style.backgroundColor = "#03bf6b";
         $('btn_login').style.color = "white";
+        $('btn_login').style.boxShadow = "2px 0 8px 0 rgba(0, 0, 0, 0.2)";
     } else {
         $('btn_login').disabled = true;
-        $('btn_login').style.backgroundColor = "#03bf6b";
-        $('btn_login').style.color = "#03bf6b";
+        $('btn_login').style.backgroundColor = "white";
+        $('btn_login').style.color = "white";
+        $('btn_login').style.boxShadow = "0px 0 0px 0 rgba(0, 0, 0, 0.2)";
     }
 };
 
@@ -63,8 +65,9 @@ window.onload = function () {
     // enterFullscreen();
     //최초에 login버튼을 누르지 못하는 상태로 초기화 한다.
     $('btn_login').disabled = true;
-    $('btn_login').style.backgroundColor = "#03bf6b";
-    $('btn_login').style.color = "#03bf6b";
+    $('btn_login').style.backgroundColor = "white";
+    $('btn_login').style.color = "white";
+    $('btn_login').style.boxShadow = "0px 0 0px 0 rgba(0, 0, 0, 0.2)";
 
 
 
