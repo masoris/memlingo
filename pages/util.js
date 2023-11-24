@@ -452,6 +452,7 @@ function display_message() {
     display_msg("Btn_StartB", "value", "Btn_StartA");
     display_msg("Btn_StartC", "value", "Btn_StartA");
     display_msg("Btn_StartL", "value", "Btn_StartA");
+    display_msg("Btn_StartH", "value", "Btn_StartA");
     display_msg("Btn_logout", "value", "Btn_logout");
     display_msg("wordsA", "innerText", "wordsA");
     display_msg("words_to_reviewA", "innerText", "words_to_reviewA");
@@ -477,6 +478,12 @@ function display_message() {
     display_msg("masteredL", "innerText", "masteredA");
     display_msg("progressL", "innerText", "progressA");
     display_msg("pointsL", "innerText", "pointsA");
+    display_msg("wordsH", "innerText", "wordsA");
+    display_msg("words_to_reviewH", "innerText", "words_to_reviewA");
+    display_msg("familiarH", "innerText", "familiarA");
+    display_msg("masteredH", "innerText", "masteredA");
+    display_msg("progressH", "innerText", "progressA");
+    display_msg("pointsH", "innerText", "pointsA");
 
     // if ($('lang').value == 'ko-kr') {
     //     $('email1').placeholder = "이메일 주소를 입력해 주세요.";

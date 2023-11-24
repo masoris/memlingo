@@ -48,7 +48,7 @@ function enable_disable_login_button() {
         $('btn_login').disabled = true;
         $('btn_login').style.backgroundColor = "white";
         $('btn_login').style.color = "white";
-        $('btn_login').style.boxShadow = "0px 0 0px 0 rgba(0, 0, 0, 0.2)";
+        $('btn_login').style.boxShadow = "2px 0 8px 0 rgba(0, 0, 0, 0.2)";
     }
 };
 
@@ -67,7 +67,7 @@ window.onload = function () {
     $('btn_login').disabled = true;
     $('btn_login').style.backgroundColor = "white";
     $('btn_login').style.color = "white";
-    $('btn_login').style.boxShadow = "0px 0 0px 0 rgba(0, 0, 0, 0.2)";
+    $('btn_login').style.boxShadow = "2px 0 8px 0 rgba(0, 0, 0, 0.2)";
 
 
 
