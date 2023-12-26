@@ -60,7 +60,7 @@ function click_continue() {
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
     //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_txt.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: "0" });
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: "0", index: quiz_count });
     postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);

@@ -73,41 +73,43 @@ window.onload = function () {
 
     $('btn_login').onclick = onlogin_click;
     $('email2').onchange = function (event) {
-        enable_disable_login_button()
+        enable_disable_login_button();
     };
     $('email2').oninput = function (event) {
-        enable_disable_login_button()
+        enable_disable_login_button();
     };
     $('email2').onkeydown = function (event) {
-        enable_disable_login_button()
+        enable_disable_login_button();
         if (event.key === "Enter") {
             onlogin_click();
             // alert($('email2').value);
         }
     };
     $('email2').onkeyup = function (event) {
-        enable_disable_login_button()
+        enable_disable_login_button();
     };
     $('email1').onchange = function (event) {
-        enable_disable_login_button()
+        enable_disable_login_button();
     };
     $('email1').oninput = function (event) {
-        enable_disable_login_button()
+        enable_disable_login_button();
     };
     $('email1').onkeydown = function (event) {
-        enable_disable_login_button()
+        enable_disable_login_button();
         if (event.key === "Enter") {
             onlogin_click();
             // alert($('email2').value);
         }
     };
     $('email1').onkeyup = function (event) {
-        enable_disable_login_button()
+        enable_disable_login_button();
     };
 
 
     if (localStorage.getItem('email') != null) {
         $('email1').value = localStorage.getItem('email');
+        $('email2').value = localStorage.getItem('email');
+        enable_disable_login_button();
     }
 
     $("radio-ko-kr").onclick = lang_changed;

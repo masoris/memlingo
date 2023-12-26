@@ -1,18 +1,18 @@
 A - la plej baza kurso por komencantoj						
-Level	Esperanto	Chinese	English	Grupo	Alternativoj	Prononco
-Saluton	mi, vi	你我	I, you	Saluton		
-Saluton	estas, estis	（现在）是，（过去）是	(present) am, (past) was	Saluton		
-Saluton	mi estas ~	我是~	I am ~	Saluton		mi estas
-Saluton	vi estas ~	你是~	you are ~	Saluton		vi estas
+Level	Esperanto	Chinese el Angla	English	Grupo	Alternativoj	Prononco
+Saluton	mi, vi	我，你	I, you	Saluton		
+Saluton	estas, estis	(现在) 是 (过去) 是	(present) is, am, are (past) was, were	Saluton		
+Saluton	mi estas ~	我是~	I am ~	Saluton		
+Saluton	vi estas ~	你是~	you are ~	Saluton		
 Saluton	saluton	你好	hello	Saluton		
 Saluton	saluton, mi estas ~	你好，我是~	hello, I am ~	Saluton		
 Saluton	mia, via	我的，你的	my, your	Saluton		
 Saluton	nomo	一个名字	a name	Saluton		
 Saluton	mia nomo, via nomo	我的名字，你的名字	my name, your name	Saluton		
-Saluton	mia nomo estas ~	我的名字是~	my name is ~	Saluton		mia nomo estas
-Saluton	via nomo estas ~	你的名字是~	your name is ~	Saluton		via nomo estas
+Saluton	mia nomo estas ~	我的名字是~	my name is ~	Saluton		
+Saluton	via nomo estas ~	你的名字是~	your name is ~	Saluton		
 Saluton	fartas, fartis	（现在）做，（过去）做	(present) does, (past) did	Saluton		
-Saluton	estis, estos	（现在）曾经，（未来）将会	(present) was, (future) will be	Saluton		
+Saluton	estis, estos	（现在）曾经、曾经（未来）将会	(present) was, were (future) will be	Saluton		
 Saluton	nomo, nomon	一个名字，一个（客观的）名字	a name, an (objective) name	Saluton		
 Saluton	mia amo	亲爱的	my love	Saluton		
 Saluton	vi fartas	你在做~	you are doing ~	Saluton		
@@ -22,7 +22,7 @@ Saluton	kio	什么	what	Saluton
 Saluton	kio estas via nomo?	你叫什么名字？	what is your name?	Saluton		
 Saluton	bona, bone	不错嘛	good, well	Saluton		
 Saluton	fartas bone	做得很好	is doing well	Saluton		
-Saluton	mi fartas bone	我做得不错	I am doing well	Saluton		mi fartas bone.
+Saluton	mi fartas bone	我做得不错	I am doing well	Saluton		
 Saluton	kaj	和	and	Saluton		
 Saluton	bone, kaj vi?	很好，你呢？	fine, and you?	Saluton		
 Saluton	ĝis ~	直到~	until ~	Saluton		
@@ -31,62 +31,62 @@ Saluton	vidis, revidis	（过去）看见，（过去）又看见	(past) saw, (p
 Saluton	revidis, revidos	再次看到，将会再次看到	saw again, will see again	Saluton		
 Saluton	revido, revidon	再看，再看（客观）	seeing-again, seeing-again (objective)	Saluton		
 Saluton	ĝis revido!	再见！	see you again!	Saluton		
-Saluton	dankon	谢谢	thank you	Saluton		dankon.
+Saluton	dankon	谢谢	thank you	Saluton		
 Saluton	dankon kaj ĝis revido!	谢谢您，再见！	thank you and see you again!	Saluton		
 Saluton	al ~	到~	to ~	Saluton		
 Saluton	al vi, al mi	对你，对我	to you, to me	Saluton		
 Saluton	dankas, dankis	（现在）感谢，（过去）感谢	(present) thanks, (past) thanked	Saluton		
-Saluton	mi dankas al vi	我很感激你	I appreciate to you	Saluton		mi dankas al vi.
+Saluton	mi dankas al vi	我很感激你	I appreciate to you	Saluton		
 Saluton	jes, ne	是的，不是	yes, no	Saluton		
-Saluton	jes, dankon	是的，谢谢你	yes, thaink you	Saluton		jes, dankon.
+Saluton	jes, dankon	是的，谢谢你	yes, thaink you	Saluton		
 Saluton	manĝas, manĝos	吃，会吃	eats, will eat	Saluton		
-Saluton	mi ne manĝas	我不吃东西	I don't eat	Saluton		mi ne manĝas.
-Saluton	ne, mi ne manĝas	不，我不吃	no, I don't eat	Saluton		ne, mi ne manĝas.
+Saluton	mi ne manĝas	我不吃东西	I don't eat	Saluton		
+Saluton	ne, mi ne manĝas	不，我不吃	no, I don't eat	Saluton		
 Saluton	bela, bele	美丽的，美丽的	beautiful, beautifully	Saluton		
 Saluton	-inda	值得（完结）	worthwhile (ending)	Saluton		
 Saluton	dankinda, dankinde	值得赞赏的，值得感谢的	appreciatable, worthwhile to thank	Saluton		
 Saluton	tuta, tute	整体，整体	whole, as a whole	Saluton		
 Saluton	tuto, tuton	所有，（客观）所有	all, (objective) all	Saluton		
-Saluton	nedankinde	完全不，不客气	not at all, you're welcome	Saluton		nedankinde!
+Saluton	nedankinde	完全不，不客气	not at all, you're welcome	Saluton		
 Saluton	tute ne	完全没有	totally no	Saluton		
 Saluton	pardoni ~, pardono	宽恕，宽恕	to forgive, a forgiving	Saluton		
 Bonan nokton	pardonon al mi	对我的宽恕	a forgiving to me	Bonan nokton		
-Bonan nokton	pardonon	对不起！ （对不起）	I'm sorry! (pardon me)	Bonan nokton		pardonon!
-Bonan nokton	pardonon, mi petas	对不起，请	I'm sorry, please	Bonan nokton		pardonon! mi petas.
+Bonan nokton	pardonon	对不起！ （对不起）	I'm sorry! (pardon me)	Bonan nokton		
+Bonan nokton	pardonon, mi petas	对不起，请	I'm sorry, please	Bonan nokton		
 Bonan nokton	bona mateno	早上好	a good morning	Bonan nokton		
-Bonan nokton	bonan matenon	早上好	good morning	Bonan nokton		bonan matenon!
-Bonan nokton	bonan nokton	晚安	good night	Bonan nokton		bonan nokton!
-Bonan nokton	bonan sonĝon	甜蜜的梦	sweet dream	Bonan nokton		bonan sonĝon!
-Bonan nokton	bonan vojaĝon, al vi	祝你旅途愉快	(have) a good trip, to you	Bonan nokton		bonan vojaĝon al vi.
-Bonan nokton	bonan tagon	再会！	good day!	Bonan nokton		bonan tagon!
+Bonan nokton	bonan matenon	早上好	good morning	Bonan nokton		
+Bonan nokton	bonan nokton	晚安	good night	Bonan nokton		
+Bonan nokton	bonan sonĝon	甜蜜的梦	sweet dream	Bonan nokton		
+Bonan nokton	bonan vojaĝon, al vi	祝你旅途愉快	(have) a good trip, to you	Bonan nokton		
+Bonan nokton	bonan tagon	再会！	good day!	Bonan nokton		
 Bonan nokton	ĉu ~	是吗~？	is it ~ ?	Bonan nokton		
 Bonan nokton	ĉu vi fartas bone?	你怎么样？ （你好吗？）	are you doing well? (how are you?)	Bonan nokton		
-Bonan nokton	jes, mi fartas bone	是的，我没事	yes, I'm fine	Bonan nokton		jes, mi fartas bone.
-Bonan nokton	ne, tute ne	一点都不	no, not at all	Bonan nokton		ne, tute ne.
+Bonan nokton	jes, mi fartas bone	是的，我没事	yes, I'm fine	Bonan nokton		
+Bonan nokton	ne, tute ne	一点都不	no, not at all	Bonan nokton		
 Bonan nokton	tre, tro	非常、太多	very, too much	Bonan nokton		
 Bonan nokton	granda, grande	大的，很大程度上	big, largely	Bonan nokton		
 Bonan nokton	tre bona, tro granda	很大，太大	very big, too big	Bonan nokton		
-Bonan nokton	vi tre bone fartas	你做得很好	you are doing very well	Bonan nokton		vi tre bone fartas.
-Bonan nokton	ne tre bone	不是很好	not very well	Bonan nokton		ne tre bone.
+Bonan nokton	vi tre bone fartas	你做得很好	you are doing very well	Bonan nokton		
+Bonan nokton	ne tre bone	不是很好	not very well	Bonan nokton		
 Bonan nokton	lerni ~, lerno	学习，学习	to learn, a learning	Bonan nokton		
 Bonan nokton	vidanta, vidanto	正在看，一个旁观者	is looking, a spectator	Bonan nokton		
 Bonan nokton	lernanta, lernanto	正在学习，一个学生（一个学习的人）	is learning, a student (a learning person)	Bonan nokton		
 Bonan nokton	-anta, -anto	is -ing，正在做的人	is -ing, a person who is doing	Bonan nokton		
 Bonan nokton	lernanto, lerninto	一个学生，一个有学问的人	a student, a person who has learned	Bonan nokton		
-Bonan nokton	mi estas lernanto	我是一名学生。	I am a student.	Bonan nokton		mi estas lernanto.
-Bonan nokton	~ estas mia amiko	〜是我的朋友	~ is my friend	Bonan nokton		~ estas mia amiko.
+Bonan nokton	mi estas lernanto	我是一名学生。	I am a student.	Bonan nokton		
+Bonan nokton	~ estas mia amiko	〜是我的朋友	~ is my friend	Bonan nokton		
 Bonan nokton	li, ŝi	他她	he, she	Bonan nokton		
 Bonan nokton	sidi, sidas	坐，坐	to sit, sits	Bonan nokton		
 Bonan nokton	sidanta, sidinta, sidonta	正在坐，正在坐，将坐	is sitting, was sitting, will be sitting	Bonan nokton		
-Bonan nokton	li sidas kaj ŝi lernas	他坐着，她在学习	he is sitting and she is learning	Bonan nokton		li sidas kaj ŝi lernas.
+Bonan nokton	li sidas kaj ŝi lernas	他坐着，她在学习	he is sitting and she is learning	Bonan nokton		
 Bonan nokton	ĉambro	一个房间	a room	Bonan nokton		
 Bonan nokton	lernas en ĉambro	在房间里学习	learns in a room	Bonan nokton		
 Bonan nokton	lernanto kaj sportisto	一名学生和一名运动员	a student and a sportsman	Bonan nokton		
 Bonan nokton	sporto kaj sportisto	运动和运动员	sport and a sportsman	Bonan nokton		
-Bonan nokton	sportisto nun sportas	运动员正在运动	a sportsman is sporting	Bonan nokton		Sportisto nun sportas.
+Bonan nokton	sportisto nun sportas	运动员正在运动	a sportsman is sporting	Bonan nokton		
 Bonan nokton	li estas lernanto	他是学生	he is a student	Bonan nokton		
 Bonan nokton	estas lernanto kaj sportisto	他是一名学生和运动员	he is a student and a sportman	Bonan nokton		
-Bonan nokton	li nun sidas	他现在坐着	he is now sitting	Bonan nokton		Li nun sidas.
+Bonan nokton	li nun sidas	他现在坐着	he is now sitting	Bonan nokton		
 Bonan nokton	kaj nun lernas	现在正在学习	and is now learning	Bonan nokton		
 Bonan nokton	sidas kaj lernas	正在坐着学习	is sitting and is learning	Bonan nokton		
 Bonan nokton	nun en ĉambro	现在在一个房间里	now in a room	Bonan nokton		
@@ -106,14 +106,14 @@ Amiko	la patro kaj la patrino	父亲和母亲	the father and the mother	Amiko
 Amiko	la patrino de mia amiko	我朋友的母亲	the mother of my friend	Amiko		
 Amiko	en la ĉambro	在房间里	in the room	Amiko		
 Amiko	ne estas en la ĉambro	不在房间里	is not in the room	Amiko		
-Amiko	ili nun laboras	他们现在正在工作	they are now working	Amiko		ili nun laboras.
-Amiko	lia patro estas laboristo	他的父亲是一名工人	his father is a worker	Amiko		lia patro estas laboristo.
-Amiko	li laboras en hotelo	他在一家酒店工作	he works in a hotel	Amiko		li laboras en hotelo.
-Amiko	la patrino instruas	母亲教导	the mother teaches	Amiko		la patrino instruas.
-Amiko	ŝi estas instruistino	她是一名教师	she is a teacher	Amiko		ŝi estas instruistino.
+Amiko	ili nun laboras	他们现在正在工作	they are now working	Amiko		
+Amiko	lia patro estas laboristo	他的父亲是一名工人	his father is a worker	Amiko		
+Amiko	li laboras en hotelo	他在一家酒店工作	he works in a hotel	Amiko		
+Amiko	la patrino instruas	母亲教导	the mother teaches	Amiko		
+Amiko	ŝi estas instruistino	她是一名教师	she is a teacher	Amiko		
 Amiko	ĉu ŝi estas patrino?	她是母亲吗？	is she a mother?	Amiko		
-Amiko	ne, ŝi estas hotelisto	不，她是一名酒店老板	no, she is an hotelier	Amiko		ne, ŝi estas hotelisto.
-Amiko	ne, mi ne laboras	不，我不工作	no, I don't work	Amiko		ne, mi ne laboras.
+Amiko	ne, ŝi estas hotelisto	不，她是一名酒店老板	no, she is an hotelier	Amiko		
+Amiko	ne, mi ne laboras	不，我不工作	no, I don't work	Amiko		
 Amiko	kio estas ŝia nomo?	她叫什么名字？	what is her name?	Amiko		
 Amiko	kiu nun respondas?	现在谁在回答？	who is now answering?	Amiko		
 Amiko	la lingvo de ilia patrino	他们母亲的语言	the language of their mother	Amiko		
@@ -134,10 +134,10 @@ Amiko	lingvisto kaj laboristino	一名语言学家和一名女工	a linguist and
 Amiko	lia amikino estas ~	他的女朋友是~	his girl friend is ~	Amiko		
 Amiko	lernantoj kaj sportistoj	学生和运动员	students and sportsmen	Amiko		
 Amiko	mia familia nomo estas ~	我的家族名字是~	my familia name is ~	Amiko		
-Amiko	kiu estas ŝi?	她是谁？ 她是谁？	who is she? which is she?	Amiko		
+Amiko	kiu estas ŝi?	她是谁？她是谁？	who is she? which is she?	Amiko		
 Amiko	estas via amikino	是你的女朋友吗	is your girl friend	Amiko		
 Amiko	ĉu via amiko estas ~ ?	是你的朋友吗~？	is your friend ~ ?	Amiko		
-Amiko	skribas nun en la ĉambro	现在正在房间里写字	is writing now in the room	Amiko		skribas nun en la ĉambro.
+Amiko	skribas nun en la ĉambro	现在正在房间里写字	is writing now in the room	Amiko		
 Amiko	ĉu la amiko de via patro ~ ?	是你爸爸的朋友吗~？	is the friend of you father ~ ?	Amiko		
 Amiko	laboras en hotelo	在酒店工作	works in a hotel	Amiko		
 Amiko	kio estas sur la tablo?	桌子上有什么？	what is on the table?	Amiko		
@@ -153,38 +153,38 @@ La amiko	estas geamikoj	是男女朋友	are male-and-female friends	La amiko
 La amiko	hejmo de ŝia instruisto	她老师的家	a home of her teacher	La amiko		
 La amiko	venis al la hejmo	来到家里	came to the home	La amiko		
 La amiko	la hejmo de ~	的家~	the home of ~	La amiko		
-La amiko	bonvolu eniri	请进来	please come in	La amiko		bonvolu eniri.
+La amiko	bonvolu eniri	请进来	please come in	La amiko		
 La amiko	saluton! kion vi faras?	你好，你在做什么？	hello, what are you doing?	La amiko		
-La amiko	kion vi faras?	你做什么工作？ 你在干什么？	what do you do? what are you doing?	La amiko		
+La amiko	kion vi faras?	你做什么工作？你在干什么？	what do you do? what are you doing?	La amiko		
 La amiko	sed nun mi volas ~	但现在我想要~	but now I want ~	La amiko		
-La amiko	mi volas paroli	我想说话	I want to speak	La amiko		mi volas paroli.
+La amiko	mi volas paroli	我想说话	I want to speak	La amiko		
 La amiko	kun tri geamikoj	和三位男女朋友	with three male-and-female friends	La amiko		
 La amiko	parolis kun vi	与你交谈	spoke with you	La amiko		
 La amiko	volas paroli kun vi	想和你说话	wants to speak with you	La amiko		
 La amiko	ĉu vi havas geamikojn?	你有男性和女性朋友吗	do you have male-and-female friends	La amiko		
-La amiko	li havas libron	他有一本书	he has a book	La amiko		li havas libron.
+La amiko	li havas libron	他有一本书	he has a book	La amiko		
 La amiko	havas bonan libron	有一本好书	has a good book	La amiko		
-La amiko	jes, mi havas	是的，我有	yes, I have	La amiko		jes, mi havas.
-La amiko	ili ŝatas ĝin	他们喜欢它	they like it	La amiko		ili ŝatas ĝin.
-La amiko	ŝi legis libron	她读了一本书	she read a book	La amiko		ŝi legis libron.
+La amiko	jes, mi havas	是的，我有	yes, I have	La amiko		
+La amiko	ili ŝatas ĝin	他们喜欢它	they like it	La amiko		
+La amiko	ŝi legis libron	她读了一本书	she read a book	La amiko		
 La amiko	ŝatas legi librojn	喜欢看书	likes to read books	La amiko		
 La amiko	nur bona libro	只是一本好书	only a good book	La amiko		
 La amiko	multaj bonaj libroj	很多好书	many good books	La amiko		
 La amiko	legis nur bonajn librojn	只读好书	read only good books	La amiko		
 La amiko	ŝatas legi bonajn librojn	喜欢读好书	likes to read good books	La amiko		
 La amiko	ĉu vi volas legi?	你想读书吗？	do you want to read?	La amiko		
-La amiko	la junulo trinkis kafon	年轻人喝了咖啡	the youngster drank coffee	La amiko		la junulo trinkis kafon.
+La amiko	la junulo trinkis kafon	年轻人喝了咖啡	the youngster drank coffee	La amiko		
 La amiko	volas trinki akvon	想喝水	wants to drink water	La amiko		
-La amiko	patro kaj patrino, gepatroj	父亲和母亲； 父母	a father and a mother; parents	La amiko		patro kaj patrino; gepatroj
-La amiko	frato kaj fratino, gefratoj	一个麻烦和一个姐妹，兄弟姐妹	a bother and a sister, siblings	La amiko		frato kaj fratino; gefratoj
+La amiko	patro kaj patrino, gepatroj	父亲和母亲；父母	a father and a mother; parents	La amiko		
+La amiko	frato kaj fratino, gefratoj	一个麻烦和一个姐妹，兄弟姐妹	a bother and a sister, siblings	La amiko		
 La amiko	viaj gepatroj kaj gefratoj	你的父母和兄弟姐妹	your parents and siblings	La amiko		
 La amiko	estas en via hejmo	在你家里	is in your home	La amiko		
-La amiko	jen la kafo	这是咖啡	here is the coffee	La amiko		jen la kafo.
+La amiko	jen la kafo	这是咖啡	here is the coffee	La amiko		
 La amiko	ankoraŭ ne trinkis	还没喝	didn't drink yet	La amiko		
 La amiko	estas ankoraŭ varma	仍然温暖	is still warm	La amiko		
 La amiko	hieraŭ kuiris ĝin	昨天煮的	cooked it yesterday	La amiko		
 La amiko	mi nun kuiris	我现在煮了	I now cooked	La amiko		
-La amiko	dankon. tiel li diris	谢谢。 他说。	thank you. so he said.	La amiko		dankon. tiel li diris.
+La amiko	dankon. tiel li diris	谢谢。他说。	thank you. so he said.	La amiko		
 La amiko	povas trinki kaj manĝi	能喝能吃	can drink and eat	La amiko		
 La amiko	trinkis malvarman kafon	喝了冷咖啡	drank cold coffee	La amiko		
 La amiko	ankaŭ varma kafo	仍然温热的咖啡	still warm coffee	La amiko		
@@ -198,7 +198,7 @@ La amiko	la belaj okuloj de ŝi	她美丽的眼睛	the beautiful eyes of her	La 
 La amiko	vidas kaj komprenas	看到并理解	sees and understands	La amiko		
 La amiko	mi vidas, ke ~	我看到了~	I see that ~	La amiko		
 La amiko	ke li amas ŝin	他爱她	that he loves her	La amiko		
-En kafejo	ŝi sentis, ke li amas ŝin	她感觉他爱她	she feels that he loves her	En kafejo		ŝi sentis, ke li amas ŝin.
+En kafejo	ŝi sentis, ke li amas ŝin	她感觉他爱她	she feels that he loves her	En kafejo		
 En kafejo	demandas, ĉu tio estis granda	问那是否很大	asks whether that was big	En kafejo		
 En kafejo	pri facila demando	关于一个简单的问题	about an easy question	En kafejo		
 En kafejo	diris pri nova mono	说到新钱	said about a new money	En kafejo		
@@ -206,8 +206,8 @@ En kafejo	tre belaj okuloj	非常美丽的眼睛	very beautiful eyes	En kafejo
 En kafejo	rigardis la grandan fraton	看起来是大哥	looked the big brother	En kafejo		
 En kafejo	malgranda fratino forgesis ĝin	有一个小妹妹忘记了	a little sister forgot it	En kafejo		
 En kafejo	akuzativo	宾格（宾语）	an accusative (objective)	En kafejo		
-En kafejo	ne forgesu akuzativon	不要忘记宾格结尾	don't forget the accusative ending	En kafejo		ne forgesu akuzativon!
-En kafejo	kiun vi vidas?	你在见谁？ 你看到哪一个？	whom are you seeing? which one do you see?	En kafejo		
+En kafejo	ne forgesu akuzativon	不要忘记宾格结尾	don't forget the accusative ending	En kafejo		
+En kafejo	kiun vi vidas?	你在见谁？你看到哪一个？	whom are you seeing? which one do you see?	En kafejo		
 En kafejo	mi vidas amikon	我看到一个朋友	I see a friend	En kafejo		
 En kafejo	havas bonajn geamikojn	有很好的男女朋友	has good male-and-female friends	En kafejo		
 En kafejo	ili laboras pri la malnova domo	他们正在修旧房子	they are working about the old house	En kafejo		
@@ -218,9 +218,9 @@ En kafejo	malbela kaj malbona	又丑又坏	ugly and bad	En kafejo
 En kafejo	kion ŝi diris?	她说了什么？	what did she say?	En kafejo		
 En kafejo	kion vi atendas?	你在等什么？	what are you waiting for?	En kafejo		
 En kafejo	eniris en la ĉambron	走进房间	went into the room	En kafejo		
-En kafejo	enhavo estis tre malfacila	内容非常困难	a content is very difficult	En kafejo		enhavo estis tre malfacila.
+En kafejo	enhavo estis tre malfacila	内容非常困难	a content is very difficult	En kafejo		
 En kafejo	alvenis al la kunsido	到达会议地点	arrived at the meeting	En kafejo		
-En kafejo	bonvenon, al la kunveno	欢迎参加会议	welcome to the meeting	En kafejo		bonvenon, al la kunveno.
+En kafejo	bonvenon, al la kunveno	欢迎参加会议	welcome to the meeting	En kafejo		
 En kafejo	maljuna viro donis trinkmonon	一位老人给了小费	an old man gave a tip	En kafejo		
 En kafejo	alvenis kaj estis bonvena	到达并受到欢迎	arrived and was welcomed	En kafejo		
 En kafejo	ili malamas sed kunlaboras.	他们讨厌但合作	they hate but cooperate	En kafejo		
@@ -245,20 +245,20 @@ En kafejo	vidis ruĝajn kukojn	看到红色饼干	saw red cookies	En kafejo
 En kafejo	vidis kukojn en ĝi	看到里面有饼干	saw cookies in it	En kafejo		
 En kafejo	vidis kafejon kaj en ĝi kukojn	看到一家咖啡馆，里面有饼干	saw a cafe' and in it  cookies	En kafejo		
 En kafejo	eniru kaj manĝu!	进去吃饭吧！	go in and eat!	En kafejo		
-En kafejo	ni eniru kaj manĝu	我们进来吃饭吧	let's come in and eat	En kafejo		ni eniru kaj manĝu.
+En kafejo	ni eniru kaj manĝu	我们进来吃饭吧	let's come in and eat	En kafejo		
 En kafejo	havas sufiĉan monon	有足够的钱	has sufficient money	En kafejo		
 En kafejo	ĉu vi havas sufiĉan monon?	你有足够的钱吗？	do you have sufficient money?	En kafejo		
 Renkonto	ĉu vi komprenas?	你明白吗？	do you understand?	Renkonto		
-Renkonto	kompreneble!	当然！	of course!	Renkonto		kompreneble! 
-Renkonto	tio ne sufiĉas	这还不够	that is not enough	Renkonto		tio ne sufiĉas.
-Renkonto	cent dolaroj sufiĉas	一百块钱就够了	a hundred dollars is enough	Renkonto		cent dolaroj sufiĉas.
+Renkonto	kompreneble!	当然！	of course!	Renkonto		
+Renkonto	tio ne sufiĉas	这还不够	that is not enough	Renkonto		
+Renkonto	cent dolaroj sufiĉas	一百块钱就够了	a hundred dollars is enough	Renkonto		
 Renkonto	dolaro, dolaroj, dolarojn	一美元，美元，美元（复数目标）	a dollar, dollars, dollars (plural objective)	Renkonto		
 Renkonto	havas cent dolarojn	有一百美元	has a hundred dollars	Renkonto		
 Renkonto	kompreneble, mi havas	当然，我有	of course, I have	Renkonto		
-Renkonto	ho! vi estas riĉa!	哦！ 你好有钱！	oh! you are rich!	Renkonto		
+Renkonto	ho! vi estas riĉa!	哦！你好有钱！	oh! you are rich!	Renkonto		
 Renkonto	kelnero, kelnerino	一杯水，一个女服务员	a water, an waitress	Renkonto		
 Renkonto	kelnero portas menuon	服务员拿来菜单	a waiter brings a menu	Renkonto		
-Renkonto	portis tion al ni, alportis tion	给我们带来了，带来了	brought that to us, brought that	Renkonto		portis tion al ni; alportis tion
+Renkonto	portis tion al ni, alportis tion	给我们带来了，带来了	brought that to us, brought that	Renkonto		
 Renkonto	kelnero alportis multajn kukojn	服务员送来了很多饼干	a waiter brought a lot of cookies	Renkonto		
 Renkonto	ili manĝis iom	他们吃了一些（一点点）	they ate some (a little)	Renkonto		
 Renkonto	post la manĝo	吃完饭后	after the eating (meal)	Renkonto		
@@ -281,11 +281,11 @@ Renkonto	ankoraŭ unu afero restas	还剩下一件事	still one thing remains	Re
 Renkonto	vi aŭ ŝi, ajna homo	你或她，任何人	you or she, any person	Renkonto		
 Renkonto	kiel kantisto	像歌手一样，像签名者一样	like a singer, as a signer	Renkonto		
 Renkonto	kantis kiel profesia kantisto	像专业歌手一样唱歌	sang like a professional singer	Renkonto		
-Renkonto	tie, kie ŝi loĝis	a 她住的地方	a the place, where she lived	Renkonto		tie kie ŝi loĝis
+Renkonto	tie, kie ŝi loĝis	a 她住的地方	a the place, where she lived	Renkonto		
 Renkonto	kiel vi scias pri la aŭto?	你怎么知道这辆车的？	how do you know about the car?	Renkonto		
-Renkonto	nu, vidu la rapidan aŭton	好吧，看看那辆快车	well, look at the fast car	Renkonto		nu, vidu la rapidan aŭton.
+Renkonto	nu, vidu la rapidan aŭton	好吧，看看那辆快车	well, look at the fast car	Renkonto		
 Renkonto	suko sen sukero	不加糖的果汁	a juice without sugar	Renkonto		
-Renkonto	li havis rapidan veturilon	他有一辆很快的车	he has a fast vehicle	Renkonto		li havis rapidan veturilon.
+Renkonto	li havis rapidan veturilon	他有一辆很快的车	he has a fast vehicle	Renkonto		
 Renkonto	tro forte	太强烈了	too strongly	Renkonto		
 Renkonto	li tro forte malfermis	他打开得太用力了	he opened too hard	Renkonto		
 Renkonto	veturis tro rapide	开车（行驶）太快	drove (traveled) too fast	Renkonto		
@@ -316,8 +316,8 @@ Miaj Leteroj	sur la tablo, sur la tablon	桌子上，桌子上	on the table, ont
 Miaj Leteroj	ĝi falis sur la tablon	它掉在桌子上	it fell on the table	Miaj Leteroj		
 Miaj Leteroj	petis pardonon	请求原谅	asked for pardon	Miaj Leteroj		
 Miaj Leteroj	serĉis kvin librojn	正在寻找五本书	was searching for five books	Miaj Leteroj		
-Miaj Leteroj	pardonu, mi serĉis mian libron	抱歉，我正在寻找我的书。	sorry, I was looking for my book.	Miaj Leteroj		pardonu, mi serĉis mian libron.
-Miaj Leteroj	sed vi bone scias	但你很清楚	but you know well	Miaj Leteroj		sed vi bone scias.
+Miaj Leteroj	pardonu, mi serĉis mian libron	抱歉，我正在寻找我的书。	sorry, I was looking for my book.	Miaj Leteroj		
+Miaj Leteroj	sed vi bone scias	但你很清楚	but you know well	Miaj Leteroj		
 Miaj Leteroj	ne estas sur mia tablo	不在我的桌子上	is not on my table	Miaj Leteroj		
 Miaj Leteroj	viaj libroj ne estas sur mia tablo	你的书不在我的桌子上	your books are not on my table	Miaj Leteroj		
 Miaj Leteroj	ree donis, redonis	再次给予，回报	again gave, returned	Miaj Leteroj		
@@ -348,7 +348,7 @@ Miaj Leteroj	prenis, forprenis	拿走，拿走	took, took away	Miaj Leteroj
 Miaj Leteroj	prenis sep el siaj naŭ libroj	从他自己的九本书中拿走了七本	took seven out of his own nine books	Miaj Leteroj		
 Nova Aŭto	lasi, forlasita	离开，被遗弃	to leave, abandoned	Nova Aŭto		
 Nova Aŭto	lasu min sola kaj trankvila	让我一个人安静	leave me alone and calm	Nova Aŭto		
-Nova Aŭto	mil ok cent ok dek sep	一千八百八十七 (1887)	thousand eight hundred and eighty seven (1887)	Nova Aŭto		mil ok cent ok dek sep 
+Nova Aŭto	mil ok cent ok dek sep	一千八百八十七 (1887)	thousand eight hundred and eighty seven (1887)	Nova Aŭto		
 Nova Aŭto	taso da teo	一杯茶	a cup of tea	Nova Aŭto		
 Nova Aŭto	oni lavis ok tasojn	有人洗了八个杯子	somebody washed eight cups	Nova Aŭto		
 Nova Aŭto	du mil dek naŭ	2019 (2019)	two thousand nineteen (2019)	Nova Aŭto		
@@ -382,12 +382,12 @@ Nova Aŭto	sinjoro eniris la vendejon	一位绅士进入了商店	a gentleman en
 Nova Aŭto	la vendejo de aŭtoj	汽车商店	the store of cars	Nova Aŭto		
 Nova Aŭto	tie li vidas sinjorinon	他在那里看到一位女士	there he sees a lady	Nova Aŭto		
 Nova Aŭto	karaj gesinjoroj	亲爱的女士们，先生们	dear ladies and gentlemen	Nova Aŭto		
-Nova Aŭto	tio plaĉis al mi	这让我很高兴（我喜欢）	that pleased me (I like that)	Nova Aŭto		tio plaĉis al mi.
+Nova Aŭto	tio plaĉis al mi	这让我很高兴（我喜欢）	that pleased me (I like that)	Nova Aŭto		
 Nova Aŭto	la sinjorino plaĉis al li	这位女士令他高兴（他喜欢这位女士）	the lady pleased him (he liked the lady)	Nova Aŭto		
 Nova Aŭto	vidis la belan sinjorinon	看到了那位美丽的女士	saw the beautiful lady	Nova Aŭto		
 Nova Aŭto	kiu plaĉis al li?	谁让他高兴了？ （他喜欢谁？）	who pleased him? (whom did he like?)	Nova Aŭto		
 Nova Aŭto	la virino, kiu plaĉis al mi	那个让我高兴的女人	the woman, who pleased me	Nova Aŭto		
-Nova Aŭto	tiu, kiu eniris la domon	进屋的人	the one who entered the house	Nova Aŭto		tiu kiu eniris la domon
+Nova Aŭto	tiu, kiu eniris la domon	进屋的人	the one who entered the house	Nova Aŭto		
 Nova Aŭto	la viro, kiu donacis ĝin	捐赠者	the man who donated it	Nova Aŭto		
 Nova Aŭto	li donacis ringon al lia edzino	他给了他妻子一枚戒指	he gave a ring to his wife	Nova Aŭto		
 Nova Aŭto	la ringo plaĉis al ŝi	她喜欢这枚戒指	she liked the ring	Nova Aŭto		
@@ -449,20 +449,20 @@ Aŭto Vendejo	kia estas la vetero?	天气如何？	what's the weather like?	Aŭt
 Nova Aŭto	kian aŭton vi havas?	你有什么类型的车？	what kind of car do you have?	Nova Aŭto		
 Nova Aŭto	kiaj estis ŝiaj leteroj?	她的信是什么样的？	what were her letters like?	Nova Aŭto		
 Nova Aŭto	kie ni estas?	我们在哪里？	where are we?	Nova Aŭto		
-Nova Aŭto	kien vi iras?	基恩维伊拉斯？	kien vi iras?	Nova Aŭto		
+Nova Aŭto	kien vi iras?	你去哪儿？	where are you going to?	Nova Aŭto		
 Nova Aŭto	al kiu vi donis ĝin?	你把它给了谁？	to whom did you give it?	Nova Aŭto		
 Nova Aŭto	la viro, kun kiu vi vojaĝis	和你一起旅行的男人	the man whom you traveled with	Nova Aŭto		
 Nova Aŭto	pli granda ol la aŭto	比汽车大	bigger than the car	Nova Aŭto		
 Nova Aŭto	la plej alta el tiuj homoj	这些人中最高的	the tallest of those people	Nova Aŭto		
 Nova Aŭto	li sidis dum la manĝo	他正坐着吃晚饭	he was sitting at dinner	Nova Aŭto		
-Nova Aŭto	ŝi skribas dum li legas	他读书时她写作	she writes while he reads	Nova Aŭto		ŝi skribas dum li legas.
+Nova Aŭto	ŝi skribas dum li legas	他读书时她写作	she writes while he reads	Nova Aŭto		
 Nova Aŭto	ĉi tie, en ĉi tiu ĉambro	在这里，在这个房间里	here, in this room	Nova Aŭto		
 Nova Aŭto	tiu ĉi sinjoro	这位先生	this gentleman	Nova Aŭto		
 Nova Aŭto	aŭskultinda novaĵo	值得一听的新闻	a news worth listening	Nova Aŭto		
 Nova Aŭto	la libro estas vere leginda	这本书确实值得一读	the book is really worth reading	Nova Aŭto		
 Nova Aŭto	bedaŭra afero	一件不幸的事	an unfortunate thing	Nova Aŭto		
 Nova Aŭto	bedaŭrinde, mi ne povas	不幸的是，我不能	unfortunately, I can't	Nova Aŭto		
-Nova Aŭto	nedankinde. estis mia plezuro	不客气。 这是我的荣幸	you are welcome. it was my pleasure	Nova Aŭto		
+Nova Aŭto	nedankinde. estis mia plezuro	不客气。这是我的荣幸	you are welcome. it was my pleasure	Nova Aŭto		
 Nova Aŭto	eta belulino ege belas	小美女很漂亮	small pretty girl is very beautiful	Nova Aŭto		
 Nova Aŭto	ĉiuj amikoj amas ŝin	所有的朋友都爱她	all friends love her	Nova Aŭto		
 Nova Aŭto	antaŭ tri monatoj	三个月前	three months ago	Nova Aŭto		
@@ -517,7 +517,6 @@ Maja	esperis trankvilan vesperon	希望有一个安静的夜晚	hoped for a quie
 Maja	deziras, ke vi lernu	希望你学习	wants that you learn	Maja		
 Maja	insistis, ke mi iru	坚持要我去	insisted that I go	Maja		
 Maja	je kioma horo?	什么时间？	at what hour?	Maja		
-Maja	je kvina horo	在五点钟	at five o'clock	Maja		
 Maja	je la sesa, li venos	六点他会来	at six he will come	Maja		
 Maja	la libreto estis ĉarma	歌词很迷人	the libretto was charming	Maja		
 Maja	estu trankvila	安静	be quiet	Maja		
@@ -638,7 +637,7 @@ la strato	aĵo, ne aĝo	与年龄无关的东西	a thing not age	la strato
 la strato	kuris laŭ homoj saĝaj	与聪明人同行	ran along wise people	la strato		
 la strato	laŭeble baldaŭ	尽快	soon as possible	la strato		
 la strato	kia knabo, kia knabino	什么是男孩，什么是女孩	what a boy, what a girl	la strato		
-la strato	nek pensita nek memorita	既没有思考也没有记住	neither thought nor memorized	la strato		
+la strato	nek pensita nek memorita	既没有思考也没有记忆	neither thought nor memorized	la strato		
 la strato	diablo atendis akvon dimanĉe	周日，魔鬼在等水	a devil waited for water on Sunday	la strato		
 	tiom malgranda momento	这么小的一刻	such a small moment			
 la strato	eĉ tiom malgranda momento valoras	即使是这么小的一刻也是值得的	even such a small moment is worthwhile	la strato		
@@ -686,7 +685,7 @@ la strato	nek li nek ŝi ridis	他和她都没有笑	neither he nor she laughed	
 ĉiam Malfrue	mian plej karan foton	我最亲爱的照片	my dearest photo	ĉiam Malfrue		
 ĉiam Malfrue	kie vi aĉetis ~ ?	哪里买的~？	where did you buy ~ ?	ĉiam Malfrue		
 ĉiam Malfrue	tiu vestaĵo	那件衣服	that clothing	ĉiam Malfrue		
-ĉiam Malfrue	tiun vestaĵon	那件衣服	that clothing	ĉiam Malfrue		
+ĉiam Malfrue	tiun vestaĵon	那件衣服（目标）	that clothing (objective)	ĉiam Malfrue		
 ĉiam Malfrue	aĉetis tiun vestaĵon	买了那件衣服	bought that outfit	ĉiam Malfrue		
 ĉiam Malfrue	vi iros tien	你会去那里	you will go there	ĉiam Malfrue		
 ĉiam Malfrue	kien vi iros?	你去哪儿？	where are you going to?	ĉiam Malfrue		
@@ -1009,7 +1008,7 @@ Familianoj kunvenas	en juneco	年轻时	in youth	Familianoj kunvenas
 Familianoj kunvenas	oni havas	一个有	one has	Familianoj kunvenas		
 Familianoj kunvenas	havas ankaŭ belecon	也有美丽	also has beauty	Familianoj kunvenas		
 Familianoj kunvenas	malsimplaj laboroj	复杂的工作	complicated jobs	Familianoj kunvenas		
-Familianoj kunvenas	malsimplajn laborojn	复杂的工作	complicated jobs	Familianoj kunvenas		
+Familianoj kunvenas	malsimplajn laborojn	复杂的工作（目标）	complicated jobs (objective)	Familianoj kunvenas		
 Familianoj kunvenas	devus plisimpligi	应该简化	should simplify	Familianoj kunvenas		
 Familianoj kunvenas	en tiu aĝo	在那个年纪	at that age	Familianoj kunvenas		
 Familianoj kunvenas	li jam fariĝis ~	他已经成为了~	he has already become ~	Familianoj kunvenas		
@@ -1226,7 +1225,7 @@ Nokta Promeno	li malfacile paŝis	他艰难地行走	he walked with difficulty	N
 Nokta Promeno	estis travivaĵo	这是一次经历	it was an experience	Nokta Promeno		
 Nokta Promeno	ne malofte	并不少见	not uncommon	Nokta Promeno		
 Nokta Promeno	doloriga kaj ĉiam malagrabla	痛苦且总是不愉快	painful and always unpleasant	Nokta Promeno		
-Nokta Promeno	ju pli ~	越...	the more ...	Nokta Promeno		
+Nokta Promeno	ju pli ~	越多~	the more ~	Nokta Promeno		
 Nokta Promeno	antaŭeniris en la vivo	在生活中前进	moved forward in life	Nokta Promeno		
 Nokta Promeno	en la kastela arbaro	在城堡森林里	in the castle forest	Nokta Promeno		
 Nokta Promeno	ju pli antaŭeniris des pli malŝatis ~	越往前越不喜欢~	the further went forward the more disliked ~	Nokta Promeno		
@@ -1304,11 +1303,11 @@ Nokta Promeno	pri via ĉeesto	关于你的存在	about your presence	Nokta Prome
 Nokta Promeno	via ĉeesto ĉi tie	你在这里	your presence here	Nokta Promeno		
 Nokta Promeno	mi devas peti vin ~	我得问问你~	I have to ask you ~	Nokta Promeno		
 Nokta Promeno	petas vin sekvi min	要求你关注我	asks you to follow me	Nokta Promeno		
-Nokta Promeno	kaj li klarigis ~	他解释道~	and he explained ~	Nokta Promeno		
+Nokta Promeno	kaj li klarigis ~	他解释说~	and he explained ~	Nokta Promeno		
 Nokta Promeno	klarigis, ke ~	解释说~	explained that ~	Nokta Promeno		
 Nokta Promeno	ekde la fuŝa provo	自从错误的尝试	since the wrong attempt	Nokta Promeno		
 Nokta Promeno	la fuŝa provo kapti la grafinon	抓住伯爵夫人的错误尝试	the wrong attempt to catch the countess	Nokta Promeno		
-Nokta Promeno	fare de ~	由于~	due to ~	Nokta Promeno		
+Nokta Promeno	fare de ~	由于〜	due to ~	Nokta Promeno		
 Nokta Promeno	fare de teroristoj	由于恐怖分子	due to terrorists	Nokta Promeno		
 Nokta Promeno	la polico kontrolas atente	警方仔细检查	the police checks carefully	Nokta Promeno		
 Nokta Promeno	kontrolas, kio okazas	检查发生了什么	checks what is happening	Nokta Promeno		
@@ -1328,7 +1327,7 @@ Nokta Promeno	la ideo perdigis al li malmulton da espero	这个想法让他失�
 Nokta Promeno	malmulto da espero	希望渺茫	little hope	Nokta Promeno		
 Nokta Promeno	malmulta espero, kiu restis	所剩无几的希望	little hope that remained	Nokta Promeno		
 Nokta Promeno	post la unuaj vortoj de la policano	在警察说第一句话之后	after the first words of the police	Nokta Promeno		
-Nokta Promeno	ju pli ~ des pli ~	越……越……	the more ... the more ...	Nokta Promeno		
+Nokta Promeno	ju pli ~ des pli ~	越多越多～	the more ~ the more ~	Nokta Promeno		
 Nokta Promeno	ju pli longe des pli bone	越长越好	the longer the better	Nokta Promeno		
 Nokta Promeno	kiom ajn	无论多少	no matter how much	Nokta Promeno		
 Nokta Promeno	antaŭ kvarona horo	一刻钟前	a quarter of an hour ago	Nokta Promeno		
@@ -1337,7 +1336,6 @@ Nokta Promeno	post la terura malfeliĉo	在经历了可怕的不幸之后	after 
 Nokta Promeno	la homoj foriris	人们离开了	the people left	Nokta Promeno		
 Nokta Promeno	kaj la malnovaj urboj disfalis	古老的城市分崩离析	and the old cities fell apart	Nokta Promeno		
 Nokta Promeno	ni devus revidi vin	我们应该再见到你	we should see you again	Nokta Promeno		
-Nokta Promeno	mia amiko	我的朋友	my friend	Nokta Promeno		
 Nokta Promeno	ju pli ofte	越频繁	the more often	Nokta Promeno		
 Nokta Promeno	mi pripensas	我在想	I'm thinking	Nokta Promeno		
 Nokta Promeno	des pli mi koleras	我越生气	the more angry I am	Nokta Promeno		

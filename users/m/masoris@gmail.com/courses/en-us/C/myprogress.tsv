@@ -13,23 +13,23 @@ amo	mem	by oneself	par soi-même	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	ĝis ~	upto ~, until ~	jusqu'à ~, jusqu'à ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	de ~	of ~	de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	da ~	(much) of ~, (many) of ~	(beaucoup) de ~, (beaucoup) de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-glacio	-aĵo	<suffix> thing, concrete manifestation	<suffixe> chose, manifestation concrète	KO,G1,ZG	0    	0000-00-00 00:00:00
+glacio	-aĵo	<suffix> thing, concrete manifestation	<suffix>chose, manifestation concrète	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	proksima	near, close to, soon, nearby	près, près de, bientôt, à proximité	KO,G2,ZG	0    	0000-00-00 00:00:00
-glacio	-adi	<suffix> repetitive action, lasting action	<suffixe> action répétitive, action durable	KO,G1,ZG	0    	0000-00-00 00:00:00
-glacio	-as	<suffix> present tense	<suffixe> présent	KO,G1,ZG	0    	0000-00-00 00:00:00
-kanti	-is	<suffix> past tense	<suffixe> passé	KO,G1,ZG	0    	0000-00-00 00:00:00
+glacio	-adi	<suffix> repetitive action, lasting action	<suffix>action répétitive, action durable	KO,G1,ZG	0    	0000-00-00 00:00:00
+glacio	-as	<suffix> present tense	<suffix>présent	KO,G1,ZG	0    	0000-00-00 00:00:00
+kanti	-is	<suffix> past tense	<suffix>passé	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	esti	to be	être	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-kanti	-os	<suffix> future tense	<suffixe> futur	KO,G1,ZG	0    	0000-00-00 00:00:00
-kanti	antaŭ ~	<prep> before ~, in front of ~	<prep> avant ~, devant ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	-os	<suffix> future tense	<suffix>le futur	KO,G1,ZG	0    	0000-00-00 00:00:00
+kanti	antaŭ ~	<prep> before ~, in front of ~	<prep>avant ~, devant ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	fari	to make, to do	faire, faire	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-kanti	ankaŭ ~	<prep> also, too	<prep> aussi	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	ankaŭ ~	<prep> also, too	<prep>aussi trop	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	post ~	after ~	après ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-kanti	mal-	<prefix> opposite	<préfixe> ci-contre	KO,G1,ZG	0    	0000-00-00 00:00:00
-kanti	-ul-	<suffix> a person of some trait	<suffixe> une personne présentant un certain trait	KO,G1,ZG	0    	0000-00-00 00:00:00
-filo	-in-	<suffix> female	<suffixe> féminin	KO,G1,ZG	0    	0000-00-00 00:00:00
-filo	-ant-	<suffix> active present, is ~ing, someone who is ~ing	<suffixe> présent actif, est ~ing, quelqu'un qui ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
-filo	-int-	<suffix> active past, was ~ing	<suffixe> passé actif, était ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
-filo	-ont-	<suffix> active future, will be ~ing	<suffixe> futur actif, sera ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
+kanti	mal-	<prefix> opposite	<prefix>opposé	KO,G1,ZG	0    	0000-00-00 00:00:00
+kanti	-ul-	<suffix> a person of some trait	<suffix>une personne ayant un certain caractère	KO,G1,ZG	0    	0000-00-00 00:00:00
+filo	-in-	<suffix> female	<suffix>femelle	KO,G1,ZG	0    	0000-00-00 00:00:00
+filo	-ant-	<suffix> active present, is ~ing, someone who is ~ing	<suffix>présent actif, est ~ing, quelqu'un qui ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
+filo	-int-	<suffix> active past, was ~ing	<suffix>passé actif, était ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
+filo	-ont-	<suffix> active future, will be ~ing	<suffix>un avenir actif, sera ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
 filo	kaj (k.)	and	et	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 filo	aŭ	or	ou	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	alta	high, tall	grande taille	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ kiom	kiom	how much, how many	combien	KO,G1	0    	0000-00-00 00:00:00
 stomako	ofte	often, frequently	souvent fréquemment	KO	0    	0000-00-00 00:00:00
 kiom	iom	a little, rather, some, somewhat	un peu, plutôt, un peu, un peu	G1,4H	0    	0000-00-00 00:00:00
 amo	nova	new, novel	nouveau, roman	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-kiom	-at-	<suffix> passive present participle	<suffixe> participe présent passif	KO,G1,ZG	0    	0000-00-00 00:00:00
-kiom	-it-	<suffix> passive past participle	<suffixe> participe passé passif	KO,G1,ZG	0    	0000-00-00 00:00:00
-kiom	-ot-	<suffix> passive future participle	<suffixe> participe futur passif	KO,G1,ZG	0    	0000-00-00 00:00:00
+kiom	-at-	<suffix> passive present participle	<suffix>Participe présent passif	KO,G1,ZG	0    	0000-00-00 00:00:00
+kiom	-it-	<suffix> passive past participle	<suffix>participe passé passif	KO,G1,ZG	0    	0000-00-00 00:00:00
+kiom	-ot-	<suffix> passive future participle	<suffix>participe futur passif	KO,G1,ZG	0    	0000-00-00 00:00:00
 kiom	tre	very, quite, very much	très, assez, beaucoup	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	tro	too, excessively, too much	trop, excessivement, trop	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	tamen	however, nonetheless, but, nevertheless	cependant, néanmoins, mais, néanmoins	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ kiom	ho!	Oh! Ho!	Oh! Ho!	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	ke ~	that ~	ça ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	ĉar ~	because ~	parce que ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	ĉu	whether ~	si ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-veturi	-ej-	<suffix> place	<suffixe> lieu	KO,G1,ZG	0    	0000-00-00 00:00:00
-veturi	-ec-	<suffix> abstract name of quality	<suffixe> nom abstrait de la qualité	KO,G1,ZG	0    	0000-00-00 00:00:00
+veturi	-ej-	<suffix> place	<suffix>lieu	KO,G1,ZG	0    	0000-00-00 00:00:00
+veturi	-ec-	<suffix> abstract name of quality	<suffix>nom abstrait de la qualité	KO,G1,ZG	0    	0000-00-00 00:00:00
 veturi	ambaŭ ~	both ~	les deux ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 veturi	tuj	immediately, instantly, right away	immédiatement, instantanément, tout de suite	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	kvazaŭ ~	as if ~	comme si ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ veturi	neniam	never, at no time, not ever	jamais, à aucun moment, jamais	KO,G1,
 veturi	tial	therefore, so	donc, donc	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kial	why, what for	pourquoi, pour quoi faire	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kvankam	although ~, while, though	bien que ~, pendant que, cependant	KO,G1,ZG	0    	0000-00-00 00:00:00
-veturi	ĉe ~	<prep> at ~	<préparation> à ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+veturi	ĉe ~	<prep> at ~	<prep>à ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	pli	more	plus	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	plej	most	la plupart	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 glacio	diri	to say, to tell	dire, dire	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ veturi	tia	such, that kind of, such a	tel, ce genre de, tel	KO,G1,4H	0    	0000-
 veturi	apenaŭ	barely, hardly, scarecely	à peine, à peine, à peine	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	sendi	to send	envoyer	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 hundo	ĵus	just (a moment ago), just now	juste (il y a un instant), juste maintenant	KO,G1,4H	0    	0000-00-00 00:00:00
-hundo	-u	<suffix> imperative	<suffixe> impératif	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	-u	<suffix> imperative	<suffix>impératif	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	ekster ~	outside ~	dehors ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	ge-	<prefix> both sex, both gender	<préfixe> les deux sexes, les deux genres	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	-us	<suffix> would, should, subjunctive	<suffixe> serait, devrait, subjonctif	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	ge-	<prefix> both sex, both gender	<prefix>les deux sexes, les deux genres	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	-us	<suffix> would, should, subjunctive	<suffix>serait, devrait, subjonctif	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	baldaŭ	soon	bientôt	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	almenaŭ	at least, if nothing else	du moins, si rien d'autre	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	dis-	dis-	dis-	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	-uj-	<suffix> container; country	Conteneur <suffixe> ; pays	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	-uj-	<suffix> container; country	<suffix>récipient; pays	KO,G1,ZG	0    	0000-00-00 00:00:00
 glacio	lerni	to learn	apprendre	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-hundo	ek-	<prefix> beginning; sudden start	<préfixe> début ; début soudain	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	ek-	<prefix> beginning; sudden start	<prefix>début; début soudain	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	se	if, provided that	si, à condition que	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	eĉ	even	même	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	amo	a love	un amour	NA,4H	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ kanti	fini	to end, to finish, to terminate	finir, finir, terminer	KO,G2,4H,ZG	0 
 hundo	do	so, then, therefore	alors, donc, donc	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	ajn	~ever, (what)ever, at all, -soever	~ jamais, (quoi) jamais, du tout, - peu importe	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	facila	easy, facile	facile, facile	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-hundo	re-	<prefix> re-	<préfixe> re-	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	re-	<prefix> re-	<prefix>concernant-	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	granda	big, great, large	grand, grand, grand	KO,G2,ZG	0    	0000-00-00 00:00:00
-hundo	-ist-	<suffix> professional	<suffixe> professionnel	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	pro ~	<prep> because of ~, due to ~	<prep> à cause de ~, à cause de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-hundo	-estr-	<suffix> leader, boss, head, chief	<suffixe> leader, patron, chef, chef	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	-ist-	<suffix> professional	<suffix>professionnel	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	pro ~	<prep> because of ~, due to ~	<prep>à cause de ~, à cause de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+hundo	-estr-	<suffix> leader, boss, head, chief	<suffix>chef, patron, chef, chef	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	kio	what	quoi	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	manĝi	to eat	manger	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 hundo	nenio	nothing, none, not any thing	rien, rien, rien	KO,G1,4H	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ hundo	ĉio	everything	tout	KO,G1,4H	0    	0000-00-00 00:00:00
 kanti	riĉa	rich, wealthy, well-off	riche, riche, aisé	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 hundo	tio	that thing, that	cette chose, ça	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	konstrui	to build, to construct	construire, construire	KO,G3	0    	0000-00-00 00:00:00
-soni	ĉef-	<prefix> chief, leading, main	<préfixe> chef, leader, principal	G1,ZG	0    	0000-00-00 00:00:00
-soni	sen ~	<prep> without ~	<prép> sans ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-soni	kun ~	<prep> with ~ (together)	<prep> avec ~ (ensemble)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-soni	krom ~	<prep> except ~, besides ~	<prep> sauf ~, en plus ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	ĉef-	<prefix> chief, leading, main	<prefix>chef, leader, principal	G1,ZG	0    	0000-00-00 00:00:00
+soni	sen ~	<prep> without ~	<prep>sans ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	kun ~	<prep> with ~ (together)	<prep>avec ~ (ensemble)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	krom ~	<prep> except ~, besides ~	<prep>sauf ~, en plus ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	amiko	a friend	un ami	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	kies	whose, which one's, of which	à qui, lequel, dont	KO,G1,4H	0    	0000-00-00 00:00:00
-soni	per ~	<prep> by ~ (a method), with ~ (a tool)	<prep> par ~ (une méthode), avec ~ (un outil)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	per ~	<prep> by ~ (a method), with ~ (a tool)	<prep>par ~ (une méthode), avec ~ (un outil)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	kontraŭ ~	against ~	contre ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	el ~	out of ~, from ~	hors de ~, de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hodiaŭ	today	aujourd'hui	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hieraŭ	yesterday	hier	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	nur	only, just, exclusively	seulement, juste, exclusivement	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	helpi	to help, to aid, to assist	aider, aider, assister	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-soni	for	<adv> far, away	<adv> loin, très loin	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	for	<adv> far, away	<adv>loin	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	nek	nor, neither	ni, ni l'un ni l'autre	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	malamo	a hate	une haine	AA	0    	0000-00-00 00:00:00
 soni	preskaŭ	almost, nearly	presque, presque	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -131,13 +131,13 @@ flughaveno	por ~	for ~, in order for ~	pour ~, pour ~	KO,G1,4H,ZG	0    	0000-00-
 kontenta	morgaŭ	tomorrow	demain	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kontenta	nun	now, at present	maintenant, à l'heure actuelle	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kontenta	laŭ ~	according to ~, along ~	selon ~, le long de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-kontenta	ĉiu	each, every, everybody, all the	chacun, chacun, tout le monde, tous	KO,G1,4H	0    	0000-00-00 00:00:00
+kontenta	ĉiu	each, every, everybody, all the	chacun, chacun, tout le monde, tout	KO,G1,4H	0    	0000-00-00 00:00:00
 kontenta	kiu	who, which, which one	qui, lequel, lequel	KO,G1,4H	0    	0000-00-00 00:00:00
 kontenta	tiu	that person, that ~, that one, yonder	cette personne, celle-là, celle-là, là-bas	KO,G1,4H	0    	0000-00-00 00:00:00
 kontenta	iu	someone, somebody, some	quelqu'un, quelqu'un, certains	G1,4H	0    	0000-00-00 00:00:00
 kontenta	neniu	nobody, no one, neither	personne, personne, ni l'un ni l'autre	KO,G1,4H	0    	0000-00-00 00:00:00
 kontenta	al ~	to ~	à ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-kontenta	-ebl-	<suffix> ~able	<suffixe> ~able	KO,G1,ZG	0    	0000-00-00 00:00:00
+kontenta	-ebl-	<suffix> ~able	<suffix>~capable	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	esperi	to hope	espérer	KO,G4,4H,ZG	0    	0000-00-00 00:00:00
 vestiblo	unu	one	un	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 vestiblo	du	two	deux	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ vestiblo	naŭ	nine	neuf	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	dek	ten	dix	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	cent	a hundred	cent	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	mil	a thousand	un millier	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-obl-	<suffix> for multiplicity, -oble, -fold	<suffixe> pour multiplicité, -oble, -fold	KO,G1	0    	0000-00-00 00:00:00
-stomako	-on-	<suffix> ~th, fraction	<suffixe> ~ième, fraction	KO,G1	0    	0000-00-00 00:00:00
+stomako	-obl-	<suffix> for multiplicity, -oble, -fold	<suffix>pour la multiplicité, -oble, -fold	KO,G1	0    	0000-00-00 00:00:00
+stomako	-on-	<suffix> ~th, fraction	<suffix>~ème, fraction	KO,G1	0    	0000-00-00 00:00:00
 amo	ama	of love	d'amour	AA	0    	0000-00-00 00:00:00
 stomako	anstataŭ ~	instead of ~	au lieu de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-iĝ-	<suffix> become	<suffixe> devient	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-iĝ-	<suffix> become	<suffix>devenir	KO,G1,ZG	0    	0000-00-00 00:00:00
 filo	voli	to want, to will, to be willing to	vouloir, vouloir, être prêt à	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-ig-	<suffix> cause to become	<suffixe> fait devenir	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-ig-	<suffix> cause to become	<suffix>faire devenir	KO,G1,ZG	0    	0000-00-00 00:00:00
 filo	sekvi	to follow	suivre	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 amo	ĝoje	gladly	volontier	AA	0    	0000-00-00 00:00:00
 filo	legi	to read	lire	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 amo	silenta	silent	silencieux	NA	0    	0000-00-00 00:00:00
 stomako	la	the	le	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ha!	ha!	Ha!	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	-il-	<suffix> tool, method	<suffixe> outil, méthode	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-il-	<suffix> tool, method	<suffix>outil, méthode	KO,G1,ZG	0    	0000-00-00 00:00:00
 glacio	trinki	to drink (non-alkohol)	boire (sans alcool)	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-et-	<suffix> small, little	<suffixe> petit, petit	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	-eg-	<suffix> big, large	<suffixe> grand, grand	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	inter ~	<prep> between ~	<prép> entre ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-um-	<suffix> related behavior	Comportement lié au <suffixe>	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	-ar-	<suffix> set, group	<suffixe> ensemble, groupe	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	-an-	<suffix> member of a group	<suffixe> membre d'un groupe	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-et-	<suffix> small, little	<suffix>petit peu	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-eg-	<suffix> big, large	<suffix>grand, grand	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	inter ~	<prep> between ~	<prep>entre ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	-um-	<suffix> related behavior	<suffix>comportement associé	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-ar-	<suffix> set, group	<suffix>ensemble, groupe	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-an-	<suffix> member of a group	<suffix>membre d'un groupe	KO,G1,ZG	0    	0000-00-00 00:00:00
 glacio	danki	to thank	remercier	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-ind-	<suffix> worthwhile, worthy	<suffixe> utile, digne	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-ind-	<suffix> worthwhile, worthy	<suffix>utile, digne	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	plu	even more, further, and so on, more	encore plus, plus loin, et ainsi de suite, plus	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	kiel	how, like, in what way, such as	comment, genre, de quelle manière, comme	KO,G1,4H	0    	0000-00-00 00:00:00
 stomako	tiel	such, in that way, thus	tel, de cette façon, ainsi	KO,G1,4H	0    	0000-00-00 00:00:00
-stomako	en ~	<prep> in ~	<préparation> dans ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	apud ~	<prep> next to ~, beside ~	<prep> à côté de ~, à côté de ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sub ~	<prep> under, beneath ~	<prep> sous, sous ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sur ~	<prep> on ~	<prép> sur ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	je ~	<prep> indefinate prep., at, in, by, on	<prep> préparation indéfinie, à, dans, par, sur	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ankoraŭ	<adv> still, yet	<adv> encore, encore	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ĉirkaŭ ~	<prep> around ~	<prép> autour de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	en ~	<prep> in ~	<prep>dans ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	apud ~	<prep> next to ~, beside ~	<prep>à côté de ~, à côté de ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sub ~	<prep> under, beneath ~	<prep>dessous, dessous ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sur ~	<prep> on ~	<prep>sur ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	je ~	<prep> indefinate prep., at, in, by, on	<prep>préparation indéfinie, à, dans, par, sur	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ankoraŭ	<adv> still, yet	<adv>encore, encore	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ĉirkaŭ ~	<prep> around ~	<prep>autour de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	sed	but	mais	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ie	somewhere	quelque part	KO,G1	0    	0000-00-00 00:00:00
 stomako	kie	where, at what place	où, à quel endroit	KO,G1,4H	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ stomako	tie	there, over there, yonder	là, là-bas, là-bas	KO,G1,4H	0    	0000-
 stomako	ĉi	this ~	ça ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	kanti	to sing	chanter	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 kiom	morti	to die, to pass away	mourir, décéder	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-stomako	dum ~	<prep> during ~, while ~	<prep> pendant ~, pendant que ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	dum ~	<prep> during ~, while ~	<prep>pendant ~, pendant que ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	nacio	a nation	une nation	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	koni	to know (a person), to be aquainted with	connaître (une personne), faire la connaissance de	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	scii	to know (a fact, knowledge), to know how	savoir (un fait, une connaissance), savoir comment	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ĉiam	always, ever	toujours, toujours	KO,G1	0    	0000-00-00 00:00:00
 stomako	iam	at some time, once	à un moment donné, une fois	KO,G1	0    	0000-00-00 00:00:00
 stomako	tiam	then	alors	KO,G1	0    	0000-00-00 00:00:00
-stomako	-em-	<suffix> tendancy	Tendance <suffixe>	KO,G1	0    	0000-00-00 00:00:00
+stomako	-em-	<suffix> tendancy	<suffix>tendance	KO,G1	0    	0000-00-00 00:00:00
 stomako	ia	some kind of	une sorte de	KO,G1	0    	0000-00-00 00:00:00
 amo	sukcesi	to succeed	réussir	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	ĉia	of all kind, every kind of	de toutes sortes, de toutes sortes	KO,G1	0    	0000-00-00 00:00:00
 stomako	nenia	no, not any kind of, not any	non, pas n'importe quel genre, pas n'importe lequel	KO,G1	0    	0000-00-00 00:00:00
-stomako	-id-	<suffix> offspring	<suffixe> progéniture	KO,G1	0    	0000-00-00 00:00:00
+stomako	-id-	<suffix> offspring	<suffix>progéniture	KO,G1	0    	0000-00-00 00:00:00
 kiom	ĉambro	a room, a chamber	une chambre, une chambre	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	patro	a father	un père	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 amo	porko	a pig, swine	un cochon, un porc	G5,4H	0    	0000-00-00 00:00:00
-stomako	bo-	<prefix> -in-law, by marriage	<préfixe> beau-frère, par alliance	KO,G1	0    	0000-00-00 00:00:00
+stomako	bo-	<prefix> -in-law, by marriage	<prefix>-beau-frère, par alliance	KO,G1	0    	0000-00-00 00:00:00
 stomako	ja	indeed	en effet	KO,G1	0    	0000-00-00 00:00:00
-stomako	-ism-	<suffix> -ism	<suffixe> -isme	KO,G1	0    	0000-00-00 00:00:00
+stomako	-ism-	<suffix> -ism	<suffix>-isme	KO,G1	0    	0000-00-00 00:00:00
 stomako	io	something	quelque chose	KO,G1	0    	0000-00-00 00:00:00
 veturi	veturi	to drive (a vehicle)	conduire (un véhicule)	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 amo	koko	a cock, a hen, chicken, fowl	un coq, une poule, un poulet, une volaille	G5	0    	0000-00-00 00:00:00
@@ -233,7 +233,7 @@ amo	havaĵo	a possession	une possession	AA	0    	0000-00-00 00:00:00
 glacio	ŝafo	a sheep	un mouton	KO,G5,4H	0    	0000-00-00 00:00:00
 amo	sono	a sound	un son	NA	0    	0000-00-00 00:00:00
 glacio	fiŝo	a fish	un poisson	KO,G4,4H	0    	0000-00-00 00:00:00
-soni	bela	beautiful, handsome, pretty	beau, beau, joli	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
+soni	bela	beautiful, handsome, pretty	beau, beau, jolie	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	respondi	to answer, to respond, to reply	répondre, répondre, répondre	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	fojo	an occasion, a time	une occasion, un moment	KO,G2,4H	0    	0000-00-00 00:00:00
 soni	demandi	to ask	demander	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -284,7 +284,7 @@ kontenta	iri	to go	aller	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kontenta	veni	to come	venir	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kontenta	porti	to carry, to wear	porter, porter	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kanti	kovri	to cover	couvrir	KO,G4	0    	0000-00-00 00:00:00
-kanti	hela	bright, clear and light	clair, clair et léger	KO,G4	0    	0000-00-00 00:00:00
+kanti	hela	bright, clear and light	clair, clair et lumineux	KO,G4	0    	0000-00-00 00:00:00
 kanti	sana	healthy	en bonne santé	KO,G4,ZG	0    	0000-00-00 00:00:00
 kanti	aperi	to appear, to emerge	apparaître, émerger	KO,G4,ZG	0    	0000-00-00 00:00:00
 veturi	libro	a book	un livre	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ stomako	merkredo	Wednesday	Mercredi	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	vendredo	Friday	Vendredi	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	fiŝkaptado	fish-catching, catching fishes	attraper du poisson, attraper des poissons	KO,G5,ZG	0    	0000-00-00 00:00:00
 glacio	ilustri	to illustrate	pour illustrer	NA,4H	0    	0000-00-00 00:00:00
-kiom	des	<adv> so much (more, less)	<adv> tellement (plus, moins)	G8	0    	0000-00-00 00:00:00
+kiom	des	<adv> so much (more, less)	<adv>tellement (plus, moins)	G8	0    	0000-00-00 00:00:00
 veturi	sabato	Saturday	Samedi	G7,ZG	0    	0000-00-00 00:00:00
 stomako	ĵaŭdo	Thursday	Jeudi	KO,G5,4H,ZG	0    	0000-00-00 00:00:00
 stomako	mardo	Tuesday	Mardi	KO,G5,ZG	0    	0000-00-00 00:00:00
@@ -647,7 +647,7 @@ stomako	festi	to celebrate, to party	faire la fête, faire la fête	G4	0    	000
 stomako	puŝi	to push	pousser	KO,G4	0    	0000-00-00 00:00:00
 stomako	pomo	an apple	une pomme	KO,G5,4H	0    	0000-00-00 00:00:00
 raporti	saĝa	wise, sage, sagacious	sage, sage, sagace	G6,4H	0    	0000-00-00 00:00:00
-stomako	atenta	attentive, paying attention, careful	attentif, attentif, prudent	KO,G5,ZG	0    	0000-00-00 00:00:00
+stomako	atenta	attentive, paying attention, careful	attentif, attentif, attentif	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	tondi	to shear, to clip, to cut	cisailler, couper, couper	KO,G4	0    	0000-00-00 00:00:00
 stomako	fremda	foreign, alien, strange	étranger, extraterrestre, étrange	KO,G5	0    	0000-00-00 00:00:00
 stomako	verki	to write, to compose, to create	écrire, composer, créer	KO,G4	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ glacio	ŝtupo	a step, a stair, a rung	une marche, un escalier, un barreau	NA	0  
 stomako	bordo	a shore, a waterfront, a bank	un rivage, un front de mer, une banque	KO,G5	0    	0000-00-00 00:00:00
 stomako	justa	fair, just, righteous	juste, juste, juste	KO,G4	0    	0000-00-00 00:00:00
 stomako	lumo	a light	une lumière	KO,G4	0    	0000-00-00 00:00:00
-stomako	malgraŭ ~	<prep> despite ~, in spite of ~	<prep> malgré ~, malgré ~	KO,4H	0    	0000-00-00 00:00:00
+stomako	malgraŭ ~	<prep> despite ~, in spite of ~	<prep>malgré ~, malgré ~	KO,4H	0    	0000-00-00 00:00:00
 hundo	drinkado	drinking action	action de boire	G7	0    	0000-00-00 00:00:00
 glacio	aŭtomobilo	a car, an automobile, a motor car (=aŭto)	une voiture, une automobile, une automobile (=aŭto)	NA	0    	0000-00-00 00:00:00
 veturi	bonvoli	to will (from heart), to want (from heart)	vouloir (du cœur), vouloir (du cœur)	G8,4H	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ kanti	nordo	north	nord	NA	0    	0000-00-00 00:00:00
 stomako	kolekto	collection	collection	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	supro	a top, a summit	un sommet, un sommet	G4	0    	0000-00-00 00:00:00
 stomako	oriento	east	est	G4	0    	0000-00-00 00:00:00
-stomako	ju	<adv> the (more, less)	<adv> le (plus, moins)	KO,G6,4H	0    	0000-00-00 00:00:00
+stomako	ju	<adv> the (more, less)	<adv>le (plus, moins)	KO,G6,4H	0    	0000-00-00 00:00:00
 veturi	sudo	south	sud	G8,ZG	0    	0000-00-00 00:00:00
 stomako	okcidento	west	Ouest	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	juĝi	to judge	juger	KO,G6,4H	0    	0000-00-00 00:00:00
@@ -761,7 +761,7 @@ kanti	prezo	price, a price	un prix, un prix	NA	0    	0000-00-00 00:00:00
 stomako	butono	a button	un bouton	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	ŝuo	a shoe	une chaussure	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	malnova	old (not new)	vieux (pas nouveau)	KO,G6,4H	0    	0000-00-00 00:00:00
-kanti	piki	to pick, to stab, to sting	choisir, poignarder, piquer	NA,ZG	0    	0000-00-00 00:00:00
+kanti	piki	to pick, to stab, to sting	cueillir, poignarder, piquer	NA,ZG	0    	0000-00-00 00:00:00
 stomako	malriĉa	poor	pauvre	KO,G6	0    	0000-00-00 00:00:00
 kanti	informi	to inform, to give information, to report	informer, donner des renseignements, signaler	NA	0    	0000-00-00 00:00:00
 stomako	tegmento	a roof	un toit	KO,G6,ZG	0    	0000-00-00 00:00:00
@@ -782,9 +782,9 @@ stomako	malalta	low	faible	KO	0    	0000-00-00 00:00:00
 kanti	viando	meat, a meat	de la viande, une viande	NA	0    	0000-00-00 00:00:00
 stomako	respekti	to respect	respecter	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	forno	a furnace, a stove, an oven	un fourneau, une cuisinière, un four	G6,ZG	0    	0000-00-00 00:00:00
-stomako	-er-	<suffix> element, small particle of whole	<suffixe> élément, petite particule du tout	G6,4H	0    	0000-00-00 00:00:00
+stomako	-er-	<suffix> element, small particle of whole	<suffix>élément, petite particule du tout	G6,4H	0    	0000-00-00 00:00:00
 veturi	malkovri	to discover, to uncover, to unveil	découvrir, découvrir, dévoiler	KO,G9,ZG	0    	0000-00-00 00:00:00
-kanti	-aĉ-	<suffix> bad, disgusting	<suffixe> mauvais, dégoûtant	NA	0    	0000-00-00 00:00:00
+kanti	-aĉ-	<suffix> bad, disgusting	<suffix>mauvais, dégoûtant	NA	0    	0000-00-00 00:00:00
 veturi	branĉo	a branch, a bough	une branche, un rameau	KO,G9,ZG	0    	0000-00-00 00:00:00
 stomako	malhela	dark, dismal, bleak	sombre, lugubre, lugubre	G6,4H,ZG	0    	0000-00-00 00:00:00
 kanti	mensogi	to lie, to tell a lie	mentir, mentir	NA	0    	0000-00-00 00:00:00
@@ -1030,7 +1030,7 @@ stomako	troa	excessive, undue	excessif, indu	KO	0    	0000-00-00 00:00:00
 stomako	tre agrable!	very nice!	très agréable!	KO	0    	0000-00-00 00:00:00
 stomako	balanci	to swing, to rock	se balancer, se balancer	KO,G6	0    	0000-00-00 00:00:00
 kiom	ŝtrumpo	a stocking	un bas	NA	0    	0000-00-00 00:00:00
-kiom	kontroli	to check, to audit, to check up on	vérifier, auditer, contrôler	NA	0    	0000-00-00 00:00:00
+kiom	kontroli	to check, to audit, to check up on	vérifier, auditer, vérifier	NA	0    	0000-00-00 00:00:00
 stomako	pasto	a paste, a dough	une pâte, une pâte	G8	0    	0000-00-00 00:00:00
 stomako	rektangulo	rectangle, a rectangle	rectangle, un rectangle	KO,G6	0    	0000-00-00 00:00:00
 stomako	falsa	false, counterfeit, fake, forged, spurious	faux, contrefait, faux, forgé, fallacieux	KO,G8,ZG	0    	0000-00-00 00:00:00
@@ -1070,13 +1070,13 @@ veturi	malvarmumo	a cold (caught)	un rhume (attrapé)	NA,4H	0    	0000-00-00 00:
 stomako	salono	a sitting room, a lounge, a salon	un salon, un salon, un salon	G8	0    	0000-00-00 00:00:00
 veturi	konsisti	to consist	consister	NA,4H	0    	0000-00-00 00:00:00
 stomako	hejme	at home	à la maison	G8	0    	0000-00-00 00:00:00
-stomako	spezo	a turnover	un chiffre d'affaires	KO,G8,4H	0    	0000-00-00 00:00:00
+stomako	spezo	a turnover	un chiffre d'affaire	KO,G8,4H	0    	0000-00-00 00:00:00
 stomako	kalendaro	a calendar	un calendrier	KO,G6	0    	0000-00-00 00:00:00
 veturi	imagi	to imagine	imaginer	NA,4H,ZG	0    	0000-00-00 00:00:00
 stomako	fidela	faithful, trustworthy	fidèle, digne de confiance	KO	0    	0000-00-00 00:00:00
 stomako	partopreni	to participate, to take part	participer, prendre part	KO,G8,4H	0    	0000-00-00 00:00:00
 stomako	kastelo	a castle, a citadel	un château, une citadelle	KO,G6	0    	0000-00-00 00:00:00
-stomako	-op-	<suffix> a group in numbers	<suffixe> un groupe en chiffres	G6	0    	0000-00-00 00:00:00
+stomako	-op-	<suffix> a group in numbers	<suffix>un groupe en chiffres	G6	0    	0000-00-00 00:00:00
 veturi	ĉeesti	to attend, to be present at	assister, être présent à	NA,4H	0    	0000-00-00 00:00:00
 stomako	televido	TV, television	Télévision, télévision	G8,4H,ZG	0    	0000-00-00 00:00:00
 stomako	studento	a student (university)	un étudiant (université)	G9	0    	0000-00-00 00:00:00
@@ -1304,7 +1304,7 @@ stomako	okulvitroj	eye-glasses, spectacles, glasses	lunettes, lunettes, lunettes
 stomako	rolo	role, a role, a part	rôle, un rôle, une partie	G9,ZG	0    	0000-00-00 00:00:00
 stomako	rifuzi	to refuse	refuser	KO	0    	0000-00-00 00:00:00
 flughaveno	riproĉi	to reproach, to reprimand, to rebuke, to scold	reprocher, réprimander, réprimander, gronder	NA,4H	0    	0000-00-00 00:00:00
-stomako	fakturo	an invoice, a bill	une facture, une note	G9,4H,ZG	0    	0000-00-00 00:00:00
+stomako	fakturo	an invoice, a bill	une facture, une facture	G9,4H,ZG	0    	0000-00-00 00:00:00
 stomako	sun-floro	a sun-flower	une fleur de tournesol	G6	0    	0000-00-00 00:00:00
 stomako	peli	to propel, to drive, to chase, to impel	propulser, conduire, chasser, pousser	G6	0    	0000-00-00 00:00:00
 stomako	bluzo	a blouse	une blouse	KO	0    	0000-00-00 00:00:00
@@ -1328,7 +1328,7 @@ stomako	lastjare	last year	l'année dernière	G6	0    	0000-00-00 00:00:00
 stomako	vojmontrilo	a landmark, a signpost	un point de repère, un panneau indicateur	G6	0    	0000-00-00 00:00:00
 stomako	kelo	a cellar, a basement	une cave, un sous-sol	KO	0    	0000-00-00 00:00:00
 stomako	firma	firm, stable	ferme, stable	G9,ZG	0    	0000-00-00 00:00:00
-stomako	eks-	<prefix> ex-, former	<préfixe> ex-, ancien	NA	0    	0000-00-00 00:00:00
+stomako	eks-	<prefix> ex-, former	<prefix>ex-, ancien	NA	0    	0000-00-00 00:00:00
 flughaveno	kilogramo	a kilogram	un kilogramme	NA,4H	0    	0000-00-00 00:00:00
 stomako	frago	a strawberry	une fraise	G6	0    	0000-00-00 00:00:00
 stomako	pato	a frying pan	Une poêle à frire	G6	0    	0000-00-00 00:00:00
@@ -1340,10 +1340,10 @@ stomako	matura	mature, ripe	mûr, mûr	G6	0    	0000-00-00 00:00:00
 stomako	kulerego	bucket, a large spoon	un seau, une grande cuillère	G6	0    	0000-00-00 00:00:00
 flughaveno	konduti	to conduct oneself, to behave	se comporter, se comporter	NA,4H	0    	0000-00-00 00:00:00
 stomako	vere	really, genuinly, truly	vraiment, véritablement, véritablement	G9	0    	0000-00-00 00:00:00
-stomako	mis-	<prefix> mis-	<préfixe> erroné	G6	0    	0000-00-00 00:00:00
+stomako	mis-	<prefix> mis-	<prefix>mis-	G6	0    	0000-00-00 00:00:00
 flughaveno	kvieta	quiet, calm	calme, calme	NA,4H	0    	0000-00-00 00:00:00
 stomako	funkcii	to function, to operate, to work	fonctionner, fonctionner, travailler	G6	0    	0000-00-00 00:00:00
-flughaveno	konvena	appropriate, suitable	approprié, convenable	NA,4H	0    	0000-00-00 00:00:00
+flughaveno	konvena	appropriate, suitable	approprié, approprié	NA,4H	0    	0000-00-00 00:00:00
 stomako	turisto	a tourist	un touriste	G9	0    	0000-00-00 00:00:00
 stomako	honti	to be ashamed	avoir honte	G6	0    	0000-00-00 00:00:00
 kontenta	averti	to warn, to caution	avertir, mettre en garde	NA,4H	0    	0000-00-00 00:00:00
@@ -1354,15 +1354,15 @@ stomako	pacienca	patient	patient	G6	0    	0000-00-00 00:00:00
 stomako	mieno	a (facial) expression	une expression (visage)	KO,G9	0    	0000-00-00 00:00:00
 stomako	pensio	pension, annuity	pension, rente	G8,4H	0    	0000-00-00 00:00:00
 kontenta	princo	a prince	un prince	NA,4H	0    	0000-00-00 00:00:00
-stomako	sorto	destiny, fate, fortune	destin, sort, fortune	G6	0    	0000-00-00 00:00:00
-stomako	-end-	<suffix> obligation	<suffixe> obligation	G6	0    	0000-00-00 00:00:00
+stomako	sorto	destiny, fate, fortune	destin, destin, fortune	G6	0    	0000-00-00 00:00:00
+stomako	-end-	<suffix> obligation	<suffix>obligation	G6	0    	0000-00-00 00:00:00
 stomako	longaj ŝtrumpoj	long stockings	bas longs	G9	0    	0000-00-00 00:00:00
 stomako	barbo	beard	barbe	G9,4H	0    	0000-00-00 00:00:00
-stomako	-ing-	<suffix> long holder, socket	<suffixe> support long, douille	G6	0    	0000-00-00 00:00:00
+stomako	-ing-	<suffix> long holder, socket	<suffix>support long, douille	G6	0    	0000-00-00 00:00:00
 stomako	bongusta	delicious, good-tasted	délicieux, bon goût	G9	0    	0000-00-00 00:00:00
 kontenta	flegi	to take care of, to nurse	soigner, soigner	NA,4H	0    	0000-00-00 00:00:00
-stomako	-njo	<suffix> female pet name	<suffixe> nom d'animal femelle	G6	0    	0000-00-00 00:00:00
-stomako	-ĉjo	<suffix> male pet name	<suffixe> nom d'animal mâle	G9	0    	0000-00-00 00:00:00
+stomako	-njo	<suffix> female pet name	<suffix>nom d'animal femelle	G6	0    	0000-00-00 00:00:00
+stomako	-ĉjo	<suffix> male pet name	<suffix>nom d'animal mâle	G9	0    	0000-00-00 00:00:00
 kontenta	plugi	to plow, to plough, to till	labourer, labourer, labourer	NA,4H	0    	0000-00-00 00:00:00
 stomako	amletero	a loveletter	une lettre d'amour	G6	0    	0000-00-00 00:00:00
 stomako	glaso da	a glass of	un verre de	G9	0    	0000-00-00 00:00:00
@@ -1632,7 +1632,7 @@ stomako	kvanto	quantity, amount	quantité, montant	NA	0    	0000-00-00 00:00:00
 stomako	batilo	a bat (to hit)	une batte (pour frapper)	G9	0    	0000-00-00 00:00:00
 stomako	kvalito	quality, property	qualité, propriété	NA,4H	0    	0000-00-00 00:00:00
 stomako	laŭte	loudly, aloud	fort, à haute voix	ZG	0    	0000-00-00 00:00:00
-stomako	-ut-	<suffix> conditional passive	<suffixe> passif conditionnel	ZG	0    	0000-00-00 00:00:00
+stomako	-ut-	<suffix> conditional passive	<suffix>passif conditionnel	ZG	0    	0000-00-00 00:00:00
 stomako	kristnasko	Christmas	Noël	ZG	0    	0000-00-00 00:00:00
 stomako	vivo	a life	une vie	KO,G7	0    	0000-00-00 00:00:00
 stomako	freneza	crazy, insane, mad	fou, fou, fou	NA	0    	0000-00-00 00:00:00
@@ -1839,7 +1839,7 @@ stomako	peki	to sin	pécher	G7	0    	0000-00-00 00:00:00
 stomako	fandi	to melt	fondre	NA	0    	0000-00-00 00:00:00
 stomako	malĝusta	incorrect	Incorrect	G7	0    	0000-00-00 00:00:00
 stomako	faldo	a fold	un pli	G7	0    	0000-00-00 00:00:00
-stomako	skulpti	to sculpture, to carve	sculpter, tailler	G9	0    	0000-00-00 00:00:00
+stomako	skulpti	to sculpture, to carve	sculpter, sculpter	G9	0    	0000-00-00 00:00:00
 stomako	roko	a rock	un rocher	4H	0    	0000-00-00 00:00:00
 stomako	malfrue	later and delayed	plus tard et retardé	G7	0    	0000-00-00 00:00:00
 stomako	statuo	a statue	une statue	G7	0    	0000-00-00 00:00:00
@@ -1933,7 +1933,7 @@ stomako	lama	lame, feeble, hobbling	boiteux, faible, boiteux	NA	0    	0000-00-00
 stomako	ĉielarko	a rainbow	un arc-en-ciel	G7	0    	0000-00-00 00:00:00
 stomako	adiaŭi	to bid adieu, to say goodbye	dire adieu, dire au revoir	NA	0    	0000-00-00 00:00:00
 stomako	biblioteko	a library	une bibliothèque	4H	0    	0000-00-00 00:00:00
-stomako	antikva	antique, ancient	antique, antique	G7	0    	0000-00-00 00:00:00
+stomako	antikva	antique, ancient	antique, ancien	G7	0    	0000-00-00 00:00:00
 stomako	societo	a small society	une petite société	G7	0    	0000-00-00 00:00:00
 stomako	antaŭ-hieraŭ	before yesterday, the day before yesterday	avant-hier, avant-hier	NA	0    	0000-00-00 00:00:00
 stomako	abio	a fir	un sapin	G7	0    	0000-00-00 00:00:00
@@ -2014,7 +2014,7 @@ stomako	instinkto	instinct, an instinct	instinct, un instinct	G7	0    	0000-00-0
 stomako	proks. (proksimume)	approximately	environ	G9	0    	0000-00-00 00:00:00
 stomako	briko	a brick, a block	une brique, un bloc	G7	0    	0000-00-00 00:00:00
 stomako	nesto	a nest, a den	un nid, une tanière	G7	0    	0000-00-00 00:00:00
-stomako	p.k. (poŝtkarto)	p.c. (postcard)	c.p. (carte postale)	G7	0    	0000-00-00 00:00:00
+stomako	p.k. (poŝtkarto)	p.c. (postcard)	ordinateur (carte postale)	G7	0    	0000-00-00 00:00:00
 stomako	ledo	leather, a leather	du cuir, un cuir	PA	0    	0000-00-00 00:00:00
 stomako	mamulo (mambesto)	a mammal	un mammifère	NA	0    	0000-00-00 00:00:00
 stomako	formiko	an ant	une fourmi	4H	0    	0000-00-00 00:00:00
@@ -2046,7 +2046,7 @@ stomako	k-do (kamarado)	Commrade	Camarade	4H	0    	0000-00-00 00:00:00
 stomako	streko	a stroke, a line segment, a streak	un trait, un segment de ligne, une traînée	G7	0    	0000-00-00 00:00:00
 stomako	sinteno	an attitude	une attitude	G7	0    	0000-00-00 00:00:00
 stomako	ĉerpi	to draw (water), to extract, to ladle, to scoop	puiser (de l'eau), extraire, verser à la louche, puiser	G7	0    	0000-00-00 00:00:00
-stomako	k.a. (kaj aliaj)	and others (=k.c. (kaj ceteraj))	et autres (=k.c. (kaj ceteraj))	4H	0    	0000-00-00 00:00:00
+stomako	k.a. (kaj aliaj)	and others (=k.c. (kaj ceteraj))	et autres (=kc (kaj ceteraj))	4H	0    	0000-00-00 00:00:00
 stomako	singarda	cautious, careful	prudent, prudent	G7	0    	0000-00-00 00:00:00
 stomako	alumeto	a match, a matchstick	une allumette, une allumette	G9	0    	0000-00-00 00:00:00
 stomako	najlo	a nail	un ongle	NA	0    	0000-00-00 00:00:00
@@ -2118,7 +2118,7 @@ stomako	aleo	an alley, a tree lined street, a path (garden)	une ruelle, une rue 
 stomako	junulara gastejo	a youth hostel	une auberge de jeunesse	4H	0    	0000-00-00 00:00:00
 stomako	masoni	to build, to mason	construire, maçonner	4H	0    	0000-00-00 00:00:00
 stomako	drinkejo	a pub, a bar	un pub, un bar	NA	0    	0000-00-00 00:00:00
-stomako	i.a. (inter aliaj)	i.a. (among others)	c'est-à-dire (entre autres)	4H	0    	0000-00-00 00:00:00
+stomako	i.a. (inter aliaj)	i.a. (among others)	ia (entre autres)	4H	0    	0000-00-00 00:00:00
 stomako	IKU (Internacia Kongresa Universitato)	ICU (International Congress University)	ICU (Université Internationale du Congrès)	NA	0    	0000-00-00 00:00:00
 stomako	specimeno	a specimen, a sample	un spécimen, un échantillon	G9	0    	0000-00-00 00:00:00
 stomako	seruro	a lock	un verrou	4H	0    	0000-00-00 00:00:00
@@ -2139,7 +2139,7 @@ stomako	eksporti	to export	exporter	G9,4H	0    	0000-00-00 00:00:00
 stomako	bazo	a basis	une base	4H	0    	0000-00-00 00:00:00
 stomako	atendejo	a waiting room	une salle d'attente	G9,4H	0    	0000-00-00 00:00:00
 stomako	veti	to bet, to gamble, to wager	parier, parier, parier	4H	0    	0000-00-00 00:00:00
-stomako	P.S. (Posta Skribo)	p.s.	p.s.	4H	0    	0000-00-00 00:00:00
+stomako	P.S. (Posta Skribo)	p.s.	ps	4H	0    	0000-00-00 00:00:00
 stomako	fungo	a mushroom, afungus	un champignon, un champignon	G9	0    	0000-00-00 00:00:00
 stomako	P.V. (Plena Vortaro)	Complete Dictionary	Dictionnaire complet	NA	0    	0000-00-00 00:00:00
 stomako	relo	a rail	un rail	4H	0    	0000-00-00 00:00:00
@@ -2216,7 +2216,7 @@ stomako	metodo	a method	une méthode	KO,G8	0    	0000-00-00 00:00:00
 stomako	cepo	an onion	un oignon	4H	0    	0000-00-00 00:00:00
 stomako	invadi	to invade	envahir	4H	0    	0000-00-00 00:00:00
 stomako	adicii	to add, to add up	ajouter, additionner	KO,G8	0    	0000-00-00 00:00:00
-stomako	duopa	dual, duette	double, duo	4H	0    	0000-00-00 00:00:00
+stomako	duopa	dual, duette	double, duette	4H	0    	0000-00-00 00:00:00
 stomako	elektrejo	an electric plant, a power plant (=centralo)	une centrale électrique, une centrale électrique (=centralo)	4H	0    	0000-00-00 00:00:00
 stomako	partoprenanto	a participant	un participant	G9	0    	0000-00-00 00:00:00
 stomako	elektroterapio	an electric therapy	une thérapie électrique	G7	0    	0000-00-00 00:00:00
@@ -2225,7 +2225,7 @@ stomako	dieto	a diet	un régime	G7	0    	0000-00-00 00:00:00
 stomako	kruela	cruel	cruel	OA	0    	0000-00-00 00:00:00
 stomako	idealo	an ideal	un idéal	G9,4H	0    	0000-00-00 00:00:00
 stomako	inteligenta	intelligent, clever, smart	intelligent, astucieux, intelligent	G7	0    	0000-00-00 00:00:00
-stomako	enverŝi	to pour in	verser dedans	G7	0    	0000-00-00 00:00:00
+stomako	enverŝi	to pour in	verser	G7	0    	0000-00-00 00:00:00
 stomako	sistemo	system, a system	système, un système	NA	0    	0000-00-00 00:00:00
 stomako	basbalo	baseball	base-ball	KO,G8	0    	0000-00-00 00:00:00
 stomako	obeema	obedient	obéissant	G9	0    	0000-00-00 00:00:00
@@ -2391,7 +2391,7 @@ stomako	heredi	to inherit	Hériter	OA	0    	0000-00-00 00:00:00
 stomako	flugbileto	an air ticket	un billet d'avion	NA	0    	0000-00-00 00:00:00
 stomako	robo	a dress	une robe	ZG	0    	0000-00-00 00:00:00
 stomako	egipto	an Egyptian person	un Égyptien	NA	0    	0000-00-00 00:00:00
-stomako	-unt	<suffix> conditional active	<suffixe> conditionnel actif	G8	0    	0000-00-00 00:00:00
+stomako	-unt	<suffix> conditional active	<suffix>actif conditionnel	G8	0    	0000-00-00 00:00:00
 stomako	frenezulo	a fanatic, a lunatic, a maniac	un fanatique, un fou, un maniaque	NA	0    	0000-00-00 00:00:00
 stomako	ekde	since	depuis	ZG	0    	0000-00-00 00:00:00
 stomako	observi	to observe	observer	ZG	0    	0000-00-00 00:00:00
@@ -2550,7 +2550,7 @@ stomako	irako	Iraq	Irak	ZG	0    	0000-00-00 00:00:00
 stomako	resumo	a summary, a digest, a résumé, a sum-up	un résumé, un résumé, un curriculum vitae, un résumé	G9	0    	0000-00-00 00:00:00
 stomako	promeno	a promenade, a walking	une promenade, une promenade	OA	0    	0000-00-00 00:00:00
 stomako	horizontalo	a horizontal line	une ligne horizontale	G8	0    	0000-00-00 00:00:00
-stomako	fi-	<prefix> shameful, disgusting, dirty	<préfixe> honteux, dégoûtant, sale	NA	0    	0000-00-00 00:00:00
+stomako	fi-	<prefix> shameful, disgusting, dirty	<prefix>honteux, dégoûtant, sale	NA	0    	0000-00-00 00:00:00
 stomako	aŭkcio	an auction	une vente aux enchères	G9	0    	0000-00-00 00:00:00
 stomako	konkludi	to conclude	de conclure	G8	0    	0000-00-00 00:00:00
 stomako	salivo	saliva, slaver	salive, esclavagiste	OA	0    	0000-00-00 00:00:00
@@ -2668,7 +2668,7 @@ stomako	rezisti	to resist	à résister	G7	0    	0000-00-00 00:00:00
 stomako	alfabeto	alphabet	alphabet	NA	0    	0000-00-00 00:00:00
 stomako	rampi	to crawl, to creep	ramper, ramper	G8	0    	0000-00-00 00:00:00
 stomako	transporti	to transport	transporter	G9	0    	0000-00-00 00:00:00
-stomako	pupilo	pupil (apple of the eye)	pupille (prune de l'oeil)	G9	0    	0000-00-00 00:00:00
+stomako	pupilo	pupil (apple of the eye)	pupille (prune de l'œil)	G9	0    	0000-00-00 00:00:00
 stomako	muskolo	a muscle	un muscle	G8	0    	0000-00-00 00:00:00
 stomako	beni	to bless	bénir	G8	0    	0000-00-00 00:00:00
 stomako	profito	a profit, a gain	un profit, un gain	OA	0    	0000-00-00 00:00:00
@@ -2707,7 +2707,6 @@ stomako	konvalo	a lily of the valley	un muguet	G9	0    	0000-00-00 00:00:00
 stomako	egoismo	egoism, egotism, selfishness	égoïsme, égoïsme, égoïsme	G8	0    	0000-00-00 00:00:00
 stomako	kinejo	a cinema, a movie theater	un cinéma, une salle de cinéma	NA	0    	0000-00-00 00:00:00
 stomako	rezervita	reserved	réservé	G8	0    	0000-00-00 00:00:00
-stomako	Petro	Peter	Pierre	G8	0    	0000-00-00 00:00:00
 stomako	kolono	column, a column, a pillar	colonne, une colonne, un pilier	NA	0    	0000-00-00 00:00:00
 stomako	deklari	to declare	déclarer	G8	0    	0000-00-00 00:00:00
 stomako	kirurgo	a surgeon (=ĥirurgo)	un chirurgien (=ĥirurgo)	NA	0    	0000-00-00 00:00:00
@@ -2910,7 +2909,7 @@ stomako	putri	to utrefy, to putrify, to decay, to fester	utréfier, putréfier, 
 stomako	melki	to milk	traire	KO,G9	0    	0000-00-00 00:00:00
 stomako	signalo	a signal, a sign	un signal, un signe	G8	0    	0000-00-00 00:00:00
 stomako	lifto	a lift, an elevator	un ascenseur, un ascenseur	G8	0    	0000-00-00 00:00:00
-stomako	intensa	intense, intensive	intense, intense	G8	0    	0000-00-00 00:00:00
+stomako	intensa	intense, intensive	intense, intensif	G8	0    	0000-00-00 00:00:00
 stomako	ekvilibro	an equilibrium, balance	un équilibre, un équilibre	OA	0    	0000-00-00 00:00:00
 stomako	tradicio	a tradition	une tradition	OA	0    	0000-00-00 00:00:00
 stomako	enigmo	an enigma, a puzzle, a riddle	une énigme, un puzzle, une énigme	G8	0    	0000-00-00 00:00:00
@@ -2990,12 +2989,12 @@ stomako	ritmo	rhythm	rythme	OA	0    	0000-00-00 00:00:00
 stomako	broŝuro	a brochure, a leaflet, a pamphlet	une brochure, un dépliant, un dépliant	OA	0    	0000-00-00 00:00:00
 stomako	orfejo	an orphanage	un orphelinat	G8	0    	0000-00-00 00:00:00
 stomako	ornamaĵo	an ornament	un ornement	OA	0    	0000-00-00 00:00:00
-stomako	provizora	provisional, temporary	provisoire, provisoire	G8	0    	0000-00-00 00:00:00
+stomako	provizora	provisional, temporary	provisoire, temporaire	G8	0    	0000-00-00 00:00:00
 stomako	kalkano	a heel	un talon	OA	0    	0000-00-00 00:00:00
 stomako	apoteko	a pharmacy, a drugstore	une pharmacie, une parapharmacie	OA	0    	0000-00-00 00:00:00
 stomako	jaguaro	a jaguar	un jaguar	G8	0    	0000-00-00 00:00:00
 stomako	persimono	a persimon	un kaki	G8	0    	0000-00-00 00:00:00
-stomako	pesilo	a balance, a scale	une balance, une balance	OA	0    	0000-00-00 00:00:00
+stomako	pesilo	a balance, a scale	une balance, une échelle	OA	0    	0000-00-00 00:00:00
 stomako	improvizi	to improvise	improviser	OA	0    	0000-00-00 00:00:00
 stomako	fosto	a post, a pole, an upright support	un poteau, un poteau, un support vertical	G8	0    	0000-00-00 00:00:00
 stomako	pico	a pizza	une pizza	OA	0    	0000-00-00 00:00:00
@@ -3119,7 +3118,7 @@ stomako	gladi	to iron (clothes)	Repasser des vêtements)	G9	0    	0000-00-00 00:
 stomako	kalsono	an underwear, underpants, shorts	un sous-vêtement, un caleçon, un short	NA	0    	0000-00-00 00:00:00
 stomako	aktoro	an actor	un acteur	G8	0    	0000-00-00 00:00:00
 stomako	valida	valid	valide	G9	0    	0000-00-00 00:00:00
-stomako	ruso	a Russian	un russe	NA	0    	0000-00-00 00:00:00
+stomako	ruso	a Russian	un Russe	NA	0    	0000-00-00 00:00:00
 stomako	glita	gliding, slippery	glissant, glissant	G8	0    	0000-00-00 00:00:00
 stomako	fantazio	a fantasy	un fantasme	G8	0    	0000-00-00 00:00:00
 stomako	ŝargi	to load, to charge	charger, charger	NA	0    	0000-00-00 00:00:00
@@ -3917,7 +3916,7 @@ stomako	vekhorloĝo	an alarm clock (waking)	un réveil (réveil)	OA	0    	0000-0
 stomako	sigeli	to seal, to stamp, to mark	sceller, tamponner, marquer	G9	0    	0000-00-00 00:00:00
 stomako	aveno	oats	avoine	G9	0    	0000-00-00 00:00:00
 stomako	primitiva	primitive	primitif	OA	0    	0000-00-00 00:00:00
-stomako	koketa	coquettish, cute, kinky, saucy, flirtatious	coquette, mignonne, coquine, impertinente, coquette	NA	0    	0000-00-00 00:00:00
+stomako	koketa	coquettish, cute, kinky, saucy, flirtatious	coquet, mignon, coquin, impertinent, coquette	NA	0    	0000-00-00 00:00:00
 stomako	lamenti	to lament, to grieve	se lamenter, s'affliger	NA	0    	0000-00-00 00:00:00
 stomako	sigelo	a seal	un joint	G9	0    	0000-00-00 00:00:00
 stomako	refo	a reef, a reef (sail)	un récif, un récif (voile)	NA,4H	0    	0000-00-00 00:00:00
@@ -4103,7 +4102,7 @@ stomako	norda poluso	North Pole	pôle Nord	NA	0    	0000-00-00 00:00:00
 stomako	hortensio	hydrangea, Hortensia (Hydrangea hortensis)	hortensia, Hortensia (Hydrangea hortensis)	G9	0    	0000-00-00 00:00:00
 stomako	asfalto	an asphalt, a pitch	un asphalte, un emplacement	G9	0    	0000-00-00 00:00:00
 stomako	volejbalo	volleyball	volley-ball	G9	0    	0000-00-00 00:00:00
-stomako	tarifo	a tariff, a list of prices, a rate	un tarif, une liste de prix, un tarif	NA	0    	0000-00-00 00:00:00
+stomako	tarifo	a tariff, a list of prices, a rate	un tarif, une liste de prix, un taux	NA	0    	0000-00-00 00:00:00
 stomako	larvo	a larva, a grub	une larve, un ver	NA	0    	0000-00-00 00:00:00
 stomako	vulturo	a vulture	un vautour	OA	0    	0000-00-00 00:00:00
 stomako	buŝtuko	a napkin	une serviette	NA	0    	0000-00-00 00:00:00
@@ -4411,7 +4410,7 @@ stomako	indiĝeno	an indigenous person, an aborigene	une personne autochtone, un
 stomako	balkono	a balcony	un balcon	NA	0    	0000-00-00 00:00:00
 stomako	cico	a nipple	un mamelon	OA	0    	0000-00-00 00:00:00
 stomako	abstrakti	to abstract	faire abstraction	OA	0    	0000-00-00 00:00:00
-stomako	poŝtmarko	a postage stamp (=p.m.)	un timbre-poste (=après-midi)	NA	0    	0000-00-00 00:00:00
+stomako	poŝtmarko	a postage stamp (=p.m.)	un timbre-poste (=pm)	NA	0    	0000-00-00 00:00:00
 stomako	sportejo	a sports ground	un terrain de sport	NA	0    	0000-00-00 00:00:00
 stomako	polemiko	a polemic, a controversy, a dispute	une polémique, une controverse, un différend	NA	0    	0000-00-00 00:00:00
 stomako	sirio	Syria	Syrie	OA	0    	0000-00-00 00:00:00
@@ -4441,7 +4440,7 @@ stomako	telefoni	to call, to phone	appeler, téléphoner	OA	0    	0000-00-00 00:
 stomako	utopio	utopia	utopie	NA	0    	0000-00-00 00:00:00
 stomako	manifestacio	a demonstration	une démonstration	OA	0    	0000-00-00 00:00:00
 stomako	vendisto	a seller, a salesman, a vendor	un vendeur, un vendeur, un vendeur	OA	0    	0000-00-00 00:00:00
-stomako	ĉikani	to quibble, to harass	chicaner, harceler	NA	0    	0000-00-00 00:00:00
+stomako	ĉikani	to quibble, to harass	chipoter, harceler	NA	0    	0000-00-00 00:00:00
 stomako	satano	a Satan, a devil	un Satan, un diable	OA	0    	0000-00-00 00:00:00
 stomako	maldekstra	left (direction)	à gauche (direction)	OA	0    	0000-00-00 00:00:00
 stomako	kuirejo	a kitchen	une cuisine	OA	0    	0000-00-00 00:00:00
@@ -4774,7 +4773,7 @@ stomako	bibliografio	bibliography	bibliographie	OA	0    	0000-00-00 00:00:00
 stomako	disenterio	dysentery	dysenterie	OA	0    	0000-00-00 00:00:00
 stomako	dispepsio	dyspepsia, indigestion	dyspepsie, indigestion	NA,4H	0    	0000-00-00 00:00:00
 stomako	klaĉi	to gossip, to clack	bavarder, claquer	OA	0    	0000-00-00 00:00:00
-stomako	alkovo	an alcove, a recess	une alcôve, un recoin	NA,4H	0    	0000-00-00 00:00:00
+stomako	alkovo	an alcove, a recess	une alcôve, une niche	NA,4H	0    	0000-00-00 00:00:00
 stomako	dialektiko	dialectics	dialectique	OA	0    	0000-00-00 00:00:00
 stomako	dromedaro	dromedary	dromadaire	OA	0    	0000-00-00 00:00:00
 stomako	groteska	grotesque, ludicrous	grotesque, ridicule	NA,4H	0    	0000-00-00 00:00:00
@@ -5624,7 +5623,7 @@ stomako	fajfilo	a whistle	un sifflet	OA	0    	0000-00-00 00:00:00
 stomako	faladpupo	a roly poly toy	un jouet roly poly	OA	0    	0000-00-00 00:00:00
 stomako	falĉilo	a scythe	une faux	OA	0    	0000-00-00 00:00:00
 stomako	farbisto	a painter	un peintre	OA	0    	0000-00-00 00:00:00
-stomako	fasto	fasting (abstaining from food), fast	jeûner (s'abstenir de manger), jeûner	OA	0    	0000-00-00 00:00:00
+stomako	fasto	fasting (abstaining from food), fast	jeûner (s'abstenir de nourriture), jeûner	OA	0    	0000-00-00 00:00:00
 stomako	fazano	a pheasant	un faisan	OA	0    	0000-00-00 00:00:00
 stomako	figursketado	a figure skating (=artsketado)	un patinage artistique (=artsketado)	OA	0    	0000-00-00 00:00:00
 stomako	flava sablero	a yellow sand	un sable jaune	OA	0    	0000-00-00 00:00:00
@@ -5836,7 +5835,7 @@ stomako	pikniki	to picnic, to go on a picnic	pique-niquer, aller pique-niquer	NA
 stomako	avataro	an avatar	un avatar	NA	0    	0000-00-00 00:00:00
 stomako	centavo	a centavo	un centavo	NA	0    	0000-00-00 00:00:00
 stomako	branpano	a wholemeal bread	un pain complet	NA	0    	0000-00-00 00:00:00
-stomako	aermatraco	an airbed	un matelas pneumatique	NA	0    	0000-00-00 00:00:00
+stomako	aermatraco	an airbed	un matelas gonflable	NA	0    	0000-00-00 00:00:00
 stomako	banĝo	a banjo	un banjo	NA	0    	0000-00-00 00:00:00
 stomako	bideo	a bidet	un bidet	NA	0    	0000-00-00 00:00:00
 stomako	apendico	appendix	annexe	NA	0    	0000-00-00 00:00:00
@@ -5883,7 +5882,7 @@ stomako	Antono	Anthony	Antoine	NA	0    	0000-00-00 00:00:00
 stomako	Anno	Anna	Anna	NA	0    	0000-00-00 00:00:00
 stomako	Berto	Bert	Bert	NA	0    	0000-00-00 00:00:00
 stomako	apelacio	an appeal, an accuser	un appel, un accusateur	NA	0    	0000-00-00 00:00:00
-stomako	antimono	<chem> antimony	<chem> antimoine	NA	0    	0000-00-00 00:00:00
+stomako	antimono	<chem> antimony	<chem>antimoine	NA	0    	0000-00-00 00:00:00
 stomako	apokrifo	apocrypha	apocryphes	NA	0    	0000-00-00 00:00:00
 stomako	apoteozo	apotheosis	apothéose	NA	0    	0000-00-00 00:00:00
 stomako	ardezo	slate	ardoise	NA	0    	0000-00-00 00:00:00
@@ -5903,7 +5902,7 @@ stomako	ĉano	a cock (of a gun), a hammer (of a gun)	un coq (d'un pistolet), un 
 stomako	afekcii	to affect	Affecter	NA	0    	0000-00-00 00:00:00
 stomako	hardi	to toughen	durcir	NA	0    	0000-00-00 00:00:00
 stomako	areno	an arena	une arène	NA	0    	0000-00-00 00:00:00
-stomako	arseniko	<chem> arsenic	<chim> arsenic	NA	0    	0000-00-00 00:00:00
+stomako	arseniko	<chem> arsenic	<chem>arsenic	NA	0    	0000-00-00 00:00:00
 stomako	borakso	borax	borax	NA	0    	0000-00-00 00:00:00
 stomako	aspiro	aspiration	aspiration	NA	0    	0000-00-00 00:00:00
 stomako	atribuo	attribution, allocation	attribution, répartition	NA	0    	0000-00-00 00:00:00

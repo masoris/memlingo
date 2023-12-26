@@ -272,7 +272,7 @@ var lang_msgs = {
         "Btn_Start_learning": "開始學習",
         "btn_continue": "下一個",
         "btn_listen_continue": "聽完之後",
-        "btn_listen": " 聽",
+        "btn_listen": "聽",
         "btn_hard": "好難",
         "btn_easy": "簡單",
         "btn_too_easy": "很簡單",
@@ -387,9 +387,9 @@ var lang_msgs = {
         "btn_continue": "Tiếp tục",
         "btn_listen_continue": "Nghe và tiếp tục",
         "btn_listen": "Nghe này",
-        "btn_hard": "Khó cho tôi",
-        "btn_easy": "Dễ dàng với tôi",
-        "btn_too_easy": "Nó rất đơn giản",
+        "btn_hard": "Khó",
+        "btn_easy": "Dễ",
+        "btn_too_easy": "Quá dễ",
         "btn_login": "Đăng nhập",
         "Btn_StartA": "Bắt đầu học",
         "Btn_logout": "Đăng xuất",
@@ -453,6 +453,7 @@ function display_message() {
     display_msg("Btn_StartC", "value", "Btn_StartA");
     display_msg("Btn_StartL", "value", "Btn_StartA");
     display_msg("Btn_StartH", "value", "Btn_StartA");
+    display_msg("Btn_StartK", "value", "Btn_StartA");
     display_msg("Btn_logout", "value", "Btn_logout");
     display_msg("wordsA", "innerText", "wordsA");
     display_msg("words_to_reviewA", "innerText", "words_to_reviewA");
@@ -484,6 +485,12 @@ function display_message() {
     display_msg("masteredH", "innerText", "masteredA");
     display_msg("progressH", "innerText", "progressA");
     display_msg("pointsH", "innerText", "pointsA");
+    display_msg("wordsK", "innerText", "wordsA");
+    display_msg("words_to_reviewK", "innerText", "words_to_reviewA");
+    display_msg("familiarK", "innerText", "familiarA");
+    display_msg("masteredK", "innerText", "masteredA");
+    display_msg("progressK", "innerText", "progressA");
+    display_msg("pointsK", "innerText", "pointsA");
 
     // if ($('lang').value == 'ko-kr') {
     //     $('email1').placeholder = "이메일 주소를 입력해 주세요.";

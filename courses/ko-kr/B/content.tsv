@@ -129,8 +129,8 @@ Kelkaj demandoj	perfekte!	완벽해요!	perfect!	Kelkaj demandoj			en
 Kelkaj demandoj	do, ĝis tiam!	자, 그때까지!	well, see you then!	Kelkaj demandoj			en
 Kelkaj demandoj	ĝis poste!	다음까지!	see you later!	Kelkaj demandoj			en
 Kelkaj demandoj	vespere, ankaŭ ĉe la tujmesaĝilo	저녁에, 메신저에서도	in the evening, also at the instant messenger	Kelkaj demandoj			en
-Kelkaj demandoj	resaluton!	또 안녕!	hello again! (re-)	Kelkaj demandoj			en
-Kelkaj demandoj	saluton denove!	다시 안녕!	hello again!	Kelkaj demandoj			en
+Kelkaj demandoj	resaluton!	또 안녕! (re-)	hello again! (re-)	Kelkaj demandoj			en
+Kelkaj demandoj	saluton denove!	안녕 다시!	hello again!	Kelkaj demandoj			en
 Kelkaj demandoj	mi rigardis preskaŭ ĉiujn paĝojn de la paĝaro	나는 이 사이트의 거의 모든 페이지를 다 봤다	I looked almost all pages from the site	Kelkaj demandoj			en
 Kelkaj demandoj	bonege!	대단히 좋아요!	quite good! awesome!	Kelkaj demandoj			en
 Kelkaj demandoj	mi havas kelkajn demandojn	몇개의 질문이 있습니다	I have several questions	Kelkaj demandoj			en
@@ -446,7 +446,7 @@ Akceptiĝo	sed memoru ke ~	하지만 ~임을 기억하라	but remember that ~	Ak
 Akceptiĝo	laboras dum ok horoj	여덟시간 동안 일하고 있다	are working for 8 hours	Akceptiĝo			en
 Akceptiĝo	la LKK laboras jam dum eble ok horoj	대회조직위원회는 이미 아마 8시간 동안 일하고 있다	the LKK has been working for maybe eight hours	Akceptiĝo		la Lo-Ko-Ko laboras jam dum eble ok horoj 	en
 Akceptiĝo	sen multe da paŭzoj	많은 휴식 없이	without much pause	Akceptiĝo			en
-Akceptiĝo	sed memoru ke la LKK laboras sen paŭzoj	대회조직위원회는 쉬지 않고 일한다는 것을 기억하라	but remember that the LKK works without breaks	Akceptiĝo		sed memoru ke la Lo-Ko-Ko laboras sen paŭzoj	en
+Akceptiĝo	sed memoru ke la LKK laboras sen paŭzoj	그러나 대회조직위원회는 쉬지 않고 일한다는 것을 기억하라	but remember that the LKK works without breaks	Akceptiĝo		sed memoru ke la Lo-Ko-Ko laboras sen paŭzoj	en
 Komenco	babilema dum la semajno	주중에는 더 말을 많이 하는	chatty during the week	Komenco			en
 Komenco	mi certas ke ~	나는 확신한다	I'm sure that ~	Komenco			en
 Komenco	mi certas ke ili estos pli afablaj	그들이 더 친절할 것이라고 나는 확신한다	I'm sure they'll be kinder	Komenco			en
@@ -550,7 +550,7 @@ Gardanĝeloj	dum eble 100 metroj	대략 100 미터 동안	for maybe 100 meters	G
 Gardanĝeloj	dekstren denove, rekten dum eble 100 metroj	다시 오른쪽으로, 직진으로 100 미터 동안	right again, straight for maybe 100 meters	Gardanĝeloj		dekstren denove, rekten dum eble cent metroj	en
 Gardanĝeloj	kaj estas flava domo	그리고 노란색 집이 있다	and there is a yellow house	Gardanĝeloj			en
 Gardanĝeloj	je la maldekstra flanko de la vojo	그 길의 왼쪽 편에	on the left side of the road	Gardanĝeloj			en
-Gardanĝeloj	ŝildoj pri ĉiuj ejoj de IJK	청년대회(IJK) 모든 장소에 대한 표지판	signs about all IJK sites	Gardanĝeloj		ŝildoj pri ĉiuj ejoj de Yi-Jo-Ko	en
+Gardanĝeloj	ŝildoj pri ĉiuj ejoj de IJK	청년대회(IJK) 모든 장소에 대한 표지판들	signs about all IJK sites	Gardanĝeloj		ŝildoj pri ĉiuj ejoj de Yi-Jo-Ko	en
 Gardanĝeloj	en ĝi, vi trovos ŝildojn pri ĉiuj ejoj de IJK	그 속에서, 청년대회(IJK) 모든 장소에 대한 표지판을 볼 수 있을 것이다	in it, you will find signs about all IJK sites	Gardanĝeloj		en ĝi, vi trovos ŝildojn pri ĉiuj ejoj de Yi-Jo-Ko	en
 Gardanĝeloj	mi sendos mesaĝon per poŝtelefono	휴대폰으로 메세지를 보낼께요	I will send a message by mobile phone	Gardanĝeloj			en
 Gardanĝeloj	se mi ne trovos	내가 못 찾으면	if I don't find it	Gardanĝeloj			en
@@ -703,11 +703,11 @@ Gufujo	kie eblus trovi tiun strangan knabinon?	도대체 어디서 그런 이상
 Gufujo	trovi tiun strangan sed tre belan knabinon	그 이상하지만 매우 아름다운 소녀를 찾아내기	to find that strange but very beautiful girl	Gufujo			en
 Gufujo	ideo kie eblus trovi ~	~를 어디서 찾을 수 있을까 하는 아이디어	idea where it could be found ~	Gufujo			en
 Gufujo	havas ideon kie eblus trovi ~	~를 어디에서 찾을 수 있을지 아이디어를 가지고 있다	has an idea where it would be possible to find ~	Gufujo			en
-Gufujo	tutcerte en la Gufujo	틀림없이 올빼미집(Gufujo)에	definitely in the Owlery	Gufujo			en
+Gufujo	tutcerte en la Gufujo	틀림없이 올빼미집 다방(Gufujo)에	definitely in the tea launge(Owlery)	Gufujo			en
 Gufujo	tiaj homoj konstante sidas	그런 사람은 상시 앉아 있다	such people are constantly sitting	Gufujo			en
 Gufujo	konstante sidas tie teumante	상시 거기에 차를 마시며 앉아있다	is constantly sitting there drinking tea	Gufujo			en
 Gufujo	kia teda vivo!	참 지루한 인생이란!	what a tedious life!	Gufujo			en
-Gufujo	Gufujo, estas trankvila ejo	올빼미집(Gufujo), 고요한 장소이다.	the Owlery, is a quiet place	Gufujo			en
+Gufujo	Gufujo, estas trankvila ejo	올빼미집 다방(Gufujo), 고요한 장소이다.	the tea launge(Owlery), is a quiet place	Gufujo			en
 Gufujo	trankvila ejo kie eblas trinki teon	차를 마실 수 있는 조용한 장소	a quiet place where you can drink tea	Gufujo			en
 Gufujo	trinki teon, babili, aŭskulti trankvilan muzikon	차를 마시고 잡담하고 조용한 음악을 듣다	drink tea, chat, listen to quiet music	Gufujo			en
 Gufujo	aŭskulti trankvilan muzikon kaj simile	조용한 음악을 듣거나 그와 비슷한 것을 하기	listening to quiet music and the like	Gufujo			en
@@ -725,11 +725,11 @@ Gufujo	kion vi volas kara?	당신은 무엇을 원하십니까?	what do you want
 Gufujo	ĉu estas libera loko?	빈자리 입니까?	is there a free place?	Gufujo			en
 Gufujo	jes, certe	예, 틀림 없이	yes, for sure	Gufujo			en
 Gufujo	tre agrable ĉi tie	여기 분위기 좋군요	very nice here	Gufujo			en
-Gufujo	ĉi tie en la gufujo	여기 올빼미집(gufujo)에서	here in the owlery	Gufujo			en
+Gufujo	ĉi tie en la gufujo	여기 올빼미집 다방(gufujo)에서	here in the tea launge(owlery)	Gufujo			en
 Gufujo	mi bezonas iom da trankvilo	나는 약간의 평온이 필요하다	I need some tranquility	Gufujo			en
 Gufujo	post tre streĉa tago	매우 스트레스 받는 날 후에	after a very stressful day	Gufujo			en
 Gufujo	trankvilo post streĉa tago	스트레스 받는 날 후의 평온함	tranquility after a stressful day	Gufujo			en
-Gufujo	la etoso en gufujo	올빼미집(gufujo)의 분위기	the atmosphere in an owlery	Gufujo			en
+Gufujo	la etoso en gufujo	올빼미집 다방(gufujo)의 분위기	the atmosphere in a tea launge(owlery)	Gufujo			en
 Gufujo	~ estas tre bona kontrasto	~은 매우 좋은 대조이다	~ is a very good contrast	Gufujo			en
 Gufujo	kontrasto al la aliaj okazaĵoj	다른 행사들과의 대조	contrast to the other events	Gufujo			en
 Gufujo	la aliaj okazaĵoj dum IJK	청년 대회(IJK) 동안의 다른 행사들	the other events during IJK	Gufujo		la aliaj okazaĵoj dum yi-jo-ko	en
@@ -890,7 +890,7 @@ Reveno	vi ne ŝatas labambumi	너는 라밤바(La Bamba) 춤추기를 싫어한�
 Reveno	prave, ne okazis	맞아, 일어나지 않았어	right, it didn't happen	Reveno			en
 Reveno	okazis en la dancejo	그 댄스장에서 일어났다	happened in the dance floor	Reveno			en
 Reveno	ne okazis en dancejo	댄스장에서 일어나지 않았다	it didn't happen on a dance floor	Reveno			en
-Reveno	sed en la Gufujo	하지만 올빼미집(Gufujo)에서	but in the Owlery	Reveno			en
+Reveno	sed en la Gufujo	하지만 올빼미집 다방(Gufujo)에서	but in the tea launge(Owlery)	Reveno			en
 Reveno	kaj ne estis kiso	그리고 키스가 아니었다	and it was not kiss	Reveno			en
 Reveno	ne kiso sed tamen io ĝojiga	키스가 아니지만 무언가 기쁘게 하는 것	not a kiss but still something gratifying	Reveno			en
 Reveno	sed tamen io tre ĝojiga	하지만 무언가 매우 기쁘게 하는 것	but nevertheless something very joyful	Reveno			en
@@ -1048,7 +1048,6 @@ Dua Bulteno	kongresa bankedo	대회 연회	convention banquet	Dua Bulteno			en
 Dua Bulteno	Interkona Vespero	국제 친교의 밤	Evening of getting to know each other	Dua Bulteno			en
 Dua Bulteno	solena inaŭguro	성대한 개회식	grand opening	Dua Bulteno			en
 Dua Bulteno	Zamenhofa halo	자멘호프 홀	Zamenhof hall	Dua Bulteno			en
-Dua Bulteno	LKK (loka kongresa komitato)	지역 국가 대회 조직 위원회	LKK (local congress committee)	Dua Bulteno			om
 Dua Bulteno	IKU (Internacia Kongresa Universitato)	국제 대회 대학	IKU (International Congress University)	Dua Bulteno			jv
 Dua Bulteno	KER-ekzameno je kvar niveloj (Kadro de Eŭropa Referenco)	4등급의 유럽표준(KER) 에스페란토 시험	KER examination at four levels (Common European Framework of Reference)	Dua Bulteno			en
 Dua Bulteno	internacia arta vespero	국제 예술의 밤	international art evening	Dua Bulteno			en

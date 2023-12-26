@@ -1,5 +1,5 @@
-Saluton	mi, vi	你我	I, you	Saluton	0    	0000-00-00 00:00:00
-Saluton	estas, estis	（现在）是，（过去）是	(present) am, (past) was	Saluton	0    	0000-00-00 00:00:00
+Saluton	mi, vi	我，你	I, you	Saluton	0    	0000-00-00 00:00:00
+Saluton	estas, estis	(现在) 是 (过去) 是	(present) is, am, are (past) was, were	Saluton	0    	0000-00-00 00:00:00
 Saluton	mi estas ~	我是~	I am ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	vi estas ~	你是~	you are ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	saluton	你好	hello	Saluton	0    	0000-00-00 00:00:00
@@ -10,7 +10,7 @@ Saluton	mia nomo, via nomo	我的名字，你的名字	my name, your name	Saluto
 Saluton	mia nomo estas ~	我的名字是~	my name is ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	via nomo estas ~	你的名字是~	your name is ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	fartas, fartis	（现在）做，（过去）做	(present) does, (past) did	Saluton	0    	0000-00-00 00:00:00
-Saluton	estis, estos	（现在）曾经，（未来）将会	(present) was, (future) will be	Saluton	0    	0000-00-00 00:00:00
+Saluton	estis, estos	（现在）曾经、曾经（未来）将会	(present) was, were (future) will be	Saluton	0    	0000-00-00 00:00:00
 Saluton	nomo, nomon	一个名字，一个（客观的）名字	a name, an (objective) name	Saluton	0    	0000-00-00 00:00:00
 Saluton	mia amo	亲爱的	my love	Saluton	0    	0000-00-00 00:00:00
 Saluton	vi fartas	你在做~	you are doing ~	Saluton	0    	0000-00-00 00:00:00
@@ -132,7 +132,7 @@ Amiko	lingvisto kaj laboristino	一名语言学家和一名女工	a linguist and
 Amiko	lia amikino estas ~	他的女朋友是~	his girl friend is ~	Amiko	0    	0000-00-00 00:00:00
 Amiko	lernantoj kaj sportistoj	学生和运动员	students and sportsmen	Amiko	0    	0000-00-00 00:00:00
 Amiko	mia familia nomo estas ~	我的家族名字是~	my familia name is ~	Amiko	0    	0000-00-00 00:00:00
-Amiko	kiu estas ŝi?	她是谁？ 她是谁？	who is she? which is she?	Amiko	0    	0000-00-00 00:00:00
+Amiko	kiu estas ŝi?	她是谁？她是谁？	who is she? which is she?	Amiko	0    	0000-00-00 00:00:00
 Amiko	estas via amikino	是你的女朋友吗	is your girl friend	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu via amiko estas ~ ?	是你的朋友吗~？	is your friend ~ ?	Amiko	0    	0000-00-00 00:00:00
 Amiko	skribas nun en la ĉambro	现在正在房间里写字	is writing now in the room	Amiko	0    	0000-00-00 00:00:00
@@ -153,7 +153,7 @@ La amiko	venis al la hejmo	来到家里	came to the home	La amiko	0    	0000-00-
 La amiko	la hejmo de ~	的家~	the home of ~	La amiko	0    	0000-00-00 00:00:00
 La amiko	bonvolu eniri	请进来	please come in	La amiko	0    	0000-00-00 00:00:00
 La amiko	saluton! kion vi faras?	你好，你在做什么？	hello, what are you doing?	La amiko	0    	0000-00-00 00:00:00
-La amiko	kion vi faras?	你做什么工作？ 你在干什么？	what do you do? what are you doing?	La amiko	0    	0000-00-00 00:00:00
+La amiko	kion vi faras?	你做什么工作？你在干什么？	what do you do? what are you doing?	La amiko	0    	0000-00-00 00:00:00
 La amiko	sed nun mi volas ~	但现在我想要~	but now I want ~	La amiko	0    	0000-00-00 00:00:00
 La amiko	mi volas paroli	我想说话	I want to speak	La amiko	0    	0000-00-00 00:00:00
 La amiko	kun tri geamikoj	和三位男女朋友	with three male-and-female friends	La amiko	0    	0000-00-00 00:00:00
@@ -173,7 +173,7 @@ La amiko	ŝatas legi bonajn librojn	喜欢读好书	likes to read good books	La 
 La amiko	ĉu vi volas legi?	你想读书吗？	do you want to read?	La amiko	0    	0000-00-00 00:00:00
 La amiko	la junulo trinkis kafon	年轻人喝了咖啡	the youngster drank coffee	La amiko	0    	0000-00-00 00:00:00
 La amiko	volas trinki akvon	想喝水	wants to drink water	La amiko	0    	0000-00-00 00:00:00
-La amiko	patro kaj patrino, gepatroj	父亲和母亲； 父母	a father and a mother; parents	La amiko	0    	0000-00-00 00:00:00
+La amiko	patro kaj patrino, gepatroj	父亲和母亲；父母	a father and a mother; parents	La amiko	0    	0000-00-00 00:00:00
 La amiko	frato kaj fratino, gefratoj	一个麻烦和一个姐妹，兄弟姐妹	a bother and a sister, siblings	La amiko	0    	0000-00-00 00:00:00
 La amiko	viaj gepatroj kaj gefratoj	你的父母和兄弟姐妹	your parents and siblings	La amiko	0    	0000-00-00 00:00:00
 La amiko	estas en via hejmo	在你家里	is in your home	La amiko	0    	0000-00-00 00:00:00
@@ -182,7 +182,7 @@ La amiko	ankoraŭ ne trinkis	还没喝	didn't drink yet	La amiko	0    	0000-00-0
 La amiko	estas ankoraŭ varma	仍然温暖	is still warm	La amiko	0    	0000-00-00 00:00:00
 La amiko	hieraŭ kuiris ĝin	昨天煮的	cooked it yesterday	La amiko	0    	0000-00-00 00:00:00
 La amiko	mi nun kuiris	我现在煮了	I now cooked	La amiko	0    	0000-00-00 00:00:00
-La amiko	dankon. tiel li diris	谢谢。 他说。	thank you. so he said.	La amiko	0    	0000-00-00 00:00:00
+La amiko	dankon. tiel li diris	谢谢。他说。	thank you. so he said.	La amiko	0    	0000-00-00 00:00:00
 La amiko	povas trinki kaj manĝi	能喝能吃	can drink and eat	La amiko	0    	0000-00-00 00:00:00
 La amiko	trinkis malvarman kafon	喝了冷咖啡	drank cold coffee	La amiko	0    	0000-00-00 00:00:00
 La amiko	ankaŭ varma kafo	仍然温热的咖啡	still warm coffee	La amiko	0    	0000-00-00 00:00:00
@@ -205,7 +205,7 @@ En kafejo	rigardis la grandan fraton	看起来是大哥	looked the big brother	E
 En kafejo	malgranda fratino forgesis ĝin	有一个小妹妹忘记了	a little sister forgot it	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	akuzativo	宾格（宾语）	an accusative (objective)	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ne forgesu akuzativon	不要忘记宾格结尾	don't forget the accusative ending	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	kiun vi vidas?	你在见谁？ 你看到哪一个？	whom are you seeing? which one do you see?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	kiun vi vidas?	你在见谁？你看到哪一个？	whom are you seeing? which one do you see?	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	mi vidas amikon	我看到一个朋友	I see a friend	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	havas bonajn geamikojn	有很好的男女朋友	has good male-and-female friends	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ili laboras pri la malnova domo	他们正在修旧房子	they are working about the old house	En kafejo	0    	0000-00-00 00:00:00
@@ -253,7 +253,7 @@ Renkonto	cent dolaroj sufiĉas	一百块钱就够了	a hundred dollars is enough
 Renkonto	dolaro, dolaroj, dolarojn	一美元，美元，美元（复数目标）	a dollar, dollars, dollars (plural objective)	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	havas cent dolarojn	有一百美元	has a hundred dollars	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kompreneble, mi havas	当然，我有	of course, I have	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	ho! vi estas riĉa!	哦！ 你好有钱！	oh! you are rich!	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	ho! vi estas riĉa!	哦！你好有钱！	oh! you are rich!	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kelnero, kelnerino	一杯水，一个女服务员	a water, an waitress	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kelnero portas menuon	服务员拿来菜单	a waiter brings a menu	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	portis tion al ni, alportis tion	给我们带来了，带来了	brought that to us, brought that	Renkonto	0    	0000-00-00 00:00:00
@@ -447,7 +447,7 @@ Aŭto Vendejo	kia estas la vetero?	天气如何？	what's the weather like?	Aŭt
 Nova Aŭto	kian aŭton vi havas?	你有什么类型的车？	what kind of car do you have?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kiaj estis ŝiaj leteroj?	她的信是什么样的？	what were her letters like?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kie ni estas?	我们在哪里？	where are we?	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	kien vi iras?	基恩维伊拉斯？	kien vi iras?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	kien vi iras?	你去哪儿？	where are you going to?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	al kiu vi donis ĝin?	你把它给了谁？	to whom did you give it?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la viro, kun kiu vi vojaĝis	和你一起旅行的男人	the man whom you traveled with	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	pli granda ol la aŭto	比汽车大	bigger than the car	Nova Aŭto	0    	0000-00-00 00:00:00
@@ -460,7 +460,7 @@ Nova Aŭto	aŭskultinda novaĵo	值得一听的新闻	a news worth listening	Nov
 Nova Aŭto	la libro estas vere leginda	这本书确实值得一读	the book is really worth reading	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	bedaŭra afero	一件不幸的事	an unfortunate thing	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	bedaŭrinde, mi ne povas	不幸的是，我不能	unfortunately, I can't	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	nedankinde. estis mia plezuro	不客气。 这是我的荣幸	you are welcome. it was my pleasure	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	nedankinde. estis mia plezuro	不客气。这是我的荣幸	you are welcome. it was my pleasure	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	eta belulino ege belas	小美女很漂亮	small pretty girl is very beautiful	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ĉiuj amikoj amas ŝin	所有的朋友都爱她	all friends love her	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	antaŭ tri monatoj	三个月前	three months ago	Nova Aŭto	0    	0000-00-00 00:00:00
@@ -515,7 +515,6 @@ Maja	esperis trankvilan vesperon	希望有一个安静的夜晚	hoped for a quie
 Maja	deziras, ke vi lernu	希望你学习	wants that you learn	Maja	0    	0000-00-00 00:00:00
 Maja	insistis, ke mi iru	坚持要我去	insisted that I go	Maja	0    	0000-00-00 00:00:00
 Maja	je kioma horo?	什么时间？	at what hour?	Maja	0    	0000-00-00 00:00:00
-Maja	je kvina horo	在五点钟	at five o'clock	Maja	0    	0000-00-00 00:00:00
 Maja	je la sesa, li venos	六点他会来	at six he will come	Maja	0    	0000-00-00 00:00:00
 Maja	la libreto estis ĉarma	歌词很迷人	the libretto was charming	Maja	0    	0000-00-00 00:00:00
 Maja	estu trankvila	安静	be quiet	Maja	0    	0000-00-00 00:00:00
@@ -636,7 +635,7 @@ la strato	aĵo, ne aĝo	与年龄无关的东西	a thing not age	la strato	0    
 la strato	kuris laŭ homoj saĝaj	与聪明人同行	ran along wise people	la strato	0    	0000-00-00 00:00:00
 la strato	laŭeble baldaŭ	尽快	soon as possible	la strato	0    	0000-00-00 00:00:00
 la strato	kia knabo, kia knabino	什么是男孩，什么是女孩	what a boy, what a girl	la strato	0    	0000-00-00 00:00:00
-la strato	nek pensita nek memorita	既没有思考也没有记住	neither thought nor memorized	la strato	0    	0000-00-00 00:00:00
+la strato	nek pensita nek memorita	既没有思考也没有记忆	neither thought nor memorized	la strato	0    	0000-00-00 00:00:00
 la strato	diablo atendis akvon dimanĉe	周日，魔鬼在等水	a devil waited for water on Sunday	la strato	0    	0000-00-00 00:00:00
 la strato	eĉ tiom malgranda momento valoras	即使是这么小的一刻也是值得的	even such a small moment is worthwhile	la strato	0    	0000-00-00 00:00:00
 la strato	kriis for ĝis nokto	一直哭到晚上	cried away until night	la strato	0    	0000-00-00 00:00:00
@@ -683,7 +682,7 @@ la strato	nek li nek ŝi ridis	他和她都没有笑	neither he nor she laughed	
 ĉiam Malfrue	mian plej karan foton	我最亲爱的照片	my dearest photo	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kie vi aĉetis ~ ?	哪里买的~？	where did you buy ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	tiu vestaĵo	那件衣服	that clothing	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	tiun vestaĵon	那件衣服	that clothing	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	tiun vestaĵon	那件衣服（目标）	that clothing (objective)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	aĉetis tiun vestaĵon	买了那件衣服	bought that outfit	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	vi iros tien	你会去那里	you will go there	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kien vi iros?	你去哪儿？	where are you going to?	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -1006,7 +1005,7 @@ Familianoj kunvenas	en juneco	年轻时	in youth	Familianoj kunvenas	0    	0000-
 Familianoj kunvenas	oni havas	一个有	one has	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	havas ankaŭ belecon	也有美丽	also has beauty	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	malsimplaj laboroj	复杂的工作	complicated jobs	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	malsimplajn laborojn	复杂的工作	complicated jobs	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	malsimplajn laborojn	复杂的工作（目标）	complicated jobs (objective)	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	devus plisimpligi	应该简化	should simplify	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en tiu aĝo	在那个年纪	at that age	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	li jam fariĝis ~	他已经成为了~	he has already become ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -1223,7 +1222,7 @@ Nokta Promeno	li malfacile paŝis	他艰难地行走	he walked with difficulty	N
 Nokta Promeno	estis travivaĵo	这是一次经历	it was an experience	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ne malofte	并不少见	not uncommon	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	doloriga kaj ĉiam malagrabla	痛苦且总是不愉快	painful and always unpleasant	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ju pli ~	越...	the more ...	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ju pli ~	越多~	the more ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	antaŭeniris en la vivo	在生活中前进	moved forward in life	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en la kastela arbaro	在城堡森林里	in the castle forest	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli antaŭeniris des pli malŝatis ~	越往前越不喜欢~	the further went forward the more disliked ~	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1301,11 +1300,11 @@ Nokta Promeno	pri via ĉeesto	关于你的存在	about your presence	Nokta Prome
 Nokta Promeno	via ĉeesto ĉi tie	你在这里	your presence here	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	mi devas peti vin ~	我得问问你~	I have to ask you ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	petas vin sekvi min	要求你关注我	asks you to follow me	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kaj li klarigis ~	他解释道~	and he explained ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kaj li klarigis ~	他解释说~	and he explained ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	klarigis, ke ~	解释说~	explained that ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ekde la fuŝa provo	自从错误的尝试	since the wrong attempt	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la fuŝa provo kapti la grafinon	抓住伯爵夫人的错误尝试	the wrong attempt to catch the countess	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	fare de ~	由于~	due to ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	fare de ~	由于〜	due to ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	fare de teroristoj	由于恐怖分子	due to terrorists	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la polico kontrolas atente	警方仔细检查	the police checks carefully	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kontrolas, kio okazas	检查发生了什么	checks what is happening	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1325,7 +1324,7 @@ Nokta Promeno	la ideo perdigis al li malmulton da espero	这个想法让他失�
 Nokta Promeno	malmulto da espero	希望渺茫	little hope	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	malmulta espero, kiu restis	所剩无几的希望	little hope that remained	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	post la unuaj vortoj de la policano	在警察说第一句话之后	after the first words of the police	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ju pli ~ des pli ~	越……越……	the more ... the more ...	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ju pli ~ des pli ~	越多越多～	the more ~ the more ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli longe des pli bone	越长越好	the longer the better	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kiom ajn	无论多少	no matter how much	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	antaŭ kvarona horo	一刻钟前	a quarter of an hour ago	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1334,7 +1333,6 @@ Nokta Promeno	post la terura malfeliĉo	在经历了可怕的不幸之后	after 
 Nokta Promeno	la homoj foriris	人们离开了	the people left	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kaj la malnovaj urboj disfalis	古老的城市分崩离析	and the old cities fell apart	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ni devus revidi vin	我们应该再见到你	we should see you again	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	mia amiko	我的朋友	my friend	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli ofte	越频繁	the more often	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	mi pripensas	我在想	I'm thinking	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	des pli mi koleras	我越生气	the more angry I am	Nokta Promeno	0    	0000-00-00 00:00:00

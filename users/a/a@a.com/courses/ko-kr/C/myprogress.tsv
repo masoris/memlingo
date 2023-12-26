@@ -99,13 +99,13 @@ hundo	pro ~	~때문에, ~인해서, ~까닭에	<prep> because of ~, due to ~	KO,
 hundo	-estr-	단체의 장, 우두머리 접미사	<suffix> leader, boss, head, chief	KO,G1,ZG	10   	2025-02-07 16:40:07
 hundo	kio	무엇	what	KO,G1,4H	10   	2025-02-07 16:41:07
 glacio	manĝi	먹다	to eat	KO,G3,4H,ZG	10   	2025-02-07 16:42:07
-hundo	nenio	존재하지 않는것, 아무것도 없는것 대명사	nothing, none, not any thing	KO,G1,4H	10   	2025-02-07 16:43:07
+hundo	nenio	존재하지 않는것, 아무것도 없는것 (대명사)	nothing, none, not any thing	KO,G1,4H	10   	2025-02-07 16:43:07
 kanti	juna	젊은, 어린	young	KO,G2,ZG	10   	2025-02-07 16:44:07
-hundo	ĉio	모든 것 대명사	everything	KO,G1,4H	10   	2025-02-07 16:45:07
+hundo	ĉio	모든 것 (대명사)	everything	KO,G1,4H	10   	2025-02-07 16:45:07
 kanti	riĉa	부유한	rich, wealthy, well-off	KO,G2,4H,ZG	10   	2025-02-07 16:46:07
-hundo	tio	그것, 저것 대명사	that thing, that	KO,G1,4H	10   	2025-02-07 16:47:07
+hundo	tio	그것, 저것 (대명사)	that thing, that	KO,G1,4H	10   	2025-02-07 16:47:07
 glacio	konstrui	짓다, 건축하다, 건설하다	to build, to construct	KO,G3	10   	2025-02-07 16:48:07
-soni	ĉef-	장의, 우두머리의, 지도자의	<prefix> chief, leading, main	G1,ZG	10   	2025-02-08 16:38:07
+soni	ĉef-	장의, 우두머리의, 지도자의 (접두사)	<prefix> chief, leading, main	G1,ZG	10   	2025-02-08 16:38:07
 soni	sen ~	~없이	<prep> without ~	KO,G1,ZG	10   	2025-02-08 16:39:07
 soni	kun ~	~와 함께	<prep> with ~ (together)	KO,G1,4H,ZG	10   	2025-02-08 16:40:07
 soni	krom ~	~외에, ~말고도	<prep> except ~, besides ~	KO,G1,ZG	10   	2025-02-08 16:41:07
@@ -219,7 +219,7 @@ amo	koko	닭	a cock, a hen, chicken, fowl	G5	10   	2025-02-23 16:51:07
 veturi	libera	자유로운	free	KO,G2,4H,ZG	10   	2025-02-23 16:52:07
 veturi	lasta	마지막의, 최후의	last	KO,G2,ZG	10   	2025-02-24 16:24:07
 veturi	ĝoji	기쁘다, 즐겁다	to rejoice, to be glad, to enjoy	KO,G2,4H,ZG	10   	2025-02-24 16:25:07
-veturi	preni	잡다, 취하다, 붙잡다, 쥐다	to take, to lay hold of	KO,G2,4H,ZG	10   	2025-02-24 16:26:07
+veturi	preni	취하다, 잡다, 붙잡다, 쥐다	to take, to lay hold of	KO,G2,4H,ZG	10   	2025-02-24 16:26:07
 amo	bovo	소	a cow, an ox, bovine animal	KO,G5	10   	2025-02-24 16:27:07
 veturi	alia	또 다른, 딴, 그 밖의	another, other, else	KO,G2,4H,ZG	10   	2025-02-24 16:46:07
 kanti	varma	더운, 따뜻한	hot, warm	KO,G3,4H,ZG	10   	2025-02-25 16:27:07
@@ -265,7 +265,7 @@ nokte	kapo	머리	a head, a cape	KO,G2,4H,ZG	10   	2025-03-02 16:38:07
 filo	krii	외치다, 고함지르다	to shout, to cry, to scream, to shout	KO,G3,4H,ZG	10   	2025-03-02 16:39:07
 nokte	ruĝa	붉은	red	KO,G2,4H,ZG,ZG	10   	2025-03-02 16:40:07
 nokte	sinjoro	신사	a mister, a gentleman	KO,G2,ZG	10   	2025-03-02 16:41:07
-nokte	teni	붙잡다, 쥐다, 손에 들다	to hold, to hang onto	KO,G2,4H,ZG	10   	2025-03-02 16:42:07
+nokte	teni	쥐다, 손에 들다, 붙잡다	to hold, to hang onto	KO,G2,4H,ZG	10   	2025-03-02 16:42:07
 nokte	tempo	시간, 때, 세월, 시대	time, a time	KO,G2,4H,ZG	10   	2025-03-03 16:42:07
 nokte	tuta	모든, 전체의	total, all, whole, complete, overall	KO,G2,4H,ZG	10   	2025-03-03 16:43:07
 raporti	viro	남자	a man	KO,G2,4H,ZG	10   	2025-03-03 16:44:07
@@ -1650,7 +1650,7 @@ stomako	ŝtormo	폭풍, 태풍	a storm	NA	9    	2023-11-17 16:37:07
 stomako	elektra	전기의	electric, electrical	NA	9    	2023-11-17 16:38:07
 stomako	ducent	이백 (200)	two hundreds	ZG	9    	2023-11-18 16:26:08
 stomako	lageto	연못	a pond	NA,4H	9    	2023-11-18 16:29:08
-stomako	tridek	삼심 (30)	thirty	ZG	9    	2023-11-18 16:33:08
+stomako	tridek	삼십 (30)	thirty	ZG	9    	2023-11-18 16:33:08
 stomako	kukurbo	호박	a pumpkin, a gourd	G9	9    	2023-11-18 16:39:08
 stomako	varmete	따뜻하게	in lukewarm	NA	9    	2023-11-18 16:40:08
 stomako	dek naŭ	십구 (19)	nineteen	ZG	9    	2023-11-18 16:41:08
@@ -2689,7 +2689,7 @@ stomako	ribeli	반란을 일으키다	to rebel, to revolt	G8	8    	2023-12-19 16
 stomako	kancero	암	cancer	NA	8    	2023-12-20 16:19:09
 stomako	atesti	증언하다, 입증하다	to attest, to testify, to affirm	G8	8    	2023-12-20 16:27:09
 stomako	inklina	~경향이 있는, ~성향의, ~버릇이 있는	inclined, prone	G8	8    	2023-12-20 16:28:09
-stomako	cirkonstanco	환경, 상황	a circumstance	G8	8    	2023-12-21 16:44:09
+stomako	cirkonstanco	상황	a circumstance	G8	8    	2023-12-21 16:44:09
 stomako	bulgaro	불가리아 사람	a Bulgarian person	OA	8    	2023-12-21 16:47:09
 stomako	frosta	꽁꽁 어는, 엄동의, 매우 추운	frosty, freezing	NA	8    	2023-12-21 16:54:09
 stomako	kakao	카카오 열매, 코코아	a cocoa bean, a cacao	G9	8    	2023-12-21 16:55:09
@@ -2707,7 +2707,6 @@ stomako	konvalo	은방울꽃	a lily of the valley	G9,4H	8    	2023-12-23 16:49:0
 stomako	egoismo	이기주의	egoism, egotism, selfishness	OA	8    	2023-12-23 16:50:09
 stomako	kinejo	영화관	a cinema, a movie theater	NA	8    	2023-12-23 16:51:09
 stomako	rezervita	예약이 끝난	reserved	NA	8    	2023-12-23 16:52:09
-stomako	Petro	베드로(남자이름, 예수 제자 중 한 사람)	Peter	PA,ZG	8    	2023-12-23 16:53:09
 stomako	kolono	(건축, 비유) 기둥, 둥근기둥, 칼럼, 종대(렬)	column, a column, a pillar	G8	8    	2023-12-23 16:54:09
 stomako	deklari	선언하다	to declare	G8	8    	2023-12-24 16:58:09
 stomako	kirurgo	외과의사 (=ĥirurgo)	a surgeon (=ĥirurgo)	G9	8    	2023-12-24 17:00:09
@@ -4212,7 +4211,7 @@ stomako	akvomelono	수박	a watermelon	NA	0    	0000-00-00 00:00:00
 stomako	singularo	단일, 단수	a singular	G9	0    	0000-00-00 00:00:00
 stomako	rezervujo (akvo ~)	저수지	a reservoir (water ~)	NA	0    	0000-00-00 00:00:00
 stomako	nekrologo	부고, 사망기사, 부고기사	a necrology, an obituary	OA	0    	0000-00-00 00:00:00
-stomako	reteni	붙잡다, 보류하다, 억제하다	to retain, to detain, to hold back	NA	0    	0000-00-00 00:00:00
+stomako	reteni	보류하다, 억제하다, 붙잡다	to retain, to detain, to hold back	NA	0    	0000-00-00 00:00:00
 stomako	plastiko	소조술, 정형술(整形術)	mouldable, shapable, plastic	G9	0    	0000-00-00 00:00:00
 stomako	fisko	국고, 국가 재무	treasury, state treasury	OA	0    	0000-00-00 00:00:00
 stomako	prunti	빌리다, 빌려서 사용하다	to borrow, to loan	NA	0    	0000-00-00 00:00:00

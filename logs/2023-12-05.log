@@ -1,0 +1,36 @@
+2023-12-05 15:46:15	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-12-05 15:46:15	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-05 15:46:19	/api/logout.api	a@a.com	ko-kr	A
+2023-12-05 15:46:49	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-12-05 15:46:50	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-05 15:46:51	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-05 15:46:52	/api/session-start.api	a@a.com	ko-kr	A
+2023-12-05 15:46:52	/api/card-next.api	a@a.com	A	ko-kr	vi mem kunportis	0	./quizG.html	male1
+2023-12-05 15:46:52	/api/similar-words.api	a@a.com	A	ko-kr	vi mem kunportis
+2023-12-05 15:46:58	/api/similar-words-kor.api	a@a.com	A	ko-kr	너는 스스로 들고 갔다
+2023-12-05 15:48:05	/api/playsound.api	a@a.com	male1/vi mem kunportis.mp3
+2023-12-05 15:51:21	/api/playsound.api	a@a.com	male1/vi mem kunportis.mp3
+2023-12-05 15:51:30	/api/similar-words.api	a@a.com	A	ko-kr	vi mem kunportis
+2023-12-05 15:51:36	/api/similar-words.api	a@a.com	A	ko-kr	vi mem kunportis
+2023-12-05 16:41:03	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-12-05 16:41:03	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-05 16:41:11	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-05 16:41:21	/api/jump-level.api	a@a.com	L	ko-kr	50
+2023-12-05 16:41:21	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-05 16:41:36	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-05 16:48:00	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-05 16:48:03	/api/get_course_info.api	a@a.com	zh-cn
+2023-12-05 16:48:06	/api/get_course_info.api	a@a.com	zh-cn
+2023-12-05 16:48:08	/api/session-start.api	a@a.com	zh-cn	K
+2023-12-05 16:48:08	/api/card-next.api	a@a.com	K	zh-cn	Bonvole donu al mi akvon.	0	./quizD.html	male2
+2023-12-05 16:48:08	/api/similar-words-kor.api	a@a.com	K	zh-cn	请给我水。
+2023-12-05 16:48:10	/api/playsound.api	a@a.com	male1/Bonvole donu al mi akvon..mp3
+2023-12-05 16:48:13	/api/put-score-kor.api	a@a.com	K	zh-cn	请给我水。	1
+2023-12-05 16:48:13	/api/playsound.api	a@a.com	male1/Bonvole donu al mi akvon..mp3
+2023-12-05 16:48:16	/api/card-next.api	a@a.com	K	zh-cn	Bonvole donu al mi monon.	0	./quizH.html	female2
+2023-12-05 16:48:16	/api/playsound.api	a@a.com	female2/Bonvole donu al mi akvon..mp3
+2023-12-05 16:48:18	/api/similar-words.api	a@a.com	K	zh-cn	Bonvole donu al mi monon.
+2023-12-05 16:49:05	/api/get_course_info.api	a@a.com	zh-cn
+2023-12-05 16:49:55	/api/get_course_info.api	a@a.com	zh-cn
+2023-12-05 16:50:00	/api/get_course_info.api	a@a.com	zh-cn
+2023-12-05 16:50:09	/api/get_course_info.api	a@a.com	zh-cn

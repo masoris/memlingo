@@ -46,7 +46,7 @@
             <span id="progressA" class="progress">Progress</span><br />
             <span id="session_course_progress" class="Number">-</span>%
             <br />
-            <input type="button" value="50% Jump" id="Btn_Level_Jump" class="Level-Jump">
+            <input type="button" value="Jump Progress" id="Btn_Level_Jump" class="Level-Jump">
             <!--<span id="words_to_reviewA" class="Needs-Review">Needs Review</span><br />
             <span id="session_course_needs_review" class="Number">-</span><br />-->
         </div>
@@ -79,7 +79,14 @@
                 </td>
             </tr>
         </table>
+        <span id="progress_msg" style="color: white">
+            지금 진도율이 $PROGRESS %입니다. 몇 퍼센트 위치로 점프하시겠습니까? 만약 절반을 원하시면 50을 입력해주세요.
+        </span>
+        <span id="wrong_progress_input" style="color: white">
+            입력이 잘못되었습니다! 0-100사이의 퍼센트 값을 정수로 입력하세요.
+        </span>
     </div>
+
     <br>
     <br>
     <br>
@@ -96,6 +103,9 @@
     <div class="Rectangle4">
         <input class="Start-Learning" type="button" id="Btn_Start_learning" value="Start Learning">
     </div>
+
+
+
 
 </body>
 

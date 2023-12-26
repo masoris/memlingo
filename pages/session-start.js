@@ -21,18 +21,17 @@ function call_session_start_api() {
 
 function click_btn_level_jump() {
     // call_session_start_api(); //session_start 로그를 남긴다.
-    var userResponse = confirm("\n\nJumps progress by 50%. There is no turning back.\nWill you do it?\n\nProgreso saltas al 50%. Ne eblas returniĝi.\nĈu vi faros ĝin?\n\n");
+    // var userResponse = confirm("\n\nJumps progress by 50%. There is no turning back.\nWill you do it?\n\nProgreso saltas al 50%. Ne eblas returniĝi.\nĈu vi faros ĝin?\n\n");
+    var progress = $('session_course_progress').innerText;
+    var msg = $('progress_msg').innerText;
+    msg = msg.replace("$PROGRESS", parseInt(progress).toString())
+    var userResponse = prompt(msg, parseInt(progress).toString());
+    let progress_to_be = parseInt(userResponse);
 
-    if (userResponse) {
-        // alert("작업이 실행됩니다!");
-        // 여기에 실행하려는 코드를 추가하세요.
-    } else {
-        // 사용자가 Cancel(No) 버튼을 눌렀을 때 또는 창을 닫았을 때
-        // alert("작업이 취소되었습니다.");
+    if (userResponse == "" || progress_to_be == NaN || progress_to_be < 0 || progress_to_be > 100) {
+        alert($('wrong_progress_input').innerText);
         return;
-        // 여기에 취소되었을 때의 코드를 추가하세요.
     }
-
 
     email = localStorage.email
     lang = localStorage.lang
@@ -45,7 +44,7 @@ function click_btn_level_jump() {
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, level: '50' });
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, level: progress_to_be.toString() });
     console.log("/api/jump-level.api");
     postAjaxRequest('/api/jump-level.api', jsonStr, function (responseJSONStr) {
         console.log("/api/jump-level.api response");
@@ -93,7 +92,7 @@ function click_btn_start_learning() {
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
-    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: "", score: "" });
+    var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: "", score: "", index: 0 });
     postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
@@ -135,9 +134,9 @@ function update_course_info() {
     $('session_course_points').innerText = user_courses[ABC].points;
     $('session_course_progress').innerText = user_courses[ABC].progress;
     $('session_course_total_count').innerText = user_courses[ABC].total_count;
-    if (parseFloat(user_courses[ABC].progress) >= 50.0) {
-        $('Btn_Level_Jump').style.visibility = "hidden";
-    }
+    // if (parseFloat(user_courses[ABC].progress) >= 50.0) {
+    //     $('Btn_Level_Jump').style.visibility = "hidden";
+    // }
 
 }
 

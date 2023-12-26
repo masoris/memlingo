@@ -178,6 +178,7 @@ img.ic_woman_1 {
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     bottom: 75px;
     border-radius: 10px;
+    display: none;
 }
 
 .Rectangle-easy {
@@ -193,6 +194,7 @@ img.ic_woman_1 {
     bottom: 75px;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 10px;
+    display: none;
 }
 
 .Rectangle-too-easy {
@@ -208,6 +210,7 @@ img.ic_woman_1 {
     bottom: 75px;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 10px;
+    display: none;
 }
 
 .Submit-hard {

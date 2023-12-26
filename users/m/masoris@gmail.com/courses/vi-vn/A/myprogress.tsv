@@ -238,10 +238,10 @@ En kafejo	ĝoje iris al la lernejo	vui vẻ đến trường	gladly went to the 
 En kafejo	tra la strato	qua đường phố	through the street	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	iris tra la strato	đã đi qua đường phố	went through the street	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	estis varma tago	là một ngày ấm áp	was a warm day	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	ili vidis kafejon	họ đã nhìn thấy một quán cà phê'	they saw a cafe'	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	ili vidis kafejon	họ đã nhìn thấy một quán cà phê&#39;	they saw a cafe'	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	vidis ruĝajn kukojn	nhìn thấy những chiếc bánh quy màu đỏ	saw red cookies	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	vidis kukojn en ĝi	nhìn thấy bánh quy trong đó	saw cookies in it	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	vidis kafejon kaj en ĝi kukojn	nhìn thấy một quán cà phê' và trong đó có bánh quy	saw a cafe' and in it  cookies	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	vidis kafejon kaj en ĝi kukojn	nhìn thấy một quán cà phê&#39; và trong đó có bánh quy	saw a cafe' and in it  cookies	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	eniru kaj manĝu!	vào trong và ăn đi!	go in and eat!	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ni eniru kaj manĝu	chúng ta hãy vào và ăn	let's come in and eat	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	havas sufiĉan monon	có đủ tiền	has sufficient money	En kafejo	0    	0000-00-00 00:00:00
@@ -361,7 +361,7 @@ Nova Aŭto	ellabori por tiu libro	để giải thích cho cuốn sách đó	to e
 Nova Aŭto	scias, scivolas, scivolo	biết, muốn biết, tò mò	knows, wants to know, curiosity	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	dulingva, dulingveco	song ngữ, song ngữ	bilingual, bilingualism	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	scivolas pri trilingva lernanto	điều kỳ diệu về một người học song ngữ	wonders about a trilingual learner	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	iris, reiris	đã đi, đã trở về	went, returned	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	iris, reiris	đã đi, đã trở lại	went, returned	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la katoj reiris al siaj domoj	những con mèo đã trở về nhà của chúng	the cats returned to their (own) homes	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	en la sako, en la sakon	trong túi, trong túi	in the bag, into the bag	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	enmetu ĝin en vian sakon	bỏ nó vào túi của bạn	put it into your bag	Nova Aŭto	0    	0000-00-00 00:00:00
@@ -447,7 +447,7 @@ Aŭto Vendejo	kia estas la vetero?	thời tiết như thế nào?	what's the wea
 Nova Aŭto	kian aŭton vi havas?	bạn có những loại xe nào?	what kind of car do you have?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kiaj estis ŝiaj leteroj?	những lá thư của cô ấy như thế nào?	what were her letters like?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kie ni estas?	chúng ta ở đâu?	where are we?	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	kien vi iras?	kiến vi iras?	kien vi iras?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	kien vi iras?	bạn đang đi đâu vậy?	where are you going to?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	al kiu vi donis ĝin?	bạn đã đưa nó cho ai?	to whom did you give it?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la viro, kun kiu vi vojaĝis	người đàn ông đi cùng bạn	the man whom you traveled with	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	pli granda ol la aŭto	to hơn ô tô	bigger than the car	Nova Aŭto	0    	0000-00-00 00:00:00
@@ -515,7 +515,6 @@ Maja	esperis trankvilan vesperon	mong một buổi tối yên tĩnh	hoped for a 
 Maja	deziras, ke vi lernu	muốn bạn học	wants that you learn	Maja	0    	0000-00-00 00:00:00
 Maja	insistis, ke mi iru	nhất quyết yêu cầu tôi đi	insisted that I go	Maja	0    	0000-00-00 00:00:00
 Maja	je kioma horo?	vào lúc mấy giờ?	at what hour?	Maja	0    	0000-00-00 00:00:00
-Maja	je kvina horo	vào lúc năm giờ	at five o'clock	Maja	0    	0000-00-00 00:00:00
 Maja	je la sesa, li venos	lúc sáu giờ anh ấy sẽ đến	at six he will come	Maja	0    	0000-00-00 00:00:00
 Maja	la libreto estis ĉarma	libretto thật quyến rũ	the libretto was charming	Maja	0    	0000-00-00 00:00:00
 Maja	estu trankvila	Hãy yên lặng	be quiet	Maja	0    	0000-00-00 00:00:00
@@ -683,7 +682,7 @@ la strato	nek li nek ŝi ridis	cả anh ấy và cô ấy đều không cười	
 ĉiam Malfrue	mian plej karan foton	bức ảnh thân yêu nhất của tôi	my dearest photo	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kie vi aĉetis ~ ?	bạn mua ở đâu vậy ~?	where did you buy ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	tiu vestaĵo	quần áo đó	that clothing	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	tiun vestaĵon	quần áo đó	that clothing	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	tiun vestaĵon	quần áo đó (khách quan)	that clothing (objective)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	aĉetis tiun vestaĵon	đã mua bộ trang phục đó	bought that outfit	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	vi iros tien	bạn sẽ đến đó	you will go there	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kien vi iros?	bạn đang đi đâu vậy?	where are you going to?	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -906,7 +905,7 @@ Planoj pri Veturado	sufiĉe da mono	đủ tiền	enough money	Planoj pri Veturad
 Planoj pri Veturado	se vi havus sufiĉe da mono kaj tempo	nếu bạn có đủ tiền và thời gian	if you had enough money and temp	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ĉu vi planas ~ ?	bạn có định làm vậy không ~?	are you planning to ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	planas veturi al Parizo	dự định đi du lịch tới Paris	plans to travel to Paris	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	veturi per aŭto	lái xe bằng ô tô	to drive with a car	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	veturi per aŭto	lái xe với axuto	to drive with an axuto	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	multe pli bone	tốt hơn nhiều	much better	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ŝajnas multe pli bone	có vẻ tốt hơn nhiều	seems much better	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	per vagonaro	bằng tàu hỏa	by train	Planoj pri Veturado	0    	0000-00-00 00:00:00
@@ -1006,7 +1005,7 @@ Familianoj kunvenas	en juneco	Trong tuổi trẻ	in youth	Familianoj kunvenas	0 
 Familianoj kunvenas	oni havas	một có	one has	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	havas ankaŭ belecon	cũng có vẻ đẹp	also has beauty	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	malsimplaj laboroj	công việc phức tạp	complicated jobs	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	malsimplajn laborojn	công việc phức tạp	complicated jobs	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	malsimplajn laborojn	công việc phức tạp (khách quan)	complicated jobs (objective)	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	devus plisimpligi	nên đơn giản hóa	should simplify	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en tiu aĝo	Ở lứa tuổi đó	at that age	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	li jam fariĝis ~	anh ấy đã trở thành rồi ~	he has already become ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -1207,7 +1206,7 @@ Nokta Promeno	ofte utila dumtage	thường hữu ích trong ngày	often useful d
 Nokta Promeno	malplaĉa ĝeno	một sự phiền toái khó chịu	an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	per si	bằng chính anh ấy	by himself	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	prezentas malplaĉan ĝenon	gây phiền toái khó chịu	presents an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	prezentas per si malplaĉan ĝenon	tự thể hiện mình như một mối phiền toái khó chịu	presents itself as an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	prezentas per si malplaĉan ĝenon	thể hiện bản thân như một mối phiền toái khó chịu	presents itself as an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en loko arboplena	ở một nơi có nhiều cây cối	in a place full of trees	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	tiam, kiam oni devojiĝis	rồi khi một người lạc lối	then, when one went astray	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en nehoma sovaĝejo	ở nơi hoang vu vô nhân đạo	in an inhuman wilderness	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1334,7 +1333,6 @@ Nokta Promeno	post la terura malfeliĉo	sau sự bất hạnh khủng khiếp	af
 Nokta Promeno	la homoj foriris	mọi người đã rời đi	the people left	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kaj la malnovaj urboj disfalis	và những thành phố cổ đã sụp đổ	and the old cities fell apart	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ni devus revidi vin	chúng ta nên gặp lại bạn	we should see you again	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	mia amiko	bạn tôi	my friend	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli ofte	càng thường xuyên hơn	the more often	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	mi pripensas	tôi đang nghĩ	I'm thinking	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	des pli mi koleras	tôi càng tức giận hơn	the more angry I am	Nokta Promeno	0    	0000-00-00 00:00:00

@@ -1,0 +1,18 @@
+2023-12-08 07:10:10	/api/get_course_info.api	a@a.com	zh-cn
+2023-12-08 07:10:16	/api/get_course_info.api	a@a.com	vi-vn
+2023-12-08 07:10:21	/api/get_course_info.api	a@a.com	vi-vn
+2023-12-08 07:10:22	/api/session-start.api	a@a.com	vi-vn	A
+2023-12-08 07:10:22	/api/card-next.api	a@a.com	A	vi-vn	mi, vi	0	./quizC.html	ludoviko
+2023-12-08 07:10:23	/api/similar-words-kor.api	a@a.com	A	vi-vn	tôi, bạn
+2023-12-08 07:10:23	/api/put-score-kor.api	a@a.com	A	vi-vn	bạn tôi	-1
+2023-12-08 07:10:24	/api/put-score-kor.api	a@a.com	A	vi-vn	bạn tôi	-1
+2023-12-08 07:10:25	/api/put-score-kor.api	a@a.com	A	vi-vn	tôi, bạn	1
+2023-12-08 07:10:25	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2023-12-08 07:10:26	/api/card-next.api	a@a.com	A	vi-vn	estas, estis	0	./quizA.html	female2
+2023-12-08 07:10:26	/api/playsound.api	a@a.com	female2/mi, vi.mp3
+2023-12-08 07:10:28	/api/similar-words-jk.api	a@a.com	A	vi-vn	estis	
+2023-12-08 07:10:30	/api/playsound.api	a@a.com	male2/estas, estis.mp3
+2023-12-08 07:10:32	/api/card-next.api	a@a.com	A	vi-vn	mi estas ~	0	./quizE.html	male1
+2023-12-08 07:10:32	/api/playsound.api	a@a.com	female2/estas, estis.mp3
+2023-12-08 07:10:35	/api/playsound.api	a@a.com	male1/mi estas ~.mp3
+2023-12-08 07:10:55	/api/get_course_info.api	a@a.com	vi-vn

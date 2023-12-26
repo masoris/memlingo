@@ -285,7 +285,7 @@ veturi	parto	부분, 일부, 몫	a part, a share	KO,G3,ZG	0    	0000-00-00 00:00
 veturi	ĉe ~	~(장소)에, ~에 (접촉)	<prep> at ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	partopreni	참가하다, 같이하다 (parto-)	to participate, to take part	NA,4H	0    	0000-00-00 00:00:00
 veturi	ĉeesti	출석하다, 참석하다, 자리에 있다	to attend, to be present at	NA,4H	0    	0000-00-00 00:00:00
-veturi	preni	잡다, 취하다, 붙잡다, 쥐다	to take, to lay hold of	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
+veturi	preni	취하다, 잡다, 붙잡다, 쥐다	to take, to lay hold of	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 veturi	pli	~보다 더 (비교급을 나타내는 부사)	more	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	plej	가장 (최상급)	most	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	ju	(pli와 함께) ~ 하면 할수록 (ju pli)	<adv> the (more, less)	G8,ZG	0    	0000-00-00 00:00:00
@@ -341,12 +341,12 @@ hundo	ŝtelisto	도둑	a thief	NA,4H	0    	0000-00-00 00:00:00
 hundo	instruisto	선생님	a teacher, an instructor	NA,4H,ZG	0    	0000-00-00 00:00:00
 hundo	-estr-	단체의 장, 우두머리 접미사	<suffix> leader, boss, head, chief	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	kio	무엇	what	KO,G1,4H	0    	0000-00-00 00:00:00
-hundo	nenio	존재하지 않는것, 아무것도 없는것 대명사	nothing, none, not any thing	KO,G1,4H	0    	0000-00-00 00:00:00
-hundo	ĉio	모든 것 대명사	everything	KO,G1,4H	0    	0000-00-00 00:00:00
-hundo	tio	그것, 저것 대명사	that thing, that	KO,G1,4H	0    	0000-00-00 00:00:00
+hundo	nenio	존재하지 않는것, 아무것도 없는것 (대명사)	nothing, none, not any thing	KO,G1,4H	0    	0000-00-00 00:00:00
+hundo	ĉio	모든 것 (대명사)	everything	KO,G1,4H	0    	0000-00-00 00:00:00
+hundo	tio	그것, 저것 (대명사)	that thing, that	KO,G1,4H	0    	0000-00-00 00:00:00
 hundo	malgraŭ ~	~ 임에도 불구하고	<prep> despite ~, in spite of ~	G7	0    	0000-00-00 00:00:00
 hundo	urbo	도시	a city, a town	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
-soni	ĉef-	장의, 우두머리의, 지도자의	<prefix> chief, leading, main	G1,ZG	0    	0000-00-00 00:00:00
+soni	ĉef-	장의, 우두머리의, 지도자의 (접두사)	<prefix> chief, leading, main	G1,ZG	0    	0000-00-00 00:00:00
 soni	soni	소리내다, 울리다	to sound, to make sound	KO,G3,ZG	0    	0000-00-00 00:00:00
 soni	bela	아름다운	beautiful, handsome, pretty	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	kune	함께	together	NA,4H	0    	0000-00-00 00:00:00
@@ -426,7 +426,7 @@ nokte	ruĝa	붉은	red	KO,G2,4H,ZG,ZG	0    	0000-00-00 00:00:00
 nokte	avo	할아버지	a grandfather	KO,G4,4H	0    	0000-00-00 00:00:00
 nokte	monto	산	a mountain	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 nokte	sinjoro	신사	a mister, a gentleman	KO,G2,ZG	0    	0000-00-00 00:00:00
-nokte	teni	붙잡다, 쥐다, 손에 들다	to hold, to hang onto	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
+nokte	teni	쥐다, 손에 들다, 붙잡다	to hold, to hang onto	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 nokte	doktoro	(의학) 박사, 의사	a doctor	KO,G6,4H,ZG	0    	0000-00-00 00:00:00
 nokte	korpo	몸, 신체	a body	KO,G4,ZG	0    	0000-00-00 00:00:00
 nokte	forgesi	잊다	to forget	KO,G4,4H,ZG	0    	0000-00-00 00:00:00
@@ -1322,7 +1322,7 @@ stomako	temas pri	~에 관한 것이다	it is about	ZG	0    	0000-00-00 00:00:00
 stomako	pli-malpli	대략	more or less	ZG	0    	0000-00-00 00:00:00
 stomako	dumil	이천 (2000)	two thousands	ZG	0    	0000-00-00 00:00:00
 stomako	ducent	이백 (200)	two hundreds	ZG	0    	0000-00-00 00:00:00
-stomako	tridek	삼심 (30)	thirty	ZG	0    	0000-00-00 00:00:00
+stomako	tridek	삼십 (30)	thirty	ZG	0    	0000-00-00 00:00:00
 stomako	dek naŭ	십구 (19)	nineteen	ZG	0    	0000-00-00 00:00:00
 stomako	dek sep	십칠 (17)	seventeen	ZG	0    	0000-00-00 00:00:00
 stomako	dek kvin	십오 (15)	fifteen	ZG	0    	0000-00-00 00:00:00
@@ -1763,7 +1763,6 @@ stomako	vojponto	육교(陸橋)	a road bridge	NA	0    	0000-00-00 00:00:00
 stomako	pontlingvo	교량 역할을 하는 언어	a bridge language	NA	0    	0000-00-00 00:00:00
 stomako	paŭzi	정지하다, 휴식하다, 쉬다	to pause, to break, to take a rest	G8	0    	0000-00-00 00:00:00
 stomako	paŭzo	휴식,휴지	a pause, a break, an intermission	NA	0    	0000-00-00 00:00:00
-stomako	Petro	베드로(남자이름, 예수 제자 중 한 사람)	Peter	PA,ZG	0    	0000-00-00 00:00:00
 stomako	kafopaŭzo	커피브레이크	a coffee break	NA	0    	0000-00-00 00:00:00
 stomako	premi	누르다	to press, to squeeze	KO,G3	0    	0000-00-00 00:00:00
 stomako	konduki	이끌다, 인솔하다	to conduct, to lead	KO,G4	0    	0000-00-00 00:00:00
@@ -2102,7 +2101,7 @@ stomako	akvumi	분무하다, 관개하다 (식물에 물을 주다)	to water, to
 stomako	akvofalo	폭포	a waterfall, a cascade	NA	0    	0000-00-00 00:00:00
 stomako	akvomelono	수박	a watermelon	NA	0    	0000-00-00 00:00:00
 stomako	rezervujo (akvo ~)	저수지	a reservoir (water ~)	NA	0    	0000-00-00 00:00:00
-stomako	reteni	붙잡다, 보류하다, 억제하다	to retain, to detain, to hold back	NA	0    	0000-00-00 00:00:00
+stomako	reteni	보류하다, 억제하다, 붙잡다	to retain, to detain, to hold back	NA	0    	0000-00-00 00:00:00
 stomako	ŝtono	돌	a stone	KO,G4	0    	0000-00-00 00:00:00
 stomako	sperta	경험이 있는, 능숙한	experienced, expert	KO,G6	0    	0000-00-00 00:00:00
 stomako	sankta	신성한, 거룩한	holy, sacred	KO,G6	0    	0000-00-00 00:00:00
@@ -2714,7 +2713,7 @@ stomako	atesti	증언하다, 입증하다	to attest, to testify, to affirm	G8	0 
 stomako	ci	<대명사> (친근한 2인칭) 너, 당신, 자기	thou, you	NA,4H	0    	0000-00-00 00:00:00
 stomako	puto	우물	a well, a water well	G7	0    	0000-00-00 00:00:00
 stomako	inklina	~경향이 있는, ~성향의, ~버릇이 있는	inclined, prone	G8	0    	0000-00-00 00:00:00
-stomako	cirkonstanco	환경, 상황	a circumstance	G8	0    	0000-00-00 00:00:00
+stomako	cirkonstanco	상황	a circumstance	G8	0    	0000-00-00 00:00:00
 stomako	ministro	장관, 대신	a minister	G9	0    	0000-00-00 00:00:00
 stomako	parlamento	국회, 의회	parliament, a parliament	G9	0    	0000-00-00 00:00:00
 stomako	stalo	마굿간, 외양간, 우리	a shed, a stall, a stable, a sty	G7	0    	0000-00-00 00:00:00

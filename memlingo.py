@@ -177,9 +177,9 @@ def get_course_info():
             if len(row) < 7:
                 continue
             # rows.append(row)
-            if int(row[5].strip()) >= 6: mastered_count += 1   
+            if int(row[5].strip()) >= 5: mastered_count += 1   
             elif int(row[5].strip()) >= 3: familiar_count += 1  
-            elif int(row[5].strip()) >= 2: done_count += 1                               
+            elif int(row[5].strip()) >= 1: done_count += 1                               
             elif int(row[5].strip()) > 0: started_count += 1
 
             if row[6] != '0000-00-00 00:00:00' and row[6] < now_str: needs_review_count += 1
@@ -392,6 +392,7 @@ def card_next():
         lang = request.args['lang']
         esp_txt = request.args['esp_txt']
         score = request.args['score']
+        index = request.args['index']
     else:
         if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
             email = request.json['email']
@@ -399,21 +400,16 @@ def card_next():
             lang = request.json['lang']
             esp_txt = request.json['esp_txt']
             score = request.json['score']
+            index = request.json['index']
         else: #헤더가 applicaiont/x-www-url-encoded이면: 
             email = request.form['email']
             course = request.form['course']
             lang = request.form['lang']
             esp_txt = request.form['esp_txt']
             score = request.form['score']
+            index = request.form['index']
     # LOG("/api/card-next.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score))
-    
-    #TODO
-    # 로그인 여부를 cookie:login_status를 이용해서 체크하고 필요하면 reject한다.
-    #if not login:
-    # result = {'resp': 'Fail', 'message': 'You are not logged in'}
-    # resp = make_response(jsonify(result))
-    # resp.set_cookie('login_status', 'loged_out')
-    # return resp   
+      
     if esp_txt != "":
         myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
         f = open(myprogress_tsv, 'rb+') # 바이너리 모드, rw모드로 파일 오픈
@@ -465,7 +461,7 @@ def card_next():
         if row[6] == '0000-00-00 00:00:00':
             next_row = row
             break
-        if row[6] <= nowstr and esp_txt != "": #esp_txt == ""이면 old_row를 찾는 것이 아니라 new_row만 찾는다 
+        elif row[6] <= nowstr and index != "0" and index != "1": #처음 2개는 항상 새로운 단어를 제시한다. (오래된 것이 선택되지 않게 막는다.)
             next_row = row
             break
         if oldest_str == "":
@@ -801,9 +797,9 @@ def calc_progress(rows):
     score = 0.0
     for row in rows:
         cnt = int(row[5])
-        if cnt >= 6: score += 1.0
+        if cnt >= 5: score += 1.0
         elif cnt >= 3: score += 0.5
-        elif cnt >= 2: score += 0.3
+        elif cnt >= 1: score += 0.3
         elif cnt > 0: score += 0.1
     # print("rows=%d" % len(rows))
     return (score / len(rows))*100.0
