@@ -257,6 +257,8 @@ var lang_msgs = {
         "masteredA": "마스터한 항목",
         "progressA": "진도율",
         "pointsA": "누적 점수",
+        "progress_msg": "지금 진도율이 $PROGRESS %입니다. 몇 퍼센트 위치로 점프하시겠습니까? 만약 절반을 원하시면 50을 입력해주세요.",
+        "wrong_progress_input": "입력이 잘못되었습니다! 0-100사이의 퍼센트 값을 정수로 입력하세요.",
     },
     "zh-tw": {
         "type_e-mail": "請輸入電子郵件地址。",
@@ -285,7 +287,8 @@ var lang_msgs = {
         "masteredA": "掌握的項目",
         "progressA": "進度率",
         "pointsA": "累計分數",
-
+        "progress_msg": "當前進度為 $PROGRESS %。 你想跳到百分之幾的位置？ 如果您想要一半，請輸入 50。",
+        "wrong_progress_input": "輸入無效！ 輸入 0 到 100 之間的整數百分比值。",
     },
     "zh-cn": {
         "type_e-mail": "请输入电子邮件地址。",
@@ -314,6 +317,8 @@ var lang_msgs = {
         "masteredA": "掌握的项目",
         "progressA": "进度率",
         "pointsA": "累计分数",
+        "progress_msg": "当前进度为 $PROGRESS %。 你想跳到百分之几的位置？ 如果您想要一半，请输入 50。",
+        "wrong_progress_input": "输入无效！ 输入 0 到 100 之间的整数百分比值。",
     },
     "ja-jp": {
         "type_e-mail": "メールアドレスを入力してください。",
@@ -342,6 +347,8 @@ var lang_msgs = {
         "masteredA": "マスターな項目",
         "progressA": "進度率",
         "pointsA": "累積点数",
+        "progress_msg": "今進歩率は$PROGRESS％です。 何パーセントの位置にジャンプしますか？ 半分が必要な場合は50を入力してください。",
+        "wrong_progress_input": "入力が間違っています！ 0〜100の間のパーセント値を整数で入力してください。",
     },
     "en-us": {
         "type_e-mail": "Type in your e-mail adress.",
@@ -370,7 +377,8 @@ var lang_msgs = {
         "masteredA": "Mastered",
         "progressA": "Progress",
         "pointsA": "Points",
-
+        "progress_msg": "Current progress is $PROGRESS %. What percent position do you want to jump to? If you want half, enter 50.",
+        "wrong_progress_input": "Invalid input! Enter a percentage value between 0 and 100 as an integer.",
     },
     "vi-vn": {
         "type_e-mail": "Nhập địa chỉ email của bạn.",
@@ -399,6 +407,8 @@ var lang_msgs = {
         "masteredA": "Thành thạo",
         "progressA": "Tiến trình",
         "pointsA": "Điểm",
+        "progress_msg": "Tiến độ hiện tại là $PROGRESS %. Bạn muốn nhảy tới vị trí phần trăm nào? Nếu bạn muốn một nửa, hãy nhập 50.",
+        "wrong_progress_input": "Đâu vao không hợp lệ! Nhập giá trị phần trăm từ 0 đến 100 dưới dạng số nguyên.",
     }
 };
 
@@ -491,6 +501,9 @@ function display_message() {
     display_msg("masteredK", "innerText", "masteredA");
     display_msg("progressK", "innerText", "progressA");
     display_msg("pointsK", "innerText", "pointsA");
+    display_msg("progress_msg", "innerText", "progress_msg");
+    display_msg("wrong_progress_input", "innerText", "wrong_progress_input");
+
 
     // if ($('lang').value == 'ko-kr') {
     //     $('email1').placeholder = "이메일 주소를 입력해 주세요.";

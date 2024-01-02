@@ -44,6 +44,59 @@ def is_valid_email(email):
 def my_course_dir(email, lang, course):
     return os.path.join("./users", email[0], email,'courses', lang, course)
 
+def is_recent_login(email):
+    # 개인 홈 디렉토리 생성
+    user_dir = os.path.join("./users", email[0], email)
+    if not os.path.exists(user_dir):
+        os.makedirs(user_dir)
+
+    user_info = {}
+    user_info_file = os.path.join(user_dir, "userinfo.json")
+    with open(user_info_file, "r", encoding='utf-8') as f:
+        user_info_json = f.read()    
+        user_info = json.loads(user_info_json)
+    yesterday = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time() - 48*3600))
+    if yesterday <= user_info["last_login"]:
+        return True
+    else:
+        return False
+
+def update_experience_points(email, point):
+    # 개인 홈 디렉토리 생성
+    user_dir = os.path.join("./users", email[0], email)
+    if not os.path.exists(user_dir):
+        os.makedirs(user_dir)
+
+    user_info = {}
+    user_info_file = os.path.join(user_dir, "userinfo.json")
+    with open(user_info_file, "r", encoding='utf-8') as f:
+        user_info_json = f.read()    
+        user_info = json.loads(user_info_json)
+        if not "experience_points" in user_info:
+            user_info["experience_points"] = "0"
+        user_info["experience_points"] = int(user_info["experience_points"])
+        user_info["experience_points"] += point
+        user_info["experience_points"] = str(user_info["experience_points"])
+
+    with open(user_info_file, "w", encoding='utf-8') as f:
+        json.dump(user_info, f)    
+
+def update_last_login(email):
+    # 개인 홈 디렉토리 생성
+    user_dir = os.path.join("./users", email[0], email)
+    if not os.path.exists(user_dir):
+        os.makedirs(user_dir)
+
+    user_info = {}
+    user_info_file = os.path.join(user_dir, "userinfo.json")
+    with open(user_info_file, "r", encoding='utf-8') as f:
+        user_info_json = f.read()    
+        user_info = json.loads(user_info_json)
+        user_info["last_login"] = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+
+    with open(user_info_file, "w", encoding='utf-8') as f:
+        json.dump(user_info, f)
+
 def create_user(email, lang):
     # 개인 홈 디렉토리 생성
     user_dir = os.path.join("./users", email[0], email)
@@ -54,7 +107,9 @@ def create_user(email, lang):
     user_info = {
         "userid": email[:email.find('@')],
         "email": email,
+        "user_created": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),
         "last_login": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),
+        "experience_points": "0",
         "admin_flag": "false"
     }
     user_info_file = os.path.join(user_dir, "userinfo.json")
@@ -248,6 +303,12 @@ def login():
     if not os.path.exists(user_dir):
         create_user(email1, lang)
 
+    if is_recent_login(email1):
+        update_experience_points(email1, 10)
+    else:
+        update_experience_points(email1, 5)
+    update_last_login(email1)
+
     result = {'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang}
     resp = make_response(jsonify(result))
     resp.set_cookie('login_status', 'success')
@@ -291,6 +352,9 @@ def session_finish():
             lang = request.form['lang']
             course = request.form['course']
     LOG("/api/session-finish.api\t%s\t%s\t%s" % (email, lang, course))
+    
+    update_experience_points(email, 10)
+
     result = {'resp': 'OK', 'message': 'Session finished'}
     resp = make_response(jsonify(result))
     return resp

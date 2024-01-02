@@ -1,0 +1,77 @@
+2023-12-29 16:09:47	/api/login.api	a@a.com	a@a.com	ja-jp
+2023-12-29 16:09:48	/api/get_course_info.api	a@a.com	ja-jp
+2023-12-29 16:09:49	/api/get_course_info.api	a@a.com	ja-jp
+2023-12-29 16:10:01	/api/jump-level.api	a@a.com	A	ja-jp	23
+2023-12-29 16:10:01	/api/get_course_info.api	a@a.com	ja-jp
+2023-12-29 16:10:11	/api/login.api	a@a.com	a@a.com	en-us
+2023-12-29 16:10:11	/api/get_course_info.api	a@a.com	en-us
+2023-12-29 16:10:13	/api/get_course_info.api	a@a.com	en-us
+2023-12-29 16:10:18	/api/get_course_info.api	a@a.com	en-us
+2023-12-29 16:10:22	/api/get_course_info.api	a@a.com	zh-cn
+2023-12-29 16:10:24	/api/get_course_info.api	a@a.com	zh-cn
+2023-12-29 16:10:29	/api/get_course_info.api	a@a.com	zh-cn
+2023-12-29 16:10:31	/api/get_course_info.api	a@a.com	zh-tw
+2023-12-29 16:10:33	/api/get_course_info.api	a@a.com	zh-tw
+2023-12-29 16:10:38	/api/get_course_info.api	a@a.com	zh-tw
+2023-12-29 16:10:43	/api/get_course_info.api	a@a.com	vi-vn
+2023-12-29 16:10:44	/api/get_course_info.api	a@a.com	vi-vn
+2023-12-29 16:12:43	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-29 16:15:43	/api/logout.api	a@a.com	ko-kr	C
+2023-12-29 16:15:45	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-12-29 16:15:45	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-29 16:38:23	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-12-29 16:41:03	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-12-29 16:41:03	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-29 16:41:25	/api/logout.api	a@a.com	ko-kr	C
+2023-12-29 16:41:26	/api/login.api	a@a.com	a@a.com	ko-kr
+2023-12-29 16:41:26	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-29 16:41:39	/api/get_course_info.api	a@a.com	ko-kr
+2023-12-29 16:41:41	/api/session-start.api	a@a.com	ko-kr	A
+2023-12-29 16:41:41	/api/card-next.api	a@a.com	A	ko-kr	kiu nun respondas?	8	./quizG.html	ludoviko
+2023-12-29 16:41:41	/api/similar-words.api	a@a.com	A	ko-kr	kiu nun respondas?
+2023-12-29 16:41:44	/api/put-score.api	a@a.com	A	ko-kr	kiu nun respondas?	1
+2023-12-29 16:41:44	/api/playsound.api	a@a.com	ludoviko/kiu nun respondas?.mp3
+2023-12-29 16:41:46	/api/card-next.api	a@a.com	A	ko-kr	la lingvo de ilia patrino	8	./quizC.html	female1
+2023-12-29 16:41:46	/api/playsound.api	a@a.com	ludoviko/kiu nun respondas?.mp3
+2023-12-29 16:41:48	/api/similar-words-kor.api	a@a.com	A	ko-kr	그들 어머니의 그 언어
+2023-12-29 16:41:49	/api/put-score-kor.api	a@a.com	A	ko-kr	어머니가 들어왔다	-1
+2023-12-29 16:41:52	/api/put-score-kor.api	a@a.com	A	ko-kr	그들 어머니의 그 언어	1
+2023-12-29 16:41:52	/api/playsound.api	a@a.com	female1/la lingvo de ilia patrino.mp3
+2023-12-29 16:41:55	/api/card-next.api	a@a.com	A	ko-kr	ĉu via nomo estas ~ ?	8	./quizC.html	female1
+2023-12-29 16:41:55	/api/playsound.api	a@a.com	male2/la lingvo de ilia patrino.mp3
+2023-12-29 16:41:58	/api/similar-words-kor.api	a@a.com	A	ko-kr	당신의 이름이 ~ 입니까?
+2023-12-29 16:41:59	/api/playsound.api	a@a.com	male2/ĉu via nomo estas ~ ?.mp3
+2023-12-29 16:42:03	/api/put-score-kor.api	a@a.com	A	ko-kr	당신의 이름은 ~입니다	-1
+2023-12-29 16:42:04	/api/put-score-kor.api	a@a.com	A	ko-kr	당신의 이름은 무엇입니까?	-1
+2023-12-29 16:42:05	/api/put-score-kor.api	a@a.com	A	ko-kr	당신의 이름이 ~ 입니까?	1
+2023-12-29 16:42:05	/api/playsound.api	a@a.com	male2/ĉu via nomo estas ~ ?.mp3
+2023-12-29 16:42:08	/api/card-next.api	a@a.com	A	ko-kr	ni sidas kaj respondas	8	./quizF.html	female1
+2023-12-29 16:42:08	/api/playsound.api	a@a.com	male2/ĉu via nomo estas ~ ?.mp3
+2023-12-29 16:42:11	/api/playsound.api	a@a.com	female1/ni sidas kaj respondas.mp3
+2023-12-29 16:42:13	/api/card-next.api	a@a.com	A	ko-kr	ŝia labora seĝo	8	./quizC.html	ludoviko
+2023-12-29 16:42:13	/api/playsound.api	a@a.com	female2/ni sidas kaj respondas.mp3
+2023-12-29 16:42:15	/api/similar-words-kor.api	a@a.com	A	ko-kr	그녀의 일하는 의자
+2023-12-29 16:42:16	/api/playsound.api	a@a.com	ludoviko/ŝia labora seĝo.mp3
+2023-12-29 16:42:19	/api/put-score-kor.api	a@a.com	A	ko-kr	그녀의 일하는 의자	1
+2023-12-29 16:42:19	/api/playsound.api	a@a.com	female2/ŝia labora seĝo.mp3
+2023-12-29 16:42:21	/api/card-next.api	a@a.com	A	ko-kr	ĝia nomo ne estas ~	8	./quizE.html	male1
+2023-12-29 16:42:21	/api/playsound.api	a@a.com	ludoviko/ŝia labora seĝo.mp3
+2023-12-29 16:42:25	/api/playsound.api	a@a.com	male1/ĝia nomo ne estas ~.mp3
+2023-12-29 16:42:26	/api/card-next.api	a@a.com	A	ko-kr	ŝia lingvo estas ilia lingvo	8	./quizH.html	male1
+2023-12-29 16:42:26	/api/playsound.api	a@a.com	female2/ĝia nomo ne estas ~.mp3
+2023-12-29 16:42:28	/api/similar-words.api	a@a.com	A	ko-kr	ŝia lingvo estas ilia lingvo
+2023-12-29 16:42:29	/api/playsound.api	a@a.com	female2/ŝia lingvo estas ilia lingvo.mp3
+2023-12-29 16:42:31	/api/put-score.api	a@a.com	A	ko-kr	ŝia lingvo estas ilia lingvo	1
+2023-12-29 16:42:31	/api/playsound.api	a@a.com	ludoviko/ŝia lingvo estas ilia lingvo.mp3
+2023-12-29 16:42:34	/api/card-next.api	a@a.com	A	ko-kr	nia patro kaj patrino	8	./quizE.html	female2
+2023-12-29 16:42:34	/api/playsound.api	a@a.com	male1/ŝia lingvo estas ilia lingvo.mp3
+2023-12-29 16:42:38	/api/playsound.api	a@a.com	female2/nia patro kaj patrino.mp3
+2023-12-29 16:42:40	/api/card-next.api	a@a.com	A	ko-kr	via lernanto, viaj lernantoj	8	./quizE.html	female1
+2023-12-29 16:42:40	/api/playsound.api	a@a.com	male2/nia patro kaj patrino.mp3
+2023-12-29 16:42:42	/api/playsound.api	a@a.com	female1/via lernanto, viaj lernantoj.mp3
+2023-12-29 16:42:46	/api/card-next.api	a@a.com	A	ko-kr	ĉu ili estas viaj lernantoj?	8	./quizE.html	ludoviko
+2023-12-29 16:42:46	/api/playsound.api	a@a.com	female2/via lernanto, viaj lernantoj.mp3
+2023-12-29 16:42:49	/api/playsound.api	a@a.com	ludoviko/ĉu ili estas viaj lernantoj?.mp3
+2023-12-29 16:42:51	/api/playsound.api	a@a.com	female1/ĉu ili estas viaj lernantoj?.mp3
+2023-12-29 16:42:54	/api/session-finish.api	a@a.com	ko-kr	A
+2023-12-29 16:42:57	/api/get_course_info.api	a@a.com	ko-kr

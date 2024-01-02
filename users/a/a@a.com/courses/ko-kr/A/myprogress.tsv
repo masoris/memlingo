@@ -8,7 +8,7 @@ Saluton	mia, via	나의, 당신의	my, your	Saluton	9    	2024-05-02 16:12:00
 Saluton	nomo	이름	a name	Saluton	9    	2024-05-02 16:13:00
 Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	9    	2024-05-02 16:14:00
 Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	9    	2024-05-02 16:15:00
-Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	9    	2024-05-02 16:16:00
+Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	5    	2023-12-31 16:42:03
 Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did	Saluton	9    	2024-05-02 16:17:00
 Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, were (future) will be	Saluton	9    	2024-05-03 16:18:00
 Saluton	nomo, nomon	이름, 이름을	a name, an (objective) name	Saluton	9    	2024-05-03 16:19:00
@@ -17,7 +17,7 @@ Saluton	vi fartas	당신은 지낸다	you are doing ~	Saluton	9    	2024-05-03 1
 Saluton	kiel	어떻게	how	Saluton	9    	2024-05-03 16:22:00
 Saluton	kiel vi fartas?	당신은 어떻게 지내세요?	how are you doing?	Saluton	9    	2024-05-03 16:23:00
 Saluton	kio	무엇	what	Saluton	9    	2024-05-03 16:24:00
-Saluton	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	Saluton	9    	2024-05-03 16:25:00
+Saluton	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	Saluton	5    	2023-12-31 16:42:04
 Saluton	bona, bone	좋은 (형용사), 잘 (부사)	good, well	Saluton	9    	2024-05-03 16:26:00
 Saluton	fartas bone	잘 지낸다 (지내고 있다)	is doing well	Saluton	9    	2024-05-03 16:27:00
 Saluton	mi fartas bone	나는 잘 지냅니다	I am doing well	Saluton	9    	2024-05-03 16:28:00
@@ -113,15 +113,15 @@ Amiko	ĉu ŝi estas patrino?	그녀는 어머니인가?	is she a mother?	Amiko	9
 Amiko	ne, ŝi estas hotelisto	아니오, 그녀는 호텔직원입니다	no, she is an hotelier	Amiko	9    	2024-05-14 16:32:00
 Amiko	ne, mi ne laboras	아니오, 저는 일하지 않습니다	no, I don't work	Amiko	9    	2024-05-14 16:33:00
 Amiko	kio estas ŝia nomo?	그녀의 이름은 무엇인가요?	what is her name?	Amiko	9    	2024-05-14 16:34:00
-Amiko	kiu nun respondas?	누가 지금 대답하고 있습니까?	who is now answering?	Amiko	8    	2023-11-17 16:38:00
-Amiko	la lingvo de ilia patrino	그들 어머니의 그 언어	the language of their mother	Amiko	8    	2023-11-17 16:39:00
-Amiko	ĉu via nomo estas ~ ?	당신의 이름이 ~ 입니까?	is your name ~ ?	Amiko	8    	2023-11-17 16:40:00
-Amiko	ni sidas kaj respondas	우리는 앉아서 대답한다	we are sitting and answering	Amiko	8    	2023-11-17 16:41:00
-Amiko	ŝia labora seĝo	그녀의 일하는 의자	her working chair	Amiko	8    	2023-11-17 16:42:00
-Amiko	ĝia nomo ne estas ~	그것의 이름은 ~가 아니다	its name is not ~	Amiko	8    	2023-11-17 16:43:00
-Amiko	ŝia lingvo estas ilia lingvo	그녀의 언어가 그들의 언어이다	her language is their language	Amiko	8    	2023-11-17 16:44:00
-Amiko	nia patro kaj patrino	우리의 아버지와 어머니	our father and mother	Amiko	8    	2023-11-17 16:45:00
-Amiko	via lernanto, viaj lernantoj	당신의 학생, 당신의 학생들	your student, your students	Amiko	8    	2023-11-17 16:46:00
+Amiko	kiu nun respondas?	누가 지금 대답하고 있습니까?	who is now answering?	Amiko	10   	2025-12-18 16:41:46
+Amiko	la lingvo de ilia patrino	그들 어머니의 그 언어	the language of their mother	Amiko	10   	2025-12-18 16:41:55
+Amiko	ĉu via nomo estas ~ ?	당신의 이름이 ~ 입니까?	is your name ~ ?	Amiko	10   	2025-12-18 16:42:08
+Amiko	ni sidas kaj respondas	우리는 앉아서 대답한다	we are sitting and answering	Amiko	9    	2024-06-26 16:42:13
+Amiko	ŝia labora seĝo	그녀의 일하는 의자	her working chair	Amiko	10   	2025-12-18 16:42:21
+Amiko	ĝia nomo ne estas ~	그것의 이름은 ~가 아니다	its name is not ~	Amiko	9    	2024-06-26 16:42:26
+Amiko	ŝia lingvo estas ilia lingvo	그녀의 언어가 그들의 언어이다	her language is their language	Amiko	10   	2025-12-18 16:42:34
+Amiko	nia patro kaj patrino	우리의 아버지와 어머니	our father and mother	Amiko	9    	2024-06-26 16:42:40
+Amiko	via lernanto, viaj lernantoj	당신의 학생, 당신의 학생들	your student, your students	Amiko	9    	2024-06-26 16:42:46
 Amiko	ĉu ili estas viaj lernantoj?	그들이 당신의 학생들입니까?	are they your students?	Amiko	8    	2023-11-18 16:16:00
 Amiko	ĉu vi estas lernanto?	당신은 학생인가?	are you a student?	Amiko	8    	2023-11-18 16:17:00
 Amiko	ĉu vi estas en la ĉambro?	너는 그 방에 있는가?	are you in the room?	Amiko	8    	2023-11-18 16:18:00
@@ -729,7 +729,7 @@ Malbela Tago	diris al mi mem	나 스스로에게 말했다	said to myself	ĉiam 
 Malbela Tago	tiom malsaĝa	그렇게 멍청한	so stupid	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ĉu mi estas tiom malsaĝa?	내가 그렇게 멍청한가?	am I that stupid?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kvankam mi lernis multe	내가 많이 공부했음에도 불구하고	although I learned a lot	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	la patrino eniris	어머니가 들어왔다	the mother entered	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	la patrino eniris	어머니가 들어왔다	the mother entered	ĉiam Malfrue	1    	2023-12-29 16:43:49
 Malbela Tago	miaj vortoj	나의 말들	my words	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kaj aŭdis miajn vortojn	그리고 내가 말하는 것들을 들었다	and heard my words	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ŝi tuj respondis	그녀는 즉시 대답했다	she answered immediately	ĉiam Malfrue	0    	0000-00-00 00:00:00
