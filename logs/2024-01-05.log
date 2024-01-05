@@ -1,0 +1,18 @@
+2024-01-05 16:48:28	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-01-05 16:48:28	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-05 16:48:31	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-05 16:48:56	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-05 16:53:14	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-05 16:53:19	/api/session-start.api	a@a.com	ko-kr	A
+2024-01-05 16:53:19	/api/card-next.api	a@a.com	A	ko-kr	via nomo estas ~	5	./quizE.html	male1
+2024-01-05 16:53:20	/api/playsound.api	a@a.com	male1/via nomo estas ~.mp3
+2024-01-05 16:53:23	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-05 16:53:28	/api/get_course_info.api	a@a.com	ja-jp
+2024-01-05 16:53:31	/api/get_course_info.api	a@a.com	ja-jp
+2024-01-05 16:53:33	/api/session-start.api	a@a.com	ja-jp	C
+2024-01-05 16:53:33	/api/card-next.api	a@a.com	C	ja-jp	doni	0	./quizF.html	male1
+2024-01-05 16:53:34	/api/playsound.api	a@a.com	male1/doni.mp3
+2024-01-05 16:53:35	/api/card-next.api	a@a.com	C	ja-jp	mi	0	./quizA.html	female1
+2024-01-05 16:53:35	/api/playsound.api	a@a.com	female1/doni.mp3
+2024-01-05 16:53:36	/api/similar-words-jk.api	a@a.com	C	ja-jp	mi	
+2024-01-05 16:53:37	/api/get_course_info.api	a@a.com	ja-jp

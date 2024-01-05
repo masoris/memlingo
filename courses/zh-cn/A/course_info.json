@@ -1,11 +1,7 @@
 {
-    "name": "Esperanto A (Memlingo 世界语)",
-    "description": "<font color=red>是自动翻译。 存在错误。</font>这是世界语初级路线。 完成这个路线后，就可以进行基本的自我介绍和交朋友所需的会话。 这条路线是以著名的萨格勒布路线(Zagreba Kurso)为基础建造的。<font color=red>如果您想帮助修改中文，请发送邮件到 memlingo.service@gmail.com </font>",
-    "short_description": "初级世界语路线、世界语基础、Baza Esperanto、萨格勒布路线、Zagreba Kurso",
-    "tags": "世界语、 Esperanto、 Zagreba Kurso",
-    "source": "8",
-    "target": "34",
-    "audio_mode": "on",
-    "base_url": "https://www.memrise.com/course/5699033/",
-    "course_status": "3"
+  "name": "Esperanto A (Memlingo 世界语)",
+  "description": "<font color=red>是自动翻译。 存在错误。</font>这是世界语初级路线。 完成这个路线后，就可以进行基本的自我介绍和交朋友所需的会话。 这条路线是以著名的萨格勒布路线(Zagreba Kurso)为基础建造的。<font color=red>如果您想帮助修改中文，请发送邮件到 memlingo.service@gmail.com </font>",
+  "short_description": "初级世界语路线、世界语基础、Baza Esperanto、萨格勒布路线、Zagreba Kurso",
+  "tags": "世界语、 Esperanto、 Zagreba Kurso",
+  "modified": "2024-01-05 16:52:39"
 }

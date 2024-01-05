@@ -1,11 +1,7 @@
 {
-    "name": "Esperanto A (Memlingo)",
-    "description": "<font color=red>Có lỗi do dịch tự động.</font>Đây là khóa học sơ cấp của Esperanto. Sau khi kết thúc khóa học này, bạn sẽ có thể giới thiệu bản thân cơ bản và hội thoại cần thiết để kết bạn. Khóa học này dựa trên khóa học Zagreba Kurso nổi tiếng. <font color=red>Nếu muốn chỉnh sửa tiếng Việt xin vui lòng gửi mail đến memlingo.service@gmail.com </font>",
-    "short_description": "Khóa học sơ cấp Esperanto, cơ sở Esperanto, Baza Esperanto, khóa học Zagreba Kurso.",
-    "tags": "Esperanto, Esperanto, Zagreba Kurso",
-    "source": "8",
-    "target": "34",
-    "audio_mode": "on",
-    "base_url": "https://www.memrise.com/course/5699033/",
-    "course_status": "3"
+  "name": "Esperanto A (Tiếng Tây Ban Nha)",
+  "description": "<font color=red>Có lỗi do dịch tự động.</font>Đây là khóa học sơ cấp của Esperanto. Sau khi kết thúc khóa học này, bạn sẽ có thể giới thiệu bản thân cơ bản và hội thoại cần thiết để kết bạn. Khóa học này dựa trên khóa học Zagreba Kurso nổi tiếng. <font color=red>Nếu muốn chỉnh sửa tiếng Việt xin vui lòng gửi mail đến memlingo.service@gmail.com </font>",
+  "short_description": "Khóa học sơ cấp Esperanto, cơ sở Esperanto, Baza Esperanto, khóa học Zagreba Kurso.",
+  "tags": "Esperanto, Esperanto, Zagreba Kurso",
+  "modified": "2024-01-05 16:52:39"
 }

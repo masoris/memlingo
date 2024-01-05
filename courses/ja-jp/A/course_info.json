@@ -1,11 +1,7 @@
 {
-    "name": "Esperanto A (エスペラント)",
-    "description": "<font color=red>自動翻訳のためにエラーがあります。</font>エスペラント初級コースです。 このコースを終えると、基本的な自己紹介や友達作りに必要な会話ができるようになるでしょう。 このコースは有名なザグレブコース(Zagreba Kurso)をベースに作られています。<font color=red>日本語の校正作業に参加したい場合は、memlingo.service@gmail.com にメールを送ってください。</font>",
-    "short_description": "初級エスペラントコース、エスペラント基礎、Baza Esperanto、ザグレブコース、Zagreba Kurso",
-    "tags": "エスペラント、Esperanto、Zagreba Kurso",
-    "source": "8",
-    "target": "34",
-    "audio_mode": "on",
-    "base_url": "https://www.memrise.com/course/5414424",
-    "course_status": "3"
+  "name": "Esperanto A (エスペラント)",
+  "description": "<font color=red>自動翻訳のためにエラーがあります。</font>エスペラント初級コースです。 このコースを終えると、基本的な自己紹介や友達作りに必要な会話ができるようになるでしょう。 このコースは有名なザグレブコース(Zagreba Kurso)をベースに作られています。<font color=red>校正作業に参加したい場合は、memlingo.service@gmail.com にメールを送ってください。</font>",
+  "short_description": "初級エスペラントコース、エスペラント基礎、Baza Esperanto、ザグレブコース、Zagreba Kurso",
+  "tags": "エスペラント、Esperanto、Zagreba Kurso",
+  "modified": "2024-01-05 16:52:39"
 }
