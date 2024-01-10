@@ -20,9 +20,9 @@ glacio	-as	<suffix> present tense	<suffix>présent	KO,G1,ZG	0    	0000-00-00 00:
 kanti	-is	<suffix> past tense	<suffix>passé	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	esti	to be	être	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kanti	-os	<suffix> future tense	<suffix>le futur	KO,G1,ZG	0    	0000-00-00 00:00:00
-kanti	antaŭ ~	<prep> before ~, in front of ~	<prep>avant ~, devant ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	antaŭ ~	<preposition> before ~, in front of ~	<prep>avant ~, devant ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	fari	to make, to do	faire, faire	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-kanti	ankaŭ ~	<prep> also, too	<prep>aussi trop	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	ankaŭ ~	<preposition> also, too	<prep>aussi trop	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	post ~	after ~	après ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	mal-	<prefix> opposite	<prefix>opposé	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	-ul-	<suffix> a person of some trait	<suffix>une personne ayant un certain caractère	KO,G1,ZG	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ veturi	neniam	never, at no time, not ever	jamais, à aucun moment, jamais	KO,G1,
 veturi	tial	therefore, so	donc, donc	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kial	why, what for	pourquoi, pour quoi faire	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kvankam	although ~, while, though	bien que ~, pendant que, cependant	KO,G1,ZG	0    	0000-00-00 00:00:00
-veturi	ĉe ~	<prep> at ~	<prep>à ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+veturi	ĉe ~	<preposition> at ~	<prep>à ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	pli	more	plus	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	plej	most	la plupart	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 glacio	diri	to say, to tell	dire, dire	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -95,7 +95,7 @@ kanti	facila	easy, facile	facile, facile	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 hundo	re-	<prefix> re-	<prefix>concernant-	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	granda	big, great, large	grand, grand, grand	KO,G2,ZG	0    	0000-00-00 00:00:00
 hundo	-ist-	<suffix> professional	<suffix>professionnel	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	pro ~	<prep> because of ~, due to ~	<prep>à cause de ~, à cause de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+hundo	pro ~	<preposition> because of ~, due to ~	<prep>à cause de ~, à cause de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	-estr-	<suffix> leader, boss, head, chief	<suffix>chef, patron, chef, chef	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	kio	what	quoi	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	manĝi	to eat	manger	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
@@ -106,12 +106,12 @@ kanti	riĉa	rich, wealthy, well-off	riche, riche, aisé	KO,G2,4H,ZG	0    	0000-0
 hundo	tio	that thing, that	cette chose, ça	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	konstrui	to build, to construct	construire, construire	KO,G3	0    	0000-00-00 00:00:00
 soni	ĉef-	<prefix> chief, leading, main	<prefix>chef, leader, principal	G1,ZG	0    	0000-00-00 00:00:00
-soni	sen ~	<prep> without ~	<prep>sans ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-soni	kun ~	<prep> with ~ (together)	<prep>avec ~ (ensemble)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-soni	krom ~	<prep> except ~, besides ~	<prep>sauf ~, en plus ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	sen ~	<preposition> without ~	<prep>sans ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	kun ~	<preposition> with ~ (together)	<prep>avec ~ (ensemble)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	krom ~	<preposition> except ~, besides ~	<prep>sauf ~, en plus ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	amiko	a friend	un ami	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	kies	whose, which one's, of which	à qui, lequel, dont	KO,G1,4H	0    	0000-00-00 00:00:00
-soni	per ~	<prep> by ~ (a method), with ~ (a tool)	<prep>par ~ (une méthode), avec ~ (un outil)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	per ~	<preposition> by ~ (a method), with ~ (a tool)	<prep>par ~ (une méthode), avec ~ (un outil)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	kontraŭ ~	against ~	contre ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	el ~	out of ~, from ~	hors de ~, de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hodiaŭ	today	aujourd'hui	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -168,7 +168,7 @@ stomako	-il-	<suffix> tool, method	<suffix>outil, méthode	KO,G1,ZG	0    	0000-0
 glacio	trinki	to drink (non-alkohol)	boire (sans alcool)	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 stomako	-et-	<suffix> small, little	<suffix>petit peu	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	-eg-	<suffix> big, large	<suffix>grand, grand	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	inter ~	<prep> between ~	<prep>entre ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	inter ~	<preposition> between ~	<prep>entre ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	-um-	<suffix> related behavior	<suffix>comportement associé	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	-ar-	<suffix> set, group	<suffix>ensemble, groupe	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	-an-	<suffix> member of a group	<suffix>membre d'un groupe	KO,G1,ZG	0    	0000-00-00 00:00:00
@@ -177,13 +177,13 @@ stomako	-ind-	<suffix> worthwhile, worthy	<suffix>utile, digne	KO,G1,ZG	0    	00
 stomako	plu	even more, further, and so on, more	encore plus, plus loin, et ainsi de suite, plus	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	kiel	how, like, in what way, such as	comment, genre, de quelle manière, comme	KO,G1,4H	0    	0000-00-00 00:00:00
 stomako	tiel	such, in that way, thus	tel, de cette façon, ainsi	KO,G1,4H	0    	0000-00-00 00:00:00
-stomako	en ~	<prep> in ~	<prep>dans ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	apud ~	<prep> next to ~, beside ~	<prep>à côté de ~, à côté de ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sub ~	<prep> under, beneath ~	<prep>dessous, dessous ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sur ~	<prep> on ~	<prep>sur ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	je ~	<prep> indefinate prep., at, in, by, on	<prep>préparation indéfinie, à, dans, par, sur	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	en ~	<preposition> in ~	<prep>dans ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	apud ~	<preposition> next to ~, beside ~	<prep>à côté de ~, à côté de ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sub ~	<preposition> under, beneath ~	<prep>dessous, dessous ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sur ~	<preposition> on ~	<prep>sur ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	je ~	<preposition> indefinate prep., at, in, by, on	<prep>préparation indéfinie, à, dans, par, sur	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ankoraŭ	<adv> still, yet	<adv>encore, encore	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ĉirkaŭ ~	<prep> around ~	<prep>autour de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ĉirkaŭ ~	<preposition> around ~	<prep>autour de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	sed	but	mais	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ie	somewhere	quelque part	KO,G1	0    	0000-00-00 00:00:00
 stomako	kie	where, at what place	où, à quel endroit	KO,G1,4H	0    	0000-00-00 00:00:00
@@ -194,7 +194,7 @@ stomako	tie	there, over there, yonder	là, là-bas, là-bas	KO,G1,4H	0    	0000-
 stomako	ĉi	this ~	ça ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	kanti	to sing	chanter	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 kiom	morti	to die, to pass away	mourir, décéder	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-stomako	dum ~	<prep> during ~, while ~	<prep>pendant ~, pendant que ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	dum ~	<preposition> during ~, while ~	<prep>pendant ~, pendant que ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	nacio	a nation	une nation	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	koni	to know (a person), to be aquainted with	connaître (une personne), faire la connaissance de	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	scii	to know (a fact, knowledge), to know how	savoir (un fait, une connaissance), savoir comment	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ glacio	ŝtupo	a step, a stair, a rung	une marche, un escalier, un barreau	NA	0  
 stomako	bordo	a shore, a waterfront, a bank	un rivage, un front de mer, une banque	KO,G5	0    	0000-00-00 00:00:00
 stomako	justa	fair, just, righteous	juste, juste, juste	KO,G4	0    	0000-00-00 00:00:00
 stomako	lumo	a light	une lumière	KO,G4	0    	0000-00-00 00:00:00
-stomako	malgraŭ ~	<prep> despite ~, in spite of ~	<prep>malgré ~, malgré ~	KO,4H	0    	0000-00-00 00:00:00
+stomako	malgraŭ ~	<preposition> despite ~, in spite of ~	<prep>malgré ~, malgré ~	KO,4H	0    	0000-00-00 00:00:00
 hundo	drinkado	drinking action	action de boire	G7	0    	0000-00-00 00:00:00
 glacio	aŭtomobilo	a car, an automobile, a motor car (=aŭto)	une voiture, une automobile, une automobile (=aŭto)	NA	0    	0000-00-00 00:00:00
 veturi	bonvoli	to will (from heart), to want (from heart)	vouloir (du cœur), vouloir (du cœur)	G8,4H	0    	0000-00-00 00:00:00

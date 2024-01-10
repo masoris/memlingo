@@ -1,0 +1,39 @@
+2024-01-10 16:24:01	/api/login.api	a@a.com	a@a.com	ja-jp
+2024-01-10 16:24:02	/api/get_course_info.api	a@a.com	ja-jp
+2024-01-10 16:24:06	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-10 16:24:09	/api/get_course_info.api	a@a.com	en-us
+2024-01-10 16:24:11	/api/get_course_info.api	a@a.com	ja-jp
+2024-01-10 16:24:15	/api/get_course_info.api	a@a.com	zh-cn
+2024-01-10 16:24:18	/api/get_course_info.api	a@a.com	zh-tw
+2024-01-10 16:24:20	/api/get_course_info.api	a@a.com	vi-vn
+2024-01-10 16:24:52	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-10 16:25:00	/api/get_course_info.api	a@a.com	en-us
+2024-01-10 16:25:06	/api/get_course_info.api	a@a.com	ja-jp
+2024-01-10 16:25:09	/api/get_course_info.api	a@a.com	en-us
+2024-01-10 16:25:11	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-10 16:28:09	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-10 16:28:46	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-10 16:31:37	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-10 16:53:04	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-01-10 16:53:04	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-10 16:53:06	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-10 16:53:07	/api/session-start.api	a@a.com	ko-kr	A
+2024-01-10 16:53:07	/api/card-next.api	a@a.com	A	ko-kr	via nomo estas ~	5	./quizB.html	ludoviko
+2024-01-10 16:53:07	/api/similar-words.api	a@a.com	A	ko-kr	via nomo estas ~
+2024-01-10 16:53:08	/api/playsound.api	a@a.com	female2/mia nomo estas ~.mp3
+2024-01-10 16:53:11	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-10 16:53:15	/api/get_course_info.api	a@a.com	ja-jp
+2024-01-10 16:53:19	/api/get_course_info.api	a@a.com	ja-jp
+2024-01-10 16:53:20	/api/session-start.api	a@a.com	ja-jp	C
+2024-01-10 16:53:20	/api/card-next.api	a@a.com	C	ja-jp	doni	1	./quizI.html	male1
+2024-01-10 16:53:20	/api/similar-words-jk.api	a@a.com	C	ja-jp	doni	
+2024-01-10 16:53:21	/api/playsound.api	a@a.com	male1/doni.mp3
+2024-01-10 16:53:23	/api/playsound.api	a@a.com	male2/doni.mp3
+2024-01-10 16:53:24	/api/card-next.api	a@a.com	C	ja-jp	mi	0	./quizH.html	ludoviko
+2024-01-10 16:53:24	/api/playsound.api	a@a.com	male1/doni.mp3
+2024-01-10 16:53:25	/api/similar-words.api	a@a.com	C	ja-jp	mi
+2024-01-10 16:53:27	/api/put-score.api	a@a.com	C	ja-jp	timi	-1
+2024-01-10 16:53:27	/api/playsound.api	a@a.com	female1/timi.mp3
+2024-01-10 16:53:29	/api/put-score.api	a@a.com	C	ja-jp	mi	1
+2024-01-10 16:53:29	/api/playsound.api	a@a.com	male1/mi.mp3
+2024-01-10 16:53:32	/api/get_course_info.api	a@a.com	ja-jp

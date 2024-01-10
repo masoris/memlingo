@@ -128,10 +128,6 @@ img.img_a {
     color: #111;
 }
 
-.Words-600-Words-t .text-style-1 {
-    /* font-family: Arial, sans-serif; */
-}
-
 .Rectangle-Button {
     width: 100%;
     height: 60px;
@@ -215,6 +211,10 @@ img.img_b {
     line-height: 1.57;
     letter-spacing: normal;
     color: #111;
+}
+
+.Course_table {
+    width: 100%;
 }
 
 .Esperanto-C- {

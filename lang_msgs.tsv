@@ -1,0 +1,29 @@
+msg_id	ko-kr	zh-tw	zh-cn	en-us	ja-jp	vi-vn	fr
+type_e-mail	이메일 주소를 입력해 주세요.	請輸入電子郵件地址。	请输入电子邮件地址。	Type in your e-mail adress.	メールアドレスを入力してください。	Nhập địa chỉ email của bạn.	Saisissez votre adresse e-mail.
+type_e-mail_again	이메일 주소를 한 번 더 입력해 주세요.	請再輸入一次電子郵件地址。	请再输入一次电子邮件地址。	Type in your e-mail adress again.	メールアドレスをもう一度入力してください。	Nhập lại địa chỉ email của bạn.	Saisissez à nouveau votre adresse e-mail.
+type_e-mail_twice	이메일을 두 번 입력해주세요.	請輸入兩次電子郵件	请输入两次电子邮件	Enter your e-mail twice.	Eメールを二度入力してください。	Nhập e-mail của bạn hai lần.	Entrez votre e-mail deux fois.
+listen_and_fill	듣고 빈칸을 채우세요.	聽完後填滿空格。	听完后填满空格。	Listen and fill blanks.	聞いて空欄を埋めてください。	Nghe và điền vào chỗ trống.	Écoutez et remplissez les blancs.
+match_correct	짝을 맞추세요.	請配對。	请配对。	Match correct pairs.	ペアを組んでください。	Ghép các cặp đúng.	Faites correspondre les bonnes paires.
+choose_the_level	이것이 쉽나요? 어렵나요?	這容易嗎? 很難嗎？	这容易吗? 很难吗？	Choose the level how you feel about this.	これが簡単ですか？ 難しいですか？	Hãy chọn mức độ bạn cảm nhận về điều này.	Choisissez le niveau de ce que vous ressentez à ce sujet.
+select_what_you_hear	들어보고 선택하세요.	請聽後選擇。	请听后选择。	Select what you hear.	聞いてみて選択してください。	Chọn những gì bạn nghe thấy	Sélectionnez ce que vous entendez.
+select_correct_one	맞는 것을 선택하세요.	請選擇正確的。	请选择正确的。	Select correct one.	正しいものを選択してください。	Chọn đúng.	Sélectionnez le bon.
+learned_these_word	방금 학습하신 목록입니다.	這是您剛學習的清單。	这是您刚刚学习的列表。	You have just learned these words.	先ほど学習したリストです。	Bạn vừa học được những từ này.	Vous venez d'apprendre ces mots.
+span_learn_by_examples	예제를 통한 에스페란토 학습	透過例題學習世界語	通过例题学习世界语	Learn Esperanto by Examples	例題によるエスペラント学習	Học Esperanto qua ví dụ	Apprendre l'espéranto par des exemples
+Btn_Start_learning	학습 시작하기	開始學習	开始学习	Start Learning	学習を始める	Bắt đầu học	Commencer à apprendre
+btn_continue	다음	下一個	下一个	Continue	次	Tiếp tục	Continuer
+btn_listen_continue	듣고 다음으로	聽完之後	听完之后	Listen and Continue	聞いてから次へ	Nghe và tiếp tục	Écoutez et continuez
+btn_listen	들어보기	聽	听	Listen	聞いてみる	Nghe này	Écouter
+btn_hard	어려워요	好難	好难	Hard for me	難しいです	Khó	Difficile pour moi
+btn_easy	쉬워요	簡單	简单	Easy to me	簡単です	Dễ	Facile pour moi
+btn_too_easy	너무쉬워요	很簡單	很简单	Too easy	とても簡単です	Quá dễ	Trop facile
+btn_login	로그인	登入	登录	Login	ログイン	Đăng nhập	Se connecter
+Btn_StartA	학습시작	學習開始	学习开始	Start Learning	学習開始	Bắt đầu học	Commencer à apprendre
+Btn_logout	로그아웃	註銷	注销	Logout	ログアウト	Đăng xuất	Se déconnecter
+wordsA	전체 항목 수	總項目數	总项目数	Words	全項目数	Từ	Mots
+words_to_reviewA	복습 필요 항목	複習項目	复习项目	Words to review	復習必要項目	Những từ cần ôn lại	Mots à revoir
+familiarA	익숙해진 항목	熟悉的項目	熟悉的项目	Familiar	慣れた項目	Quen thuộc	Familier
+masteredA	마스터한 항목	掌握的項目	掌握的项目	Mastered	マスターな項目	Thành thạo	Maîtrisé
+progressA	진도율	進度率	进度率	Progress	進度率	Tiến trình	Progrès
+pointsA	누적 점수	累計分數	累计分数	Points	累積点数	Điểm	Points
+progress_msg	지금 진도율이 $PROGRESS %입니다. 몇 퍼센트 위치로 점프하시겠습니까? 만약 절반을 원하시면 50을 입력해주세요.	當前進度為 $PROGRESS %。 你想跳到百分之幾的位置？ 如果您想要一半，請輸入 50。	当前进度为 $PROGRESS %。 你想跳到百分之几的位置？ 如果您想要一半，请输入 50。	Current progress is $PROGRESS %. What percent position do you want to jump to? If you want half, enter 50.	今進歩率は$PROGRESS％です。 何パーセントの位置にジャンプしますか？ 半分が必要な場合は50を入力してください。	Tiến độ hiện tại là $PROGRESS %. Bạn muốn nhảy tới vị trí phần trăm nào? Nếu bạn muốn một nửa, hãy nhập 50.	La progression actuelle est de $PROGRESS %. À quel pourcentage de position souhaitez-vous accéder ? Si vous en voulez la moitié, entrez 50.
+wrong_progress_input	입력이 잘못되었습니다! 0-100사이의 퍼센트 값을 정수로 입력하세요.	輸入無效！ 輸入 0 到 100 之間的整數百分比值。	输入无效！ 输入 0 到 100 之间的整数百分比值。	Invalid input! Enter a percentage value between 0 and 100 as an integer.	入力が間違っています！ 0〜100の間のパーセント値を整数で入力してください。	Đâu vao không hợp lệ! Nhập giá trị phần trăm từ 0 đến 100 dưới dạng số nguyên.	Entrée invalide! Entrez une valeur de pourcentage comprise entre 0 et 100 sous forme d'entier.

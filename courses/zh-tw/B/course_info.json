@@ -1,11 +1,7 @@
 {
-    "name": "Esperanto B (Memlingo 世界語)",
-    "description": "<font color=red>因爲自動翻譯有錯誤。</font>是中級世界語路線。 是以被稱爲Jen Nia IJK的路線爲基礎製作的。 這是參加IJK(世界青年大會)的內容。<font color=red>如需中文更正，請發送電子郵件至memlingo.service@gmail.com</font>",
-    "short_description": "世界語中級場地，Jen Nia IJK, Esperanto, Memlingo",
-    "tags": "Esperanto, Mezgrada Kurso, Jen Nia IJK, 世界語, 中級路線, IJK",
-    "source": "8",
-    "target": "34",
-    "audio_mode": "on",
-    "base_url": "https://www.memrise.com/course/5699033/",
-    "course_status": "3"
+  "name": "Esperanto B (Memlingo 世界語)",
+  "description": "<font color=red>因爲自動翻譯有錯誤。</font>是中級世界語路線。 是以被稱爲Jen Nia IJK的路線爲基礎製作的。 這是參加IJK(世界青年大會)的內容。<font color=red>要參加漢語教學，請發郵件到 memlingo.service@gmail.com 。</font>",
+  "short_description": "世界語中級場地，Jen Nia IJK, Esperanto, Memlingo",
+  "tags": "Esperanto, Mezgrada Kurso, Jen Nia IJK, 世界語, 中級路線, IJK",
+  "modified": "2024-01-10 16:52:27"
 }

@@ -106,10 +106,10 @@ kanti	fini	~를 끝내다, 마치다	to end, to finish, to terminate	KO,G2,4H,ZG
 kanti	facila	쉬운	easy, facile	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kanti	granda	큰	big, great, large	KO,G2,ZG	0    	0000-00-00 00:00:00
 kanti	angla	영국의, 영어의	English, of England	NA	0    	0000-00-00 00:00:00
-kanti	antaŭ ~	~앞의, ~이전의	<prep> before ~, in front of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	antaŭ ~	~앞의, ~이전의	<preposition> before ~, in front of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	antaŭe	~앞에, ~이전에	ago (adv), previously, formely	NA	0    	0000-00-00 00:00:00
 kanti	antaŭen	앞으로 (방향성)	forward (direction), ahead, forward on	NA	0    	0000-00-00 00:00:00
-kanti	ankaŭ ~	~도, ~도 역시	<prep> also, too	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	ankaŭ ~	~도, ~도 역시	<preposition> also, too	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	post ~	~후에, ~ 다음에	after ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	malantaŭ ~	~뒤에	behind ~	NA	0    	0000-00-00 00:00:00
 kanti	varma	더운, 따뜻한	hot, warm	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
@@ -282,7 +282,7 @@ veturi	tial	그런 이유로, 그래서	therefore, so	KO,G1,4H	0    	0000-00-00 
 veturi	kial	왜	why, what for	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kvankam	비록 ~일지라도	although ~, while, though	KO,G1,ZG	0    	0000-00-00 00:00:00
 veturi	parto	부분, 일부, 몫	a part, a share	KO,G3,ZG	0    	0000-00-00 00:00:00
-veturi	ĉe ~	~(장소)에, ~에 (접촉)	<prep> at ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+veturi	ĉe ~	~(장소)에, ~에 (접촉)	<preposition> at ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	partopreni	참가하다, 같이하다 (parto-)	to participate, to take part	NA,4H	0    	0000-00-00 00:00:00
 veturi	ĉeesti	출석하다, 참석하다, 자리에 있다	to attend, to be present at	NA,4H	0    	0000-00-00 00:00:00
 veturi	preni	취하다, 잡다, 붙잡다, 쥐다	to take, to lay hold of	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -336,7 +336,7 @@ hundo	-ist-	직업 접미사	<suffix> professional	KO,G1,ZG	0    	0000-00-00 00:
 hundo	eksidi	앉는다 (앉다)	to get sit down	NA,ZG	0    	0000-00-00 00:00:00
 hundo	lavi	씻다 (세척하다, 세탁하다)	to wash	KO,G4,4H	0    	0000-00-00 00:00:00
 hundo	kuracisto	의사	a (medical) doctor, a physician	NA,4H	0    	0000-00-00 00:00:00
-hundo	pro ~	~때문에, ~인해서, ~까닭에	<prep> because of ~, due to ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+hundo	pro ~	~때문에, ~인해서, ~까닭에	<preposition> because of ~, due to ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	ŝtelisto	도둑	a thief	NA,4H	0    	0000-00-00 00:00:00
 hundo	instruisto	선생님	a teacher, an instructor	NA,4H,ZG	0    	0000-00-00 00:00:00
 hundo	-estr-	단체의 장, 우두머리 접미사	<suffix> leader, boss, head, chief	KO,G1,ZG	0    	0000-00-00 00:00:00
@@ -344,18 +344,18 @@ hundo	kio	무엇	what	KO,G1,4H	0    	0000-00-00 00:00:00
 hundo	nenio	존재하지 않는것, 아무것도 없는것 (대명사)	nothing, none, not any thing	KO,G1,4H	0    	0000-00-00 00:00:00
 hundo	ĉio	모든 것 (대명사)	everything	KO,G1,4H	0    	0000-00-00 00:00:00
 hundo	tio	그것, 저것 (대명사)	that thing, that	KO,G1,4H	0    	0000-00-00 00:00:00
-hundo	malgraŭ ~	~ 임에도 불구하고	<prep> despite ~, in spite of ~	G7	0    	0000-00-00 00:00:00
+hundo	malgraŭ ~	~ 임에도 불구하고	<preposition> despite ~, in spite of ~	G7	0    	0000-00-00 00:00:00
 hundo	urbo	도시	a city, a town	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 soni	ĉef-	장의, 우두머리의, 지도자의 (접두사)	<prefix> chief, leading, main	G1,ZG	0    	0000-00-00 00:00:00
 soni	soni	소리내다, 울리다	to sound, to make sound	KO,G3,ZG	0    	0000-00-00 00:00:00
 soni	bela	아름다운	beautiful, handsome, pretty	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	kune	함께	together	NA,4H	0    	0000-00-00 00:00:00
 soni	kunveni	모이다, 회동하다, 회합하다	to convene, to gather, to meet	NA,ZG	0    	0000-00-00 00:00:00
-soni	sen ~	~없이	<prep> without ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-soni	kun ~	~와 함께	<prep> with ~ (together)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-soni	krom ~	~외에, ~말고도	<prep> except ~, besides ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	sen ~	~없이	<preposition> without ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	kun ~	~와 함께	<preposition> with ~ (together)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	krom ~	~외에, ~말고도	<preposition> except ~, besides ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	kies	누구의, 누구 것의	whose, which one's, of which	KO,G1,4H	0    	0000-00-00 00:00:00
-soni	per ~	~로, ~로써, ~을 이용하여, ~를 통해 (도구)	<prep> by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	per ~	~로, ~로써, ~을 이용하여, ~를 통해 (도구)	<preposition> by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	sonĝo	꿈	a dream	NA,4H	0    	0000-00-00 00:00:00
 soni	respondi	대답하다	to answer, to respond, to reply	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	foje (iu foje)	때때로	sometimes (some times)	NA,ZG	0    	0000-00-00 00:00:00
@@ -928,7 +928,7 @@ stomako	herbo	풀	grass, herb	G5,4H	0    	0000-00-00 00:00:00
 stomako	klopodi	노력하다	to endeavor, to attempt, to aim, to undertake	KO,G9,4H	0    	0000-00-00 00:00:00
 stomako	frapeti	가볍게 치다	to tap	NA	0    	0000-00-00 00:00:00
 stomako	pordego	대문	a portal, a main gate, a gate	NA	0    	0000-00-00 00:00:00
-stomako	inter ~	<전치사> ~사이에	<prep> between ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	inter ~	<전치사> ~사이에	<preposition> between ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	benko	벤치	a bench	G5,4H	0    	0000-00-00 00:00:00
 stomako	intermanĝeto	간식 (-et-o)	a lunch (intermediate, small)	NA	0    	0000-00-00 00:00:00
 stomako	interreto	인터넷	internet, Internet	NA	0    	0000-00-00 00:00:00
@@ -1049,18 +1049,18 @@ stomako	lumi	빛나다, 빛을내다	to shine, to give light	G3,ZG	0    	0000-00
 stomako	ĉielo	하늘	a sky	KO,G3,4H	0    	0000-00-00 00:00:00
 stomako	arko	원호, 아치형	an arc (of a curve)	G8	0    	0000-00-00 00:00:00
 stomako	ĉielarko	무지개	a rainbow	NA	0    	0000-00-00 00:00:00
-stomako	en ~	<전치사> ~안에, ~속에, ~에	<prep> in ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	apud ~	<전치사> ~옆에, ~곁에, ~가까이에	<prep> next to ~, beside ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	en ~	<전치사> ~안에, ~속에, ~에	<preposition> in ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	apud ~	<전치사> ~옆에, ~곁에, ~가까이에	<preposition> next to ~, beside ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	trajno	기차	a train	G8,4H	0    	0000-00-00 00:00:00
-stomako	sub ~	<전치사> ~아래	<prep> under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sur ~	<전치사> ~면 위에	<prep> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	sub ~	<전치사> ~아래	<preposition> under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sur ~	<전치사> ~면 위에	<preposition> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	memori	기억하다	to remember, to recall	G3,4H,ZG	0    	0000-00-00 00:00:00
-stomako	je ~	<전치사> 시간에, 다양하게 적용 가능한 전치사	<prep> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	je ~	<전치사> 시간에, 다양하게 적용 가능한 전치사	<preposition> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ankoraŭ	<부사> 아직, 지금도, 여전히	<adv> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ankoraŭ unu	(여전히) 또 다른 하나 (더)	yet another one	NA	0    	0000-00-00 00:00:00
 stomako	droni	익사하다, 침몰하다, 곤경에 처하다	to drown	G7,4H	0    	0000-00-00 00:00:00
 stomako	formo	모양, 형상, 형태	a form, a shape	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ĉirkaŭ ~	<전치사> ~주위에, ~둘레에, ~사방에	<prep> around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ĉirkaŭ ~	<전치사> ~주위에, ~둘레에, ~사방에	<preposition> around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ĉirkaŭaĵo	주변공간(지역), 주위의 사물환경	surroundings, neighbourhood	NA,ZG	0    	0000-00-00 00:00:00
 stomako	ĉirkaŭbarilo	울타리	an enclosure, a barrier	NA	0    	0000-00-00 00:00:00
 stomako	sed	그러나	but	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -1093,7 +1093,7 @@ stomako	romano	장편소설	a novel	KO,G9,4H	0    	0000-00-00 00:00:00
 stomako	ĉi tien (tien ĉi)	이리로, 여기로 (이동)	to here, toward here, over here	NA	0    	0000-00-00 00:00:00
 stomako	ĉi tio (tio ĉi)	이것	this, this here	NA	0    	0000-00-00 00:00:00
 stomako	urĝa	급한	urgent	NA	0    	0000-00-00 00:00:00
-stomako	dum ~	<전치사> ~동안	<prep> during ~, while ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	dum ~	<전치사> ~동안	<preposition> during ~, while ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	veturilo	탈것, 교통수단	a vehicle	NA	0    	0000-00-00 00:00:00
 stomako	palaco	궁궐	a palace	G8,4H	0    	0000-00-00 00:00:00
 stomako	frukto	과일	a fruit	KO,G3	0    	0000-00-00 00:00:00

@@ -20,9 +20,9 @@ glacio	-as	<hậu tố>thì hiện tại	<suffix> present tense	KO,G1,ZG	0    	0
 kanti	-is	<hậu tố>thì quá khứ	<suffix> past tense	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	esti	được	to be	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kanti	-os	<hậu tố>thì tương lai	<suffix> future tense	KO,G1,ZG	0    	0000-00-00 00:00:00
-kanti	antaŭ ~	<giới từ>trước ~, trước ~	<prep> before ~, in front of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	antaŭ ~	<giới từ>trước ~, trước ~	<preposition> before ~, in front of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	fari	làm, làm	to make, to do	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-kanti	ankaŭ ~	<giới từ>cũng vậy	<prep> also, too	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	ankaŭ ~	<giới từ>cũng vậy	<preposition> also, too	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	post ~	sau ~	after ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	mal-	<tiếp đầu ngữ>đối diện	<prefix> opposite	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	-ul-	<hậu tố>một người có đặc điểm nào đó	<suffix> a person of some trait	KO,G1,ZG	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ veturi	neniam	không bao giờ, không bao giờ, không bao giờ	never, at no 
 veturi	tial	do đó để	therefore, so	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kial	tại sao, để làm gì	why, what for	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kvankam	mặc dù ~, trong khi, mặc dù	although ~, while, though	KO,G1,ZG	0    	0000-00-00 00:00:00
-veturi	ĉe ~	<giới từ>tại ~	<prep> at ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+veturi	ĉe ~	<giới từ>tại ~	<preposition> at ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	pli	hơn	more	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	plej	hầu hết	most	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 glacio	diri	để nói, để kể	to say, to tell	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -95,7 +95,7 @@ kanti	facila	dễ dàng, dễ dàng	easy, facile	KO,G2,4H,ZG	0    	0000-00-00 00
 hundo	re-	<tiếp đầu ngữ>nốt Rê-	<prefix> re-	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	granda	lớn, lớn, lớn	big, great, large	KO,G2,ZG	0    	0000-00-00 00:00:00
 hundo	-ist-	<hậu tố>chuyên nghiệp	<suffix> professional	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	pro ~	<giới từ>vì ~, vì ~	<prep> because of ~, due to ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+hundo	pro ~	<giới từ>vì ~, vì ~	<preposition> because of ~, due to ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	-estr-	<hậu tố>người đứng đầu, ông chủ, người đứng đầu, người đứng đầu	<suffix> leader, boss, head, chief	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	kio	Gì	what	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	manĝi	ăn	to eat	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
@@ -106,12 +106,12 @@ kanti	riĉa	giàu có, giàu có, khá giả	rich, wealthy, well-off	KO,G2,4H,ZG
 hundo	tio	cái đó, cái đó	that thing, that	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	konstrui	xây dựng, xây dựng	to build, to construct	KO,G3	0    	0000-00-00 00:00:00
 soni	ĉef-	<tiếp đầu ngữ>người đứng đầu, lãnh đạo, chính	<prefix> chief, leading, main	G1,ZG	0    	0000-00-00 00:00:00
-soni	sen ~	<giới từ>không có ~	<prep> without ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-soni	kun ~	<giới từ>với ~ (cùng nhau)	<prep> with ~ (together)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-soni	krom ~	<giới từ>ngoại trừ ~, ngoài ra ~	<prep> except ~, besides ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	sen ~	<giới từ>không có ~	<preposition> without ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	kun ~	<giới từ>với ~ (cùng nhau)	<preposition> with ~ (together)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	krom ~	<giới từ>ngoại trừ ~, ngoài ra ~	<preposition> except ~, besides ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	amiko	một người bạn	a friend	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	kies	của ai, của cái nào, của cái nào	whose, which one's, of which	KO,G1,4H	0    	0000-00-00 00:00:00
-soni	per ~	<giới từ>bởi ~ (một phương thức), với ~ (một công cụ)	<prep> by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	per ~	<giới từ>bởi ~ (một phương thức), với ~ (một công cụ)	<preposition> by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	kontraŭ ~	chống lại ~	against ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	el ~	ra khỏi ~, từ ~	out of ~, from ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hodiaŭ	Hôm nay	today	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -168,7 +168,7 @@ stomako	-il-	<hậu tố>công cụ, phương pháp	<suffix> tool, method	KO,G1,
 glacio	trinki	uống (không cồn)	to drink (non-alkohol)	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 stomako	-et-	<hậu tố>nhỏ, nhỏ	<suffix> small, little	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	-eg-	<hậu tố>lớn, lớn	<suffix> big, large	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	inter ~	<giới từ>giữa ~	<prep> between ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	inter ~	<giới từ>giữa ~	<preposition> between ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	-um-	<hậu tố>hành vi liên quan	<suffix> related behavior	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	-ar-	<hậu tố>tập hợp, nhóm	<suffix> set, group	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	-an-	<hậu tố>thành viên của một nhóm	<suffix> member of a group	KO,G1,ZG	0    	0000-00-00 00:00:00
@@ -177,13 +177,13 @@ stomako	-ind-	<hậu tố>đáng giá, xứng đáng	<suffix> worthwhile, worthy
 stomako	plu	thậm chí nhiều hơn nữa, hơn nữa, và vân vân, nhiều hơn nữa	even more, further, and so on, more	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	kiel	như thế nào, như thế nào, như thế nào, chẳng hạn như	how, like, in what way, such as	KO,G1,4H	0    	0000-00-00 00:00:00
 stomako	tiel	như vậy, theo cách đó, như vậy	such, in that way, thus	KO,G1,4H	0    	0000-00-00 00:00:00
-stomako	en ~	<giới từ>trong ~	<prep> in ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	apud ~	<giới từ>bên cạnh ~, bên cạnh ~	<prep> next to ~, beside ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sub ~	<giới từ>dưới, bên dưới ~	<prep> under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sur ~	<giới từ>trên ~	<prep> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	je ~	<giới từ>chuẩn bị không xác định., tại, trong, bởi, trên	<prep> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	en ~	<giới từ>trong ~	<preposition> in ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	apud ~	<giới từ>bên cạnh ~, bên cạnh ~	<preposition> next to ~, beside ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sub ~	<giới từ>dưới, bên dưới ~	<preposition> under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sur ~	<giới từ>trên ~	<preposition> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	je ~	<giới từ>chuẩn bị không xác định., tại, trong, bởi, trên	<preposition> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ankoraŭ	<adv>vẫn chưa	<adv> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ĉirkaŭ ~	<giới từ>xung quanh ~	<prep> around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ĉirkaŭ ~	<giới từ>xung quanh ~	<preposition> around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	sed	Nhưng	but	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ie	một vài nơi	somewhere	KO,G1	0    	0000-00-00 00:00:00
 stomako	kie	ở đâu, ở nơi nào	where, at what place	KO,G1,4H	0    	0000-00-00 00:00:00
@@ -194,7 +194,7 @@ stomako	tie	kia, đằng kia, đằng kia	there, over there, yonder	KO,G1,4H	0  
 stomako	ĉi	cái này ~	this ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	kanti	hát	to sing	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 kiom	morti	chết, qua đời	to die, to pass away	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-stomako	dum ~	<giới từ>trong khi ~, trong khi ~	<prep> during ~, while ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	dum ~	<giới từ>trong khi ~, trong khi ~	<preposition> during ~, while ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	nacio	một quốc gia	a nation	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	koni	biết (một người), làm quen với	to know (a person), to be aquainted with	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	scii	biết (một sự thật, kiến thức), biết làm thế nào	to know (a fact, knowledge), to know how	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -675,7 +675,7 @@ stomako	ŝtupo	một bậc thang, một bậc thang, một bậc thang	a step, a
 stomako	bordo	bờ biển, bờ sông, bờ sông	a shore, a waterfront, a bank	KO,G4	0    	0000-00-00 00:00:00
 stomako	justa	công bằng, chính đáng, chính đáng	fair, just, righteous	KO,G4	0    	0000-00-00 00:00:00
 stomako	lumo	một ánh sáng	a light	KO,4H	0    	0000-00-00 00:00:00
-hundo	malgraŭ ~	<giới từ>bất chấp ~, bất chấp ~	<prep> despite ~, in spite of ~	G7	0    	0000-00-00 00:00:00
+hundo	malgraŭ ~	<giới từ>bất chấp ~, bất chấp ~	<preposition> despite ~, in spite of ~	G7	0    	0000-00-00 00:00:00
 glacio	drinkado	hành động uống rượu	drinking action	NA	0    	0000-00-00 00:00:00
 veturi	aŭtomobilo	ô tô, ô tô, ô tô (=aŭto)	a car, an automobile, a motor car (=aŭto)	G8,4H	0    	0000-00-00 00:00:00
 filo	bonvoli	muốn (từ trái tim), mong muốn (từ trái tim)	to will (from heart), to want (from heart)	G9,4H,ZG	0    	0000-00-00 00:00:00

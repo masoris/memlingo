@@ -20,9 +20,9 @@ glacio	-as	동사 현재형 어미	<suffix> present tense	KO,G1,ZG	10   	2025-01
 kanti	-is	동사 과거형 어미	<suffix> past tense	KO,G1,ZG	10   	2025-01-28 16:41:24
 amo	esti	~이다, ~이 있다, 존재하다	to be	KO,G2,4H,ZG	10   	2025-01-28 16:42:24
 kanti	-os	동사 미래형 어미	<suffix> future tense	KO,G1,ZG	10   	2025-01-28 16:43:24
-kanti	antaŭ ~	~앞의, ~이전의	<prep> before ~, in front of ~	KO,G1,4H,ZG	10   	2025-01-28 16:44:24
+kanti	antaŭ ~	~앞의, ~이전의	<preposition> before ~, in front of ~	KO,G1,4H,ZG	10   	2025-01-28 16:44:24
 amo	fari	~를 하다, ~를 만들다	to make, to do	KO,G2,4H,ZG	10   	2025-01-29 16:34:24
-kanti	ankaŭ ~	~도, ~도 역시	<prep> also, too	KO,G1,4H,ZG	10   	2025-01-29 16:35:24
+kanti	ankaŭ ~	~도, ~도 역시	<preposition> also, too	KO,G1,4H,ZG	10   	2025-01-29 16:35:24
 kanti	post ~	~후에, ~ 다음에	after ~	KO,G1,4H,ZG	10   	2025-01-29 16:36:24
 kanti	mal-	반대의 접두사	<prefix> opposite	KO,G1,ZG	10   	2025-01-29 16:37:24
 kanti	-ul-	어떤 특성이 있는 사람, ~한 사람	<suffix> a person of some trait	KO,G1,ZG	10   	2025-01-29 16:38:24
@@ -62,7 +62,7 @@ veturi	neniam	어느때도 결코 ~않다	never, at no time, not ever	KO,G1,4H	1
 veturi	tial	그런 이유로, 그래서	therefore, so	KO,G1,4H	10   	2025-02-02 16:37:24
 veturi	kial	왜	why, what for	KO,G1,4H	10   	2025-02-02 16:38:24
 veturi	kvankam	비록 ~일지라도	although ~, while, though	KO,G1,ZG	10   	2025-02-02 16:39:24
-veturi	ĉe ~	~(장소)에, ~에 (접촉)	<prep> at ~	KO,G1,4H,ZG	10   	2025-02-03 16:40:24
+veturi	ĉe ~	~(장소)에, ~에 (접촉)	<preposition> at ~	KO,G1,4H,ZG	10   	2025-02-03 16:40:24
 veturi	pli	~보다 더 (비교급을 나타내는 부사)	more	KO,G1,4H,ZG	10   	2025-02-03 16:41:24
 veturi	plej	가장 (최상급)	most	KO,G1,4H,ZG	10   	2025-02-03 16:42:24
 glacio	diri	얘기하다 (내용)	to say, to tell	KO,G2,4H,ZG	10   	2025-02-03 16:45:24
@@ -95,7 +95,7 @@ kanti	facila	쉬운	easy, facile	KO,G2,4H,ZG	10   	2025-02-06 16:37:24
 hundo	re-	다시, 반복 접두사	<prefix> re-	KO,G1,ZG	10   	2025-02-06 16:38:24
 kanti	granda	큰	big, great, large	KO,G2,ZG	10   	2025-02-06 16:39:24
 hundo	-ist-	직업 접미사	<suffix> professional	KO,G1,ZG	10   	2025-02-06 16:40:24
-hundo	pro ~	~때문에, ~인해서, ~까닭에	<prep> because of ~, due to ~	KO,G1,4H,ZG	10   	2025-02-06 16:41:24
+hundo	pro ~	~때문에, ~인해서, ~까닭에	<preposition> because of ~, due to ~	KO,G1,4H,ZG	10   	2025-02-06 16:41:24
 hundo	-estr-	단체의 장, 우두머리 접미사	<suffix> leader, boss, head, chief	KO,G1,ZG	10   	2025-02-07 16:45:24
 hundo	kio	무엇	what	KO,G1,4H	10   	2025-02-07 16:46:24
 glacio	manĝi	먹다	to eat	KO,G3,4H,ZG	10   	2025-02-07 16:47:24
@@ -106,12 +106,12 @@ kanti	riĉa	부유한	rich, wealthy, well-off	KO,G2,4H,ZG	10   	2025-02-07 16:51
 hundo	tio	그것, 저것 (대명사)	that thing, that	KO,G1,4H	10   	2025-02-07 16:52:24
 glacio	konstrui	짓다, 건축하다, 건설하다	to build, to construct	KO,G3	10   	2025-02-07 16:53:24
 soni	ĉef-	장의, 우두머리의, 지도자의 (접두사)	<prefix> chief, leading, main	G1,ZG	10   	2025-02-08 16:43:24
-soni	sen ~	~없이	<prep> without ~	KO,G1,ZG	10   	2025-02-08 16:44:24
-soni	kun ~	~와 함께	<prep> with ~ (together)	KO,G1,4H,ZG	10   	2025-02-08 16:45:24
-soni	krom ~	~외에, ~말고도	<prep> except ~, besides ~	KO,G1,ZG	10   	2025-02-08 16:46:24
+soni	sen ~	~없이	<preposition> without ~	KO,G1,ZG	10   	2025-02-08 16:44:24
+soni	kun ~	~와 함께	<preposition> with ~ (together)	KO,G1,4H,ZG	10   	2025-02-08 16:45:24
+soni	krom ~	~외에, ~말고도	<preposition> except ~, besides ~	KO,G1,ZG	10   	2025-02-08 16:46:24
 kanti	amiko	친구	a friend	KO,G2,4H,ZG	10   	2025-02-08 16:47:24
 soni	kies	누구의, 누구 것의	whose, which one's, of which	KO,G1,4H	10   	2025-02-08 16:48:24
-soni	per ~	~로, ~로써, ~을 이용하여, ~를 통해 (도구)	<prep> by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	10   	2025-02-08 16:49:24
+soni	per ~	~로, ~로써, ~을 이용하여, ~를 통해 (도구)	<preposition> by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	10   	2025-02-08 16:49:24
 soni	kontraŭ ~	~거슬러서, ~맞서서, ~반하여, ~에 대항하여	against ~	KO,G1,ZG	10   	2025-02-08 16:50:24
 soni	el ~	~속으로부터, ~로 부터(재료), ~중에서	out of ~, from ~	KO,G1,4H,ZG	10   	2025-02-09 16:54:24
 soni	hodiaŭ	오늘	today	KO,G1,4H,ZG	10   	2025-02-09 16:55:24
@@ -168,7 +168,7 @@ stomako	-il-	<접미사> 기구, 도구	<suffix> tool, method	KO,G1,ZG	10   	202
 glacio	trinki	마시다	to drink (non-alkohol)	KO,G3,4H,ZG	10   	2025-02-16 16:44:24
 stomako	-et-	<접미사> 작은, 귀여운	<suffix> small, little	KO,G1,ZG	10   	2025-02-16 16:45:24
 stomako	-eg-	<접미사> 큰 것, 큰	<suffix> big, large	KO,G1,ZG	10   	2025-02-17 16:45:24
-stomako	inter ~	<전치사> ~사이에	<prep> between ~	KO,G1,4H,ZG	10   	2025-02-17 16:46:24
+stomako	inter ~	<전치사> ~사이에	<preposition> between ~	KO,G1,4H,ZG	10   	2025-02-17 16:46:24
 stomako	-um-	<접미사> (관계되는) 행동, (관계되는) 경향	<suffix> related behavior	KO,G1,ZG	10   	2025-02-17 16:47:24
 stomako	-ar-	<접미사> 집합, 모임, 그룹을 나타냄	<suffix> set, group	KO,G1,ZG	10   	2025-02-17 16:48:24
 stomako	-an-	<접미사> 회원, 멤버, ~에 속한 사람	<suffix> member of a group	KO,G1,ZG	10   	2025-02-17 16:49:24
@@ -177,13 +177,13 @@ stomako	-ind-	<접미사> ~할 가치가 있는	<suffix> worthwhile, worthy	KO,G
 stomako	plu	(시간적) ~더 계속해서, (공간적) ~더 멀리	even more, further, and so on, more	KO,G1,4H,ZG	10   	2025-02-17 16:56:24
 stomako	kiel	어떻게	how, like, in what way, such as	KO,G1,4H	10   	2025-02-17 16:57:24
 stomako	tiel	그렇게	such, in that way, thus	KO,G1,4H	10   	2025-02-17 16:58:24
-stomako	en ~	<전치사> ~안에, ~속에, ~에	<prep> in ~	KO,G1,4H,ZG	10   	2025-02-17 16:59:24
-stomako	apud ~	<전치사> ~옆에, ~곁에, ~가까이에	<prep> next to ~, beside ~	KO,G1,ZG	10   	2025-02-18 16:22:24
-stomako	sub ~	<전치사> ~아래	<prep> under, beneath ~	KO,G1,ZG	10   	2025-02-18 16:23:24
-stomako	sur ~	<전치사> ~면 위에	<prep> on ~	KO,G1,4H,ZG	10   	2025-02-19 16:24:24
-stomako	je ~	<전치사> 시간에, 다양하게 적용 가능한 전치사	<prep> indefinate prep., at, in, by, on	KO,G1,4H,ZG	10   	2025-02-19 16:25:24
+stomako	en ~	<전치사> ~안에, ~속에, ~에	<preposition> in ~	KO,G1,4H,ZG	10   	2025-02-17 16:59:24
+stomako	apud ~	<전치사> ~옆에, ~곁에, ~가까이에	<preposition> next to ~, beside ~	KO,G1,ZG	10   	2025-02-18 16:22:24
+stomako	sub ~	<전치사> ~아래	<preposition> under, beneath ~	KO,G1,ZG	10   	2025-02-18 16:23:24
+stomako	sur ~	<전치사> ~면 위에	<preposition> on ~	KO,G1,4H,ZG	10   	2025-02-19 16:24:24
+stomako	je ~	<전치사> 시간에, 다양하게 적용 가능한 전치사	<preposition> indefinate prep., at, in, by, on	KO,G1,4H,ZG	10   	2025-02-19 16:25:24
 stomako	ankoraŭ	<부사> 아직, 지금도, 여전히	<adv> still, yet	KO,G1,4H,ZG	10   	2025-02-19 16:26:24
-stomako	ĉirkaŭ ~	<전치사> ~주위에, ~둘레에, ~사방에	<prep> around ~	KO,G1,4H,ZG	10   	2025-02-19 16:27:24
+stomako	ĉirkaŭ ~	<전치사> ~주위에, ~둘레에, ~사방에	<preposition> around ~	KO,G1,4H,ZG	10   	2025-02-19 16:27:24
 stomako	sed	그러나	but	KO,G1,4H,ZG	10   	2025-02-19 16:28:24
 stomako	ie	어딘가에	somewhere	KO,G1	10   	2025-02-19 16:29:24
 stomako	kie	어디에	where, at what place	KO,G1,4H	10   	2025-02-19 16:30:24
@@ -194,7 +194,7 @@ stomako	tie	거기, 그곳에	there, over there, yonder	KO,G1,4H	10   	2025-02-2
 stomako	ĉi	<지시부사> 이 (가까움을 나타내는)	this ~	KO,G1,4H,ZG	10   	2025-02-20 16:39:24
 kanti	kanti	노래하다	to sing	KO,G3,4H,ZG	10   	2025-02-20 16:40:24
 kiom	morti	죽다	to die, to pass away	KO,G2,4H,ZG	10   	2025-02-20 16:41:24
-stomako	dum ~	<전치사> ~동안	<prep> during ~, while ~	KO,G1,4H,ZG	10   	2025-02-21 16:34:24
+stomako	dum ~	<전치사> ~동안	<preposition> during ~, while ~	KO,G1,4H,ZG	10   	2025-02-21 16:34:24
 kiom	nacio	나라, 국가	a nation	KO,G2,4H,ZG	10   	2025-02-21 16:35:24
 kiom	koni	알다, 아는 사이이다	to know (a person), to be aquainted with	KO,G2,4H,ZG	10   	2025-02-21 16:36:24
 kiom	scii	알다, (지식을) 알다	to know (a fact, knowledge), to know how	KO,G2,4H,ZG	10   	2025-02-21 16:37:24
@@ -676,7 +676,7 @@ stomako	ŝtupo	계단 한 칸	a step, a stair, a rung	KO,G5	10   	2025-05-11 16:
 stomako	bordo	강가, 해안, 물가	a shore, a waterfront, a bank	KO,G4	10   	2025-05-11 16:27:25
 stomako	justa	공정한	fair, just, righteous	KO,G4	10   	2025-05-11 16:28:25
 stomako	lumo	빛	a light	KO,4H	10   	2025-05-11 16:29:25
-hundo	malgraŭ ~	~ 임에도 불구하고	<prep> despite ~, in spite of ~	G7	10   	2025-05-11 16:30:25
+hundo	malgraŭ ~	~ 임에도 불구하고	<preposition> despite ~, in spite of ~	G7	10   	2025-05-11 16:30:25
 glacio	drinkado	음주	drinking action	NA	10   	2025-05-11 16:32:25
 veturi	aŭtomobilo	자동차 (=aŭto)	a car, an automobile, a motor car (=aŭto)	G8,4H	10   	2025-05-11 16:33:25
 filo	bonvoli	호의를 베풀다, 자발적으로 하다	to will (from heart), to want (from heart)	G9,4H,ZG	10   	2025-05-12 16:24:25

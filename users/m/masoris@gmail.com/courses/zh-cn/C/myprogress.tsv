@@ -20,9 +20,9 @@ glacio	-as	<词尾>现在时	<suffix> present tense	KO,G1,ZG	0    	0000-00-00 00
 kanti	-is	<词尾>过去式	<suffix> past tense	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	esti	成为	to be	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kanti	-os	<词尾>将来时	<suffix> future tense	KO,G1,ZG	0    	0000-00-00 00:00:00
-kanti	antaŭ ~	<前置词>在～之前，在～之前	<prep> before ~, in front of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	antaŭ ~	<前置词>在～之前，在～之前	<preposition> before ~, in front of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	fari	使，做	to make, to do	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-kanti	ankaŭ ~	<前置词>也是	<prep> also, too	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	ankaŭ ~	<前置词>也是	<preposition> also, too	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	post ~	之后~	after ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	mal-	<字首>对面的	<prefix> opposite	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	-ul-	<词尾>具有某种特质的人	<suffix> a person of some trait	KO,G1,ZG	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ veturi	neniam	从来没有，从来没有，从来没有	never, at no time, not 
 veturi	tial	因此，所以	therefore, so	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kial	为什么，为什么	why, what for	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kvankam	虽然〜，同时，虽然	although ~, while, though	KO,G1,ZG	0    	0000-00-00 00:00:00
-veturi	ĉe ~	<前置词>在〜	<prep> at ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+veturi	ĉe ~	<前置词>在〜	<preposition> at ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	pli	更多的	more	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	plej	最多	most	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 glacio	diri	说，告诉	to say, to tell	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -95,7 +95,7 @@ kanti	facila	容易的，轻而易举的	easy, facile	KO,G2,4H,ZG	0    	0000-00-
 hundo	re-	<字首>关于-	<prefix> re-	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	granda	大，伟大，大	big, great, large	KO,G2,ZG	0    	0000-00-00 00:00:00
 hundo	-ist-	<词尾>专业的	<suffix> professional	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	pro ~	<前置词>因为～，由于～	<prep> because of ~, due to ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+hundo	pro ~	<前置词>因为～，由于～	<preposition> because of ~, due to ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	-estr-	<词尾>领导者, 老板, 首领, 酋长	<suffix> leader, boss, head, chief	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	kio	什么	what	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	manĝi	去吃	to eat	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
@@ -106,12 +106,12 @@ kanti	riĉa	有钱的，有钱的，富裕的	rich, wealthy, well-off	KO,G2,4H,Z
 hundo	tio	那件事，那个	that thing, that	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	konstrui	建造，建造	to build, to construct	KO,G3	0    	0000-00-00 00:00:00
 soni	ĉef-	<字首>主要的, 领导的, 主要的	<prefix> chief, leading, main	G1,ZG	0    	0000-00-00 00:00:00
-soni	sen ~	<前置词>没有~	<prep> without ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-soni	kun ~	<前置词>与〜（一起）	<prep> with ~ (together)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-soni	krom ~	<前置词>除了~，除了~	<prep> except ~, besides ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	sen ~	<前置词>没有~	<preposition> without ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	kun ~	<前置词>与〜（一起）	<preposition> with ~ (together)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	krom ~	<前置词>除了~，除了~	<preposition> except ~, besides ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	amiko	一个朋友	a friend	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	kies	谁的，哪个的，其中的	whose, which one's, of which	KO,G1,4H	0    	0000-00-00 00:00:00
-soni	per ~	<前置词>通过〜（方法），用〜（工具）	<prep> by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	per ~	<前置词>通过〜（方法），用〜（工具）	<preposition> by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	kontraŭ ~	反对~	against ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	el ~	从～，从～	out of ~, from ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hodiaŭ	今天	today	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -168,7 +168,7 @@ stomako	-il-	<词尾>工具、方法	<suffix> tool, method	KO,G1,ZG	0    	0000-0
 glacio	trinki	喝酒（不含酒精）	to drink (non-alkohol)	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 stomako	-et-	<词尾>小，小	<suffix> small, little	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	-eg-	<词尾>大大	<suffix> big, large	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	inter ~	<前置词>之间~	<prep> between ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	inter ~	<前置词>之间~	<preposition> between ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	-um-	<词尾>相关行为	<suffix> related behavior	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	-ar-	<词尾>集合，组	<suffix> set, group	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	-an-	<词尾>团体成员	<suffix> member of a group	KO,G1,ZG	0    	0000-00-00 00:00:00
@@ -177,13 +177,13 @@ stomako	-ind-	<词尾>值得的，值得的	<suffix> worthwhile, worthy	KO,G1,ZG
 stomako	plu	甚至更多，进一步，等等，更多	even more, further, and so on, more	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	kiel	怎么样，比如，以什么方式，例如	how, like, in what way, such as	KO,G1,4H	0    	0000-00-00 00:00:00
 stomako	tiel	这样，这样，这样	such, in that way, thus	KO,G1,4H	0    	0000-00-00 00:00:00
-stomako	en ~	<前置词>在〜	<prep> in ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	apud ~	<前置词>旁边～，旁边～	<prep> next to ~, beside ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sub ~	<前置词>下，下~	<prep> under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sur ~	<前置词>上~	<prep> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	je ~	<前置词>不定的准备，在，在，在，之前	<prep> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	en ~	<前置词>在〜	<preposition> in ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	apud ~	<前置词>旁边～，旁边～	<preposition> next to ~, beside ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sub ~	<前置词>下，下~	<preposition> under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sur ~	<前置词>上~	<preposition> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	je ~	<前置词>不定的准备，在，在，在，之前	<preposition> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ankoraŭ	<adv>仍然，还	<adv> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ĉirkaŭ ~	<前置词>周围~	<prep> around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ĉirkaŭ ~	<前置词>周围~	<preposition> around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	sed	但	but	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ie	某处	somewhere	KO,G1	0    	0000-00-00 00:00:00
 stomako	kie	哪里，在什么地方	where, at what place	KO,G1,4H	0    	0000-00-00 00:00:00
@@ -194,7 +194,7 @@ stomako	tie	那里，那边，那边	there, over there, yonder	KO,G1,4H	0    	00
 stomako	ĉi	这个~	this ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	kanti	唱歌	to sing	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 kiom	morti	死去，去世	to die, to pass away	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-stomako	dum ~	<前置词>期间~，同时~	<prep> during ~, while ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	dum ~	<前置词>期间~，同时~	<preposition> during ~, while ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	nacio	一个国家	a nation	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	koni	认识（一个人），熟悉	to know (a person), to be aquainted with	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	scii	知道（事实、知识），知道如何	to know (a fact, knowledge), to know how	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -675,7 +675,7 @@ stomako	ŝtupo	一个台阶，一个台阶，一个梯级	a step, a stair, a run
 stomako	bordo	海岸、海滨、银行	a shore, a waterfront, a bank	KO,G4	0    	0000-00-00 00:00:00
 stomako	justa	公平、公正、正义	fair, just, righteous	KO,G4	0    	0000-00-00 00:00:00
 stomako	lumo	一盏灯	a light	KO,4H	0    	0000-00-00 00:00:00
-hundo	malgraŭ ~	<前置词>尽管～，尽管～	<prep> despite ~, in spite of ~	G7	0    	0000-00-00 00:00:00
+hundo	malgraŭ ~	<前置词>尽管～，尽管～	<preposition> despite ~, in spite of ~	G7	0    	0000-00-00 00:00:00
 glacio	drinkado	饮酒动作	drinking action	NA	0    	0000-00-00 00:00:00
 veturi	aŭtomobilo	汽车、汽车、汽车 (=aŭto)	a car, an automobile, a motor car (=aŭto)	G8,4H	0    	0000-00-00 00:00:00
 filo	bonvoli	想要（发自内心）、想要（发自内心）	to will (from heart), to want (from heart)	G9,4H,ZG	0    	0000-00-00 00:00:00
