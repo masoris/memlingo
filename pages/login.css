@@ -16,6 +16,7 @@ body {
     position: relative;
     /* font-weight: bold; */
     font-size: 18pt;
+    width: 96%;
 }
 
 #lang {

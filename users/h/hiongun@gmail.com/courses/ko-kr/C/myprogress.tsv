@@ -288,8 +288,8 @@ veturi	ĉeesti	출석하다, 참석하다, 자리에 있다	to attend, to be pre
 veturi	preni	취하다, 잡다, 붙잡다, 쥐다	to take, to lay hold of	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 veturi	pli	~보다 더 (비교급을 나타내는 부사)	more	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	plej	가장 (최상급)	most	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-veturi	ju	(pli와 함께) ~ 하면 할수록 (ju pli)	<adv> the (more, less)	G8,ZG	0    	0000-00-00 00:00:00
-veturi	des	그 만큼 (ju와 호응)	<adv> so much (more, less)	G7,ZG	0    	0000-00-00 00:00:00
+veturi	ju	(pli와 함께) ~ 하면 할수록 (ju pli)	<adverb> the (more, less)	G8,ZG	0    	0000-00-00 00:00:00
+veturi	des	그 만큼 (ju와 호응)	<adverb> so much (more, less)	G7,ZG	0    	0000-00-00 00:00:00
 veturi	malpli	덜, 더 작게 (열등 비교급 부사)	less, fewer	PA,4H	0    	0000-00-00 00:00:00
 veturi	ol ~	~보다, ~에 비해서	than ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 veturi	kia	어떤 (성질,종류,상태를 묻는)	what kind of, what sort of	KO,G1,4H	0    	0000-00-00 00:00:00
@@ -375,7 +375,7 @@ soni	postmorgaŭ	모레	the day after tomorrow	NA,4H	0    	0000-00-00 00:00:00
 soni	nur	오직, ~만(뿐)	only, just, exclusively	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	deziri	~을 바라다	to desire, to wish	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	ĵeti	던지다	to throw	KO,G3,ZG	0    	0000-00-00 00:00:00
-soni	for	멀리, 먼곳에	<adv> far, away	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	for	멀리, 먼곳에	<adverb> far, away	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	foresti	부재하다, 결석하다, 없다	to be absent, to be away, to be missing	G9,ZG	0    	0000-00-00 00:00:00
 soni	nek	~도 아닌 (다른 부정사 뒤에 사용)	nor, neither	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	domo	집	a house, a home	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
@@ -1056,7 +1056,7 @@ stomako	sub ~	<전치사> ~아래	<preposition> under, beneath ~	KO,G1,ZG	0    	
 stomako	sur ~	<전치사> ~면 위에	<preposition> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	memori	기억하다	to remember, to recall	G3,4H,ZG	0    	0000-00-00 00:00:00
 stomako	je ~	<전치사> 시간에, 다양하게 적용 가능한 전치사	<preposition> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ankoraŭ	<부사> 아직, 지금도, 여전히	<adv> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ankoraŭ	<부사> 아직, 지금도, 여전히	<adverb> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ankoraŭ unu	(여전히) 또 다른 하나 (더)	yet another one	NA	0    	0000-00-00 00:00:00
 stomako	droni	익사하다, 침몰하다, 곤경에 처하다	to drown	G7,4H	0    	0000-00-00 00:00:00
 stomako	formo	모양, 형상, 형태	a form, a shape	KO,G2,4H,ZG	0    	0000-00-00 00:00:00

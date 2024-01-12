@@ -1,0 +1,1354 @@
+level	mi, vi	میں، تم	I, you	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(موجودہ) ہے، ہوں، ہیں (ماضی) تھا، تھے۔	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	میں ہوں ~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	آپ ہیں ~	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	ہیلو	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	ہیلو، میں ہوں ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	میرا آپکا	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	ایک نام	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	میرا نام، آپ کا نام	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	میرا نام ~ ہے۔	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	آپ کا نام ~ ہے۔	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(موجودہ) کرتا ہے، (ماضی) کرتا ہے۔	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(موجودہ) تھا، تھے (مستقبل) ہوں گے۔	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	ایک نام، ایک (مقصد) نام	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	میری محبت	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	آپ کر رہے ہیں ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	کیسے	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	آپ کیسے ہیں؟	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	کیا	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	آپ کا نام کیا ہے؟	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	اچھا، اچھا	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	اچھا کر رہا ہے	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	میں اچھا کر رہا ہوں۔	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	اور	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	ٹھیک اور آپ؟	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	~ تک	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(موجودہ) دیکھتا ہے، (ماضی) دیکھا	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(ماضی) دیکھا، (ماضی) دوبارہ دیکھا	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	دوبارہ دیکھا، دوبارہ دیکھیں گے۔	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	دوبارہ دیکھنا، دوبارہ دیکھنا (مقصد)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	پھر ملیں گے!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	شکریہ	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	آپ کا شکریہ اور آپ کو دوبارہ ملتے ہیں!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	کو ~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	آپ کو، مجھے	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(موجودہ) شکریہ، (ماضی) شکریہ	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	میں آپ کی تعریف کرتا ہوں۔	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	ہاں نہیں	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	جی ہاں، آپ کا شکریہ	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	کھاتا ہے، کھائے گا۔	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	میں نہیں کھاتا	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	نہیں، میں نہیں کھاتا	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	خوبصورت، خوبصورتی سے	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	قابل قدر (ختم)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	قابل تعریف، شکریہ ادا کرنے کے قابل	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	مجموعی طور پر، مجموعی طور پر	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	تمام، (مقصد) تمام	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	بالکل نہیں، آپ کا استقبال ہے۔	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	بالکل نہیں	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	معاف کرنا، معاف کرنے والا	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	مجھے معاف کرنے والا	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	میں معافی چاہتا ہوں! (مجھے معاف کرنا)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	آئی ایم سوری پلیز	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	صبح بخیر	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	صبح بخیر	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	شب بخیر	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	پرسکون سوئیں	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	آپ کا سفر اچھا گزرے۔	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	اچھا دن!	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	کیا یہ ~	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	کیا تم صحیح کر رہے ہو؟ (آپ کیسے ہو؟)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	جی ہاں، میں ٹھیک ہوں	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	کوئی بالکل نہیں	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	بہت، بہت زیادہ	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	بڑے، بڑے پیمانے پر	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	بہت بڑا، بہت بڑا	very big, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	آپ بہت اچھا کر رہے ہیں	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	زیادہ ٹھیک نہیں	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	سیکھنا، سیکھنا	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	دیکھ رہا ہے، تماشائی	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	سیکھ رہا ہے، ایک طالب علم (ایک سیکھنے والا شخص)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	is -ing، ایک شخص جو کر رہا ہے	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	ایک طالب علم، ایک شخص جس نے سیکھا ہے۔	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	میں نے ایک طالب علم ہوں.	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~ میرا دوست ہے۔	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	وہ	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	بیٹھنا، بیٹھنا	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	بیٹھا ہے، بیٹھا ہے، بیٹھا رہے گا۔	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	وہ بیٹھا ہے اور وہ سیکھ رہی ہے۔	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	ایک کمرہ	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	ایک کمرے میں سیکھتا ہے۔	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	ایک طالب علم اور ایک کھلاڑی	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	کھیل اور ایک کھلاڑی	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	ایک کھلاڑی کھیل رہا ہے۔	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	وہ ایک طالب علم ہے	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	وہ ایک طالب علم اور ایک کھلاڑی ہے	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	وہ اب بیٹھا ہے	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	اور اب سیکھ رہا ہے	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	بیٹھا ہے اور سیکھ رہا ہے۔	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	اب ایک کمرے میں	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	ایک میز پر ہے	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	ایک کاغذ اور کاغذات	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	ایک میز اور میزیں	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	ایک کتاب اور کتابیں	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	کاغذات اور کتابیں	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	یہ ایک میز پر ہے.	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	لکھنے کی میز پر لکھ رہا ہے۔	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	کتابیں ہیں ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	میز پر	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	ایک نصابی کتاب اور درسی کتابیں	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	میز پر ~ ہے	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	ایک باپ اور ایک ماں	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	باپ اور ماں	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	میرے دوست کی ماں	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	کمرے میں	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	کمرے میں نہیں ہے؟	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	وہ اب کام کر رہے ہیں	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	اس کے والد ایک مزدور ہیں	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	وہ ایک ہوٹل میں کام کرتا ہے۔	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	ماں سکھاتی ہے	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	وہ ایک استاد ہے	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	کیا وہ ماں ہے؟	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	نہیں، وہ ایک ہوٹل والا ہے۔	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	نہیں، میں کام نہیں کرتا	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	اس کا نام کیا ہے	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	اب کون جواب دے رہا ہے	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	ان کی ماں کی زبان	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	کیا آپ کا نام ~ ہے ؟	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	ہم بیٹھے جواب دے رہے ہیں۔	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	اس کی ورکنگ کرسی	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	اس کا نام ~ نہیں ہے۔	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	اس کی زبان ان کی زبان ہے۔	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	ہمارے والد اور ماں	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	آپ کا طالب علم، آپ کے طالب علم	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	کیا وہ آپ کے طالب علم ہیں؟	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	کیا آپ طالب علم ہیں؟	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	کیا آپ کمرے میں ہیں؟	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	میں ~ نہیں ہوں۔	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	ایک اسپرنٹسٹ اور ایک خاتون اسپرنٹسٹ	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	ہوٹل کے کمرے میں چیک ان کیا۔	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	ایک ماہر لسانیات اور ایک خاتون کارکن	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	اس کی گرل فرینڈ ہے ~	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	طلباء اور کھلاڑی	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	میرا خاندانی نام ~ ہے۔	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	وہ کون ہے؟ وہ کون سی ہے؟	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	آپ کی گرل فرینڈ ہے؟	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	کیا آپ کا دوست ہے ~	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	ابھی کمرے میں لکھ رہا ہے۔	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	کیا آپ کے والد کے دوست ہیں ~	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	ایک ہوٹل میں کام کرتا ہے۔	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	میز پر کیا ہے؟	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	ہمارے کمرے میں میز پر	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	کیا ایسپرانٹو نصابی کتاب ہے ~ ؟	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	آپ کی میز پر ہے۔	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	ایک دوست ہے؟	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	اس کا نام ~ ہے۔	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	جوان اور خوبصورت	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	جوان اور خوبصورت ہے	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	نوجوان اور خوبصورت دوست	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	مرد اور عورت دوست ہیں۔	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	اس کے استاد کا گھر	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	گھر آیا	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	~ کا گھر	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	اندر آئیے	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	ہیلو تم کیا کر رہے؟	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	آپ کیا کرتے ہیں؟ تم کیا کر رہے ہو؟	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	لیکن اب میں چاہتا ہوں ~	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	میں بولنا چاہتا ہوں۔	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	تین مرد اور خواتین دوستوں کے ساتھ	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	آپ سے بات کی	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	آپ سے بات کرنا چاہتا ہے۔	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	کیا آپ کے مرد اور عورت دوست ہیں؟	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	اس کے پاس ایک کتاب ہے	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	ایک اچھی کتاب ہے	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	ہاں میرے پاس ہے	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	وہ اسے پسند کرتے ہیں	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	اس نے ایک کتاب پڑھی۔	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	کتابیں پڑھنا پسند کرتے ہیں؟	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	صرف ایک اچھی کتاب	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	بہت سی اچھی کتابیں	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	صرف اچھی کتابیں پڑھیں	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	اچھی کتابیں پڑھنا پسند کرتے ہیں۔	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	کیا آپ پڑھنا چاہتے ہیں؟	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	نوجوان نے کافی پی	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	پانی پینا چاہتا ہے؟	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	ایک باپ اور ایک ماں؛ والدین	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	ایک پریشانی اور ایک بہن، بہن بھائی	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	آپ کے والدین اور بہن بھائی	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	آپ کے گھر میں ہے	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	یہاں کافی ہے	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	ابھی تک نہیں پیا؟	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	اب بھی گرم ہے	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	کل اسے پکایا	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	اب میں نے پکایا ہے۔	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	شکریہ تو اس نے کہا.	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	پی سکتے ہیں اور کھا سکتے ہیں۔	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	کولڈ کافی پیی	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	اب بھی گرم کافی	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	کولڈ کافی بھی پیتے ہیں	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	کولڈ کافی بھی پی سکتے ہیں۔	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	اس کی آنکھ کو دیکھتا ہے	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	سب سے خوبصورت آنکھ	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	خوبصورت آنکھیں	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	خوبصورت آنکھوں کو دیکھا	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	اس کی خوبصورت آنکھیں	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	دیکھتا اور سمجھتا ہے۔	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	میں دیکھ رہا ہوں کہ ~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	کہ وہ اس سے محبت کرتا ہے	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	اسے لگتا ہے کہ وہ اس سے محبت کرتا ہے۔	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	پوچھتا ہے کہ کیا یہ بڑا تھا؟	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	ایک آسان سوال کے بارے میں	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	ایک نئے پیسے کے بارے میں کہا	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	بہت خوبصورت آنکھیں	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	بڑے بھائی کو دیکھا	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	ایک چھوٹی بہن بھول گئی۔	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	ایک الزام لگانے والا (مقصد)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	الزامی اختتام کو مت بھولنا	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	تم کس کو دیکھ رہے ہو؟ آپ کون سا دیکھتے ہیں؟	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	میں ایک دوست کو دیکھتا ہوں۔	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	اچھے مرد اور خواتین دوست ہیں۔	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	وہ پرانے گھر کے بارے میں کام کر رہے ہیں۔	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	کام کرتا ہے، کام کرتا ہے، کام کرے گا۔	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	دیکھتا ہوں، کہ میں کھاتا ہوں۔	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	کہا، وہ جائے گا۔	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	بدصورت اور برا	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	اس نے کیا کہا؟	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	آپ کس چیز کا انتظار کر رہے ہیں	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	کمرے میں چلا گیا	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	ایک مواد بہت مشکل ہے	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	میٹنگ میں پہنچے	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	اجلاس میں خوش آمدید	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	ایک بوڑھے نے مشورہ دیا۔	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	پہنچے اور استقبال کیا گیا۔	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	وہ نفرت کرتے ہیں لیکن تعاون کرتے ہیں۔	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	ہوٹل چلا گیا	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	آسان نصابی کتابیں ہیں۔	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	تمہاری ماں کیسی تھی؟	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	آپ کا پرانا گھر	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	آپ نے کون سی کتابیں پڑھی ہیں؟	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	کیا وہ اچھے تھے؟	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	کل کیا کیا؟	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	چھوٹے کمرے میں	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	بہت دیر تک بولا	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	اسکول کے سامنے، اسکول کے سامنے	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	اسکول کے سامنے بات کی	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	بعد میں کتاب کے بارے میں بات کی۔	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	خوشی سے سکول چلا گیا۔	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	گلی کے ذریعے	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	گلی سے گزرا	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	ایک گرم دن تھا	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	انہوں نے ایک کیفے دیکھا	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	سرخ کوکیز دیکھا	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	اس میں کوکیز دیکھی	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	ایک کیفے دیکھا' اور اس میں کوکیز	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	اندر جاؤ اور کھاؤ!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	چلو اندر آ کر کھانا کھاتے ہیں۔	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	کافی رقم ہے	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	کیا آپ کے پاس کافی رقم ہے؟	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	کیا تم سمجھ گئے ہو؟	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	بلکل!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	یہ کافی نہیں ہے	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	ایک سو ڈالر کافی ہے	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	ڈالر، ڈالر، ڈالر (کثرت مقصد)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	ایک سو ڈالر ہے	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	یقینا، میرے پاس ہے	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	اوہ! تم امیر ہو!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	ایک پانی، ایک ویٹریس	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	ایک ویٹر ایک مینو لاتا ہے۔	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	وہ ہمارے پاس لایا، وہ لایا	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	ایک ویٹر بہت سی کوکیز لایا	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	انہوں نے کچھ کھایا (تھوڑا سا)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	کھانے کے بعد (کھانا)	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	نیا، دوبارہ	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	ویٹر دوبارہ آیا	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	کسی جگہ	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	کسی جگہ تلاش کیا تھا۔	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	دوسری جگہ تلاش کیا۔	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	اس کے چہرے پر خوشی تھی	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	وہ اداس تھا	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	آخر میں اور آخر میں	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	آپ کی مضبوط آواز	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	کمزور آواز میں	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	پیسے نہیں ہیں؟	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	وہاں کیا ہوا؟	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	ایک حادثہ بعد میں ہوا	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	کیا آپ جانتے ہیں کہ یہ کب ہوا؟	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	معاملے کے بارے میں جانتا ہے	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	اب بھی ایک چیز باقی ہے	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	آپ یا وہ، کوئی بھی شخص	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	ایک گلوکار کی طرح، بطور دستخط کنندہ	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	ایک پیشہ ور گلوکار کی طرح گایا	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	ایک جگہ، جہاں وہ رہتی تھی۔	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	آپ کار کے بارے میں کیسے جانتے ہیں؟	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	ٹھیک ہے، تیز گاڑی کو دیکھو	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	چینی کے بغیر ایک رس	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	اس کے پاس تیز رفتار گاڑی ہے۔	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	بہت مضبوطی سے	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	اس نے بہت مشکل سے کھولا	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	بہت تیزی سے چلایا (سفر کیا۔	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	ایک چمچ کے ساتھ کھایا	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	ہمیں سخت شک ہے	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	اس کی طرف سے ایک سچا خط	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	پانچ تصاویر کے ساتھ ایک محبت کا خط	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	واپس آئے، وہ لوگ جو واپس آئے	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	چھ خطوط بھی واپس آئے	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	تصویر دیکھنا چاہتا تھا۔	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	سکول سے واپس آیا	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	بہن کب واپس آئے گی؟	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	دوبارہ پڑھنا چاہتا تھا۔	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	بنایا (کیا)، بن گیا۔	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	تیزی سے سرخ ہو گیا	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	ایک کمرے میں، ایک کمرے میں	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	کھڑے ہو کر بیٹھ گئے	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	تصویر کے سامنے کھڑا تھا۔	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	میرے پاس وہ ہے۔	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	آپ کے ہاتھ میں کیا ہے؟	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	آگے یا پیچھے؟	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	پہلے یا بعد میں؟	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	وہاں دروازے کے پیچھے	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	دوسرے، دوسرے لوگ	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	دوسروں کے خطوط	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	ہاتھ سے گر گیا	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	میز پر، میز پر	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	یہ میز پر گر گیا	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	معافی مانگی	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	پانچ کتابوں کی تلاش تھی۔	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	معذرت، میں اپنی کتاب تلاش کر رہا تھا۔	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	لیکن تم اچھی طرح جانتے ہو	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	میری میز پر نہیں ہے۔	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	آپ کی کتابیں میرے ٹیبل پر نہیں ہیں۔	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	دوبارہ دیا، واپس کیا	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	خط مجھے واپس کر دو	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	ایک اچھا سبق ملا	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	مزید دھویا، مزید کھایا	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	مزید نہیں پڑھیں گے	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	میں نے بھی وصول کیا۔	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	بند کرنا ہے	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	مجھے اچھی طرح سے بند کرنا ہے۔	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	دروازہ مضبوطی سے بند کر دیا	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	پرسکون، پرسکون	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	سنا لیکن نہیں سنا	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	ایک پرسکون آواز سنی	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	میرے پاس، 4 جیبیں ہیں۔	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	آخری سبق کے دس دن بعد	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	دو میزوں کے درمیان	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	تین حروف، چھ کاغذات	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	سر سے پاؤں تک	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	چار، چوتھا، ایک چوتھائی، ایک چوتھائی	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	تینوں کہاں گئے	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	دونوں ہاتھوں میں پانچ انگلیاں	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	خود سے، اپنی جیب سے	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	ڈالنا، ایک ساتھ رکھنا، ایک مرکب	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	اپنی جیب میں ڈالنا	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	دنیا میں دو سو قومیں	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	لے لیا، لے گیا۔	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	اپنی نو کتابوں میں سے سات لے لی	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	چھوڑنا، ترک کرنا	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	مجھے اکیلا چھوڑ دو اور پرسکون رہو	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	ہزار آٹھ سو ستاسی (1887)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	ایک کپ چائے	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	کسی نے آٹھ کپ دھوئے۔	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	دو ہزار انیس (2019)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	اس نے خود کو دھویا	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	کسی کا جسم، اپنی ملکیت	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	میز پر، بلی سو گئی	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	بلی میز پر کود پڑی۔	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	ہال میں، ہال میں	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	اس کے ہاتھ میں گر گیا	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	کام کرنا، وضاحت کرنا	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	اس کتاب کی وضاحت کرنے کے لیے	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	جانتا ہے، جاننا چاہتا ہے، تجسس	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	دو لسانی، دو لسانی	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	ایک سہ زبانی سیکھنے والے کے بارے میں حیرت	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	گیا، واپس آیا	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	بلیاں اپنے گھروں کو لوٹ گئیں۔	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	تھیلے میں، تھیلے میں	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	اسے اپنے بیگ میں ڈالو	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	ایک پاؤں، پیدل، پیدل چلنے والا	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	دس دن تک وہ چلتے رہے۔	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	لے جانا، نکالنا	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	خوبصورت پھول، خوبصورت پھول لیے	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	اس نے صرف خوبصورت پھول نکالے۔	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	کھول دیا، لیکن فوری طور پر بند کر دیا	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	ایک بین الاقوامی اجلاس کا آغاز کیا۔	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	شائع اور تقسیم	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	پبلشر نے تئیس کتابیں شائع کیں۔	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	واپس آکر اپنے بیٹے کو دوبارہ دیکھا	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	سال دو ہزار تئیس (2023) میں	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	ایک شریف آدمی دکان میں داخل ہوا۔	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	کاروں کی دکان	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	وہاں اسے ایک عورت نظر آتی ہے۔	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	عزیز خواتین و حضرات	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	اس نے مجھے خوش کیا (مجھے یہ پسند ہے)	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	عورت نے اسے خوش کیا (اس نے عورت کو پسند کیا)	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	خوبصورت عورت کو دیکھا	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	کس نے اسے خوش کیا؟ (وہ کس کو پسند کرتا تھا؟)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	وہ عورت، جس نے مجھے خوش کیا۔	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	وہ جو گھر میں داخل ہوا۔	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	وہ آدمی جس نے اسے عطیہ کیا۔	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	اس نے اپنی بیوی کو انگوٹھی دی۔	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	اسے انگوٹھی پسند آئی	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	وہ بیوی جسے انگوٹھی پسند آئی	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	ایک سیلز مین اسٹور میں کام کرتا ہے۔	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	کاروں کا ایک سیلز مین	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	شریف آدمی نے سیلز مین سے پوچھا	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	آپ کو کون سی گاڑی پسند ہے؟	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	آپ کونسی گاڑی کا انتخاب کریں گے؟	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	میں نے اس کار کا انتخاب کیا۔	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	یہ بہتر ہے	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	اس سے بہتر	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	ان میں سے بہترین	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	سب سے بہتر ہے	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	کون سی گاڑی بہترین ہے؟	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	یہ گاڑی بہتر ہے	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	یہ سب سے بہتر ہے	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	تمام گاڑیوں کو دیکھا	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	سب سے بہتر	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	کیا یہ تیز ہے؟	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	دوسروں کے مقابلے میں تیز	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	بھی مضبوط ہے	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	اوہ ہاں، بالکل!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	بہت مضبوط ہے	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	یقینا یہ مضبوط ہے	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	بھی مہنگا ہے	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	سب سے مہنگا	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	سستا لیکن مضبوط	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	افسوس ہوتا ہے اور ترس آتا ہے (افسوس کے قابل)	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	بدقسمتی سے میں نہیں خریدوں گا۔	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	ایک بدقسمتی کی بات ہے	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	اس نے ایک نئی گاڑی خریدی۔	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	کیونکہ میرے پاس پیسے نہیں ہیں۔	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	میری پرانی گاڑی	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	سب سے سستا	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	میں وہاں گاڑی چلا لوں گا۔	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	اب بھی اس کے ساتھ چلائیں گے۔	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	دن بھر	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	جبکہ اس نے کہا	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	اس نے دوبارہ اسے دیکھا	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	لیکن سیلز مین نے کہا	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	یہ بہتر ہو گا کہ ~	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	اس عورت کو دیکھو	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	یہ بھی بہت مہنگا ہے	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	میں اس کا شوہر ہوں۔	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	آپ کے سفر میں کتنا خرچ آیا؟	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	اپنی بیوی کا گانا سنو	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	مت بھولنا کہ یہ بہت زیادہ خرچ کرتا ہے	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	اس نے دو گھنٹے تک سیلز مین کی مدد کی۔	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	تین سال سے زیادہ	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	ڈھانپنا، ڈھانپنا، ننگا کرنا (دریافت کرنا)	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	وجہ اس نے ابھی تک دریافت نہیں کی ہے	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	تم نے خط کیوں بھیجنا شروع کر دیئے؟	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	آٹھ ماہ تک وہ وہاں رہا۔	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	سننے کا وقت نہیں تھا	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	گاڑی پہلے ہی بھری ہوئی تھی۔	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	آپ کیا کھا رہے ہیں	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	موسم کیسا ہے؟	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	آپ کے پاس کس قسم کی گاڑی ہے؟	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	اس کے خطوط کیسے تھے؟	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	ہم کہاں ہیں؟	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	تم کہاں جا رہے ہو	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	تم نے کس کو دیا؟	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	وہ آدمی جس کے ساتھ آپ سفر کرتے تھے۔	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	گاڑی سے بڑا	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	ان لوگوں میں سب سے لمبا	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	وہ رات کے کھانے پر بیٹھا تھا	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	جب وہ پڑھتا ہے تو وہ لکھتی ہے۔	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	یہاں، اس کمرے میں	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	یہ شریف آدمی	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	سننے کے قابل خبر	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	کتاب واقعی پڑھنے کے قابل ہے	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	ایک بدقسمتی کی بات	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	بدقسمتی سے، میں نہیں کر سکتا	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	آپکا خیر مقدم ہے. یہ میری خوشی تھی	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	چھوٹی خوبصورت لڑکی بہت خوبصورت ہے	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	تمام دوست اس سے پیار کرتے ہیں۔	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	تین ماہ پہلے	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	اس کے ساتھ کچھ برا ہوا	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	وہ ایک گاڑی کی وجہ سے گر گئی	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	بیمار ہو گیا اور درجہ حرارت بڑھ گیا	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	ماں نے کہا کہ اسے آرام کرنا چاہیے۔	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	اسے گھر رہنا ہے	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	وہ ڈاکٹر کو بلائے گی۔	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	نو بجے	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	صبح آٹھ بجے آئے	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	کل شام سات بجے	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	اپنے ہاتھ دکھائے	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	لباس، تیار ہو رہا ہے	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	کپڑے پہنیں اور اپنے جسم کو گرم کریں۔	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	گھر میں فوری طور پر کپڑے اتارے اور شاور کریں۔	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	ایک ڈاکٹر نے سب کچھ دیکھا	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	غور سے دیکھا اور آخر میں کہا	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	ایک ہفتے کے لئے گھر رہو	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	چاہتا ہے کہ آپ پرسکون رہیں	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	ایک ہفتے کے بعد	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	آپ بہتر محسوس کریں گے	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	کافی چائے پیو	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	آپ سے دوبارہ ملنے آئیں گے۔	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	اسے بھی پرسکون رہنے دو	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	صحت مند آدمی، صحت مند آدمی	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	اپنے آپ کو سنبھال لیا	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	پوری چیز ایک ہی وقت میں میرے لئے مفید تھی۔	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	دیکھا کہ خوفناک چیز قریب ہے۔	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	فوری نوٹس لینے کو کہا	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	سوچا کہ یہ ضروری نہیں تھا	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	قریب ہی رہتا تھا، اور یہ مفید تھا۔	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	آج ہمارا ملک خوفزدہ ہو گیا ہے۔	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	تمام خاندانوں کے پیارے بچے	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	کل ایک بار، کل دو بار	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	آج خاندانوں کو بچوں کی ضرورت ہے۔	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	امید تھی کہ وہ کل ٹھیک ہو جائے گا۔	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	وہ بہت پرسکون محسوس کر رہا تھا۔	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	تین چھوٹے بچوں نے پہاڑ کو اٹھایا	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	اہم لوگوں نے مدد نہیں مانگی۔	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	مدد کے لیے وہاں چلا گیا۔	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	اگر درجہ حرارت زیادہ ہو تو گھر میں رہیں	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	درجہ حرارت آج بھی اسی طرح رہا۔	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	نو بجے ڈاکٹر کو کال کریں۔	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	اپنے ڈاکٹر کو دکھائیں	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	اپنا پاؤں دکھانے کے لیے	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	یہ قمیض پہن لو	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	ہفتے کے آخر میں سب کچھ پرسکون ہو جائے گا	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	چائے کے کپ کے نیچے کیا ملا؟	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	مجھے صبح کی چائے چاہیے۔	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	ایک پرسکون شام کی امید تھی۔	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	چاہتا ہے کہ آپ سیکھیں۔	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	اصرار کیا کہ میں جاؤ	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	کس وقت	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	چھ بجے وہ آئے گا۔	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	libretto دلکش تھا	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	خاموش رہو	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	اسے خاموش رہنے دو	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	وہ بھی	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	میں چاہتا ہوں (خواہش)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	میری خواہش ہے کہ ~	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	کہ آپ سیکھتے ہیں۔	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	میں چاہتا ہوں کہ آپ سیکھیں۔	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	والد اصرار کرتے ہیں	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	والد کا اصرار ہے کہ ~	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	کہ میں جاتا ہوں۔	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	والد نے اصرار کیا کہ میں جاؤں	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	کس وقت	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	آپ کس وقت آتے ہیں	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	پانچ بجے)	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	پانچ بجے	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	وہ کیسے کر رہا ہے؟	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	آپ حال ہی میں کیسے ہیں؟	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	چھوٹی کتابیں خوبصورت ہیں	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	ایک کتابچہ، خوبصورت کتابیں۔	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	خوبصورت، تھوڑا خوبصورت، بہت خوبصورت	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	گرم، گنگنا، بہت گرم	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	ایک بڑی کتاب، ایک کتابچہ	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	اچھا، بہت اچھا، اچھا	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	امیر، امیر بننا، ایک امیر شخص	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	پرسکون ہونا، پرسکون ہونا، پرسکون ہونا	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	صحت مند، شفا یاب ہونے کے لیے، شفا ہو گیا۔	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	ایک شوہر، شادی، شادی شدہ	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	ایک خط ڈاکیا	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	ایک وطن	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	کسی حد تک، تھوڑا سا	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	ہم نے بہت اچھا کھانا کھایا	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	امید ہے، اپنا خیال رکھنا	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	مجھے اعلیٰ معیار کی رہائش کا خیال تھا۔	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	دو بار، کئی بار سوچو	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	کتابچہ کس نے اتارا؟	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	سیزر نامی بلی	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	ایک کیک جو میز پر ہے۔	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	ایک کیک کھاؤ جو میز پر ہے	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	گرم اور شرمندہ ہو گیا	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	ایک باپ چاہتا ہے کہ اس کا بچہ کھائے۔	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	ایک چھوٹے سے کمرے میں	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	ہم ~ میں رہتے ہیں۔	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	میں بے چین ہو گیا۔	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	اس وقت جب میں نے تمہیں دیکھا تھا۔	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	سب نے اسے دیکھا	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	حقیقت یہ ہے کہ وہ خوبصورت ہے	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	کیا آپ یہ چاہتے ہیں ~ (دیزیری)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	کہ میں تمہیں دکھا سکوں	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	کیا آپ مجھے دکھانا چاہتے ہیں؟	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	میری تازہ ترین کتاب (مقصد)	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	کل صبح، آپ کیا چاہتے ہیں؟	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	ناشتہ دیر سے کیا۔	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	مارک کب آئے گا؟	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	پانچ یا آٹھ بجے	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	آپ نے اسے کب محسوس کیا ~	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	پورا خاندان مجھے محسن کہتا ہے۔	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	آپ کے لیے مفید ہے۔	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	کیا کتابچہ مفید تھا؟	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	کتابچہ، جو میں نے بھیجا تھا۔	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	صبح دیر تک سویا	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	جب اس نے سورج کو دیکھا	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	اچانک اس نے چھلانگ لگا دی	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	وہ ہمیشہ جلدی تھا	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	وہ ہمیشہ دیر کر دیتا ہے	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	اس وقت، جب اسے جانا ہوتا ہے۔	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	اسکول جانے کے لیے	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	وہ جانتا ہے کہ ~	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	وہ حقیقت جانتا ہے، کہ ~	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	حقیقت یہ ہے کہ استاد شہد کی مکھیوں سے نفرت کرتا ہے۔	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	اس حقیقت کو جانتا ہے کہ استاد شہد کی مکھیوں سے نفرت کرتا ہے۔	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	جانتا ہے کہ استاد اس سے نفرت کرتا ہے۔	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	لیکن آج اس نے کافی پی لی	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	وہ جلدی سے کپڑے پہن لیتا ہے۔	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	وہ دیر نہیں کرنا چاہتا	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	کتابیں ہاتھ میں لے کر بہت جلد	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	بعد میں وہ بھاگا اور چھلانگ لگا دی۔	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	وہ بھاگا اور چھلانگ لگا دی	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	گلی کے ساتھ	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	لوگوں نے اس کی طرف دیکھا	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	اس کی طرف دیکھا اور کہا	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	عقلمند اور بے وقوف	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	کیا احمق لڑکا ہے!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	ایک سکول کے سامنے تھا۔	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	اسی طرح	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	وہ ~ کے سامنے تھا۔	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	جانا اور داخل ہونا	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	وہ داخل ہونا چاہتا تھا	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	اسکول میں داخل ہونے کے لیے	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	لیکن تاہم	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	لیکن وہ نہیں کر سکا	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	بند کرنے اور بند کرنے کے لئے	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	یہ بند تھا	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	نہ ~ نہ ~	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	نہ کوئی استاد اور نہ ہی مرد اور خواتین طالب علم	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	نہ استاد دیکھا نہ طالب علم	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	بیٹھنا، بیٹھنا	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	بیٹھ گیا (بیٹھا تھا)	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	وہ بیٹھ گیا	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	اور سوچا	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	کیا ہوا	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	خوفناک (شیطان کی طرح)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	اسے بند کرو	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	یاد کرتا ہے	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	اب مجھے یاد ہے	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	اتوار	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	آج ~ ہے	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	آج اتوار ہے	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	سونے کے لیے اور سونے کے لیے	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	ایک سورج اور ایک چاند	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	اچانک اور اچانک	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	بند! (شروع کرنے کے لئے)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	کودنا اور چھلانگ لگانا	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	ہمیشہ جلدی	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	آج ڈال دیا اور بھاگ گیا	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	ایک چیز عمر نہیں	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	عقلمند لوگوں کے ساتھ بھاگا۔	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	جتنی جلدی ممکن ہو	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	کیا لڑکا، کیا لڑکی	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	نہ سوچا نہ یاد	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	اتوار کو ایک شیطان پانی کا انتظار کر رہا تھا۔	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	اتنا چھوٹا لمحہ	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	یہاں تک کہ ایک چھوٹا سا لمحہ قابل قدر ہے	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	رات تک روتا رہا	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	میل پوسٹ کو ہاتھ سے ہٹا دیں۔	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	میل پوسٹ کو ہٹاتے ہوئے، خود سے ہنسا۔	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	نہ وہ ہنسا اور نہ ہی وہ	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	وہ نہ ہنسی اور نہ ہی جواب دیا۔	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	وہ نہ بیٹھتا ہے نہ دیکھتا ہے۔	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	میں نے کبھی نہیں دیکھا	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	میں کبھی کسی کو نہیں بتاؤں گا۔	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	کسی کو نہیں بتانا	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	میں کبھی نہیں کہوں گا۔	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	خود سے (خود سے)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	میں نے یہ خود کیا	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	یہ کیا (اسے بنایا)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	یہ خود کیا (خود ہی بنایا)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	ملتے ہیں (دوبارہ)، ملتے ہیں (دوبارہ)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	جب تک! (خدا حافظ!)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	بات شروع کرنے کے لیے	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	کہنا شروع کیا، آخر میں بولنا شروع کیا۔	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	بہت تیزی سے پیا	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	صبح کا مشروب تھا۔	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	جلدی آنا	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	اسکول آنے کے لیے	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	~ میں جلدی آنا	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	خبر نہیں سنی؟	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	ابھی تک نہیں سنا	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	میں نے ابھی تک نہیں سنا	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	اس لمحے میں	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	اسی لمحے وہ رو پڑا	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	ایک لڑکا، جو پیار نہیں کرتا	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	لڑکے اورلڑکیاں	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	دوسرے لڑکے اور لڑکیاں	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	دوسرے لڑکوں اور لڑکیوں سے محبت نہیں کرتا	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	نہ دوست نہ لڑکی دوست	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	نہ پیسہ ہے نہ وقت	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	کتاب کس کے پاس تھی؟	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	وہ کتاب جس کا آپ انتظار کر رہے تھے۔	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	جس کا آپ نے 2 سال سے زیادہ انتظار کیا۔	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	کیاآپ کو وہ چاہیے؟	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	کیا آپ یہ چاہتے ہیں ~	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	عزیز ترین	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	سب سے پیاری تصویر	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	میری سب سے پیاری تصویر	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	آپ نے کہاں سے خریدا ~؟	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	وہ لباس	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	وہ لباس (مقصد)	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	وہ لباس خریدا	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	تم وہاں جاؤ گے	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	تم کہاں جا رہے ہو	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	دھوپ والا دن	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	یہ ایک دھوپ کا دن ہو گا	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	اگر یہ دھوپ کا دن ہو گا۔	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	آپ کا بھائی شروع ہو چکا ہے۔	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	کیا آپ کے بھائی نے ابھی تک کام شروع کیا ہے؟	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	پانی کہاں ہے؟	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	پانی لانے کے لیے	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	آپ خود لائے ہیں	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	وہ پانی جو آپ خود لائے تھے۔	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	بہت خاموش تھا	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	آج میری ماں ~ تھی۔	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	میں ~ سے آیا ہوں۔	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	اسکول سے باہر	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	~ کو اطلاع دی گئی۔	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	اور اسے اطلاع دی۔	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	اطلاع دی ہے کہ ~	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	اطلاع دی کہ میں وصول کروں گا۔	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	مجھے برا گریڈ ملے گا۔	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	اس نے کہا کہ ~	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	آپ کو ~ کام کرنا ہوگا۔	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	مزید	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	مزید کام کرنے کے لیے	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	اپنے سر کو کام کرنے کے لئے	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	کتنے برے درجات ہیں؟	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	آپ کے پاس بہت سے خراب درجات ہیں۔	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	اداس تھا	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	اپنے کمرے میں	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	اپنے کمرے میں جاؤ	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	جاؤ اور سیکھو	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	میں بیٹھ گیا۔	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	میرے کمرے میں	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	میرے کمرے میں بیٹھ گیا۔	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	نہ سیکھیں اور نہ پڑھیں	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	لیکن میں نہ سیکھ سکتا تھا نہ پڑھ سکتا تھا۔	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	میرے خیالات	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	ایک کھیل میں	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	اپنے دوستوں کے ساتھ کھیل	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	کھیلوں میں	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	خود کو	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	اپنے آپ سے کہا	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	اتنا بڑا بےوقوف	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	کیا میں اتنا بیوقوف ہوں؟	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	اگرچہ میں نے بہت کچھ سیکھا ہے۔	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	ماں اندر داخل ہوئی	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	میرے الفاظ	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	اور میری باتیں سنیں۔	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	اس نے فوراً جواب دیا	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	نہیں میری پیاری	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	تم بیوقوف نہیں ہو	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	مسئلہ یہ ہے کہ ~	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	کہ آپ کو سیکھنا چاہیے۔	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	بہت کچھ سیکھنا چاہیے	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	پھر آپ کے پاس نہیں ہوگا	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	امتحان میں برے نمبر حاصل کرنا	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	صرف خراب درجات ہوں گے۔	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	اب بھی	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	میرے پاس وہ نہیں ہیں۔	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	میرا گریڈ اچھا ہے۔	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	موسیقی کے بارے میں	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	موسیقی پر ایک اچھا نوٹ	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	ماں اچانک ہنس پڑی۔	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	کہ خوبصورت ~	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	میرا دن	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	میرا دن بنا دیا	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	لیکن پھر بھی رہ گیا	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	لیکن مسئلہ اب بھی رہا	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	ایک کلو گرام ~	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	ایک کلو چینی	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	~ کا ایک گلاس	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	ایک گلاس پانی	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	بہت زیادہ ~	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	بہت سے خیالات	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	واپس رکھنے کے لئے	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	سب کچھ ترتیب دیا	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	اس کے حوالے کر دیا	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	میں پوچھ رہا ہوں	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	ایک گلاس کافی	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	اور کچھ پانی	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	مجھے ایک گلاس کافی چاہیے	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	مجھے ایک کپ چائے چاہیے	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	اسے چوٹ پہنچا	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	اس کے سر میں چوٹ لگی	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	وہ بیمار ہو گیا	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	خوبصورت ہونا پسند ہے؟	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	اس نے اپنے چہرے کو خوبصورت کیا	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	لڑکا خوبصورت ہونا پسند کرتا ہے۔	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	اس لیے اس نے اسے خوبصورت بنایا	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	دوپہر کے کھانے کے بعد	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	باورچی خانے کو صاف کرنے کے لئے	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	کچن کون صاف کرے گا؟	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	پینا چاہتا ہے؟	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	آپ کیا پینا چاہتے ہو	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	چائے پینے کے لیے	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	تھوڑا سا پانی	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	کیا آپ کو کچھ نہیں چاہیے؟	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	تو اچانک	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	آپ نے فیصلہ کیوں کیا ~	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	آپ نے اتنا اچانک فیصلہ کیوں کیا؟	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	آپ کا کمرہ	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	آپ کا چھوٹا کمرہ	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	اپنے چھوٹے سے کمرے میں	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	اپنے چھوٹے کمرے کی تزئین و آرائش کے لیے	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	اپنے چھوٹے سے کمرے کی تزئین و آرائش کا فیصلہ کیا۔	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	کس کو	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	آپ نے دیا ~	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	آپ نے کس کو دیا ~	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	صاف شیشے	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	آپ نے صاف شیشے دیئے۔	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	شراب کے لئے صاف شیشے	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	کس کے خلاف	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	آپ کا اسپورٹس کلب	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	~ کے خلاف کھیلتا ہے۔	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	دو ہفتے پہلے	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	آپ کا اسپورٹس کلب کس کے خلاف کھیلا؟	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	کیا تم دیکھتے ہو ~	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	کیا آپ اکثر دیکھتے ہیں ~	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	اکثر پولیس والے کو دیکھتے ہیں۔	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	وہ جو ~ میں رہتا ہے۔	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	قیام گاہ میں رہتا ہے۔	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	آپ کے اوپر رہائش گاہ	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	پولیس افسر کو دیکھتا ہے جو ~ میں رہتا ہے۔	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	ڈرائیونگ پلان	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	سفر کرنا چاہتا تھا؟	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	کسی دوسرے ملک کا سفر کرنا	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	فارغ وقت میں	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	انہوں نے جانے کا فیصلہ کیا	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	اٹلی جانے کا فیصلہ کیا۔	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	پرانے شہر	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	پرانے شہروں والا ملک	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	دیگر خوبصورتی	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	اور دیگر خوبصورتی	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	پرانے شہروں اور دیگر خوبصورتیوں کے ساتھ ایک خوبصورت ملک	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	وہ خوش تھے	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	کہاں ہے ~	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	میرے کپڑے کہاں ہیں	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	اس نے پوچھا ~	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	آئیے ~ لانا نہ بھولیں۔	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	کتاب اپنے ساتھ لے جانے کے لیے	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	ایسپرانٹو سیکھنے کے لیے ایک کتاب	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	سیکھنے کے لیے کتاب لے جانے کے لیے	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	ہم شروع کر سکتے ہیں ~	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	ٹرین میں	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	پہلے ہی ٹرین میں	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	ہم کچھ نہیں کریں گے۔	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	کار سے	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	ہم ~ سے گاڑی چلائیں گے۔	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	گاڑی چلائیں گے؟	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	میرے پاس ایک راز ہے۔	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	میرے امیر چچا	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	میری خواہش	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	میری خواہش پوری کر دی	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	ہمیں دیا	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	اس کی گاڑی	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	اور ہمیں اپنی گاڑی دے دی۔	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	استعمال کیلئے	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	یہ ~ سے پہلے کھڑا ہے۔	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	گھر کے سامنے کھڑا ہے	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	مجھے کہنا ہے ~	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	کچھ نہ کہو	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	چلو بیٹھتے ہیں	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	گاڑی میں جاؤ	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	~ تک گاڑی چلانے کے لیے	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	اور اٹلی چلا گیا۔	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	گاڑی میں بیٹھ گیا	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	کپڑے بھی	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~ گاڑی میں تھا۔	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	اب بھی بیٹھا اور انتظار کر رہا تھا	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	لیکن اس نے انتظار کیا	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	ہم کیوں نہیں ~؟	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	کیوں نہ ہم گاڑی چلانا شروع کر دیں؟	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	میرے پاس ~ بھی ہے۔	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	گاڑی چلائیں گے؟	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	لیکن میں نہیں جانتا ~	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	میں نے یہ کبھی نہیں سیکھا۔	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	میں یقین کروں گا ~	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	اگر میں صحت مند ہوتا	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	میں بہت خوش ہوں گی	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	جیسا کہ آپ امیر تھے	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	تم وہاں ایسے بیٹھتے ہو جیسے تم ایک امیر آدمی ہو۔	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	مبینہ اسکول	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	ایک امیر آدمی کی طرح	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	تم وہاں ایک امیر آدمی کی طرح بیٹھو	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	اتنے پیسے	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	خیالات کے طور پر زیادہ پیسہ	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	اگر میرے پاس اتنے پیسے ہوتے	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	میں سفر کروں گا۔	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	دنیا کے گرد	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	ہر ڈکشنری میں	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	کسی چیزکی کمی ہے	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	کچھ الفاظ غائب ہیں	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	ایک آدمی جس نے لمبی بات کی۔	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	کھانے کی میز پر	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	جو شخص کہے گا وہ بھوکا رہے گا۔	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	کھانے کی میز پر بتاتا رہتا ہے۔	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	اسے ~ پر توجہ دینی تھی۔	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	~ کی اجازت نہیں تھی۔	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	رہنے کی اجازت دی گئی۔	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	زیادہ دیر ٹھہرنے کی اجازت نہیں تھی۔	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	بارش میں باہر رہنے کے لئے	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	اس لیے اسے سردی لگ گئی۔	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	اس کا اپنا واضح خیال ہے۔	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	لیکن وہ سب کچھ مان لے گا۔	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	تم جو بھی کہو	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	جیسے تم اس کی بیوی ہو۔	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	آپ کے والدین	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	اپنے والدین کو خوش کرنے کے لیے	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	کیا ~ براہ مہربانی کر سکتے ہیں؟	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	آپ کے والدین کو سب سے زیادہ خوش کیا ہو سکتا ہے؟	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	سیکھنے کے بعد	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	کم از کم سیکھنے کے بعد	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	شہر کے مرکز میں	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	اگر تم میرے ساتھ چلو گے۔	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	اگر آپ میرے ساتھ شہر کے مرکز میں جائیں گے۔	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	آپ کہاں سفر کرنا پسند کریں گے؟	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	اگر آپ کے پاس ~ تھا۔	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	کافی رقم	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	اگر آپ کے پاس کافی پیسہ اور درجہ حرارت تھا۔	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	کیا آپ ~ کا منصوبہ بنا رہے ہیں؟	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	پیرس کا سفر کرنے کا ارادہ رکھتا ہے۔	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	ایک آٹو کے ساتھ گاڑی چلانے کے لیے	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	کافی بہتر	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	بہت بہتر لگتا ہے	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	ٹرین کے ذریعے	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	یا یہ زیادہ بہتر نہیں لگتا؟	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	مختلف لوگ	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	لوگ مختلف طریقوں سے کیوں وضاحت کرتے ہیں؟	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	ایک جیسے خیالات	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	اسی خیالات کی وضاحت کرتا ہے۔	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	خاندان کے افراد اکٹھے ہو جاتے ہیں۔	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	کتنی جلدی	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	دن گزرتے ہیں	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	دن کتنی جلدی گزر جاتے ہیں!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	کل ہو گا ~	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	آپ کے والد کی سالگرہ	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	کئی خاندان کے ارکان	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	خاندان کے کئی افراد آئیں گے۔	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	اور دوست	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	کیا آپ مہربانی فرمائیں گے ~	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	کیا آپ تھوڑی مدد کر سکتے ہیں؟	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	تھوڑی دیر	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	تھوڑا وقت تلاش کریں	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	اپنے کمرے کو صاف کرنے کے لیے	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	کم از کم اپنے کمرے کو صاف کرنے کے لیے	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	میں چاہوں گا ~	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	میں کچھ پکانا چاہتا ہوں۔	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	کچھ اچھا	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	کچھ اچھا پکانا	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	سالگرہ کے کیک کے لیے	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	دودھ کی کمی ہے	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	گھر میں	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	یہ ~ حاصل کرنے کے لئے ضروری ہے	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	کچھ غذا	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	ایک دکان سے	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	کسی ٹھکانے سے کچھ کھانے کے لیے	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	میں شاپنگ کروں گا۔	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	سالگرہ کے لئے	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	بیٹھ کر کھانے کے بجائے	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	دلچسپ لوگ	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	غیر دلچسپ خاندان کے ارکان کے ساتھ	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	میں پکنک پر جانا چاہتا ہوں۔	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	کلب کے ارکان کے ساتھ	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	کس کلب کے ممبران کے ساتھ؟	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	باپ نے کہا	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	کچھ قسم کا کاغذ، کچھ قسم کے کاغذات	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	ایک بریف کیس میں	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	کاغذ کے ڈبے میں	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	کاغذات کو کاغذ کے ڈبے میں پھینک دیا۔	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	کچھ کاغذات کاغذ کے ڈبے میں پھینکے۔	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	کل جلدی	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	میرے اسپورٹس کلب کے ممبران	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	میرے پیارے	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	کیا یہ صحیح ہے؟	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	آپ کو غیر حاضر ہونا ضروری ہے	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	کیا تم نہیں ~	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	آپ کے ساتھی کلب کے اراکین	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	اپنے ساتھی کلب کے ممبروں کے ساتھ ایک دوسرے کو دیکھتا ہے۔	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	ہفتے میں تین بار	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	کیا میں ~	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	کچھ تجویز کرنے کا حق ہے۔	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	گھر والوں کے ساتھ کھانا کھاؤں گا۔	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	لیکن دوسرے حصے میں	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	میں اپنے دوستوں کے ساتھ جاؤں گا۔	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	~ کے بارے میں بات کریں گے۔	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	ایک ناکام ڈرائیو	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	یقینی طور پر ناکام ڈرائیو کے بارے میں بات کریں گے۔	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	کیک کے بعد	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	میں اب یہ نہیں چاہتا	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	یہ سننا چاہتا ہے؟	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	ہمارے پاس کیوں نہیں ہے ~	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	خیال سے مالا مال چچا	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	امیر چچا کا کچھ خیال ہے۔	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	میرے خاندان میں	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	ماں مسکرا دی	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	اس کے الفاظ پر	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	وہ جانتی ہے ~	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	تھوڑا بہت بولتا ہے	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	یہ کافی نہیں ہے صرف ~	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	خیالات کی دولت	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~ کی بھی ضرورت ہے۔	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	ایسا کرنے کے لیے ایک مکمل پرس	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	ماں نے جاری رکھا ~	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	تھوڑی سی خاموشی کے بعد	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	چند منٹ پہلے	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	انا نے اسے فون کیا۔	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	وہ ہم سے بھی ملاقات کرے گی۔	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	ایک میٹھا کیک	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	وہ واقعی میٹھا کیک پسند کرتا ہے۔	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	محتاط ہے کہ موٹا نہ ہو۔	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	اگرچہ وہ توجہ دے گا	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	فوری طور پر ذہن بدل گیا	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	سیر کے دوران	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	اس کے بغیر	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	وہ بہت تنہا ہو گا۔	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	بہر حال میں پاس ہو جاؤں گا۔	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	البتہ کل گھر پر گزاروں گا۔	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	جوانی میں	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	ایک ہے	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	خوبصورتی بھی ہے	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	پیچیدہ ملازمتیں	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	پیچیدہ ملازمتیں (مقصد)	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	آسان کرنا چاہئے	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	اس عمر میں	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	وہ پہلے ہی ~ بن چکا ہے۔	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	اسپورٹس کلب کے سربراہ	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	ایک پیسہ لگاتا ہے	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	ایک بٹوے میں	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	ایک پرس میں رکھتا ہے	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	مثالوں پر عمل کریں	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	اچھے خاندان کے افراد سے	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	کیا دوستی آپ کو زیادہ خوش کرتی ہے؟	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	آپ کو خوش کرتا ہے	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	محبت کے مقابلے میں	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	آپ کتنی بار ~	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	آپ ~ کو خط لکھتے ہیں۔	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	اپنی لڑکی کے دوستوں کو خط لکھتا ہے۔	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	اٹلی میں آپ کی لڑکی دوست	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	آپ اور آپ کے استاد کے درمیان تعلق	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	کیا رشتہ بدل گیا ہے؟	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	کیا آپ پہلے ہی جانتے ہیں ~	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	کافی اچھا	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	~ میں شام تھی۔	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	سینکڑوں لوگ	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	مربع کو بھرتا ہے۔	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	جوان اور سپاہی	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	جہازوں سے ملاح	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	شاندار خاتون	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	شاندار خواتین	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	غیر ملکی مسافروں	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	ہر کوئی شہر کے مرکز کی طرف بڑھ رہا ہے۔	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	تھوڑا آگے	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	سمندر سے دور نہیں	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	ایک چھوٹا مربع تھا	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	تھوڑا آگے لیکن دور نہیں۔	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	اس کے آخر میں	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	سمندر کے قریب	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	قریب ہی ایک آدمی کھڑا تھا۔	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	لباس کے مطابق	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	کوئی آسانی سے جان سکتا ہے ~	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	یہ معلوم کرنا ممکن تھا کہ ~	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	ایک امیر آدمی کا گونڈولیئر	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	پتہ چلا کہ وہ ایک گونڈولیئر تھا۔	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	اس نے دیکھا ~	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	خوشی سے بھرے ہجوم کی طرف دیکھا	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	ایک مسکراہٹ نے اس کے چہرے کو روشن کیا	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	جب اس نے ایک ملاح کو دیکھا	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	ملاح جو پہنچا	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	سمندر کی طرف	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	سمندر کے کنارے سے آیا	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	کیا وہ تم ہو، سٹیفن؟	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	گونڈولیئر نے کہا	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	ہر کوئی کہتا ہے ~	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	ترکوں کے ہاتھوں میں	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	کہ تم ترکوں کے ہتھے چڑھ گئے۔	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	ہم ایک سے ملے	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	ہمارے جہازوں سے	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	اس نے ہمارا پیچھا کیا	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	ایک گھنٹے سے زیادہ	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	لیکن جانا آسان نہیں ہے ~	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	ہمارے جہاز سے زیادہ تیزی سے جانا	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	یہاں کیا خبر ہے	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	یہاں وینس میں	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	کچھ بھی دلچسپ نہیں	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	صرف ایک بڑی بدقسمتی	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	کیا آپ پیٹرو کو جانتے ہیں؟	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	میں اسے جانتا ہوں	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	ایک بڑے جہاز نے اس کے گونڈولا کو ڈبو دیا۔	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	اور اس کے بارے میں کیا؟	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	گونڈولا ڈوب گیا۔	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	یہ ہوا کہ ~	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	ہم قریب تھے	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	ہم اسے اپنے گونڈولا میں لے گئے۔	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	عین اسی وقت پر	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	میرا باس ڈوب گیا۔	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	ایک نوجوان عورت کی مدد کرنا	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	ایک نوجوان عورت جو تقریباً مر گئی۔	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	اپنے چچا کے ساتھ	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	تقریبا اپنے چچا کے ساتھ مر گیا	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	ایک نوجوان عورت تھی	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	ہم اس کی مدد نہیں کر سکے۔	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	ایک اہم شخص تھا	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	آپ کو وینس کیا لایا؟	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	میرے دوست	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	ملاح نے اوپر دیکھا	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	جلدی سے اپنے دوست کی طرف دیکھا	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	اور کہنے لگا	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	تو آپ جانتے ہیں ~	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	میں لایا ہوں ~	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	گونڈولیئر نے اچانک اسے روک دیا۔	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	انہوں نے کہا	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	پھر ایک آدمی وہاں سے گزرا۔	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	ایک آدمی اس کے پاس سے گزرا۔	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	وہ ابھی تیس کا نہیں تھا۔	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	اور اس کا چہرہ بے رنگ تھا۔	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	اس کا جانا یقینی اور آسان تھا۔	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	اس کا چہرہ اداس تھا	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	جب اس نے آدمی کو دیکھا، ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	کہا جاتا ہے کہ ~	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	بہت سے اہم لوگ ~ دیتے ہیں۔	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	خفیہ کام	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	خفیہ ملازمتیں	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	اسے خفیہ ملازمتیں دیتا ہے۔	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	بہت سارے راز	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	وہ بہت سے راز جانتا ہے	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	اس لیے وہ خوفزدہ ہیں۔	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	اسے جیل بھیجنے کے لیے	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	ملاح نے کہا	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	اور جیسا کہ وہ بولا	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	اس نے حویلی کی طرف اشارہ کیا۔	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	Doges کی حویلی	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	بہت سے اہم لوگوں کو اس کی مدد کی ضرورت ہے۔	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	وہ کتنا ادا کرتے ہیں؟	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	اسے ادا کرتا ہے	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	ایک قتل کی ادائیگی کرتا ہے۔	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	یقینی طور پر ~ سے کم نہیں۔	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	سو سکے سے زیادہ	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	اسے مت بھولنا ~	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	کہ وہ ان کے لیے کام کرتا ہے۔	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	ان لوگوں کے لیے جن کے پاس کافی رقم ہے۔	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	اسے ادا کرنے کے لئے	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	وینس میں ہے ~	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	وہ چیزیں	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	ان چیزوں کو بھولنے کے لیے	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	وہ چیزیں جو بہتر طور پر بھول جاتی ہیں۔	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	اگر آپ سکون سے کھانا چاہتے ہیں۔	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	اپنی روٹی سکون سے کھاؤ	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	کچھ خاموشی تھی	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	اور بعد میں	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	گونڈولر دوبارہ بولا۔	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	تم ٹھیک وقت پر آئے	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	کشتی کی دوڑ دیکھنے کے لیے	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	کسی نے کمزوری سے کہا	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	گونڈولیئر کے قریب	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	شہر کے میئر	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	بے ساختہ گونڈولا کی طرف اشارہ کیا۔	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	گونڈولیئر نے کہا	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	اور اپنے دوست کا ہاتھ پکڑ لیا۔	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	کاغذ پھینکتا ہے	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	کاغذ کے ڈبے میں	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	لڑکیوں نے کاغذات پھینک دیئے۔	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	میرا قلم کہاں ہے	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	میں اسے جواب دینا چاہتا ہوں۔	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	سورج غائب ہو گیا	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	اور اب تقریباً اندھیرا ہے۔	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	براہ مہربانی کھاؤ	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	براہ کرم روٹی کھاؤ	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	کٹلری کے ساتھ	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	معاف کیجئے گا	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	رہنے کی اجازت ہے۔	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	مجھے رہنے کا کوئی حق نہیں۔	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	کیا آپ ~ لا سکتے ہیں؟	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	میری بہن سے	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	آپ نے کب خریدا ~؟	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	وہ موسیقی کا آلہ خریدا۔	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	آخری کس نے استعمال کیا؟	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	میری چابی کا استعمال کیا	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	کیا تم نے چلایا	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	وینس میں	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	گونڈولا کے ذریعہ بھی	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	کیا آپ سو سکیں گے؟	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	پھر جب خاموشی چھا گئی۔	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	شریف آدمی لمبا تھا۔	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	لمبا، موٹا	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	موٹی، بھاری	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	بھاری اور بڑے	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	لمبا، موٹا، بھاری اور بڑا تھا۔	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	طاقت دی	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	رکھنے کے قابل ایک طاقت	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	جسمانی طاقت رکھنے کے قابل	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	کہ دیا	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	اسے دیا	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	جس نے طاقت دی	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	جسم کو قابل قدر طاقت دی۔	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	اس کی ظاہری شکل	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	ایک لمبے شخص کی ظاہری شکل	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	ایک چھوٹا سا کردار	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	کردار ادا کیا	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	کوئی چھوٹا کردار نہیں۔	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	ایک چھوٹا سا کردار ادا کیا	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	کوئی چھوٹا کردار ادا نہیں کیا	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	حقیقت یہ ہے کہ ~	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	لوگوں کی اکثریت	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	اگر ڈر نہیں تو	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	اس سے ڈرتا تھا	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	اگر وہ ڈرتا تھا	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	اگر اس سے نہیں ڈرتے	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	یقینی طور پر احترام کیا جاتا ہے	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	کم از کم ~ کے بارے میں سوچا	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	اس سے پہلے ~	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	اسے مطمئن کرنے کے لیے	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	اسے ناراض کرنے کے لیے	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	غیر مطمئن ہونے سے پہلے ~	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	فیصلہ کرنے سے پہلے ~	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	ناراض کرنے کا فیصلہ کرنا ~	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	اسے مطمئن کرنے کا فیصلہ کرنا	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	اسے ناراض کرنے کا فیصلہ کرنے سے پہلے	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	یہ، جو مفید ہے	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	دن کے دوران اکثر مفید	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	ایک ناخوشگوار پریشانی	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	خود سے	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	ایک ناخوشگوار پریشانی پیش کرتا ہے۔	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	خود کو ایک ناخوشگوار پریشانی کے طور پر پیش کرتا ہے۔	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	درختوں سے بھری جگہ پر	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	پھر جب کوئی گمراہ ہو گیا۔	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	ایک غیر انسانی بیابان میں	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	اور افراتفری میں سڑک سے ہٹ جاتا ہے۔	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	ایک لمبا بڑا جسم	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	پاس کرنے میں ناکام ~	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	جھاڑیوں کے درمیان	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	قدرتی چیزوں کو چھونے کے علاوہ	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	عام طور پر گیلے	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	گیلی فطرت کے وسط میں	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	گیلی قدرتی چیزیں، جس کے بیچ میں ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	وہ مشکل سے چلا	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	یہ ایک تجربہ تھا	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	غیر معمولی نہیں	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	دردناک اور ہمیشہ ناخوشگوار	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	زیادہ ~	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	زندگی میں آگے بڑھا	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	قلعے کے جنگل میں	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	جتنا آگے بڑھا اتنا ہی ناپسندیدہ ~	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	رات کی فطرت کو ناپسند کیا۔	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	آنکھوں والا آدمی جو صاف دیکھا جا سکتا ہے۔	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	وہ آنکھیں جو اچھی طرح دیکھ سکتی تھیں۔	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	اندھیرے میں اچھی طرح سے دیکھنے کے لئے	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	مشکل سے گزرتے ہوئے دیکھا	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	ہمارے صنعتکار سے	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	وہ مسکرایا	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	اس آدمی کے ساتھ	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	پولیس والے کے لباس میں	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	ایک اور شخص کھڑا تھا	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	اسی طرح کے لباس میں	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	مؤخر الذکر ایک عورت تھی	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	چلو	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	آدمی نے آہستہ سے کہا	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	اپنے ساتھی کے کان میں	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	اب صحیح وقت ہے	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	دونوں اس شخص کی طرف بڑھے۔	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	وہ کرنے میں محتاط تھے ~	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	جتنا ممکن ہو ~	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	جتنا ممکن ہو کم شور (کیل ایبل)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	جتنا کم شور ممکن ہو	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	وہ تقریبا مکمل طور پر کامیاب ہو گئے	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	اس ناگوار صورتحال میں	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	ایک گندی صورتحال جہاں درختوں نے اپنی شاخیں پھینک دیں۔	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	اپنی گیلی شاخوں کو پھینک دیا	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	براہ راست چہروں میں	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	صنعتکار کے	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	کثیر پیروں والی چھوٹی مخلوق	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	اس کے پاؤں لیا	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	پیدل سڑک کے لیے	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	قدرت نے اس کے قدم گرائے	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	سب سے زیادہ دردناک	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	اپنا پاؤں گڑھے میں گرا دیا	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	پانی سے بھرا ایک گڑھا	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	بدبودار پانی	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	جلدی سے خیال آیا	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	ایک تیار ہونا ضروری ہے	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	یہاں	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	کوئی بھی ~	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	کسی بھی ناخوشگوار تصادم کے لیے تیار ہیں۔	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	کچھ بھی (جو بھی)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	وہ کسی بھی چیز کا انتظار کر رہا تھا	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	ایک طرف انسانی آواز	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	جب ایک آواز سنائی دی، ~	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	فوری طور پر بند سنا	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	اس نے سائٹ پر ایک اچھی چھلانگ لگائی	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	جس نے اس کے دل کو ہلا دیا۔	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	منہ تک	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	سکون کو دوبارہ حاصل کرنے کی کوشش کے ساتھ	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	تھوڑا سا سکون	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	ایک چراغ کی روشنی	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	کسی نے براہ راست اس کی آنکھوں کی طرف اشارہ کیا۔	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	وہ چراغ جسے کسی نے آنکھوں کی طرف دیکھا	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	مفاہمت کو روکا	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	اسے ایسا لگتا تھا کہ ~	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	انسانی شکل جس نے چراغ کو تھام رکھا تھا۔	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	پولیس کے کپڑے پہنیں۔	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	آپ یہاں کیا کر رہے ہیں؟	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	مستند آواز لگتی ہے۔	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	براہ مہربانی بات کریں ~	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	تھوڑا صاف	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	دوسرے نے کہا	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	اس سے بھی زیادہ اہم لہجے میں	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	میں چل رہا ہوں۔	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	آپ فارم پر چلتے ہیں	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	کاؤنٹیس کی	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	کاؤنٹیس کا فارم	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	آدھی رات کو	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	کیا کاؤنٹیس نے آپ کو مدعو کیا تھا؟	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	کیا وہ ~ کے بارے میں جانتی ہے۔	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	آپ کی موجودگی کے بارے میں	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	آپ کی یہاں موجودگی	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	مجھے آپ سے پوچھنا ہے ~	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	آپ سے میری پیروی کرنے کو کہتا ہے۔	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	اور اس نے وضاحت کی ~	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	وضاحت کی کہ ~	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	غلط کوشش کے بعد سے	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	کاؤنٹیس کو پکڑنے کی غلط کوشش	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	کی وجہ سے ~	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	دہشت گردوں کی وجہ سے	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	پولیس احتیاط سے چیک کر رہی ہے۔	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	چیک کرتا ہے کہ کیا ہو رہا ہے۔	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	ارد گرد میں ہوتا ہے	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	محل کے	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	محل کے ارد گرد	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	صنعتکار کو	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	ایسا لگتا تھا کہ ~	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	اس وقت اس کا دل گر گیا	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	اس کے پاؤں پر گر گیا	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	وہ جانتا تھا کہ ~	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	بس مشکل سے وہ ڈھونڈنے کی کوشش کرے گا۔	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	ایک قابل قبول وضاحت تلاش کرنے کے لیے	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	اپنی موجودگی کے بارے میں	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	یہ خیال کہ کاؤنٹیس سب کچھ جانتی ہے۔	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	خیال نے اسے تھوڑی سی امید سے محروم کر دیا۔	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	چھوٹی سی امید	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	چھوٹی سی امید باقی تھی	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	پولیس کے پہلے الفاظ کے بعد	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	زیادہ ~ زیادہ ~	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	لمبا اتنا ہی بہتر	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	کوئی بات نہیں کتنا	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	ایک چوتھائی گھنٹے پہلے	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	وہ واپس آئے	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	خوفناک بدقسمتی کے بعد	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	لوگ چلے گئے	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	اور پرانے شہر ٹوٹ گئے۔	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	ہمیں آپ کو دوبارہ ملنا چاہئے۔	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	زیادہ کثرت سے	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	میں سوچ رہا ہوں	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	میں جتنا ناراض ہوں	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	وہ ~ میں رہتی ہے۔	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	کسی بھی گھر میں	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	کیا ہم ایک دوسرے کو دوبارہ دیکھیں گے؟	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	جہاں بھی اور جب بھی	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	میں کب واپس آؤں گا ~؟	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	کتابوں کا دوسرا نصف	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	کیا آپ کو ضرورت ہوگی ~	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	ایک سال کے ایک چوتھائی سے زیادہ کی ضرورت ہے	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	ان ملازمتوں کے لیے	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	کیوں ہے ~	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	زیادہ ٹھنڈا	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	لمبا	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	ہم انتظار کر رہے ہیں ~	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	کیا آپ ~ سے مطمئن ہیں؟	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	کسی بھی آدمی کے ساتھ	with any man	grupo	0    	0000-00-00 00:00:00

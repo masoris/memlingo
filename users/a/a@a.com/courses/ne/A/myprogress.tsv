@@ -1,0 +1,1354 @@
+level	mi, vi	म तीमी	I, you	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(वर्तमान) is, am, are (भूत) थियो, थियो	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	म ~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	तपाईं ~ हुनुहुन्छ	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	नमस्कार	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	नमस्ते, म हुँ	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	मेरो, तिम्रो	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	एउटा नाम	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	मेरो नाम, तिम्रो नाम	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	मेरो नाम ~ हो	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	तिम्रो नाम ~ हो	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(वर्तमान) गर्छ, (विगत) गर्छ	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(वर्तमान) थियो, थियो (भविष्य) हुनेछ	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	एक नाम, एक (उद्देश्य) नाम	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	मेरो प्यार	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	तपाईं गर्दै हुनुहुन्छ ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	कसरी	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	तपाईलाई कस्तो छ?	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	के	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	तिम्रो नाम के हो?	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	राम्रो, राम्रो	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	राम्रो गरिरहेको छ	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	म राम्रो गरिरहेको छु	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	र	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	सन्चै अनि तिमि?	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	~ सम्म	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(वर्तमान) देख्छ, (विगत) देख्छ	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(विगत) देख्यो, (विगत) फेरि देख्यो	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	फेरि देख्यो, फेरि देख्नेछ	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	फेरि देख्नु, फेरि देख्नु (उद्देश्य)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	फेरि भेटौला!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	धन्यवाद	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	धन्यवाद र फेरि भेटौंला!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	को ~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	तिमीलाई, मलाई	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(वर्तमान) धन्यवाद, (विगत) धन्यवाद	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	म तपाईंलाई कदर गर्छु	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	हो होइन	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	हो, तपाईलाई थाहा छ	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	खान्छ, खान्छ	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	म खान्न	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	होइन, म खाँदिन	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	सुन्दर, सुन्दर	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	सार्थक (समाप्त)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	सराहनीय, धन्यवाद दिन सार्थक	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	सम्पूर्ण, समग्र रूपमा	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	सबै, (उद्देश्य) सबै	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	होइन, तपाईलाई स्वागत छ	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	पूर्ण रूपमा छैन	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	क्षमा गर्न, एक क्षमा	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	मलाई एक क्षमा	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	मलाई माफ गरिदेउ! (मलाई माफ गर्नुहोस्)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	मलाई माफ गर्नुहोस्, कृपया	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	शुभ बिहानी	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	शुभ - प्रभात	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	शुभ रात्री	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	राम्रो सपना	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	(तपाईको लागि) राम्रो यात्रा	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	शुभ दिन!	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	यो ~ ?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	के तपाई राम्रो गर्दै हुनुहुन्छ? (तिमीलाई कस्तो छ?)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	हो, म ठिक छु	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	होइन, पटक्कै होइन	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	धेरै, धेरै	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	ठूलो, ठूलो मात्रामा	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	धेरै ठूलो, धेरै ठूलो	very big, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	तपाईं धेरै राम्रो गर्दै हुनुहुन्छ	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	धेरै राम्रो छैन	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	सिक्न, एक सिक्ने	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	हेर्दै हुनुहुन्छ, दर्शक	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	सिकिरहेको छ, विद्यार्थी (सिक्ने व्यक्ति)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	is -ing, गर्ने व्यक्ति	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	एक विद्यार्थी, एक व्यक्ति जसले सिकेको छ	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	म विद्यार्थी हुँ।	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~ मेरो साथी हो	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	उनी, उनी	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	बस्नु, बस्नु	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	बसिरहेको छ, बसिरहेको छ, बस्नेछ	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	ऊ बसिरहेको छ र उसले सिक्दैछ	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	एउटा कोठा	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	कोठामा पढ्छ	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	एक विद्यार्थी र एक खेलाडी	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	खेलकुद र एक खेलाडी	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	एक खेलाडी खेल्दै छन्	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	उहाँ एक विद्यार्थी हुनुहुन्छ	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	उहाँ एक विद्यार्थी र एक खेलाडी हुनुहुन्छ	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	उनी अहिले बसिरहेका छन्	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	र अहिले सिक्दै छ	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	बसेर सिक्दै छ	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	अहिले एउटा कोठामा	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	टेबलमा छ	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	एउटा कागज र कागज	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	एउटा टेबल र टेबल	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	एउटा किताब र किताबहरू	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	कागज र पुस्तकहरू	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	यो एक टेबल मा छ।	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	लेखन टेबलमा लेख्दै हुनुहुन्छ	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	पुस्तकहरू ~ हुन्	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	टेबल मा	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	पाठ्यपुस्तक र पाठ्यपुस्तकहरू	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	टेबलमा ~ छ	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	एक बुबा र आमा	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	बुबा र आमा	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	मेरो साथीको आमा	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	कोठामा	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	कोठामा छैन	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	उनीहरु अहिले काम गरिरहेका छन्	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	उनका बुबा कामदार हुन्	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	उनी होटलमा काम गर्छन्	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	आमाले सिकाउनुहुन्छ	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	उनी एक शिक्षिका हुन्	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	के उनी आमा हुन्?	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	होइन, उनी होटल व्यवसायी हुन्	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	होइन, म काम गर्दिन	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	उनको नाम के हो?	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	अब कसले जवाफ दिदैछ ?	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	आफ्नो आमाको भाषा	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	तिम्रो नाम ~ हो ?	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	हामी बसेर जवाफ दिइरहेका छौं	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	उनको काम गर्ने कुर्सी	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	यसको नाम ~ होइन	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	उनको भाषा उनीहरूको भाषा हो	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	हाम्रो बुबा र आमा	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	तपाईंको विद्यार्थी, तपाईंको विद्यार्थीहरू	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	के तिनीहरू तपाईंका विद्यार्थी हुन्?	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	के तपाईँ विद्यार्थी हो?	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	तिमी कोठामा छौ?	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	म छैन ~	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	एस्पेरेन्टिस्ट र महिला एस्पेरेन्टिस्ट	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	होटल कोठाको लागि चेक इन गर्नुभयो	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	एक भाषाविद् र एक महिला कार्यकर्ता	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	उनको केटी साथी ~ छ	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	विद्यार्थी र खेलाडीहरू	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	मेरो परिवारको नाम ~ हो	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	उनि को हुन्? उनी को हुन्?	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	तिम्रो केटी साथी हो	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	तिम्रो साथी हो ~?	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	अहिले कोठामा लेखिरहेको छ	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	के तपाईको बुबाको साथी ~ ?	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	होटल मा काम गर्नुहुन्छ	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	टेबलमा के छ?	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	हाम्रो कोठाको टेबलमा	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	एस्पेरान्तो पाठ्यपुस्तक हो ~ ?	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	तपाईको टेबलमा छ	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	एक साथी छ	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	उनको नाम ~ हो	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	जवान र सुन्दर	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	जवान र सुन्दर छ	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	जवान र सुन्दर साथीहरू	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	पुरुष र महिला साथीहरू हुन्	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	उनको शिक्षकको घर	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	घरमा आए	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	~ को घर	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	कृपया भित्र आउनुहोस	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	नमस्ते तिमी के गर्दै छौ?	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	तिमी के गर्छौ? तपाईं के गर्दै हुनुहुन्छ?	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	तर अब म चाहन्छु ~	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	म बोल्न चाहन्छु	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	तीन पुरुष र महिला साथीहरूसँग	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	तिमीसँग कुरा गरे	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	तिमीसँग कुरा गर्न चाहन्छ	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	के तपाईंसँग पुरुष र महिला साथीहरू छन्	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	उनीसँग एउटा किताब छ	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	राम्रो किताब छ	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	हो, मसँग छ	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	उनीहरूलाई मन पर्छ	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	उनले एउटा किताब पढिन्	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	किताबहरू पढ्न मनपर्छ	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	केवल एक राम्रो पुस्तक	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	धेरै राम्रो पुस्तकहरू	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	राम्रो किताबहरू मात्र पढ्नुहोस्	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	राम्रो किताबहरू पढ्न मनपर्छ	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	के तपाई पढ्न चाहनुहुन्छ?	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	जवानले कफी पिए	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	पानी पिउन चाहन्छ	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	एक बुबा र आमा; आमाबाबु	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	एक कष्ट र बहिनी, दाजुभाइ	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	आफ्नो आमाबुबा र भाइबहिनीहरू	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	तपाईको घरमा छ	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	यहाँ कफी छ	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	अझै पिउनुभएको छैन	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	अझै तातो छ	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	हिजो पकाएको	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	अहिले पकाएको छु	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	धन्यवाद। त्यसैले उहाँले भन्नुभयो।	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	पिउन र खान सक्छ	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	चिसो कफी पिए	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	अझै तातो कफी	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	चिसो कफी पनि पिउने	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	चिसो कफी पनि पिउन सकिन्छ	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	उसको आँखामा हेर्छ	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	सबैभन्दा सुन्दर आँखा	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	सुन्दर आँखाहरु	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	सुन्दर आँखा देखे	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	उनको सुन्दर आँखा	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	देख्छ र बुझ्छ	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	म त्यो देख्छु ~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	कि उसले उसलाई माया गर्छ	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	उसलाई लाग्छ कि उसले उसलाई माया गर्छ	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	त्यो ठूलो थियो कि भनेर सोध्छ	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	सजिलो प्रश्नको बारेमा	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	नयाँ पैसाको बारेमा भने	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	धेरै सुन्दर आँखा	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	ठुलो भाइ देखे	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	सानो बहिनीले बिर्सनुभयो	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	एक अभियोगात्मक (उद्देश्य)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	आरोपित अन्त्य नबिर्सनुहोस्	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	तिमी कसलाई हेर्दै छौ? तपाई कुन देख्नुहुन्छ?	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	साथी देख्छु	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	राम्रो पुरुष र महिला साथीहरू छन्	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	तिनीहरू पुरानो घरको बारेमा काम गरिरहेका छन्	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	काम, काम, काम हुनेछ	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	देख्छु, म खान्छु	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	जान्छु भन्नुभयो	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	कुरूप र नराम्रो	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	उसले के भनी?	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	तपाई के को लागी पर्खदै हुनुहुन्छ?	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	कोठामा गए	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	सामग्री धेरै गाह्रो छ	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	बैठकमा पुगे	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	बैठकमा स्वागत छ	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	एक वृद्धले टिप दियो	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	आइपुगे र स्वागत गरियो	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	तिनीहरू घृणा गर्छन् तर सहयोग गर्छन्	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	होटल गए	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	सजिलो पाठ्यपुस्तकहरू छन्	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	तिम्रो आमा कस्तो हुनुहुन्थ्यो ?	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	तिम्रो पुरानो घर	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	तपाईले कुन पुस्तकहरू पढ्नुभयो?	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	तिनीहरू राम्रो थिए?	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	हिजो के गर्नुभयो?	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	सानो कोठामा	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	धेरै बेर बोल्यो	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	विद्यालय अगाडि, विद्यालय अगाडि	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	विद्यालय अगाडि बोलेका थिए	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	पछि पुस्तकको बारेमा कुरा गरे	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	खुसीसाथ विद्यालय गए	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	सडक मार्फत	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	सडक भएर गए	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	न्यानो दिन थियो	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	उनीहरुले क्याफे देखे	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	रातो कुकीहरू देखे	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	यसमा कुकीहरू देखे	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	एउटा क्याफे' र यसमा कुकीहरू देखे	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	भित्र जानुहोस् र खानुहोस्!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	भित्र आएर खाऔं	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	पर्याप्त पैसा छ	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	के तपाईसँग पर्याप्त पैसा छ?	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	तिमी बुझ्छौ?	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	अवश्य!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	त्यो पर्याप्त छैन	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	एक सय डलर पर्याप्त छ	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	डलर, डलर, डलर (बहुवचन उद्देश्य)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	सय डलर छ	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	अवश्य पनि, मसँग छ	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	ओह! तिमी धनी छौ!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	एक पानी, एक वेट्रेस	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	वेटरले मेनु ल्याउँछ	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	त्यो हामीलाई ल्यायो, त्यो ल्यायो	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	एक वेटरले धेरै कुकीहरू ल्यायो	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	तिनीहरूले केही खाए (थोरै)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	खाना (खाना) पछि	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	नयाँ, फेरि	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	वेटर फेरि आयो	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	कुनै ठाउँमा	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	कुनै ठाउँमा खोजेको थियो	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	अन्य ठाउँमा खोजे	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	उनको अनुहार खुशी थियो	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	उनी दुखी थिइन्	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	अन्तमा र अन्तमा अन्तमा	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	तिम्रो बलियो आवाज	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	कमजोर आवाजमा	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	पैसा छैन	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	त्यहाँ के भयो?	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	पछि दुर्घटना भयो	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	तपाईलाई थाहा छ यो कहिले भयो?	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	विषयमा थाहा छ	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	अझै एउटा कुरा बाँकी छ	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	तपाईं वा उनी, कुनै पनि व्यक्ति	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	एक गायक जस्तै, एक हस्ताक्षरकर्ता को रूप मा	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	एक पेशेवर गायक जस्तै गाए	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	एक ठाउँ, जहाँ उनी बस्थे	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	तपाईलाई कारको बारेमा कसरी थाहा छ?	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	राम्रो, छिटो कार हेर्नुहोस्	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	चिनी बिनाको रस	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	उनीसँग द्रुत गाडी छ	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	धेरै बलियो	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	उसले धेरै कडा खोल्यो	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	ड्राइभ (यात्रा) धेरै छिटो	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	एक चम्चा संग खायो	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	हामी कडा शंका गर्छौं	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	उहाँबाट एक साँचो पत्र	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	पाँच फोटो सहितको प्रेम पत्र	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	फर्किए, फर्केका मानिसहरू	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	छ वटा पत्र पनि फर्काए	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	फोटो हेर्न मन लाग्यो	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	विद्यालयबाट फर्किए	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	बहिनी कहिले फर्कने?	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	फेरि पढ्न मन लाग्यो	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	बनेको (गयो), बन्यो	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	छिटो रातो भयो	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	एउटा कोठामा, एउटा कोठामा	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	उभिएर बसे	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	फोटोको अगाडि उभिए	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	मसँग त्यो छ	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	तिम्रो हातमा के छ?	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	अगाडि वा पछाडि?	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	अघि वा पछि?	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	त्यहाँ ढोका पछाडि	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	अरू, अरू मानिसहरू	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	अरूबाट पत्रहरू	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	हातबाट खसेको छ	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	टेबलमा, टेबलमा	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	यो टेबुलमा खस्यो	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	माफी मागे	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	पाँचवटा किताब खोज्दै थिए	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	माफ गर्नुहोस्, म मेरो किताब खोज्दै थिएँ।	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	तर तिमीलाई राम्रोसँग थाहा छ	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	मेरो टेबलमा छैन	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	तिम्रो किताब मेरो टेबलमा छैन	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	फेरि दियो, फिर्ता गर्यो	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	मलाई पत्र फिर्ता गर	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	राम्रो पाठ प्राप्त भयो	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	अझै धोए, थप खाए	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	अब पढ्ने छैन	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	मैले पनि पाए	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	बन्द गर्नुपर्छ	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	मैले राम्रोसँग बन्द गर्नुपर्छ	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	ढोका बलियो बन्द	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	शान्त, शान्त	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	सुने तर सुनेनन्	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	शान्त आवाज सुने	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	म मा, त्यहाँ 4 जेब छन्	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	अन्तिम पाठको दस दिन पछि	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	दुई टेबल बीच	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	तीन अक्षरहरू, छवटा पत्रहरू	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	टाउको देखि खुट्टा सम्म	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	चार, चौथो, एक चौथाई, एक चौथाई	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	कहाँ गए तीनै जना	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	दुवै हातमा पाँच औंलाहरू	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	आफैले, आफ्नै खल्तीबाट	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	राख्नुहोस्, एकसाथ राख्नुहोस्, एक कम्पाउन्ड	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	आफ्नै खल्तीमा राख्ने	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	संसारमा दुई सय राष्ट्रहरू	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	लगे, लगे	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	आफ्ना नौवटा पुस्तकहरूमध्ये सातवटा लिए	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	छोड्नु, त्याग्नु	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	मलाई एक्लै र शान्त छोड्नुहोस्	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	हजार आठ सय ८७ (१८८७)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	एक कप चिया	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	कसैले आठ कप धोए	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	दुई हजार उन्नीस (२०१९)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	उसले आफैलाई धोए	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	कसैको शरीर, आफ्नै सम्पत्ति	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	टेबुलमा, बिरालो सुत्यो	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	बिरालो टेबुलमा हाम फाल्यो	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	हलमा, हलमा	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	उनको हातमा पर्यो	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	काम गर्न, विस्तार गर्न	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	त्यो पुस्तकको लागि विस्तृत गर्न	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	थाहा छ, जान्न चाहन्छ, जिज्ञासा	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	द्विभाषी, द्विभाषीवाद	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	एक त्रिभाषी शिक्षार्थीको बारेमा आश्चर्य	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	गयो, फर्कियो	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	बिरालाहरू आफ्नो (आफ्नै) घर फर्किए	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	झोलामा, झोलामा	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	आफ्नो झोला मा राख्नुहोस्	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	एक खुट्टा, हिड्ने, एक पैदल यात्री	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	दश दिनसम्म तिनीहरू हिँडे	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	लिनु, बाहिर निकाल्नु	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	सुन्दर फूलहरू, सुन्दर फूलहरू लिए	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	उनले केवल सुन्दर फूलहरू निकाले	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	खोलियो, तर तुरुन्तै बन्द	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	एक अन्तर्राष्ट्रिय सम्मेलन खोल्यो	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	प्रकाशित र वितरित	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	प्रकाशकले तेईसवटा पुस्तक प्रकाशित गरेका छन्	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	फर्किएर आफ्नै छोरालाई फेरि देखे	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	वर्ष दुई हजार तेईस (२०२३)	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	एक सज्जन पसलमा प्रवेश गरे	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	कार को पसल	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	त्यहाँ उसले एउटी महिलालाई देख्छ	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	प्रिय महिला र सज्जनहरू	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	त्यो मलाई खुसी लाग्यो (मलाई त्यो मन पर्छ)	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	महिलाले उसलाई खुसी बनाइन् (उहाँले महिलालाई मन पराउनुभयो)	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	सुन्दर महिला देखे	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	उसलाई कसले खुशी तुल्यायो? (कसलाई मन पर्यो?)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	मलाई खुसी पार्ने महिला	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	जो घर भित्र पस्यो	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	यो दान गर्ने मानिस	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	उनले आफ्नी श्रीमतीलाई औंठी दिए	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	उसलाई औंठी मन पर्यो	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	श्रीमती जसलाई औंठी मन पर्यो	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	एक सेल्सम्यान पसलमा काम गर्छन्	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	कार को एक विक्रेता	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	भाइले सेल्सम्यानलाई सोधे	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	तपाईलाई कुन कार मन पर्छ?	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	तपाई कुन कार रोज्नुहुन्छ?	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	मैले त्यो कार रोजें	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	यो राम्रो छ	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	यो भन्दा राम्रो	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	तिनीहरू मध्ये सबै भन्दा राम्रो	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	सबै भन्दा राम्रो छ	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	कुन कार राम्रो छ?	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	यो कार राम्रो छ	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	यो सबै भन्दा राम्रो छ	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	सबै कारहरू देखे	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	सबै भन्दा राम्रो	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	यो छिटो छ?	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	अरु भन्दा छिटो	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	पनि बलियो छ	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	ओ हो, अवश्य!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	धेरै बलियो छ	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	पक्कै पनि बलियो छ	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	महँगो पनि छ	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	सबै भन्दा महँगो	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	सस्तो तर बलियो	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	खेद महसुस गर्छ र दयालु छ (माफ गर्न लायक)	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	दुर्भाग्यवश म किन्ने छैन	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	दुर्भाग्यपूर्ण कुरा हो	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	उसले नयाँ कार किन्यो	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	किनभने मसँग पैसा छैन	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	मेरो पुरानो कार	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	सबै भन्दा सस्तो	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	म त्यहाँ ड्राइभ गर्छु	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	अझै पनि यसको साथ ड्राइभ गर्नेछ	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	दिनभरी	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	जब उनले त्यो भने	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	उसले फेरि उसलाई हेर्यो	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	तर सेल्सम्यानले भने	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	यो राम्रो हुनेछ ~	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	यो महिलालाई हेर्नुहोस्	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	त्यो पनि धेरै महँगो छ	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	म उनको श्रीमान हुँ	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	तपाईको यात्रामा कति खर्च भयो?	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	आफ्नो श्रीमतीको गीत सुन्नुहोस्	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	नबिर्सनुहोस् कि यो धेरै खर्च हुन्छ	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	उसले सेल्सम्यानलाई दुई घण्टासम्म मद्दत गर्यो	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	तीन वर्ष भन्दा बढीको लागि	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	आवरण, आवरण, खुलासा (खोज)	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	कारण उनले अहिलेसम्म पत्ता लगाएका छैनन्	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	तिमीले किन चिठी पठाउन थाल्यौ ?	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	आठ महिना उनी त्यहाँ बसे	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	सुन्न समय थिएन	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	गाडी पहिले नै भरिएको थियो	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	तिमी के खाँदै छौ	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	मौसम कस्तो छ?	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	तपाईसँग कस्तो कार छ?	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	उनको पत्र कस्तो थियो?	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	हामी कहाँ छौ?	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	तिमी कहाँ जान लागेको?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	तिमीले कसलाई दियौ?	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	तिमी संग यात्रा गरेको मान्छे	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	कार भन्दा ठूलो	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	ती मानिसहरू मध्ये सबैभन्दा अग्लो	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	ऊ खानामा बसिरहेको थियो	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	उनी पढ्दा लेख्छिन्	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	यहाँ, यो कोठामा	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	यो सज्जन	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	सुन्न लायक समाचार	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	पुस्तक साँच्चै पढ्न लायक छ	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	दुर्भाग्यपूर्ण कुरा	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	दुर्भाग्यवश, म सक्दिन	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	तपाईलाई स्वागत छ। यो मेरो खुशी थियो	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	सानो सुन्दर केटी धेरै सुन्दर छ	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	सबै साथीहरूले उसलाई माया गर्छन्	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	तीन महिना अघि	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	उसलाई केहि नराम्रो भयो	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	उनी कारको कारण लडे	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	बिरामी भयो र तापमान बढ्यो	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	आमाले आराम गर्नुपर्छ भन्नुभयो	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	उनी घरमा बस्नु पर्छ	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	उसले डाक्टरलाई बोलाउनेछ	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	नौ बजे	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	बिहान आठ बजे आयो	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	भोलि साँझ सात बजे	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	हात देखाए	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	पोशाक, लुगा लगाइँदैछ	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	लुगा लगाउनुहोस् र आफ्नो शरीर न्यानो गर्नुहोस्	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	घरमा तुरुन्तै लुगा फुकालेर नुहाइयो	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	डाक्टरले सबै कुरा हेरे	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	राम्ररी हेर्यो र अन्तमा भन्यो	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	एक हप्ता घर बस्नुहोस्	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	तपाईं शान्त हुन चाहनुहुन्छ	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	एक हप्ता पछि	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	तपाईले राम्रो महसुस गर्नुहुनेछ	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	धेरै चिया पिउनुहोस्	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	तिमीलाई फेरि भेट्न आउनेछ	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	उसलाई पनि शान्त हुन दिनुहोस्	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	स्वस्थ मानिस, स्वस्थ व्यक्ति	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	आफ्नो ख्याल राखे	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	सबै कुरा एकैचोटि मेरो लागि उपयोगी थियो	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	थाहा भयो कि भयानक चीज नजिक छ	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	तुरुन्त ध्यान दिन आग्रह गरे	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	आवश्यक छैन भन्ने ठाने	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	नजिकै बस्नुभयो, र त्यो उपयोगी थियो	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	आज हाम्रो देश आतंकित भएको छ	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	सबै परिवारबाट प्यारा बच्चाहरु	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	हिजो एक पटक, भोलि दुई पटक	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	आज परिवारलाई छोराछोरी चाहिन्छ	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	भोलि राम्रो हुनेछ भन्ने आशा थियो	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	उसले धेरै शान्त महसुस गरिरहेको थियो	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	तीन सानाले पहाड उठाए	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	महत्त्वपूर्ण व्यक्तिहरूले मद्दत मागेनन्	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	मद्दत गर्न त्यहाँ गए	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	तापक्रम उच्च छ भने घरमै बस्नुहोस्	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	आज पनि तापक्रम उस्तै रह्यो	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	नौ बजे डाक्टरलाई बोलाउनुहोस्	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	आफ्नो डाक्टरलाई देखाउनुहोस्	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	आफ्नो खुट्टा देखाउन	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	यो शर्ट लगाउनुहोस्	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	सप्ताहन्तमा सबै कुरा शान्त हुनेछ	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	चियाको कप मुनि के भेट्टाउनुभयो ?	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	मलाई बिहानको चिया चाहिएको छ	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	शान्त साँझको आशामा	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	तपाइँ सिक्न चाहनुहुन्छ	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	म जान आग्रह गरे	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	कुन घण्टामा?	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	छ बजे ऊ आउनेछ	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	लिब्रेटो आकर्षक थियो	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	चुप लाग	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	उसलाई शान्त हुन दिनुहोस्	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	ऊ पनि	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	म चाहन्छु (इच्छा)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	म चाहान्छु कि ~	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	कि तिमीले सिक्छौ	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	म तिमीले सिक्न चाहन्छु	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	बुबा जिद्दी गर्नुहुन्छ	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	बुबा जिद्दी गर्नुहुन्छ कि ~	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	कि म जान्छु	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	बुबाले मलाई जान आग्रह गर्नुहुन्छ	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	कुन घण्टामा	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	तपाई कति बजे आउनुहुन्छ?	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	पाँच बजे (बजे)	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	पाँच बजे	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	उहाँ कसरी गर्नुहुन्छ?	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	तपाईलाई पछिल्लो समय कस्तो छ ?	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	साना पुस्तकहरू सुन्दर छन्	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	एउटा पुस्तिका, सुन्दर पुस्तकहरू	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	सुन्दर, थोरै सुन्दर, धेरै सुन्दर	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	तातो, न्यानो, धेरै तातो	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	एउटा ठूलो किताब, एउटा पुस्तिका	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	राम्रो, राम्रो, राम्रो	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	धनी, धनी बन, धनी व्यक्ति	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	शान्त हुनु, शान्त हुनु, शान्त हुनु	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	स्वस्थ, निको हुन, निको भयो	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	एक पति, विवाह, विवाहित	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	एक पत्र पोस्टम्यान	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	एक मातृभूमि	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	अलिकति, थोरै	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	हामीले राम्रो डिनर खायौं	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	आशा छ, आफ्नो ख्याल राख्नुहोस्	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	मैले उच्च गुणस्तरको आवासको ख्याल गरें	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	दुई पटक, धेरै पटक सोच्नुहोस्	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	पुस्तिका कसले उतार्यो ?	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	सिजर नामको बिरालो	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	टेबलमा रहेको केक	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	टेबुलमा भएको केक खानुहोस्	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	तातो र रमाईलो भयो	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	एक बुबा आफ्नो बच्चा खान चाहनुहुन्छ	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	एउटा सानो कोठामा	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	हामी ~ मा बस्छौं	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	म चिन्तित भएँ	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	त्यो समयमा जब मैले तिमीलाई देखेँ	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	सबैले याद गरे	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	उनी सुन्दर छिन् भन्ने तथ्य	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	के तपाई त्यो चाहनुहुन्छ ~? (deziri)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	कि म तिमीलाई देखाउन सक्छु	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	के तपाई मलाई देखाउन चाहनुहुन्छ?	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	मेरो नयाँ पुस्तक (उद्देश्य)	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	भोलि बिहान, तपाई के चाहनुहुन्छ?	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	ढिलो नाश्ता गरे	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	मार्क कहिले आउनेछ?	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	पाँच वा आठ बजे	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	तपाईंले त्यो कहिले याद गर्नुभयो ~?	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	सबै परिवारले मलाई परोपकारी भन्छन्	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	तपाईंको लागि उपयोगी	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	पुस्तिका उपयोगी थियो?	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	मैले पठाएको पुस्तिका	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	बिहान धेरै बेर सुते	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	जब उसले सूर्य देख्यो	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	अचानक ऊ उफ्रियो	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	ऊ सधैं चाँडो थियो	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	ऊ सधैं ढिलो हुन्छ	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	त्यो समयमा, जब उहाँ जानु पर्छ	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	विद्यालय जानको लागि	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	उसलाई थाहा छ, त्यो ~	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	उसलाई तथ्य थाहा छ, त्यो ~	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	शिक्षकले माहुरीहरूलाई घृणा गर्नुहुन्छ भन्ने तथ्य	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	शिक्षकले माहुरीलाई घृणा गर्नुहुन्छ भन्ने तथ्यलाई थाहा छ	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	थाहा छ कि शिक्षकले त्यो घृणा गर्छ	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	तर आज उसले कफी पियो	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	उसले चाँडै लुगा लगाउँछ	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	ऊ ढिलो हुन चाहँदैन	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	धेरै चाँडै हातमा किताबहरु संग	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	पछि उनी दौडेर हाम फाले	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	ऊ दौडेर उफ्र्यो	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	सडक छेउमा	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	मानिसहरूले उसलाई हेरे	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	उसलाई हेरेर भन्यो	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	बुद्धिमान र मूर्ख	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	कस्तो मूर्ख केटा!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	विद्यालय अगाडि थियो	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	चाँडै	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	उहाँ ~ अगाडि हुनुहुन्थ्यो	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	जान र प्रवेश गर्न	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	उनी प्रवेश गर्न चाहन्थे	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	विद्यालयमा प्रवेश गर्न	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	तर यद्यपि	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	तर उसले सकेन	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	बन्द र बन्द गर्न	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	यो बन्द थियो	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	न ~ न ~	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	न त शिक्षक न पुरुष-महिला विद्यार्थी	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	न शिक्षक देखे न विद्यार्थी	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	बस्नु, बस्नु	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	बस्यो (बसिएको थियो)	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	ऊ बस्यो	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	र सोच्यो	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	के भयो?	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	भयानक (एक शैतान जस्तै)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	यसलाई बाँध	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	सम्झन्छ	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	अब म सम्झन्छु	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	आइतबार	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	आज ~ छ	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	आज आइतबार हो	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	सुत्न र सुत्न	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	एक सूर्य र चन्द्रमा	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	अचानक र अचानक	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	बन्द! (सुरु गर्न)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	हाम फाल्ने र हाम फाल्ने	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	सधैं चाँडो	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	आज राख्यो र दौडियो	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	उमेर होइन कुरा	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	बुद्धिमान मानिसहरु संगै दौडे	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	जति सक्दो चाडो	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	कस्तो केटा, कस्तो केटी	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	न सोचे न कण्ठ	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	आइतबार एक शैतान पानी पर्खिरहेको थियो	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	यस्तो सानो क्षण	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	यति सानो क्षण पनि सार्थक छ	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	राती सम्म रोए	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	हातबाट मेलपोस्ट हटाउनुहोस्	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	आफै हाँसे, मेलपोस्ट टाँस्दै	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	न ऊ न ऊ हाँसे	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	उनी न हाँसिन् न जवाफ दिइन्	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	ऊ न बस्छ न हेर्छ	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	मैले कहिलै देखेको छैन	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	म कसैलाई कहिलै भन्दिन	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	कसैलाई नभन	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	म कहिले पनि भन्दिन	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	आफैलाई (आफैबाट)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	मैले आफैं गरें	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	गरे (यो बनायो)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	यो आफैले गरे (आफैले बनाएको)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	भेटौँला (फेरि), भेटौँला (फेरि)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	सम्म! (अलविदा!)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	कुरा सुरु गर्न	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	भन्न थाले, अन्त्यमा बोल्न थाले	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	धेरै छिटो पिए	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	बिहान पिउनुभयो	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	चाँडै आउन	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	विद्यालय आउन	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	~ चाँडै आउन	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	समाचार सुनेको छैन	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	अझै सुनेको छैन	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	मैले अझै सुनेको छैन	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	त्यो क्षणमा	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	त्यो क्षणमा ऊ रोयो	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	एक केटा, जो माया गर्दैन	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	केटाहरू र केटीहरू	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	अन्य केटा र केटीहरू	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	अरू केटा र केटीहरूलाई माया गर्दैन	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	न साथी न केटी साथी	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	न पैसा छ न समय	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	कससँग किताब थियो?	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	तपाईंले पर्खनुभएको किताब	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	जुन तपाईंले २ वर्षभन्दा बढी पर्खनुभयो	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	के तपाई त्यो चाहनुहुन्छ?	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	के तपाई त्यो चाहनुहुन्छ ~?	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	सबैभन्दा प्यारो	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	सबैभन्दा प्यारो फोटो	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	मेरो प्यारो फोटो	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	तपाईंले कहाँ किन्नुभयो ~?	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	त्यो कपडा	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	त्यो कपडा (उद्देश्य)	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	त्यो पोशाक किन्यो	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	तिमी त्यहाँ जान्छौ	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	तिमी कहाँ जान लागेको?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	घमाइलो दिन	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	यो घमाइलो दिन हुनेछ	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	यदि यो घमाइलो दिन हुनेछ	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	तिम्रो भाइ सुरु भइसकेको छ	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	के तिम्रो भाइ अझै सुरु भयो?	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	पानी कहाँ छ	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	पानी ल्याउन	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	तपाई आफैले ल्याउनुभयो	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	तिमी आफैले ल्याएको पानी	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	धेरै शान्त थियो	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	आज मेरी आमा ~ हुनुहुन्थ्यो	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	म ~बाट आएको हुँ	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	विद्यालय बाहिर	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	~ लाई रिपोर्ट गरियो	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	र उनलाई रिपोर्ट गरे	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	रिपोर्ट गरिएको छ ~	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	प्राप्त गर्ने जानकारी दिए	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	म खराब ग्रेड प्राप्त गर्नेछु	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	उनले भनिन् ~	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	तपाईले ~ काम गर्नु पर्छ	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	थप	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	थप काम गर्न	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	आफ्नो टाउको काम गर्न	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	कति खराब ग्रेड	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	तपाईंसँग धेरै खराब ग्रेडहरू छन्	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	दुखी थियो	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	आफ्नो कोठामा	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	आफ्नो कोठामा जानुहोस्	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	जानुहोस् र सिक्नुहोस्	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	म बसे	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	मेरो कोठामा	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	मेरो कोठामा बसे	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	न पढ्नुहोस् न सिक्नुहोस्	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	तर मैले न त सिक्न न त पढ्न नै सकिन	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	मेरो विचार	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	एक खेल मा	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	मेरा साथीहरूसँग खेल	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	खेलकुद मा	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	आफैलाई	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	आफैलाई भने	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	धेरै मूर्ख	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	के म त्यो मुर्ख छु?	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	यद्यपि मैले धेरै सिकें	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	आमा भित्र पसिन्	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	मेरा शब्दहरू	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	र मेरा शब्दहरू सुने	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	उनले तुरुन्तै जवाफ दिइन्	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	होइन, मेरो प्रिय	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	तिमी मूर्ख होइनौ	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	समस्या यो हो ~	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	कि तपाईंले सिक्नुपर्छ	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	धेरै सिक्नु पर्छ	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	तब तपाईंसँग हुनेछैन	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	खराब ग्रेड	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	खराब ग्रेड मात्र हुनेछ	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	अहिले पनि	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	मसँग छैन	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	मसँग राम्रो ग्रेड छ	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	संगीतको बारेमा	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	संगीत मा एक राम्रो नोट	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	आमा एक्कासि हाँस्नु भयो	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	जुन सुशोभित ~	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	मेरो दिन	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	मेरो दिन राम्रो पारिदियौ	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	तर अझै बाँकी छ	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	तर समस्या अझै बाँकी छ	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	एक किलोग्राम ~	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	एक किलोग्राम चिनी	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	एक गिलास ~	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	एक गिलास पानी	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	धेरै ~	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	धेरै विचारहरू	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	पछाडि समात्न	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	सबै कुरा मिलाइयो	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	उनलाई हस्तान्तरण गरे	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	म सोध्दै छु	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	एक गिलास कफी	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	र केही पानी	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	म एक गिलास कफी चाहन्छु	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	मलाई एक कप चिया पिउन मन लागेको छ	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	उसलाई चोट पुर्यायो	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	उनको टाउको दुख्यो	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	उनी बिरामी परे	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	सुन्दर हुन मन पर्छ	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	उसले आफ्नो अनुहार सुन्दर बनायो	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	केटा सुन्दर हुन मन पराउँछ	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	त्यसैले उनले यसलाई सुन्दर बनाइन्	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	खाजा पछि	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	भान्सा सफा गर्न	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	भान्साको सरसफाई कसले गर्ने ?	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	पिउन चाहन्छ	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	तपाई के पिउन चाहनुहुन्छ	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	चिया पिउन	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	थोरै पानी	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	तिमीलाई केहि चाहिदैन?	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	त्यसैले अचानक	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	तपाईंले किन निर्णय गर्नुभयो ~?	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	तिमीले किन अचानक यस्तो निर्णय गर्यौ?	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	तपाईको कोठा	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	तिम्रो सानो कोठा	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	आफ्नो सानो कोठामा	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	आफ्नो सानो कोठा नवीकरण गर्न	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	तपाईंको सानो कोठा नवीकरण गर्ने निर्णय गरियो	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	कसलाई	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	तपाईंले दिनुभयो ~	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	कसलाई दियौ ~ ?	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	सफा चश्मा	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	तपाईंले सफा चश्मा दिनुभयो	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	रक्सीको लागि सफा चश्मा	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	को विरुद्ध	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	आफ्नो खेलकुद क्लब	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	~ विरुद्ध खेल्छ	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	दुई हप्ता अघि	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	तपाइँको खेलकुद क्लब को विरुद्ध खेल्यो?	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	के तिमीले देख्यौ ~?	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	के तपाइँ प्राय ~ देख्नुहुन्छ?	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	अक्सर पुलिस देख्छु	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	~ मा बस्ने एक	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	बस्ने ठाउँमा बस्छन्	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	तपाईंको माथि बस्ने ठाउँ	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	~ मा बस्ने प्रहरी अधिकारीलाई देख्छ	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	ड्राइभिङ योजना	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	यात्रा गर्न चाहन्थे	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	अर्को देश यात्रा गर्न	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	खाली समयमा	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	तिनीहरूले जाने निर्णय गरे	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	इटाली जाने निर्णय गरे	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	पुराना शहरहरू	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	पुरानो शहरहरु संग एक देश	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	अन्य सुन्दरीहरू	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	र अन्य सुन्दरताहरू	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	पुरानो शहर र अन्य सुन्दरता संग एक सुन्दर देश	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	तिनीहरू खुशी थिए	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	कहाँ छ ~?	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	मेरो लुगा कहाँ छ	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	उनले सोधिन् ~	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	~ ल्याउन नबिर्सनुहोस्	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	किताब साथमा लैजान	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	एस्पेरान्तो सिक्नको लागि एउटा पुस्तक	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	सिक्नको लागि किताब बोक्न	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	हामी ~ सुरु गर्न सक्छौं	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	ट्रेन मा	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	पहिले नै ट्रेन मा	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	हामी केहि गर्ने छैनौं	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	कारबाट	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	हामी ~ द्वारा ड्राइभ गर्नेछौं	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	कार चलाउनेछ	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	मसँग एउटा रहस्य छ	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	मेरो धनी काका	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	मेरो इच्छा	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	मेरो इच्छा पूरा गरे	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	हामीलाई दिनुभयो	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	उसको गाडी	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	र हामीलाई आफ्नो कार दिए	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	प्रयोगको लागि	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	यो ~ अघि खडा छ	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	घर अगाडि उभिएको छ	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	मैले भन्नु पर्छ ~	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	केही नभन	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	बसौं	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	कार मा चढ्नुहोस्	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	~ सम्म चलाउन	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	र इटाली जानुहोस्	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	गाडीमा बसे	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	लुगा पनि	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~ कारमा थियो	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	अझै बसे र पर्खिरहेका थिए	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	तर उहाँले पर्खनुभयो	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	हामी किन गर्दैनौं ~?	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	हामी किन गाडी चलाउन सुरु गर्दैनौं?	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	मसँग पनि ~ छ	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	गाडी चलाउने थिए	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	तर मलाई थाहा छैन ~	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	मैले त्यो कहिल्यै सिकेँ	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	म विश्वास गर्छु ~	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	यदि म स्वस्थ थिएँ	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	म धेरै खुसी हुने थिए	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	यदि तपाईं धनी हुनुहुन्छ भने	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	तिमी त्यहाँ धनी मानिस जस्तै बस्छौ	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	आरोपित विद्यालय	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	धनी मानिस जस्तै	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	तिमी त्यहाँ धनी मानिस जस्तै बस	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	यति धेरै पैसा	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	विचार जति पैसा	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	यदि मसँग यति पैसा थियो भने	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	म यात्रा गर्थे	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	विश्व भरि	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	हरेक शब्दकोशमा	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	केहि हराइरहेको छ	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	केही शब्दहरू छुटेका छन्	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	लामो बोल्ने मान्छे	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	खाने टेबलमा	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	बताउने व्यक्ति भोकै रहनेछ	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	खाने टेबलमा भनिरहन्छ	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	उसले ~ मा ध्यान दिनु पर्यो	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	~ गर्न अनुमति थिएन	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	बस्न अनुमति दिइएको थियो	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	लामो समयसम्म बस्न दिइएन	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	वर्षामा बाहिर बस्न	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	त्यसैले उनलाई चिसो लाग्यो	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	उसको आफ्नै स्पष्ट विचार छ	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	तर उसले सबै कुरा विश्वास गर्नेछ	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	तपाईले जे भन्नुहुन्छ	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	तिमी उसको पत्नी जस्तै	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	आफ्नो आमाबाबु	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	आफ्नो आमाबाबुलाई खुसी बनाउन	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	के कृपया ~?	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	तपाईंको आमाबाबुलाई सबैभन्दा खुशी बनाउन सक्छ?	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	सिकाइ पछि	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	कम से कम सिकाइ पछि	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	शहर केन्द्र मा	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	यदि तपाईं मसँग जानुहुन्छ भने	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	यदि तपाईं मसँग शहरमा जानुहुन्छ भने	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	तपाईं कहाँ यात्रा गर्न चाहनुहुन्छ?	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	यदि तपाईंसँग थियो ~	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	पर्याप्त पैसा	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	यदि तपाईंसँग पर्याप्त पैसा र तापमान थियो	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	के तपाईं ~ योजना गर्दै हुनुहुन्छ?	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	पेरिस जाने योजना छ	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	एक अक्सुटो संग ड्राइभ गर्न	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	धेरै राम्रो	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	धेरै राम्रो देखिन्छ	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	रेल बाट	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	वा यो धेरै राम्रो जस्तो लाग्दैन?	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	विभिन्न मानिसहरू	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	मानिसहरू किन विभिन्न तरिकामा व्याख्या गर्छन्?	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	समान विचारहरू	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	एउटै विचार व्याख्या गर्दछ	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	परिवारका सदस्यहरू भेला हुन्छन्	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	कति छिटो	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	दिन बिते	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	दिनहरू कति छिटो बित्छन्!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	भोलि ~ हुनेछ	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	तिम्रो बुबाको जन्मदिन	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	धेरै परिवारका सदस्यहरू	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	परिवारका धेरै सदस्य आउनेछन्	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	र साथीहरू	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	कृपया ~ ?	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	कृपया थोरै मद्दत गर्न सक्नुहुन्छ?	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	केही बेर	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	थोरै समय खोज्नुहोस्	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	आफ्नो कोठा सफा गर्न	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	कम्तिमा आफ्नो कोठा सफा गर्न	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	म चाहन्छु ~	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	म केहि पकाउन चाहन्छु	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	केहि राम्रो	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	केहि राम्रो पकाउनुहोस्	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	जन्मदिन केक को लागी	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	दूधको अभाव छ	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	घरमा	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	यो खरिद गर्न आवश्यक छ ~	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	केही खाना	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	एउटा पसलबाट	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	लुकाउने ठाउँबाट केही खाना लिन	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	म किनमेल गर्छु	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	जन्मदिनको लागि	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	बसेर खानुको सट्टा	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	रोचक मान्छे	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	चासो नहुने परिवारका सदस्यहरूसँग	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	म पिकनिकमा जान चाहन्छु	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	क्लब सदस्यहरु संग	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	कुन क्लबका सदस्यहरूसँग ?	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	बुबाले भने	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	कुनै प्रकारको कागज, केहि प्रकारका कागजहरू	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	एक ब्रीफकेस मा	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	कागजको डिब्बामा	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	कागजको डिब्बामा कागज फाले	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	केही कागजहरू कागजको बिनमा फाले	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	भोलि चाँडै	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	मेरो खेलकुद क्लबका सदस्यहरू	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	मेरी प्रिय	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	के त्यो सहि हो?	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	तिमी अनुपस्थित हुनुपर्छ	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	हैन ~ ?	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	तपाईंको साथी क्लब सदस्यहरू	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	तपाइँको साथी क्लब सदस्यहरु संग एक अर्का लाई देख्छ	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	हप्ताको तीन चोटि	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	के म ~?	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	केहि प्रस्ताव गर्ने अधिकार छ	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	परिवारका सदस्यसँग खाना खानेछु	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	तर दोस्रो भागमा	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	म मेरा साथीहरूसँग जान्छु	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	~ को बारेमा कुरा गर्नेछ	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	असफल ड्राइभ	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	असफल ड्राइभको बारेमा निश्चित रूपमा कुरा गर्नेछ	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	केक पछि	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	म त्यो अब चाहन्न	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	त्यो सुन्न चाहन्छ	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	हामीसँग किन छैन ~ ?	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	एक विचार धनी काका	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	धनी काकाको केही विचार छ	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	मेरो परिवारमा	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	आमा मुस्कुराउनुभयो	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	उनको शब्दमा	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	उसलाई थाहा छ ~	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	थोरै धेरै बोल्छ	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	यो मात्र पर्याप्त छैन ~	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	विचारहरूको धन	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~ पनि आवश्यक छ	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	यो गर्नको लागि पूर्ण वालेट	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	आमाले जारी राख्नुभयो ~	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	अलिकति मौनता पछि	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	केहि मिनेट पहिले	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	एनाले उसलाई ~ फोन गर्यो	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	उहाँले हामीलाई पनि भेट्नुहुनेछ	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	एक मीठो केक	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	उनलाई साँच्चै मीठो केक मन पर्छ	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	मोटो नहोस् भनेर सावधान रहन्छ	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	यद्यपि उसले ध्यान दिनेछ	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	तुरुन्तै मन परिवर्तन भयो	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	भ्रमणको समयमा	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	उनी बिना	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	ऊ धेरै एक्लो हुनेछ	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	तर पनि पास गर्छु	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	भोलि घरमै बिताउनेछु	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	युवावस्थामा	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	एक छ	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	सुन्दरता पनि छ	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	जटिल कामहरू	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	जटिल काम (उद्देश्य)	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	सरलीकरण गर्नुपर्छ	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	त्यो उमेरमा	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	ऊ पहिले नै ~ भइसकेको छ	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	खेलकुद क्लबको प्रमुख	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	एक पैसा राख्छ	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	वालेटमा	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	पर्समा राख्छ	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	उदाहरणहरू पछ्याउनुहोस्	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	राम्रो परिवारका सदस्यहरूबाट	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	के मित्रताले तपाईंलाई खुशी बनाउँछ?	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	तपाईंलाई खुशी बनाउँछ	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	प्रेम भन्दा	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	तपाई कति पटक ~ गर्नुहुन्छ ?	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	तिमी ~ लाई पत्र लेख्छौ	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	आफ्नो केटी साथीहरूलाई पत्र लेख्छ	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	इटालीमा तपाईंको केटी साथीहरू	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	तपाईं र तपाईंको शिक्षक बीचको सम्बन्ध	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	सम्बन्ध परिवर्तन भएको छ?	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	के तपाईलाई पहिले नै थाहा छ ~?	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	एकदम राम्रो	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	यो ~ मा साँझ थियो	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	सयौं मानिसहरू	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	वर्ग भर्छ	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	जवान पुरुष र सैनिकहरू	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	जहाजबाट नाविकहरू	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	उत्कृष्ट महिला	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	उत्कृष्ट महिलाहरु	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	विदेशी यात्रीहरू	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	सबैजना शहरको केन्द्रमा सर्दै छन्	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	अलि अगाडि	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	समुद्र देखि टाढा छैन	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	त्यहाँ एउटा सानो वर्ग थियो	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	अलि अगाडि तर टाढा छैन	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	यसको अन्त्यमा	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	समुन्द्र नजिक	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	एकजना मानिस नजिकै उभिएको थियो	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	कपडा अनुसार	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	कसैले सजिलै थाहा पाउन सक्छ ~	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	यो पत्ता लगाउन सम्भव थियो ~	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	एक धनी मानिसको गन्डोलियर	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	ऊ एक गन्डोलियर थियो भनेर पत्ता लगाउन सक्छ	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	उसले हेर्यो ~	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	हर्षित भीडलाई हेरे	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	उसको अनुहारमा मुस्कान आयो	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	जब उसले एक नाविक देख्यो	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	आइपुगेको नाविक	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	समुद्र को छेउमा	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	समुद्रको छेउबाट आयो	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	के त्यो तिमी, स्टीफन?	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	गण्डोलियरले चिच्याए	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	सबैले भन्छन् ~	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	टर्कीको हातमा	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	कि तिमी टर्कीको हातमा पर्यौ	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	हामीले एउटा भेट्यौं	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	हाम्रो जहाजबाट	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	यसले हामीलाई पछ्यायो	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	एक घण्टा भन्दा बढीको लागि	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	तर जान सजिलो छैन ~	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	हाम्रो जहाज भन्दा छिटो जान	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	यहाँ के समाचार छ?	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	यहाँ भेनिसमा	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	केहि रोचक छैन	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	केवल एक ठूलो दुर्भाग्य	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	के तपाई पिट्रोलाई चिन्नुहुन्छ?	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	मा उसलाई चिन्छु	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	एउटा ठूलो जहाजले उसको गोन्डोलालाई डुब्यो	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	र उसको बारेमा के?	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	गोन्डोला डुब्यो	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	यो भयो कि ~	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	हामी नजिक थियौं	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	हामीले उसलाई हाम्रो गोन्डोलामा लग्यौं	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	एउटै समयमा	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	मेरो मालिक डुब्यो	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	एक जवान महिलालाई मद्दत गर्न	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	एक जवान महिला जो लगभग मरे	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	आफ्नो काका संग	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	लगभग आफ्नो काका संग मरे	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	त्यहाँ एउटी युवती थिइन्	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	हामीले उसलाई मद्दत गर्न सकेनौं	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	महत्वपूर्ण व्यक्ति थिए	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	तिमीलाई भेनिसमा के ल्यायो?	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	मेरो साथी	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	नाविकले माथि हेरे	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	हतार हतार आफ्नो साथीलाई हेरे	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	र भन्न थाले	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	त्यसैले तपाईलाई थाहा छ ~	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	~ ल्याएको छु	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	गन्डोलियरले अचानक उसलाई रोक्यो	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	उसले भन्यो	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	त्यसपछि एकजना मानिस गए	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	एकजना मानिस उनको छेउबाट गयो	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	ऊ अझै तीस वर्षको थिएन	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	र उनको अनुहार रङ्गहीन थियो	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	उसको यात्रा निश्चित र सजिलो थियो	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	उनको अनुहार उदास थियो	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	जब उसले मानिसलाई देख्यो, ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	भनिन्छ ~	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	धेरै महत्त्वपूर्ण व्यक्तिहरूले दिन्छ ~	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	गोप्य काम	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	गोप्य कामहरू	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	उसलाई गोप्य काम दिन्छ	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	धेरै रहस्यहरू	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	उसलाई धेरै रहस्यहरू थाहा छ	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	त्यसैले तिनीहरू डराउँछन्	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	उनलाई जेल पठाउन	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	नाविकले भने	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	र उसले बोलेको रूपमा	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	उसले महलतर्फ इशारा गर्यो	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	Doges को हवेली	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	धेरै महत्त्वपूर्ण व्यक्तिहरूलाई उनको मद्दत चाहिन्छ	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	तिनीहरूले कति तिर्छन्?	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	उसलाई भुक्तान गर्छ	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	एक हत्याको लागि भुक्तानी गर्दछ	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	पक्कै पनि ~ भन्दा कम छैन	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	एक सय सिक्का भन्दा	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	त्यो नबिर्सनुहोस् ~	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	कि उहाँ तिनीहरूको लागि काम गर्नुहुन्छ	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	पर्याप्त पैसा भएकाहरूको लागि	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	उसलाई तिर्न	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	भेनिसमा ~ छ	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	ती चीजहरू	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	ती चीजहरू बिर्सन	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	चीजहरू जुन राम्रो बिर्सिएको छ	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	यदि तपाईं शान्तिमा खान चाहनुहुन्छ भने	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	शान्तिमा आफ्नो रोटी खान	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	केही मौनता थियो	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	र पछि	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	गण्डोलियर फेरि बोल्यो	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	तिमी समयमै आयौ	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	डुङ्गा दौड हेर्न	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	कसैले कमजोर भन्यो	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	gondolier नजिक	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	शहर को मेयर	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	निस्सन्देह गोन्डोलालाई औंल्याए	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	गन्डोलियरले भने	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	र आफ्नो साथीको हात समात्यो	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	कागज फाल्छ	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	कागजको डिब्बामा	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	केटीहरूले कागजहरू फाले	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	मेरो कलम कहाँ छ	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	म उसलाई जवाफ दिन चाहन्छु	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	सूर्य गायब भयो	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	र अब लगभग अँध्यारो छ	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	कृपया खानुहोस्	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	कृपया रोटी खानुहोस्	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	कटलरी संग	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	मलाईं माफ गर्नुहोस्	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	बस्न अनुमति दिइएको छ	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	मलाई बस्ने अधिकार छैन	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	के तपाईं ल्याउन सक्नुहुन्छ ~?	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	मेरी बहिनी बाट	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	तपाईंले कहिले किन्नु भयो ~?	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	त्यो वाद्य यन्त्र किन्यो	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	अन्तिम कसले प्रयोग गर्यो?	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	मेरो कुञ्जी प्रयोग गरे	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	तपाईले चलाउनुभयो?	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	भेनिस मा	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	गोन्डोला द्वारा पनि	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	के तिमी सुत्न सक्छौ?	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	त्यसपछि, जब त्यहाँ मौन थियो	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	सज्जन अग्लो थिए	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	अग्लो, मोटो	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	बाक्लो, भारी	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	भारी र ठूलो	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	अग्लो, बाक्लो, भारी र ठूलो थियो	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	बल दियो	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	हुनु लायक बल	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	हुन लायकको शारीरिक शक्ति	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	त्यो दियो	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	उसलाई दिए	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	जसले बल दियो	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	शरीरलाई सार्थक शक्ति दिनुभयो	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	उनको उपस्थिति	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	अग्लो व्यक्तिको उपस्थिति	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	सानो भूमिका	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	भूमिका खेलेको छ	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	सानो भूमिका होइन	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	सानो भूमिका खेल्यो	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	सानो भूमिका खेलेको छैन	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	वास्तवमा ~	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	जनताको बहुमत	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	यदि डराउँदैन भने	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	उनीसँग डर थियो	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	यदि ऊ डराएको थियो	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	उहाँसँग डराउनु भएन भने	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	निश्चित रूपमा सम्मान	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	कम्तिमा ~ बारे सोचेको	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	अघि ~	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	उसलाई सन्तुष्ट पार्न	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	उसलाई असन्तुष्ट पार्न	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	असन्तुष्ट हुनु अघि ~	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	निर्णय गर्नु अघि ~	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	असन्तुष्ट गर्ने निर्णय गर्न ~	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	उसलाई सन्तुष्ट पार्ने निर्णय गर्न	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	उसलाई असन्तुष्ट पार्ने निर्णय गर्नु अघि	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	त्यो, जो उपयोगी छ	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	दिनको समयमा अक्सर उपयोगी	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	एक अप्रिय उपद्रव	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	आफैले	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	एक अप्रिय उपद्रव प्रस्तुत गर्दछ	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	आफैलाई एक अप्रिय उपद्रव रूपमा प्रस्तुत गर्दछ	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	रूखहरूले भरिएको ठाउँमा	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	तब, जब कोही भटकियो	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	अमानवीय मरुभूमिमा	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	र अराजकता मा सडक बाहिर जान्छ	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	अग्लो ठूलो शरीर	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	पास गर्न असफल ~	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	झाडीहरू बीच	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	प्राकृतिक चीजहरू छुनुको अतिरिक्त	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	सामान्यतया भिजेको	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	भिजेको प्रकृतिको बीचमा	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	भिजेको प्राकृतिक चीजहरू, जसको बीचमा ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	ऊ कठिनाई संग हिंड्यो	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	यो एक अनुभव थियो	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	असामान्य छैन	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	पीडादायी र सधैं अप्रिय	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	अधिक ~	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	जीवनमा अगाडि बढ्यो	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	महलको जंगलमा	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	जति अगाडि बढ्यो उति धेरै मन नपरेको ~	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	निशाचर प्रकृति मन पर्दैन	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	स्पष्ट देखिने आँखा भएको मानिस	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	राम्रोसँग देख्न सक्ने आँखा	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	अँध्यारोमा राम्रोसँग हेर्न	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	कठिन हिडिरहेको देखे	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	हाम्रो उद्योगपति बाट	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	उनी मुस्कुराए	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	त्यो मानिसको छेउमा	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	प्रहरीको पोशाकमा	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	अर्को मान्छे उभिरहेको थियो	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	समान कपडामा	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	पछिल्लो एक महिला थियो	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	जाऔं	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	मानिसले नरम स्वरमा भन्यो	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	आफ्नो साथीको कानमा	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	अहिले सही समय हो	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	दुबै जना व्यक्ति तिर लागे	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	तिनीहरू गर्न सावधान थिए ~	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	सकेसम्म ~	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	सकेसम्म सानो आवाज (kiel eble)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	सकेसम्म थोरै आवाज	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	तिनीहरू लगभग पूर्ण रूपमा सफल भए	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	यो नराम्रो अवस्थामा	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	एउटा खराब अवस्था जहाँ रूखहरूले आफ्ना हाँगाहरू फाले	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	आफ्नै भिजेको हाँगा फाले	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	सीधा अनुहारहरूमा	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	उद्योगपति को	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	बहु-खुट्टा साना जीवहरू	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	आफ्नो खुट्टा लिए	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	पैदल बाटो को लागी	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	प्रकृतिले उनको खुट्टा ढाल्यो	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	सबैभन्दा पीडादायी	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	आफ्नो खुट्टा खाडलमा खस्यो	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	पानीले भरिएको खाडल	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	दुर्गन्धित पानी	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	चाँडै सोचमा आइपुगे	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	एक तयार हुनुपर्छ	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	यहाँ	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	कोही ~	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	कुनै पनि अप्रिय मुठभेडको लागि तयार	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	जे पनि (जे पनि)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	ऊ केहिको लागि पर्खिरहेको थियो	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	मानव आवाज तिर	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	जब एक आवाज सुने, ~	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	तुरुन्तै नजिकबाट सुने	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	उसले राम्रो अन-साइट जम्प गर्यो	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	जसले उसको मन हलुकायो	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	मुखमा माथि शब्द	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	शान्त पुन: कब्जा गर्ने प्रयास संग	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	एक सानो शान्ति	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	बत्तीको उज्यालो	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	कसैले उसको आँखामा प्रत्यक्ष निर्देशित गर्यो	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	बत्ती जसलाई कसैले आँखामा निर्देशित गर्यो	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	मेलमिलाप रोकियो	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	उसलाई यस्तो लाग्थ्यो ~	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	बत्ती समातेको मानव रूप	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	प्रहरीको लुगा लगाऊ	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	यहाँ तिमी के गरिरहेको?	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	आधिकारिक आवाज सुनिन्छ	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	कृपया कुरा गर्नुहोस् ~	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	थोरै स्पष्ट	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	अर्कोले भन्यो	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	अझ महत्त्वपूर्ण स्वरमा	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	म हिड्दै छु	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	तपाईं खेतमा हिंड्नुहोस्	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	काउन्टेस को	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	काउन्टेसको खेत	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	मध्यरातमा	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	के काउन्टेसले तपाईंलाई निम्तो दियो?	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	के उसलाई थाहा छ ~	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	तपाईको उपस्थितिको बारेमा	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	तपाईको उपस्थिति यहाँ	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	मैले तपाईलाई सोध्नु पर्छ ~	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	मलाई पछ्याउन सोध्छ	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	र उहाँले व्याख्या गर्नुभयो ~	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	व्याख्या गरे कि ~	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	गलत प्रयास पछि	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	काउन्टेसलाई समात्ने गलत प्रयास	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	कारण ~	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	आतंकवादीहरु को कारण	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	प्रहरीले सावधानीपूर्वक जाँच गर्छ	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	के भइरहेको छ भनेर जाँच गर्दछ	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	वरपरमा हुन्छ	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	महल को	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	महल को वरिपरि	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	उद्योगपति को	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	यस्तो लाग्थ्यो ~	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	उनको मुटु यस पटक खसेको छ	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	आफ्नो खुट्टामा खसे	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	उसलाई थाहा थियो ~	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	उसले खोज्न कोसिस गर्नेछ	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	स्वीकार्य व्याख्या खोज्न	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	आफ्नो उपस्थितिको बारेमा	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	काउन्टेसलाई सबै थाहा छ भन्ने धारणा	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	विचारले उसलाई सानो आशाबाट वञ्चित गर्यो	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	सानो आशा	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	थोरै आशा बाँकी थियो	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	प्रहरीको पहिलो शब्द पछि	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	अधिक ~ अधिक ~	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	लामो समय राम्रो	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	जतिसुकै भए पनि	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	एक चौथाई घण्टा अघि	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	तिनीहरू फर्किए	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	भयानक दुर्भाग्य पछि	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	मानिसहरू छोडे	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	अनि पुराना सहरहरू टुक्रिए	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	हामीले तपाईलाई फेरि भेट्नु पर्छ	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	धेरै पटक	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	म साेच्दै छु	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	म जति क्रोधित छु	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	उनी ~ मा बस्छिन्	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	कुनै पनि घरमा	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	के हामी एकअर्कालाई फेरि भेट्नेछौं?	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	जहाँ र जहिले पनि	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	म कहिले फर्कन्छु ~?	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	अन्य आधा पुस्तकहरू	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	के तपाईलाई आवश्यक छ ~?	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	एक चौथाई भन्दा बढी वर्ष चाहिन्छ	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	ती कामहरूको लागि	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	किन छ ~ ?	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	चिसो	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	लामो	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	हामी पर्खिरहेका छौं ~	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	के तपाई सन्तुष्ट हुनुहुन्छ ~?	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	कुनै पनि मानिस संग	with any man	grupo	0    	0000-00-00 00:00:00

@@ -1,0 +1,1354 @@
+level	mi, vi	Би, чи	I, you	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(одоогийн) байна, байна, байна (өнгөрсөн) байсан, байсан	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	Би ~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	чи ~	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	Сайн уу	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	сайн уу, би ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	миний, чиний	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	нэр	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	миний нэр, чиний нэр	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	намайг ~ гэдэг	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	Таны нэр ~	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(одоогийн) хийдэг, (өнгөрсөн) хийсэн	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(одоогийн) байсан, байсан (ирээдүй) байх болно	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	нэр, (зорилго) нэр	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	миний хайр	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	чи хийж байна ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	Хэрхэн	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	юу байна да?	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	юу	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	Таны нэр хэн бэ?	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	сайн, сайн	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	сайн явж байна	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	Би сайн байна	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	болон	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	сайн, харин чи?	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	~ хүртэл	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(одоо) хардаг, (өнгөрсөн) харсан	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(өнгөрсөн) харсан, (өнгөрсөн) дахин харсан	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	дахин харсан, дахин харах болно	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	дахин харах, дахин харах (зорилго)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	дараа уулзая!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	баярлалаа	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	баярлалаа, дахин уулзъя!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	тулд ~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	чамд, надад	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(одоо) баярлалаа, (өнгөрсөн) баярлалаа	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	Би чамд талархаж байна	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	тийм Үгүй	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	тиймээ, баярлалаа	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	иддэг, идэх болно	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	Би иддэггүй	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	Үгүй ээ, би иддэггүй	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	үзэсгэлэнтэй, сайхан	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	үнэ цэнэтэй (төгсгөл)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	үнэлж баршгүй, талархах нь зүйтэй	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	бүхэлд нь, бүхэлд нь	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	бүгд, (объектив) бүгд	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	огтхон ч биш, та тавтай морил	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	огт үгүй	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	уучлах, уучлах	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	надад өршөөл	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	Намайг уучлаарай! (өршөөгөөрэй)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	Уучлаарай, гуйя	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	өглөөний мэнд	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	өглөөний мэнд	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	сайн шөнө	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	сайхан зүүд зүүдлээрэй	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	Та бүхэндээ сайхан аялаарай	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	Сайхан өдөр!	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	энэ ~?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	чи сайн байна уу? (юу байна?)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	тиимээ, би зүгээр	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	ердөөсөө ч биш	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	маш, хэт их	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	том, ихэвчлэн	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	маш том, хэтэрхий том	very big, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	чи маш сайн ажиллаж байна	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	тийм ч сайн биш	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	сурах, суралцах	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	харж байна, үзэгч	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	сурч байна, оюутан (сурагч хүн)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	байна -ing, хийж байгаа хүн	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	оюутан, сурсан хүн	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	Би оюутан.	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~ миний найз	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	Тэр тэр	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	суух, суух	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	сууж байна, сууж байсан, суух болно	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	Тэр сууж байгаа бөгөөд тэр сурч байна	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	өрөө	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	өрөөнд сурдаг	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	оюутан, тамирчин	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	спорт ба тамирчин	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	тамирчин хүн спортоор хичээллэж байна	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	Тэр эрэгтэй оюутан	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	тэр бол оюутан, спортын хүн	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	тэр одоо сууж байна	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	одоо сурч байна	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	суугаад сурч байна	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	одоо нэг өрөөнд	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	ширээн дээр байна	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	цаас, цаас	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	ширээ, ширээ	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	ном, ном	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	цаас, ном	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	энэ нь ширээн дээр байна.	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	бичгийн ширээн дээр бичиж байна	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	номууд нь ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	ширээн дээр	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	сурах бичиг, сурах бичиг	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	ширээн дээр ~ байна	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	аав, ээж хоёр	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	аав, ээж хоёр	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	миний найзын ээж	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	өрөөнд	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	өрөөнд байхгүй	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	тэд одоо ажиллаж байна	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	аав нь ажилчин	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	тэр зочид буудалд ажилладаг	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	ээж заадаг	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	Тэр багш юм	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	тэр ээж мөн үү?	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	Үгүй ээ, тэр зочид буудлын ажилтан	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	Үгүй ээ, би ажилладаггүй	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	Түүний нэрийг хэн гэдэг вэ?	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	одоо хэн хариулах вэ?	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	тэдний ээжийн хэл	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	Таны нэр ~?	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	Бид суугаад хариулж байна	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	түүний ажлын сандал	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	түүний нэр ~ биш юм	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	түүний хэл бол тэдний хэл юм	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	бидний аав, ээж	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	таны оюутан, таны оюутнууд	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	тэд таны шавь мөн үү?	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	чи оюутан уу?	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	чи өрөөнд байна уу?	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	Би ~ биш	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	эсперантист, эмэгтэй эсперантист	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	зочид буудлын өрөөнд бүртгүүлэв	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	хэл шинжлэлийн мэргэжилтэн, эмэгтэй ажилчин	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	түүний найз охин нь ~	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	оюутнууд, тамирчид	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	миний овог нэр ~	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	тэр эмэгтэй хэн бэ? тэр аль нь вэ?	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	чиний найз охин	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	чиний найз ~?	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	одоо өрөөнд бичиж байна	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	аавын чинь найз мөн үү ~?	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	зочид буудалд ажилладаг	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	ширээн дээр юу байна?	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	Манай өрөөний ширээн дээр	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	эсперанто сурах бичиг ~ ?	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	таны ширээн дээр байна	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	найзтай	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	түүний нэр ~	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	залуу бас үзэгслэнтэй	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	залуу бас үзэсгэлэнтэй	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	залуу сайхан найзууд	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	эрэгтэй эмэгтэй найзууд	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	багшийнхаа гэр	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	гэртээ ирлээ	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	~-ийн гэр	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	орж ирээрэй	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	Сайн байна уу та юу хийж байна?	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	Чи юу хийдэг вэ? чи юу хийж байгаа юм бэ?	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	гэхдээ одоо би ~ хүсч байна	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	Би ярьмаар байна	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	эрэгтэй эмэгтэй гурван найзтай	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	чамтай ярилцлаа	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	чамтай ярилцахыг хүсч байна	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	чамд эрэгтэй эмэгтэй найз нөхөд бий юу	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	тэр номтой	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	сайхан номтой	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	Тиймээ, надад байгаа	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	тэдэнд таалагддаг	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	тэр ном уншсан	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	ном унших дуртай	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	зүгээр л сайн ном	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	олон сайхан ном	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	зөвхөн сайн ном унш	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	сайхан ном унших дуртай	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	уншмаар байна уу?	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	залуу кофе уусан	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	ус уухыг хүсдэг	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	аав, ээж; эцэг эх	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	зовоосон эгч, дүү нар	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	эцэг эх, ах дүү нар чинь	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	таны гэрт байна	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	энд кофе байна	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	хараахан уугаагүй байна	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	дулаахан хэвээр байна	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	өчигдөр болгосон	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	Би одоо хоол хийсэн	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	баярлалаа. гэж тэр хэлэв.	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	ууж идэж болно	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	хүйтэн кофе уусан	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	халуун кофе хэвээр байна	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	бас хүйтэн кофе уудаг	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	Мөн хүйтэн кофе ууж болно	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	түүний нүд рүү хардаг	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	хамгийн үзэсгэлэнтэй нүд	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	сайхан нүд	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	сайхан нүд рүү харав	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	түүний сайхан нүд	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	харж, ойлгодог	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	Би үүнийг харж байна ~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	тэр түүнд хайртай гэж	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	тэр түүнд хайртай гэдгээ мэдэрдэг	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	том байсан уу гэж асуув	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	хялбар асуултын талаар	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	шинэ мөнгөний тухай хэлсэн	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	маш үзэсгэлэнтэй нүд	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	гэж том ах харав	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	нэг дүү мартчихаж	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	буруутгах (зорилго)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	яллах төгсгөлийг бүү март	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	чи хэнтэй уулзаж байна вэ? алийг нь харж байна вэ?	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	Би найзаа харж байна	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	сайн эрэгтэй эмэгтэй найзуудтай	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	Тэд хуучин байшингийн талаар ажиллаж байна	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	ажилладаг, ажилласан, ажиллах болно	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	харж байна, би идэж байна	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	тэр явах болно гэж хэлсэн	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	муухай, муухай	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	Тэр юу гэж хэлсэн бэ?	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	чи юу хүлээж байгаа юм бэ?	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	өрөөнд оров	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	агуулга нь маш хэцүү байдаг	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	хурал дээр ирлээ	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	уулзалтанд тавтай морил	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	нэг өвгөн цайны мөнгө өглөө	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	хүрэлцэн ирж, угтан авлаа	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	тэд үзэн яддаг ч хамтран ажилладаг	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	зочид буудал руу явлаа	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	хялбар сурах бичигтэй	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	ээж чинь яаж байсан бэ?	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	чиний хуучин гэр	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	ямар ном уншсан бэ?	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	тэд сайн байсан уу?	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	өчигдөр юу хийсэн бэ?	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	жижиг өрөөнд	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	маш удаан ярьсан	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	сургуулийн урд, сургуулийн өмнө	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	сургуулийн өмнө үг хэлэв	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	дараа нь номын тухай ярьсан	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	баяртайгаар сургууль руугаа явлаа	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	гудамжаар	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	гудамжаар явсан	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	дулаахан өдөр байлаа	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	Тэд кафе харсан'	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	улаан жигнэмэг харсан	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	дотор нь жигнэмэг харсан	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	кафе, дотор нь жигнэмэг харсан	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	ороод идээрэй!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	орж ирээд хоол идье	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	хангалттай мөнгөтэй	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	танд хангалттай мөнгө бий юу?	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	чи ойлгож байна уу?	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	мэдээж!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	энэ нь хангалтгүй юм	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	зуун доллар хангалттай	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	доллар, доллар, доллар (олон тооны зорилго)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	зуун доллартай	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	мэдээж надад байгаа	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	өө! чи баян байна!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	ус, зөөгч	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	зөөгч цэс авчирдаг	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	Үүнийг бидэнд авчирсан, үүнийг авчирсан	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	зөөгч маш их жигнэмэг авчирсан	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	Тэд жаахан идсэн (бага зэрэг)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	идсэний дараа (хоолны дараа)	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	шинэ, дахин	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	зөөгч дахин ирлээ	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	зарим газар	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	хаа нэг газар хайж байсан	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	өөр газар хайсан	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	түүний царай баяр хөөртэй байв	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	тэр гунигтай байв	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	эцэст нь, эцэст нь	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	чиний хүчтэй хоолой	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	сул хоолойгоор	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	мөнгөгүй	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	тэнд юу болсон бэ?	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	дараа нь осол болсон	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	хэзээ болсныг мэдэх үү?	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	асуудлын талаар мэддэг	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	нэг зүйл хэвээрээ л байна	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	чи эсвэл тэр ямар ч хүн	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	дуучин шиг, гарын үсэг зурсан хүн шиг	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	мэргэжлийн дуучин шиг дуулсан	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	түүний амьдарч байсан газар	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	Та машины талаар яаж мэдэх вэ?	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	За хурдан машиныг хар даа	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	элсэн чихэргүй шүүс	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	тэр хурдан машинтай	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	хэтэрхий хүчтэй	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	тэр хэтэрхий чанга нээлээ	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	хэт хурдан жолоодсон (аялсан).	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	халбагаар идсэн	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	бид маш их эргэлзэж байна	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	түүнээс ирсэн үнэн захидал	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	таван зурагтай хайрын захидал	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	буцаж ирсэн, буцаж ирсэн хүмүүс	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	Мөн зургаан захидал буцаж ирэв	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	зургийг нь харахыг хүссэн	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	сургуулиасаа буцаж ирсэн	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	эгч хэзээ ирэх вэ?	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	дахин уншихыг хүссэн	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	хийсэн (хийсэн), болсон	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	хурдан улаан болсон	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	өрөөнд, өрөөнд	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	зогсоод суулаа	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	зургийн өмнө зогсож байв	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	Надад тийм байна	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	чиний гарт юу байгаа вэ?	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	урд эсвэл ард уу?	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	өмнө эсвэл дараа?	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	тэнд хаалганы ард	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	бусад, бусад хүмүүс	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	бусдаас ирсэн захидал	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	гараас унасан	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	ширээн дээр, ширээн дээр	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	ширээн дээр унав	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	уучлал гуйсан	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	таван ном хайж байсан	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	Уучлаарай, би номоо хайж байсан.	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	гэхдээ чи сайн мэднэ	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	миний ширээн дээр байхгүй	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	Чиний ном миний ширээн дээр байхгүй	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	дахин өгсөн, буцсан	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	надад захидлыг буцааж өгөөч	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	сайхан сургамж авсан	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	Цаашид угааж, ахин идсэн	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	цаашид уншихгүй	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	Би ч бас хүлээн авсан	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	хаах хэрэгтэй	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	Би сайн хаах хэрэгтэй	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	хаалгыг чанга хаалаа	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	тайвшир, тайвшир	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	сонссон боловч сонсоогүй	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	тайван чимээ сонсогдов	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	Миний хувьд 4 халаас байна	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	Сүүлийн хичээлээс арав хоногийн дараа	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	хоёр ширээний хооронд	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	гурван захидал, зургаан цаас	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	толгойноос хөл хүртэл	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	дөрөв, дөрөв, дөрөв, дөрөвний нэг	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	гурвал хаашаа явсан юм	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	хоёр гартаа таван хуруу	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	өөрийнхөөрөө, өөрийнхөө халаасанд	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	тавих, нийлүүлэх, нэгдэл	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	өөрийн халаасанд хийх	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	дэлхийн хоёр зуун үндэстэн	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	авсан, авсан	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	өөрийн есөн номноос долоог нь авсан	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	орхих, хаягдсан	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	намайг тайван орхи	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	мянга найман зуун наян долоо (1887)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	аяга цай	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	Хэн нэгэн найман аяга угаасан	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	хоёр мянга арван есөн (2019)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	тэр өөрийгөө угаав	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	хүний бие, өөрийн эзэмшил	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	ширээн дээр муур унтав	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	муур ширээн дээр үсрэв	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	танхимд, танхимд	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	түүний гарт унав	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	ажиллах, боловсронгуй болгох	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	тэр номыг дэлгэрүүлэхийн тулд	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	мэддэг, мэдэхийг хүсдэг, сониуч зан	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	хос хэл, хос хэл	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	гурвалсан хэлээр суралцагчийн тухай гайхдаг	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	явсан, буцсан	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	муурнууд (өөрсдөө) гэртээ буцаж ирэв	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	уутанд, уутанд	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	цүнхэндээ хий	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	хөл, алхаж, явган зорчигч	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	Арав хоногийн турш тэд алхав	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	авах, гаргах	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	сайхан цэцэг, сайхан цэцэг авав	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	тэр зөвхөн үзэсгэлэнтэй цэцэгсийг гаргаж ирэв	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	нээгдсэн боловч тэр даруй хаагдсан	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	олон улсын уулзалтыг нээсэн	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	хэвлүүлж тараасан	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	хэвлэлийн газар хорин гурван ном хэвлүүлсэн	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	буцаж ирээд өөрийн хүүгээ дахин харав	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	хоёр мянга хорин гурав (2023)	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	нэгэн эрхэм дэлгүүрт оров	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	машины дэлгүүр	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	Тэнд тэр эмэгтэйг хардаг	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	Эрхэм ноёд хатагтай нар аа	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	Энэ нь надад таалагдсан (би үүнд дуртай)	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	Хатагтай түүнд таалагдсан (тэр эмэгтэйд таалагдсан)	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	үзэсгэлэнт хатагтайг харав	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	хэн түүнд таалагдсан бэ? (тэр хэнд дуртай байсан бэ?)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	намайг баярлуулсан эмэгтэй	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	байшинд орсон хүн	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	хандивласан хүн	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	тэр эхнэртээ бөгж өгсөн	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	тэр бөгж таалагдсан	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	бөгж таалагдсан эхнэр	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	дэлгүүрт худалдагч ажилладаг	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	машин худалдагч	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	гэж эрхэм худалдагчаас асуув	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	ямар машинд дуртай вэ?	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	ямар машин сонгох вэ?	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	Би тэр машиныг сонгосон	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	энэ нь дээр	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	үүнээс дээр	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	тэдний хамгийн шилдэг нь	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	хамгийн шилдэг нь	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	аль машин хамгийн сайн вэ?	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	энэ машин илүү дээр	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	энэ бол хамгийн шилдэг нь	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	бүх машиныг харсан	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	хамгийн шилдэг нь	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	хурдан уу?	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	бусдаас хурдан	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	бас хүчтэй	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	өө тийм, мэдээжийн хэрэг!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	маш хүчтэй	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	мэдээж хүчтэй	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	бас үнэтэй	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	хамгийн үнэтэй нь	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	хямд боловч хүчтэй	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	харамсаж, өрөвдөж байна (харамсах нь зүйтэй)	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	харамсалтай нь би худалдаж авахгүй	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	харамсалтай зүйл юм	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	тэр шинэ машин худалдаж авсан	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	Учир нь надад мөнгө байхгүй	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	миний хуучин машин	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	хамгийн хямд нь	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	Би тийшээ жолоодно	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	түүнтэй хамт жолоодох болно	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	бүтэн өдөржингөө	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	тэр ингэж хэлж байхад	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	тэр дахин түүн рүү харав	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	гэж худалдагч хэлэв	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	Энэ нь дээр байх болно ~	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	энэ хатагтайг хар даа	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	энэ нь бас маш үнэтэй	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	Би түүний нөхөр	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	таны аялал ямар үнэтэй байсан бэ?	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	эхнэрийнхээ дууг сонс	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	Энэ нь маш их зардалтай гэдгийг мартаж болохгүй	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	тэр худалдагчид хоёр цагийн турш тусалсан	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	гурваас дээш жил	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	таглах, таглах, нээх (нээх)	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	түүний шалтгааныг хараахан олж чадаагүй байна	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	яагаад захидал илгээж эхэлсэн бэ?	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	тэнд найман сар амьдарсан	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	сонсох цаг байсангүй	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	машин аль хэдийн дүүрсэн байв	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	чи юу идэж байгаа юм бэ	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	цаг агаар ямар байна?	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	чи ямар машинтай вэ?	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	түүний захидал ямар байсан бэ?	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	Бид хаана байна?	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	чи хаашаа явах гэж байна?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	чи хэнд өгсөн бэ?	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	Таны хамт явсан хүн	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	машинаас том	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	тэдгээр хүмүүсийн хамгийн өндөр нь	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	тэр оройн хоолондоо сууж байв	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	тэр уншиж байхдаа бичдэг	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	энд, энэ өрөөнд	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	энэ эрхэм	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	сонсоход үнэ цэнэтэй мэдээ байна	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	ном үнэхээр уншихад үнэ цэнэтэй юм	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	харамсалтай зүйл	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	харамсалтай нь би чадахгүй	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	Зүгээр ээ. энэ нь миний таашаал байсан	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	жижигхэн хөөрхөн охин их хөөрхөн	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	бүх найзууд түүнд хайртай	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	гурван сарын өмнө	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	түүнд ямар нэгэн муу зүйл тохиолдсон	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	тэр машинаас болж унасан	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	өвдөж, температур нэмэгдсэн	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	ээж амрах хэрэгтэй гэж хэлсэн	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	тэр гэртээ үлдэх ёстой	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	тэр эмч дуудах болно	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	есөн цагт	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	өглөө найман цагт ирсэн	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	маргааш орой долоон цагт	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	гараа харуулав	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	хувцаслаж байна, хувцаслаж байна	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	хувцаслаж, биеэ дулаацуулаарай	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	гэртээ тэр даруй хувцасаа тайлж, шүршүүрт орсон	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	Эмч бүх зүйлийг харав	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	сайтар харж байгаад эцэст нь хэлэв	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	долоо хоног гэртээ бай	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	чамайг тайван байхыг хүсч байна	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	долоо хоногийн дараа	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	та илүү сайн мэдрэх болно	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	цай их уух	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	чамтай дахин уулзахаар ирнэ	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	тэр ч бас тайван байг	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	эрүүл хүн, эрүүл хүн	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	өөртөө анхаарал тавьсан	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	Бүх зүйл надад нэг дор хэрэгтэй байсан	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	аймшигт зүйл ойрхон байгааг анзаарав	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	нэн даруй анзаарахыг хүссэн	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	шаардлагагүй гэж бодсон	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	ойролцоо амьдардаг байсан бөгөөд энэ нь ашигтай байсан	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	манай улс өнөөдөр айдаст автлаа	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	бүх айлын эрхэм хүүхдүүд ээ	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	өчигдөр нэг удаа, маргааш хоёр удаа	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	Өнөөдөр гэр бүлд хүүхэд хэрэгтэй байна	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	Маргааш сайн болно гэж найдаж байсан	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	тэр маш тайван байсан (байсан).	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	гурван бяцхан хүүхэд уулыг өргөв	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	чухал хүмүүс тусламж гуйгаагүй	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	туслахаар тийшээ алхсан	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	өндөр температуртай бол гэртээ үлдэх	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	Өнөөдөр температур ижил хэвээр байна	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	есөн цагт эмч дууд	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	эмчдээ үзүүлээрэй	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	хөлөө харуулах	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	энэ цамцыг өмс	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	Амралтын өдөр бүх зүйл тайвширна	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	Цайны аяганаас юу олсон бэ?	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	Би өглөөний цай авмаар байна	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	нам гүм орой болно гэж найдаж байсан	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	чамайг сураасай гэж хүсэж байна	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	намайг явахыг шаардав	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	хэдэн цагт?	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	зургаан цагт тэр ирнэ	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	либретто нь сэтгэл татам байсан	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	чимээгүй	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	түүнийг чимээгүй байг	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	тэр ч бас	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	Би хүсч байна (хүсэл)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	Би үүнийг хүсч байна (хүсэж) ~	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	таны сурдаг	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	Би чамайг сураасай гэж хүсч байна	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	гэж аав шаардаж байна	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	аав ~ гэж шаарддаг	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	би явах гэж	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	аав намайг явахыг шаарддаг	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	хэдэн цагт	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	хэдэн цагт ирэх вэ?	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	таван цагт (цаг)	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	таван цагт	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	тэр яаж байна?	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	та сүүлийн үед ямархуу байсан бэ?	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	бяцхан номнууд гоё	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	товхимол, сайхан номнууд	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	хөөрхөн, жаахан хөөрхөн, маш үзэсгэлэнтэй	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	дулаахан, бүлээн, маш халуун	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	том ном, товхимол	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	сайн, сайн, сайн	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	баян болох, баян болох, баян хүн	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	тайвшрах, тайвшрах, тайвшрах	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	эрүүл болох, эдгэрэх, эдгэрэх	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	нөхөр, гэрлэлт, гэрлэсэн	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	захидал шууданчин	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	эх орон	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	бага зэрэг, бага зэрэг	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	бид сайхан оройн хоол идсэн	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	Өөртөө анхаарал тавь гэж найдаж байна	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	Би өндөр чанартай орон сууцны талаар санаа тавьдаг байсан	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	хоёр удаа, олон удаа бод	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	товхимолыг хэн буулгасан бэ?	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	Цезарь нэртэй муур	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	ширээн дээр байгаа бялуу	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	ширээн дээр байгаа бялууг идээрэй	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	халуу оргиж, улайсан	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	аав нь хүүхдээ идэхийг хүсдэг	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	жижиг өрөөнд	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	бид ~-д амьдардаг	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	Би сандарч эхлэв	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	тэр үед би чамайг харсан	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	бүгд үүнийг анзаарсан	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	тэр үзэсгэлэнтэй гэдэг нь	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	чи үүнийг хүсч байна уу ~? (дезири)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	Би чамд үзүүлэхийн тулд	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	чи намайг үзүүлэхийг хүсч байна уу?	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	миний хамгийн шинэ ном (зорилго)	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	маргааш өглөө, чи юу хүсч байна вэ?	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	өглөөний цайгаа оройтож уулаа	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	Марк хэзээ ирэх вэ?	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	тав, найман цагт	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	Та үүнийг хэзээ анзаарсан бэ ~?	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	Бүхэл бүтэн гэр бүл намайг буянтан гэж дууддаг	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	танд ашигтай	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	товхимол хэрэг болсон уу?	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	миний илгээсэн товхимол	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	өглөө нь удаан унтсан	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	тэр нарыг хараад	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	тэр гэнэт үсэрлээ	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	тэр үргэлж эрт байсан	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	тэр үргэлж хоцордог	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	тэр үед, тэр явах ёстой үед	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	сургуульд явах	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	тэр мэднэ, ~	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	тэр баримтыг мэддэг, ~	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	багш зөгийг үзэн яддаг гэсэн баримт	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	багш зөгийг үзэн яддаг гэдгийг мэддэг	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	багш үүнийг үзэн яддаг гэдгийг мэддэг	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	Харин өнөөдөр тэр кофе уусан	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	тэр хурдан хувцсаа өмсөнө	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	тэр хоцрохыг хүсэхгүй байна	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	гартаа номтойгоо маш хурдан	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	дараа нь тэр гүйж, үсрэв	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	тэр гүйж, үсрэв	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	гудамж дагуу	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	хүмүүс түүн рүү харав	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	түүн рүү хараад хэлэв	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	ухаалаг, тэнэг	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	ямар тэнэг хүү вэ!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	сургуулийн урд байсан	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	удахгүй	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	тэр ~-ын өмнө байсан	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	явах, орох	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	тэр орохыг хүссэн	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	сургуульд орох	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	гэхдээ гэхдээ	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	гэхдээ тэр чадсангүй	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	хаах, хаах	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	хаалттай байсан	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	~ ч биш ~ ч биш	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	багш ч биш, эрэгтэй эмэгтэй оюутнууд ч биш	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	багш, сурагчдыг ч хараагүй	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	суух, суух	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	суусан (суусан)	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	тэр суулаа	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	мөн бодлоо	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	юу болсон бэ?	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	аймшигт (чөтгөр шиг)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	саад болоорой	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	санаж байна	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	одоо санаж байна	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	Ням гараг	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	өнөөдөр ~	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	Өнөөдөр бүтэнсайн	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	унтах, унтах	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	нар, сар	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	гэнэт, гэнэт	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	унтраах! (эхлэх)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	үсрэх, үсрэх	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	үргэлж эрт	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	өнөөдөр тавиад гүйлээ	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	нас биш зүйл	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	Ухаантай хүмүүсийг дагаж гүйв	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	аль болох хурдан	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	ямар хүү, ямар охин бэ	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	бодсон ч, цээжилсэн ч үгүй	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	Ням гарагт чөтгөр ус хүлээж байв	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	ийм жижигхэн мөч	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	ийм өчүүхэн хором ч гэсэн үнэ цэнэтэй	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	шөнө болтол уйлсан	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	шуудангийн шууданг гараас нь холдуул	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	гэж өөрөө инээгээд шуудангийн шуудангаа хойш тавив	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	тэр ч тэр, тэр ч инээгээгүй	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	тэр инээсэнгүй, хариулсангүй	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	тэр суудаггүй, хардаггүй	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	би хэзээ ч харж байгаагүй	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	Би хэзээ ч хэнд ч хэлэхгүй	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	хэнд ч хэлэхгүй	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	Би хэзээ ч хэлэхгүй	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	өөртөө (өөртөө)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	Би өөрөө хийсэн	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	үүнийг хийсэн (хийсэн)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	өөрөө хийсэн (өөрөө хийсэн)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	уулзъя (дахин), уулзъя (дахин)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	хүртэл! (Баяртай!)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	ярьж эхлэх	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	хэлж эхлэв, эцэст нь ярьж эхлэв	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	маш хурдан уусан	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	өглөө уусан	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	эрт ирэх	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	сургуульд ирэх	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	~ to эрт ирэх	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	мэдээ сонсоогүй	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	хараахан сонсоогүй	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	Би хараахан сонсоогүй	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	тэр мөчид	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	тэр агшинд тэр уйлсан	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	хайргүй хүү	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	охид, хөвгүүд	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	бусад охид, хөвгүүд	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	бусад охид, хөвгүүдийг хайрладаггүй	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	найз нөхөд ч биш, найз охин ч биш	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	мөнгө ч, цаг ч байхгүй	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	ном хэнд байсан бэ?	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	Таны хүлээж байсан ном	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	Таны 2 жил гаруй хүлээсэн зүйл	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	чи үүнийг хүсч байна уу?	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	чи үүнийг хүсч байна уу ~?	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	хамгийн эрхэм	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	хамгийн эрхэм зураг	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	миний хамгийн хайртай зураг	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	чи хаанаас худалдаж авсан бэ?	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	тэр хувцас	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	тэр хувцас (зорилго)	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	тэр хувцасыг худалдаж авсан	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	чи тийшээ явах болно	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	чи хаашаа явах гэж байна?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	нартай өдөр	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	нартай өдөр байх болно	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	нартай өдөр байвал	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	ах чинь аль хэдийн эхэлсэн	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	ах чинь эхэлсэн үү?	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	ус хаана байна	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	ус авчрах	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	чи өөрөө авчирсан	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	Таны авчирсан ус	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	их чимээгүй байсан	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	Өнөөдөр миний ээж ~ байсан	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	Би ~аас ирсэн	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	сургуулиас гарсан	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	~-д мэдээлсэн	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	мөн түүнд мэдээлэв	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	~ гэж мэдээлсэн	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	хүлээн авна гэж мэдэгдсэн	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	Би муу дүн авна	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	тэр ~ гэж хэлсэн	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	чи ~ ажил хийх хэрэгтэй	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	илүү	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	илүү их ажил хийх	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	толгойгоо ажиллуулахын тулд	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	хичнээн муу дүн авав	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	чамд маш олон муу дүн байна	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	гунигтай байлаа	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	танай өрөөнд	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	өрөөндөө ор	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	очоод сур	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	би суусан	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	Миний өрөөнд	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	миний өрөөнд суулаа	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	сурахгүй, уншдаггүй	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	гэхдээ би сурч, уншиж ч чадсангүй	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	Миний бодол	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	тоглоом дээр	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	найзуудтайгаа тоглох	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	спорт дээр	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	өөртөө	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	гэж өөртөө хэлэв	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	үнэхээр тэнэг	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	би ийм тэнэг юм уу?	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	Хэдийгээр би маш их зүйл сурсан	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	ээж орж ирэв	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	миний үгс	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	мөн миний үгийг сонссон	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	гэж тэр даруй хариулав	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	үгүй ээ хонгор минь	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	чи тэнэг биш	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	асуудал нь ~	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	та сурах ёстой	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	илүү ихийг сурах ёстой	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	тэгвэл чамд байхгүй болно	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	муу дүн	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	зөвхөн муу дүн авах болно	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	бас одоо	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	Надад тэд байхгүй	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	Би сайн үнэлгээтэй	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	хөгжмийн тухай	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	хөгжмийн тухай сайн тэмдэглэл	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	ээж гэнэт инээвхийлэв	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	гоёжуулсан ~	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	Миний өдөр	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	миний өдрийг хийсэн	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	гэхдээ хэвээрээ л байсан	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	гэхдээ асуудал байсаар л байна	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	кг ~	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	нэг килограмм элсэн чихэр	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	нэг аяга ~	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	аяга ус	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	маш их ~	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	олон санаа	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	барих	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	бүгдийг цэгцэлсэн	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	түүнд хүлээлгэн өгсөн	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	би асууж байна	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	нэг аяга кофе	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	мөн бага зэрэг ус	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	Би нэг аяга кофе авмаар байна	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	Аяга цай уумаар байна	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	түүнийг гомдоосон	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	толгой нь өвдөж байна	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	тэр өвчтэй болсон	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	үзэсгэлэнтэй байх дуртай	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	тэр нүүрээ сайхан болгов	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	хүү хөөрхөн байх дуртай	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	Тиймээс тэр үүнийг гоёж өгсөн	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	Үдийн хоолны дараа	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	гал тогоо цэвэрлэх	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	гал тогоог хэн цэвэрлэх вэ?	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	уухыг хүсдэг	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	юу уумаар байна	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	цай уух	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	бага зэрэг ус	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	чи юу ч хүсэхгүй байна уу?	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	тийм гэнэт	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	чи яагаад шийдсэн юм ~?	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	чи яагаад гэнэт шийдсэн юм бэ?	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	чиний өрөө	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	чиний жижигхэн өрөө	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	Таны жижигхэн өрөөнд	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	жижигхэн өрөөгөө засахын тулд	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	бяцхан өрөөгөө засахаар шийдсэн	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	хэнд	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	чи ~ өгсөн	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	чи хэнд өгсөн бэ?	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	цэвэр шил	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	Та цэвэр шил өгсөн	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	дарсны цэвэр шил	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	хэний эсрэг	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	таны спортын клуб	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	~ эсрэг тоглодог	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	Хоёр долоо хоногийн өмнө	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	Танай спорт клуб хэнтэй тоглосон бэ?	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	харж байна уу ~?	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	та байнга хардаг уу?	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	цагдаатай байнга уулздаг	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	~-д амьдардаг хүн	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	байранд амьдардаг	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	Таны дээгүүр байрлах байр	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	~-д амьдардаг цагдааг харав	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	жолооны төлөвлөгөө	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	аялахыг хүссэн	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	өөр улс руу аялах	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	чөлөөт цагаараа	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	тэд явахаар шийдсэн	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	Итали руу явахаар шийдсэн	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	хуучин хотууд	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	хуучин хотуудтай улс	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	бусад гоо үзэсгэлэн	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	болон бусад гоо үзэсгэлэн	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	хуучин хотууд болон бусад үзэсгэлэнтэй сайхан орон	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	тэд баяртай байсан	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	хаана байна ~?	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	миний хувцас хаана байна	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	гэж тэр ~ гэж асуув	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	~ авчрахаа мартаж болохгүй	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	номоо авч явах	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	эсперанто хэл сурах ном	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	сурахын тулд ном авч явах	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	Бид эхэлж болно ~	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	галт тэргэнд	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	аль хэдийн галт тэргэнд суусан	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	бид юу ч хийхгүй	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	машинаар	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	бид ~ хажуугаар нь жолоодох болно	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	машин жолоодох болно	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	Надад нэг нууц байна	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	миний баян авга ах	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	Миний хүсэл	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	миний хүслийг биелүүлсэн	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	бидэнд өгсөн	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	тэр эрэгтэйн машин	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	Тэгээд бидэнд машинаа өгсөн	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	ашиглах	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	энэ нь ~ өмнө зогсож байна	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	байшингийн урд зогсож байна	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	Би хэлэх ёстой ~	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	юу ч битгий хэл	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	сууцгаая	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	машинд суу	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	~ руу жолоодох	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	мөн Итали руу жолоодох	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	машинд суув	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	бас хувцас	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~ машинд байсан	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	Суугаад хүлээсээр л байлаа	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	гэхдээ тэр хүлээв	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	бид яагаад болохгүй гэж ~?	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	Бид яагаад жолоо барьж эхлэхгүй байна вэ?	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	Надад ч бас ~ байна	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	машин жолоодох болно	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	гэхдээ би мэдэхгүй ~	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	Би үүнийг хэзээ ч сураагүй	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	Би итгэх болно ~	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	хэрэв би эрүүл байсан бол	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	Би маш их баяртай байх болно	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	чи баян байсан юм шиг	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	чи тэнд баян хүн шиг сууна	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	гэх сургууль	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	баян хүн шиг	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	чи тэнд баян хүн шиг сууж бай	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	маш их мөнгө	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	санаа шиг их мөнгө	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	Хэрэв надад тийм их мөнгө байсан бол	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	Би аялах байсан	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	дэлхий даяар	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	бүх толь бичигт	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	ямар нэг зүйл дутуу байна	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	зарим үг дутуу байна	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	урт удаан ярьсан хүн	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	хоолны ширээн дээр	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	хэлсэн хүн өлсөж үлдэнэ	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	хоолны ширээний ард байнга ярьдаг	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	тэр ~-д анхаарлаа хандуулах ёстой байв	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	~ гэж зөвшөөрөгдөөгүй	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	үлдэхийг зөвшөөрсөн	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	удаан байхыг зөвшөөрөөгүй	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	бороонд гадаа байх	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	тийм болохоор тэр ханиад хүрсэн	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	түүнд өөрийн гэсэн тодорхой санаа бий	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	гэхдээ тэр бүх зүйлд итгэх болно	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	чи юу ч хэлсэн бай	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	чи түүний эхнэр байсан юм шиг	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	Таны эцэг эх	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	эцэг эхээ баярлуулах	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	юу таалагдах вэ ~?	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	Таны эцэг эхийг юу хамгийн их баярлуулж чадах вэ?	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	сурсны дараа	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	ядаж сурсны дараа	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	хотын төв рүү	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	Хэрэв та надтай хамт явах байсан бол	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	Хэрэв та надтай хамт хотын төв рүү явбал	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	та хаашаа аялахыг хүсч байна вэ?	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	Хэрэв танд ~ байсан бол	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	хангалттай мөнгө	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	Хэрэв танд хангалттай мөнгө, цаг байсан бол	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	чи ~ хийхээр төлөвлөж байна уу?	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	Парис руу аялахаар төлөвлөж байна	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	аксутогоор жолоодох	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	хамаагүй дээр	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	хамаагүй дээр юм шиг байна	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	вагоноор	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	эсвэл хамаагүй дээр биш юм шиг байна уу?	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	янз бүрийн хүмүүс	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	хүмүүс яагаад янз бүрээр тайлбарладаг вэ?	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	ижил санаанууд	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	ижил санаануудыг тайлбарладаг	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	гэр бүлийн гишүүд цуглардаг	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	ямар хурдан	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	өдрүүд өнгөрч байна	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	өдрүүд ямар хурдан өнгөрч байна!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	маргааш ~ болно	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	аавын чинь төрсөн өдөр	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	гэр бүлийн хэд хэдэн гишүүд	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	хэд хэдэн гэр бүлийн гишүүд ирнэ	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	мөн найзууд	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	чи ~?	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	бага зэрэг тусалж чадах уу?	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	бага зэрэг	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	бага зэрэг цаг олоорой	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	өрөөгөө цэгцлэх	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	ядаж өрөөгөө цэгцлэх	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	Би ~ хүсч байна	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	Би ямар нэг зүйл хоол хийхийг хүсч байна	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	сайн зүйл	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	ямар нэг сайхан хоол хийх	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	төрсөн өдрийн бялуунд зориулж	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	сүү дутагдаж байна	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	гэрт	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	худалдан авах шаардлагатай ~	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	зарим хоол	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	дэлгүүрээс	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	нуугдаж байгаа газраас хоол хүнс авах	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	Би дэлгүүр хэсэх болно	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	төрсөн өдөрт зориулав	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	сууж идэхийн оронд	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	сонирхолтой хүмүүс	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	сонирхолгүй гэр бүлийн гишүүдтэй	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	Би зугаалгаар явахыг хүсч байна	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	клубын гишүүдтэй	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	аль клубын гишүүдтэй?	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	гэж аав хэлэв	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	зарим төрлийн цаас, зарим төрлийн цаас	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	цүнхэнд	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	цаасан саванд хийнэ	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	цаасыг цаасан саванд шидэв	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	хэдэн цаасыг цаасан саванд шидэв	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	маргааш эрт	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	миний спортын клубын гишүүд	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	хонгор минь	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	энэ зөв үү?	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	чи байхгүй байх ёстой	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	тийм биш гэж үү?	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	танай клубын гишүүд	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	клубын гишүүдтэйгээ уулздаг	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	долоо хоногт гурван удаа	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	би ~?	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	ямар нэг зүйл санал болгох эрхтэй	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	Би гэр бүлийн гишүүдтэйгээ хамт хооллох болно	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	гэхдээ хоёрдугаар хэсэгт	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	Би найзуудтайгаа явна	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	~ тухай ярих болно	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	амжилтгүй хөтөч	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	амжилтгүй дискний талаар мэдээж ярих болно	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	бялууны дараа	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	Би үүнийг дахиж хүсэхгүй байна	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	үүнийг сонсохыг хүсч байна	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	яагаад бидэнд ~ байхгүй байна вэ?	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	санаагаар баялаг авга ах	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	Баян авга ах ямар нэг санаатай	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	миний гэр бүлд	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	гэж ээж инээмсэглэв	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	түүний үгээр	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	тэр үүнийг мэддэг ~	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	арай дэндүү ярьдаг	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	зүгээр л хангалттай биш	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	санааны баялаг	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~ бас хэрэгтэй	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	үүнийг хийх бүрэн хэтэвч	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	гэж ээж үргэлжлүүлэв ~	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	бага зэрэг чимээгүй болсны дараа	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	хэдхэн минутын өмнө	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	Ана түүнийг ~ гэж дуудсан	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	тэр бас манайд зочлох болно	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	чихэрлэг бялуу	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	тэр чихэрлэг бялуунд үнэхээр дуртай	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	таргалахаас болгоомжилдог	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	Хэдийгээр тэр анхаарлаа хандуулах болно	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	тэр даруй бодлоо өөрчилсөн	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	аялалын үеэр	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	түүнгүйгээр	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	тэр маш их ганцаардах болно	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	Гэхдээ би давах болно	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	Би маргаашийг гэртээ өнгөрөөх болно	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	залуу насандаа	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	нэг нь бий	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	бас гоо үзэсгэлэнтэй	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	төвөгтэй ажил	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	төвөгтэй ажил (зорилго)	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	хялбаршуулах ёстой	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	тэр насандаа	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	тэр аль хэдийн ~ болсон	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	спортын клубын тэргүүн	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	нэг нь мөнгө тавьдаг	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	түрийвч рүү	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	түрийвчэнд хийдэг	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	жишээнүүдийг дагаж мөрдөөрэй	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	сайн гэр бүлийн гишүүдээс	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	нөхөрлөл таныг аз жаргалтай болгодог уу?	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	чамайг аз жаргалтай болгодог	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	хайраас илүү	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	чи хэр олон удаа ~?	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	Та ~ руу захидал бичдэг	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	найз охиндоо захидал бичдэг	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	Итали дахь найз охин чинь	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	та болон таны багшийн хоорондын харилцаа	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	харилцаа өөрчлөгдсөн үү?	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	чи аль хэдийн мэдсэн үү ~?	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	нэлээн сайн	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	~-д орой болсон	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	олон зуун хүн	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	талбайг дүүргэдэг	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	залуучууд, цэргүүд	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	усан онгоцноос далайчид	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	мундаг хатагтай	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	онцлох бүсгүйчүүд	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	гадаадын аялагчид	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	бүгд хотын төв рүү нүүж байна	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	арай цааш	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	далайгаас холгүй	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	жижиг талбай байсан	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	жаахан цаашаа гэхдээ хол биш	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	эцэст нь	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	далайн ойролцоо	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	хажууд нь нэг хүн зогсож байв	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	хувцасны дагуу	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	хүн амархан мэдэж болно ~	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	~ гэдгийг олж мэдэх боломжтой байсан	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	баян хүний гондолчин	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	түүнийг гондолчин байсныг олж мэдэх боломжтой	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	тэр ~ харав	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	баяр хөөртэй олныг харав	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	нүүрэнд нь инээмсэглэл тодров	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	тэр далайчинг хараад	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	ирсэн далайчин	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	далайн тал	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	далайн эргээс ирсэн	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	Энэ чи мөн үү, Стивен?	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	гэж гондолчин хашгирав	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	бүгд ингэж хэлдэг ~	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	туркуудын гарт	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	Та туркуудын гарт орсон	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	бид нэгтэй уулзсан	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	манай хөлөг онгоцуудаас	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	биднийг дагасан	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	нэг цаг гаруй	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	гэхдээ явах амаргүй ~	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	Манай хөлөг онгоцноос хурдан явах	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	энд ямар мэдээ байна?	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	энд Венецид	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	сонирхолтой зүйл байхгүй	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	зүгээр л том золгүй явдал	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	чи Пьетрог мэдэх үү?	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	Би түүнийг мэднэ	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	том хөлөг онгоц түүний гондолыг живүүлэв	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	тэгээд түүний тухай юу?	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	гондола живэв	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	ийм зүйл тохиолдсон ~	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	бид ойрхон байсан	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	Бид түүнийг гондолдоо авч явсан	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	нэгэн зэрэг	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	миний дарга живсэн	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	залуу эмэгтэйд туслах	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	үхэх шахсан залуу эмэгтэй	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	авга ахтайгаа	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	авга ахтайгаа бараг л нас барсан	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	залуу эмэгтэй байсан	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	бид түүнд тусалж чадаагүй	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	чухал хүн байсан	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	Таныг Венецид юу авчирсан бэ?	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	Миний найз	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	далайчин дээш харав	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	хурдан найз руугаа харав	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	гэж хэлээд эхлэв	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	тэгэхээр чи мэдэж байгаа ~	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	Би ~ авчирсан	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	гондолчин түүнийг гэнэт зогсоов	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	тэр хэлсэн	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	дараа нь нэг хүн өнгөрөв	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	түүний хажуугаар нэг хүн өнгөрөв	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	тэр гучин нас хүрээгүй байсан	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	мөн түүний царай өнгөгүй байв	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	Түүний явах зам нь итгэлтэй бөгөөд хялбар байсан	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	түүний царай гунигтай байв	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	тэр хүнийг хараад, ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	~ гэж хэлдэг	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	олон чухал хүмүүс ~ өгдөг	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	нууц ажил	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	нууц ажил	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	түүнд нууц ажил өгдөг	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	хэтэрхий олон нууц	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	тэр хэтэрхий олон нууцыг мэддэг	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	Тиймээс тэд айж байна	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	түүнийг шоронд явуулах	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	гэж далайчин хэлэв	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	мөн түүний ярьж байхдаа	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	гэж тэр харш руу заалаа	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	Doges-ийн харш	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	олон чухал хүмүүст түүний тусламж хэрэгтэй байна	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	тэд хэр их мөнгө төлдөг вэ?	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	түүнд төлдөг	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	нэг аллага төлдөг	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	мэдээж ~аас багагүй	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	зуу гаруй зоос	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	Үүнийг битгий мартаарай ~	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	Тэр тэдний төлөө ажилладаг	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	хангалттай мөнгөтэй хүмүүст	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	түүнд төлөх	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	Венецид ~ байдаг	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	тэдгээр зүйлс	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	эдгээр зүйлсийг мартахын тулд	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	мартсан нь дээр юм	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	Хэрэв та тайван хооллохыг хүсч байвал	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	Талхаа тайван идээрэй	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	хэсэг чимээгүй болов	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	ба дараа нь	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	гэж гондолчин дахин ярив	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	Та яг цагтаа ирсэн	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	завины уралдаан үзэх	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	гэж хэн нэгэн сулхан хэлэв	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	гондолийн ойролцоо	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	хотын дарга	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	гэж үг дуугүй гондол руу заалаа	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	гэж гондолчин хэлэв	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	гээд найзынхаа гараас атгав	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	цаас шиддэг	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	цаасны саванд хийнэ	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	охид цаас шидэв	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	миний үзэг хаана байна	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	Би түүнд хариулахыг хүсч байна	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	нар алга болов	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	тэгээд одоо бараг харанхуй байна	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	идээрэй	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	талх идээрэй	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	хутганы хамт	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	Уучлаарай	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	үлдэхийг зөвшөөрдөг	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	Надад үлдэх эрх байхгүй	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	чи ~ авчирч чадах уу?	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	миний эгчээс	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	чи хэзээ худалдаж авсан бэ?	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	тэр хөгжмийн зэмсгийг худалдаж авсан	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	хамгийн сүүлд хэн ашигласан бэ?	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	миний түлхүүрийг ашигласан	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	жолоо барьсан уу?	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	Венецид	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	мөн гондолоор	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	чи унтаж чадах болов уу?	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	дараа нь чимээгүй байх үед	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	эрхэм өндөр байсан	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	өндөр, тарган	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	зузаан, хүнд	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	хүнд, том	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	өндөр, зузаан, хүнд, том байсан	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	хүч өгсөн	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	байх ёстой хүч	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	үнэ цэнэтэй биеийн хүч чадал	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	өгсөн	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	Түүнд өгсөн	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	энэ нь хүч чадал өгсөн	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	үнэ цэнэтэй биеийн хүчийг өгсөн	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	түүний гадаад төрх	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	өндөр хүний дүр төрх	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	жижиг үүрэг	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	үүрэг гүйцэтгэсэн	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	бага үүрэг биш	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	жижиг үүрэг гүйцэтгэсэн	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	бага үүрэг гүйцэтгэсэнгүй	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	үнэн хэрэгтээ ~	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	ард түмний дийлэнх нь	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	айхгүй бол	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	түүнээс айсан	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	хэрэв тэр айж байсан бол	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	түүнээс айхгүй бол	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	мэдээж хүндэлдэг	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	ядаж ~ тухай бодсон	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	өмнө ~	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	түүнийг хангахын тулд	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	түүний дургүйг хүргэх	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	сэтгэл хангалуун бус байхын өмнө ~	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	шийдвэр гаргахаас өмнө ~	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	дургүйцэхээр шийдэх ~	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	түүнийг хангахаар шийдэх	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	түүний дургүйг хүргэхээс өмнө	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	Энэ нь ашигтай	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	ихэвчлэн өдрийн цагаар ашигтай байдаг	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	таагүй таагүй байдал	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	өөрөө	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	таагүй таагүй байдлыг харуулдаг	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	тааламжгүй таагүй байдал гэж өөрийгөө харуулдаг	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	модоор дүүрэн газар	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	дараа нь, хэн нэг нь төөрөх үед	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	хүнлэг бус аглаг буйдад	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	замаас гарч эмх замбараагүй явна	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	өндөр том биетэй	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	давж чадсангүй ~	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	бутнуудын дунд	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	байгалийн зүйлд хүрэхээс гадна	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	ерөнхийдөө нойтон	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	нойтон байгалийн дунд	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	нойтон байгалийн зүйл, дунд нь ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	тэр хэцүүхэн алхав	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	энэ бол туршлага байсан	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	ховор биш	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	өвдөлттэй, үргэлж тааламжгүй байдаг	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	илүү ~	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	амьдралдаа урагшиллаа	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	цайзын ойд	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	урагшлах тусам дургүй болох ~	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	шөнийн шинж чанарт дургүй байв	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	тод харагдах нүдтэй хүн	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	сайн харж чаддаг нүд	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	харанхуйд сайн харах	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	Хэцүү замыг харлаа	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	манай үйлдвэрчнээс	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	гэж тэр инээмсэглэв	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	тэр хүний хажууд	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	цагдаагийн хувцастай	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	өөр хүн зогсож байв	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	ижил төстэй хувцастай	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	сүүлчийнх нь эмэгтэй байсан	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	явцгаая	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	гэж тэр хүн аяархан хэлэв	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	хамтрагчийнхаа чихэнд	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	одоо зөв мөч	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	хоёулаа тэр хүний зүг алхлаа	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	тэд хийхдээ болгоомжтой байсан ~	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	аль болох ~	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	аль болох бага дуу чимээ (kiel eble)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	аль болох бага дуу чимээ (laŭeble)	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	тэд бараг бүрэн амжилтанд хүрсэн	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	энэ таагүй нөхцөл байдалд	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	мод мөчрөө шидсэн таагүй нөхцөл байдал	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	өөрсдийн нойтон мөчрүүдийг шидсэн	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	шууд нүүр рүү	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	үйлдвэрчний	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	олон хөлт жижиг амьтад	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	хөлийг нь авав	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	явган замын хувьд	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	байгаль түүний хөлийг унагав	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	хамгийн их өвддөг	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	хөлөө нүхэнд унагав	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	усаар дүүрэн нүх	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	муухай үнэртэй ус	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	тэр бодолдоо хурдан оров	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	хүн бэлэн байх ёстой	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	энд	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	хэн ч ~	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	ямар ч таагүй учралд бэлэн	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	юу ч (юу ч байсан)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	тэр юу ч хүлээж байсан	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	хүний дуу хоолойноос гадна	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	дуу хоолой сонсогдоход, ~	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	тэр даруй ойрд сонсогдов	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	тэр газар дээр нь сайхан үсрэлт хийсэн	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	хэн түүний зүрх сэтгэлийг хөдөлгөв	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	аманд хүргэх	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	тайван байдлыг сэргээх оролдлоготой хамт	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	бага зэрэг тайван байдал	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	чийдэнгийн гэрэл	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	хэн нэгэн түүний нүд рүү шууд чиглүүлэв	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	хэн нэгний нүд рүү чиглүүлсэн чийдэн	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	эвлэрэхээс сэргийлсэн	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	түүнд ~ гэж санагдав	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	дэнлүүг барьж байсан хүний дүр төрх	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	цагдаа хувцас өмс	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	чи энд юу хийж байгаа юм?	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	эрх мэдэлтэй дуу хоолой сонсогдоно	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	ярина уу ~	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	бага зэрэг ойлгомжтой	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	гэж нөгөө нь хэлэв	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	бүр илүү чухал өнгө аясаар	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	Би алхаж байна	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	чи ферм дээр алхаж байна	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	гүнжийн тухай	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	гүнгийн ферм	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	шөнө дунд	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	Гүнж таныг урьсан уу?	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	тэр ~-ийн талаар мэдэх үү	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	Таны оршихуйн тухай	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	Таны энд байгаа байдал	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	Би чамаас асуух ёстой ~	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	намайг дагахыг гуйж байна	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	гэж тэр ~ гэж тайлбарлав	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	гэж тайлбарлав ~	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	буруу оролдлого хийснээс хойш	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	гүнжийг барих буруу оролдлого	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	~ улмаас	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	террористуудын улмаас	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	цагдаа нар сайтар шалгадаг	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	юу болж байгааг шалгадаг	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	хүрээлэн буй орчинд тохиолддог	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	цайзын	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	цайзын эргэн тойрон	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	үйлдвэрчин рүү	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	~ гэж санагдав	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	түүний зүрх энэ удаад унав	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	хөл дээрээ унав	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	тэр үүнийг мэдэж байсан ~	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	Тэр олохыг хичээх болно	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	хүлээн зөвшөөрөгдөхүйц тайлбарыг олох	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	өөрийн оршихуйн тухай	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	Гүнж бүх зүйлийг мэддэг гэсэн санаа	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	Энэ санаа нь түүнийг бага зэрэг найдваргүй болгосон	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	бага зэрэг найдвар	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	бага зэрэг найдвар үлдсэн	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	цагдаагийн эхний үгийн дараа	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	илүү ~ илүү их ~	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	урт байх тусмаа сайн	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	хичнээн ч хамаагүй	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	дөрөвний нэг цагийн өмнө	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	тэд буцаж ирэв	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	аймшигт золгүй явдлын дараа	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	хүмүүс явлаа	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	мөн хуучин хотууд нуран унав	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	бид тантай дахин уулзах ёстой	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	илүү олон удаа	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	Би бодож байна	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	миний уурлах тусам	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	тэр ~-д амьдардаг	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	аль ч байшинд	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	бид дахин уулзах уу?	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	хаана ч, хэзээ ч	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	би хэзээ буцаж ирэх вэ ~?	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	номын нөгөө тал нь	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	чамд ~ хэрэгтэй юу?	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	жилийн дөрөвний нэгээс илүү хугацаа шаардагдана	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	эдгээр ажлын хувьд	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	яагаад ~ гэж?	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	илүү хүйтэн	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	илүү урт	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	Бид хүлээж байна ~	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	~-д сэтгэл хангалуун байна уу?	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	ямар ч эрэгтэй хүнтэй	with any man	grupo	0    	0000-00-00 00:00:00

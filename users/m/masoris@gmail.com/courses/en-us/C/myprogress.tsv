@@ -118,7 +118,7 @@ soni	hodiaŭ	today	aujourd'hui	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hieraŭ	yesterday	hier	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	nur	only, just, exclusively	seulement, juste, exclusivement	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	helpi	to help, to aid, to assist	aider, aider, assister	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-soni	for	<adv> far, away	<adv>loin	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	for	<adverb> far, away	<adv>loin	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	nek	nor, neither	ni, ni l'un ni l'autre	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	malamo	a hate	une haine	AA	0    	0000-00-00 00:00:00
 soni	preskaŭ	almost, nearly	presque, presque	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -182,7 +182,7 @@ stomako	apud ~	<preposition> next to ~, beside ~	<prep>à côté de ~, à côté
 stomako	sub ~	<preposition> under, beneath ~	<prep>dessous, dessous ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	sur ~	<preposition> on ~	<prep>sur ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	je ~	<preposition> indefinate prep., at, in, by, on	<prep>préparation indéfinie, à, dans, par, sur	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ankoraŭ	<adv> still, yet	<adv>encore, encore	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ankoraŭ	<adverb> still, yet	<adv>encore, encore	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ĉirkaŭ ~	<preposition> around ~	<prep>autour de ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	sed	but	mais	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ie	somewhere	quelque part	KO,G1	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ stomako	merkredo	Wednesday	Mercredi	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	vendredo	Friday	Vendredi	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	fiŝkaptado	fish-catching, catching fishes	attraper du poisson, attraper des poissons	KO,G5,ZG	0    	0000-00-00 00:00:00
 glacio	ilustri	to illustrate	pour illustrer	NA,4H	0    	0000-00-00 00:00:00
-kiom	des	<adv> so much (more, less)	<adv>tellement (plus, moins)	G8	0    	0000-00-00 00:00:00
+kiom	des	<adverb> so much (more, less)	<adv>tellement (plus, moins)	G8	0    	0000-00-00 00:00:00
 veturi	sabato	Saturday	Samedi	G7,ZG	0    	0000-00-00 00:00:00
 stomako	ĵaŭdo	Thursday	Jeudi	KO,G5,4H,ZG	0    	0000-00-00 00:00:00
 stomako	mardo	Tuesday	Mardi	KO,G5,ZG	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ kanti	nordo	north	nord	NA	0    	0000-00-00 00:00:00
 stomako	kolekto	collection	collection	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	supro	a top, a summit	un sommet, un sommet	G4	0    	0000-00-00 00:00:00
 stomako	oriento	east	est	G4	0    	0000-00-00 00:00:00
-stomako	ju	<adv> the (more, less)	<adv>le (plus, moins)	KO,G6,4H	0    	0000-00-00 00:00:00
+stomako	ju	<adverb> the (more, less)	<adv>le (plus, moins)	KO,G6,4H	0    	0000-00-00 00:00:00
 veturi	sudo	south	sud	G8,ZG	0    	0000-00-00 00:00:00
 stomako	okcidento	west	Ouest	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	juĝi	to judge	juger	KO,G6,4H	0    	0000-00-00 00:00:00

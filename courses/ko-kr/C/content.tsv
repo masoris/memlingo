@@ -120,7 +120,7 @@ level	hodiaŭ	오늘	today	grupo	alternativoj	prononco
 level	hieraŭ	어제	yesterday	grupo	alternativoj	prononco
 level	nur	오직, ~만(뿐)	only, just, exclusively	grupo	alternativoj	prononco
 level	helpi	돕다	to help, to aid, to assist	grupo	alternativoj	prononco
-level	for	멀리, 먼곳에	<adv> far, away	grupo	alternativoj	prononco
+level	for	멀리, 먼곳에	<adverb> far, away	grupo	alternativoj	prononco
 level	nek	~도 아닌 (다른 부정사 뒤에 사용)	nor, neither	grupo	alternativoj	prononco
 level	malamo	증오	a hate	grupo	alternativoj	prononco
 level	preskaŭ	거의	almost, nearly	grupo	alternativoj	prononco
@@ -184,7 +184,7 @@ level	apud ~	<전치사> ~옆에, ~곁에, ~가까이에	<preposition> next to ~
 level	sub ~	<전치사> ~아래	<preposition> under, beneath ~	grupo	alternativoj	prononco
 level	sur ~	<전치사> ~면 위에	<preposition> on ~	grupo	alternativoj	prononco
 level	je ~	<전치사> 시간에, 다양하게 적용 가능한 전치사	<preposition> indefinate prep., at, in, by, on	grupo	alternativoj	prononco
-level	ankoraŭ	<부사> 아직, 지금도, 여전히	<adv> still, yet	grupo	alternativoj	prononco
+level	ankoraŭ	<부사> 아직, 지금도, 여전히	<adverb> still, yet	grupo	alternativoj	prononco
 level	ĉirkaŭ ~	<전치사> ~주위에, ~둘레에, ~사방에	<preposition> around ~	grupo	alternativoj	prononco
 level	sed	그러나	but	grupo	alternativoj	prononco
 level	ie	어딘가에	somewhere	grupo	alternativoj	prononco
@@ -625,7 +625,7 @@ level	merkredo	수요일	Wednesday	grupo	alternativoj	prononco
 level	vendredo	금요일	Friday	grupo	alternativoj	prononco
 level	fiŝkaptado	물고기낚시	fish-catching, catching fishes	grupo	alternativoj	prononco
 level	ilustri	그림으로 설명하다, 장식하다, 만화그리다	to illustrate	grupo	alternativoj	prononco
-level	des	그 만큼 (ju와 호응)	<adv> so much (more, less)	grupo	alternativoj	prononco
+level	des	그 만큼 (ju와 호응)	<adverb> so much (more, less)	grupo	alternativoj	prononco
 level	sabato	토요일	Saturday	grupo	alternativoj	prononco
 level	ĵaŭdo	목요일	Thursday	grupo	alternativoj	prononco
 level	mardo	화요일	Tuesday	grupo	alternativoj	prononco
@@ -729,7 +729,7 @@ level	nordo	북, 북쪽	north	grupo	alternativoj	prononco
 level	kolekto	수집	collection	grupo	alternativoj	prononco
 level	supro	정상, 꼭대기, 절정	a top, a summit	grupo	alternativoj	prononco
 level	oriento	동, 동쪽	east	grupo	alternativoj	prononco
-level	ju	(pli와 함께) ~ 하면 할수록 (ju pli)	<adv> the (more, less)	grupo	alternativoj	prononco
+level	ju	(pli와 함께) ~ 하면 할수록 (ju pli)	<adverb> the (more, less)	grupo	alternativoj	prononco
 level	sudo	남, 남쪽	south	grupo	alternativoj	prononco
 level	okcidento	서, 서쪽	west	grupo	alternativoj	prononco
 level	juĝi	재판하다, 판결을 내리다	to judge	grupo	alternativoj	prononco

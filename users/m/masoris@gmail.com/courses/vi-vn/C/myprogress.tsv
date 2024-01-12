@@ -118,7 +118,7 @@ soni	hodiaŭ	Hôm nay	today	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hieraŭ	Hôm qua	yesterday	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	nur	chỉ, chỉ, riêng	only, just, exclusively	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	helpi	giúp đỡ, giúp đỡ, hỗ trợ	to help, to aid, to assist	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-soni	for	<adv>xa	<adv> far, away	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	for	<adv>xa	<adverb> far, away	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	nek	cũng không	nor, neither	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	malamo	không thích	a hate	AA	0    	0000-00-00 00:00:00
 soni	preskaŭ	gần như, gần như	almost, nearly	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -182,7 +182,7 @@ stomako	apud ~	<giới từ>bên cạnh ~, bên cạnh ~	<preposition> next to ~
 stomako	sub ~	<giới từ>dưới, bên dưới ~	<preposition> under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	sur ~	<giới từ>trên ~	<preposition> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	je ~	<giới từ>chuẩn bị không xác định., tại, trong, bởi, trên	<preposition> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ankoraŭ	<adv>vẫn chưa	<adv> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ankoraŭ	<adv>vẫn chưa	<adverb> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ĉirkaŭ ~	<giới từ>xung quanh ~	<preposition> around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	sed	Nhưng	but	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ie	một vài nơi	somewhere	KO,G1	0    	0000-00-00 00:00:00
@@ -622,7 +622,7 @@ stomako	merkredo	Thứ Tư	Wednesday	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	vendredo	Thứ sáu	Friday	KO,G5,ZG	0    	0000-00-00 00:00:00
 glacio	fiŝkaptado	bắt cá, bắt cá	fish-catching, catching fishes	NA,4H	0    	0000-00-00 00:00:00
 kiom	ilustri	để minh họa	to illustrate	G8	0    	0000-00-00 00:00:00
-veturi	des	<adv>rất nhiều (nhiều hơn, ít hơn)	<adv> so much (more, less)	G7,ZG	0    	0000-00-00 00:00:00
+veturi	des	<adv>rất nhiều (nhiều hơn, ít hơn)	<adverb> so much (more, less)	G7,ZG	0    	0000-00-00 00:00:00
 stomako	sabato	Thứ bảy	Saturday	KO,G5,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ĵaŭdo	Thứ năm	Thursday	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	mardo	Thứ ba	Tuesday	KO,G5,ZG	0    	0000-00-00 00:00:00
@@ -726,7 +726,7 @@ stomako	nordo	phía bắc	north	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	kolekto	bộ sưu tập	collection	G4	0    	0000-00-00 00:00:00
 stomako	supro	đỉnh, đỉnh	a top, a summit	G4	0    	0000-00-00 00:00:00
 stomako	oriento	phía đông	east	KO,G6,4H	0    	0000-00-00 00:00:00
-veturi	ju	<adv>(nhiều hơn, ít hơn)	<adv> the (more, less)	G8,ZG	0    	0000-00-00 00:00:00
+veturi	ju	<adv>(nhiều hơn, ít hơn)	<adverb> the (more, less)	G8,ZG	0    	0000-00-00 00:00:00
 stomako	sudo	phía nam	south	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	okcidento	hướng Tây	west	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	juĝi	đánh giá	to judge	KO,G5	0    	0000-00-00 00:00:00

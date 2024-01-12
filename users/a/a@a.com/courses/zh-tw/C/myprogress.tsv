@@ -118,7 +118,7 @@ soni	hodiaŭ	今天	today	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hieraŭ	昨天	yesterday	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	nur	僅僅、僅僅、唯一	only, just, exclusively	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	helpi	幫助，幫助，協助	to help, to aid, to assist	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-soni	for	<adv>離這很遠	<adv> far, away	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	for	<adv>離這很遠	<adverb> far, away	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	nek	也不，也不	nor, neither	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	malamo	一個恨	a hate	AA	0    	0000-00-00 00:00:00
 soni	preskaŭ	幾乎，幾乎	almost, nearly	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -182,7 +182,7 @@ stomako	apud ~	&lt;前置詞&gt;旁邊～，旁邊～	<preposition> next to ~, b
 stomako	sub ~	&lt;前置詞&gt;下，下~	<preposition> under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	sur ~	&lt;前置詞&gt;上~	<preposition> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	je ~	&lt;前置詞&gt;不定的準備，在，在，在，之前	<preposition> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ankoraŭ	<adv>仍然，還	<adv> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ankoraŭ	<adv>仍然，還	<adverb> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ĉirkaŭ ~	&lt;前置詞&gt;周圍~	<preposition> around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	sed	但	but	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ie	某處	somewhere	KO,G1	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ stomako	merkredo	週三	Wednesday	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	vendredo	星期五	Friday	KO,G5,ZG	0    	0000-00-00 00:00:00
 glacio	fiŝkaptado	抓魚，抓魚	fish-catching, catching fishes	NA,4H	0    	0000-00-00 00:00:00
 kiom	ilustri	為了顯示	to illustrate	G8	0    	0000-00-00 00:00:00
-veturi	des	<adv>這麼多（多，少）	<adv> so much (more, less)	G7,ZG	0    	0000-00-00 00:00:00
+veturi	des	<adv>這麼多（多，少）	<adverb> so much (more, less)	G7,ZG	0    	0000-00-00 00:00:00
 stomako	sabato	週六	Saturday	KO,G5,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ĵaŭdo	週四	Thursday	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	mardo	週二	Tuesday	KO,G5,ZG	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ stomako	nordo	北	north	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	kolekto	收藏	collection	G4	0    	0000-00-00 00:00:00
 stomako	supro	一個頂峰，一個頂峰	a top, a summit	G4	0    	0000-00-00 00:00:00
 stomako	oriento	東方	east	KO,G6,4H	0    	0000-00-00 00:00:00
-veturi	ju	<adv>（多，少）	<adv> the (more, less)	G8,ZG	0    	0000-00-00 00:00:00
+veturi	ju	<adv>（多，少）	<adverb> the (more, less)	G8,ZG	0    	0000-00-00 00:00:00
 stomako	sudo	南	south	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	okcidento	西方	west	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	juĝi	判斷	to judge	KO,G5	0    	0000-00-00 00:00:00

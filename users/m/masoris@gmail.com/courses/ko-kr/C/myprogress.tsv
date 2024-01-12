@@ -118,7 +118,7 @@ soni	hodiaŭ	오늘	today	KO,G1,4H,ZG	10   	2025-02-09 16:55:24
 soni	hieraŭ	어제	yesterday	KO,G1,4H,ZG	10   	2025-02-09 16:56:24
 soni	nur	오직, ~만(뿐)	only, just, exclusively	KO,G1,4H,ZG	10   	2025-02-09 16:57:24
 kanti	helpi	돕다	to help, to aid, to assist	KO,G2,4H,ZG	10   	2025-02-09 16:58:24
-soni	for	멀리, 먼곳에	<adv> far, away	KO,G1,ZG	10   	2025-02-09 16:59:24
+soni	for	멀리, 먼곳에	<adverb> far, away	KO,G1,ZG	10   	2025-02-09 16:59:24
 soni	nek	~도 아닌 (다른 부정사 뒤에 사용)	nor, neither	KO,G1,4H,ZG	10   	2025-02-09 17:00:24
 amo	malamo	증오	a hate	AA	10   	2025-02-09 17:01:24
 soni	preskaŭ	거의	almost, nearly	KO,G1,4H,ZG	10   	2025-02-09 17:02:24
@@ -182,7 +182,7 @@ stomako	apud ~	<전치사> ~옆에, ~곁에, ~가까이에	<preposition> next to
 stomako	sub ~	<전치사> ~아래	<preposition> under, beneath ~	KO,G1,ZG	10   	2025-02-18 16:23:24
 stomako	sur ~	<전치사> ~면 위에	<preposition> on ~	KO,G1,4H,ZG	10   	2025-02-19 16:24:24
 stomako	je ~	<전치사> 시간에, 다양하게 적용 가능한 전치사	<preposition> indefinate prep., at, in, by, on	KO,G1,4H,ZG	10   	2025-02-19 16:25:24
-stomako	ankoraŭ	<부사> 아직, 지금도, 여전히	<adv> still, yet	KO,G1,4H,ZG	10   	2025-02-19 16:26:24
+stomako	ankoraŭ	<부사> 아직, 지금도, 여전히	<adverb> still, yet	KO,G1,4H,ZG	10   	2025-02-19 16:26:24
 stomako	ĉirkaŭ ~	<전치사> ~주위에, ~둘레에, ~사방에	<preposition> around ~	KO,G1,4H,ZG	10   	2025-02-19 16:27:24
 stomako	sed	그러나	but	KO,G1,4H,ZG	10   	2025-02-19 16:28:24
 stomako	ie	어딘가에	somewhere	KO,G1	10   	2025-02-19 16:29:24
@@ -623,7 +623,7 @@ stomako	merkredo	수요일	Wednesday	KO,G5,ZG	10   	2025-04-29 16:58:25
 stomako	vendredo	금요일	Friday	KO,G5,ZG	10   	2025-04-29 16:59:25
 glacio	fiŝkaptado	물고기낚시	fish-catching, catching fishes	NA,4H	10   	2025-04-30 17:03:25
 kiom	ilustri	그림으로 설명하다, 장식하다, 만화그리다	to illustrate	G8	10   	2025-04-30 17:04:25
-veturi	des	그 만큼 (ju와 호응)	<adv> so much (more, less)	G7,ZG	10   	2025-04-30 17:05:25
+veturi	des	그 만큼 (ju와 호응)	<adverb> so much (more, less)	G7,ZG	10   	2025-04-30 17:05:25
 stomako	sabato	토요일	Saturday	KO,G5,4H,ZG	10   	2025-05-01 16:22:25
 stomako	ĵaŭdo	목요일	Thursday	KO,G5,ZG	10   	2025-05-01 16:23:25
 stomako	mardo	화요일	Tuesday	KO,G5,ZG	10   	2025-05-01 16:24:25
@@ -727,7 +727,7 @@ stomako	nordo	북, 북쪽	north	KO,G6,4H	10   	2025-05-21 16:31:25
 stomako	kolekto	수집	collection	G4	10   	2025-05-21 16:37:25
 stomako	supro	정상, 꼭대기, 절정	a top, a summit	G4	10   	2025-05-21 16:38:25
 stomako	oriento	동, 동쪽	east	KO,G6,4H	10   	2025-05-21 16:39:25
-veturi	ju	(pli와 함께) ~ 하면 할수록 (ju pli)	<adv> the (more, less)	G8,ZG	10   	2025-05-21 16:40:25
+veturi	ju	(pli와 함께) ~ 하면 할수록 (ju pli)	<adverb> the (more, less)	G8,ZG	10   	2025-05-21 16:40:25
 stomako	sudo	남, 남쪽	south	KO,G6,4H	10   	2025-05-21 16:41:25
 stomako	okcidento	서, 서쪽	west	KO,G6,4H	10   	2025-05-21 16:48:25
 stomako	juĝi	재판하다, 판결을 내리다	to judge	KO,G5	10   	2025-05-22 16:44:25

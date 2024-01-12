@@ -1,0 +1,1354 @@
+level	mi, vi	I لك	I, you	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(الحاضر) هو، أنا، هم (الماضي) كان، كان	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	أنا ~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	أنت ~	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	مرحبًا	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	مرحباً، أنا ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	بلدي الخاص بك	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	اسم	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	اسمي، اسمك	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	اسمي ~	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	اسمك ~	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(الحاضر) يفعل، (الماضي) يفعل	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(الحاضر) كان، وكان (المستقبل) سيكون	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	اسم، اسم (موضوع).	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	حبيبي	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	أنت تفعل ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	كيف	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	كيف حالك؟	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	ماذا	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	ما اسمك؟	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	كذلك جيد	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	في حالة جيدة	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	أنا على ما يرام	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	و	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	بخير وأنت؟	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	حتى ~	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(الحاضر) يرى، (الماضي) رأى	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(الماضي) رأى، (الماضي) رأى مرة أخرى	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	رأى مرة أخرى، وسوف نرى مرة أخرى	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	الرؤية مرة أخرى، الرؤية مرة أخرى (الهدف)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	نراكم مرة أخرى!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	شكرًا لك	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	شكرا لك ونراكم مرة أخرى!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	إلى ~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	لك، لي	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(الحاضر) الشكر، (الماضي) الشكر	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	أنا أقدر لك	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	نعم / لا	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	نعم، أعتقد أنك	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	يأكل، سوف يأكل	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	أنا لا آكل	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	لا، أنا لا آكل	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	جميل، جميل	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	جدير بالاهتمام (النهاية)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	جدير بالتقدير، جدير بالشكر	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	ككل، ككل	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	الكل، (الهدف) الكل	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	لا على الإطلاق، فنحن نرحب بك	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	لا تماما	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	أن يغفر، وهو غفور	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	متسامح لي	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	أنا آسف! (اعذرني)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	رجاءا انا متأسف	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	صباح الخير	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	صباح الخير	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	طاب مساؤك	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	احلام جميلة	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	(أتمنى لك) رحلة سعيدة لك	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	يوم جيد!	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	هل هو ~ ؟	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	هل أنت بخير؟ (كيف حالك؟)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	نعم انا بخير	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	لا، على الاطلاق	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	كثيرا جدا	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	كبيرة إلى حد كبير	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	كبيرة جدًا، كبيرة جدًا	very big, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	انت تبي بلاء حسنا	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	ليس جيدًا جدًا	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	للتعلم، والتعلم	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	ينظر، متفرج	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	يتعلم، طالب (شخص يتعلم)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	هو -ing، الشخص الذي يفعل	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	طالب، شخص تعلم	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	أنا طالب.	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~ هو صديقي	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	هو هي	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	للجلوس، يجلس	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	يجلس، كان يجلس، سوف يجلس	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	إنه يجلس وهي تتعلم	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	غرفة	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	يتعلم في الغرفة	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	طالب ورياضي	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	رياضة ورياضي	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	الرياضي هو رياضي	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	هو طالب	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	إنه طالب ورياضي	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	وهو الآن جالس	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	ويتعلم الآن	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	يجلس ويتعلم	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	الآن في غرفة	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	على الطاولة	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	ورقة وأوراق	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	طاولة وطاولات	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	كتاب وكتب	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	الأوراق والكتب	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	إنه على الطاولة.	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	يكتب على طاولة الكتابة	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	الكتب هي ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	على الطاولة	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	الكتاب المدرسي والكتب المدرسية	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	على الطاولة هناك ~	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	الأب والأم	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	الأب والأم	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	والدة صديقي	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	في الغرفة	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	ليس في الغرفة	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	إنهم يعملون الآن	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	والده عامل	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	يعمل في فندق	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	الأم تعلم	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	هي معلمة	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	هل هي أم؟	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	لا، إنها صاحبة فندق	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	لا، أنا لا أعمل	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	ما أسمها؟	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	من يجيب الآن؟	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	لغة أمهم	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	اسمك ~ ؟	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	نحن نجلس ونجيب	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	كرسي عملها	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	اسمها ليس ~	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	لغتها هي لغتهم	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	ابونا وامنا	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	طالبك، طلابك	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	هل هم طلابك؟	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	هل أنت طالب؟	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	هل أنت في الغرفة؟	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	لست ~	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	اسبرانتية وأنثى اسبرانتية	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	تم تسجيل الوصول إلى غرفة الفندق	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	لغوية وعاملة	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	صديقته هي ~	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	الطلاب والرياضيين	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	اسم عائلتي هو ~	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	من هي؟ من هي؟	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	هل صديقتك	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	هل صديقك ~؟	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	يكتب الآن في الغرفة	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	هو صديق والدك ~؟	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	يعمل في فندق	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	ماذا يوجد على الطاولة؟	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	على الطاولة في غرفتنا	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	هو كتاب الاسبرانتو ~؟	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	على طاولتك	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	لديه صديق	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	اسمها ~	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	شابة وجميلة	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	شابة وجميلة	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	أصدقاء شابة وجميلة	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	هم أصدقاء من الذكور والإناث	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	منزل معلمتها	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	جاء إلى المنزل	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	منزل ~	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	تفضل بالدخول	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	مرحبا ماذا تفعل؟	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	ماذا تفعل؟ ماذا تفعل؟	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	ولكن الآن أريد ~	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	أريد أن أتكلم	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	مع ثلاثة أصدقاء من الذكور والإناث	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	تحدثت معك	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	يريد التحدث معك	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	هل لديك أصدقاء من الذكور والإناث	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	لديه كتاب	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	لديه كتاب جيد	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	نعم لدي	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	لقد احبوه	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	قرأت كتابا	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	يحب قراءة الكتب	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	كتاب جيد فقط	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	العديد من الكتب الجيدة	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	قراءة الكتب الجيدة فقط	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	يحب قراءة الكتب الجيدة	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	هل تريد أن تقرأ؟	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	الشاب يشرب القهوة	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	يريد أن يشرب الماء	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	الأب والأم. آباء	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	عناء وأخت، إخوة	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	والديك وإخوتك	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	هو في منزلك	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	هنا القهوة	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	لم يشرب بعد	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	لا يزال دافئا	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	طهيها أمس	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	لقد طهيت الآن	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	شكرًا لك. هكذا قال.	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	يمكن أن تشرب وتأكل	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	شربت القهوة الباردة	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	لا تزال القهوة دافئة	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	يشرب القهوة الباردة أيضا	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	ويمكن أيضًا شرب القهوة الباردة	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	ينظر إلى عينها	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	اجمل عيون	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	العيون الجميلة	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	بدت العيون الجميلة	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	عيونها الجميلة	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	يرى ويفهم	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	أرى أن ~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	أنه يحبها	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	تشعر أنه يحبها	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	يسأل ما إذا كان ذلك كبيرا	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	عن سؤال سهل	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	وقال عن المال الجديد	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	عيون جميلة جدا	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	بدا الأخ الأكبر	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	نسيت أخت صغيرة ذلك	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	حالة نصب (هدف)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	لا تنسى نهاية النصب	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	من ترى؟ أي واحد ترى؟	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	أرى صديقا	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	لديه أصدقاء جيدين من الذكور والإناث	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	إنهم يعملون في المنزل القديم	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	يعمل، يعمل، سوف يعمل	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	يرى أنني آكل	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	وقال أنه سوف يذهب	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	قبيحة وسيئة	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	ماذا قالت؟	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	ماذا تنتظر؟	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	ذهب إلى الغرفة	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	المحتوى صعب للغاية	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	وصل إلى الاجتماع	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	مرحبا بكم في الاجتماع	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	رجل عجوز أعطى نصيحة	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	وصل وكان موضع ترحيب	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	يكرهون ولكن يتعاونون	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	ذهب إلى الفندق	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	لديه كتب مدرسية سهلة	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	كيف كانت والدتك؟	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	منزلك القديم	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	ما الكتب التي قرأتها؟	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	هل كانوا جيدين؟	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	فعلت ماذا بالأمس؟	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	في الغرفة الصغيرة	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	تحدث لفترة طويلة جدا	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	أمام المدرسة، قبل المدرسة	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	تحدث قبل المدرسة	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	تحدث لاحقا عن الكتاب	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	ذهبت بكل سرور إلى المدرسة	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	من خلال الشارع	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	ذهب في الشارع	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	كان يوما دافئا	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	لقد رأوا مقهى&quot;	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	رأى ملفات تعريف الارتباط الحمراء	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	رأيت ملفات تعريف الارتباط فيه	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	رأيت مقهى وفيه ملفات تعريف الارتباط	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	ادخل وتناول الطعام!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	دعونا ندخل ونأكل	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	لديه ما يكفي من المال	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	هل لديك ما يكفي من المال؟	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	هل تفهم؟	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	بالطبع!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	هذا ليس كافيا	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	مائة دولار تكفي	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	دولار، دولار، دولار (هدف الجمع)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	لديه مائة دولار	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	بالطبع لدي	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	أوه! انت غنى!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	ماء، نادلة	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	النادل يجلب القائمة	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	جلبت لنا ذلك، جلبت ذلك	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	أحضر النادل الكثير من ملفات تعريف الارتباط	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	أكلوا بعض (قليلا)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	بعد الأكل (وجبة)	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	مرة اخرى	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	جاء النادل مرة أخرى	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	في مكان ما	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	قد بحثت في مكان ما	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	بحثت في مكان آخر	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	وكان وجهه فرحا	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	كانت حزينة	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	في النهاية وأخيرا في النهاية	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	صوتك القوي	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	بصوت ضعيف	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	ليس لديه المال	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	ماذا حدث هناك؟	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	وقع حادث في وقت لاحق	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	هل تعرف متى حدث ذلك؟	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	يعرف عن هذه المسألة	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	لا يزال هناك شيء واحد	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	أنت أو هي، أي شخص	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	مثل المغني، كموقع	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	غنى مثل مغني محترف	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	المكان الذي عاشت فيه	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	كيف تعرف عن السيارة؟	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	حسنًا، انظر إلى السيارة السريعة	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	عصير بدون سكر	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	لديه سيارة سريعة	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	بقوة كبيرة	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	لقد فتح بقوة	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	قاد (سافر) بسرعة كبيرة	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	أكلت بالملعقة	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	نحن نشك بقوة	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	رسالة حقيقية منه	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	رسالة حب بخمس صور	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	عاد الناس الذين عادوا	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	كما عادت ستة رسائل	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	أراد أن يرى الصورة	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	عاد من المدرسة	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	متى ستعود الأخت؟	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	أراد أن يقرأ مرة أخرى	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	صنع (فعل)، أصبح	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	أصبح أحمر بسرعة	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	في غرفة، في غرفة	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	وقفت وجلست	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	وقفت هناك أمام الصورة	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	عندي هذا	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	ماذا لديك في يدك؟	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	في الأمام أم في الخلف؟	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	قبل او بعد؟	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	هناك خلف الباب	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	الآخرين، أشخاص آخرين	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	رسائل من الآخرين	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	سقطت من اليد	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	على الطاولة، على الطاولة	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	سقطت على الطاولة	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	طلب العفو	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	كنت أبحث عن خمسة كتب	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	آسف، كنت أبحث عن كتابي.	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	لكنك تعلم جيدًا	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	ليس على طاولتي	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	كتبك ليست على طاولتي	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	أعطى مرة أخرى، عاد	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	أعد الرسالة لي	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	تلقى درسا جيدا	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	مزيد من غسلها، أكل أي أكثر من ذلك	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	لن يقرأ بعد الآن	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	تلقيت أيضا	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	يجب أن يغلق	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	لا بد لي من إغلاق جيد	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	أغلق الباب بإحكام	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	اهدأ، اهدأ	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	سمعت ولكن لم تستمع	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	سمعت صوتا هادئا	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	في وجهي، هناك 4 جيوب	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	بعد عشرة أيام من الدرس الأخير	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	بين الجدولين	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	ثلاثة أحرف وستة أوراق	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	من الرأس إلى القدم	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	أربعة، رابع، رباعي، ربع	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	أين ذهب الثلاثي	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	خمسة أصابع في كلتا يديه	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	بنفسه، وجيبه الخاص	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	وضع، تجميع، مركب	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	وضعه في جيبه الخاص	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	مائتي دولة في العالم	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	أخذ، أخذ بعيدا	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	أخذ سبعة من كتبه التسعة	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	للمغادرة، المهجورة	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	اتركني وشأني وهادئًا	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	ألف وثمانمائة وسبعة وثمانون (1887)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	كوب شاي	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	شخص ما غسل ثمانية أكواب	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	ألفين وتسعة عشر (2019)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	اغتسل	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	جسد المرء، ملكيته الخاصة	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	على الطاولة، نام القط	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	قفزت القطة على الطاولة	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	في القاعة، في القاعة	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	سقطت في يده	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	للعمل، للتفصيل	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	لتوضيح ذلك الكتاب	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	يعرف، يريد أن يعرف، الفضول	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	ثنائية اللغة، ثنائية اللغة	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	عجائب حول المتعلم ثلاثي اللغات	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	ذهب، عاد	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	عادت القطط إلى منازلهم	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	في الحقيبة، في الحقيبة	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	ضعه في حقيبتك	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	قدم، يمشي، أحد المشاة	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	مشوا لمدة عشرة أيام	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	ليأخذ، ليخرج	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	زهور جميلة، أخذت زهور جميلة	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	لقد أخرج الزهور الجميلة فقط	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	فتحت، ولكن أغلقت على الفور	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	افتتح اجتماعا دوليا	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	تم نشرها وتوزيعها	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	أصدر الناشر ثلاثة وعشرين كتابًا	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	عاد ورأى ابنه مرة أخرى	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	في عام ألفين وثلاثة وعشرين (2023)	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	دخل رجل (في) المتجر	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	مخزن السيارات	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	هناك يرى سيدة	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	السيدات والسادة الأعزاء	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	هذا أسعدني (أنا أحب ذلك)	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	أسعدته السيدة (كان يحب السيدة)	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	رأى السيدة الجميلة	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	من أسعده؟ (من كان يحب؟)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	المرأة التي أسعدتني	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	الذي دخل المنزل	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	الرجل الذي تبرع بها	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	أعطى خاتما لزوجته	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	لقد أحببت الخاتم	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	الزوجة التي أعجبت بالخاتم	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	بائع يعمل في المتجر	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	بائع سيارات	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	سأل الرجل البائع	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	أي سيارة تحب؟	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	أي سيارة سوف تختار؟	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	اخترت تلك السيارة	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	انه أفضل	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	أفضل من هذا	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	أفضل منهم	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	هو الأفضل	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	أي سيارة هي الأفضل؟	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	هذه السيارة أفضل	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	هذا هو الأفضل	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	رأى جميع السيارات	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	الأفضل على الإطلاق	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	هل هو سريع؟	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	أسرع من غيرها	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	هو أيضا قوي	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	نعم بالتأكيد!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	هو قوي جدا	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	بالتأكيد أنها قوية	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	باهظ الثمن أيضًا	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	أغلى من كل شيء	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	رخيصة ولكنها قوية	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	يشعر بالأسف ويثير الشفقة (يستحق الشعور بالأسف)	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	لسوء الحظ لن أشتري	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	هو شيء مؤسف	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	اشترى سيارة جديدة	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	لانني لا املك مال	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	سيارتي القديمة	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	أرخص للجميع	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	سأقود السيارة إلى هناك	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	سوف لا تزال تقود معها	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	طوال اليوم	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	بينما قال ذلك	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	نظر إليها مرة أخرى	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	لكن البائع قال	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	سيكون من الأفضل أن ~	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	انظر إلى هذه السيدة	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	وهذا أيضًا مكلف للغاية	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	أنا زوجها	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	كم تكلفة رحلتك؟	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	استمع إلى أغنية زوجتك	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	لا تنس أنه يكلف الكثير	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	لقد ساعد البائع لمدة ساعتين	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	لأكثر من ثلاث سنوات	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	غطاء، غطاء، كشف (اكتشف)	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	والسبب لم يكتشف بعد	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	لماذا بدأت بإرسال الرسائل؟	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	وعاش هناك لمدة ثمانية أشهر	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	لم يكن لدي الوقت للاستماع	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	كانت السيارة ممتلئة بالفعل	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	ماذا تأكل	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	ما هو حال الطقس؟	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	ما نوع السيارة التي تملكها؟	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	كيف كانت رسائلها؟	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	أين نحن؟	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	إلى أين أنت ذاهب ل؟	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	لمن أعطيته؟	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	الرجل الذي سافرت معه	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	أكبر من السيارة	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	أطول هؤلاء الناس	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	كان يجلس على العشاء	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	تكتب بينما يقرأ	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	هنا، في هذه الغرفة	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	هذا السيد	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	خبر يستحق الاستماع	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	الكتاب حقا يستحق القراءة	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	شيء مؤسف	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	لسوء الحظ، لا أستطيع	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	مرحباً بك. بكل سرور	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	فتاة جميلة صغيرة جميلة جدا	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	كل الأصدقاء يحبونها	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	قبل ثلاثة اشهر	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	حدث شيء سيء لها	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	سقطت بسبب سيارة	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	مرضت وارتفعت درجة الحرارة	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	قالت الأم أنها يجب أن ترتاح	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	عليها البقاء في المنزل	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	سوف تتصل بالطبيب	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	الساعة التاسعة	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	في الصباح جاء في الساعة الثامنة	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	في السابعة مساء الغد	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	أظهر يديه	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	اللباس، هو ارتداء الملابس	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	ارتدي ملابسك وقم بتدفئة جسمك	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	في المنزل على الفور خلع ملابسه واستحم	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	نظر الطبيب إلى كل شيء	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	بدا من خلال وقال أخيرا	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	البقاء في المنزل لمدة أسبوع	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	يريد منك أن تكون هادئا	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	بعد اسبوع واحد	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	ستشعر بتحسن	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	اشرب الكثير من الشاي	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	سوف يأتي لرؤيتك مرة أخرى	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	دعه يكون هادئا أيضا	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	رجل سليم، شخص سليم	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	اعتنى بنفسه	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	كان الأمر برمته مفيدًا لي في الحال	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	لاحظت أن الشيء الرهيب قريب	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	طلبت أن ألاحظ ذلك على الفور	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	يعتقد أن ذلك ليس ضروريا	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	عاش في مكان قريب، وكان ذلك مفيدا	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	بلادنا أصبحت مرعوبة اليوم	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	أبنائي الأعزاء من جميع العائلات	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	مرة بالأمس ومرتين غدا	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	اليوم تحتاج العائلات إلى الأطفال	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	وأعرب عن أمله في أن يكون جيدا غدا	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	كان يشعر (كان) هادئًا جدًا	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	ثلاثة صغار رفعوا الجبل	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	الأشخاص المهمون لم يطلبوا المساعدة	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	مشى هناك للمساعدة	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	البقاء في المنزل إذا كانت درجة الحرارة مرتفعة	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	ظلت درجة الحرارة مماثلة اليوم	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	اتصل بالطبيب في الساعة التاسعة	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	اعرضه على طبيبك	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	لإظهار قدمك	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	ارتداء هذا القميص	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	في عطلة نهاية الأسبوع سوف يهدأ كل شيء	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	تحت فنجان الشاي ماذا وجدت؟	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	أريد شاي الصباح	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	يأمل في أمسية هادئة	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	يريد أن تتعلم	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	أصر على أن أذهب	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	في اي ساعه؟	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	في السادسة سيأتي	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	كان النص ساحرًا	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	كن هادئاً	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	دعه يصمت	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	هو ايضا	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	أريد (الرغبة)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	أتمنى (الرغبة) أن ~	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	أن تتعلم	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	أريدك أن تتعلم	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	يصر الأب	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	يصر الأب على أن ~	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	أن أذهب	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	يصر الأب على أن أذهب	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	في اي ساعه	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	وقت ما أتيت؟	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	عند الساعة الخامسة)	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	عند الساعة الخامسة	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	كيف يفعل؟	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	كيف حالك مؤخرا؟	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	الكتب الصغيرة جميلة	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	كتيب، كتب جميلة	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	جميلة، جميلة قليلا، جميلة جدا	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	دافئ، فاتر، حار جداً	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	كتاب كبير، كتيب	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	جيد، عظيم، حسنا	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	غني، أصبح غنيا، شخصا غنيا	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	اهدأ، اهدأ، اهدأ	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	أصحاء، ليُشفى، يُشفى	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	الزوج، الزواج، متزوج	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	ساعي بريد الرسالة	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	وطن	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	إلى حد ما، قليلا	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	كان لدينا عشاء رائع	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	نأمل أن تعتني بنفسك	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	لقد اهتمت بالسكن عالي الجودة	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	فكر مرتين، عدة مرات	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	من أنزل الكتيب؟	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	قطة اسمها قيصر	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	الكعكة التي على الطاولة	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	تناول الكعكة الموجودة على الطاولة	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	أصبح ساخنا وأحمر الخدود	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	الأب يريد أن يأكل طفله	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	في غرفة صغيرة	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	نحن نعيش في ~	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	أصبحت قلقة	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	في ذلك الوقت عندما رأيتك	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	لاحظ الجميع ذلك	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	حقيقة أنها جميلة	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	هل تريد ذلك ~؟ (دزيري)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	لكي أعرض لكم	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	هل تريد مني أن تظهر؟	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	كتابي الجديد (الهدف)	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	صباح الغد، ماذا تريد؟	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	تناولت الفطور في وقت متأخر	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	متى سيصل مارك؟	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	في الساعة الخامسة أو الثامنة	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	متى لاحظت ذلك~؟	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	جميع أفراد الأسرة يدعوني بالمتبرع	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	مفيد لك	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	هل كان الكتيب مفيدًا؟	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	الكتيب الذي أرسلته	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	في الصباح ينام لفترة طويلة	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	عندما رأى الشمس	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	فجأة قفز	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	كان دائمًا مبكرًا	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	فهو دائما في وقت متأخر	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	في ذلك الوقت، عندما كان عليه أن يذهب	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	للذهاب إلى المدرسة	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	وهو يعلم أن ~	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	فهو يعرف الحقيقة، أن ~	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	حقيقة أن المعلم يكره النحل	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	يعرف حقيقة أن المعلم يكره النحل	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	يعلم أن المعلم يكره ذلك	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	لكنه اليوم شرب القهوة	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	يلبس الملابس بسرعة	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	لا يريد أن يتأخر	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	بسرعة كبيرة مع الكتب في متناول اليد	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	في وقت لاحق ركض وقفز	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	ركض وقفز	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	على طول الشارع	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	نظر الناس إليه	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	نظر إليه وقال	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	حكيم وأحمق	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	يا له من صبي أحمق!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	كان أمام المدرسة	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	قريباً	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	كان أمام ~	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	للذهاب والدخول	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	أراد الدخول	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	للدخول إلى المدرسة	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	ولكن مع ذلك	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	لكنه لم يستطع	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	لإغلاق وإغلاق	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	كان مغلقا	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	لا ~ ولا ~	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	لا المعلم ولا الطلاب والطالبات	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	لم ير معلما ولا طلابا	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	للجلوس، للجلوس	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	جلس (جلس)	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	جلس	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	والفكر	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	ماذا حدث؟	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	إلى الفظيعة (مثل الشيطان)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	السد عليه	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	يتذكر	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	الآن أتذكر	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	الأحد	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	اليوم هو ~	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	اليوم هو الأحد	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	للنوم والدخول في النوم	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	الشمس والقمر	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	فجأة وفجأة	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	عن! (للبدأ)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	للقفز والقفز	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	دائما في وقت مبكر	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	وضع اليوم وركض	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	شيء ليس العمر	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	ركض على طول الحكماء	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	فى اسرع وقت ممكن	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	يا له من صبي، يا لها من فتاة	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	لا يفكر ولا يحفظ	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	شيطان انتظر الماء يوم الأحد	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	هذه لحظة صغيرة	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	حتى هذه اللحظة الصغيرة تستحق العناء	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	بكى حتى الليل	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	ضع بريد البريد بعيدًا عن اليد	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	ضحك من تلقاء نفسه، ووضع بريد البريد جانبًا	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	لا هو ولا هي ضحكت	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	لم تضحك ولم تجب	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	لا يجلس ولا يتفرج	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	لم أرى أبدا	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	لن أخبر أحدا أبدا	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	لا تخبر احدا	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	لن أقول أبدا	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	لنفسه (بنفسه)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	أنا فعلت ذلك بنفسي	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	فعلت ذلك (جعلته)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	فعل ذلك بنفسه (صنعه بنفسه)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	أراك (مرة أخرى)، أراك (مرة أخرى)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	حتى! (مع السلامة!)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	لبدء الحديث	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	بدأ بالقول، بدأ يتكلم أخيرًا	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	شرب بسرعة كبيرة	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	تناول مشروب الصباح	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	أن يأتي مبكرا	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	للمجيء إلى المدرسة	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	أن يأتي في وقت مبكر إلى ~	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	لم أسمع أخبارا	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	لم أسمع بعد	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	لم أسمع بعد	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	في تلك اللحظة	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	في تلك اللحظة بكى	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	الصبي الذي لا يحب	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	الفتيان والفتيات	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	الفتيان والفتيات الآخرين	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	لا يحب الأولاد والبنات الآخرين	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	لا أصدقاء ولا أصدقاء فتاة	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	ليس لديه لا المال ولا الوقت	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	من كان لديه الكتاب؟	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	الكتاب الذي انتظرته	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	ذلك الذي انتظرته لأكثر من عامين	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	هل تريد ذلك؟	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	هل تريد ذلك ~؟	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	محبوب	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	أعز صورة	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	أعز صورة	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	من أين اشتريت ~؟	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	تلك الملابس	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	تلك الملابس (الهدف)	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	اشترى هذا الزي	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	سوف تذهب هناك	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	إلى أين أنت ذاهب ل؟	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	يوم مشمس	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	سيكون يومًا مشمسًا	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	إذا كان سيكون يوما مشمسا	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	وقد بدأ أخيك بالفعل	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	هل بدأ أخيك بعد؟	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	أين هي المياه	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	لجلب الماء	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	أنت نفسك جلبت	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	الماء الذي أحضرته بنفسك	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	كان هادئا جدا	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	اليوم كانت والدتي ~	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	جئت من ~	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	خارج المدرسة	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	أبلغ إلى ~	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	وأبلغت لها	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	ذكرت أن ~	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	وذكرت أنني سوف تتلقى	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	سأحصل على درجة سيئة	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	قالت ~	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	عليك أن تجعل ~ العمل	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	أكثر	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	لبذل المزيد من العمل	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	لجعل رأسك يعمل	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	كم عدد الدرجات السيئة	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	لديك الكثير من الدرجات السيئة	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	كان حزينا	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	في غرفتك	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	اذهب إلى غرفتك	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	اذهب وتعلم	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	جلست	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	في غرفتي	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	جلست في غرفتي	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	لا تعلم ولا تقرأ	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	لكنني لم أتمكن من التعلم ولا القراءة	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	افكاري	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	في لعبة	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	لعبة مع أصدقائي	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	في الرياضة	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	لنفسي	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	قلت لنفسي	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	غبي جدا	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	هل أنا بهذا الغباء؟	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	على الرغم من أنني تعلمت الكثير	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	دخلت الأم	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	كلماتي	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	وسمع كلامي	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	أجابت على الفور	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	لا، عزيزي	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	انت لست غبي	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	المشكلة هي أن ~	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	التي يجب أن تتعلمها	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	يجب أن نتعلم أكثر من ذلك بكثير	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	ثم لن يكون لديك	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	درجات سيئة	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	سيكون لها درجات سيئة فقط	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	الآن أيضا	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	ليس لدي لهم	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	لدي درجة جيدة	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	حول الموسيقى	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	ملاحظة جيدة على الموسيقى	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	انفجرت الأم فجأة بالضحك	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	التي تجمل ~	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	يومي	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	اسعدني	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	ولكن لا يزال قائما	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	ولكن المشكلة لا تزال قائمة	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	كيلو جرام ~	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	كيلوغرام من السكر	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	كوب من ~	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	كأس من الماء	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	الكثير من ~	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	الكثير من الأفكار	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	لابعاد	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	فرز كل شيء	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	سلمت له	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	انا اسأل	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	كوب من القهوة	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	وبعض الماء	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	أريد كوباً من القهوة	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	أريد فنجانا من الشاي	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	يؤذيه	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	رأسه يؤلمه	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	لقد مرض	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	يحب أن يكون جميلا	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	جمّلت وجهها	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	الصبي يحب أن يكون جميلا	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	لذلك زينته	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	بعد الغداء	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	لتنظيف المطبخ	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	من سينظف المطبخ؟	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	يريد أن يشرب	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	ماذا تريد أن تشرب	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	لشرب الشاي	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	القليل من الماء	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	هل تريد شيئا؟	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	فجأة	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	لماذا قررت~؟	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	لماذا قررت ~ فجأة؟	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	غرفتك	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	غرفتك الصغيرة	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	إلى غرفتك الصغيرة	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	لتجديد غرفتك الصغيرة	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	قررت تجديد غرفتك الصغيرة	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	إلى من	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	أعطيتك ~	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	لمن اهديت~؟	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	نظارات نظيفة	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	لقد أعطيت النظارات النظيفة	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	الكؤوس النظيفة للنبيذ	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	ضده	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	ناديك الرياضي	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	يلعب ضد ~	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	قبل اسبوعين	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	ضد من لعب ناديك الرياضي؟	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	هل ترى ~؟	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	هل ترى في كثير من الأحيان ~؟	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	كثيرا ما نرى الشرطي	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	الذي يعيش في ~	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	يعيش في مكان السكن	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	مسكن فوقك	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	يرى ضابط الشرطة الذي يعيش في ~	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	خطة القيادة	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	أراد السفر	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	للسفر إلى بلد آخر	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	في وقت الفراغ	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	قرروا الذهاب	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	قررت الذهاب إلى إيطاليا	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	المدن القديمة	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	بلد مع المدن القديمة	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	الجمال الأخرى	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	وغيرها من الجمال	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	بلد جميل مع المدن القديمة والجمال الأخرى	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	كانوا سعداء	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	أين ~ ؟	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	اين ملابسي	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	سألت ~	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	دعونا لا ننسى أن نحضر ~	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	لأخذ الكتاب معك	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	كتاب لتعلم الاسبرانتو	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	لحمل كتاب للتعلم	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	يمكننا أن نبدأ ~	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	في القطار	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	بالفعل في القطار	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	لن نفعل أي شيء	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	بواسطة السيارة	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	سوف نقود بواسطة ~	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	سوف يقود سيارة	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	لدي سر	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	عمي الغني	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	امنيتي	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	حققت رغبتي	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	قدم لنا	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	سيارته	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	واعطانا سيارته	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	للاستخدام	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	يقف أمام ~	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	يقف أمام المنزل	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	يجب أن أقول ~	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	لا تقل شيئا	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	لنجلس	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	اركب السيارة	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	للقيادة إلى ~	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	والقيادة إلى إيطاليا	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	جلس في السيارة	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	أيضا الملابس	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~ كان في السيارة	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	لا يزال يجلس وينتظر	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	لكنه انتظر	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	لماذا لا نفعل ~ ؟	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	لماذا لا نبدأ القيادة؟	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	لدي ~ أيضا	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	سيقود السيارة	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	لكنني لا أعرف ~	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	لم أتعلم ذلك قط	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	سأصدق ~	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	لو كنت بصحة جيدة	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	سأكون سعيدا جدا	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	كما لو كنت غنيا	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	تجلس هناك كما لو كنت رجلاً غنياً	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	المدرسة المزعومة	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	مثل رجل ثري	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	تجلس هناك مثل رجل غني	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	الكثير من المال	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	الكثير من المال مثل الأفكار	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	لو كان لدي هذا القدر من المال	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	سأسافر	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	حول العالم	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	في كل قاموس	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	شئ مفقود	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	بعض الكلمات مفقودة	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	رجل تكلم مطولا	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	على طاولة الطعام	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	الشخص الذي يخبر سيبقى جائعا	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	يستمر في الحديث على طاولة الطعام	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	كان عليه أن ينتبه إلى ~	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	لم يسمح ل~	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	سمح له بالبقاء	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	لم يسمح له بالبقاء طويلا	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	للبقاء خارجا تحت المطر	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	لهذا السبب أصيب بنزلة برد	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	لديه فكرته الواضحة	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	لكنه سيصدق كل شيء	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	أيا كان ما تقوله	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	كما لو كنت زوجته	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	والديك	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	لتسعد والديك	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	ماذا يمكن أن يرجى ~ ؟	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	ما الذي يمكن أن يجعل والديك أكثر سعادة؟	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	بعد التعلم	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	على الأقل بعد التعلم	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	في وسط المدينة	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	إذا كنت سوف تذهب معي	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	إذا ذهبت معي إلى وسط المدينة	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	أين تريد السفر؟	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	لو كان لديك ~	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	ما يكفي من المال	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	إذا كان لديك ما يكفي من المال ودرجة الحرارة	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	هل تخطط ل~؟	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	تخطط للسفر إلى باريس	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	للقيادة مع axuto	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	أفضل بكثير	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	يبدو أفضل بكثير	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	بالقطار	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	أم لا يبدو أنه أفضل بكثير؟	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	مختلف الناس	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	لماذا يشرح الناس بطرق مختلفة؟	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	نفس الأفكار	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	يشرح نفس الأفكار	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	أفراد الأسرة يجتمعون	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	كيف بسرعة	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	تمر الأيام	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	ما أسرع مرور الأيام!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	غدا سيكون ~	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	عيد ميلاد والدك	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	العديد من أفراد الأسرة	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	سيأتي العديد من أفراد الأسرة	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	والأصدقاء	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	من فضلك ~؟	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	هل يمكنك المساعدة قليلا؟	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	بعض الوقت	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	تجد القليل من الوقت	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	لترتيب غرفتك	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	على الأقل لترتيب غرفتك	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	أود ~	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	أود طهي شيء ما	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	شيء جيد	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	طهي شيء جيد	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	لكعكة عيد الميلاد	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	نقص الحليب	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	في البيت	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	فمن الضروري شراء ~	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	بعض الطعام	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	من متجر	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	للحصول على بعض الطعام من المخبأ	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	سأقوم بالتسوق	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	لعيد الميلاد	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	بدلا من الجلوس والأكل	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	الناس مثيرة للاهتمام	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	مع أفراد الأسرة غير مهتمين	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	أود أن أذهب في نزهة	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	مع أعضاء النادي	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	مع أي أعضاء النادي؟	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	قال الأب	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	نوع من الورق، نوع من الأوراق	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	في حقيبة	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	في سلة الورق	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	ألقى الأوراق في صندوق الورق	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	ألقى بعض الأوراق في صندوق الورق	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	غدا باكرا	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	أعضاء ناديي الرياضي	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	عزيزي	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	هل هذا صحيح؟	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	يجب أن تكون غائبا	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	أليس كذلك ~ ؟	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	زملائك أعضاء النادي	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	ترى بعضكما البعض مع زملائك أعضاء النادي	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	ثلاث مرات في الاسبوع	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	هل لي ~ ؟	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	لديه الحق في اقتراح شيء ما	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	سوف آكل مع أفراد الأسرة	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	ولكن في الجزء الثاني	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	سأذهب مع أصدقائي	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	سوف نتحدث عن ~	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	محرك فاشل	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	سيتحدث بالتأكيد عن محرك الأقراص الفاشل	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	بعد الكعكة	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	لا أريد ذلك بعد الآن	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	يريد أن يسمع ذلك	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	لماذا ليس لدينا ~ ؟	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	عم غني بالأفكار	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	لديه فكرة عمه الغني	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	في عائلتي	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	ابتسمت الأم	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	عند كلماته	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	إنها تعرف ذلك ~	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	يتحدث قليلا كثيرا	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	لا يكفي فقط ~	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	ثروة من الأفكار	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~ مطلوب أيضا	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	محفظة كاملة لتحقيق ذلك	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	وتابعت الأم ~	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	بعد قليل من الصمت	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	قبل عدة دقائق	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	دعت آنا أنها ~	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	سوف تزورنا أيضًا	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	كعكة حلوة	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	إنها حقا تحب الكعكة الحلوة	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	يحرص على عدم الحصول على الدهون	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	على الرغم من أنها سوف تولي اهتماما	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	غيرت رأيي على الفور	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	خلال الرحلة	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	بدونها	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	سيكون وحيدا جدا	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	سوف تمر بالرغم من ذلك	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	سأقضي غدًا في المنزل بالرغم من ذلك	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	في الشباب	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	واحد لديه	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	لديها أيضا الجمال	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	وظائف معقدة	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	وظائف معقدة (الهدف)	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	ينبغي تبسيط	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	في هذه السن	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	لقد أصبح بالفعل ~	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	رئيس النادي الرياضي	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	واحد يضع المال	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	في المحفظة	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	يضع في المحفظة	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	اتبع الأمثلة	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	من افراد العائلة الطيبة	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	هل الصداقة تجعلك أكثر سعادة؟	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	يجعلك سعيدا	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	من الحب	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	كم مرة ~؟	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	تكتب رسائل إلى ~	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	يكتب رسائل إلى صديقاتك الفتاة	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	صديقاتك في إيطاليا	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	العلاقة بينك وبين معلمك	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	هل تغيرت العلاقة؟	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	هل تعلم ~ ؟	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	جيد جدا	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	كان المساء في ~	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	مئات الأشخاص	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	يملأ الساحة	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	الشباب والجنود	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	البحارة من السفن	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	سيدة متميزة	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	السيدات المتميزات	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	المسافرين الأجانب	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	الجميع ينتقل إلى وسط المدينة	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	ابعد قليلا	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	ليس بعيدا عن البحر	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	كان هناك مربع صغير	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	أبعد قليلا ولكن ليس بعيدا	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	في نهاية الأمر	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	قرب البحر	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	وقف رجل في مكان قريب	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	وفقا للملابس	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	يمكن للمرء أن يعرف بسهولة ~	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	كان من الممكن معرفة ذلك ~	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	جندول رجل ثري	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	يمكن أن تكتشف أنه كان قائد الجندول	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	بدا ~	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	نظرت إلى الحشد البهيج	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	أضاءت ابتسامة وجهه	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	عندما رأى بحارا	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	البحار الذي وصل	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	جانب البحر	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	وصل من جانب البحر	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	هل هذا أنت يا ستيفن؟	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	صاح الجندول	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	الجميع يقول ذلك ~	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	في أيدي الأتراك	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	أنك وقعت في أيدي الأتراك	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	التقينا واحدا	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	من سفننا	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	لقد تبعتنا	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	لأكثر من ساعة	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	ولكن ليس من السهل أن تذهب ~	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	للذهاب أسرع من سفينتنا	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	ما الأخبار هنا؟	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	هنا في البندقية	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	لاشيء هام	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	مجرد مصيبة كبيرة	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	هل تعرف بيترو؟	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	أنا أعرفه	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	غمرت سفينة كبيرة جندوله	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	وماذا عنه؟	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	غرق الجندول	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	حدث أن ~	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	كنا قريبين	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	أخذناه في جندولنا	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	في نفس الوقت	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	غرق رئيسي	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	لمساعدة امرأة شابة	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	شابة كادت أن تموت	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	مع عمه	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	كاد أن يموت مع عمه	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	كانت هناك امرأة شابة	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	لم نتمكن من مساعدته	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	كان شخصا مهما	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	ما الذي أتى بك إلى البندقية؟	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	صديقي	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	نظر البحار للأعلى	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	ألقى نظرة سريعة على صديقه	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	وبدأ يقول	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	حتى تعلم ~	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	أحضرت ~	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	أوقفه سائق الجندول فجأة	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	هو قال	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	ثم مر رجل	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	مر عليه رجل	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	لم يكن قد بلغ الثلاثين بعد	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	وكان وجهه عديم اللون	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	كانت ذهابه مؤكدة وسهلة	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	كان وجهه حزينا	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	فلما رأى الرجل ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	يقال أن ~	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	العديد من الأشخاص المهمين يعطون ~	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	عمل سري	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	وظائف سرية	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	يعطي وظائف سرية له	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	الكثير من الأسرار	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	فهو يعرف الكثير من الأسرار	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	لذلك هم خائفون	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	لإرساله إلى السجن	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	قال البحار	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	وكما تكلم	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	وأشار إلى القصر	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	قصر دوجي	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	يحتاج العديد من الأشخاص المهمين إلى مساعدته	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	كم يدفعون؟	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	يدفع له	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	يدفع ثمن قتل واحد	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	بالتأكيد ليس أقل من ~	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	من مائة قطعة نقدية	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	لا تنسى ذلك ~	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	بأنه يعمل لصالحهم	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	لأولئك الذين لديهم ما يكفي من المال	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	لدفع له	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	في البندقية هناك ~	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	هذه الأشياء	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	لننسى تلك الأشياء	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	الأشياء التي من الأفضل نسيانها	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	إذا كنت تريد أن تأكل في سلام	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	لتأكل خبزك بسلام	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	كان هناك بعض الصمت	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	و لاحقا	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	تحدث الجندول مرة أخرى	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	لقد جئت في الوقت المناسب	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	لرؤية سباق القوارب	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	وقال شخص ضعيف	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	بالقرب من الجندول	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	عمدة المدينة	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	وأشار بصمت إلى الجندول	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	- قال الجندول	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	وأخذ يد صديقه	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	يرمي الورقة	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	في سلة الورق	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	ألقت الفتيات الأوراق	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	اين قلمي	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	أريد أن أجيب عليه	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	اختفت الشمس	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	والآن أصبح الظلام تقريبًا	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	من فضلك تناول الطعام	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	من فضلك أكل الخبز	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	مع أدوات المائدة	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	اعذرني	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	يسمح له بالبقاء	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	ليس لدي الحق في البقاء	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	هل يمكنك إحضار ~؟	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	من أختي	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	متى اشتريت ~؟	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	اشترى تلك الآلة الموسيقية	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	من استخدم الأخير؟	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	استخدمت مفتاحي	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	هل قمت بالقيادة؟	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	في البندقية	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	أيضا عن طريق الجندول	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	هل ستكون قادرا على النوم؟	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	ثم، عندما كان هناك صمت	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	كان الرجل طويل القامة	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	الدهون طويل القامة	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	سميكة وثقيلة	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	ثقيلة وكبيرة	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	كان طويلًا وسميكًا وثقيلًا وكبيرًا	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	أعطى القوة	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	قوة تستحق الحصول عليها	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	القوة البدنية تستحق الحصول عليها	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	الذي أعطى	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	أعطه	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	التي أعطت القوة	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	أعطى قوة الجسم تستحق الحصول عليها	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	ظهوره	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	مظهر شخص طويل القامة	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	دور صغير	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	لعبت دورا	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	ليس دورا صغيرا	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	لعبت دورا صغيرا	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	لعبت أي دور صغير	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	في حقيقة أن ~	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	غالبية الناس	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	إذا لم يكن خائفا	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	كان خائفا منه	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	إذا كان خائفا	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	إذا لم يكن خائفا منه	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	بالتأكيد محترم	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	على الأقل فكرت ~	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	قبل ~	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	لإرضائه	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	لإزعاجه	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	قبل عدم الرضا ~	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	قبل أن تقرر ~	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	لتقرر استياء ~	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	لتقرر إرضائه	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	قبل أن تقرر إغضابه	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	ذلك، وهو مفيد	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	غالبا ما تكون مفيدة خلال النهار	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	إزعاج غير سارة	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	بنفسه	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	يمثل إزعاجا غير سارة	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	يقدم نفسه على أنه مصدر إزعاج غير سارة	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	في مكان مليء بالأشجار	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	ثم عندما ضل أحد	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	في برية غير إنسانية	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	ويخرج عن الطريق في حالة من الفوضى	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	جسم كبير طويل القامة	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	فشل في المرور ~	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	بين الشجيرات	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	بالإضافة إلى لمس الأشياء الطبيعية	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	الرطب عموما	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	وسط الطبيعة الرطبة	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	الأشياء الطبيعية الرطبة، في وسطها ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	كان يمشي بصعوبة	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	لقد كانت تجربة	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	ليس مكرر	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	مؤلمة وغير سارة دائما	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	المزيد ~	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	تقدمت في الحياة	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	في غابة القلعة	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	كلما تقدمت للأمام كلما لم يعجبك ~	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	لم يعجبني الطبيعة الليلية	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	رجل ذو عيون يمكن رؤيتها بوضوح	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	العيون التي يمكن أن ترى جيدا	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	لرؤية جيدة في الظلام	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	نظرت إلى الذهاب الصعب	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	من الصناعي لدينا	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	ابتسم	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	بجوار ذلك الرجل	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	في ملابس الشرطي	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	كان هناك شخص آخر يقف	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	في ملابس مماثلة	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	الأخيرة كانت امرأة	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	دعنا نذهب	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	قال الرجل بهدوء	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	في أذن رفيقه	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	الآن هي اللحظة المناسبة	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	كلاهما خطا نحو الشخص	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	كانوا حريصين على القيام ~	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	قدر الإمكان ~	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	أقل قدر ممكن من الضوضاء (kiel eble)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	أقل قدر ممكن من الضوضاء (laŭeble)	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	لقد نجحوا بشكل كامل تقريبًا	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	في هذا الوضع السيئ	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	وضع سيئ حيث ألقت الأشجار فروعها	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	ألقوا فروعهم الرطبة	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	مباشرة في الوجوه	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	من الصناعي	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	مخلوقات صغيرة متعددة الأقدام	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	أخذ قدميه	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	لطريق المشي	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	الطبيعة جعلت قدمه تسقط	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	الأكثر إيلاما	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	أسقط قدمه في الحفرة	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	حفرة مملوءة بالماء	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	مياه ذات رائحة كريهة	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	وصلت بسرعة إلى الفكر	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	يجب على المرء أن يكون جاهزا	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	هنا	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	أي شخص ~	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	جاهز لأي لقاء غير سار	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	أي شيء (مهما كان)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	كان ينتظر أي شيء	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	جانبا من صوت الإنسان	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	عندما سمع صوت، ~	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	سمعت قريبة على الفور	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	لقد قام بقفزة لطيفة في الموقع	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	الذي حرك قلبه	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	يصل إلى الفم	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	مع محاولة استعادة الهدوء	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	القليل من الهدوء	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	ضوء المصباح	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	شخص موجه مباشرة إلى عينيه	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	المصباح الذي يوجهه أحد إلى عينيه	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	منعت المصالحة	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	بدا له أن ~	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	الشكل البشري الذي كان يحمل المصباح	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	ارتداء ملابس الشرطة	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	ما الذي تفعله هنا؟	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	يبدو الصوت الرسمي	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	من فضلك تحدث ~	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	واضح قليلا	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	قال الآخر	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	بلهجة أكثر أهمية	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	أنا أمشي	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	أنت تمشي في المزرعة	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	من الكونتيسة	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	مزرعة الكونتيسة	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	في منتصف الليل	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	هل دعتك الكونتيسة؟	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	هل تعرف عن ~	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	عن حضورك	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	وجودك هنا	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	يجب أن أسألك ~	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	يطلب منك أن تتبعني	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	وأوضح ~	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	وأوضح أن ~	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	منذ المحاولة الخاطئة	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	المحاولة الخاطئة للقبض على الكونتيسة	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	بسبب ~	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	بسبب الإرهابيين	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	الشرطة تتحقق بعناية	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	يتحقق ما يحدث	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	يحدث في المناطق المحيطة	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	من القلعة	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	محيط القلعة	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	إلى الصناعي	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	يبدو أن ~	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	سقط قلبه هذه المرة	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	سقط على قدميه	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	كان يعلم ذلك ~	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	من الصعب فقط أنه سيحاول العثور عليه	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	للعثور على تفسير مقبول	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	عن حضور المرء نفسه	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	فكرة أن الكونتيسة تعرف كل شيء	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	لقد حرمته الفكرة من القليل من الأمل	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	أمل ضئيل	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	القليل من الأمل الذي بقي	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	بعد الكلمات الأولى للشرطة	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	كلما زاد ~ كلما ~	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	كلما كان ذلك أفضل	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	لا يهم كم	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	منذ ربع ساعة	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	لقد عادوا	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	بعد المصيبة الرهيبة	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	غادر الناس	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	وانهارت المدن القديمة	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	يجب أن نراكم مرة أخرى	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	في كثير من الأحيان	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	انا افكر	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	كلما زاد غضبي	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	تعيش في ~	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	في أي منزل	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	هل سنرى بعضنا البعض مرة أخرى؟	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	أينما ومتى	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	متى سأعود~؟	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	النصف الآخر من الكتب	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	سوف تحتاج ~ ؟	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	يحتاج لأكثر من ربع سنة	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	لتلك الوظائف	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	لماذا ~ ؟	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	أكثر برودة	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	الأطول	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	نحن ننتظر ~	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	هل أنت راضي عن ~؟	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	مع أي رجل	with any man	grupo	0    	0000-00-00 00:00:00
