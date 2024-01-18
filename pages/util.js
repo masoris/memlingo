@@ -2,7 +2,19 @@ function $(id) {
     return document.getElementById(id);
 }
 
-
+function lang_display() {
+    var selected_lang = localStorage.getItem("lang");
+    const rtl_langs = ["fa", "ur", "he", "ar"];
+    localStorage.lang = selected_lang;
+    if (rtl_langs.includes(selected_lang)) {
+        $("html").dir = "rtl";
+    }
+    else {
+        $("html").dir = "ltr";
+    }
+    console.log("lang_display")
+    display_message();
+}
 
 var is_playing = false;
 function play_sound_url(url) {
@@ -178,6 +190,7 @@ function add_carditem(carditem) {
 function get_course_info(update_course_info) {
     const email = localStorage.getItem("email");
     const lang = localStorage.getItem("lang");
+    console.log("get_course_info1");
 
     var jsonStr = JSON.stringify({ email: email, lang: lang });
     postAjaxRequest('/api/get_course_info.api', jsonStr, function (responseJSONStr) {
@@ -186,6 +199,7 @@ function get_course_info(update_course_info) {
         if (responseObj['resp'] == "OK") {
             localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
             update_course_info();
+            console.log("get_course_info2");
             display_message();
         } else {
             alert('Error' + responseJSONStr);

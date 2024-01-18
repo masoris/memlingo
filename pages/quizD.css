@@ -85,10 +85,9 @@ img.ic_close_gray {
     top: 39px;
 }
 
-.Area2 {
-    /* width: 320px; */
-    /* height: 40px; */
-    /* margin: 0 0 2px; */
+[dir="rtl"] .Select-what-you-hear {
+    left: auto;
+    right: 2%;
 }
 
 .Rectangle-speaker {
@@ -101,6 +100,11 @@ img.ic_close_gray {
     /* left: 280px; */
     right: 2%;
     top: 56px;
+}
+
+[dir="rtl"] .Rectangle-speaker {
+    right: auto;
+    left: 2%;
 }
 
 .mi-vi {

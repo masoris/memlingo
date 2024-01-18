@@ -73,6 +73,11 @@ img.ic_close_gray {
     top: 53px;
 }
 
+[dir="rtl"] .Match-correct-pairs {
+    left: auto;
+    right: 2%;
+}
+
 .RectangleN {
     width: calc(50% - 2% - 5px);
     height: 120px;

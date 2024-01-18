@@ -43,6 +43,11 @@ body {
     right: 2%;
 }
 
+[dir="rtl"] #speaker {
+    right: auto;
+    left: 2%;
+}
+
 .Select-what-you-hear {
     /* width: 320px; */
     height: 30px;
@@ -58,6 +63,11 @@ body {
     position: absolute;
     left: 2%;
     top: 61px;
+}
+
+[dir="rtl"] .Select-what-you-hear {
+    left: auto;
+    right: 2%;
 }
 
 .Area2 {

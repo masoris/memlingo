@@ -150,7 +150,7 @@ window.onload = function () {
     }
 
     // display_language_str();
-    display_message();
+    // display_message();
 
     $('btn_quit').onclick = function () {
         window.location.href = "./user-courses.html";
@@ -198,6 +198,8 @@ window.onload = function () {
     $('block_3').style.backgroundColor = default_color;
     $('block_4_border').style.borderColor = default_color;
     $('block_4').style.backgroundColor = default_color;
+
+    lang_display();
 };
 
 

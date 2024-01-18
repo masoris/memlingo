@@ -19,6 +19,10 @@ body {
     width: 96%;
 }
 
+[dir="rtl"] .Rectangle-lang {
+    right: 4%;
+}
+
 #lang {
     width: 96%;
     font-size: 16px;
@@ -46,23 +50,28 @@ img.logo_subtitle {
     position: relative;
 }
 
+[dir="rtl"] img.logo_subtitle {
+    right: 2%;
+}
+
 .Enter-your-e-mail-ad {
     width: 96%;
-    /* height: 60px; */
-    /* margin: 133px 0px 8px 0px; */
     font-family: Arial, sans-serif;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
-    /* line-height: 1.25; */
     letter-spacing: normal;
     color: #fff;
     left: 2%;
     position: relative;
-    /* top: -80px; */
     display: block;
 }
+
+[dir="rtl"] .Enter-your-e-mail-ad {
+    right: 2%;
+}
+
 
 .Saman-ret-adreson-du {
     width: 96%;
@@ -79,6 +88,11 @@ img.logo_subtitle {
     display: block;
     position: relative;
     left: 2%;
+}
+
+[dir="rtl"] .Saman-ret-adreson-du {
+    right: 2%;
+    align-content: right;
 }
 
 .Rectangle1 {
@@ -131,6 +145,10 @@ img.logo_subtitle {
     position: relative;
 }
 
+[dir="rtl"] .Rectangle3 {
+    right: 2%;
+}
+
 .Learn-Esperanto-by-E {
     width: 320px;
     height: 60px;
@@ -176,6 +194,10 @@ img.logo_subtitle {
     display: block;
     left: 2%;
     top: 5px;
+}
+
+[dir="rtl"] .Your-Language {
+    right: 2%;
 }
 
 .Rectangle4 {
@@ -311,6 +333,10 @@ img.arrow_dropdown_black {
     border-width: 0;
     border-radius: 10px;
     font-weight: bold;
+}
+
+[dir="rtl"] .Rectangle8 {
+    right: 2%;
 }
 
 .Login {

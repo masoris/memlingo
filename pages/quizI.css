@@ -113,6 +113,11 @@ img.ic_close_gray {
     top: 61px;
 }
 
+[dir="rtl"] .Select-what-you-hear {
+    left: auto;
+    right: 2%;
+}
+
 .Area2 {
     width: 320px;
     height: 40px;
@@ -129,6 +134,11 @@ img.ic_close_gray {
     /* left: 280px; */
     top: 55px;
     right: 2%;
+}
+
+[dir="rtl"] .Rectangle-speaker {
+    right: auto;
+    left: 2%;
 }
 
 .mi-vi {
@@ -222,6 +232,12 @@ img.ic_woman_1 {
     right: 2%;
     z-index: -100;
 }
+
+[dir="rtl"] img.ic_woman_1 {
+    right: auto;
+    left: 2%;
+}
+
 
 .Rectangle-hard {
     width: 50%;

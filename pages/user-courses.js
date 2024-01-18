@@ -37,6 +37,7 @@ function onlogout_click() {
 // }
 
 function update_course_info() {
+    // alert("update_course_info");
     user_courses = JSON.parse(localStorage.user_courses);
     if (user_courses.A == null) {
         alert("user_courses not available");
@@ -72,9 +73,18 @@ function update_course_info() {
 }
 
 function lang_changed() {
+    console.log("lang_changed2");
     var selected_lang = document.querySelector('input[name="lang"]:checked').value;
+    const rtl_langs = ["fa", "ur", "he", "ar"];
     localStorage.lang = selected_lang;
     get_course_info(update_course_info);
+    if (rtl_langs.includes(selected_lang)) {
+        $("html").dir = "rtl";
+    }
+    else {
+        $("html").dir = "ltr";
+    }
+    console.log("lang_changed");
     display_message();
 }
 
@@ -85,7 +95,7 @@ window.onload = function () {
         return;
     }
 
-    get_course_info(update_course_info);
+
 
     $('Btn_logout').onclick = onlogout_click;
 
@@ -116,6 +126,7 @@ window.onload = function () {
         $("radio-ko-kr").checked = true;
     }
 
-    display_message();
+    lang_changed();
+    // display_message();
 };
 

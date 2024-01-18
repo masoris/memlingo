@@ -139,14 +139,24 @@ function update_course_info() {
     // }
 
 }
+function lang_changed() {
+    var selected_lang = localStorage.getItem("lang");
+    const rtl_langs = ["fa", "ur", "he", "ar"];
+    localStorage.lang = selected_lang;
+    if (rtl_langs.includes(selected_lang)) {
+        $("html").dir = "rtl";
+    }
+    else {
+        $("html").dir = "ltr";
+    }
+    display_message();
+}
 
 window.onload = function () {
     if (localStorage.getItem('login_status') != 'success') {
         window.location.href = "./login.html";
         return;
     }
-    display_message();
-    // display_language_str();
 
     get_course_info(update_course_info);
 
@@ -161,6 +171,7 @@ window.onload = function () {
 
     $('Btn_Level_Jump').onclick = click_btn_level_jump;
 
-
+    // display_message();
+    lang_changed();
 };
 

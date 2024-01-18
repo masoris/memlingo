@@ -54,7 +54,14 @@ function enable_disable_login_button() {
 
 function lang_changed() {
     var selected_lang = document.querySelector('input[name="lang"]:checked').value;
+    const rtl_langs = ["fa", "ur", "he", "ar"];
     localStorage.lang = selected_lang;
+    if (rtl_langs.includes(selected_lang)) {
+        $("html").dir = "rtl";
+    }
+    else {
+        $("html").dir = "ltr";
+    }
     display_message();
 
 }
@@ -139,7 +146,7 @@ window.onload = function () {
     }
 
     lang_changed();
-    display_message();
+    // display_message();
     localStorage.setItem('login_status', 'logout');
 
     //parentBgColor("#03bf6b");

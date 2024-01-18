@@ -90,6 +90,11 @@ img.ic_close_gray {
     right: 2%;
 }
 
+[dir="rtl"] .Rectangle-speaker {
+    right: auto;
+    left: 2%;
+}
+
 .mi-vi {
     width: 264px;
     height: 25px;
@@ -163,6 +168,11 @@ img.ic_woman_1 {
     /* left: 235px; */
     top: 350px;
     right: 2%;
+}
+
+[dir="rtl"] img.ic_woman_1 {
+    right: auto;
+    left: 2%;
 }
 
 .Rectangle-hard {

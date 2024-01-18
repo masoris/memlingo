@@ -74,6 +74,11 @@ img.ic_close_gray {
     top: 59px;
 }
 
+[dir="rtl"] .Select-what-you-hear {
+    left: auto;
+    right: 2%;
+}
+
 .Area2 {
     /* width: 320px; */
     /* height: 40px; */
@@ -90,6 +95,11 @@ img.ic_close_gray {
     /* left: 280px; */
     top: 59px;
     right: 2%;
+}
+
+[dir="rtl"] .Rectangle-speaker {
+    right: auto;
+    left: 2%;
 }
 
 .mi-vi {

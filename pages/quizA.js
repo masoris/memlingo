@@ -108,6 +108,19 @@ function click_continue() {
     });
 }
 
+// function lang_changed() {
+//     var selected_lang = localStorage.getItem("lang");
+//     const rtl_langs = ["fa", "ur", "he", "ar"];
+//     localStorage.lang = selected_lang;
+//     if (rtl_langs.includes(selected_lang)) {
+//         $("html").dir = "rtl";
+//     }
+//     else {
+//         $("html").dir = "ltr";
+//     }
+//     display_message();
+// }
+
 window.onload = function () {
     if (localStorage.getItem('login_status') != 'success') {
         window.location.href = "./login.html";
@@ -115,7 +128,7 @@ window.onload = function () {
     }
 
     // display_language_str();
-    display_message();
+    // display_message();
 
     carditem = JSON.parse(localStorage.Carditem)
 
@@ -190,6 +203,8 @@ window.onload = function () {
     max_cards = 11;
     percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
     $('progress').style.width = percent + "%";
+
+    lang_display();
 };
 
 

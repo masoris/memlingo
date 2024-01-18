@@ -24,6 +24,10 @@ body {
     font-size: 18pt;
 }
 
+[dir="rtl"] .Rectangle-lang {
+    right: 4%;
+}
+
 .Rectangle-Background {
     width: 100%;
     height: 1895px;
@@ -44,6 +48,10 @@ img.logo_subtitle {
     object-fit: contain;
     left: 2%;
     position: relative;
+}
+
+[dir="rtl"] img.logo_subtitle {
+    right: 2%;
 }
 
 .Learn-Esperanto-by-E {
@@ -72,6 +80,10 @@ img.logo_subtitle {
     background-color: #fff;
     left: 2%;
     position: relative;
+}
+
+[dir="rtl"] .Rectangle-Copy {
+    right: 2%;
 }
 
 .Esperanto-A- {
@@ -330,6 +342,10 @@ img.arrow_dropdown_black {
     position: relative;
     box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 10px;
+}
+
+[dir="rtl"] .Rectangle-Logout {
+    right: 2%;
 }
 
 .Rectangle-Logout-Inside {

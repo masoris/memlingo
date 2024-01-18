@@ -44,6 +44,11 @@ img.logo_subtitle {
     /* top: 10px; */
 }
 
+[dir="rtl"] img.logo_subtitle {
+    left: auto;
+    right: 2%;
+}
+
 img.ic_close_white {
     width: 24px;
     height: 24px;
@@ -54,6 +59,11 @@ img.ic_close_white {
     /* left: 296px; */
     top: 34px;
     right: 2%;
+}
+
+[dir="rtl"] img.ic_close_white {
+    right: auto;
+    left: 2%;
 }
 
 .Learn-Esperanto-by-E {
@@ -100,14 +110,23 @@ img.img_a {
 .Left {
     left: 10%;
     position: absolute;
+}
 
+[dir="rtl"] .Left {
+    left: auto;
+    right: 10%;
 }
 
 .Right {
     left: 55%;
     position: absolute;
-
 }
+
+[dir="rtl"] .Right {
+    left: auto;
+    right: 55%;
+}
+
 
 .Esperanto-A- {
     width: 100%;

@@ -31,7 +31,7 @@ window.onload = function () {
     call_session_finish_api();
 
     // display_language_str();
-    display_message();
+    // display_message();
 
     $('btn_continue').onclick = click_continue;
 
@@ -61,6 +61,7 @@ window.onload = function () {
     $('speaker_9').onclick = function () { click_speaker('esp_txt_9'); };
     $('speaker_10').onclick = function () { click_speaker('esp_txt_10'); };
 
+    lang_display();
 };
 
 

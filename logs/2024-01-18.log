@@ -1,0 +1,114 @@
+2024-01-18 15:43:50	/api/login.api	a@a.com	a@a.com	ar
+2024-01-18 15:43:50	/api/get_course_info.api	a@a.com	ar
+2024-01-18 15:43:53	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-18 15:44:05	/api/get_course_info.api	a@a.com	en-us
+2024-01-18 15:44:15	/api/get_course_info.api	a@a.com	ja-jp
+2024-01-18 15:44:21	/api/get_course_info.api	a@a.com	en-us
+2024-01-18 15:44:22	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-18 15:44:44	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-18 15:44:48	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-18 15:44:52	/api/get_course_info.api	a@a.com	ur
+2024-01-18 15:44:54	/api/get_course_info.api	a@a.com	ur
+2024-01-18 15:46:54	/api/get_course_info.api	a@a.com	ur
+2024-01-18 15:47:12	/api/get_course_info.api	a@a.com	ur
+2024-01-18 15:47:15	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-18 15:47:17	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-18 15:49:09	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-18 15:49:10	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-18 15:49:16	/api/get_course_info.api	a@a.com	he
+2024-01-18 15:49:18	/api/get_course_info.api	a@a.com	he
+2024-01-18 15:50:57	/api/get_course_info.api	a@a.com	he
+2024-01-18 15:51:00	/api/logout.api	a@a.com	he	C
+2024-01-18 15:56:01	/api/login.api	a@a.com	a@a.com	he
+2024-01-18 15:56:01	/api/get_course_info.api	a@a.com	he
+2024-01-18 15:56:06	/api/get_course_info.api	a@a.com	he
+2024-01-18 15:56:09	/api/session-start.api	a@a.com	he	A
+2024-01-18 15:56:09	/api/card-next.api	a@a.com	A	he	mi, vi	1	./quizD.html	ludoviko
+2024-01-18 15:56:09	/api/similar-words-kor.api	a@a.com	A	he	אני, אתה
+2024-01-18 15:56:18	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-01-18 16:02:09	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-01-18 16:02:11	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-01-18 16:02:22	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-01-18 16:04:25	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-01-18 16:04:30	/api/similar-words.api	a@a.com	A	he	mi, vi
+2024-01-18 16:05:16	/api/similar-words.api	a@a.com	A	he	mi, vi
+2024-01-18 16:06:32	/api/similar-words.api	a@a.com	A	he	mi, vi
+2024-01-18 16:06:34	/api/playsound.api	a@a.com	female2/mi, vi.mp3
+2024-01-18 16:06:40	/api/similar-words.api	a@a.com	A	he	mi, vi
+2024-01-18 16:08:27	/api/similar-words.api	a@a.com	A	he	mi, vi
+2024-01-18 16:08:30	/api/put-score.api	a@a.com	A	he	mia, via	-1
+2024-01-18 16:08:30	/api/playsound.api	a@a.com	male2/mia, via.mp3
+2024-01-18 16:08:31	/api/put-score.api	a@a.com	A	he	mi, vi	1
+2024-01-18 16:08:31	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-01-18 16:08:41	/api/similar-words-jk.api	a@a.com	A	he	vi	
+2024-01-18 16:09:18	/api/similar-words-jk.api	a@a.com	A	he	vi	
+2024-01-18 16:10:13	/api/similar-words-jk.api	a@a.com	A	he	mi	
+2024-01-18 16:10:55	/api/similar-words-jk.api	a@a.com	A	he	mi	
+2024-01-18 16:10:58	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-01-18 16:11:09	/api/card-next.api	a@a.com	A	he	estas, estis	2	./quizF.html	male2
+2024-01-18 16:11:09	/api/playsound.api	a@a.com	male2/mi, vi.mp3
+2024-01-18 16:11:48	/api/similar-words-jk.api	a@a.com	A	he	estis	
+2024-01-18 16:12:12	/api/similar-words-jk.api	a@a.com	A	he	estis	
+2024-01-18 16:13:05	/api/similar-words-jk.api	a@a.com	A	he	estis	
+2024-01-18 16:13:18	/api/similar-words-jk.api	a@a.com	A	he	estas	
+2024-01-18 16:14:30	/api/similar-words-jk.api	a@a.com	A	he	estas	
+2024-01-18 16:14:42	/api/similar-words.api	a@a.com	A	he	estas, estis
+2024-01-18 16:15:54	/api/similar-words.api	a@a.com	A	he	estas, estis
+2024-01-18 16:15:59	/api/similar-words-kor.api	a@a.com	A	he	(הווה) הוא, אני, הם (עבר) היה, היו
+2024-01-18 16:16:25	/api/similar-words-kor.api	a@a.com	A	he	(הווה) הוא, אני, הם (עבר) היה, היו
+2024-01-18 16:16:31	/api/similar-words-kor.api	a@a.com	A	he	(הווה) הוא, אני, הם (עבר) היה, היו
+2024-01-18 16:16:45	/api/similar-words-kor.api	a@a.com	A	he	(הווה) הוא, אני, הם (עבר) היה, היו
+2024-01-18 16:17:51	/api/playsound.api	a@a.com	male2/estas, estis.mp3
+2024-01-18 16:18:06	/api/playsound.api	a@a.com	male2/estas, estis.mp3
+2024-01-18 16:18:11	/api/similar-words.api	a@a.com	A	he	estas, estis
+2024-01-18 16:18:25	/api/similar-words.api	a@a.com	A	he	estas, estis
+2024-01-18 16:18:39	/api/similar-words.api	a@a.com	A	he	estas, estis
+2024-01-18 16:18:44	/api/similar-words.api	a@a.com	A	he	estas, estis
+2024-01-18 16:19:10	/api/similar-words.api	a@a.com	A	he	estas, estis
+2024-01-18 16:19:15	/api/similar-words-jk.api	a@a.com	A	he	estis	
+2024-01-18 16:19:17	/api/similar-words-jk.api	a@a.com	A	he	estas	
+2024-01-18 16:19:21	/api/playsound.api	a@a.com	male1/estas, estis.mp3
+2024-01-18 16:19:24	/api/card-next.api	a@a.com	A	he	mi estas ~	1	./quizF.html	female1
+2024-01-18 16:19:24	/api/playsound.api	a@a.com	female2/estas, estis.mp3
+2024-01-18 16:19:30	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:28:32	/api/login.api	a@a.com	a@a.com	he
+2024-01-18 16:28:32	/api/get_course_info.api	a@a.com	he
+2024-01-18 16:28:34	/api/get_course_info.api	a@a.com	he
+2024-01-18 16:28:35	/api/session-start.api	a@a.com	he	A
+2024-01-18 16:28:35	/api/card-next.api	a@a.com	A	he	mi estas ~	1	./quizB.html	male1
+2024-01-18 16:28:35	/api/similar-words.api	a@a.com	A	he	mi estas ~
+2024-01-18 16:28:36	/api/put-score.api	a@a.com	A	he	mia nomo estas ~	-1
+2024-01-18 16:28:36	/api/playsound.api	a@a.com	male2/mia nomo estas ~.mp3
+2024-01-18 16:28:40	/api/put-score.api	a@a.com	A	he	mia nomo estas ~	-1
+2024-01-18 16:28:40	/api/playsound.api	a@a.com	male1/mia nomo estas ~.mp3
+2024-01-18 16:28:53	/api/similar-words.api	a@a.com	A	he	mi estas ~
+2024-01-18 16:28:58	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:30:19	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:32:19	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:38:02	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:39:13	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:39:47	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:40:42	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:41:53	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:43:27	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:44:26	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:44:38	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:45:18	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:47:41	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:50:19	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:50:48	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:52:52	/api/login.api	a@a.com	a@a.com	he
+2024-01-18 16:52:52	/api/get_course_info.api	a@a.com	he
+2024-01-18 16:52:54	/api/get_course_info.api	a@a.com	he
+2024-01-18 16:52:55	/api/session-start.api	a@a.com	he	A
+2024-01-18 16:52:55	/api/card-next.api	a@a.com	A	he	mi estas ~	1	./quizF.html	female1
+2024-01-18 16:52:56	/api/playsound.api	a@a.com	female1/mi estas ~.mp3
+2024-01-18 16:52:58	/api/card-next.api	a@a.com	A	he	vi estas ~	1	./quizH.html	female1
+2024-01-18 16:52:58	/api/playsound.api	a@a.com	male2/mi estas ~.mp3
+2024-01-18 16:52:59	/api/similar-words.api	a@a.com	A	he	vi estas ~
+2024-01-18 16:53:03	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:54:26	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:55:12	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:55:49	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:56:31	/api/session-finish.api	a@a.com	he	A
+2024-01-18 16:56:43	/api/get_course_info.api	a@a.com	he

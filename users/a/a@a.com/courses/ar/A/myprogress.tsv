@@ -1,12 +1,12 @@
-level	mi, vi	I لك	I, you	grupo	0    	0000-00-00 00:00:00
-level	estas, estis	(الحاضر) هو، أنا، هم (الماضي) كان، كان	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi, vi	I لك	I, you	grupo	2    	2024-01-15 17:10:17
+level	estas, estis	(الحاضر) هو، أنا، هم (الماضي) كان، كان	(present) is, am, are (past) was, were	grupo	2    	2024-01-15 17:17:20
 level	mi estas ~	أنا ~	I am ~	grupo	0    	0000-00-00 00:00:00
 level	vi estas ~	أنت ~	you are ~	grupo	0    	0000-00-00 00:00:00
 level	saluton	مرحبًا	hello	grupo	0    	0000-00-00 00:00:00
 level	saluton, mi estas ~	مرحباً، أنا ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
-level	mia, via	بلدي الخاص بك	my, your	grupo	0    	0000-00-00 00:00:00
+level	mia, via	بلدي الخاص بك	my, your	grupo	1    	2024-01-15 16:51:54
 level	nomo	اسم	a name	grupo	0    	0000-00-00 00:00:00
-level	mia nomo, via nomo	اسمي، اسمك	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	اسمي، اسمك	my name, your name	grupo	2    	2024-01-15 17:09:45
 level	mia nomo estas ~	اسمي ~	my name is ~	grupo	0    	0000-00-00 00:00:00
 level	via nomo estas ~	اسمك ~	your name is ~	grupo	0    	0000-00-00 00:00:00
 level	fartas, fartis	(الحاضر) يفعل، (الماضي) يفعل	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
@@ -24,7 +24,7 @@ level	mi fartas bone	أنا على ما يرام	I am doing well	grupo	0    	000
 level	kaj	و	and	grupo	0    	0000-00-00 00:00:00
 level	bone, kaj vi?	بخير وأنت؟	fine, and you?	grupo	0    	0000-00-00 00:00:00
 level	ĝis ~	حتى ~	until ~	grupo	0    	0000-00-00 00:00:00
-level	vidas, vidis	(الحاضر) يرى، (الماضي) رأى	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(الحاضر) يرى، (الماضي) رأى	(present) sees, (past) saw	grupo	1    	2024-01-15 16:56:48
 level	vidis, revidis	(الماضي) رأى، (الماضي) رأى مرة أخرى	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
 level	revidis, revidos	رأى مرة أخرى، وسوف نرى مرة أخرى	saw again, will see again	grupo	0    	0000-00-00 00:00:00
 level	revido, revidon	الرؤية مرة أخرى، الرؤية مرة أخرى (الهدف)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
@@ -32,7 +32,7 @@ level	ĝis revido!	نراكم مرة أخرى!	see you again!	grupo	0    	0000-0
 level	dankon	شكرًا لك	thank you	grupo	0    	0000-00-00 00:00:00
 level	dankon kaj ĝis revido!	شكرا لك ونراكم مرة أخرى!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
 level	al ~	إلى ~	to ~	grupo	0    	0000-00-00 00:00:00
-level	al vi, al mi	لك، لي	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	لك، لي	to you, to me	grupo	1    	2024-01-15 16:51:50
 level	dankas, dankis	(الحاضر) الشكر، (الماضي) الشكر	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
 level	mi dankas al vi	أنا أقدر لك	I appreciate to you	grupo	0    	0000-00-00 00:00:00
 level	jes, ne	نعم / لا	yes, no	grupo	0    	0000-00-00 00:00:00

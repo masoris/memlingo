@@ -85,7 +85,7 @@ window.onload = function () {
     }
 
     // display_language_str();
-    display_message();
+    // display_message();
 
     carditem = JSON.parse(localStorage.Carditem)
 
@@ -137,6 +137,8 @@ window.onload = function () {
     max_cards = 11;
     percent = Math.floor(((parseFloat(localStorage.quiz_count) + 1.0) / max_cards) * 100);
     $('progress').style.width = percent + "%";
+
+    lang_display();
 };
 
 

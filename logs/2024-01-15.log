@@ -1,0 +1,64 @@
+2024-01-15 16:08:41	/api/login.api	a@a.com	a@a.com	he
+2024-01-15 16:08:41	/api/get_course_info.api	a@a.com	he
+2024-01-15 16:11:21	/api/get_course_info.api	a@a.com	he
+2024-01-15 16:12:19	/api/get_course_info.api	a@a.com	he
+2024-01-15 16:13:34	/api/get_course_info.api	a@a.com	he
+2024-01-15 16:18:18	/api/get_course_info.api	a@a.com	he
+2024-01-15 16:21:08	/api/get_course_info.api	a@a.com	he
+2024-01-15 16:24:57	/api/get_course_info.api	a@a.com	he
+2024-01-15 16:26:26	/api/get_course_info.api	a@a.com	he
+2024-01-15 16:27:21	/api/logout.api	a@a.com	he	A
+2024-01-15 16:27:28	/api/login.api	a@a.com	a@a.com	ar
+2024-01-15 16:27:29	/api/get_course_info.api	a@a.com	ar
+2024-01-15 16:27:48	/api/logout.api	a@a.com	ar	A
+2024-01-15 16:27:50	/api/login.api	a@a.com	a@a.com	ar
+2024-01-15 16:27:50	/api/get_course_info.api	a@a.com	ar
+2024-01-15 16:27:52	/api/get_course_info.api	a@a.com	ar
+2024-01-15 16:31:33	/api/get_course_info.api	a@a.com	ar
+2024-01-15 16:32:24	/api/get_course_info.api	a@a.com	ar
+2024-01-15 16:33:09	/api/get_course_info.api	a@a.com	ar
+2024-01-15 16:33:58	/api/session-start.api	a@a.com	ar	A
+2024-01-15 16:33:58	/api/card-next.api	a@a.com	A	ar	mi, vi	0	./quizE.html	female1
+2024-01-15 16:34:03	/api/similar-words-jk.api	a@a.com	A	ar	mi	
+2024-01-15 16:36:44	/api/similar-words-jk.api	a@a.com	A	ar	mi	
+2024-01-15 16:38:02	/api/similar-words-jk.api	a@a.com	A	ar	vi	
+2024-01-15 16:38:21	/api/similar-words-jk.api	a@a.com	A	ar	mi	
+2024-01-15 16:38:50	/api/similar-words-jk.api	a@a.com	A	ar	vi	
+2024-01-15 16:39:16	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-01-15 16:42:24	/api/similar-words-jk.api	a@a.com	A	ar	mi	
+2024-01-15 16:44:22	/api/similar-words-jk.api	a@a.com	A	ar	vi	
+2024-01-15 16:46:13	/api/similar-words-jk.api	a@a.com	A	ar	vi	
+2024-01-15 16:47:19	/api/similar-words-jk.api	a@a.com	A	ar	vi	
+2024-01-15 16:47:31	/api/similar-words.api	a@a.com	A	ar	mi, vi
+2024-01-15 16:48:42	/api/similar-words.api	a@a.com	A	ar	mi, vi
+2024-01-15 16:49:37	/api/similar-words.api	a@a.com	A	ar	mi, vi
+2024-01-15 16:49:42	/api/playsound.api	a@a.com	female2/mia nomo, via nomo.mp3
+2024-01-15 16:49:44	/api/put-score.api	a@a.com	A	ar	mia nomo, via nomo	-1
+2024-01-15 16:49:45	/api/put-score.api	a@a.com	A	ar	mia nomo, via nomo	-1
+2024-01-15 16:49:45	/api/put-score.api	a@a.com	A	ar	mia nomo, via nomo	1
+2024-01-15 16:49:45	/api/playsound.api	a@a.com	male1/mia nomo, via nomo.mp3
+2024-01-15 16:49:48	/api/playsound.api	a@a.com	female1/al vi, al mi.mp3
+2024-01-15 16:49:50	/api/put-score.api	a@a.com	A	ar	al vi, al mi	1
+2024-01-15 16:49:50	/api/playsound.api	a@a.com	male1/al vi, al mi.mp3
+2024-01-15 16:49:53	/api/playsound.api	a@a.com	female2/mia, via.mp3
+2024-01-15 16:49:54	/api/put-score.api	a@a.com	A	ar	mia, via	1
+2024-01-15 16:49:54	/api/playsound.api	a@a.com	female1/mia, via.mp3
+2024-01-15 16:49:56	/api/playsound.api	a@a.com	male1/mi, vi.mp3
+2024-01-15 16:49:57	/api/put-score.api	a@a.com	A	ar	mi, vi	1
+2024-01-15 16:49:57	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-01-15 16:50:07	/api/similar-words-jk.api	a@a.com	A	ar	mi	
+2024-01-15 16:50:11	/api/playsound.api	a@a.com	male2/mi, vi.mp3
+2024-01-15 16:50:17	/api/card-next.api	a@a.com	A	ar	estas, estis	0	./quizF.html	female2
+2024-01-15 16:50:17	/api/playsound.api	a@a.com	female2/mi, vi.mp3
+2024-01-15 16:50:24	/api/similar-words-kor.api	a@a.com	A	ar	(الحاضر) هو، أنا، هم (الماضي) كان، كان
+2024-01-15 16:53:25	/api/similar-words-kor.api	a@a.com	A	ar	(الحاضر) هو، أنا، هم (الماضي) كان، كان
+2024-01-15 16:54:44	/api/similar-words-kor.api	a@a.com	A	ar	(الحاضر) هو، أنا، هم (الماضي) كان، كان
+2024-01-15 16:54:48	/api/put-score-kor.api	a@a.com	A	ar	(الحاضر) يرى، (الماضي) رأى	-1
+2024-01-15 16:54:48	/api/put-score-kor.api	a@a.com	A	ar	(الحاضر) هو، أنا، هم (الماضي) كان، كان	1
+2024-01-15 16:54:48	/api/playsound.api	a@a.com	female2/estas, estis.mp3
+2024-01-15 16:54:59	/api/similar-words-kor.api	a@a.com	A	ar	(الحاضر) هو، أنا، هم (الماضي) كان، كان
+2024-01-15 16:55:53	/api/similar-words-kor.api	a@a.com	A	ar	(الحاضر) هو، أنا، هم (الماضي) كان، كان
+2024-01-15 16:57:15	/api/similar-words-kor.api	a@a.com	A	ar	(الحاضر) هو، أنا، هم (الماضي) كان، كان
+2024-01-15 16:57:20	/api/put-score-kor.api	a@a.com	A	ar	(الحاضر) هو، أنا، هم (الماضي) كان، كان	1
+2024-01-15 16:57:20	/api/playsound.api	a@a.com	female1/estas, estis.mp3
+2024-01-15 17:26:53	/api/similar-words-kor.api	a@a.com	A	ar	(الحاضر) هو، أنا، هم (الماضي) كان، كان
