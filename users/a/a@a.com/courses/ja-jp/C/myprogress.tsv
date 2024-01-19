@@ -13,23 +13,23 @@ amo	mem	自分で、親しく、直接、一人で	by oneself	KO,G1,4H,ZG	0    	
 amo	ĝis ~	〜まで（時間的、空間的）	upto ~, until ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	de ~	〜の、〜から、〜のため	of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	da ~	数、量を表す前置詞	(much) of ~, (many) of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-glacio	-aĵo	物事の接尾辞、〜もの、〜一つのもの	<suffix> thing, concrete manifestation	KO,G1,ZG	0    	0000-00-00 00:00:00
+glacio	-aĵo	物事の接尾辞、〜もの、〜一つのもの	(suffix)  thing, concrete manifestation	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	proksima	近い	near, close to, soon, nearby	KO,G2,ZG	0    	0000-00-00 00:00:00
-glacio	-adi	繰り返し行為サフィックス（繰り返し）	<suffix> repetitive action, lasting action	KO,G1,ZG	0    	0000-00-00 00:00:00
-glacio	-as	動詞現在型母	<suffix> present tense	KO,G1,ZG	0    	0000-00-00 00:00:00
-kanti	-is	動詞の過去の母語	<suffix> past tense	KO,G1,ZG	0    	0000-00-00 00:00:00
+glacio	-adi	繰り返し行為サフィックス（繰り返し）	(suffix)  repetitive action, lasting action	KO,G1,ZG	0    	0000-00-00 00:00:00
+glacio	-as	動詞現在型母	(suffix)  present tense	KO,G1,ZG	0    	0000-00-00 00:00:00
+kanti	-is	動詞の過去の母語	(suffix)  past tense	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	esti	〜である、〜がある、存在する	to be	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-kanti	-os	動詞未来型母語	<suffix> future tense	KO,G1,ZG	0    	0000-00-00 00:00:00
-kanti	antaŭ ~	～前の、～前の	<preposition> before ~, in front of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	-os	動詞未来型母語	(suffix)  future tense	KO,G1,ZG	0    	0000-00-00 00:00:00
+kanti	antaŭ ~	～前の、～前の	(preposition)  before ~, in front of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	fari	〜をする、〜を作る	to make, to do	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-kanti	ankaŭ ~	~も、~も	<preposition> also, too	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+kanti	ankaŭ ~	~も、~も	(preposition)  also, too	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	post ~	〜後、〜次に	after ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-kanti	mal-	反対の接頭辞	<prefix> opposite	KO,G1,ZG	0    	0000-00-00 00:00:00
-kanti	-ul-	どんな特性がある人、～一人	<suffix> a person of some trait	KO,G1,ZG	0    	0000-00-00 00:00:00
-filo	-in-	女性型サフィックス	<suffix> female	KO,G1,ZG	0    	0000-00-00 00:00:00
-filo	-ant-	〜する、〜する人（現在、アクティブ、進行型）	<suffix> active present, is ~ing, someone who is ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
-filo	-int-	〜していた、〜していた人（過去、アクティブ、進行型）	<suffix> active past, was ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
-filo	-ont-	～している、～している人（未来アクティブ進行型）	<suffix> active future, will be ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
+kanti	mal-	反対の接頭辞	(prefix)  opposite	KO,G1,ZG	0    	0000-00-00 00:00:00
+kanti	-ul-	どんな特性がある人、～一人	(suffix)  a person of some trait	KO,G1,ZG	0    	0000-00-00 00:00:00
+filo	-in-	女性型サフィックス	(suffix)  female	KO,G1,ZG	0    	0000-00-00 00:00:00
+filo	-ant-	〜する、〜する人（現在、アクティブ、進行型）	(suffix)  active present, is ~ing, someone who is ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
+filo	-int-	〜していた、〜していた人（過去、アクティブ、進行型）	(suffix)  active past, was ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
+filo	-ont-	～している、～している人（未来アクティブ進行型）	(suffix)  active future, will be ~ing	KO,G1,ZG	0    	0000-00-00 00:00:00
 filo	kaj (k.)	そして、〜と、〜と	and	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 filo	aŭ	または、または	or	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	alta	高い、大きい	high, tall	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ kiom	kiom	いくら	how much, how many	KO,G1	0    	0000-00-00 00:00:00
 stomako	ofte	しばしば、しばしば	often, frequently	KO	0    	0000-00-00 00:00:00
 kiom	iom	少し、少量	a little, rather, some, somewhat	G1,4H	0    	0000-00-00 00:00:00
 amo	nova	新しい	new, novel	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-kiom	-at-	受動態現在噴射	<suffix> passive present participle	KO,G1,ZG	0    	0000-00-00 00:00:00
-kiom	-it-	受動態過去噴射	<suffix> passive past participle	KO,G1,ZG	0    	0000-00-00 00:00:00
-kiom	-ot-	受動態未来噴射	<suffix> passive future participle	KO,G1,ZG	0    	0000-00-00 00:00:00
+kiom	-at-	受動態現在噴射	(suffix)  passive present participle	KO,G1,ZG	0    	0000-00-00 00:00:00
+kiom	-it-	受動態過去噴射	(suffix)  passive past participle	KO,G1,ZG	0    	0000-00-00 00:00:00
+kiom	-ot-	受動態未来噴射	(suffix)  passive future participle	KO,G1,ZG	0    	0000-00-00 00:00:00
 kiom	tre	非常に	very, quite, very much	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	tro	あまり	too, excessively, too much	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	tamen	しかし、	however, nonetheless, but, nevertheless	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ kiom	ho!	ああ！ああ！ (感嘆者)	Oh! Ho!	KO,G1,4H,ZG	0    	0000-00-00 00:
 kiom	ke ~	～したもの （従属接続社）	that ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	ĉar ~	なぜなら〜	because ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	ĉu	〜ですか？ 〜ですか？ 〜ですか？	whether ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-veturi	-ej-	場所サフィックス	<suffix> place	KO,G1,ZG	0    	0000-00-00 00:00:00
-veturi	-ec-	特性サフィックス	<suffix> abstract name of quality	KO,G1,ZG	0    	0000-00-00 00:00:00
+veturi	-ej-	場所サフィックス	(suffix)  place	KO,G1,ZG	0    	0000-00-00 00:00:00
+veturi	-ec-	特性サフィックス	(suffix)  abstract name of quality	KO,G1,ZG	0    	0000-00-00 00:00:00
 veturi	ambaŭ ~	両方、両方	both ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 veturi	tuj	すぐに、すぐに、すぐに	immediately, instantly, right away	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	kvazaŭ ~	まるで〜のように	as if ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ veturi	neniam	いつも決して〜ない	never, at no time, not ever	KO,G1,4H	0
 veturi	tial	そういうわけで、だから	therefore, so	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kial	なぜ	why, what for	KO,G1,4H	0    	0000-00-00 00:00:00
 veturi	kvankam	たとえ〜でも	although ~, while, though	KO,G1,ZG	0    	0000-00-00 00:00:00
-veturi	ĉe ~	～（場所）へ、～へ（接触）	<preposition> at ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+veturi	ĉe ~	～（場所）へ、～へ（接触）	(preposition)  at ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	pli	~以上(比較を表す副詞)	more	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 veturi	plej	偽装（最上級）	most	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 glacio	diri	話す（内容）	to say, to tell	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ veturi	tia	そのような、	such, that kind of, such a	KO,G1,4H	0    	0000-00-
 veturi	apenaŭ	やっと、近くで、ほとんど〜しない	barely, hardly, scarecely	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	sendi	送る	to send	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 hundo	ĵus	直前に、今	just (a moment ago), just now	KO,G1,4H	0    	0000-00-00 00:00:00
-hundo	-u	命令型語彙	<suffix> imperative	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	-u	命令型語彙	(suffix)  imperative	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	ekster ~	〜外から、〜の外に	outside ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	ge-	男女の、良性の	<prefix> both sex, both gender	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	-us	家庭法の母親	<suffix> would, should, subjunctive	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	ge-	男女の、良性の	(prefix)  both sex, both gender	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	-us	家庭法の母親	(suffix)  would, should, subjunctive	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	baldaŭ	すぐに、すぐに	soon	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	almenaŭ	少なくとも	at least, if nothing else	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	dis-	散乱、分散プレフィックス	dis-	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	-uj-	収納容器、ボウルサフィックス	<suffix> container; country	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	-uj-	収納容器、ボウルサフィックス	(suffix)  container; country	KO,G1,ZG	0    	0000-00-00 00:00:00
 glacio	lerni	学ぶ	to learn	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-hundo	ek-	開始、突然の変更プレフィックス	<prefix> beginning; sudden start	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	ek-	開始、突然の変更プレフィックス	(prefix)  beginning; sudden start	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	se	（〜ラーメン）（仮定型接続会社）	if, provided that	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	eĉ	〜すら、〜まで	even	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	amo	愛	a love	NA,4H	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ kanti	fini	〜を終える、終わる	to end, to finish, to terminate	KO,G2,4H,
 hundo	do	したがって、だから、したがって、それから	so, then, therefore	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 hundo	ajn	無差別の、制限のない、～でも、～でも	~ever, (what)ever, at all, -soever	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	facila	簡単	easy, facile	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-hundo	re-	また、繰り返しプレフィックス	<prefix> re-	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	re-	また、繰り返しプレフィックス	(prefix)  re-	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	granda	大きい	big, great, large	KO,G2,ZG	0    	0000-00-00 00:00:00
-hundo	-ist-	職業サフィックス	<suffix> professional	KO,G1,ZG	0    	0000-00-00 00:00:00
-hundo	pro ~	〜ので、〜だから、〜	<preposition> because of ~, due to ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-hundo	-estr-	団体の章、ヘッダーサフィックス	<suffix> leader, boss, head, chief	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	-ist-	職業サフィックス	(suffix)  professional	KO,G1,ZG	0    	0000-00-00 00:00:00
+hundo	pro ~	〜ので、〜だから、〜	(preposition)  because of ~, due to ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+hundo	-estr-	団体の章、ヘッダーサフィックス	(suffix)  leader, boss, head, chief	KO,G1,ZG	0    	0000-00-00 00:00:00
 hundo	kio	何	what	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	manĝi	食べる	to eat	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 hundo	nenio	存在しないもの、何もないもの（代名詞）	nothing, none, not any thing	KO,G1,4H	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ hundo	ĉio	すべて（代名詞）	everything	KO,G1,4H	0    	0000-00-00 00:00:0
 kanti	riĉa	豊かな	rich, wealthy, well-off	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 hundo	tio	それ、それ（代名詞）	that thing, that	KO,G1,4H	0    	0000-00-00 00:00:00
 glacio	konstrui	建設する、建設する、建設する	to build, to construct	KO,G3	0    	0000-00-00 00:00:00
-soni	ĉef-	葬儀、ヘッダー、リーダー（プレフィックス）	<prefix> chief, leading, main	G1,ZG	0    	0000-00-00 00:00:00
-soni	sen ~	~なし	<preposition> without ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-soni	kun ~	~と	<preposition> with ~ (together)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-soni	krom ~	～のほかに、～しなくても	<preposition> except ~, besides ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	ĉef-	葬儀、ヘッダー、リーダー（プレフィックス）	(prefix)  chief, leading, main	G1,ZG	0    	0000-00-00 00:00:00
+soni	sen ~	~なし	(preposition)  without ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	kun ~	~と	(preposition)  with ~ (together)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	krom ~	～のほかに、～しなくても	(preposition)  except ~, besides ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 kanti	amiko	友達	a friend	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 soni	kies	誰の、誰の	whose, which one's, of which	KO,G1,4H	0    	0000-00-00 00:00:00
-soni	per ~	〜で、〜として、〜を利用して、〜を介して（ツール）	<preposition> by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+soni	per ~	〜で、〜として、〜を利用して、〜を介して（ツール）	(preposition)  by ~ (a method), with ~ (a tool)	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	kontraŭ ~	〜さかのぼり、〜そうです、〜反対に、〜に対抗して	against ~	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	el ~	～中から、～から（材料）、～中から	out of ~, from ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hodiaŭ	今日	today	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	hieraŭ	昨日	yesterday	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 soni	nur	ただ、〜だけ	only, just, exclusively	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	helpi	助ける	to help, to aid, to assist	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-soni	for	遠く、遠くに	<adverb> far, away	KO,G1,ZG	0    	0000-00-00 00:00:00
+soni	for	遠く、遠くに	(adverb)  far, away	KO,G1,ZG	0    	0000-00-00 00:00:00
 soni	nek	〜でもない（他の不定詞の後ろに使用）	nor, neither	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 amo	malamo	嫌い	a hate	AA	0    	0000-00-00 00:00:00
 soni	preskaŭ	ほぼ	almost, nearly	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -137,7 +137,7 @@ kontenta	tiu	私（彼）人、それ、彼〜	that person, that ~, that one, yo
 kontenta	iu	誰か、何人かの人、何か	someone, somebody, some	G1,4H	0    	0000-00-00 00:00:00
 kontenta	neniu	誰も（どれも）〜いいえ（否定代名詞）	nobody, no one, neither	KO,G1,4H	0    	0000-00-00 00:00:00
 kontenta	al ~	＜前置詞＞～へ、～へ	to ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-kontenta	-ebl-	＜サフィックス＞可能、できる	<suffix> ~able	KO,G1,ZG	0    	0000-00-00 00:00:00
+kontenta	-ebl-	＜サフィックス＞可能、できる	(suffix)  ~able	KO,G1,ZG	0    	0000-00-00 00:00:00
 amo	esperi	希望する	to hope	KO,G4,4H,ZG	0    	0000-00-00 00:00:00
 vestiblo	unu	1(1)	one	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 vestiblo	du	2(2)	two	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ vestiblo	naŭ	9(9)	nine	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	dek	10(十)	ten	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	cent	100(バッグ)	a hundred	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	mil	1000(千)	a thousand	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-obl-	＜接尾辞＞ ～倍の、倍数を表す接尾辞	<suffix> for multiplicity, -oble, -fold	KO,G1	0    	0000-00-00 00:00:00
-stomako	-on-	＜接尾辞＞ ～分の日、分数を表示する接尾辞	<suffix> ~th, fraction	KO,G1	0    	0000-00-00 00:00:00
+stomako	-obl-	＜接尾辞＞ ～倍の、倍数を表す接尾辞	(suffix)  for multiplicity, -oble, -fold	KO,G1	0    	0000-00-00 00:00:00
+stomako	-on-	＜接尾辞＞ ～分の日、分数を表示する接尾辞	(suffix)  ~th, fraction	KO,G1	0    	0000-00-00 00:00:00
 amo	ama	愛の	of love	AA	0    	0000-00-00 00:00:00
 stomako	anstataŭ ~	&lt;前置詞&gt;〜代わりに	instead of ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-iĝ-	&lt;サフィックス&gt;〜になる	<suffix> become	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-iĝ-	&lt;サフィックス&gt;〜になる	(suffix)  become	KO,G1,ZG	0    	0000-00-00 00:00:00
 filo	voli	欲しい、望む	to want, to will, to be willing to	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-ig-	＜サフィックス＞〜する	<suffix> cause to become	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-ig-	＜サフィックス＞〜する	(suffix)  cause to become	KO,G1,ZG	0    	0000-00-00 00:00:00
 filo	sekvi	続く、続く、行う	to follow	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 amo	ĝoje	喜んで	gladly	AA	0    	0000-00-00 00:00:00
 filo	legi	読む	to read	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 amo	silenta	静かな	silent	NA	0    	0000-00-00 00:00:00
 stomako	la	&lt;定款師&gt;	the	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ha!	ハ！ (感嘆者)	ha!	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	-il-	&lt;サフィックス&gt;機構、ツール	<suffix> tool, method	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-il-	&lt;サフィックス&gt;機構、ツール	(suffix)  tool, method	KO,G1,ZG	0    	0000-00-00 00:00:00
 glacio	trinki	飲む	to drink (non-alkohol)	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-et-	&lt;サフィックス&gt;小さな、かわいい	<suffix> small, little	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	-eg-	&lt;サフィックス&gt;大きいもの、大きい	<suffix> big, large	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	inter ~	&lt;前置詞&gt;〜サイエ	<preposition> between ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-um-	＜サフィックス＞（関係する）行動、（関係する）傾向	<suffix> related behavior	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	-ar-	&lt;サフィックス&gt;セット、会議、グループを表す	<suffix> set, group	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	-an-	＜サフィックス＞ 会員、会員、〜に属する者	<suffix> member of a group	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-et-	&lt;サフィックス&gt;小さな、かわいい	(suffix)  small, little	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-eg-	&lt;サフィックス&gt;大きいもの、大きい	(suffix)  big, large	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	inter ~	&lt;前置詞&gt;〜サイエ	(preposition)  between ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	-um-	＜サフィックス＞（関係する）行動、（関係する）傾向	(suffix)  related behavior	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-ar-	&lt;サフィックス&gt;セット、会議、グループを表す	(suffix)  set, group	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-an-	＜サフィックス＞ 会員、会員、〜に属する者	(suffix)  member of a group	KO,G1,ZG	0    	0000-00-00 00:00:00
 glacio	danki	ありがとう、事例	to thank	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-ind-	&lt;サフィックス&gt;〜する価値がある	<suffix> worthwhile, worthy	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	-ind-	&lt;サフィックス&gt;〜する価値がある	(suffix)  worthwhile, worthy	KO,G1,ZG	0    	0000-00-00 00:00:00
 stomako	plu	（時間的）〜もっと続き、（空間的）〜もっと遠く	even more, further, and so on, more	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	kiel	どのように	how, like, in what way, such as	KO,G1,4H	0    	0000-00-00 00:00:00
 stomako	tiel	そう	such, in that way, thus	KO,G1,4H	0    	0000-00-00 00:00:00
-stomako	en ~	&lt;前置詞&gt;〜の中、〜の中、〜	<preposition> in ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	apud ~	＜前置詞＞ ～隣に、～そばに、～近くに	<preposition> next to ~, beside ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sub ~	&lt;前置詞&gt;〜下	<preposition> under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
-stomako	sur ~	&lt;前置詞&gt;〜綿の上に	<preposition> on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	je ~	＜前置詞＞ 時間に、様々に適用可能な前置詞	<preposition> indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ankoraŭ	&lt;副詞&gt;まだ、今でも、まだ	<adverb> still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
-stomako	ĉirkaŭ ~	＜前置詞＞ ～周り、～周り、～四方へ	<preposition> around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	en ~	&lt;前置詞&gt;〜の中、〜の中、〜	(preposition)  in ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	apud ~	＜前置詞＞ ～隣に、～そばに、～近くに	(preposition)  next to ~, beside ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sub ~	&lt;前置詞&gt;〜下	(preposition)  under, beneath ~	KO,G1,ZG	0    	0000-00-00 00:00:00
+stomako	sur ~	&lt;前置詞&gt;〜綿の上に	(preposition)  on ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	je ~	＜前置詞＞ 時間に、様々に適用可能な前置詞	(preposition)  indefinate prep., at, in, by, on	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ankoraŭ	&lt;副詞&gt;まだ、今でも、まだ	(adverb)  still, yet	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	ĉirkaŭ ~	＜前置詞＞ ～周り、～周り、～四方へ	(preposition)  around ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	sed	しかし	but	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ie	どこかに	somewhere	KO,G1	0    	0000-00-00 00:00:00
 stomako	kie	どこに	where, at what place	KO,G1,4H	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ stomako	tie	そこに、そこに	there, over there, yonder	KO,G1,4H	0    	0000-
 stomako	ĉi	＜指示副詞＞ この（近さを示す）	this ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kanti	kanti	歌う	to sing	KO,G3,4H,ZG	0    	0000-00-00 00:00:00
 kiom	morti	死ぬ	to die, to pass away	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
-stomako	dum ~	&lt;前置詞&gt;〜	<preposition> during ~, while ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
+stomako	dum ~	&lt;前置詞&gt;〜	(preposition)  during ~, while ~	KO,G1,4H,ZG	0    	0000-00-00 00:00:00
 kiom	nacio	国、国	a nation	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	koni	わかる、知っている間だ	to know (a person), to be aquainted with	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	scii	知っている、（知識を）知っている	to know (a fact, knowledge), to know how	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ĉiam	いつも、いつも、いつも	always, ever	KO,G1	0    	0000-00-00 00:00:00
 stomako	iam	いつか（不明な時）	at some time, once	KO,G1	0    	0000-00-00 00:00:00
 stomako	tiam	その時	then	KO,G1	0    	0000-00-00 00:00:00
-stomako	-em-	&lt;サフィックス&gt;傾向、傾向、習慣	<suffix> tendancy	KO,G1	0    	0000-00-00 00:00:00
+stomako	-em-	&lt;サフィックス&gt;傾向、傾向、習慣	(suffix)  tendancy	KO,G1	0    	0000-00-00 00:00:00
 stomako	ia	ある、苗の	some kind of	KO,G1	0    	0000-00-00 00:00:00
 amo	sukcesi	成功する	to succeed	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	ĉia	あらゆる種類の	of all kind, every kind of	KO,G1	0    	0000-00-00 00:00:00
 stomako	nenia	どんなものでも〜いいえ、どんなものでもありません	no, not any kind of, not any	KO,G1	0    	0000-00-00 00:00:00
-stomako	-id-	&lt;サフィックス&gt;子、息子、子	<suffix> offspring	KO,G1	0    	0000-00-00 00:00:00
+stomako	-id-	&lt;サフィックス&gt;子、息子、子	(suffix)  offspring	KO,G1	0    	0000-00-00 00:00:00
 kiom	ĉambro	部屋	a room, a chamber	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 kiom	patro	父	a father	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 amo	porko	豚	a pig, swine	G5,4H	0    	0000-00-00 00:00:00
-stomako	bo-	婚姻による親戚関係（接頭辞）	<prefix> -in-law, by marriage	KO,G1	0    	0000-00-00 00:00:00
+stomako	bo-	婚姻による親戚関係（接頭辞）	(prefix)  -in-law, by marriage	KO,G1	0    	0000-00-00 00:00:00
 stomako	ja	実に、まさに、こんにちは、確かに	indeed	KO,G1	0    	0000-00-00 00:00:00
-stomako	-ism-	&lt;サフィックス&gt; ~注意、思想、教義	<suffix> -ism	KO,G1	0    	0000-00-00 00:00:00
+stomako	-ism-	&lt;サフィックス&gt; ~注意、思想、教義	(suffix)  -ism	KO,G1	0    	0000-00-00 00:00:00
 stomako	io	＜代名詞＞（不特定）何か	something	KO,G1	0    	0000-00-00 00:00:00
 veturi	veturi	乗る	to drive (a vehicle)	KO,G2,4H,ZG	0    	0000-00-00 00:00:00
 amo	koko	チキン	a cock, a hen, chicken, fowl	G5	0    	0000-00-00 00:00:00
@@ -622,7 +622,7 @@ stomako	merkredo	水曜日	Wednesday	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	vendredo	金曜日	Friday	KO,G5,ZG	0    	0000-00-00 00:00:00
 glacio	fiŝkaptado	魚釣り	fish-catching, catching fishes	NA,4H	0    	0000-00-00 00:00:00
 kiom	ilustri	絵で説明する、飾る、漫画を描く	to illustrate	G8	0    	0000-00-00 00:00:00
-veturi	des	それだけ（juと呼応）	<adverb> so much (more, less)	G7,ZG	0    	0000-00-00 00:00:00
+veturi	des	それだけ（juと呼応）	(adverb)  so much (more, less)	G7,ZG	0    	0000-00-00 00:00:00
 stomako	sabato	土曜日	Saturday	KO,G5,4H,ZG	0    	0000-00-00 00:00:00
 stomako	ĵaŭdo	木曜日	Thursday	KO,G5,ZG	0    	0000-00-00 00:00:00
 stomako	mardo	火曜日	Tuesday	KO,G5,ZG	0    	0000-00-00 00:00:00
@@ -675,7 +675,7 @@ stomako	ŝtupo	階段一行	a step, a stair, a rung	KO,G5	0    	0000-00-00 00:00
 stomako	bordo	川、海岸、水辺	a shore, a waterfront, a bank	KO,G4	0    	0000-00-00 00:00:00
 stomako	justa	公正	fair, just, righteous	KO,G4	0    	0000-00-00 00:00:00
 stomako	lumo	光	a light	KO,4H	0    	0000-00-00 00:00:00
-hundo	malgraŭ ~	〜にもかかわらず	<preposition> despite ~, in spite of ~	G7	0    	0000-00-00 00:00:00
+hundo	malgraŭ ~	〜にもかかわらず	(preposition)  despite ~, in spite of ~	G7	0    	0000-00-00 00:00:00
 glacio	drinkado	飲酒	drinking action	NA	0    	0000-00-00 00:00:00
 veturi	aŭtomobilo	車(=aŭto)	a car, an automobile, a motor car (=aŭto)	G8,4H	0    	0000-00-00 00:00:00
 filo	bonvoli	好意を払う、自発的にする	to will (from heart), to want (from heart)	G9,4H,ZG	0    	0000-00-00 00:00:00
@@ -726,7 +726,7 @@ stomako	nordo	北、北	north	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	kolekto	収集	collection	G4	0    	0000-00-00 00:00:00
 stomako	supro	上、上、絶頂	a top, a summit	G4	0    	0000-00-00 00:00:00
 stomako	oriento	東、東	east	KO,G6,4H	0    	0000-00-00 00:00:00
-veturi	ju	（pliと一緒に）〜やればするほど（ju pli）	<adverb> the (more, less)	G8,ZG	0    	0000-00-00 00:00:00
+veturi	ju	（pliと一緒に）〜やればするほど（ju pli）	(adverb)  the (more, less)	G8,ZG	0    	0000-00-00 00:00:00
 stomako	sudo	南、南	south	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	okcidento	西、西	west	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	juĝi	裁判をする、判決を下す	to judge	KO,G5	0    	0000-00-00 00:00:00
@@ -781,9 +781,9 @@ kanti	malalta	低い	low	NA	0    	0000-00-00 00:00:00
 stomako	viando	肉、肉	meat, a meat	KO,G6,4H	0    	0000-00-00 00:00:00
 stomako	respekti	尊敬する、尊重する	to respect	G6,ZG	0    	0000-00-00 00:00:00
 stomako	forno	ストーブ	a furnace, a stove, an oven	G6,4H	0    	0000-00-00 00:00:00
-veturi	-er-	コンポーネントサフィックス	<suffix> element, small particle of whole	KO,G9,ZG	0    	0000-00-00 00:00:00
+veturi	-er-	コンポーネントサフィックス	(suffix)  element, small particle of whole	KO,G9,ZG	0    	0000-00-00 00:00:00
 kanti	malkovri	発見する、カバーを脱ぐ	to discover, to uncover, to unveil	NA	0    	0000-00-00 00:00:00
-veturi	-aĉ-	邪悪な性質、悪い、粗悪さのサフィックス	<suffix> bad, disgusting	KO,G9,ZG	0    	0000-00-00 00:00:00
+veturi	-aĉ-	邪悪な性質、悪い、粗悪さのサフィックス	(suffix)  bad, disgusting	KO,G9,ZG	0    	0000-00-00 00:00:00
 stomako	branĉo	枝	a branch, a bough	G6,4H,ZG	0    	0000-00-00 00:00:00
 kanti	malhela	暗い	dark, dismal, bleak	NA	0    	0000-00-00 00:00:00
 stomako	mensogi	嘘をつく	to lie, to tell a lie	G6,4H	0    	0000-00-00 00:00:00
@@ -1075,7 +1075,7 @@ stomako	imagi	想像する	to imagine	KO,G6	0    	0000-00-00 00:00:00
 stomako	fidela	忠実	faithful, trustworthy	G6	0    	0000-00-00 00:00:00
 veturi	partopreni	参加する、一緒にする（parto-）	to participate, to take part	NA,4H	0    	0000-00-00 00:00:00
 stomako	kastelo	城	a castle, a citadel	G8,4H,ZG	0    	0000-00-00 00:00:00
-stomako	-op-	＜サフィックス＞数字の集合（集団）	<suffix> a group in numbers	G9	0    	0000-00-00 00:00:00
+stomako	-op-	＜サフィックス＞数字の集合（集団）	(suffix)  a group in numbers	G9	0    	0000-00-00 00:00:00
 veturi	ĉeesti	出席する、出席する、席にいる	to attend, to be present at	NA,4H	0    	0000-00-00 00:00:00
 stomako	televido	テレビ	TV, television	KO	0    	0000-00-00 00:00:00
 stomako	studento	学生、大学生	a student (university)	G8,4H	0    	0000-00-00 00:00:00
@@ -1327,7 +1327,7 @@ stomako	lastjare	昨年	last year	NA	0    	0000-00-00 00:00:00
 flughaveno	vojmontrilo	マイルストーン	a landmark, a signpost	NA,4H	0    	0000-00-00 00:00:00
 stomako	kelo	地下室	a cellar, a basement	G6	0    	0000-00-00 00:00:00
 stomako	firma	頑丈な、固い、頑丈な	firm, stable	G6	0    	0000-00-00 00:00:00
-stomako	eks-	＜プレフィックス＞元	<prefix> ex-, former	G9	0    	0000-00-00 00:00:00
+stomako	eks-	＜プレフィックス＞元	(prefix)  ex-, former	G9	0    	0000-00-00 00:00:00
 stomako	kilogramo	キログラム	a kilogram	KO,G6	0    	0000-00-00 00:00:00
 stomako	frago	イチゴ	a strawberry	G8,4H	0    	0000-00-00 00:00:00
 stomako	pato	フライパン	a frying pan	G8,4H	0    	0000-00-00 00:00:00
@@ -1339,7 +1339,7 @@ stomako	matura	成熟した、熟した	mature, ripe	G6	0    	0000-00-00 00:00:0
 flughaveno	kulerego	スクープ（大きなスプーン）	bucket, a large spoon	NA,4H	0    	0000-00-00 00:00:00
 stomako	konduti	処罰する、〜するように行動する	to conduct oneself, to behave	G6	0    	0000-00-00 00:00:00
 flughaveno	vere	本当に	really, genuinly, truly	NA,4H	0    	0000-00-00 00:00:00
-stomako	mis-	&lt;プレフィックス&gt; 間違っている、間違いを示す	<prefix> mis-	G9	0    	0000-00-00 00:00:00
+stomako	mis-	&lt;プレフィックス&gt; 間違っている、間違いを示す	(prefix)  mis-	G9	0    	0000-00-00 00:00:00
 stomako	kvieta	静か	quiet, calm	G6	0    	0000-00-00 00:00:00
 kontenta	funkcii	機能する、動作する	to function, to operate, to work	NA,4H	0    	0000-00-00 00:00:00
 stomako	konvena	フィット、フィット、（服）フィット	appropriate, suitable	G6	0    	0000-00-00 00:00:00
@@ -1354,14 +1354,14 @@ stomako	mieno	表情	a (facial) expression	G6	0    	0000-00-00 00:00:00
 stomako	pensio	年金	pension, annuity	G9	0    	0000-00-00 00:00:00
 stomako	princo	王子	a prince	G9,4H	0    	0000-00-00 00:00:00
 stomako	sorto	運命	destiny, fate, fortune	G6	0    	0000-00-00 00:00:00
-stomako	-end-	&lt;サフィックス&gt;〜しなければならない	<suffix> obligation	G9	0    	0000-00-00 00:00:00
+stomako	-end-	&lt;サフィックス&gt;〜しなければならない	(suffix)  obligation	G9	0    	0000-00-00 00:00:00
 kontenta	longaj ŝtrumpoj	ロングソックス、ストッキング	long stockings	NA,4H	0    	0000-00-00 00:00:00
 stomako	barbo	ひげ	beard	G6	0    	0000-00-00 00:00:00
-stomako	-ing-	＜接尾辞＞ 一端を差し込むか、差し込むもの	<suffix> long holder, socket	G9	0    	0000-00-00 00:00:00
+stomako	-ing-	＜接尾辞＞ 一端を差し込むか、差し込むもの	(suffix)  long holder, socket	G9	0    	0000-00-00 00:00:00
 kontenta	bongusta	おいしい	delicious, good-tasted	NA,4H	0    	0000-00-00 00:00:00
 stomako	flegi	看護する、保護する	to take care of, to nurse	G6	0    	0000-00-00 00:00:00
-stomako	-njo	＜サフィックス＞女性愛称（例：ママ）	<suffix> female pet name	G9	0    	0000-00-00 00:00:00
-stomako	-ĉjo	&lt;サフィックス&gt;男性愛称（例：お父さん）	<suffix> male pet name	G9	0    	0000-00-00 00:00:00
+stomako	-njo	＜サフィックス＞女性愛称（例：ママ）	(suffix)  female pet name	G9	0    	0000-00-00 00:00:00
+stomako	-ĉjo	&lt;サフィックス&gt;男性愛称（例：お父さん）	(suffix)  male pet name	G9	0    	0000-00-00 00:00:00
 stomako	plugi	耕作、（畑）	to plow, to plough, to till	G6	0    	0000-00-00 00:00:00
 kontenta	amletero	恋愛手紙、愛の手紙	a loveletter	NA,ZG	0    	0000-00-00 00:00:00
 stomako	glaso da	ガラスの	a glass of	NA	0    	0000-00-00 00:00:00
@@ -1631,7 +1631,7 @@ stomako	kvanto	量、分量	quantity, amount	KO,G7	0    	0000-00-00 00:00:00
 stomako	batilo	バット（バット）	a bat (to hit)	NA	0    	0000-00-00 00:00:00
 stomako	kvalito	品質、品質	quality, property	KO,G7	0    	0000-00-00 00:00:00
 stomako	laŭte	大きく（音）	loudly, aloud	NA	0    	0000-00-00 00:00:00
-stomako	-ut-	&lt;母語&gt;仮定法受動態	<suffix> conditional passive	ZG	0    	0000-00-00 00:00:00
+stomako	-ut-	&lt;母語&gt;仮定法受動態	(suffix)  conditional passive	ZG	0    	0000-00-00 00:00:00
 stomako	kristnasko	クリスマス	Christmas	NA	0    	0000-00-00 00:00:00
 stomako	vivo	生命、生活	a life	NA	0    	0000-00-00 00:00:00
 stomako	freneza	クレイジー	crazy, insane, mad	KO,G7	0    	0000-00-00 00:00:00
@@ -2380,7 +2380,7 @@ stomako	heredi	継承される、受け継がれる	to inherit	G8	0    	0000-00-
 stomako	flugbileto	飛行機票	an air ticket	NA	0    	0000-00-00 00:00:00
 stomako	robo	ロングスーツ、衣服、法服	a dress	KO,G8	0    	0000-00-00 00:00:00
 stomako	egipto	エジプト人	an Egyptian person	PA	0    	0000-00-00 00:00:00
-stomako	-unt	＜母語＞家庭法能動態	<suffix> conditional active	ZG	0    	0000-00-00 00:00:00
+stomako	-unt	＜母語＞家庭法能動態	(suffix)  conditional active	ZG	0    	0000-00-00 00:00:00
 stomako	frenezulo	クレイジー、狂人	a fanatic, a lunatic, a maniac	NA	0    	0000-00-00 00:00:00
 stomako	ekde	~から	since	ZG	0    	0000-00-00 00:00:00
 stomako	observi	観察する、守るより、順守する	to observe	G8	0    	0000-00-00 00:00:00
@@ -2539,7 +2539,7 @@ stomako	irako	イラク	Iraq	OA	0    	0000-00-00 00:00:00
 stomako	resumo	要約、概要	a summary, a digest, a résumé, a sum-up	G9	0    	0000-00-00 00:00:00
 stomako	promeno	散歩	a promenade, a walking	ZG	0    	0000-00-00 00:00:00
 stomako	horizontalo	水平	a horizontal line	G9	0    	0000-00-00 00:00:00
-stomako	fi-	＜プレフィックス＞悲しみ、軽蔑、憎悪、汚い	<prefix> shameful, disgusting, dirty	NA	0    	0000-00-00 00:00:00
+stomako	fi-	＜プレフィックス＞悲しみ、軽蔑、憎悪、汚い	(prefix)  shameful, disgusting, dirty	NA	0    	0000-00-00 00:00:00
 stomako	aŭkcio	オークション	an auction	OA	0    	0000-00-00 00:00:00
 stomako	konkludi	結論を出す	to conclude	G8	0    	0000-00-00 00:00:00
 stomako	salivo	唾液、唾液	saliva, slaver	OA	0    	0000-00-00 00:00:00
@@ -5876,7 +5876,7 @@ stomako	Antono	アントニー（名前）	Anthony	NA	0    	0000-00-00 00:00:00
 stomako	Anno	アンナ（名前）	Anna	NA	0    	0000-00-00 00:00:00
 stomako	Berto	ベルタ（名前）	Bert	NA	0    	0000-00-00 00:00:00
 stomako	apelacio	上訴、控訴、告訴人	an appeal, an accuser	NA	0    	0000-00-00 00:00:00
-stomako	antimono	&lt;化&gt;アンチモン	<chem> antimony	NA	0    	0000-00-00 00:00:00
+stomako	antimono	&lt;化&gt;アンチモン	(chem)  antimony	NA	0    	0000-00-00 00:00:00
 stomako	apokrifo	疑わしいソースの外径	apocrypha	NA	0    	0000-00-00 00:00:00
 stomako	apoteozo	神格化	apotheosis	NA	0    	0000-00-00 00:00:00
 stomako	ardezo	（天然）ストレート、スラブ	slate	NA	0    	0000-00-00 00:00:00
@@ -5896,7 +5896,7 @@ stomako	ĉano	（銃の）打撃、撃墜	a cock (of a gun), a hammer (of a gun)
 stomako	afekcii	感動させる。病気を引き起こす。	to affect	NA	0    	0000-00-00 00:00:00
 stomako	hardi	強くする。	to toughen	NA	0    	0000-00-00 00:00:00
 stomako	areno	闘技場、武道場、活躍舞台	an arena	NA	0    	0000-00-00 00:00:00
-stomako	arseniko	ヒ素、石	<chem> arsenic	NA	0    	0000-00-00 00:00:00
+stomako	arseniko	ヒ素、石	(chem)  arsenic	NA	0    	0000-00-00 00:00:00
 stomako	borakso	ホウ砂	borax	NA	0    	0000-00-00 00:00:00
 stomako	aspiro	願望、抱負、憧れ、憧れ	aspiration	NA	0    	0000-00-00 00:00:00
 stomako	atribuo	せいで回す、割り当て、配当	attribution, allocation	NA	0    	0000-00-00 00:00:00

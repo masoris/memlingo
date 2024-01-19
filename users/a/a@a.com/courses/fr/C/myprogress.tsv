@@ -13,23 +13,23 @@ level	mem	par soi-même	by oneself	grupo	0    	0000-00-00 00:00:00
 level	ĝis ~	jusqu'à ~, jusqu'à ~	upto ~, until ~	grupo	0    	0000-00-00 00:00:00
 level	de ~	de ~	of ~	grupo	0    	0000-00-00 00:00:00
 level	da ~	(beaucoup) de ~, (beaucoup) de ~	(much) of ~, (many) of ~	grupo	0    	0000-00-00 00:00:00
-level	-aĵo	<suffix>chose, manifestation concrète	<suffix> thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
+level	-aĵo	(suffix) chose, manifestation concrète	(suffix)  thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
 level	proksima	près, près de, bientôt, à proximité	near, close to, soon, nearby	grupo	0    	0000-00-00 00:00:00
-level	-adi	<suffix>action répétitive, action durable	<suffix> repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
-level	-as	<suffix>présent	<suffix> present tense	grupo	0    	0000-00-00 00:00:00
-level	-is	<suffix>passé	<suffix> past tense	grupo	0    	0000-00-00 00:00:00
+level	-adi	(suffix) action répétitive, action durable	(suffix)  repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
+level	-as	(suffix) présent	(suffix)  present tense	grupo	0    	0000-00-00 00:00:00
+level	-is	(suffix) passé	(suffix)  past tense	grupo	0    	0000-00-00 00:00:00
 level	esti	être	to be	grupo	0    	0000-00-00 00:00:00
-level	-os	<suffix>le futur	<suffix> future tense	grupo	0    	0000-00-00 00:00:00
-level	antaŭ ~	<prep>avant ~, devant ~	<preposition> before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
+level	-os	(suffix) le futur	(suffix)  future tense	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ~	(prep) avant ~, devant ~	(preposition)  before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
 level	fari	faire, faire	to make, to do	grupo	0    	0000-00-00 00:00:00
-level	ankaŭ ~	<prep>aussi trop	<preposition> also, too	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ~	(prep) aussi trop	(preposition)  also, too	grupo	0    	0000-00-00 00:00:00
 level	post ~	après ~	after ~	grupo	0    	0000-00-00 00:00:00
-level	mal-	<prefix>opposé	<prefix> opposite	grupo	0    	0000-00-00 00:00:00
-level	-ul-	<suffix>une personne ayant un certain caractère	<suffix> a person of some trait	grupo	0    	0000-00-00 00:00:00
-level	-in-	<suffix>femelle	<suffix> female	grupo	0    	0000-00-00 00:00:00
-level	-ant-	<suffix>présent actif, est ~ing, quelqu'un qui ~ing	<suffix> active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
-level	-int-	<suffix>passé actif, était ~ing	<suffix> active past, was ~ing	grupo	0    	0000-00-00 00:00:00
-level	-ont-	<suffix>un avenir actif, sera ~ing	<suffix> active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
+level	mal-	(prefix) opposé	(prefix)  opposite	grupo	0    	0000-00-00 00:00:00
+level	-ul-	(suffix) une personne ayant un certain caractère	(suffix)  a person of some trait	grupo	0    	0000-00-00 00:00:00
+level	-in-	(suffix) femelle	(suffix)  female	grupo	0    	0000-00-00 00:00:00
+level	-ant-	(suffix) présent actif, est ~ing, quelqu'un qui ~ing	(suffix)  active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
+level	-int-	(suffix) passé actif, était ~ing	(suffix)  active past, was ~ing	grupo	0    	0000-00-00 00:00:00
+level	-ont-	(suffix) un avenir actif, sera ~ing	(suffix)  active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
 level	kaj (k.)	et	and	grupo	0    	0000-00-00 00:00:00
 level	aŭ	ou	or	grupo	0    	0000-00-00 00:00:00
 level	alta	grande taille	high, tall	grupo	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ level	kiom	combien	how much, how many	grupo	0    	0000-00-00 00:00:00
 level	ofte	souvent fréquemment	often, frequently	grupo	0    	0000-00-00 00:00:00
 level	iom	un peu, plutôt, un peu, un peu	a little, rather, some, somewhat	grupo	0    	0000-00-00 00:00:00
 level	nova	nouveau, roman	new, novel	grupo	0    	0000-00-00 00:00:00
-level	-at-	<suffix>Participe présent passif	<suffix> passive present participle	grupo	0    	0000-00-00 00:00:00
-level	-it-	<suffix>participe passé passif	<suffix> passive past participle	grupo	0    	0000-00-00 00:00:00
-level	-ot-	<suffix>participe futur passif	<suffix> passive future participle	grupo	0    	0000-00-00 00:00:00
+level	-at-	(suffix) Participe présent passif	(suffix)  passive present participle	grupo	0    	0000-00-00 00:00:00
+level	-it-	(suffix) participe passé passif	(suffix)  passive past participle	grupo	0    	0000-00-00 00:00:00
+level	-ot-	(suffix) participe futur passif	(suffix)  passive future participle	grupo	0    	0000-00-00 00:00:00
 level	tre	très, assez, beaucoup	very, quite, very much	grupo	0    	0000-00-00 00:00:00
 level	tro	trop, excessivement, trop	too, excessively, too much	grupo	0    	0000-00-00 00:00:00
 level	tamen	cependant, néanmoins, mais, néanmoins	however, nonetheless, but, nevertheless	grupo	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ level	ho!	Oh! Ho!	Oh! Ho!	grupo	0    	0000-00-00 00:00:00
 level	ke ~	ça ~	that ~	grupo	0    	0000-00-00 00:00:00
 level	ĉar ~	parce que ~	because ~	grupo	0    	0000-00-00 00:00:00
 level	ĉu	si ~	whether ~	grupo	0    	0000-00-00 00:00:00
-level	-ej-	<suffix>lieu	<suffix> place	grupo	0    	0000-00-00 00:00:00
-level	-ec-	<suffix>nom abstrait de la qualité	<suffix> abstract name of quality	grupo	0    	0000-00-00 00:00:00
+level	-ej-	(suffix) lieu	(suffix)  place	grupo	0    	0000-00-00 00:00:00
+level	-ec-	(suffix) nom abstrait de la qualité	(suffix)  abstract name of quality	grupo	0    	0000-00-00 00:00:00
 level	ambaŭ ~	les deux ~	both ~	grupo	0    	0000-00-00 00:00:00
 level	tuj	immédiatement, instantanément, tout de suite	immediately, instantly, right away	grupo	0    	0000-00-00 00:00:00
 level	kvazaŭ ~	comme si ~	as if ~	grupo	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ level	neniam	jamais, à aucun moment, jamais	never, at no time, not ever	grupo	0
 level	tial	donc, donc	therefore, so	grupo	0    	0000-00-00 00:00:00
 level	kial	pourquoi, pour quoi faire	why, what for	grupo	0    	0000-00-00 00:00:00
 level	kvankam	bien que ~, pendant que, cependant	although ~, while, though	grupo	0    	0000-00-00 00:00:00
-level	ĉe ~	<prep>à ~	<preposition> at ~	grupo	0    	0000-00-00 00:00:00
+level	ĉe ~	(prep) à ~	(preposition)  at ~	grupo	0    	0000-00-00 00:00:00
 level	pli	plus	more	grupo	0    	0000-00-00 00:00:00
 level	plej	la plupart	most	grupo	0    	0000-00-00 00:00:00
 level	diri	dire, dire	to say, to tell	grupo	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ level	tia	tel, ce genre de, tel	such, that kind of, such a	grupo	0    	0000-00-0
 level	apenaŭ	à peine, à peine, à peine	barely, hardly, scarecely	grupo	0    	0000-00-00 00:00:00
 level	sendi	envoyer	to send	grupo	0    	0000-00-00 00:00:00
 level	ĵus	juste (il y a un instant), juste maintenant	just (a moment ago), just now	grupo	0    	0000-00-00 00:00:00
-level	-u	<suffix>impératif	<suffix> imperative	grupo	0    	0000-00-00 00:00:00
+level	-u	(suffix) impératif	(suffix)  imperative	grupo	0    	0000-00-00 00:00:00
 level	ekster ~	dehors ~	outside ~	grupo	0    	0000-00-00 00:00:00
-level	ge-	<prefix>les deux sexes, les deux genres	<prefix> both sex, both gender	grupo	0    	0000-00-00 00:00:00
-level	-us	<suffix>serait, devrait, subjonctif	<suffix> would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
+level	ge-	(prefix) les deux sexes, les deux genres	(prefix)  both sex, both gender	grupo	0    	0000-00-00 00:00:00
+level	-us	(suffix) serait, devrait, subjonctif	(suffix)  would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
 level	baldaŭ	bientôt	soon	grupo	0    	0000-00-00 00:00:00
 level	almenaŭ	du moins, si rien d'autre	at least, if nothing else	grupo	0    	0000-00-00 00:00:00
 level	dis-	dis-	dis-	grupo	0    	0000-00-00 00:00:00
-level	-uj-	<suffix>récipient; pays	<suffix> container; country	grupo	0    	0000-00-00 00:00:00
+level	-uj-	(suffix) récipient; pays	(suffix)  container; country	grupo	0    	0000-00-00 00:00:00
 level	lerni	apprendre	to learn	grupo	0    	0000-00-00 00:00:00
-level	ek-	<prefix>début; début soudain	<prefix> beginning; sudden start	grupo	0    	0000-00-00 00:00:00
+level	ek-	(prefix) début; début soudain	(prefix)  beginning; sudden start	grupo	0    	0000-00-00 00:00:00
 level	se	si, à condition que	if, provided that	grupo	0    	0000-00-00 00:00:00
 level	eĉ	même	even	grupo	0    	0000-00-00 00:00:00
 level	amo	un amour	a love	grupo	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ level	fini	finir, finir, terminer	to end, to finish, to terminate	grupo	0    	00
 level	do	alors, donc, donc	so, then, therefore	grupo	0    	0000-00-00 00:00:00
 level	ajn	~ jamais, (quoi) jamais, du tout, - peu importe	~ever, (what)ever, at all, -soever	grupo	0    	0000-00-00 00:00:00
 level	facila	facile, facile	easy, facile	grupo	0    	0000-00-00 00:00:00
-level	re-	<prefix>concernant-	<prefix> re-	grupo	0    	0000-00-00 00:00:00
+level	re-	(prefix) concernant-	(prefix)  re-	grupo	0    	0000-00-00 00:00:00
 level	granda	grand, grand, grand	big, great, large	grupo	0    	0000-00-00 00:00:00
-level	-ist-	<suffix>professionnel	<suffix> professional	grupo	0    	0000-00-00 00:00:00
-level	pro ~	<prep>à cause de ~, à cause de ~	<preposition> because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
-level	-estr-	<suffix>chef, patron, chef, chef	<suffix> leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
+level	-ist-	(suffix) professionnel	(suffix)  professional	grupo	0    	0000-00-00 00:00:00
+level	pro ~	(prep) à cause de ~, à cause de ~	(preposition)  because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
+level	-estr-	(suffix) chef, patron, chef, chef	(suffix)  leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
 level	kio	quoi	what	grupo	0    	0000-00-00 00:00:00
 level	manĝi	manger	to eat	grupo	0    	0000-00-00 00:00:00
 level	nenio	rien, rien, rien	nothing, none, not any thing	grupo	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ level	ĉio	tout	everything	grupo	0    	0000-00-00 00:00:00
 level	riĉa	riche, riche, aisé	rich, wealthy, well-off	grupo	0    	0000-00-00 00:00:00
 level	tio	cette chose, ça	that thing, that	grupo	0    	0000-00-00 00:00:00
 level	konstrui	construire, construire	to build, to construct	grupo	0    	0000-00-00 00:00:00
-level	ĉef-	<prefix>chef, leader, principal	<prefix> chief, leading, main	grupo	0    	0000-00-00 00:00:00
-level	sen ~	<prep>sans ~	<preposition> without ~	grupo	0    	0000-00-00 00:00:00
-level	kun ~	<prep>avec ~ (ensemble)	<preposition> with ~ (together)	grupo	0    	0000-00-00 00:00:00
-level	krom ~	<prep>sauf ~, en plus ~	<preposition> except ~, besides ~	grupo	0    	0000-00-00 00:00:00
+level	ĉef-	(prefix) chef, leader, principal	(prefix)  chief, leading, main	grupo	0    	0000-00-00 00:00:00
+level	sen ~	(prep) sans ~	(preposition)  without ~	grupo	0    	0000-00-00 00:00:00
+level	kun ~	(prep) avec ~ (ensemble)	(preposition)  with ~ (together)	grupo	0    	0000-00-00 00:00:00
+level	krom ~	(prep) sauf ~, en plus ~	(preposition)  except ~, besides ~	grupo	0    	0000-00-00 00:00:00
 level	amiko	un ami	a friend	grupo	0    	0000-00-00 00:00:00
 level	kies	à qui, lequel, dont	whose, which one's, of which	grupo	0    	0000-00-00 00:00:00
-level	per ~	<prep>par ~ (une méthode), avec ~ (un outil)	<preposition> by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
+level	per ~	(prep) par ~ (une méthode), avec ~ (un outil)	(preposition)  by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
 level	kontraŭ ~	contre ~	against ~	grupo	0    	0000-00-00 00:00:00
 level	el ~	hors de ~, de ~	out of ~, from ~	grupo	0    	0000-00-00 00:00:00
 level	hodiaŭ	aujourd'hui	today	grupo	0    	0000-00-00 00:00:00
 level	hieraŭ	hier	yesterday	grupo	0    	0000-00-00 00:00:00
 level	nur	seulement, juste, exclusivement	only, just, exclusively	grupo	0    	0000-00-00 00:00:00
 level	helpi	aider, aider, assister	to help, to aid, to assist	grupo	0    	0000-00-00 00:00:00
-level	for	<adv>loin	<adverb> far, away	grupo	0    	0000-00-00 00:00:00
+level	for	(adv) loin	(adverb)  far, away	grupo	0    	0000-00-00 00:00:00
 level	nek	ni, ni l'un ni l'autre	nor, neither	grupo	0    	0000-00-00 00:00:00
 level	malamo	une haine	a hate	grupo	0    	0000-00-00 00:00:00
 level	preskaŭ	presque, presque	almost, nearly	grupo	0    	0000-00-00 00:00:00
@@ -137,7 +137,7 @@ level	tiu	cette personne, celle-là, celle-là, là-bas	that person, that ~, tha
 level	iu	quelqu'un, quelqu'un, certains	someone, somebody, some	grupo	0    	0000-00-00 00:00:00
 level	neniu	personne, personne, ni l'un ni l'autre	nobody, no one, neither	grupo	0    	0000-00-00 00:00:00
 level	al ~	à ~	to ~	grupo	0    	0000-00-00 00:00:00
-level	-ebl-	<suffix>~capable	<suffix> ~able	grupo	0    	0000-00-00 00:00:00
+level	-ebl-	(suffix) ~capable	(suffix)  ~able	grupo	0    	0000-00-00 00:00:00
 level	esperi	espérer	to hope	grupo	0    	0000-00-00 00:00:00
 level	unu	un	one	grupo	0    	0000-00-00 00:00:00
 level	du	deux	two	grupo	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ level	naŭ	neuf	nine	grupo	0    	0000-00-00 00:00:00
 level	dek	dix	ten	grupo	0    	0000-00-00 00:00:00
 level	cent	cent	a hundred	grupo	0    	0000-00-00 00:00:00
 level	mil	un millier	a thousand	grupo	0    	0000-00-00 00:00:00
-level	-obl-	<suffix>pour la multiplicité, -oble, -fold	<suffix> for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
-level	-on-	<suffix>~ème, fraction	<suffix> ~th, fraction	grupo	0    	0000-00-00 00:00:00
+level	-obl-	(suffix) pour la multiplicité, -oble, -fold	(suffix)  for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
+level	-on-	(suffix) ~ème, fraction	(suffix)  ~th, fraction	grupo	0    	0000-00-00 00:00:00
 level	ama	d'amour	of love	grupo	0    	0000-00-00 00:00:00
 level	anstataŭ ~	au lieu de ~	instead of ~	grupo	0    	0000-00-00 00:00:00
-level	-iĝ-	<suffix>devenir	<suffix> become	grupo	0    	0000-00-00 00:00:00
+level	-iĝ-	(suffix) devenir	(suffix)  become	grupo	0    	0000-00-00 00:00:00
 level	voli	vouloir, vouloir, être prêt à	to want, to will, to be willing to	grupo	0    	0000-00-00 00:00:00
-level	-ig-	<suffix>faire devenir	<suffix> cause to become	grupo	0    	0000-00-00 00:00:00
+level	-ig-	(suffix) faire devenir	(suffix)  cause to become	grupo	0    	0000-00-00 00:00:00
 level	sekvi	suivre	to follow	grupo	0    	0000-00-00 00:00:00
 level	ĝoje	volontier	gladly	grupo	0    	0000-00-00 00:00:00
 level	legi	lire	to read	grupo	0    	0000-00-00 00:00:00
 level	silenta	silencieux	silent	grupo	0    	0000-00-00 00:00:00
 level	la	le	the	grupo	0    	0000-00-00 00:00:00
 level	ha!	Ha!	ha!	grupo	0    	0000-00-00 00:00:00
-level	-il-	<suffix>outil, méthode	<suffix> tool, method	grupo	0    	0000-00-00 00:00:00
+level	-il-	(suffix) outil, méthode	(suffix)  tool, method	grupo	0    	0000-00-00 00:00:00
 level	trinki	boire (sans alcool)	to drink (non-alkohol)	grupo	0    	0000-00-00 00:00:00
-level	-et-	<suffix>petit peu	<suffix> small, little	grupo	0    	0000-00-00 00:00:00
-level	-eg-	<suffix>grand, grand	<suffix> big, large	grupo	0    	0000-00-00 00:00:00
-level	inter ~	<prep>entre ~	<preposition> between ~	grupo	0    	0000-00-00 00:00:00
-level	-um-	<suffix>comportement associé	<suffix> related behavior	grupo	0    	0000-00-00 00:00:00
-level	-ar-	<suffix>ensemble, groupe	<suffix> set, group	grupo	0    	0000-00-00 00:00:00
-level	-an-	<suffix>membre d'un groupe	<suffix> member of a group	grupo	0    	0000-00-00 00:00:00
+level	-et-	(suffix) petit peu	(suffix)  small, little	grupo	0    	0000-00-00 00:00:00
+level	-eg-	(suffix) grand, grand	(suffix)  big, large	grupo	0    	0000-00-00 00:00:00
+level	inter ~	(prep) entre ~	(preposition)  between ~	grupo	0    	0000-00-00 00:00:00
+level	-um-	(suffix) comportement associé	(suffix)  related behavior	grupo	0    	0000-00-00 00:00:00
+level	-ar-	(suffix) ensemble, groupe	(suffix)  set, group	grupo	0    	0000-00-00 00:00:00
+level	-an-	(suffix) membre d'un groupe	(suffix)  member of a group	grupo	0    	0000-00-00 00:00:00
 level	danki	remercier	to thank	grupo	0    	0000-00-00 00:00:00
-level	-ind-	<suffix>utile, digne	<suffix> worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
+level	-ind-	(suffix) utile, digne	(suffix)  worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
 level	plu	encore plus, plus loin, et ainsi de suite, plus	even more, further, and so on, more	grupo	0    	0000-00-00 00:00:00
 level	kiel	comment, genre, de quelle manière, comme	how, like, in what way, such as	grupo	0    	0000-00-00 00:00:00
 level	tiel	tel, de cette façon, ainsi	such, in that way, thus	grupo	0    	0000-00-00 00:00:00
-level	en ~	<prep>dans ~	<preposition> in ~	grupo	0    	0000-00-00 00:00:00
-level	apud ~	<prep>à côté de ~, à côté de ~	<preposition> next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
-level	sub ~	<prep>dessous, dessous ~	<preposition> under, beneath ~	grupo	0    	0000-00-00 00:00:00
-level	sur ~	<prep>sur ~	<preposition> on ~	grupo	0    	0000-00-00 00:00:00
-level	je ~	<prep>préparation indéfinie, à, dans, par, sur	<preposition> indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
-level	ankoraŭ	<adv>encore, encore	<adverb> still, yet	grupo	0    	0000-00-00 00:00:00
-level	ĉirkaŭ ~	<prep>autour de ~	<preposition> around ~	grupo	0    	0000-00-00 00:00:00
+level	en ~	(prep) dans ~	(preposition)  in ~	grupo	0    	0000-00-00 00:00:00
+level	apud ~	(prep) à côté de ~, à côté de ~	(preposition)  next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
+level	sub ~	(prep) dessous, dessous ~	(preposition)  under, beneath ~	grupo	0    	0000-00-00 00:00:00
+level	sur ~	(prep) sur ~	(preposition)  on ~	grupo	0    	0000-00-00 00:00:00
+level	je ~	(prep) préparation indéfinie, à, dans, par, sur	(preposition)  indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ	(adv) encore, encore	(adverb)  still, yet	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ ~	(prep) autour de ~	(preposition)  around ~	grupo	0    	0000-00-00 00:00:00
 level	sed	mais	but	grupo	0    	0000-00-00 00:00:00
 level	ie	quelque part	somewhere	grupo	0    	0000-00-00 00:00:00
 level	kie	où, à quel endroit	where, at what place	grupo	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ level	tie	là, là-bas, là-bas	there, over there, yonder	grupo	0    	0000-00-00
 level	ĉi	ça ~	this ~	grupo	0    	0000-00-00 00:00:00
 level	kanti	chanter	to sing	grupo	0    	0000-00-00 00:00:00
 level	morti	mourir, décéder	to die, to pass away	grupo	0    	0000-00-00 00:00:00
-level	dum ~	<prep>pendant ~, pendant que ~	<preposition> during ~, while ~	grupo	0    	0000-00-00 00:00:00
+level	dum ~	(prep) pendant ~, pendant que ~	(preposition)  during ~, while ~	grupo	0    	0000-00-00 00:00:00
 level	nacio	une nation	a nation	grupo	0    	0000-00-00 00:00:00
 level	koni	connaître (une personne), faire la connaissance de	to know (a person), to be aquainted with	grupo	0    	0000-00-00 00:00:00
 level	scii	savoir (un fait, une connaissance), savoir comment	to know (a fact, knowledge), to know how	grupo	0    	0000-00-00 00:00:00
 level	ĉiam	toujours, toujours	always, ever	grupo	0    	0000-00-00 00:00:00
 level	iam	à un moment donné, une fois	at some time, once	grupo	0    	0000-00-00 00:00:00
 level	tiam	alors	then	grupo	0    	0000-00-00 00:00:00
-level	-em-	<suffix>tendance	<suffix> tendancy	grupo	0    	0000-00-00 00:00:00
+level	-em-	(suffix) tendance	(suffix)  tendancy	grupo	0    	0000-00-00 00:00:00
 level	ia	une sorte de	some kind of	grupo	0    	0000-00-00 00:00:00
 level	sukcesi	réussir	to succeed	grupo	0    	0000-00-00 00:00:00
 level	ĉia	de toutes sortes, de toutes sortes	of all kind, every kind of	grupo	0    	0000-00-00 00:00:00
 level	nenia	non, pas n'importe quel genre, pas n'importe lequel	no, not any kind of, not any	grupo	0    	0000-00-00 00:00:00
-level	-id-	<suffix>progéniture	<suffix> offspring	grupo	0    	0000-00-00 00:00:00
+level	-id-	(suffix) progéniture	(suffix)  offspring	grupo	0    	0000-00-00 00:00:00
 level	ĉambro	une chambre, une chambre	a room, a chamber	grupo	0    	0000-00-00 00:00:00
 level	patro	un père	a father	grupo	0    	0000-00-00 00:00:00
 level	porko	un cochon, un porc	a pig, swine	grupo	0    	0000-00-00 00:00:00
-level	bo-	<prefix>-beau-frère, par alliance	<prefix> -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
+level	bo-	(prefix) -beau-frère, par alliance	(prefix)  -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
 level	ja	en effet	indeed	grupo	0    	0000-00-00 00:00:00
-level	-ism-	<suffix>-isme	<suffix> -ism	grupo	0    	0000-00-00 00:00:00
+level	-ism-	(suffix) -isme	(suffix)  -ism	grupo	0    	0000-00-00 00:00:00
 level	io	quelque chose	something	grupo	0    	0000-00-00 00:00:00
 level	veturi	conduire (un véhicule)	to drive (a vehicle)	grupo	0    	0000-00-00 00:00:00
 level	koko	un coq, une poule, un poulet, une volaille	a cock, a hen, chicken, fowl	grupo	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ level	merkredo	Mercredi	Wednesday	grupo	0    	0000-00-00 00:00:00
 level	vendredo	Vendredi	Friday	grupo	0    	0000-00-00 00:00:00
 level	fiŝkaptado	attraper du poisson, attraper des poissons	fish-catching, catching fishes	grupo	0    	0000-00-00 00:00:00
 level	ilustri	pour illustrer	to illustrate	grupo	0    	0000-00-00 00:00:00
-level	des	<adv>tellement (plus, moins)	<adverb> so much (more, less)	grupo	0    	0000-00-00 00:00:00
+level	des	(adv) tellement (plus, moins)	(adverb)  so much (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sabato	Samedi	Saturday	grupo	0    	0000-00-00 00:00:00
 level	ĵaŭdo	Jeudi	Thursday	grupo	0    	0000-00-00 00:00:00
 level	mardo	Mardi	Tuesday	grupo	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ level	ŝtupo	une marche, un escalier, un barreau	a step, a stair, a rung	grupo	0
 level	bordo	un rivage, un front de mer, une banque	a shore, a waterfront, a bank	grupo	0    	0000-00-00 00:00:00
 level	justa	juste, juste, juste	fair, just, righteous	grupo	0    	0000-00-00 00:00:00
 level	lumo	une lumière	a light	grupo	0    	0000-00-00 00:00:00
-level	malgraŭ ~	<prep>malgré ~, malgré ~	<preposition> despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
+level	malgraŭ ~	(prep) malgré ~, malgré ~	(preposition)  despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
 level	drinkado	action de boire	drinking action	grupo	0    	0000-00-00 00:00:00
 level	aŭtomobilo	une voiture, une automobile, une automobile (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	0    	0000-00-00 00:00:00
 level	bonvoli	vouloir (du cœur), vouloir (du cœur)	to will (from heart), to want (from heart)	grupo	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ level	nordo	nord	north	grupo	0    	0000-00-00 00:00:00
 level	kolekto	collection	collection	grupo	0    	0000-00-00 00:00:00
 level	supro	un sommet, un sommet	a top, a summit	grupo	0    	0000-00-00 00:00:00
 level	oriento	est	east	grupo	0    	0000-00-00 00:00:00
-level	ju	<adv>le (plus, moins)	<adverb> the (more, less)	grupo	0    	0000-00-00 00:00:00
+level	ju	(adv) le (plus, moins)	(adverb)  the (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sudo	sud	south	grupo	0    	0000-00-00 00:00:00
 level	okcidento	Ouest	west	grupo	0    	0000-00-00 00:00:00
 level	juĝi	juger	to judge	grupo	0    	0000-00-00 00:00:00
@@ -782,9 +782,9 @@ level	malalta	faible	low	grupo	0    	0000-00-00 00:00:00
 level	viando	de la viande, une viande	meat, a meat	grupo	0    	0000-00-00 00:00:00
 level	respekti	respecter	to respect	grupo	0    	0000-00-00 00:00:00
 level	forno	un fourneau, une cuisinière, un four	a furnace, a stove, an oven	grupo	0    	0000-00-00 00:00:00
-level	-er-	<suffix>élément, petite particule du tout	<suffix> element, small particle of whole	grupo	0    	0000-00-00 00:00:00
+level	-er-	(suffix) élément, petite particule du tout	(suffix)  element, small particle of whole	grupo	0    	0000-00-00 00:00:00
 level	malkovri	découvrir, découvrir, dévoiler	to discover, to uncover, to unveil	grupo	0    	0000-00-00 00:00:00
-level	-aĉ-	<suffix>mauvais, dégoûtant	<suffix> bad, disgusting	grupo	0    	0000-00-00 00:00:00
+level	-aĉ-	(suffix) mauvais, dégoûtant	(suffix)  bad, disgusting	grupo	0    	0000-00-00 00:00:00
 level	branĉo	une branche, un rameau	a branch, a bough	grupo	0    	0000-00-00 00:00:00
 level	malhela	sombre, lugubre, lugubre	dark, dismal, bleak	grupo	0    	0000-00-00 00:00:00
 level	mensogi	mentir, mentir	to lie, to tell a lie	grupo	0    	0000-00-00 00:00:00
@@ -1076,7 +1076,7 @@ level	imagi	imaginer	to imagine	grupo	0    	0000-00-00 00:00:00
 level	fidela	fidèle, digne de confiance	faithful, trustworthy	grupo	0    	0000-00-00 00:00:00
 level	partopreni	participer, prendre part	to participate, to take part	grupo	0    	0000-00-00 00:00:00
 level	kastelo	un château, une citadelle	a castle, a citadel	grupo	0    	0000-00-00 00:00:00
-level	-op-	<suffix>un groupe en chiffres	<suffix> a group in numbers	grupo	0    	0000-00-00 00:00:00
+level	-op-	(suffix) un groupe en chiffres	(suffix)  a group in numbers	grupo	0    	0000-00-00 00:00:00
 level	ĉeesti	assister, être présent à	to attend, to be present at	grupo	0    	0000-00-00 00:00:00
 level	televido	Télévision, télévision	TV, television	grupo	0    	0000-00-00 00:00:00
 level	studento	un étudiant (université)	a student (university)	grupo	0    	0000-00-00 00:00:00
@@ -1328,7 +1328,7 @@ level	lastjare	l'année dernière	last year	grupo	0    	0000-00-00 00:00:00
 level	vojmontrilo	un point de repère, un panneau indicateur	a landmark, a signpost	grupo	0    	0000-00-00 00:00:00
 level	kelo	une cave, un sous-sol	a cellar, a basement	grupo	0    	0000-00-00 00:00:00
 level	firma	ferme, stable	firm, stable	grupo	0    	0000-00-00 00:00:00
-level	eks-	<prefix>ex-, ancien	<prefix> ex-, former	grupo	0    	0000-00-00 00:00:00
+level	eks-	(prefix) ex-, ancien	(prefix)  ex-, former	grupo	0    	0000-00-00 00:00:00
 level	kilogramo	un kilogramme	a kilogram	grupo	0    	0000-00-00 00:00:00
 level	frago	une fraise	a strawberry	grupo	0    	0000-00-00 00:00:00
 level	pato	Une poêle à frire	a frying pan	grupo	0    	0000-00-00 00:00:00
@@ -1340,7 +1340,7 @@ level	matura	mûr, mûr	mature, ripe	grupo	0    	0000-00-00 00:00:00
 level	kulerego	un seau, une grande cuillère	bucket, a large spoon	grupo	0    	0000-00-00 00:00:00
 level	konduti	se comporter, se comporter	to conduct oneself, to behave	grupo	0    	0000-00-00 00:00:00
 level	vere	vraiment, véritablement, véritablement	really, genuinly, truly	grupo	0    	0000-00-00 00:00:00
-level	mis-	<prefix>mis-	<prefix> mis-	grupo	0    	0000-00-00 00:00:00
+level	mis-	(prefix) mis-	(prefix)  mis-	grupo	0    	0000-00-00 00:00:00
 level	kvieta	calme, calme	quiet, calm	grupo	0    	0000-00-00 00:00:00
 level	funkcii	fonctionner, fonctionner, travailler	to function, to operate, to work	grupo	0    	0000-00-00 00:00:00
 level	konvena	approprié, approprié	appropriate, suitable	grupo	0    	0000-00-00 00:00:00
@@ -1355,14 +1355,14 @@ level	mieno	une expression (visage)	a (facial) expression	grupo	0    	0000-00-00
 level	pensio	pension, rente	pension, annuity	grupo	0    	0000-00-00 00:00:00
 level	princo	un prince	a prince	grupo	0    	0000-00-00 00:00:00
 level	sorto	destin, destin, fortune	destiny, fate, fortune	grupo	0    	0000-00-00 00:00:00
-level	-end-	<suffix>obligation	<suffix> obligation	grupo	0    	0000-00-00 00:00:00
+level	-end-	(suffix) obligation	(suffix)  obligation	grupo	0    	0000-00-00 00:00:00
 level	longaj ŝtrumpoj	bas longs	long stockings	grupo	0    	0000-00-00 00:00:00
 level	barbo	barbe	beard	grupo	0    	0000-00-00 00:00:00
-level	-ing-	<suffix>support long, douille	<suffix> long holder, socket	grupo	0    	0000-00-00 00:00:00
+level	-ing-	(suffix) support long, douille	(suffix)  long holder, socket	grupo	0    	0000-00-00 00:00:00
 level	bongusta	délicieux, bon goût	delicious, good-tasted	grupo	0    	0000-00-00 00:00:00
 level	flegi	soigner, soigner	to take care of, to nurse	grupo	0    	0000-00-00 00:00:00
-level	-njo	<suffix>nom d'animal femelle	<suffix> female pet name	grupo	0    	0000-00-00 00:00:00
-level	-ĉjo	<suffix>nom d'animal mâle	<suffix> male pet name	grupo	0    	0000-00-00 00:00:00
+level	-njo	(suffix) nom d'animal femelle	(suffix)  female pet name	grupo	0    	0000-00-00 00:00:00
+level	-ĉjo	(suffix) nom d'animal mâle	(suffix)  male pet name	grupo	0    	0000-00-00 00:00:00
 level	plugi	labourer, labourer, labourer	to plow, to plough, to till	grupo	0    	0000-00-00 00:00:00
 level	amletero	une lettre d'amour	a loveletter	grupo	0    	0000-00-00 00:00:00
 level	glaso da	un verre de	a glass of	grupo	0    	0000-00-00 00:00:00
@@ -1632,7 +1632,7 @@ level	kvanto	quantité, montant	quantity, amount	grupo	0    	0000-00-00 00:00:00
 level	batilo	une batte (pour frapper)	a bat (to hit)	grupo	0    	0000-00-00 00:00:00
 level	kvalito	qualité, propriété	quality, property	grupo	0    	0000-00-00 00:00:00
 level	laŭte	fort, à haute voix	loudly, aloud	grupo	0    	0000-00-00 00:00:00
-level	-ut-	<suffix>passif conditionnel	<suffix> conditional passive	grupo	0    	0000-00-00 00:00:00
+level	-ut-	(suffix) passif conditionnel	(suffix)  conditional passive	grupo	0    	0000-00-00 00:00:00
 level	kristnasko	Noël	Christmas	grupo	0    	0000-00-00 00:00:00
 level	vivo	une vie	a life	grupo	0    	0000-00-00 00:00:00
 level	freneza	fou, fou, fou	crazy, insane, mad	grupo	0    	0000-00-00 00:00:00
@@ -2391,7 +2391,7 @@ level	heredi	Hériter	to inherit	grupo	0    	0000-00-00 00:00:00
 level	flugbileto	un billet d'avion	an air ticket	grupo	0    	0000-00-00 00:00:00
 level	robo	une robe	a dress	grupo	0    	0000-00-00 00:00:00
 level	egipto	un Égyptien	an Egyptian person	grupo	0    	0000-00-00 00:00:00
-level	-unt	<suffix>actif conditionnel	<suffix> conditional active	grupo	0    	0000-00-00 00:00:00
+level	-unt	(suffix) actif conditionnel	(suffix)  conditional active	grupo	0    	0000-00-00 00:00:00
 level	frenezulo	un fanatique, un fou, un maniaque	a fanatic, a lunatic, a maniac	grupo	0    	0000-00-00 00:00:00
 level	ekde	depuis	since	grupo	0    	0000-00-00 00:00:00
 level	observi	observer	to observe	grupo	0    	0000-00-00 00:00:00
@@ -2550,7 +2550,7 @@ level	irako	Irak	Iraq	grupo	0    	0000-00-00 00:00:00
 level	resumo	un résumé, un résumé, un curriculum vitae, un résumé	a summary, a digest, a résumé, a sum-up	grupo	0    	0000-00-00 00:00:00
 level	promeno	une promenade, une promenade	a promenade, a walking	grupo	0    	0000-00-00 00:00:00
 level	horizontalo	une ligne horizontale	a horizontal line	grupo	0    	0000-00-00 00:00:00
-level	fi-	<prefix>honteux, dégoûtant, sale	<prefix> shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
+level	fi-	(prefix) honteux, dégoûtant, sale	(prefix)  shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
 level	aŭkcio	une vente aux enchères	an auction	grupo	0    	0000-00-00 00:00:00
 level	konkludi	de conclure	to conclude	grupo	0    	0000-00-00 00:00:00
 level	salivo	salive, esclavagiste	saliva, slaver	grupo	0    	0000-00-00 00:00:00
@@ -5882,7 +5882,7 @@ level	Antono	Antoine	Anthony	grupo	0    	0000-00-00 00:00:00
 level	Anno	Anna	Anna	grupo	0    	0000-00-00 00:00:00
 level	Berto	Bert	Bert	grupo	0    	0000-00-00 00:00:00
 level	apelacio	un appel, un accusateur	an appeal, an accuser	grupo	0    	0000-00-00 00:00:00
-level	antimono	<chem>antimoine	<chem> antimony	grupo	0    	0000-00-00 00:00:00
+level	antimono	(chem) antimoine	(chem)  antimony	grupo	0    	0000-00-00 00:00:00
 level	apokrifo	apocryphes	apocrypha	grupo	0    	0000-00-00 00:00:00
 level	apoteozo	apothéose	apotheosis	grupo	0    	0000-00-00 00:00:00
 level	ardezo	ardoise	slate	grupo	0    	0000-00-00 00:00:00
@@ -5902,7 +5902,7 @@ level	ĉano	un coq (d'un pistolet), un marteau (d'un pistolet)	a cock (of a gun)
 level	afekcii	Affecter	to affect	grupo	0    	0000-00-00 00:00:00
 level	hardi	durcir	to toughen	grupo	0    	0000-00-00 00:00:00
 level	areno	une arène	an arena	grupo	0    	0000-00-00 00:00:00
-level	arseniko	<chem>arsenic	<chem> arsenic	grupo	0    	0000-00-00 00:00:00
+level	arseniko	(chem) arsenic	(chem)  arsenic	grupo	0    	0000-00-00 00:00:00
 level	borakso	borax	borax	grupo	0    	0000-00-00 00:00:00
 level	aspiro	aspiration	aspiration	grupo	0    	0000-00-00 00:00:00
 level	atribuo	attribution, répartition	attribution, allocation	grupo	0    	0000-00-00 00:00:00

@@ -15,23 +15,23 @@ level	mem	스스로, 친히, 직접, 혼자서	by oneself	grupo	alternativoj	pro
 level	ĝis ~	~까지 (시간적, 공간적)	upto ~, until ~	grupo	alternativoj	prononco
 level	de ~	~의, ~부터, ~로 인해	of ~	grupo	alternativoj	prononco
 level	da ~	수, 양을 나타내는 전치사	(much) of ~, (many) of ~	grupo	alternativoj	prononco
-level	-aĵo	사물 접미사, ~한 것, ~한 사물	<suffix> thing, concrete manifestation	grupo	alternativoj	prononco
+level	-aĵo	사물 접미사, ~한 것, ~한 사물	(suffix)  thing, concrete manifestation	grupo	alternativoj	prononco
 level	proksima	가까운	near, close to, soon, nearby	grupo	alternativoj	prononco
-level	-adi	반복행위 접미사 (반복하다)	<suffix> repetitive action, lasting action	grupo	alternativoj	prononco
-level	-as	동사 현재형 어미	<suffix> present tense	grupo	alternativoj	prononco
-level	-is	동사 과거형 어미	<suffix> past tense	grupo	alternativoj	prononco
+level	-adi	반복행위 접미사 (반복하다)	(suffix)  repetitive action, lasting action	grupo	alternativoj	prononco
+level	-as	동사 현재형 어미	(suffix)  present tense	grupo	alternativoj	prononco
+level	-is	동사 과거형 어미	(suffix)  past tense	grupo	alternativoj	prononco
 level	esti	~이다, ~이 있다, 존재하다	to be	grupo	alternativoj	prononco
-level	-os	동사 미래형 어미	<suffix> future tense	grupo	alternativoj	prononco
-level	antaŭ ~	~앞의, ~이전의	<preposition> before ~, in front of ~	grupo	alternativoj	prononco
+level	-os	동사 미래형 어미	(suffix)  future tense	grupo	alternativoj	prononco
+level	antaŭ ~	~앞의, ~이전의	(preposition)  before ~, in front of ~	grupo	alternativoj	prononco
 level	fari	~를 하다, ~를 만들다	to make, to do	grupo	alternativoj	prononco
-level	ankaŭ ~	~도, ~도 역시	<preposition> also, too	grupo	alternativoj	prononco
+level	ankaŭ ~	~도, ~도 역시	(preposition)  also, too	grupo	alternativoj	prononco
 level	post ~	~후에, ~ 다음에	after ~	grupo	alternativoj	prononco
-level	mal-	반대의 접두사	<prefix> opposite	grupo	alternativoj	prononco
-level	-ul-	어떤 특성이 있는 사람, ~한 사람	<suffix> a person of some trait	grupo	alternativoj	prononco
-level	-in-	여성형 접미사	<suffix> female	grupo	alternativoj	prononco
-level	-ant-	~하는, ~하는 사람 (현재, 능동, 진행형)	<suffix> active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
-level	-int-	~하고 있었던, ~하고 있었던 사람 (과거, 능동, 진행형)	<suffix> active past, was ~ing	grupo	alternativoj	prononco
-level	-ont-	~하고 있을, ~하고 있을 사람 (미래 능동 진행형)	<suffix> active future, will be ~ing	grupo	alternativoj	prononco
+level	mal-	반대의 접두사	(prefix)  opposite	grupo	alternativoj	prononco
+level	-ul-	어떤 특성이 있는 사람, ~한 사람	(suffix)  a person of some trait	grupo	alternativoj	prononco
+level	-in-	여성형 접미사	(suffix)  female	grupo	alternativoj	prononco
+level	-ant-	~하는, ~하는 사람 (현재, 능동, 진행형)	(suffix)  active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
+level	-int-	~하고 있었던, ~하고 있었던 사람 (과거, 능동, 진행형)	(suffix)  active past, was ~ing	grupo	alternativoj	prononco
+level	-ont-	~하고 있을, ~하고 있을 사람 (미래 능동 진행형)	(suffix)  active future, will be ~ing	grupo	alternativoj	prononco
 level	kaj (k.)	그리고, ~와, ~과	and	grupo	alternativoj	prononco
 level	aŭ	또는, 혹은	or	grupo	alternativoj	prononco
 level	alta	높은, 큰	high, tall	grupo	alternativoj	prononco
@@ -43,9 +43,9 @@ level	kiom	얼마만큼	how much, how many	grupo	alternativoj	prononco
 level	ofte	종종, 자주	often, frequently	grupo	alternativoj	prononco
 level	iom	조금, 소량	a little, rather, some, somewhat	grupo	alternativoj	prononco
 level	nova	새로운	new, novel	grupo	alternativoj	prononco
-level	-at-	수동태 현재 분사	<suffix> passive present participle	grupo	alternativoj	prononco
-level	-it-	수동태 과거 분사	<suffix> passive past participle	grupo	alternativoj	prononco
-level	-ot-	수동태 미래 분사	<suffix> passive future participle	grupo	alternativoj	prononco
+level	-at-	수동태 현재 분사	(suffix)  passive present participle	grupo	alternativoj	prononco
+level	-it-	수동태 과거 분사	(suffix)  passive past participle	grupo	alternativoj	prononco
+level	-ot-	수동태 미래 분사	(suffix)  passive future participle	grupo	alternativoj	prononco
 level	tre	매우	very, quite, very much	grupo	alternativoj	prononco
 level	tro	너무	too, excessively, too much	grupo	alternativoj	prononco
 level	tamen	그렇지만	however, nonetheless, but, nevertheless	grupo	alternativoj	prononco
@@ -53,8 +53,8 @@ level	ho!	오! 아! (감탄사)	Oh! Ho!	grupo	alternativoj	prononco
 level	ke ~	~한 것(을) (종속 접속사)	that ~	grupo	alternativoj	prononco
 level	ĉar ~	왜냐하면 ~	because ~	grupo	alternativoj	prononco
 level	ĉu	~입니까? ~인가? ~인가요?	whether ~	grupo	alternativoj	prononco
-level	-ej-	장소 접미사	<suffix> place	grupo	alternativoj	prononco
-level	-ec-	특성 접미사	<suffix> abstract name of quality	grupo	alternativoj	prononco
+level	-ej-	장소 접미사	(suffix)  place	grupo	alternativoj	prononco
+level	-ec-	특성 접미사	(suffix)  abstract name of quality	grupo	alternativoj	prononco
 level	ambaŭ ~	둘 다, 양쪽 다	both ~	grupo	alternativoj	prononco
 level	tuj	곧, 바로, 즉시	immediately, instantly, right away	grupo	alternativoj	prononco
 level	kvazaŭ ~	마치 ~인것처럼	as if ~	grupo	alternativoj	prononco
@@ -64,7 +64,7 @@ level	neniam	어느때도 결코 ~않다	never, at no time, not ever	grupo	alter
 level	tial	그런 이유로, 그래서	therefore, so	grupo	alternativoj	prononco
 level	kial	왜	why, what for	grupo	alternativoj	prononco
 level	kvankam	비록 ~일지라도	although ~, while, though	grupo	alternativoj	prononco
-level	ĉe ~	~(장소)에, ~에 (접촉)	<preposition> at ~	grupo	alternativoj	prononco
+level	ĉe ~	~(장소)에, ~에 (접촉)	(preposition)  at ~	grupo	alternativoj	prononco
 level	pli	~보다 더 (비교급을 나타내는 부사)	more	grupo	alternativoj	prononco
 level	plej	가장 (최상급)	most	grupo	alternativoj	prononco
 level	diri	얘기하다 (내용)	to say, to tell	grupo	alternativoj	prononco
@@ -75,16 +75,16 @@ level	tia	그러한, 그런	such, that kind of, such a	grupo	alternativoj	pronon
 level	apenaŭ	겨우, 가까스로, 거의 ~하지 않는	barely, hardly, scarecely	grupo	alternativoj	prononco
 level	sendi	보내다	to send	grupo	alternativoj	prononco
 level	ĵus	바로 전에, 이제 막	just (a moment ago), just now	grupo	alternativoj	prononco
-level	-u	명령형어미	<suffix> imperative	grupo	alternativoj	prononco
+level	-u	명령형어미	(suffix)  imperative	grupo	alternativoj	prononco
 level	ekster ~	~밖에서, ~의 바깥에	outside ~	grupo	alternativoj	prononco
-level	ge-	남녀의, 양성의	<prefix> both sex, both gender	grupo	alternativoj	prononco
-level	-us	가정법 어미	<suffix> would, should, subjunctive	grupo	alternativoj	prononco
+level	ge-	남녀의, 양성의	(prefix)  both sex, both gender	grupo	alternativoj	prononco
+level	-us	가정법 어미	(suffix)  would, should, subjunctive	grupo	alternativoj	prononco
 level	baldaŭ	곧, 머지않아	soon	grupo	alternativoj	prononco
 level	almenaŭ	적어도	at least, if nothing else	grupo	alternativoj	prononco
 level	dis-	흩어짐, 분산 접두사	dis-	grupo	alternativoj	prononco
-level	-uj-	담는 용기, 그릇 접미사	<suffix> container; country	grupo	alternativoj	prononco
+level	-uj-	담는 용기, 그릇 접미사	(suffix)  container; country	grupo	alternativoj	prononco
 level	lerni	배우다	to learn	grupo	alternativoj	prononco
-level	ek-	시작, 갑작스런 변화 접두사	<prefix> beginning; sudden start	grupo	alternativoj	prononco
+level	ek-	시작, 갑작스런 변화 접두사	(prefix)  beginning; sudden start	grupo	alternativoj	prononco
 level	se	만약 (~라면) (가정형 접속사)	if, provided that	grupo	alternativoj	prononco
 level	eĉ	~조차, ~까지	even	grupo	alternativoj	prononco
 level	amo	사랑	a love	grupo	alternativoj	prononco
@@ -94,11 +94,11 @@ level	fini	~를 끝내다, 마치다	to end, to finish, to terminate	grupo	alter
 level	do	따라서, 그래서, 그러므로, 그러면	so, then, therefore	grupo	alternativoj	prononco
 level	ajn	무차별의, 제한이 없는, ~든지, ~이든	~ever, (what)ever, at all, -soever	grupo	alternativoj	prononco
 level	facila	쉬운	easy, facile	grupo	alternativoj	prononco
-level	re-	다시, 반복 접두사	<prefix> re-	grupo	alternativoj	prononco
+level	re-	다시, 반복 접두사	(prefix)  re-	grupo	alternativoj	prononco
 level	granda	큰	big, great, large	grupo	alternativoj	prononco
-level	-ist-	직업 접미사	<suffix> professional	grupo	alternativoj	prononco
-level	pro ~	~때문에, ~인해서, ~까닭에	<preposition> because of ~, due to ~	grupo	alternativoj	prononco
-level	-estr-	단체의 장, 우두머리 접미사	<suffix> leader, boss, head, chief	grupo	alternativoj	prononco
+level	-ist-	직업 접미사	(suffix)  professional	grupo	alternativoj	prononco
+level	pro ~	~때문에, ~인해서, ~까닭에	(preposition)  because of ~, due to ~	grupo	alternativoj	prononco
+level	-estr-	단체의 장, 우두머리 접미사	(suffix)  leader, boss, head, chief	grupo	alternativoj	prononco
 level	kio	무엇	what	grupo	alternativoj	prononco
 level	manĝi	먹다	to eat	grupo	alternativoj	prononco
 level	nenio	존재하지 않는것, 아무것도 없는것 (대명사)	nothing, none, not any thing	grupo	alternativoj	prononco
@@ -107,39 +107,39 @@ level	ĉio	모든 것 (대명사)	everything	grupo	alternativoj	prononco
 level	riĉa	부유한	rich, wealthy, well-off	grupo	alternativoj	prononco
 level	tio	그것, 저것 (대명사)	that thing, that	grupo	alternativoj	prononco
 level	konstrui	짓다, 건축하다, 건설하다	to build, to construct	grupo	alternativoj	prononco
-level	ĉef-	장의, 우두머리의, 지도자의 (접두사)	<prefix> chief, leading, main	grupo	alternativoj	prononco
-level	sen ~	~없이	<preposition> without ~	grupo	alternativoj	prononco
-level	kun ~	~와 함께	<preposition> with ~ (together)	grupo	alternativoj	prononco
-level	krom ~	~외에, ~말고도	<preposition> except ~, besides ~	grupo	alternativoj	prononco
+level	ĉef-	장의, 우두머리의, 지도자의 (접두사)	(prefix)  chief, leading, main	grupo	alternativoj	prononco
+level	sen ~	~없이	(preposition)  without ~	grupo	alternativoj	prononco
+level	kun ~	~와 함께	(preposition)  with ~ (together)	grupo	alternativoj	prononco
+level	krom ~	~외에, ~말고도	(preposition)  except ~, besides ~	grupo	alternativoj	prononco
 level	amiko	친구	a friend	grupo	alternativoj	prononco
 level	kies	누구의, 누구 것의	whose, which one's, of which	grupo	alternativoj	prononco
-level	per ~	~로, ~로써, ~을 이용하여, ~를 통해 (도구)	<preposition> by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
+level	per ~	~로, ~로써, ~을 이용하여, ~를 통해 (도구)	(preposition)  by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
 level	kontraŭ ~	~거슬러서, ~맞서서, ~반하여, ~에 대항하여	against ~	grupo	alternativoj	prononco
 level	el ~	~속으로부터, ~로 부터(재료), ~중에서	out of ~, from ~	grupo	alternativoj	prononco
 level	hodiaŭ	오늘	today	grupo	alternativoj	prononco
 level	hieraŭ	어제	yesterday	grupo	alternativoj	prononco
 level	nur	오직, ~만(뿐)	only, just, exclusively	grupo	alternativoj	prononco
 level	helpi	돕다	to help, to aid, to assist	grupo	alternativoj	prononco
-level	for	멀리, 먼곳에	<adverb> far, away	grupo	alternativoj	prononco
+level	for	멀리, 먼곳에	(adverb)  far, away	grupo	alternativoj	prononco
 level	nek	~도 아닌 (다른 부정사 뒤에 사용)	nor, neither	grupo	alternativoj	prononco
 level	malamo	증오	a hate	grupo	alternativoj	prononco
 level	preskaŭ	거의	almost, nearly	grupo	alternativoj	prononco
 level	tra ~	~를 관통하여, ~을 통과해서	through ~	grupo	alternativoj	prononco
 level	super	위의, 위에	over, above	grupo	alternativoj	prononco
-level	trans ~	<전치사> ~의 저편에, ~을 넘어서, 건너서	over ~, accross ~	grupo	alternativoj	prononco
+level	trans ~	(전치사)  ~의 저편에, ~을 넘어서, 건너서	over ~, accross ~	grupo	alternativoj	prononco
 level	nu	(주위를 끌기위한) 자! 이봐요!	well, well then, now	grupo	alternativoj	prononco
-level	pri ~	<전치사> ~대해서	about ~	grupo	alternativoj	prononco
-level	por ~	<전치사> ~위한, ~를 위해	for ~, in order for ~	grupo	alternativoj	prononco
+level	pri ~	(전치사)  ~대해서	about ~	grupo	alternativoj	prononco
+level	por ~	(전치사)  ~위한, ~를 위해	for ~, in order for ~	grupo	alternativoj	prononco
 level	morgaŭ	내일	tomorrow	grupo	alternativoj	prononco
 level	nun	지금	now, at present	grupo	alternativoj	prononco
-level	laŭ ~	<전치사> ~따라서 ~대로	according to ~, along ~	grupo	alternativoj	prononco
+level	laŭ ~	(전치사)  ~따라서 ~대로	according to ~, along ~	grupo	alternativoj	prononco
 level	ĉiu	모든 각각의, 모든 사람	each, every, everybody, all the	grupo	alternativoj	prononco
 level	kiu	누구, 어느 사람, 어느 것	who, which, which one	grupo	alternativoj	prononco
 level	tiu	저(그) 사람, 그것, 그 ~	that person, that ~, that one, yonder	grupo	alternativoj	prononco
 level	iu	누군가, 어떤 사람, 어떤 것	someone, somebody, some	grupo	alternativoj	prononco
 level	neniu	아무도(어느것도) ~아닌 (부정대명사)	nobody, no one, neither	grupo	alternativoj	prononco
-level	al ~	<전치사> ~로, ~에게	to ~	grupo	alternativoj	prononco
-level	-ebl-	<접미사> 가능한, 할수있는	<suffix> ~able	grupo	alternativoj	prononco
+level	al ~	(전치사)  ~로, ~에게	to ~	grupo	alternativoj	prononco
+level	-ebl-	(접미사)  가능한, 할수있는	(suffix)  ~able	grupo	alternativoj	prononco
 level	esperi	희망하다	to hope	grupo	alternativoj	prononco
 level	unu	1 (하나)	one	grupo	alternativoj	prononco
 level	du	2 (둘)	two	grupo	alternativoj	prononco
@@ -153,39 +153,39 @@ level	naŭ	9 (아홉)	nine	grupo	alternativoj	prononco
 level	dek	10 (십)	ten	grupo	alternativoj	prononco
 level	cent	100 (백)	a hundred	grupo	alternativoj	prononco
 level	mil	1000 (천)	a thousand	grupo	alternativoj	prononco
-level	-obl-	<접미사> ~배의, 배수를 나타내는 접미사	<suffix> for multiplicity, -oble, -fold	grupo	alternativoj	prononco
-level	-on-	<접미사> ~분의 일, 분수를 표시하는 접미사	<suffix> ~th, fraction	grupo	alternativoj	prononco
+level	-obl-	(접미사)  ~배의, 배수를 나타내는 접미사	(suffix)  for multiplicity, -oble, -fold	grupo	alternativoj	prononco
+level	-on-	(접미사)  ~분의 일, 분수를 표시하는 접미사	(suffix)  ~th, fraction	grupo	alternativoj	prononco
 level	ama	사랑의	of love	grupo	alternativoj	prononco
-level	anstataŭ ~	<전치사> ~대신해서	instead of ~	grupo	alternativoj	prononco
-level	-iĝ-	<접미사> ~이 되다	<suffix> become	grupo	alternativoj	prononco
+level	anstataŭ ~	(전치사)  ~대신해서	instead of ~	grupo	alternativoj	prononco
+level	-iĝ-	(접미사)  ~이 되다	(suffix)  become	grupo	alternativoj	prononco
 level	voli	원하다, 바라다	to want, to will, to be willing to	grupo	alternativoj	prononco
-level	-ig-	<접미사> ~하게 만들다	<suffix> cause to become	grupo	alternativoj	prononco
+level	-ig-	(접미사)  ~하게 만들다	(suffix)  cause to become	grupo	alternativoj	prononco
 level	sekvi	뒤따르다, 이어지다, 수행하다	to follow	grupo	alternativoj	prononco
 level	ĝoje	기쁘게	gladly	grupo	alternativoj	prononco
 level	legi	읽다	to read	grupo	alternativoj	prononco
 level	silenta	조용한	silent	grupo	alternativoj	prononco
-level	la	<정관사> 그	the	grupo	alternativoj	prononco
+level	la	(정관사)  그	the	grupo	alternativoj	prononco
 level	ha!	하! (감탄사)	ha!	grupo	alternativoj	prononco
-level	-il-	<접미사> 기구, 도구	<suffix> tool, method	grupo	alternativoj	prononco
+level	-il-	(접미사)  기구, 도구	(suffix)  tool, method	grupo	alternativoj	prononco
 level	trinki	마시다	to drink (non-alkohol)	grupo	alternativoj	prononco
-level	-et-	<접미사> 작은, 귀여운	<suffix> small, little	grupo	alternativoj	prononco
-level	-eg-	<접미사> 큰 것, 큰	<suffix> big, large	grupo	alternativoj	prononco
-level	inter ~	<전치사> ~사이에	<preposition> between ~	grupo	alternativoj	prononco
-level	-um-	<접미사> (관계되는) 행동, (관계되는) 경향	<suffix> related behavior	grupo	alternativoj	prononco
-level	-ar-	<접미사> 집합, 모임, 그룹을 나타냄	<suffix> set, group	grupo	alternativoj	prononco
-level	-an-	<접미사> 회원, 멤버, ~에 속한 사람	<suffix> member of a group	grupo	alternativoj	prononco
+level	-et-	(접미사)  작은, 귀여운	(suffix)  small, little	grupo	alternativoj	prononco
+level	-eg-	(접미사)  큰 것, 큰	(suffix)  big, large	grupo	alternativoj	prononco
+level	inter ~	(전치사)  ~사이에	(preposition)  between ~	grupo	alternativoj	prononco
+level	-um-	(접미사)  (관계되는) 행동, (관계되는) 경향	(suffix)  related behavior	grupo	alternativoj	prononco
+level	-ar-	(접미사)  집합, 모임, 그룹을 나타냄	(suffix)  set, group	grupo	alternativoj	prononco
+level	-an-	(접미사)  회원, 멤버, ~에 속한 사람	(suffix)  member of a group	grupo	alternativoj	prononco
 level	danki	감사하다, 사례하다	to thank	grupo	alternativoj	prononco
-level	-ind-	<접미사> ~할 가치가 있는	<suffix> worthwhile, worthy	grupo	alternativoj	prononco
+level	-ind-	(접미사)  ~할 가치가 있는	(suffix)  worthwhile, worthy	grupo	alternativoj	prononco
 level	plu	(시간적) ~더 계속해서, (공간적) ~더 멀리	even more, further, and so on, more	grupo	alternativoj	prononco
 level	kiel	어떻게	how, like, in what way, such as	grupo	alternativoj	prononco
 level	tiel	그렇게	such, in that way, thus	grupo	alternativoj	prononco
-level	en ~	<전치사> ~안에, ~속에, ~에	<preposition> in ~	grupo	alternativoj	prononco
-level	apud ~	<전치사> ~옆에, ~곁에, ~가까이에	<preposition> next to ~, beside ~	grupo	alternativoj	prononco
-level	sub ~	<전치사> ~아래	<preposition> under, beneath ~	grupo	alternativoj	prononco
-level	sur ~	<전치사> ~면 위에	<preposition> on ~	grupo	alternativoj	prononco
-level	je ~	<전치사> 시간에, 다양하게 적용 가능한 전치사	<preposition> indefinate prep., at, in, by, on	grupo	alternativoj	prononco
-level	ankoraŭ	<부사> 아직, 지금도, 여전히	<adverb> still, yet	grupo	alternativoj	prononco
-level	ĉirkaŭ ~	<전치사> ~주위에, ~둘레에, ~사방에	<preposition> around ~	grupo	alternativoj	prononco
+level	en ~	(전치사)  ~안에, ~속에, ~에	(preposition)  in ~	grupo	alternativoj	prononco
+level	apud ~	(전치사)  ~옆에, ~곁에, ~가까이에	(preposition)  next to ~, beside ~	grupo	alternativoj	prononco
+level	sub ~	(전치사)  ~아래	(preposition)  under, beneath ~	grupo	alternativoj	prononco
+level	sur ~	(전치사)  ~면 위에	(preposition)  on ~	grupo	alternativoj	prononco
+level	je ~	(전치사)  시간에, 다양하게 적용 가능한 전치사	(preposition)  indefinate prep., at, in, by, on	grupo	alternativoj	prononco
+level	ankoraŭ	(부사)  아직, 지금도, 여전히	(adverb)  still, yet	grupo	alternativoj	prononco
+level	ĉirkaŭ ~	(전치사)  ~주위에, ~둘레에, ~사방에	(preposition)  around ~	grupo	alternativoj	prononco
 level	sed	그러나	but	grupo	alternativoj	prononco
 level	ie	어딘가에	somewhere	grupo	alternativoj	prononco
 level	kie	어디에	where, at what place	grupo	alternativoj	prononco
@@ -193,29 +193,29 @@ level	silente	조용히	silently	grupo	alternativoj	prononco
 level	ĉie	모든곳에	everywhere, all about	grupo	alternativoj	prononco
 level	nenie	어디에도 ~않게, 아무데도 없이 (부사)	nowhere, in no case, not anywhere	grupo	alternativoj	prononco
 level	tie	거기, 그곳에	there, over there, yonder	grupo	alternativoj	prononco
-level	ĉi	<지시부사> 이 (가까움을 나타내는)	this ~	grupo	alternativoj	prononco
+level	ĉi	(지시부사)  이 (가까움을 나타내는)	this ~	grupo	alternativoj	prononco
 level	kanti	노래하다	to sing	grupo	alternativoj	prononco
 level	morti	죽다	to die, to pass away	grupo	alternativoj	prononco
-level	dum ~	<전치사> ~동안	<preposition> during ~, while ~	grupo	alternativoj	prononco
+level	dum ~	(전치사)  ~동안	(preposition)  during ~, while ~	grupo	alternativoj	prononco
 level	nacio	나라, 국가	a nation	grupo	alternativoj	prononco
 level	koni	알다, 아는 사이이다	to know (a person), to be aquainted with	grupo	alternativoj	prononco
 level	scii	알다, (지식을) 알다	to know (a fact, knowledge), to know how	grupo	alternativoj	prononco
 level	ĉiam	항상, 언제나, 늘	always, ever	grupo	alternativoj	prononco
 level	iam	언젠가 (확실치 않은 어느 때)	at some time, once	grupo	alternativoj	prononco
 level	tiam	그때	then	grupo	alternativoj	prononco
-level	-em-	<접미사> 경향, 성향, 습관	<suffix> tendancy	grupo	alternativoj	prononco
+level	-em-	(접미사)  경향, 성향, 습관	(suffix)  tendancy	grupo	alternativoj	prononco
 level	ia	어떤, 모종의	some kind of	grupo	alternativoj	prononco
 level	sukcesi	성공하다	to succeed	grupo	alternativoj	prononco
 level	ĉia	모든 종류의	of all kind, every kind of	grupo	alternativoj	prononco
 level	nenia	어떠한 것도 ~아닌, 어떤 ~도 아닌	no, not any kind of, not any	grupo	alternativoj	prononco
-level	-id-	<접미사> 자식, 아들, 새끼	<suffix> offspring	grupo	alternativoj	prononco
+level	-id-	(접미사)  자식, 아들, 새끼	(suffix)  offspring	grupo	alternativoj	prononco
 level	ĉambro	방	a room, a chamber	grupo	alternativoj	prononco
 level	patro	아버지	a father	grupo	alternativoj	prononco
 level	porko	돼지	a pig, swine	grupo	alternativoj	prononco
-level	bo-	혼인으로 인한 친척관계 (접두사)	<prefix> -in-law, by marriage	grupo	alternativoj	prononco
+level	bo-	혼인으로 인한 친척관계 (접두사)	(prefix)  -in-law, by marriage	grupo	alternativoj	prononco
 level	ja	실로, 그야말로, 정녕, 확실히	indeed	grupo	alternativoj	prononco
-level	-ism-	<접미사> ~주의, 사상, 교의	<suffix> -ism	grupo	alternativoj	prononco
-level	io	<대명사> (불특정한) 어떤 것	something	grupo	alternativoj	prononco
+level	-ism-	(접미사)  ~주의, 사상, 교의	(suffix)  -ism	grupo	alternativoj	prononco
+level	io	(대명사)  (불특정한) 어떤 것	something	grupo	alternativoj	prononco
 level	veturi	타고 가다	to drive (a vehicle)	grupo	alternativoj	prononco
 level	koko	닭	a cock, a hen, chicken, fowl	grupo	alternativoj	prononco
 level	libera	자유로운	free	grupo	alternativoj	prononco
@@ -305,8 +305,8 @@ level	parto	부분, 일부, 몫	a part, a share	grupo	alternativoj	prononco
 level	mono	돈	money	grupo	alternativoj	prononco
 level	ricevi	받다	to receive	grupo	alternativoj	prononco
 level	ami	사랑하다	to love	grupo	alternativoj	prononco
-level	devi	<조동사> ~해야 한다	to have to, must, should, ought to	grupo	alternativoj	prononco
-level	povi	<조동사> ~할 수 있다	be able to, can	grupo	alternativoj	prononco
+level	devi	(조동사)  ~해야 한다	to have to, must, should, ought to	grupo	alternativoj	prononco
+level	povi	(조동사)  ~할 수 있다	be able to, can	grupo	alternativoj	prononco
 level	labori	일하다	to work, to labor	grupo	alternativoj	prononco
 level	dio	신	a god	grupo	alternativoj	prononco
 level	urbo	도시	a city, a town	grupo	alternativoj	prononco
@@ -625,7 +625,7 @@ level	merkredo	수요일	Wednesday	grupo	alternativoj	prononco
 level	vendredo	금요일	Friday	grupo	alternativoj	prononco
 level	fiŝkaptado	물고기낚시	fish-catching, catching fishes	grupo	alternativoj	prononco
 level	ilustri	그림으로 설명하다, 장식하다, 만화그리다	to illustrate	grupo	alternativoj	prononco
-level	des	그 만큼 (ju와 호응)	<adverb> so much (more, less)	grupo	alternativoj	prononco
+level	des	그 만큼 (ju와 호응)	(adverb)  so much (more, less)	grupo	alternativoj	prononco
 level	sabato	토요일	Saturday	grupo	alternativoj	prononco
 level	ĵaŭdo	목요일	Thursday	grupo	alternativoj	prononco
 level	mardo	화요일	Tuesday	grupo	alternativoj	prononco
@@ -678,7 +678,7 @@ level	ŝtupo	계단 한 칸	a step, a stair, a rung	grupo	alternativoj	prononco
 level	bordo	강가, 해안, 물가	a shore, a waterfront, a bank	grupo	alternativoj	prononco
 level	justa	공정한	fair, just, righteous	grupo	alternativoj	prononco
 level	lumo	빛	a light	grupo	alternativoj	prononco
-level	malgraŭ ~	~ 임에도 불구하고	<preposition> despite ~, in spite of ~	grupo	alternativoj	prononco
+level	malgraŭ ~	~ 임에도 불구하고	(preposition)  despite ~, in spite of ~	grupo	alternativoj	prononco
 level	drinkado	음주	drinking action	grupo	alternativoj	prononco
 level	aŭtomobilo	자동차 (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	alternativoj	prononco
 level	bonvoli	호의를 베풀다, 자발적으로 하다	to will (from heart), to want (from heart)	grupo	alternativoj	prononco
@@ -729,7 +729,7 @@ level	nordo	북, 북쪽	north	grupo	alternativoj	prononco
 level	kolekto	수집	collection	grupo	alternativoj	prononco
 level	supro	정상, 꼭대기, 절정	a top, a summit	grupo	alternativoj	prononco
 level	oriento	동, 동쪽	east	grupo	alternativoj	prononco
-level	ju	(pli와 함께) ~ 하면 할수록 (ju pli)	<adverb> the (more, less)	grupo	alternativoj	prononco
+level	ju	(pli와 함께) ~ 하면 할수록 (ju pli)	(adverb)  the (more, less)	grupo	alternativoj	prononco
 level	sudo	남, 남쪽	south	grupo	alternativoj	prononco
 level	okcidento	서, 서쪽	west	grupo	alternativoj	prononco
 level	juĝi	재판하다, 판결을 내리다	to judge	grupo	alternativoj	prononco
@@ -784,9 +784,9 @@ level	malalta	낮은	low	grupo	alternativoj	prononco
 level	viando	고기, 육고기	meat, a meat	grupo	alternativoj	prononco
 level	respekti	존경하다, 존중하다	to respect	grupo	alternativoj	prononco
 level	forno	난로	a furnace, a stove, an oven	grupo	alternativoj	prononco
-level	-er-	구성 요소 접미사	<suffix> element, small particle of whole	grupo	alternativoj	prononco
+level	-er-	구성 요소 접미사	(suffix)  element, small particle of whole	grupo	alternativoj	prononco
 level	malkovri	발견하다, 덮개를 벗다	to discover, to uncover, to unveil	grupo	alternativoj	prononco
-level	-aĉ-	악한 성질, 나쁨, 조악함 접미사	<suffix> bad, disgusting	grupo	alternativoj	prononco
+level	-aĉ-	악한 성질, 나쁨, 조악함 접미사	(suffix)  bad, disgusting	grupo	alternativoj	prononco
 level	branĉo	가지	a branch, a bough	grupo	alternativoj	prononco
 level	malhela	어두운	dark, dismal, bleak	grupo	alternativoj	prononco
 level	mensogi	거짓말하다	to lie, to tell a lie	grupo	alternativoj	prononco
@@ -1078,7 +1078,7 @@ level	imagi	상상하다	to imagine	grupo	alternativoj	prononco
 level	fidela	충실한	faithful, trustworthy	grupo	alternativoj	prononco
 level	partopreni	참가하다, 같이하다 (parto-)	to participate, to take part	grupo	alternativoj	prononco
 level	kastelo	성	a castle, a citadel	grupo	alternativoj	prononco
-level	-op-	<접미사> 숫자의 집합(집단)	<suffix> a group in numbers	grupo	alternativoj	prononco
+level	-op-	(접미사)  숫자의 집합(집단)	(suffix)  a group in numbers	grupo	alternativoj	prononco
 level	ĉeesti	출석하다, 참석하다, 자리에 있다	to attend, to be present at	grupo	alternativoj	prononco
 level	televido	텔레비젼	TV, television	grupo	alternativoj	prononco
 level	studento	학생, 대학생	a student (university)	grupo	alternativoj	prononco
@@ -1223,7 +1223,7 @@ level	ĉu ne?	겠지요, 그렇지 않나요?	isn't it? aren't they?	grupo	alter
 level	nepra	불가피한, 반드시 필요한	essential, absolutely necessary	grupo	alternativoj	prononco
 level	kapabli	할 능력이 있다	to be able to, to be capable of	grupo	alternativoj	prononco
 level	ŝranko	장, 옷장, 찬장	a locker, a cupboard, a closet, a sideboard	grupo	alternativoj	prononco
-level	po ~	<전치사> ~ 씩, ~ 비율로	per, at the rate of, by	grupo	alternativoj	prononco
+level	po ~	(전치사)  ~ 씩, ~ 비율로	per, at the rate of, by	grupo	alternativoj	prononco
 level	direktoro	감독, 매니저, 연출가	a director, a manager	grupo	alternativoj	prononco
 level	ve!	아이고! (비애, 비통)	Alas!	grupo	alternativoj	prononco
 level	eviti	피하다	to avoid, to evade	grupo	alternativoj	prononco
@@ -1330,7 +1330,7 @@ level	lastjare	작년에	last year	grupo	alternativoj	prononco
 level	vojmontrilo	이정표	a landmark, a signpost	grupo	alternativoj	prononco
 level	kelo	지하실	a cellar, a basement	grupo	alternativoj	prononco
 level	firma	견고한, 굳은, 튼튼한	firm, stable	grupo	alternativoj	prononco
-level	eks-	<접두사> 전직의	<prefix> ex-, former	grupo	alternativoj	prononco
+level	eks-	(접두사)  전직의	(prefix)  ex-, former	grupo	alternativoj	prononco
 level	kilogramo	킬로그램	a kilogram	grupo	alternativoj	prononco
 level	frago	딸기	a strawberry	grupo	alternativoj	prononco
 level	pato	프라이팬	a frying pan	grupo	alternativoj	prononco
@@ -1342,7 +1342,7 @@ level	matura	성숙한, 다 익은	mature, ripe	grupo	alternativoj	prononco
 level	kulerego	국자 (큰 숟가락)	bucket, a large spoon	grupo	alternativoj	prononco
 level	konduti	처신하다, ~ 하게 행동하다	to conduct oneself, to behave	grupo	alternativoj	prononco
 level	vere	정말로	really, genuinly, truly	grupo	alternativoj	prononco
-level	mis-	<접두사> 잘못됨, 틀림을 나타내는	<prefix> mis-	grupo	alternativoj	prononco
+level	mis-	(접두사)  잘못됨, 틀림을 나타내는	(prefix)  mis-	grupo	alternativoj	prononco
 level	kvieta	고요한	quiet, calm	grupo	alternativoj	prononco
 level	funkcii	기능하다, 동작하다	to function, to operate, to work	grupo	alternativoj	prononco
 level	konvena	적합한, 어울리는, (옷이) 맞는	appropriate, suitable	grupo	alternativoj	prononco
@@ -1357,14 +1357,14 @@ level	mieno	표정	a (facial) expression	grupo	alternativoj	prononco
 level	pensio	연금	pension, annuity	grupo	alternativoj	prononco
 level	princo	왕자	a prince	grupo	alternativoj	prononco
 level	sorto	운명	destiny, fate, fortune	grupo	alternativoj	prononco
-level	-end-	<접미사> ~ 해야 하는	<suffix> obligation	grupo	alternativoj	prononco
+level	-end-	(접미사)  ~ 해야 하는	(suffix)  obligation	grupo	alternativoj	prononco
 level	longaj ŝtrumpoj	긴양말, 스타킹 (들)	long stockings	grupo	alternativoj	prononco
 level	barbo	수염	beard	grupo	alternativoj	prononco
-level	-ing-	<접미사> 한쪽 끝을 꽂거나, 꽂아 쓰는 물건	<suffix> long holder, socket	grupo	alternativoj	prononco
+level	-ing-	(접미사)  한쪽 끝을 꽂거나, 꽂아 쓰는 물건	(suffix)  long holder, socket	grupo	alternativoj	prononco
 level	bongusta	맛있는	delicious, good-tasted	grupo	alternativoj	prononco
 level	flegi	간호하다, 보호하다	to take care of, to nurse	grupo	alternativoj	prononco
-level	-njo	<접미사> 여성 애칭 (예: 엄마)	<suffix> female pet name	grupo	alternativoj	prononco
-level	-ĉjo	<접미사> 남성 애칭 (예: 아빠)	<suffix> male pet name	grupo	alternativoj	prononco
+level	-njo	(접미사)  여성 애칭 (예: 엄마)	(suffix)  female pet name	grupo	alternativoj	prononco
+level	-ĉjo	(접미사)  남성 애칭 (예: 아빠)	(suffix)  male pet name	grupo	alternativoj	prononco
 level	plugi	경작하다, (밭을)갈다	to plow, to plough, to till	grupo	alternativoj	prononco
 level	amletero	연애편지, 사랑의 편지	a loveletter	grupo	alternativoj	prononco
 level	glaso da	한 글라스의	a glass of	grupo	alternativoj	prononco
@@ -1634,7 +1634,7 @@ level	kvanto	양, 분량	quantity, amount	grupo	alternativoj	prononco
 level	batilo	배트(방망이)	a bat (to hit)	grupo	alternativoj	prononco
 level	kvalito	질, 품질	quality, property	grupo	alternativoj	prononco
 level	laŭte	크게(소리)	loudly, aloud	grupo	alternativoj	prononco
-level	-ut-	<어미> 가정법 수동태	<suffix> conditional passive	grupo	alternativoj	prononco
+level	-ut-	(어미)  가정법 수동태	(suffix)  conditional passive	grupo	alternativoj	prononco
 level	kristnasko	크리스마스	Christmas	grupo	alternativoj	prononco
 level	vivo	생명,생활	a life	grupo	alternativoj	prononco
 level	freneza	미친	crazy, insane, mad	grupo	alternativoj	prononco
@@ -2393,7 +2393,7 @@ level	heredi	상속받다, 물려받다	to inherit	grupo	alternativoj	prononco
 level	flugbileto	비행기표	an air ticket	grupo	alternativoj	prononco
 level	robo	긴옷, 예복, 법복	a dress	grupo	alternativoj	prononco
 level	egipto	이집트 사람	an Egyptian person	grupo	alternativoj	prononco
-level	-unt	<어미> 가정법 능동태	<suffix> conditional active	grupo	alternativoj	prononco
+level	-unt	(어미)  가정법 능동태	(suffix)  conditional active	grupo	alternativoj	prononco
 level	frenezulo	미친사람, 광인	a fanatic, a lunatic, a maniac	grupo	alternativoj	prononco
 level	ekde	~로 부터	since	grupo	alternativoj	prononco
 level	observi	관찰하다, 지켜보다, 준수하다	to observe	grupo	alternativoj	prononco
@@ -2552,7 +2552,7 @@ level	irako	이라크	Iraq	grupo	alternativoj	prononco
 level	resumo	요약, 개요	a summary, a digest, a résumé, a sum-up	grupo	alternativoj	prononco
 level	promeno	산책	a promenade, a walking	grupo	alternativoj	prononco
 level	horizontalo	수평	a horizontal line	grupo	alternativoj	prononco
-level	fi-	<접두사> 비천함, 경멸, 증오, 지저분한	<prefix> shameful, disgusting, dirty	grupo	alternativoj	prononco
+level	fi-	(접두사)  비천함, 경멸, 증오, 지저분한	(prefix)  shameful, disgusting, dirty	grupo	alternativoj	prononco
 level	aŭkcio	경매	an auction	grupo	alternativoj	prononco
 level	konkludi	결론을 내리다	to conclude	grupo	alternativoj	prononco
 level	salivo	침, 타액	saliva, slaver	grupo	alternativoj	prononco
@@ -2845,7 +2845,7 @@ level	gvineo	기니 공화국 (나라)	Guinea	grupo	alternativoj	prononco
 level	civilizi	개화하다, 문명으로 이끌다	to civilize	grupo	alternativoj	prononco
 level	insulti	욕하다, 꾸짓다	to insult	grupo	alternativoj	prononco
 level	komisiono	(조사, 연구를 위해 단기간 운영되는)위원회	a commission, a comittee	grupo	alternativoj	prononco
-level	colo	<길이의 단위> 인치 (2.54cm)	an inch	grupo	alternativoj	prononco
+level	colo	(길이의 단위)  인치 (2.54cm)	an inch	grupo	alternativoj	prononco
 level	admoni	훈계하다, 경고하다, 권고하다, 타이르다	to admonish, to exhort, to advice, to censure	grupo	alternativoj	prononco
 level	bildkadro	그림액자	a picture frame	grupo	alternativoj	prononco
 level	serena	청명한, 화창한	serene, calm, untroubled	grupo	alternativoj	prononco
@@ -3018,7 +3018,7 @@ level	masto	돛대, 깃대, (탠트의) 버팀대	a mast, a pole	grupo	alternati
 level	kino	영화	a cinema	grupo	alternativoj	prononco
 level	bombono	프랑스 사탕과자	a bon-bon, a candy, a sweet	grupo	alternativoj	prononco
 level	funto	파운드(영국 화폐 단위)	a pound	grupo	alternativoj	prononco
-level	ananaso	<식물> 파인애플	a pine apple	grupo	alternativoj	prononco
+level	ananaso	(식물)  파인애플	a pine apple	grupo	alternativoj	prononco
 level	tajloro	재봉사, 양복 짓는 사람	a tailor	grupo	alternativoj	prononco
 level	veterano	베테랑, 경험이 풍부한 사람	a veteran	grupo	alternativoj	prononco
 level	revolucio	혁명	a revolution	grupo	alternativoj	prononco
@@ -3089,10 +3089,10 @@ level	akordi	조화되다, 조화시키다	to accord	grupo	alternativoj	prononco
 level	fulgo	그을름	a soot, a grime	grupo	alternativoj	prononco
 level	adapti	적합시키다, 응용하다, 적용하다	to adapt, to adjust, to accommodate, to fit	grupo	alternativoj	prononco
 level	liveri	배달하다, 공급하다, 조달하다	to furnish, to supply, to deliver	grupo	alternativoj	prononco
-level	argumento	논증, 논거, <수학> 독립변수	an argument	grupo	alternativoj	prononco
+level	argumento	논증, 논거, (수학)  독립변수	an argument	grupo	alternativoj	prononco
 level	frizi	지지다, 곱슬거리게 하다	to curl, to frizz	grupo	alternativoj	prononco
 level	deficito	결손, 적자	a deficit	grupo	alternativoj	prononco
-level	blato	<곤충> 바퀴(벌레)	a cockroach, a chip	grupo	alternativoj	prononco
+level	blato	(곤충)  바퀴(벌레)	a cockroach, a chip	grupo	alternativoj	prononco
 level	recepto	처방전, 요리법	a recipe, a prescription	grupo	alternativoj	prononco
 level	kitelo	작업복, 긴외투	a smock, a frock, an overalls, a garbadine	grupo	alternativoj	prononco
 level	ciklono	사이클론, 온대 태풍, 온대성 저기압	a cyclone	grupo	alternativoj	prononco
@@ -3257,7 +3257,7 @@ level	Francio	프랑스	France	grupo	alternativoj	prononco
 level	guti	(물방울이) 똑똑 떨어지다	to drop, to drip	grupo	alternativoj	prononco
 level	Kolumbo	콜럼버스	Columbus	grupo	alternativoj	prononco
 level	kotleto	커트렛용 얇게 저민 고기	cutlet, a cutlet, chop	grupo	alternativoj	prononco
-level	avokado	<과일> 아보카도	an avocado (fruit)	grupo	alternativoj	prononco
+level	avokado	(과일)  아보카도	an avocado (fruit)	grupo	alternativoj	prononco
 level	individuo	개인, 개체	an individual	grupo	alternativoj	prononco
 level	pagodo	탑, 파고다, 불탑	a pagoda	grupo	alternativoj	prononco
 level	Kolombio	콜롬비아	Colombia	grupo	alternativoj	prononco
@@ -4410,7 +4410,7 @@ level	ekzemple	예를 들면	for example	grupo	alternativoj	prononco
 level	pasiva	수동의, 수동적인	passive	grupo	alternativoj	prononco
 level	indiĝeno	토착민, 원주민, 본토인	an indigenous person, an aborigene	grupo	alternativoj	prononco
 level	balkono	발코니	a balcony	grupo	alternativoj	prononco
-level	cico	<해부> 젖꼭지, 유두	a nipple	grupo	alternativoj	prononco
+level	cico	(해부)  젖꼭지, 유두	a nipple	grupo	alternativoj	prononco
 level	abstrakti	추상하다	to abstract	grupo	alternativoj	prononco
 level	poŝtmarko	우표 (=p.m.)	a postage stamp (=p.m.)	grupo	alternativoj	prononco
 level	sportejo	운동장	a sports ground	grupo	alternativoj	prononco
@@ -4556,7 +4556,7 @@ level	strategio	전략, 전술, 병법, 계략	a strategy	grupo	alternativoj	pro
 level	aldo	(음악) 알토	an alto (voice)	grupo	alternativoj	prononco
 level	monopolo	독점(권), 전매(권)	a monopoly	grupo	alternativoj	prononco
 level	vaki	비어 있다	to be vacant	grupo	alternativoj	prononco
-level	ci	<대명사> (친근한 2인칭) 너, 당신, 자기	thou, you	grupo	alternativoj	prononco
+level	ci	(대명사)  (친근한 2인칭) 너, 당신, 자기	thou, you	grupo	alternativoj	prononco
 level	uragano	허리케인, 폭풍, 광풍	a hurricane, a tornado	grupo	alternativoj	prononco
 level	mozaiko	모자이크	a mosaic	grupo	alternativoj	prononco
 level	estetiko	미학, 미적 정서	aesthetics	grupo	alternativoj	prononco
@@ -5528,7 +5528,7 @@ level	tonelo	선박 적재량	a ton	grupo	alternativoj	prononco
 level	vipero	살모사 (=vipuro)	a vipero (=vipuro)	grupo	alternativoj	prononco
 level	kontrapunkto	대위법(對位法) (음악작곡법)	counterpoint (a musical composing)	grupo	alternativoj	prononco
 level	ĉizi	끌로 파다, 도려내다, 조각, 새기다	to chisel, to carve	grupo	alternativoj	prononco
-level	ĉe-metodo	<에스페란토> 체교수법, 직접교수법	a che-method, a direct method of teaching Esperanto	grupo	alternativoj	prononco
+level	ĉe-metodo	(에스페란토)  체교수법, 직접교수법	a che-method, a direct method of teaching Esperanto	grupo	alternativoj	prononco
 level	betono	콘크리트	a concrete	grupo	alternativoj	prononco
 level	orgeno	풍금, 파이프오르간	an organ (musical instrument)	grupo	alternativoj	prononco
 level	orgasmo	격정, 오르가슴, 흥분	an orgasm	grupo	alternativoj	prononco
@@ -5785,22 +5785,22 @@ level	ŝpateto	호미	a hoe, a small spade	grupo	alternativoj	prononco
 level	ŝprucigilo	스프링클러	a sprinkler	grupo	alternativoj	prononco
 level	ŝtupetaro	사닥다리	a ladder	grupo	alternativoj	prononco
 level	ŝukorno	구두주걱	a shoe horn	grupo	alternativoj	prononco
-level	branko	<어류> 아가미	a gill, a branchia	grupo	alternativoj	prononco
+level	branko	(어류)  아가미	a gill, a branchia	grupo	alternativoj	prononco
 level	afekti	~인체하다, 가장하다, 허식꾸미다	to feign, to pretend	grupo	alternativoj	prononco
 level	kaleŝo	(옛날의) 덮개 있는 마차	a carriage	grupo	alternativoj	prononco
 level	ĉarpenti	목재를 채취하다, 목수일을 하다	to carpenter, to build, to construct	grupo	alternativoj	prononco
 level	atenci	침해하다, 모해하다, 죽이려 들다	to assault	grupo	alternativoj	prononco
-level	cimo	<곤충> 빈대	a bedbug, a hemipteran	grupo	alternativoj	prononco
-level	argilo	<광물> 도토, 점토, 찰흙	clay	grupo	alternativoj	prononco
+level	cimo	(곤충)  빈대	a bedbug, a hemipteran	grupo	alternativoj	prononco
+level	argilo	(광물)  도토, 점토, 찰흙	clay	grupo	alternativoj	prononco
 level	amfibio	양서동물	an amphibian	grupo	alternativoj	prononco
 level	abdiko	(권리등을) 포기하다	abdication	grupo	alternativoj	prononco
-level	degeneri	<생물> 퇴화하다, 타락하다, 퇴보하다	to degenerate	grupo	alternativoj	prononco
+level	degeneri	(생물)  퇴화하다, 타락하다, 퇴보하다	to degenerate	grupo	alternativoj	prononco
 level	adulto	간통	an adultery	grupo	alternativoj	prononco
-level	ardeo	<조류> 왜가리, 백로과 새의 총칭	a heron	grupo	alternativoj	prononco
+level	ardeo	(조류)  왜가리, 백로과 새의 총칭	a heron	grupo	alternativoj	prononco
 level	absorbo	흡수, 열중	absorption	grupo	alternativoj	prononco
 level	abato	수도원장	an abbot	grupo	alternativoj	prononco
-level	arĉo	<음악> (악기의) 활	a bow of musical instruments	grupo	alternativoj	prononco
-level	asparago	<식물> 아스파라가스	asparagus	grupo	alternativoj	prononco
+level	arĉo	(음악)  (악기의) 활	a bow of musical instruments	grupo	alternativoj	prononco
+level	asparago	(식물)  아스파라가스	asparagus	grupo	alternativoj	prononco
 level	akuto	급성, 예각, 격렬함	acuteness	grupo	alternativoj	prononco
 level	absinto	쑥	absinth, a worm wood	grupo	alternativoj	prononco
 level	akaro	진드기	a mite	grupo	alternativoj	prononco
@@ -5810,7 +5810,7 @@ level	agaco	(예리한 소음, 신음식) 불쾌한 느낌	aggravation, annoyanc
 level	amelo	전분, 녹말	starch	grupo	alternativoj	prononco
 level	akaparo	매점, 독점	cornering the market, monopoly	grupo	alternativoj	prononco
 level	ĉasta	정절을 지키는, 순결한, 정숙한, 도덕적으로 엄격한	chaste	grupo	alternativoj	prononco
-level	civeto	<화학> 사향, 사향 고양이, 사향 (=cibeto)	a civet (=cibeto)	grupo	alternativoj	prononco
+level	civeto	(화학)  사향, 사향 고양이, 사향 (=cibeto)	a civet (=cibeto)	grupo	alternativoj	prononco
 level	Aleksandro	알렉산더	Alexander	grupo	alternativoj	prononco
 level	absceso	종기, 궤양	an abscess	grupo	alternativoj	prononco
 level	Anunciacio	성수태고지	Annunciation	grupo	alternativoj	prononco
@@ -5840,28 +5840,28 @@ level	branpano	밀기울 빵	a wholemeal bread	grupo	alternativoj	prononco
 level	aermatraco	공기 매트리스	an airbed	grupo	alternativoj	prononco
 level	banĝo	밴조(악기)	a banjo	grupo	alternativoj	prononco
 level	bideo	비데	a bidet	grupo	alternativoj	prononco
-level	apendico	부록, 증보, 추가물, <해부학> 맹장	appendix	grupo	alternativoj	prononco
+level	apendico	부록, 증보, 추가물, (해부학)  맹장	appendix	grupo	alternativoj	prononco
 level	flankokupo	취미, 본업이 아닌 다른 업무	a pastime, a hobby	grupo	alternativoj	prononco
-level	agavo	<식물>용설란	Agave	grupo	alternativoj	prononco
-level	brezi	<요리>(약한불로) 데치다	to braise (in weak heat)	grupo	alternativoj	prononco
+level	agavo	(식물) 용설란	Agave	grupo	alternativoj	prononco
+level	brezi	(요리) (약한불로) 데치다	to braise (in weak heat)	grupo	alternativoj	prononco
 level	demenco	치매(癡呆)	a dementia	grupo	alternativoj	prononco
-level	ĉevalpovo	<전기> 마력	a horsepower	grupo	alternativoj	prononco
+level	ĉevalpovo	(전기)  마력	a horsepower	grupo	alternativoj	prononco
 level	cipreso	(드린실편백속의) 삼나무, 애도의 상징으로 쓰임	a cypress	grupo	alternativoj	prononco
 level	citro	치터(거문고 비슷한 현악기)	a zither (instrument)	grupo	alternativoj	prononco
 level	abituro	(독일) 고등학교 졸업시험	a high-school graduate, an arbituro	grupo	alternativoj	prononco
 level	anso	(문, 서랍, 바구니) 손잡이	a handle, a latch, a knob	grupo	alternativoj	prononco
 level	harti	(쇠를 달구어) 강하게 만들다, 경화하다	to fortify iron	grupo	alternativoj	prononco
 level	monitoro	(학급의) 반장	a monitor	grupo	alternativoj	prononco
-level	bonhavo	<경제> 재산, 대변	an asset, a possession, a property	grupo	alternativoj	prononco
-level	afido	<곤충>진디	an aphid, aphis (insect)	grupo	alternativoj	prononco
-level	ceceo	<동물>체체파리	a tsetse fly	grupo	alternativoj	prononco
-level	anemio	<병명> 빈혈증	anemia (lack of blood)	grupo	alternativoj	prononco
-level	bromelio	<식물> 아나나스과의 식물	bromelia (a plant)	grupo	alternativoj	prononco
-level	araŭkario	<식물> 칠레삼목	a monkey puzzle, a Chili pine	grupo	alternativoj	prononco
-level	akaĵuo	<식물> 캐슈애플 (아메리카산 옻나무과, 고무 채취)	a cashew, a cachew nut	grupo	alternativoj	prononco
+level	bonhavo	(경제)  재산, 대변	an asset, a possession, a property	grupo	alternativoj	prononco
+level	afido	(곤충) 진디	an aphid, aphis (insect)	grupo	alternativoj	prononco
+level	ceceo	(동물) 체체파리	a tsetse fly	grupo	alternativoj	prononco
+level	anemio	(병명)  빈혈증	anemia (lack of blood)	grupo	alternativoj	prononco
+level	bromelio	(식물)  아나나스과의 식물	bromelia (a plant)	grupo	alternativoj	prononco
+level	araŭkario	(식물)  칠레삼목	a monkey puzzle, a Chili pine	grupo	alternativoj	prononco
+level	akaĵuo	(식물)  캐슈애플 (아메리카산 옻나무과, 고무 채취)	a cashew, a cachew nut	grupo	alternativoj	prononco
 level	zoologia	동물학의	zoological	grupo	alternativoj	prononco
-level	bucero	<조류> 코뿔새 (열대산의 새)	a hornbill (bird)	grupo	alternativoj	prononco
-level	Danubo	<지리> 다뉘브, 다뉴브, 도나우 강	Danube	grupo	alternativoj	prononco
+level	bucero	(조류)  코뿔새 (열대산의 새)	a hornbill (bird)	grupo	alternativoj	prononco
+level	Danubo	(지리)  다뉘브, 다뉴브, 도나우 강	Danube	grupo	alternativoj	prononco
 level	damasko	다마스커스	Damascus	grupo	alternativoj	prononco
 level	dativo	여격	dative	grupo	alternativoj	prononco
 level	daturo	독물풀	a thorn apple, jimson weed	grupo	alternativoj	prononco
@@ -5884,7 +5884,7 @@ level	Antono	안토니(이름)	Anthony	grupo	alternativoj	prononco
 level	Anno	안나(이름)	Anna	grupo	alternativoj	prononco
 level	Berto	베르타(이름)	Bert	grupo	alternativoj	prononco
 level	apelacio	상소, 항소, 고소인	an appeal, an accuser	grupo	alternativoj	prononco
-level	antimono	<化> 안티몬	<chem> antimony	grupo	alternativoj	prononco
+level	antimono	(化)  안티몬	(chem)  antimony	grupo	alternativoj	prononco
 level	apokrifo	의심스런 출처의 외경	apocrypha	grupo	alternativoj	prononco
 level	apoteozo	신격화	apotheosis	grupo	alternativoj	prononco
 level	ardezo	(천연)스트레이트, 석판	slate	grupo	alternativoj	prononco
@@ -5904,7 +5904,7 @@ level	ĉano	(총의) 공이치기,격철	a cock (of a gun), a hammer (of a gun)	
 level	afekcii	감동시키다. 질병을 일으키다.	to affect	grupo	alternativoj	prononco
 level	hardi	강하게 하다.	to toughen	grupo	alternativoj	prononco
 level	areno	투기장, 무도장, 활약무대	an arena	grupo	alternativoj	prononco
-level	arseniko	비소, 비석	<chem> arsenic	grupo	alternativoj	prononco
+level	arseniko	비소, 비석	(chem)  arsenic	grupo	alternativoj	prononco
 level	borakso	붕사	borax	grupo	alternativoj	prononco
 level	aspiro	열망, 포부, 동경, 갈망	aspiration	grupo	alternativoj	prononco
 level	atribuo	탓으로 돌리다, 할당, 배당하다	attribution, allocation	grupo	alternativoj	prononco

@@ -13,23 +13,23 @@ level	mem	ด้วยตัวเอง	by oneself	grupo	0    	0000-00-00 00:00
 level	ĝis ~	มากถึง ~, จนกระทั่ง ~	upto ~, until ~	grupo	0    	0000-00-00 00:00:00
 level	de ~	ของ ~	of ~	grupo	0    	0000-00-00 00:00:00
 level	da ~	(มาก) ของ ~, (มาก) ของ ~	(much) of ~, (many) of ~	grupo	0    	0000-00-00 00:00:00
-level	-aĵo	<suffix>สิ่งของ, การสำแดงอย่างเป็นรูปธรรม	<suffix> thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
+level	-aĵo	(suffix) สิ่งของ, การสำแดงอย่างเป็นรูปธรรม	(suffix)  thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
 level	proksima	ใกล้.ใกล้.ใกล้.ใกล้	near, close to, soon, nearby	grupo	0    	0000-00-00 00:00:00
-level	-adi	<suffix>การกระทำซ้ำๆ การกระทำที่ยั่งยืน	<suffix> repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
-level	-as	<suffix>ปัจจุบันกาล	<suffix> present tense	grupo	0    	0000-00-00 00:00:00
-level	-is	<suffix>อดีตกาล	<suffix> past tense	grupo	0    	0000-00-00 00:00:00
+level	-adi	(suffix) การกระทำซ้ำๆ การกระทำที่ยั่งยืน	(suffix)  repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
+level	-as	(suffix) ปัจจุบันกาล	(suffix)  present tense	grupo	0    	0000-00-00 00:00:00
+level	-is	(suffix) อดีตกาล	(suffix)  past tense	grupo	0    	0000-00-00 00:00:00
 level	esti	เป็น	to be	grupo	0    	0000-00-00 00:00:00
-level	-os	<suffix>อนาคตที่ตึงเครียด	<suffix> future tense	grupo	0    	0000-00-00 00:00:00
-level	antaŭ ~	<preposition>ก่อน ~, ข้างหน้า ~	<preposition> before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
+level	-os	(suffix) อนาคตที่ตึงเครียด	(suffix)  future tense	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ~	(preposition) ก่อน ~, ข้างหน้า ~	(preposition)  before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
 level	fari	ทำ ทำ	to make, to do	grupo	0    	0000-00-00 00:00:00
-level	ankaŭ ~	<preposition>เช่นกัน	<preposition> also, too	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ~	(preposition) เช่นกัน	(preposition)  also, too	grupo	0    	0000-00-00 00:00:00
 level	post ~	หลังจาก ~	after ~	grupo	0    	0000-00-00 00:00:00
-level	mal-	<prefix>ตรงข้าม	<prefix> opposite	grupo	0    	0000-00-00 00:00:00
-level	-ul-	<suffix>บุคคลที่มีลักษณะบางอย่าง	<suffix> a person of some trait	grupo	0    	0000-00-00 00:00:00
-level	-in-	<suffix>หญิง	<suffix> female	grupo	0    	0000-00-00 00:00:00
-level	-ant-	<suffix>ปัจจุบันที่กระตือรือร้น กำลัง ~ing ใครบางคนที่กำลัง ~ing	<suffix> active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
-level	-int-	<suffix>อดีตที่ใช้งานอยู่กำลัง ~ ไอเอ็นจี	<suffix> active past, was ~ing	grupo	0    	0000-00-00 00:00:00
-level	-ont-	<suffix>อนาคตที่กระตือรือร้นจะเป็น ~ ไอเอ็นจี	<suffix> active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
+level	mal-	(prefix) ตรงข้าม	(prefix)  opposite	grupo	0    	0000-00-00 00:00:00
+level	-ul-	(suffix) บุคคลที่มีลักษณะบางอย่าง	(suffix)  a person of some trait	grupo	0    	0000-00-00 00:00:00
+level	-in-	(suffix) หญิง	(suffix)  female	grupo	0    	0000-00-00 00:00:00
+level	-ant-	(suffix) ปัจจุบันที่กระตือรือร้น กำลัง ~ing ใครบางคนที่กำลัง ~ing	(suffix)  active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
+level	-int-	(suffix) อดีตที่ใช้งานอยู่กำลัง ~ ไอเอ็นจี	(suffix)  active past, was ~ing	grupo	0    	0000-00-00 00:00:00
+level	-ont-	(suffix) อนาคตที่กระตือรือร้นจะเป็น ~ ไอเอ็นจี	(suffix)  active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
 level	kaj (k.)	และ	and	grupo	0    	0000-00-00 00:00:00
 level	aŭ	หรือ	or	grupo	0    	0000-00-00 00:00:00
 level	alta	สูงสูง	high, tall	grupo	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ level	kiom	เท่าไหร่, เท่าไหร่	how much, how many
 level	ofte	บ่อยครั้งบ่อยครั้ง	often, frequently	grupo	0    	0000-00-00 00:00:00
 level	iom	เล็กน้อย ค่อนข้าง บ้าง บ้าง	a little, rather, some, somewhat	grupo	0    	0000-00-00 00:00:00
 level	nova	ใหม่นวนิยาย	new, novel	grupo	0    	0000-00-00 00:00:00
-level	-at-	<suffix>กริยาปัจจุบันเชิงโต้ตอบ	<suffix> passive present participle	grupo	0    	0000-00-00 00:00:00
-level	-it-	<suffix>กริยาอดีตแบบพาสซีฟ	<suffix> passive past participle	grupo	0    	0000-00-00 00:00:00
-level	-ot-	<suffix>กริยาอนาคตแบบพาสซีฟ	<suffix> passive future participle	grupo	0    	0000-00-00 00:00:00
+level	-at-	(suffix) กริยาปัจจุบันเชิงโต้ตอบ	(suffix)  passive present participle	grupo	0    	0000-00-00 00:00:00
+level	-it-	(suffix) กริยาอดีตแบบพาสซีฟ	(suffix)  passive past participle	grupo	0    	0000-00-00 00:00:00
+level	-ot-	(suffix) กริยาอนาคตแบบพาสซีฟ	(suffix)  passive future participle	grupo	0    	0000-00-00 00:00:00
 level	tre	มากทีเดียวมาก	very, quite, very much	grupo	0    	0000-00-00 00:00:00
 level	tro	มากเกินไป, มากเกินไป, มากเกินไป	too, excessively, too much	grupo	0    	0000-00-00 00:00:00
 level	tamen	อย่างไรก็ตาม อย่างไรก็ตาม แต่อย่างไรก็ตาม	however, nonetheless, but, nevertheless	grupo	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ level	ho!	โอ้! โฮ!	Oh! Ho!	grupo	0    	0000-00-00 00:00:00
 level	ke ~	นั่น ~	that ~	grupo	0    	0000-00-00 00:00:00
 level	ĉar ~	เพราะ~	because ~	grupo	0    	0000-00-00 00:00:00
 level	ĉu	ไม่ว่าจะเป็น ~	whether ~	grupo	0    	0000-00-00 00:00:00
-level	-ej-	<suffix>สถานที่	<suffix> place	grupo	0    	0000-00-00 00:00:00
-level	-ec-	<suffix>ชื่อนามธรรมของคุณภาพ	<suffix> abstract name of quality	grupo	0    	0000-00-00 00:00:00
+level	-ej-	(suffix) สถานที่	(suffix)  place	grupo	0    	0000-00-00 00:00:00
+level	-ec-	(suffix) ชื่อนามธรรมของคุณภาพ	(suffix)  abstract name of quality	grupo	0    	0000-00-00 00:00:00
 level	ambaŭ ~	ทั้งสอง ~	both ~	grupo	0    	0000-00-00 00:00:00
 level	tuj	ทันที, ทันที, ทันที	immediately, instantly, right away	grupo	0    	0000-00-00 00:00:00
 level	kvazaŭ ~	ราวกับว่า ~	as if ~	grupo	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ level	neniam	ไม่เคย, ไม่มีเวลา, ไม่เคย
 level	tial	ดังนั้น ดังนั้น	therefore, so	grupo	0    	0000-00-00 00:00:00
 level	kial	ทำไม เพื่ออะไร	why, what for	grupo	0    	0000-00-00 00:00:00
 level	kvankam	แม้ว่า ~ ในขณะที่แม้ว่า	although ~, while, though	grupo	0    	0000-00-00 00:00:00
-level	ĉe ~	<preposition>ที่ ~	<preposition> at ~	grupo	0    	0000-00-00 00:00:00
+level	ĉe ~	(preposition) ที่ ~	(preposition)  at ~	grupo	0    	0000-00-00 00:00:00
 level	pli	มากกว่า	more	grupo	0    	0000-00-00 00:00:00
 level	plej	ที่สุด	most	grupo	0    	0000-00-00 00:00:00
 level	diri	ที่จะพูดที่จะบอก	to say, to tell	grupo	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ level	tia	เช่นนั้น, เช่นนั้น, เช่นนั
 level	apenaŭ	แทบจะไม่, แทบจะไม่, น่ากลัว	barely, hardly, scarecely	grupo	0    	0000-00-00 00:00:00
 level	sendi	ส่ง	to send	grupo	0    	0000-00-00 00:00:00
 level	ĵus	แค่ (เมื่อครู่ที่แล้ว) เมื่อสักครู่นี้	just (a moment ago), just now	grupo	0    	0000-00-00 00:00:00
-level	-u	<suffix>จำเป็น	<suffix> imperative	grupo	0    	0000-00-00 00:00:00
+level	-u	(suffix) จำเป็น	(suffix)  imperative	grupo	0    	0000-00-00 00:00:00
 level	ekster ~	ข้างนอก ~	outside ~	grupo	0    	0000-00-00 00:00:00
-level	ge-	<prefix>ทั้งเพศทั้งสองเพศ	<prefix> both sex, both gender	grupo	0    	0000-00-00 00:00:00
-level	-us	<suffix>จะควรจะเสริม	<suffix> would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
+level	ge-	(prefix) ทั้งเพศทั้งสองเพศ	(prefix)  both sex, both gender	grupo	0    	0000-00-00 00:00:00
+level	-us	(suffix) จะควรจะเสริม	(suffix)  would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
 level	baldaŭ	เร็วๆ นี้	soon	grupo	0    	0000-00-00 00:00:00
 level	almenaŭ	อย่างน้อยถ้าไม่มีอะไรอื่น	at least, if nothing else	grupo	0    	0000-00-00 00:00:00
 level	dis-	ไม่-	dis-	grupo	0    	0000-00-00 00:00:00
-level	-uj-	<suffix>คอนเทนเนอร์; ประเทศ	<suffix> container; country	grupo	0    	0000-00-00 00:00:00
+level	-uj-	(suffix) คอนเทนเนอร์; ประเทศ	(suffix)  container; country	grupo	0    	0000-00-00 00:00:00
 level	lerni	เพื่อเรียนรู้	to learn	grupo	0    	0000-00-00 00:00:00
-level	ek-	<prefix>จุดเริ่มต้น; เริ่มต้นอย่างกะทันหัน	<prefix> beginning; sudden start	grupo	0    	0000-00-00 00:00:00
+level	ek-	(prefix) จุดเริ่มต้น; เริ่มต้นอย่างกะทันหัน	(prefix)  beginning; sudden start	grupo	0    	0000-00-00 00:00:00
 level	se	ถ้า, โดยมีเงื่อนไขว่า	if, provided that	grupo	0    	0000-00-00 00:00:00
 level	eĉ	สม่ำเสมอ	even	grupo	0    	0000-00-00 00:00:00
 level	amo	ความรัก	a love	grupo	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ level	fini	จบ, จบ, ยุติ	to end, to finish, to terminate	grupo	0 
 level	do	ดังนั้น ดังนั้น ดังนั้น	so, then, therefore	grupo	0    	0000-00-00 00:00:00
 level	ajn	~ เคย (อะไร) เคยเลย - เลย	~ever, (what)ever, at all, -soever	grupo	0    	0000-00-00 00:00:00
 level	facila	ง่ายสะดวก	easy, facile	grupo	0    	0000-00-00 00:00:00
-level	re-	<prefix>อีกครั้ง-	<prefix> re-	grupo	0    	0000-00-00 00:00:00
+level	re-	(prefix) อีกครั้ง-	(prefix)  re-	grupo	0    	0000-00-00 00:00:00
 level	granda	ใหญ่, ใหญ่, ใหญ่	big, great, large	grupo	0    	0000-00-00 00:00:00
-level	-ist-	<suffix>มืออาชีพ	<suffix> professional	grupo	0    	0000-00-00 00:00:00
-level	pro ~	<preposition>เพราะ~, เนื่องจาก~	<preposition> because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
-level	-estr-	<suffix>ผู้นำ, หัวหน้า, หัวหน้า, หัวหน้า	<suffix> leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
+level	-ist-	(suffix) มืออาชีพ	(suffix)  professional	grupo	0    	0000-00-00 00:00:00
+level	pro ~	(preposition) เพราะ~, เนื่องจาก~	(preposition)  because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
+level	-estr-	(suffix) ผู้นำ, หัวหน้า, หัวหน้า, หัวหน้า	(suffix)  leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
 level	kio	อะไร	what	grupo	0    	0000-00-00 00:00:00
 level	manĝi	กิน	to eat	grupo	0    	0000-00-00 00:00:00
 level	nenio	ไม่มีอะไร ไม่มี ไม่มีสิ่งใดเลย	nothing, none, not any thing	grupo	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ level	ĉio	ทุกอย่าง	everything	grupo	0    	0000-00-00 00:00:00
 level	riĉa	ร่ำรวย มั่งคั่ง มั่งคั่ง	rich, wealthy, well-off	grupo	0    	0000-00-00 00:00:00
 level	tio	สิ่งนั้นสิ่งนั้น	that thing, that	grupo	0    	0000-00-00 00:00:00
 level	konstrui	เพื่อสร้าง, เพื่อสร้าง	to build, to construct	grupo	0    	0000-00-00 00:00:00
-level	ĉef-	<prefix>หัวหน้า, ผู้นำ, หลัก	<prefix> chief, leading, main	grupo	0    	0000-00-00 00:00:00
-level	sen ~	<preposition>โดยไม่ต้อง ~	<preposition> without ~	grupo	0    	0000-00-00 00:00:00
-level	kun ~	<preposition>ด้วย ~ (ด้วยกัน)	<preposition> with ~ (together)	grupo	0    	0000-00-00 00:00:00
-level	krom ~	<preposition>ยกเว้น ~ นอกจากนี้ ~	<preposition> except ~, besides ~	grupo	0    	0000-00-00 00:00:00
+level	ĉef-	(prefix) หัวหน้า, ผู้นำ, หลัก	(prefix)  chief, leading, main	grupo	0    	0000-00-00 00:00:00
+level	sen ~	(preposition) โดยไม่ต้อง ~	(preposition)  without ~	grupo	0    	0000-00-00 00:00:00
+level	kun ~	(preposition) ด้วย ~ (ด้วยกัน)	(preposition)  with ~ (together)	grupo	0    	0000-00-00 00:00:00
+level	krom ~	(preposition) ยกเว้น ~ นอกจากนี้ ~	(preposition)  except ~, besides ~	grupo	0    	0000-00-00 00:00:00
 level	amiko	เพื่อน	a friend	grupo	0    	0000-00-00 00:00:00
 level	kies	ของใคร อันไหน อันไหน	whose, which one's, of which	grupo	0    	0000-00-00 00:00:00
-level	per ~	<preposition>โดย ~ (วิธีการ) ด้วย ~ (เครื่องมือ)	<preposition> by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
+level	per ~	(preposition) โดย ~ (วิธีการ) ด้วย ~ (เครื่องมือ)	(preposition)  by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
 level	kontraŭ ~	ต่อต้าน ~	against ~	grupo	0    	0000-00-00 00:00:00
 level	el ~	จาก ~ จาก ~	out of ~, from ~	grupo	0    	0000-00-00 00:00:00
 level	hodiaŭ	วันนี้	today	grupo	0    	0000-00-00 00:00:00
 level	hieraŭ	เมื่อวาน	yesterday	grupo	0    	0000-00-00 00:00:00
 level	nur	เท่านั้น, เพียง, โดยเฉพาะ	only, just, exclusively	grupo	0    	0000-00-00 00:00:00
 level	helpi	เพื่อช่วย, ช่วยเหลือ, ช่วยเหลือ	to help, to aid, to assist	grupo	0    	0000-00-00 00:00:00
-level	for	<adverb>ไกลออกไป	<adverb> far, away	grupo	0    	0000-00-00 00:00:00
+level	for	(adverb) ไกลออกไป	(adverb)  far, away	grupo	0    	0000-00-00 00:00:00
 level	nek	หรืออย่างใดอย่างหนึ่ง	nor, neither	grupo	0    	0000-00-00 00:00:00
 level	malamo	ความเกลียดชัง	a hate	grupo	0    	0000-00-00 00:00:00
 level	preskaŭ	เกือบ, เกือบ	almost, nearly	grupo	0    	0000-00-00 00:00:00
@@ -137,7 +137,7 @@ level	tiu	คนนั้น นั่น ~ คนนั้น โน้น	that
 level	iu	บางคนบางคนบางคน	someone, somebody, some	grupo	0    	0000-00-00 00:00:00
 level	neniu	ไม่มีใคร ไม่มีใคร เช่นกัน	nobody, no one, neither	grupo	0    	0000-00-00 00:00:00
 level	al ~	ถึง ~	to ~	grupo	0    	0000-00-00 00:00:00
-level	-ebl-	<suffix>~สามารถ	<suffix> ~able	grupo	0    	0000-00-00 00:00:00
+level	-ebl-	(suffix) ~สามารถ	(suffix)  ~able	grupo	0    	0000-00-00 00:00:00
 level	esperi	ที่จะหวัง	to hope	grupo	0    	0000-00-00 00:00:00
 level	unu	หนึ่ง	one	grupo	0    	0000-00-00 00:00:00
 level	du	สอง	two	grupo	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ level	naŭ	เก้า	nine	grupo	0    	0000-00-00 00:00:00
 level	dek	สิบ	ten	grupo	0    	0000-00-00 00:00:00
 level	cent	ร้อย	a hundred	grupo	0    	0000-00-00 00:00:00
 level	mil	พัน	a thousand	grupo	0    	0000-00-00 00:00:00
-level	-obl-	<suffix>สำหรับหลายหลาก -oble, -fold	<suffix> for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
-level	-on-	<suffix>~th เศษส่วน	<suffix> ~th, fraction	grupo	0    	0000-00-00 00:00:00
+level	-obl-	(suffix) สำหรับหลายหลาก -oble, -fold	(suffix)  for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
+level	-on-	(suffix) ~th เศษส่วน	(suffix)  ~th, fraction	grupo	0    	0000-00-00 00:00:00
 level	ama	ของความรัก	of love	grupo	0    	0000-00-00 00:00:00
 level	anstataŭ ~	แทน ~	instead of ~	grupo	0    	0000-00-00 00:00:00
-level	-iĝ-	<suffix>กลายเป็น	<suffix> become	grupo	0    	0000-00-00 00:00:00
+level	-iĝ-	(suffix) กลายเป็น	(suffix)  become	grupo	0    	0000-00-00 00:00:00
 level	voli	ต้องการจะเต็มใจที่จะ	to want, to will, to be willing to	grupo	0    	0000-00-00 00:00:00
-level	-ig-	<suffix>ทำให้กลายเป็น	<suffix> cause to become	grupo	0    	0000-00-00 00:00:00
+level	-ig-	(suffix) ทำให้กลายเป็น	(suffix)  cause to become	grupo	0    	0000-00-00 00:00:00
 level	sekvi	ที่จะปฏิบัติตาม	to follow	grupo	0    	0000-00-00 00:00:00
 level	ĝoje	ยินดี	gladly	grupo	0    	0000-00-00 00:00:00
 level	legi	อ่าน	to read	grupo	0    	0000-00-00 00:00:00
 level	silenta	เงียบ	silent	grupo	0    	0000-00-00 00:00:00
 level	la	ที่	the	grupo	0    	0000-00-00 00:00:00
 level	ha!	ฮ่า!	ha!	grupo	0    	0000-00-00 00:00:00
-level	-il-	<suffix>เครื่องมือวิธีการ	<suffix> tool, method	grupo	0    	0000-00-00 00:00:00
+level	-il-	(suffix) เครื่องมือวิธีการ	(suffix)  tool, method	grupo	0    	0000-00-00 00:00:00
 level	trinki	ดื่ม (ไม่มีแอลกอฮอล์)	to drink (non-alkohol)	grupo	0    	0000-00-00 00:00:00
-level	-et-	<suffix>เล็ก ๆ	<suffix> small, little	grupo	0    	0000-00-00 00:00:00
-level	-eg-	<suffix>ใหญ่ใหญ่	<suffix> big, large	grupo	0    	0000-00-00 00:00:00
-level	inter ~	<preposition>ระหว่าง~	<preposition> between ~	grupo	0    	0000-00-00 00:00:00
-level	-um-	<suffix>พฤติกรรมที่เกี่ยวข้อง	<suffix> related behavior	grupo	0    	0000-00-00 00:00:00
-level	-ar-	<suffix>ชุด, กลุ่ม	<suffix> set, group	grupo	0    	0000-00-00 00:00:00
-level	-an-	<suffix>สมาชิกของกลุ่ม	<suffix> member of a group	grupo	0    	0000-00-00 00:00:00
+level	-et-	(suffix) เล็ก ๆ	(suffix)  small, little	grupo	0    	0000-00-00 00:00:00
+level	-eg-	(suffix) ใหญ่ใหญ่	(suffix)  big, large	grupo	0    	0000-00-00 00:00:00
+level	inter ~	(preposition) ระหว่าง~	(preposition)  between ~	grupo	0    	0000-00-00 00:00:00
+level	-um-	(suffix) พฤติกรรมที่เกี่ยวข้อง	(suffix)  related behavior	grupo	0    	0000-00-00 00:00:00
+level	-ar-	(suffix) ชุด, กลุ่ม	(suffix)  set, group	grupo	0    	0000-00-00 00:00:00
+level	-an-	(suffix) สมาชิกของกลุ่ม	(suffix)  member of a group	grupo	0    	0000-00-00 00:00:00
 level	danki	เพื่อขอบคุณ	to thank	grupo	0    	0000-00-00 00:00:00
-level	-ind-	<suffix>คุ้มค่า, คุ้มค่า	<suffix> worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
+level	-ind-	(suffix) คุ้มค่า, คุ้มค่า	(suffix)  worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
 level	plu	มากยิ่งขึ้น ต่อไป และอื่นๆ อีกมากมาย	even more, further, and so on, more	grupo	0    	0000-00-00 00:00:00
 level	kiel	อย่างไร, เช่น, ในลักษณะใด, เช่น	how, like, in what way, such as	grupo	0    	0000-00-00 00:00:00
 level	tiel	อย่างนั้นอย่างนั้นอย่างนี้	such, in that way, thus	grupo	0    	0000-00-00 00:00:00
-level	en ~	<preposition>ใน ~	<preposition> in ~	grupo	0    	0000-00-00 00:00:00
-level	apud ~	<preposition>ข้างๆ~, ข้างๆ~	<preposition> next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
-level	sub ~	<preposition>ข้างใต้ ข้างใต้~	<preposition> under, beneath ~	grupo	0    	0000-00-00 00:00:00
-level	sur ~	<preposition>บน ~	<preposition> on ~	grupo	0    	0000-00-00 00:00:00
-level	je ~	<preposition>การเตรียมการอย่างไม่มีกำหนด, ที่, ใน, โดย, บน	<preposition> indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
-level	ankoraŭ	<adverb>ยังเลย	<adverb> still, yet	grupo	0    	0000-00-00 00:00:00
-level	ĉirkaŭ ~	<preposition>ประมาณ ~	<preposition> around ~	grupo	0    	0000-00-00 00:00:00
+level	en ~	(preposition) ใน ~	(preposition)  in ~	grupo	0    	0000-00-00 00:00:00
+level	apud ~	(preposition) ข้างๆ~, ข้างๆ~	(preposition)  next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
+level	sub ~	(preposition) ข้างใต้ ข้างใต้~	(preposition)  under, beneath ~	grupo	0    	0000-00-00 00:00:00
+level	sur ~	(preposition) บน ~	(preposition)  on ~	grupo	0    	0000-00-00 00:00:00
+level	je ~	(preposition) การเตรียมการอย่างไม่มีกำหนด, ที่, ใน, โดย, บน	(preposition)  indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ	(adverb) ยังเลย	(adverb)  still, yet	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ ~	(preposition) ประมาณ ~	(preposition)  around ~	grupo	0    	0000-00-00 00:00:00
 level	sed	แต่	but	grupo	0    	0000-00-00 00:00:00
 level	ie	ที่ไหนสักแห่ง	somewhere	grupo	0    	0000-00-00 00:00:00
 level	kie	ที่ไหน ณ สถานที่ใด	where, at what place	grupo	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ level	tie	ที่นั่น ที่นั่น โน้น	there, over t
 level	ĉi	นี้ ~	this ~	grupo	0    	0000-00-00 00:00:00
 level	kanti	ร้องเพลง	to sing	grupo	0    	0000-00-00 00:00:00
 level	morti	ที่จะตาย, ผ่านไป	to die, to pass away	grupo	0    	0000-00-00 00:00:00
-level	dum ~	<preposition>ระหว่าง ~ ในขณะที่ ~	<preposition> during ~, while ~	grupo	0    	0000-00-00 00:00:00
+level	dum ~	(preposition) ระหว่าง ~ ในขณะที่ ~	(preposition)  during ~, while ~	grupo	0    	0000-00-00 00:00:00
 level	nacio	ประเทศชาติ	a nation	grupo	0    	0000-00-00 00:00:00
 level	koni	รู้จัก (บุคคล) ให้คุ้นเคย	to know (a person), to be aquainted with	grupo	0    	0000-00-00 00:00:00
 level	scii	รู้ (ข้อเท็จจริง, ความรู้), รู้วิธี	to know (a fact, knowledge), to know how	grupo	0    	0000-00-00 00:00:00
 level	ĉiam	เสมอเคย	always, ever	grupo	0    	0000-00-00 00:00:00
 level	iam	สักครั้งหนึ่ง	at some time, once	grupo	0    	0000-00-00 00:00:00
 level	tiam	แล้ว	then	grupo	0    	0000-00-00 00:00:00
-level	-em-	<suffix>แนวโน้ม	<suffix> tendancy	grupo	0    	0000-00-00 00:00:00
+level	-em-	(suffix) แนวโน้ม	(suffix)  tendancy	grupo	0    	0000-00-00 00:00:00
 level	ia	บางชนิด	some kind of	grupo	0    	0000-00-00 00:00:00
 level	sukcesi	เพื่อประสบความสําเร็จ	to succeed	grupo	0    	0000-00-00 00:00:00
 level	ĉia	ทุกชนิด, ทุกชนิด	of all kind, every kind of	grupo	0    	0000-00-00 00:00:00
 level	nenia	ไม่, ไม่ใช่ชนิดใด, ไม่ใช่ชนิดใด	no, not any kind of, not any	grupo	0    	0000-00-00 00:00:00
-level	-id-	<suffix>ลูกหลาน	<suffix> offspring	grupo	0    	0000-00-00 00:00:00
+level	-id-	(suffix) ลูกหลาน	(suffix)  offspring	grupo	0    	0000-00-00 00:00:00
 level	ĉambro	ห้อง, ห้อง	a room, a chamber	grupo	0    	0000-00-00 00:00:00
 level	patro	พ่อ	a father	grupo	0    	0000-00-00 00:00:00
 level	porko	หมู สุกร	a pig, swine	grupo	0    	0000-00-00 00:00:00
-level	bo-	<prefix>- สามีโดยการสมรส	<prefix> -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
+level	bo-	(prefix) - สามีโดยการสมรส	(prefix)  -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
 level	ja	อย่างแท้จริง	indeed	grupo	0    	0000-00-00 00:00:00
-level	-ism-	<suffix>-ism	<suffix> -ism	grupo	0    	0000-00-00 00:00:00
+level	-ism-	(suffix) -ism	(suffix)  -ism	grupo	0    	0000-00-00 00:00:00
 level	io	บางสิ่งบางอย่าง	something	grupo	0    	0000-00-00 00:00:00
 level	veturi	ขับรถ (ยานพาหนะ)	to drive (a vehicle)	grupo	0    	0000-00-00 00:00:00
 level	koko	ไก่ ไก่ ไก่ ไก่	a cock, a hen, chicken, fowl	grupo	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ level	merkredo	วันพุธ	Wednesday	grupo	0    	0000-00-00 00:00:00
 level	vendredo	วันศุกร์	Friday	grupo	0    	0000-00-00 00:00:00
 level	fiŝkaptado	จับปลาจับปลา	fish-catching, catching fishes	grupo	0    	0000-00-00 00:00:00
 level	ilustri	เพื่อแสดงให้เห็น	to illustrate	grupo	0    	0000-00-00 00:00:00
-level	des	<adverb>มาก (มากน้อย)	<adverb> so much (more, less)	grupo	0    	0000-00-00 00:00:00
+level	des	(adverb) มาก (มากน้อย)	(adverb)  so much (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sabato	วันเสาร์	Saturday	grupo	0    	0000-00-00 00:00:00
 level	ĵaŭdo	วันพฤหัสบดี	Thursday	grupo	0    	0000-00-00 00:00:00
 level	mardo	วันอังคาร	Tuesday	grupo	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ level	ŝtupo	ขั้นบันได, รุ่ง	a step, a stair, a rung	g
 level	bordo	ฝั่ง, ริมน้ำ, ธนาคาร	a shore, a waterfront, a bank	grupo	0    	0000-00-00 00:00:00
 level	justa	ยุติธรรม ยุติธรรม ชอบธรรม	fair, just, righteous	grupo	0    	0000-00-00 00:00:00
 level	lumo	แสง	a light	grupo	0    	0000-00-00 00:00:00
-level	malgraŭ ~	<preposition>ทั้งที่ ~ ทั้งที่ ~	<preposition> despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
+level	malgraŭ ~	(preposition) ทั้งที่ ~ ทั้งที่ ~	(preposition)  despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
 level	drinkado	การกระทำการดื่ม	drinking action	grupo	0    	0000-00-00 00:00:00
 level	aŭtomobilo	รถยนต์, รถยนต์, รถยนต์ (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	0    	0000-00-00 00:00:00
 level	bonvoli	จะ (จากใจ) ต้องการ (จากใจ)	to will (from heart), to want (from heart)	grupo	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ level	nordo	ทิศเหนือ	north	grupo	0    	0000-00-00 00:00:00
 level	kolekto	ของสะสม	collection	grupo	0    	0000-00-00 00:00:00
 level	supro	ด้านบน, การประชุมสุดยอด	a top, a summit	grupo	0    	0000-00-00 00:00:00
 level	oriento	ทิศตะวันออก	east	grupo	0    	0000-00-00 00:00:00
-level	ju	<adverb>(มากน้อย)	<adverb> the (more, less)	grupo	0    	0000-00-00 00:00:00
+level	ju	(adverb) (มากน้อย)	(adverb)  the (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sudo	ใต้	south	grupo	0    	0000-00-00 00:00:00
 level	okcidento	ตะวันตก	west	grupo	0    	0000-00-00 00:00:00
 level	juĝi	ที่จะตัดสิน	to judge	grupo	0    	0000-00-00 00:00:00
@@ -782,9 +782,9 @@ level	malalta	ต่ำ	low	grupo	0    	0000-00-00 00:00:00
 level	viando	เนื้อเนื้อ	meat, a meat	grupo	0    	0000-00-00 00:00:00
 level	respekti	ที่จะเคารพ	to respect	grupo	0    	0000-00-00 00:00:00
 level	forno	เตา, เตา, เตาอบ	a furnace, a stove, an oven	grupo	0    	0000-00-00 00:00:00
-level	-er-	<suffix>ธาตุที่เป็นอนุภาคขนาดเล็กทั้งหมด	<suffix> element, small particle of whole	grupo	0    	0000-00-00 00:00:00
+level	-er-	(suffix) ธาตุที่เป็นอนุภาคขนาดเล็กทั้งหมด	(suffix)  element, small particle of whole	grupo	0    	0000-00-00 00:00:00
 level	malkovri	ที่จะค้นพบ, เปิดเผย, เพื่อเปิดเผย	to discover, to uncover, to unveil	grupo	0    	0000-00-00 00:00:00
-level	-aĉ-	<suffix>แย่ น่าขยะแขยง	<suffix> bad, disgusting	grupo	0    	0000-00-00 00:00:00
+level	-aĉ-	(suffix) แย่ น่าขยะแขยง	(suffix)  bad, disgusting	grupo	0    	0000-00-00 00:00:00
 level	branĉo	กิ่งก้าน, กิ่งก้าน	a branch, a bough	grupo	0    	0000-00-00 00:00:00
 level	malhela	มืดมน, หดหู่, เยือกเย็น	dark, dismal, bleak	grupo	0    	0000-00-00 00:00:00
 level	mensogi	โกหกพูดโกหก	to lie, to tell a lie	grupo	0    	0000-00-00 00:00:00
@@ -1076,7 +1076,7 @@ level	imagi	จินตนาการ	to imagine	grupo	0    	0000-00-00 00:00:
 level	fidela	ซื่อสัตย์เชื่อถือได้	faithful, trustworthy	grupo	0    	0000-00-00 00:00:00
 level	partopreni	มีส่วนร่วม, มีส่วนร่วม	to participate, to take part	grupo	0    	0000-00-00 00:00:00
 level	kastelo	ปราสาทป้อมปราการ	a castle, a citadel	grupo	0    	0000-00-00 00:00:00
-level	-op-	<suffix>กลุ่มตัวเลข	<suffix> a group in numbers	grupo	0    	0000-00-00 00:00:00
+level	-op-	(suffix) กลุ่มตัวเลข	(suffix)  a group in numbers	grupo	0    	0000-00-00 00:00:00
 level	ĉeesti	ที่จะเข้าร่วม, ที่จะนำเสนอที่	to attend, to be present at	grupo	0    	0000-00-00 00:00:00
 level	televido	ทีวีโทรทัศน์	TV, television	grupo	0    	0000-00-00 00:00:00
 level	studento	นักศึกษา (มหาวิทยาลัย)	a student (university)	grupo	0    	0000-00-00 00:00:00
@@ -1328,7 +1328,7 @@ level	lastjare	ปีที่แล้ว	last year	grupo	0    	0000-00-00 00:0
 level	vojmontrilo	จุดสังเกต, ป้ายบอกทาง	a landmark, a signpost	grupo	0    	0000-00-00 00:00:00
 level	kelo	ห้องใต้ดิน, ห้องใต้ดิน	a cellar, a basement	grupo	0    	0000-00-00 00:00:00
 level	firma	มั่นคงมั่นคง	firm, stable	grupo	0    	0000-00-00 00:00:00
-level	eks-	<prefix>อดีต- อดีต	<prefix> ex-, former	grupo	0    	0000-00-00 00:00:00
+level	eks-	(prefix) อดีต- อดีต	(prefix)  ex-, former	grupo	0    	0000-00-00 00:00:00
 level	kilogramo	กิโลกรัม	a kilogram	grupo	0    	0000-00-00 00:00:00
 level	frago	สตรอเบอร์รี่	a strawberry	grupo	0    	0000-00-00 00:00:00
 level	pato	กระทะ	a frying pan	grupo	0    	0000-00-00 00:00:00
@@ -1340,7 +1340,7 @@ level	matura	สุกงอม	mature, ripe	grupo	0    	0000-00-00 00:00:00
 level	kulerego	ถังช้อนขนาดใหญ่	bucket, a large spoon	grupo	0    	0000-00-00 00:00:00
 level	konduti	ประพฤติตนประพฤติตน	to conduct oneself, to behave	grupo	0    	0000-00-00 00:00:00
 level	vere	จริงๆ, อย่างแท้จริง, อย่างแท้จริง	really, genuinly, truly	grupo	0    	0000-00-00 00:00:00
-level	mis-	<prefix>ผิด	<prefix> mis-	grupo	0    	0000-00-00 00:00:00
+level	mis-	(prefix) ผิด	(prefix)  mis-	grupo	0    	0000-00-00 00:00:00
 level	kvieta	เงียบสงบ	quiet, calm	grupo	0    	0000-00-00 00:00:00
 level	funkcii	ในการทำงาน, ดำเนินการ, ทำงาน	to function, to operate, to work	grupo	0    	0000-00-00 00:00:00
 level	konvena	เหมาะสม, เหมาะสม	appropriate, suitable	grupo	0    	0000-00-00 00:00:00
@@ -1355,14 +1355,14 @@ level	mieno	การแสดงออกทางสีหน้า (ใบห
 level	pensio	เงินบำนาญเงินรายปี	pension, annuity	grupo	0    	0000-00-00 00:00:00
 level	princo	เจ้าชาย	a prince	grupo	0    	0000-00-00 00:00:00
 level	sorto	โชคชะตา โชคชะตา โชคลาภ	destiny, fate, fortune	grupo	0    	0000-00-00 00:00:00
-level	-end-	<suffix>ภาระผูกพัน	<suffix> obligation	grupo	0    	0000-00-00 00:00:00
+level	-end-	(suffix) ภาระผูกพัน	(suffix)  obligation	grupo	0    	0000-00-00 00:00:00
 level	longaj ŝtrumpoj	ถุงน่องยาว	long stockings	grupo	0    	0000-00-00 00:00:00
 level	barbo	หนวดเครา	beard	grupo	0    	0000-00-00 00:00:00
-level	-ing-	<suffix>ที่วางยาว, ปลั๊กไฟ	<suffix> long holder, socket	grupo	0    	0000-00-00 00:00:00
+level	-ing-	(suffix) ที่วางยาว, ปลั๊กไฟ	(suffix)  long holder, socket	grupo	0    	0000-00-00 00:00:00
 level	bongusta	อร่อยมีรสชาติดี	delicious, good-tasted	grupo	0    	0000-00-00 00:00:00
 level	flegi	ที่จะดูแล, เลี้ยงดู	to take care of, to nurse	grupo	0    	0000-00-00 00:00:00
-level	-njo	<suffix>ชื่อสัตว์เลี้ยงหญิง	<suffix> female pet name	grupo	0    	0000-00-00 00:00:00
-level	-ĉjo	<suffix>ชื่อสัตว์เลี้ยงตัวผู้	<suffix> male pet name	grupo	0    	0000-00-00 00:00:00
+level	-njo	(suffix) ชื่อสัตว์เลี้ยงหญิง	(suffix)  female pet name	grupo	0    	0000-00-00 00:00:00
+level	-ĉjo	(suffix) ชื่อสัตว์เลี้ยงตัวผู้	(suffix)  male pet name	grupo	0    	0000-00-00 00:00:00
 level	plugi	ไถ, ไถ, ไถพรวน	to plow, to plough, to till	grupo	0    	0000-00-00 00:00:00
 level	amletero	จดหมายรัก	a loveletter	grupo	0    	0000-00-00 00:00:00
 level	glaso da	แก้วหนึ่ง	a glass of	grupo	0    	0000-00-00 00:00:00
@@ -1632,7 +1632,7 @@ level	kvanto	ปริมาณ, จำนวน	quantity, amount	grupo	0    	00
 level	batilo	ค้างคาว (ตี)	a bat (to hit)	grupo	0    	0000-00-00 00:00:00
 level	kvalito	คุณภาพทรัพย์สิน	quality, property	grupo	0    	0000-00-00 00:00:00
 level	laŭte	ดังดัง	loudly, aloud	grupo	0    	0000-00-00 00:00:00
-level	-ut-	<suffix>เฉยๆแบบมีเงื่อนไข	<suffix> conditional passive	grupo	0    	0000-00-00 00:00:00
+level	-ut-	(suffix) เฉยๆแบบมีเงื่อนไข	(suffix)  conditional passive	grupo	0    	0000-00-00 00:00:00
 level	kristnasko	คริสต์มาส	Christmas	grupo	0    	0000-00-00 00:00:00
 level	vivo	ชีวิต	a life	grupo	0    	0000-00-00 00:00:00
 level	freneza	บ้า, บ้า, บ้า	crazy, insane, mad	grupo	0    	0000-00-00 00:00:00
@@ -2391,7 +2391,7 @@ level	heredi	ที่จะสืบทอด	to inherit	grupo	0    	0000-00-00
 level	flugbileto	ตั๋วเครื่องบิน	an air ticket	grupo	0    	0000-00-00 00:00:00
 level	robo	แต่งตัว	a dress	grupo	0    	0000-00-00 00:00:00
 level	egipto	คนอียิปต์	an Egyptian person	grupo	0    	0000-00-00 00:00:00
-level	-unt	<suffix>ใช้งานแบบมีเงื่อนไข	<suffix> conditional active	grupo	0    	0000-00-00 00:00:00
+level	-unt	(suffix) ใช้งานแบบมีเงื่อนไข	(suffix)  conditional active	grupo	0    	0000-00-00 00:00:00
 level	frenezulo	คนคลั่งไคล้ คนบ้า คนบ้าคลั่ง	a fanatic, a lunatic, a maniac	grupo	0    	0000-00-00 00:00:00
 level	ekde	เนื่องจาก	since	grupo	0    	0000-00-00 00:00:00
 level	observi	สังเกต	to observe	grupo	0    	0000-00-00 00:00:00
@@ -2550,7 +2550,7 @@ level	irako	อิรัก	Iraq	grupo	0    	0000-00-00 00:00:00
 level	resumo	สรุป, สรุปย่อ, ประวัติย่อ, สรุปผล	a summary, a digest, a résumé, a sum-up	grupo	0    	0000-00-00 00:00:00
 level	promeno	ทางเดินเดินเล่น	a promenade, a walking	grupo	0    	0000-00-00 00:00:00
 level	horizontalo	เส้นแนวนอน	a horizontal line	grupo	0    	0000-00-00 00:00:00
-level	fi-	<prefix>น่าละอาย น่าขยะแขยง สกปรก	<prefix> shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
+level	fi-	(prefix) น่าละอาย น่าขยะแขยง สกปรก	(prefix)  shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
 level	aŭkcio	การประมูล	an auction	grupo	0    	0000-00-00 00:00:00
 level	konkludi	สรุป	to conclude	grupo	0    	0000-00-00 00:00:00
 level	salivo	น้ำลายทาส	saliva, slaver	grupo	0    	0000-00-00 00:00:00
@@ -5882,7 +5882,7 @@ level	Antono	แอนโทนี่	Anthony	grupo	0    	0000-00-00 00:00:00
 level	Anno	แอนนา	Anna	grupo	0    	0000-00-00 00:00:00
 level	Berto	เบิร์ต	Bert	grupo	0    	0000-00-00 00:00:00
 level	apelacio	การอุทธรณ์ผู้กล่าวหา	an appeal, an accuser	grupo	0    	0000-00-00 00:00:00
-level	antimono	<chem>พลวง	<chem> antimony	grupo	0    	0000-00-00 00:00:00
+level	antimono	(chem) พลวง	(chem)  antimony	grupo	0    	0000-00-00 00:00:00
 level	apokrifo	คัมภีร์ที่ไม่มีหลักฐาน	apocrypha	grupo	0    	0000-00-00 00:00:00
 level	apoteozo	การถวายพระเกียรติ	apotheosis	grupo	0    	0000-00-00 00:00:00
 level	ardezo	กระดานชนวน	slate	grupo	0    	0000-00-00 00:00:00
@@ -5902,7 +5902,7 @@ level	ĉano	ไก่ (ของปืน), ค้อน (ของปืน)	a 
 level	afekcii	ที่จะส่งผลกระทบต่อ	to affect	grupo	0    	0000-00-00 00:00:00
 level	hardi	ที่จะทำให้แข็งแกร่งขึ้น	to toughen	grupo	0    	0000-00-00 00:00:00
 level	areno	สนามกีฬา	an arena	grupo	0    	0000-00-00 00:00:00
-level	arseniko	<chem>สารหนู	<chem> arsenic	grupo	0    	0000-00-00 00:00:00
+level	arseniko	(chem) สารหนู	(chem)  arsenic	grupo	0    	0000-00-00 00:00:00
 level	borakso	น้ำประสานทอง	borax	grupo	0    	0000-00-00 00:00:00
 level	aspiro	ความทะเยอทะยาน	aspiration	grupo	0    	0000-00-00 00:00:00
 level	atribuo	การระบุแหล่งที่มาการจัดสรร	attribution, allocation	grupo	0    	0000-00-00 00:00:00

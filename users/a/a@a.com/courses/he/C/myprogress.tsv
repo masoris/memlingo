@@ -13,23 +13,23 @@ level	mem	בעצמו	by oneself	grupo	0    	0000-00-00 00:00:00
 level	ĝis ~	עד ~, עד ~	upto ~, until ~	grupo	0    	0000-00-00 00:00:00
 level	de ~	של ~	of ~	grupo	0    	0000-00-00 00:00:00
 level	da ~	(הרבה) של ~, (רבים) של ~	(much) of ~, (many) of ~	grupo	0    	0000-00-00 00:00:00
-level	-aĵo	<suffix>דבר, ביטוי קונקרטי	<suffix> thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
+level	-aĵo	(suffix) דבר, ביטוי קונקרטי	(suffix)  thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
 level	proksima	קרוב, קרוב, בקרוב, קרוב	near, close to, soon, nearby	grupo	0    	0000-00-00 00:00:00
-level	-adi	<suffix>פעולה חוזרת, פעולה מתמשכת	<suffix> repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
-level	-as	<suffix>זמן הווה	<suffix> present tense	grupo	0    	0000-00-00 00:00:00
-level	-is	<suffix>זמן עבר	<suffix> past tense	grupo	0    	0000-00-00 00:00:00
+level	-adi	(suffix) פעולה חוזרת, פעולה מתמשכת	(suffix)  repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
+level	-as	(suffix) זמן הווה	(suffix)  present tense	grupo	0    	0000-00-00 00:00:00
+level	-is	(suffix) זמן עבר	(suffix)  past tense	grupo	0    	0000-00-00 00:00:00
 level	esti	להיות	to be	grupo	0    	0000-00-00 00:00:00
-level	-os	<suffix>לשון עתיד	<suffix> future tense	grupo	0    	0000-00-00 00:00:00
-level	antaŭ ~	<preposition>לפני ~, לפני ~	<preposition> before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
+level	-os	(suffix) לשון עתיד	(suffix)  future tense	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ~	(preposition) לפני ~, לפני ~	(preposition)  before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
 level	fari	לעשות, לעשות	to make, to do	grupo	0    	0000-00-00 00:00:00
-level	ankaŭ ~	<preposition>גם	<preposition> also, too	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ~	(preposition) גם	(preposition)  also, too	grupo	0    	0000-00-00 00:00:00
 level	post ~	אחרי ~	after ~	grupo	0    	0000-00-00 00:00:00
-level	mal-	<prefix>מול	<prefix> opposite	grupo	0    	0000-00-00 00:00:00
-level	-ul-	<suffix>אדם בעל תכונה כלשהי	<suffix> a person of some trait	grupo	0    	0000-00-00 00:00:00
-level	-in-	<suffix>נְקֵבָה	<suffix> female	grupo	0    	0000-00-00 00:00:00
-level	-ant-	<suffix>הווה פעיל, הוא ~ing, מישהו שהוא ~ing	<suffix> active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
-level	-int-	<suffix>עבר פעיל, היה ~ing	<suffix> active past, was ~ing	grupo	0    	0000-00-00 00:00:00
-level	-ont-	<suffix>עתיד פעיל, יהיה ~ing	<suffix> active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
+level	mal-	(prefix) מול	(prefix)  opposite	grupo	0    	0000-00-00 00:00:00
+level	-ul-	(suffix) אדם בעל תכונה כלשהי	(suffix)  a person of some trait	grupo	0    	0000-00-00 00:00:00
+level	-in-	(suffix) נְקֵבָה	(suffix)  female	grupo	0    	0000-00-00 00:00:00
+level	-ant-	(suffix) הווה פעיל, הוא ~ing, מישהו שהוא ~ing	(suffix)  active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
+level	-int-	(suffix) עבר פעיל, היה ~ing	(suffix)  active past, was ~ing	grupo	0    	0000-00-00 00:00:00
+level	-ont-	(suffix) עתיד פעיל, יהיה ~ing	(suffix)  active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
 level	kaj (k.)	ו	and	grupo	0    	0000-00-00 00:00:00
 level	aŭ	אוֹ	or	grupo	0    	0000-00-00 00:00:00
 level	alta	גבוה, גבוה	high, tall	grupo	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ level	kiom	כמה כמה	how much, how many	grupo	0    	0000-00-00 00:00:00
 level	ofte	לעתים קרובות, לעתים קרובות	often, frequently	grupo	0    	0000-00-00 00:00:00
 level	iom	קצת, יותר נכון, קצת, קצת	a little, rather, some, somewhat	grupo	0    	0000-00-00 00:00:00
 level	nova	חדש, רומן	new, novel	grupo	0    	0000-00-00 00:00:00
-level	-at-	<suffix>חלק נוכח פסיבי	<suffix> passive present participle	grupo	0    	0000-00-00 00:00:00
-level	-it-	<suffix>חלק עבר פסיבי	<suffix> passive past participle	grupo	0    	0000-00-00 00:00:00
-level	-ot-	<suffix>חלק עתידי פסיבי	<suffix> passive future participle	grupo	0    	0000-00-00 00:00:00
+level	-at-	(suffix) חלק נוכח פסיבי	(suffix)  passive present participle	grupo	0    	0000-00-00 00:00:00
+level	-it-	(suffix) חלק עבר פסיבי	(suffix)  passive past participle	grupo	0    	0000-00-00 00:00:00
+level	-ot-	(suffix) חלק עתידי פסיבי	(suffix)  passive future participle	grupo	0    	0000-00-00 00:00:00
 level	tre	מאוד, די, מאוד	very, quite, very much	grupo	0    	0000-00-00 00:00:00
 level	tro	מדי, מוגזם, יותר מדי	too, excessively, too much	grupo	0    	0000-00-00 00:00:00
 level	tamen	אולם, בכל זאת, אבל, בכל זאת	however, nonetheless, but, nevertheless	grupo	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ level	ho!	הו! הו!	Oh! Ho!	grupo	0    	0000-00-00 00:00:00
 level	ke ~	כי ~	that ~	grupo	0    	0000-00-00 00:00:00
 level	ĉar ~	כי ~	because ~	grupo	0    	0000-00-00 00:00:00
 level	ĉu	אם ~	whether ~	grupo	0    	0000-00-00 00:00:00
-level	-ej-	<suffix>מקום	<suffix> place	grupo	0    	0000-00-00 00:00:00
-level	-ec-	<suffix>שם מופשט של איכות	<suffix> abstract name of quality	grupo	0    	0000-00-00 00:00:00
+level	-ej-	(suffix) מקום	(suffix)  place	grupo	0    	0000-00-00 00:00:00
+level	-ec-	(suffix) שם מופשט של איכות	(suffix)  abstract name of quality	grupo	0    	0000-00-00 00:00:00
 level	ambaŭ ~	שניהם ~	both ~	grupo	0    	0000-00-00 00:00:00
 level	tuj	מיד, מיידי, מיד	immediately, instantly, right away	grupo	0    	0000-00-00 00:00:00
 level	kvazaŭ ~	כאילו ~	as if ~	grupo	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ level	neniam	לעולם, בשום זמן, לא אף פעם	never, at no time, no
 level	tial	לפיכך	therefore, so	grupo	0    	0000-00-00 00:00:00
 level	kial	למה, בשביל מה	why, what for	grupo	0    	0000-00-00 00:00:00
 level	kvankam	למרות ~, בעוד, אם כי	although ~, while, though	grupo	0    	0000-00-00 00:00:00
-level	ĉe ~	<preposition>ב-~	<preposition> at ~	grupo	0    	0000-00-00 00:00:00
+level	ĉe ~	(preposition) ב-~	(preposition)  at ~	grupo	0    	0000-00-00 00:00:00
 level	pli	יותר	more	grupo	0    	0000-00-00 00:00:00
 level	plej	רוב	most	grupo	0    	0000-00-00 00:00:00
 level	diri	לומר, לספר	to say, to tell	grupo	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ level	tia	כזה, כזה, כזה	such, that kind of, such a	grupo	0    	0000-00-
 level	apenaŭ	בקושי, בקושי, בקושי	barely, hardly, scarecely	grupo	0    	0000-00-00 00:00:00
 level	sendi	לשלוח	to send	grupo	0    	0000-00-00 00:00:00
 level	ĵus	רק (לפני רגע), ממש עכשיו	just (a moment ago), just now	grupo	0    	0000-00-00 00:00:00
-level	-u	<suffix>הֶכְרֵחִי	<suffix> imperative	grupo	0    	0000-00-00 00:00:00
+level	-u	(suffix) הֶכְרֵחִי	(suffix)  imperative	grupo	0    	0000-00-00 00:00:00
 level	ekster ~	בחוץ ~	outside ~	grupo	0    	0000-00-00 00:00:00
-level	ge-	<prefix>שני המינים, שני המינים	<prefix> both sex, both gender	grupo	0    	0000-00-00 00:00:00
-level	-us	<suffix>היה, צריך, משנה	<suffix> would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
+level	ge-	(prefix) שני המינים, שני המינים	(prefix)  both sex, both gender	grupo	0    	0000-00-00 00:00:00
+level	-us	(suffix) היה, צריך, משנה	(suffix)  would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
 level	baldaŭ	בקרוב	soon	grupo	0    	0000-00-00 00:00:00
 level	almenaŭ	לפחות, אם שום דבר אחר	at least, if nothing else	grupo	0    	0000-00-00 00:00:00
 level	dis-	דיס-	dis-	grupo	0    	0000-00-00 00:00:00
-level	-uj-	<suffix>מְכוֹלָה; מדינה	<suffix> container; country	grupo	0    	0000-00-00 00:00:00
+level	-uj-	(suffix) מְכוֹלָה; מדינה	(suffix)  container; country	grupo	0    	0000-00-00 00:00:00
 level	lerni	ללמוד	to learn	grupo	0    	0000-00-00 00:00:00
-level	ek-	<prefix>התחלה; התחלה פתאומית	<prefix> beginning; sudden start	grupo	0    	0000-00-00 00:00:00
+level	ek-	(prefix) התחלה; התחלה פתאומית	(prefix)  beginning; sudden start	grupo	0    	0000-00-00 00:00:00
 level	se	אם, בתנאי ש	if, provided that	grupo	0    	0000-00-00 00:00:00
 level	eĉ	אֲפִילוּ	even	grupo	0    	0000-00-00 00:00:00
 level	amo	אהבה	a love	grupo	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ level	fini	לסיים, לסיים, לסיים	to end, to finish, to terminate	gr
 level	do	אז, אז, לכן	so, then, therefore	grupo	0    	0000-00-00 00:00:00
 level	ajn	~ever, (what)ever, at all, -soever	~ever, (what)ever, at all, -soever	grupo	0    	0000-00-00 00:00:00
 level	facila	קל, קליל	easy, facile	grupo	0    	0000-00-00 00:00:00
-level	re-	<prefix>מִחָדָשׁ	<prefix> re-	grupo	0    	0000-00-00 00:00:00
+level	re-	(prefix) מִחָדָשׁ	(prefix)  re-	grupo	0    	0000-00-00 00:00:00
 level	granda	גדול, גדול, גדול	big, great, large	grupo	0    	0000-00-00 00:00:00
-level	-ist-	<suffix>מקצועי	<suffix> professional	grupo	0    	0000-00-00 00:00:00
-level	pro ~	<preposition>בגלל ~, בגלל ~	<preposition> because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
-level	-estr-	<suffix>מנהיג, בוס, ראש, צ'יף	<suffix> leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
+level	-ist-	(suffix) מקצועי	(suffix)  professional	grupo	0    	0000-00-00 00:00:00
+level	pro ~	(preposition) בגלל ~, בגלל ~	(preposition)  because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
+level	-estr-	(suffix) מנהיג, בוס, ראש, צ'יף	(suffix)  leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
 level	kio	מה	what	grupo	0    	0000-00-00 00:00:00
 level	manĝi	לאכול	to eat	grupo	0    	0000-00-00 00:00:00
 level	nenio	שום דבר, שום דבר, שום דבר	nothing, none, not any thing	grupo	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ level	ĉio	הכל	everything	grupo	0    	0000-00-00 00:00:00
 level	riĉa	עשיר, עשיר, אמיד	rich, wealthy, well-off	grupo	0    	0000-00-00 00:00:00
 level	tio	הדבר הזה, זה	that thing, that	grupo	0    	0000-00-00 00:00:00
 level	konstrui	לבנות, לבנות	to build, to construct	grupo	0    	0000-00-00 00:00:00
-level	ĉef-	<prefix>ראשי, מוביל, ראשי	<prefix> chief, leading, main	grupo	0    	0000-00-00 00:00:00
-level	sen ~	<preposition>בלי ~	<preposition> without ~	grupo	0    	0000-00-00 00:00:00
-level	kun ~	<preposition>עם ~ (ביחד)	<preposition> with ~ (together)	grupo	0    	0000-00-00 00:00:00
-level	krom ~	<preposition>מלבד ~, מלבד ~	<preposition> except ~, besides ~	grupo	0    	0000-00-00 00:00:00
+level	ĉef-	(prefix) ראשי, מוביל, ראשי	(prefix)  chief, leading, main	grupo	0    	0000-00-00 00:00:00
+level	sen ~	(preposition) בלי ~	(preposition)  without ~	grupo	0    	0000-00-00 00:00:00
+level	kun ~	(preposition) עם ~ (ביחד)	(preposition)  with ~ (together)	grupo	0    	0000-00-00 00:00:00
+level	krom ~	(preposition) מלבד ~, מלבד ~	(preposition)  except ~, besides ~	grupo	0    	0000-00-00 00:00:00
 level	amiko	חבר	a friend	grupo	0    	0000-00-00 00:00:00
 level	kies	של מי, של מי, של מי	whose, which one's, of which	grupo	0    	0000-00-00 00:00:00
-level	per ~	<preposition>על ידי ~ (שיטה), עם ~ (כלי)	<preposition> by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
+level	per ~	(preposition) על ידי ~ (שיטה), עם ~ (כלי)	(preposition)  by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
 level	kontraŭ ~	נגד ~	against ~	grupo	0    	0000-00-00 00:00:00
 level	el ~	מתוך ~, מ~	out of ~, from ~	grupo	0    	0000-00-00 00:00:00
 level	hodiaŭ	היום	today	grupo	0    	0000-00-00 00:00:00
 level	hieraŭ	אתמול	yesterday	grupo	0    	0000-00-00 00:00:00
 level	nur	רק, רק, בלעדי	only, just, exclusively	grupo	0    	0000-00-00 00:00:00
 level	helpi	לעזור, לסייע, לסייע	to help, to aid, to assist	grupo	0    	0000-00-00 00:00:00
-level	for	<adverb>הרחק	<adverb> far, away	grupo	0    	0000-00-00 00:00:00
+level	for	(adverb) הרחק	(adverb)  far, away	grupo	0    	0000-00-00 00:00:00
 level	nek	וגם לא, גם לא	nor, neither	grupo	0    	0000-00-00 00:00:00
 level	malamo	שנאה	a hate	grupo	0    	0000-00-00 00:00:00
 level	preskaŭ	כמעט ליד	almost, nearly	grupo	0    	0000-00-00 00:00:00
@@ -137,7 +137,7 @@ level	tiu	האדם הזה, ההוא, ההוא, שם	that person, that ~, that on
 level	iu	מישהו, מישהו, כמה	someone, somebody, some	grupo	0    	0000-00-00 00:00:00
 level	neniu	אף אחד, אף אחד, גם לא	nobody, no one, neither	grupo	0    	0000-00-00 00:00:00
 level	al ~	ל~	to ~	grupo	0    	0000-00-00 00:00:00
-level	-ebl-	<suffix>~ מסוגל	<suffix> ~able	grupo	0    	0000-00-00 00:00:00
+level	-ebl-	(suffix) ~ מסוגל	(suffix)  ~able	grupo	0    	0000-00-00 00:00:00
 level	esperi	לקוות	to hope	grupo	0    	0000-00-00 00:00:00
 level	unu	אחד	one	grupo	0    	0000-00-00 00:00:00
 level	du	שתיים	two	grupo	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ level	naŭ	תֵשַׁע	nine	grupo	0    	0000-00-00 00:00:00
 level	dek	עשר	ten	grupo	0    	0000-00-00 00:00:00
 level	cent	מאה	a hundred	grupo	0    	0000-00-00 00:00:00
 level	mil	אלף	a thousand	grupo	0    	0000-00-00 00:00:00
-level	-obl-	<suffix>לריבוי, -אובל, -קפל	<suffix> for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
-level	-on-	<suffix>~ה, שבר	<suffix> ~th, fraction	grupo	0    	0000-00-00 00:00:00
+level	-obl-	(suffix) לריבוי, -אובל, -קפל	(suffix)  for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
+level	-on-	(suffix) ~ה, שבר	(suffix)  ~th, fraction	grupo	0    	0000-00-00 00:00:00
 level	ama	מאהבה	of love	grupo	0    	0000-00-00 00:00:00
 level	anstataŭ ~	במקום ~	instead of ~	grupo	0    	0000-00-00 00:00:00
-level	-iĝ-	<suffix>הפכו	<suffix> become	grupo	0    	0000-00-00 00:00:00
+level	-iĝ-	(suffix) הפכו	(suffix)  become	grupo	0    	0000-00-00 00:00:00
 level	voli	לרצות, לרצות, להיות מוכנים	to want, to will, to be willing to	grupo	0    	0000-00-00 00:00:00
-level	-ig-	<suffix>לגרום להיות	<suffix> cause to become	grupo	0    	0000-00-00 00:00:00
+level	-ig-	(suffix) לגרום להיות	(suffix)  cause to become	grupo	0    	0000-00-00 00:00:00
 level	sekvi	לעקוב	to follow	grupo	0    	0000-00-00 00:00:00
 level	ĝoje	בשמחה	gladly	grupo	0    	0000-00-00 00:00:00
 level	legi	לקרוא	to read	grupo	0    	0000-00-00 00:00:00
 level	silenta	שקט	silent	grupo	0    	0000-00-00 00:00:00
 level	la	ה	the	grupo	0    	0000-00-00 00:00:00
 level	ha!	הא!	ha!	grupo	0    	0000-00-00 00:00:00
-level	-il-	<suffix>כלי, שיטה	<suffix> tool, method	grupo	0    	0000-00-00 00:00:00
+level	-il-	(suffix) כלי, שיטה	(suffix)  tool, method	grupo	0    	0000-00-00 00:00:00
 level	trinki	לשתות (ללא אלכוהול)	to drink (non-alkohol)	grupo	0    	0000-00-00 00:00:00
-level	-et-	<suffix>קטנטן	<suffix> small, little	grupo	0    	0000-00-00 00:00:00
-level	-eg-	<suffix>גדול, גדול	<suffix> big, large	grupo	0    	0000-00-00 00:00:00
-level	inter ~	<preposition>בין ~	<preposition> between ~	grupo	0    	0000-00-00 00:00:00
-level	-um-	<suffix>התנהגות קשורה	<suffix> related behavior	grupo	0    	0000-00-00 00:00:00
-level	-ar-	<suffix>סט, קבוצה	<suffix> set, group	grupo	0    	0000-00-00 00:00:00
-level	-an-	<suffix>חבר בקבוצה	<suffix> member of a group	grupo	0    	0000-00-00 00:00:00
+level	-et-	(suffix) קטנטן	(suffix)  small, little	grupo	0    	0000-00-00 00:00:00
+level	-eg-	(suffix) גדול, גדול	(suffix)  big, large	grupo	0    	0000-00-00 00:00:00
+level	inter ~	(preposition) בין ~	(preposition)  between ~	grupo	0    	0000-00-00 00:00:00
+level	-um-	(suffix) התנהגות קשורה	(suffix)  related behavior	grupo	0    	0000-00-00 00:00:00
+level	-ar-	(suffix) סט, קבוצה	(suffix)  set, group	grupo	0    	0000-00-00 00:00:00
+level	-an-	(suffix) חבר בקבוצה	(suffix)  member of a group	grupo	0    	0000-00-00 00:00:00
 level	danki	להודות	to thank	grupo	0    	0000-00-00 00:00:00
-level	-ind-	<suffix>כדאי, ראוי	<suffix> worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
+level	-ind-	(suffix) כדאי, ראוי	(suffix)  worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
 level	plu	עוד יותר, עוד ועוד, וכן הלאה, יותר	even more, further, and so on, more	grupo	0    	0000-00-00 00:00:00
 level	kiel	איך, כאילו, באיזה אופן, כגון	how, like, in what way, such as	grupo	0    	0000-00-00 00:00:00
 level	tiel	כזה, בדרך זו, כך	such, in that way, thus	grupo	0    	0000-00-00 00:00:00
-level	en ~	<preposition>ב ~	<preposition> in ~	grupo	0    	0000-00-00 00:00:00
-level	apud ~	<preposition>ליד ~, ליד ~	<preposition> next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
-level	sub ~	<preposition>מתחת, מתחת ~	<preposition> under, beneath ~	grupo	0    	0000-00-00 00:00:00
-level	sur ~	<preposition>על ~	<preposition> on ~	grupo	0    	0000-00-00 00:00:00
-level	je ~	<preposition>הכנה בלתי מוגבלת, ב, ב, על ידי, על	<preposition> indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
-level	ankoraŭ	<adverb>עדיין	<adverb> still, yet	grupo	0    	0000-00-00 00:00:00
-level	ĉirkaŭ ~	<preposition>סביב ~	<preposition> around ~	grupo	0    	0000-00-00 00:00:00
+level	en ~	(preposition) ב ~	(preposition)  in ~	grupo	0    	0000-00-00 00:00:00
+level	apud ~	(preposition) ליד ~, ליד ~	(preposition)  next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
+level	sub ~	(preposition) מתחת, מתחת ~	(preposition)  under, beneath ~	grupo	0    	0000-00-00 00:00:00
+level	sur ~	(preposition) על ~	(preposition)  on ~	grupo	0    	0000-00-00 00:00:00
+level	je ~	(preposition) הכנה בלתי מוגבלת, ב, ב, על ידי, על	(preposition)  indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ	(adverb) עדיין	(adverb)  still, yet	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ ~	(preposition) סביב ~	(preposition)  around ~	grupo	0    	0000-00-00 00:00:00
 level	sed	אבל	but	grupo	0    	0000-00-00 00:00:00
 level	ie	אי שם	somewhere	grupo	0    	0000-00-00 00:00:00
 level	kie	איפה, באיזה מקום	where, at what place	grupo	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ level	tie	שם, שם, משם	there, over there, yonder	grupo	0    	0000-00-00 00
 level	ĉi	זה ~	this ~	grupo	0    	0000-00-00 00:00:00
 level	kanti	לשיר	to sing	grupo	0    	0000-00-00 00:00:00
 level	morti	למות, לחלוף	to die, to pass away	grupo	0    	0000-00-00 00:00:00
-level	dum ~	<preposition>במהלך ~, בזמן ~	<preposition> during ~, while ~	grupo	0    	0000-00-00 00:00:00
+level	dum ~	(preposition) במהלך ~, בזמן ~	(preposition)  during ~, while ~	grupo	0    	0000-00-00 00:00:00
 level	nacio	אומה	a nation	grupo	0    	0000-00-00 00:00:00
 level	koni	לדעת (אדם), להכיר	to know (a person), to be aquainted with	grupo	0    	0000-00-00 00:00:00
 level	scii	לדעת (עובדה, ידיעה), לדעת איך	to know (a fact, knowledge), to know how	grupo	0    	0000-00-00 00:00:00
 level	ĉiam	תמיד, תמיד	always, ever	grupo	0    	0000-00-00 00:00:00
 level	iam	מתישהו, פעם אחת	at some time, once	grupo	0    	0000-00-00 00:00:00
 level	tiam	לאחר מכן	then	grupo	0    	0000-00-00 00:00:00
-level	-em-	<suffix>נטייה	<suffix> tendancy	grupo	0    	0000-00-00 00:00:00
+level	-em-	(suffix) נטייה	(suffix)  tendancy	grupo	0    	0000-00-00 00:00:00
 level	ia	סוג של	some kind of	grupo	0    	0000-00-00 00:00:00
 level	sukcesi	להצליח	to succeed	grupo	0    	0000-00-00 00:00:00
 level	ĉia	מכל סוג, מכל סוג	of all kind, every kind of	grupo	0    	0000-00-00 00:00:00
 level	nenia	לא, לא כל סוג של, לא כל	no, not any kind of, not any	grupo	0    	0000-00-00 00:00:00
-level	-id-	<suffix>צֶאֱצָאִים	<suffix> offspring	grupo	0    	0000-00-00 00:00:00
+level	-id-	(suffix) צֶאֱצָאִים	(suffix)  offspring	grupo	0    	0000-00-00 00:00:00
 level	ĉambro	חדר, חדר	a room, a chamber	grupo	0    	0000-00-00 00:00:00
 level	patro	אבא	a father	grupo	0    	0000-00-00 00:00:00
 level	porko	חזיר, חזיר	a pig, swine	grupo	0    	0000-00-00 00:00:00
-level	bo-	<prefix>-חתן, בנישואין	<prefix> -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
+level	bo-	(prefix) -חתן, בנישואין	(prefix)  -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
 level	ja	אכן	indeed	grupo	0    	0000-00-00 00:00:00
-level	-ism-	<suffix>-איזם	<suffix> -ism	grupo	0    	0000-00-00 00:00:00
+level	-ism-	(suffix) -איזם	(suffix)  -ism	grupo	0    	0000-00-00 00:00:00
 level	io	משהו	something	grupo	0    	0000-00-00 00:00:00
 level	veturi	לנהוג (רכב)	to drive (a vehicle)	grupo	0    	0000-00-00 00:00:00
 level	koko	זין, תרנגולת, עוף, עוף	a cock, a hen, chicken, fowl	grupo	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ level	merkredo	יום רביעי	Wednesday	grupo	0    	0000-00-00 00:00:00
 level	vendredo	יוֹם שִׁישִׁי	Friday	grupo	0    	0000-00-00 00:00:00
 level	fiŝkaptado	תופס דגים, תופס דגים	fish-catching, catching fishes	grupo	0    	0000-00-00 00:00:00
 level	ilustri	לדמות	to illustrate	grupo	0    	0000-00-00 00:00:00
-level	des	<adverb>כל כך הרבה (יותר, פחות)	<adverb> so much (more, less)	grupo	0    	0000-00-00 00:00:00
+level	des	(adverb) כל כך הרבה (יותר, פחות)	(adverb)  so much (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sabato	יום שבת	Saturday	grupo	0    	0000-00-00 00:00:00
 level	ĵaŭdo	יוֹם חֲמִישִׁי	Thursday	grupo	0    	0000-00-00 00:00:00
 level	mardo	יוֹם שְׁלִישִׁי	Tuesday	grupo	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ level	ŝtupo	מדרגה, מדרגות, מדרגה	a step, a stair, a rung	grupo	
 level	bordo	חוף, חוף, בנק	a shore, a waterfront, a bank	grupo	0    	0000-00-00 00:00:00
 level	justa	הוגן, צודק, צדיק	fair, just, righteous	grupo	0    	0000-00-00 00:00:00
 level	lumo	אור	a light	grupo	0    	0000-00-00 00:00:00
-level	malgraŭ ~	<preposition>למרות ~, למרות ~	<preposition> despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
+level	malgraŭ ~	(preposition) למרות ~, למרות ~	(preposition)  despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
 level	drinkado	פעולת שתייה	drinking action	grupo	0    	0000-00-00 00:00:00
 level	aŭtomobilo	מכונית, מכונית, מכונית (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	0    	0000-00-00 00:00:00
 level	bonvoli	לרצות (מהלב), לרצות (מהלב)	to will (from heart), to want (from heart)	grupo	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ level	nordo	צָפוֹן	north	grupo	0    	0000-00-00 00:00:00
 level	kolekto	אוסף	collection	grupo	0    	0000-00-00 00:00:00
 level	supro	פסגה, פסגה	a top, a summit	grupo	0    	0000-00-00 00:00:00
 level	oriento	מזרח	east	grupo	0    	0000-00-00 00:00:00
-level	ju	<adverb>את (יותר, פחות)	<adverb> the (more, less)	grupo	0    	0000-00-00 00:00:00
+level	ju	(adverb) את (יותר, פחות)	(adverb)  the (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sudo	דָרוֹם	south	grupo	0    	0000-00-00 00:00:00
 level	okcidento	מַעֲרָב	west	grupo	0    	0000-00-00 00:00:00
 level	juĝi	לשפוט	to judge	grupo	0    	0000-00-00 00:00:00
@@ -782,9 +782,9 @@ level	malalta	נָמוּך	low	grupo	0    	0000-00-00 00:00:00
 level	viando	בשר, בשר	meat, a meat	grupo	0    	0000-00-00 00:00:00
 level	respekti	לכבד	to respect	grupo	0    	0000-00-00 00:00:00
 level	forno	תנור, כיריים, תנור	a furnace, a stove, an oven	grupo	0    	0000-00-00 00:00:00
-level	-er-	<suffix>יסוד, חלקיק קטן של שלם	<suffix> element, small particle of whole	grupo	0    	0000-00-00 00:00:00
+level	-er-	(suffix) יסוד, חלקיק קטן של שלם	(suffix)  element, small particle of whole	grupo	0    	0000-00-00 00:00:00
 level	malkovri	לגלות, לחשוף, לחשוף	to discover, to uncover, to unveil	grupo	0    	0000-00-00 00:00:00
-level	-aĉ-	<suffix>רע, מגעיל	<suffix> bad, disgusting	grupo	0    	0000-00-00 00:00:00
+level	-aĉ-	(suffix) רע, מגעיל	(suffix)  bad, disgusting	grupo	0    	0000-00-00 00:00:00
 level	branĉo	ענף, ענף	a branch, a bough	grupo	0    	0000-00-00 00:00:00
 level	malhela	אפל, עגום, עגום	dark, dismal, bleak	grupo	0    	0000-00-00 00:00:00
 level	mensogi	לשקר, לספר שקר	to lie, to tell a lie	grupo	0    	0000-00-00 00:00:00
@@ -1076,7 +1076,7 @@ level	imagi	לדמיין	to imagine	grupo	0    	0000-00-00 00:00:00
 level	fidela	נאמן, אמין	faithful, trustworthy	grupo	0    	0000-00-00 00:00:00
 level	partopreni	להשתתף, לקחת חלק	to participate, to take part	grupo	0    	0000-00-00 00:00:00
 level	kastelo	טירה, מצודה	a castle, a citadel	grupo	0    	0000-00-00 00:00:00
-level	-op-	<suffix>קבוצה במספרים	<suffix> a group in numbers	grupo	0    	0000-00-00 00:00:00
+level	-op-	(suffix) קבוצה במספרים	(suffix)  a group in numbers	grupo	0    	0000-00-00 00:00:00
 level	ĉeesti	להשתתף, להיות נוכח	to attend, to be present at	grupo	0    	0000-00-00 00:00:00
 level	televido	טלוויזיה, טלוויזיה	TV, television	grupo	0    	0000-00-00 00:00:00
 level	studento	סטודנט (אוניברסיטה)	a student (university)	grupo	0    	0000-00-00 00:00:00
@@ -1328,7 +1328,7 @@ level	lastjare	שנה שעברה	last year	grupo	0    	0000-00-00 00:00:00
 level	vojmontrilo	נקודת ציון, תמרור	a landmark, a signpost	grupo	0    	0000-00-00 00:00:00
 level	kelo	מרתף, מרתף	a cellar, a basement	grupo	0    	0000-00-00 00:00:00
 level	firma	יציב, יציב	firm, stable	grupo	0    	0000-00-00 00:00:00
-level	eks-	<prefix>לשעבר, לשעבר	<prefix> ex-, former	grupo	0    	0000-00-00 00:00:00
+level	eks-	(prefix) לשעבר, לשעבר	(prefix)  ex-, former	grupo	0    	0000-00-00 00:00:00
 level	kilogramo	קילוגרם	a kilogram	grupo	0    	0000-00-00 00:00:00
 level	frago	תות	a strawberry	grupo	0    	0000-00-00 00:00:00
 level	pato	מחבת	a frying pan	grupo	0    	0000-00-00 00:00:00
@@ -1340,7 +1340,7 @@ level	matura	בוגר, בשל	mature, ripe	grupo	0    	0000-00-00 00:00:00
 level	kulerego	דלי, כף גדולה	bucket, a large spoon	grupo	0    	0000-00-00 00:00:00
 level	konduti	להתנהל, להתנהג	to conduct oneself, to behave	grupo	0    	0000-00-00 00:00:00
 level	vere	באמת, באמת, באמת	really, genuinly, truly	grupo	0    	0000-00-00 00:00:00
-level	mis-	<prefix>רַע	<prefix> mis-	grupo	0    	0000-00-00 00:00:00
+level	mis-	(prefix) רַע	(prefix)  mis-	grupo	0    	0000-00-00 00:00:00
 level	kvieta	שקט, רגוע	quiet, calm	grupo	0    	0000-00-00 00:00:00
 level	funkcii	לתפקד, לפעול, לעבוד	to function, to operate, to work	grupo	0    	0000-00-00 00:00:00
 level	konvena	מתאים, מתאים	appropriate, suitable	grupo	0    	0000-00-00 00:00:00
@@ -1355,14 +1355,14 @@ level	mieno	הבעת (פנים).	a (facial) expression	grupo	0    	0000-00-00 00
 level	pensio	פנסיה, קצבה	pension, annuity	grupo	0    	0000-00-00 00:00:00
 level	princo	נסיך	a prince	grupo	0    	0000-00-00 00:00:00
 level	sorto	גורל, גורל, הון	destiny, fate, fortune	grupo	0    	0000-00-00 00:00:00
-level	-end-	<suffix>חוֹבָה	<suffix> obligation	grupo	0    	0000-00-00 00:00:00
+level	-end-	(suffix) חוֹבָה	(suffix)  obligation	grupo	0    	0000-00-00 00:00:00
 level	longaj ŝtrumpoj	גרביים ארוכים	long stockings	grupo	0    	0000-00-00 00:00:00
 level	barbo	זָקָן	beard	grupo	0    	0000-00-00 00:00:00
-level	-ing-	<suffix>מחזיק ארוך, שקע	<suffix> long holder, socket	grupo	0    	0000-00-00 00:00:00
+level	-ing-	(suffix) מחזיק ארוך, שקע	(suffix)  long holder, socket	grupo	0    	0000-00-00 00:00:00
 level	bongusta	טעים, בטעם טוב	delicious, good-tasted	grupo	0    	0000-00-00 00:00:00
 level	flegi	לטפל, לאחות	to take care of, to nurse	grupo	0    	0000-00-00 00:00:00
-level	-njo	<suffix>שם חיית מחמד נקבה	<suffix> female pet name	grupo	0    	0000-00-00 00:00:00
-level	-ĉjo	<suffix>שם חיית מחמד זכר	<suffix> male pet name	grupo	0    	0000-00-00 00:00:00
+level	-njo	(suffix) שם חיית מחמד נקבה	(suffix)  female pet name	grupo	0    	0000-00-00 00:00:00
+level	-ĉjo	(suffix) שם חיית מחמד זכר	(suffix)  male pet name	grupo	0    	0000-00-00 00:00:00
 level	plugi	לחרוש, לחרוש, לחרוש	to plow, to plough, to till	grupo	0    	0000-00-00 00:00:00
 level	amletero	מכתב אהבה	a loveletter	grupo	0    	0000-00-00 00:00:00
 level	glaso da	כוס של	a glass of	grupo	0    	0000-00-00 00:00:00
@@ -1632,7 +1632,7 @@ level	kvanto	כמות	quantity, amount	grupo	0    	0000-00-00 00:00:00
 level	batilo	מחבט (להכות)	a bat (to hit)	grupo	0    	0000-00-00 00:00:00
 level	kvalito	איכות, רכוש	quality, property	grupo	0    	0000-00-00 00:00:00
 level	laŭte	בקול רם, בקול רם	loudly, aloud	grupo	0    	0000-00-00 00:00:00
-level	-ut-	<suffix>פסיבי מותנה	<suffix> conditional passive	grupo	0    	0000-00-00 00:00:00
+level	-ut-	(suffix) פסיבי מותנה	(suffix)  conditional passive	grupo	0    	0000-00-00 00:00:00
 level	kristnasko	חַג הַמוֹלָד	Christmas	grupo	0    	0000-00-00 00:00:00
 level	vivo	חיים	a life	grupo	0    	0000-00-00 00:00:00
 level	freneza	מטורף, מטורף, מטורף	crazy, insane, mad	grupo	0    	0000-00-00 00:00:00
@@ -2391,7 +2391,7 @@ level	heredi	לרשת	to inherit	grupo	0    	0000-00-00 00:00:00
 level	flugbileto	כרטיס טיסה	an air ticket	grupo	0    	0000-00-00 00:00:00
 level	robo	שמלה	a dress	grupo	0    	0000-00-00 00:00:00
 level	egipto	אדם מצרי	an Egyptian person	grupo	0    	0000-00-00 00:00:00
-level	-unt	<suffix>פעיל מותנה	<suffix> conditional active	grupo	0    	0000-00-00 00:00:00
+level	-unt	(suffix) פעיל מותנה	(suffix)  conditional active	grupo	0    	0000-00-00 00:00:00
 level	frenezulo	קנאי, מטורף, מטורף	a fanatic, a lunatic, a maniac	grupo	0    	0000-00-00 00:00:00
 level	ekde	מאז	since	grupo	0    	0000-00-00 00:00:00
 level	observi	לצפות	to observe	grupo	0    	0000-00-00 00:00:00
@@ -2550,7 +2550,7 @@ level	irako	עִירַאק	Iraq	grupo	0    	0000-00-00 00:00:00
 level	resumo	סיכום, תקציר, קורות חיים, סיכום	a summary, a digest, a résumé, a sum-up	grupo	0    	0000-00-00 00:00:00
 level	promeno	טיילת, הליכה	a promenade, a walking	grupo	0    	0000-00-00 00:00:00
 level	horizontalo	קו אופקי	a horizontal line	grupo	0    	0000-00-00 00:00:00
-level	fi-	<prefix>מביש, מגעיל, מלוכלך	<prefix> shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
+level	fi-	(prefix) מביש, מגעיל, מלוכלך	(prefix)  shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
 level	aŭkcio	מכירה פומבית	an auction	grupo	0    	0000-00-00 00:00:00
 level	konkludi	להסיק	to conclude	grupo	0    	0000-00-00 00:00:00
 level	salivo	רוק, עבד	saliva, slaver	grupo	0    	0000-00-00 00:00:00
@@ -5882,7 +5882,7 @@ level	Antono	אנתוני	Anthony	grupo	0    	0000-00-00 00:00:00
 level	Anno	אנה	Anna	grupo	0    	0000-00-00 00:00:00
 level	Berto	ברט	Bert	grupo	0    	0000-00-00 00:00:00
 level	apelacio	ערעור, מאשים	an appeal, an accuser	grupo	0    	0000-00-00 00:00:00
-level	antimono	<chem>אַנטִימוֹן	<chem> antimony	grupo	0    	0000-00-00 00:00:00
+level	antimono	(chem) אַנטִימוֹן	(chem)  antimony	grupo	0    	0000-00-00 00:00:00
 level	apokrifo	אפוקריפים	apocrypha	grupo	0    	0000-00-00 00:00:00
 level	apoteozo	הַאֲלָהָה	apotheosis	grupo	0    	0000-00-00 00:00:00
 level	ardezo	צִפחָה	slate	grupo	0    	0000-00-00 00:00:00
@@ -5902,7 +5902,7 @@ level	ĉano	זין (של אקדח), פטיש (של אקדח)	a cock (of a gun), 
 level	afekcii	להשפיע	to affect	grupo	0    	0000-00-00 00:00:00
 level	hardi	להקשיח	to toughen	grupo	0    	0000-00-00 00:00:00
 level	areno	זירה	an arena	grupo	0    	0000-00-00 00:00:00
-level	arseniko	<chem>אַרסָן	<chem> arsenic	grupo	0    	0000-00-00 00:00:00
+level	arseniko	(chem) אַרסָן	(chem)  arsenic	grupo	0    	0000-00-00 00:00:00
 level	borakso	בּוֹרָקְס	borax	grupo	0    	0000-00-00 00:00:00
 level	aspiro	שְׁאִיפָה	aspiration	grupo	0    	0000-00-00 00:00:00
 level	atribuo	ייחוס, הקצאה	attribution, allocation	grupo	0    	0000-00-00 00:00:00

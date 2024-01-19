@@ -12,7 +12,7 @@ body {
     width: 96%;
     position: absolute;
     left: 2%;
-    top: 100px;
+    top: 130px;
 }
 
 
@@ -97,7 +97,7 @@ img.ic_close_gray {
 }
 
 .Select-what-you-hear {
-    /* width: 320px; */
+    width: 96%;
     height: 30px;
     /* margin: 20px 20px 16px; */
     font-family: Arial, sans-serif;

@@ -15,23 +15,23 @@ level	mem	mem	by oneself	grupo	alternativoj	prononco
 level	ĝis ~	ĝis ~	upto ~, until ~	grupo	alternativoj	prononco
 level	de ~	de ~	of ~	grupo	alternativoj	prononco
 level	da ~	da ~	(much) of ~, (many) of ~	grupo	alternativoj	prononco
-level	-aĵo	-aĵo	<suffix> thing, concrete manifestation	grupo	alternativoj	prononco
+level	-aĵo	-aĵo	(suffix)  thing, concrete manifestation	grupo	alternativoj	prononco
 level	proksima	proksima	near, close to, soon, nearby	grupo	alternativoj	prononco
-level	-adi	-adi	<suffix> repetitive action, lasting action	grupo	alternativoj	prononco
-level	-as	-as	<suffix> present tense	grupo	alternativoj	prononco
-level	-is	-is	<suffix> past tense	grupo	alternativoj	prononco
+level	-adi	-adi	(suffix)  repetitive action, lasting action	grupo	alternativoj	prononco
+level	-as	-as	(suffix)  present tense	grupo	alternativoj	prononco
+level	-is	-is	(suffix)  past tense	grupo	alternativoj	prononco
 level	esti	esti	to be	grupo	alternativoj	prononco
-level	-os	-os	<suffix> future tense	grupo	alternativoj	prononco
-level	antaŭ ~	antaŭ ~	<preposition> before ~, in front of ~	grupo	alternativoj	prononco
+level	-os	-os	(suffix)  future tense	grupo	alternativoj	prononco
+level	antaŭ ~	antaŭ ~	(preposition)  before ~, in front of ~	grupo	alternativoj	prononco
 level	fari	fari	to make, to do	grupo	alternativoj	prononco
-level	ankaŭ ~	ankaŭ ~	<preposition> also, too	grupo	alternativoj	prononco
+level	ankaŭ ~	ankaŭ ~	(preposition)  also, too	grupo	alternativoj	prononco
 level	post ~	post ~	after ~	grupo	alternativoj	prononco
-level	mal-	mal-	<prefix> opposite	grupo	alternativoj	prononco
-level	-ul-	-ul-	<suffix> a person of some trait	grupo	alternativoj	prononco
-level	-in-	-in-	<suffix> female	grupo	alternativoj	prononco
-level	-ant-	-ant-	<suffix> active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
-level	-int-	-int-	<suffix> active past, was ~ing	grupo	alternativoj	prononco
-level	-ont-	-ont-	<suffix> active future, will be ~ing	grupo	alternativoj	prononco
+level	mal-	mal-	(prefix)  opposite	grupo	alternativoj	prononco
+level	-ul-	-ul-	(suffix)  a person of some trait	grupo	alternativoj	prononco
+level	-in-	-in-	(suffix)  female	grupo	alternativoj	prononco
+level	-ant-	-ant-	(suffix)  active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
+level	-int-	-int-	(suffix)  active past, was ~ing	grupo	alternativoj	prononco
+level	-ont-	-ont-	(suffix)  active future, will be ~ing	grupo	alternativoj	prononco
 level	kaj (k.)	kaj (k.)	and	grupo	alternativoj	prononco
 level	aŭ	aŭ	or	grupo	alternativoj	prononco
 level	alta	alta	high, tall	grupo	alternativoj	prononco
@@ -43,9 +43,9 @@ level	kiom	kiom	how much, how many	grupo	alternativoj	prononco
 level	ofte	ofte	often, frequently	grupo	alternativoj	prononco
 level	iom	iom	a little, rather, some, somewhat	grupo	alternativoj	prononco
 level	nova	nova	new, novel	grupo	alternativoj	prononco
-level	-at-	-at-	<suffix> passive present participle	grupo	alternativoj	prononco
-level	-it-	-it-	<suffix> passive past participle	grupo	alternativoj	prononco
-level	-ot-	-ot-	<suffix> passive future participle	grupo	alternativoj	prononco
+level	-at-	-at-	(suffix)  passive present participle	grupo	alternativoj	prononco
+level	-it-	-it-	(suffix)  passive past participle	grupo	alternativoj	prononco
+level	-ot-	-ot-	(suffix)  passive future participle	grupo	alternativoj	prononco
 level	tre	tre	very, quite, very much	grupo	alternativoj	prononco
 level	tro	tro	too, excessively, too much	grupo	alternativoj	prononco
 level	tamen	tamen	however, nonetheless, but, nevertheless	grupo	alternativoj	prononco
@@ -53,8 +53,8 @@ level	ho!	ho!	Oh! Ho!	grupo	alternativoj	prononco
 level	ke ~	ke ~	that ~	grupo	alternativoj	prononco
 level	ĉar ~	ĉar ~	because ~	grupo	alternativoj	prononco
 level	ĉu	ĉu	whether ~	grupo	alternativoj	prononco
-level	-ej-	-ej-	<suffix> place	grupo	alternativoj	prononco
-level	-ec-	-ec-	<suffix> abstract name of quality	grupo	alternativoj	prononco
+level	-ej-	-ej-	(suffix)  place	grupo	alternativoj	prononco
+level	-ec-	-ec-	(suffix)  abstract name of quality	grupo	alternativoj	prononco
 level	ambaŭ ~	ambaŭ ~	both ~	grupo	alternativoj	prononco
 level	tuj	tuj	immediately, instantly, right away	grupo	alternativoj	prononco
 level	kvazaŭ ~	kvazaŭ ~	as if ~	grupo	alternativoj	prononco
@@ -64,7 +64,7 @@ level	neniam	neniam	never, at no time, not ever	grupo	alternativoj	prononco
 level	tial	tial	therefore, so	grupo	alternativoj	prononco
 level	kial	kial	why, what for	grupo	alternativoj	prononco
 level	kvankam	kvankam	although ~, while, though	grupo	alternativoj	prononco
-level	ĉe ~	ĉe ~	<preposition> at ~	grupo	alternativoj	prononco
+level	ĉe ~	ĉe ~	(preposition)  at ~	grupo	alternativoj	prononco
 level	pli	pli	more	grupo	alternativoj	prononco
 level	plej	plej	most	grupo	alternativoj	prononco
 level	diri	diri	to say, to tell	grupo	alternativoj	prononco
@@ -75,16 +75,16 @@ level	tia	tia	such, that kind of, such a	grupo	alternativoj	prononco
 level	apenaŭ	apenaŭ	barely, hardly, scarecely	grupo	alternativoj	prononco
 level	sendi	sendi	to send	grupo	alternativoj	prononco
 level	ĵus	ĵus	just (a moment ago), just now	grupo	alternativoj	prononco
-level	-u	-u	<suffix> imperative	grupo	alternativoj	prononco
+level	-u	-u	(suffix)  imperative	grupo	alternativoj	prononco
 level	ekster ~	ekster ~	outside ~	grupo	alternativoj	prononco
-level	ge-	ge-	<prefix> both sex, both gender	grupo	alternativoj	prononco
-level	-us	-us	<suffix> would, should, subjunctive	grupo	alternativoj	prononco
+level	ge-	ge-	(prefix)  both sex, both gender	grupo	alternativoj	prononco
+level	-us	-us	(suffix)  would, should, subjunctive	grupo	alternativoj	prononco
 level	baldaŭ	baldaŭ	soon	grupo	alternativoj	prononco
 level	almenaŭ	almenaŭ	at least, if nothing else	grupo	alternativoj	prononco
 level	dis-	dis-	dis-	grupo	alternativoj	prononco
-level	-uj-	-uj-	<suffix> container; country	grupo	alternativoj	prononco
+level	-uj-	-uj-	(suffix)  container; country	grupo	alternativoj	prononco
 level	lerni	lerni	to learn	grupo	alternativoj	prononco
-level	ek-	ek-	<prefix> beginning; sudden start	grupo	alternativoj	prononco
+level	ek-	ek-	(prefix)  beginning; sudden start	grupo	alternativoj	prononco
 level	se	se	if, provided that	grupo	alternativoj	prononco
 level	eĉ	eĉ	even	grupo	alternativoj	prononco
 level	amo	amo	a love	grupo	alternativoj	prononco
@@ -94,11 +94,11 @@ level	fini	fini	to end, to finish, to terminate	grupo	alternativoj	prononco
 level	do	do	so, then, therefore	grupo	alternativoj	prononco
 level	ajn	ajn	~ever, (what)ever, at all, -soever	grupo	alternativoj	prononco
 level	facila	facila	easy, facile	grupo	alternativoj	prononco
-level	re-	re-	<prefix> re-	grupo	alternativoj	prononco
+level	re-	re-	(prefix)  re-	grupo	alternativoj	prononco
 level	granda	granda	big, great, large	grupo	alternativoj	prononco
-level	-ist-	-ist-	<suffix> professional	grupo	alternativoj	prononco
-level	pro ~	pro ~	<preposition> because of ~, due to ~	grupo	alternativoj	prononco
-level	-estr-	-estr-	<suffix> leader, boss, head, chief	grupo	alternativoj	prononco
+level	-ist-	-ist-	(suffix)  professional	grupo	alternativoj	prononco
+level	pro ~	pro ~	(preposition)  because of ~, due to ~	grupo	alternativoj	prononco
+level	-estr-	-estr-	(suffix)  leader, boss, head, chief	grupo	alternativoj	prononco
 level	kio	kio	what	grupo	alternativoj	prononco
 level	manĝi	manĝi	to eat	grupo	alternativoj	prononco
 level	nenio	nenio	nothing, none, not any thing	grupo	alternativoj	prononco
@@ -107,20 +107,20 @@ level	ĉio	ĉio	everything	grupo	alternativoj	prononco
 level	riĉa	riĉa	rich, wealthy, well-off	grupo	alternativoj	prononco
 level	tio	tio	that thing, that	grupo	alternativoj	prononco
 level	konstrui	konstrui	to build, to construct	grupo	alternativoj	prononco
-level	ĉef-	ĉef-	<prefix> chief, leading, main	grupo	alternativoj	prononco
-level	sen ~	sen ~	<preposition> without ~	grupo	alternativoj	prononco
-level	kun ~	kun ~	<preposition> with ~ (together)	grupo	alternativoj	prononco
-level	krom ~	krom ~	<preposition> except ~, besides ~	grupo	alternativoj	prononco
+level	ĉef-	ĉef-	(prefix)  chief, leading, main	grupo	alternativoj	prononco
+level	sen ~	sen ~	(preposition)  without ~	grupo	alternativoj	prononco
+level	kun ~	kun ~	(preposition)  with ~ (together)	grupo	alternativoj	prononco
+level	krom ~	krom ~	(preposition)  except ~, besides ~	grupo	alternativoj	prononco
 level	amiko	amiko	a friend	grupo	alternativoj	prononco
 level	kies	kies	whose, which one's, of which	grupo	alternativoj	prononco
-level	per ~	per ~	<preposition> by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
+level	per ~	per ~	(preposition)  by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
 level	kontraŭ ~	kontraŭ ~	against ~	grupo	alternativoj	prononco
 level	el ~	el ~	out of ~, from ~	grupo	alternativoj	prononco
 level	hodiaŭ	hodiaŭ	today	grupo	alternativoj	prononco
 level	hieraŭ	hieraŭ	yesterday	grupo	alternativoj	prononco
 level	nur	nur	only, just, exclusively	grupo	alternativoj	prononco
 level	helpi	helpi	to help, to aid, to assist	grupo	alternativoj	prononco
-level	for	for	<adverb> far, away	grupo	alternativoj	prononco
+level	for	for	(adverb)  far, away	grupo	alternativoj	prononco
 level	nek	nek	nor, neither	grupo	alternativoj	prononco
 level	malamo	malamo	a hate	grupo	alternativoj	prononco
 level	preskaŭ	preskaŭ	almost, nearly	grupo	alternativoj	prononco
@@ -139,7 +139,7 @@ level	tiu	tiu	that person, that ~, that one, yonder	grupo	alternativoj	prononco
 level	iu	iu	someone, somebody, some	grupo	alternativoj	prononco
 level	neniu	neniu	nobody, no one, neither	grupo	alternativoj	prononco
 level	al ~	al ~	to ~	grupo	alternativoj	prononco
-level	-ebl-	-ebl-	<suffix> ~able	grupo	alternativoj	prononco
+level	-ebl-	-ebl-	(suffix)  ~able	grupo	alternativoj	prononco
 level	esperi	esperi	to hope	grupo	alternativoj	prononco
 level	unu	unu	one	grupo	alternativoj	prononco
 level	du	du	two	grupo	alternativoj	prononco
@@ -153,39 +153,39 @@ level	naŭ	naŭ	nine	grupo	alternativoj	prononco
 level	dek	dek	ten	grupo	alternativoj	prononco
 level	cent	cent	a hundred	grupo	alternativoj	prononco
 level	mil	mil	a thousand	grupo	alternativoj	prononco
-level	-obl-	-obl-	<suffix> for multiplicity, -oble, -fold	grupo	alternativoj	prononco
-level	-on-	-on-	<suffix> ~th, fraction	grupo	alternativoj	prononco
+level	-obl-	-obl-	(suffix)  for multiplicity, -oble, -fold	grupo	alternativoj	prononco
+level	-on-	-on-	(suffix)  ~th, fraction	grupo	alternativoj	prononco
 level	ama	ama	of love	grupo	alternativoj	prononco
 level	anstataŭ ~	anstataŭ ~	instead of ~	grupo	alternativoj	prononco
-level	-iĝ-	-iĝ-	<suffix> become	grupo	alternativoj	prononco
+level	-iĝ-	-iĝ-	(suffix)  become	grupo	alternativoj	prononco
 level	voli	voli	to want, to will, to be willing to	grupo	alternativoj	prononco
-level	-ig-	-ig-	<suffix> cause to become	grupo	alternativoj	prononco
+level	-ig-	-ig-	(suffix)  cause to become	grupo	alternativoj	prononco
 level	sekvi	sekvi	to follow	grupo	alternativoj	prononco
 level	ĝoje	ĝoje	gladly	grupo	alternativoj	prononco
 level	legi	legi	to read	grupo	alternativoj	prononco
 level	silenta	silenta	silent	grupo	alternativoj	prononco
 level	la	la	the	grupo	alternativoj	prononco
 level	ha!	ha!	ha!	grupo	alternativoj	prononco
-level	-il-	-il-	<suffix> tool, method	grupo	alternativoj	prononco
+level	-il-	-il-	(suffix)  tool, method	grupo	alternativoj	prononco
 level	trinki	trinki	to drink (non-alkohol)	grupo	alternativoj	prononco
-level	-et-	-et-	<suffix> small, little	grupo	alternativoj	prononco
-level	-eg-	-eg-	<suffix> big, large	grupo	alternativoj	prononco
-level	inter ~	inter ~	<preposition> between ~	grupo	alternativoj	prononco
-level	-um-	-um-	<suffix> related behavior	grupo	alternativoj	prononco
-level	-ar-	-ar-	<suffix> set, group	grupo	alternativoj	prononco
-level	-an-	-an-	<suffix> member of a group	grupo	alternativoj	prononco
+level	-et-	-et-	(suffix)  small, little	grupo	alternativoj	prononco
+level	-eg-	-eg-	(suffix)  big, large	grupo	alternativoj	prononco
+level	inter ~	inter ~	(preposition)  between ~	grupo	alternativoj	prononco
+level	-um-	-um-	(suffix)  related behavior	grupo	alternativoj	prononco
+level	-ar-	-ar-	(suffix)  set, group	grupo	alternativoj	prononco
+level	-an-	-an-	(suffix)  member of a group	grupo	alternativoj	prononco
 level	danki	danki	to thank	grupo	alternativoj	prononco
-level	-ind-	-ind-	<suffix> worthwhile, worthy	grupo	alternativoj	prononco
+level	-ind-	-ind-	(suffix)  worthwhile, worthy	grupo	alternativoj	prononco
 level	plu	plu	even more, further, and so on, more	grupo	alternativoj	prononco
 level	kiel	kiel	how, like, in what way, such as	grupo	alternativoj	prononco
 level	tiel	tiel	such, in that way, thus	grupo	alternativoj	prononco
-level	en ~	en ~	<preposition> in ~	grupo	alternativoj	prononco
-level	apud ~	apud ~	<preposition> next to ~, beside ~	grupo	alternativoj	prononco
-level	sub ~	sub ~	<preposition> under, beneath ~	grupo	alternativoj	prononco
-level	sur ~	sur ~	<preposition> on ~	grupo	alternativoj	prononco
-level	je ~	je ~	<preposition> indefinate prep., at, in, by, on	grupo	alternativoj	prononco
-level	ankoraŭ	ankoraŭ	<adverb> still, yet	grupo	alternativoj	prononco
-level	ĉirkaŭ ~	ĉirkaŭ ~	<preposition> around ~	grupo	alternativoj	prononco
+level	en ~	en ~	(preposition)  in ~	grupo	alternativoj	prononco
+level	apud ~	apud ~	(preposition)  next to ~, beside ~	grupo	alternativoj	prononco
+level	sub ~	sub ~	(preposition)  under, beneath ~	grupo	alternativoj	prononco
+level	sur ~	sur ~	(preposition)  on ~	grupo	alternativoj	prononco
+level	je ~	je ~	(preposition)  indefinate prep., at, in, by, on	grupo	alternativoj	prononco
+level	ankoraŭ	ankoraŭ	(adverb)  still, yet	grupo	alternativoj	prononco
+level	ĉirkaŭ ~	ĉirkaŭ ~	(preposition)  around ~	grupo	alternativoj	prononco
 level	sed	sed	but	grupo	alternativoj	prononco
 level	ie	ie	somewhere	grupo	alternativoj	prononco
 level	kie	kie	where, at what place	grupo	alternativoj	prononco
@@ -196,25 +196,25 @@ level	tie	tie	there, over there, yonder	grupo	alternativoj	prononco
 level	ĉi	ĉi	this ~	grupo	alternativoj	prononco
 level	kanti	kanti	to sing	grupo	alternativoj	prononco
 level	morti	morti	to die, to pass away	grupo	alternativoj	prononco
-level	dum ~	dum ~	<preposition> during ~, while ~	grupo	alternativoj	prononco
+level	dum ~	dum ~	(preposition)  during ~, while ~	grupo	alternativoj	prononco
 level	nacio	nacio	a nation	grupo	alternativoj	prononco
 level	koni	koni	to know (a person), to be aquainted with	grupo	alternativoj	prononco
 level	scii	scii	to know (a fact, knowledge), to know how	grupo	alternativoj	prononco
 level	ĉiam	ĉiam	always, ever	grupo	alternativoj	prononco
 level	iam	iam	at some time, once	grupo	alternativoj	prononco
 level	tiam	tiam	then	grupo	alternativoj	prononco
-level	-em-	-em-	<suffix> tendancy	grupo	alternativoj	prononco
+level	-em-	-em-	(suffix)  tendancy	grupo	alternativoj	prononco
 level	ia	ia	some kind of	grupo	alternativoj	prononco
 level	sukcesi	sukcesi	to succeed	grupo	alternativoj	prononco
 level	ĉia	ĉia	of all kind, every kind of	grupo	alternativoj	prononco
 level	nenia	nenia	no, not any kind of, not any	grupo	alternativoj	prononco
-level	-id-	-id-	<suffix> offspring	grupo	alternativoj	prononco
+level	-id-	-id-	(suffix)  offspring	grupo	alternativoj	prononco
 level	ĉambro	ĉambro	a room, a chamber	grupo	alternativoj	prononco
 level	patro	patro	a father	grupo	alternativoj	prononco
 level	porko	porko	a pig, swine	grupo	alternativoj	prononco
-level	bo-	bo-	<prefix> -in-law, by marriage	grupo	alternativoj	prononco
+level	bo-	bo-	(prefix)  -in-law, by marriage	grupo	alternativoj	prononco
 level	ja	ja	indeed	grupo	alternativoj	prononco
-level	-ism-	-ism-	<suffix> -ism	grupo	alternativoj	prononco
+level	-ism-	-ism-	(suffix)  -ism	grupo	alternativoj	prononco
 level	io	io	something	grupo	alternativoj	prononco
 level	veturi	veturi	to drive (a vehicle)	grupo	alternativoj	prononco
 level	koko	koko	a cock, a hen, chicken, fowl	grupo	alternativoj	prononco
@@ -625,7 +625,7 @@ level	merkredo	merkredo	Wednesday	grupo	alternativoj	prononco
 level	vendredo	vendredo	Friday	grupo	alternativoj	prononco
 level	fiŝkaptado	fiŝkaptado	fish-catching, catching fishes	grupo	alternativoj	prononco
 level	ilustri	ilustri	to illustrate	grupo	alternativoj	prononco
-level	des	des	<adverb> so much (more, less)	grupo	alternativoj	prononco
+level	des	des	(adverb)  so much (more, less)	grupo	alternativoj	prononco
 level	sabato	sabato	Saturday	grupo	alternativoj	prononco
 level	ĵaŭdo	ĵaŭdo	Thursday	grupo	alternativoj	prononco
 level	mardo	mardo	Tuesday	grupo	alternativoj	prononco
@@ -678,7 +678,7 @@ level	ŝtupo	ŝtupo	a step, a stair, a rung	grupo	alternativoj	prononco
 level	bordo	bordo	a shore, a waterfront, a bank	grupo	alternativoj	prononco
 level	justa	justa	fair, just, righteous	grupo	alternativoj	prononco
 level	lumo	lumo	a light	grupo	alternativoj	prononco
-level	malgraŭ ~	malgraŭ ~	<preposition> despite ~, in spite of ~	grupo	alternativoj	prononco
+level	malgraŭ ~	malgraŭ ~	(preposition)  despite ~, in spite of ~	grupo	alternativoj	prononco
 level	drinkado	drinkado	drinking action	grupo	alternativoj	prononco
 level	aŭtomobilo	aŭtomobilo	a car, an automobile, a motor car (=aŭto)	grupo	alternativoj	prononco
 level	bonvoli	bonvoli	to will (from heart), to want (from heart)	grupo	alternativoj	prononco
@@ -729,7 +729,7 @@ level	nordo	nordo	north	grupo	alternativoj	prononco
 level	kolekto	kolekto	collection	grupo	alternativoj	prononco
 level	supro	supro	a top, a summit	grupo	alternativoj	prononco
 level	oriento	oriento	east	grupo	alternativoj	prononco
-level	ju	ju	<adverb> the (more, less)	grupo	alternativoj	prononco
+level	ju	ju	(adverb)  the (more, less)	grupo	alternativoj	prononco
 level	sudo	sudo	south	grupo	alternativoj	prononco
 level	okcidento	okcidento	west	grupo	alternativoj	prononco
 level	juĝi	juĝi	to judge	grupo	alternativoj	prononco
@@ -784,9 +784,9 @@ level	malalta	malalta	low	grupo	alternativoj	prononco
 level	viando	viando	meat, a meat	grupo	alternativoj	prononco
 level	respekti	respekti	to respect	grupo	alternativoj	prononco
 level	forno	forno	a furnace, a stove, an oven	grupo	alternativoj	prononco
-level	-er-	-er-	<suffix> element, small particle of whole	grupo	alternativoj	prononco
+level	-er-	-er-	(suffix)  element, small particle of whole	grupo	alternativoj	prononco
 level	malkovri	malkovri	to discover, to uncover, to unveil	grupo	alternativoj	prononco
-level	-aĉ-	-aĉ-	<suffix> bad, disgusting	grupo	alternativoj	prononco
+level	-aĉ-	-aĉ-	(suffix)  bad, disgusting	grupo	alternativoj	prononco
 level	branĉo	branĉo	a branch, a bough	grupo	alternativoj	prononco
 level	malhela	malhela	dark, dismal, bleak	grupo	alternativoj	prononco
 level	mensogi	mensogi	to lie, to tell a lie	grupo	alternativoj	prononco
@@ -1078,7 +1078,7 @@ level	imagi	imagi	to imagine	grupo	alternativoj	prononco
 level	fidela	fidela	faithful, trustworthy	grupo	alternativoj	prononco
 level	partopreni	partopreni	to participate, to take part	grupo	alternativoj	prononco
 level	kastelo	kastelo	a castle, a citadel	grupo	alternativoj	prononco
-level	-op-	-op-	<suffix> a group in numbers	grupo	alternativoj	prononco
+level	-op-	-op-	(suffix)  a group in numbers	grupo	alternativoj	prononco
 level	ĉeesti	ĉeesti	to attend, to be present at	grupo	alternativoj	prononco
 level	televido	televido	TV, television	grupo	alternativoj	prononco
 level	studento	studento	a student (university)	grupo	alternativoj	prononco
@@ -1330,7 +1330,7 @@ level	lastjare	lastjare	last year	grupo	alternativoj	prononco
 level	vojmontrilo	vojmontrilo	a landmark, a signpost	grupo	alternativoj	prononco
 level	kelo	kelo	a cellar, a basement	grupo	alternativoj	prononco
 level	firma	firma	firm, stable	grupo	alternativoj	prononco
-level	eks-	eks-	<prefix> ex-, former	grupo	alternativoj	prononco
+level	eks-	eks-	(prefix)  ex-, former	grupo	alternativoj	prononco
 level	kilogramo	kilogramo	a kilogram	grupo	alternativoj	prononco
 level	frago	frago	a strawberry	grupo	alternativoj	prononco
 level	pato	pato	a frying pan	grupo	alternativoj	prononco
@@ -1342,7 +1342,7 @@ level	matura	matura	mature, ripe	grupo	alternativoj	prononco
 level	kulerego	kulerego	bucket, a large spoon	grupo	alternativoj	prononco
 level	konduti	konduti	to conduct oneself, to behave	grupo	alternativoj	prononco
 level	vere	vere	really, genuinly, truly	grupo	alternativoj	prononco
-level	mis-	mis-	<prefix> mis-	grupo	alternativoj	prononco
+level	mis-	mis-	(prefix)  mis-	grupo	alternativoj	prononco
 level	kvieta	kvieta	quiet, calm	grupo	alternativoj	prononco
 level	funkcii	funkcii	to function, to operate, to work	grupo	alternativoj	prononco
 level	konvena	konvena	appropriate, suitable	grupo	alternativoj	prononco
@@ -1357,14 +1357,14 @@ level	mieno	mieno	a (facial) expression	grupo	alternativoj	prononco
 level	pensio	pensio	pension, annuity	grupo	alternativoj	prononco
 level	princo	princo	a prince	grupo	alternativoj	prononco
 level	sorto	sorto	destiny, fate, fortune	grupo	alternativoj	prononco
-level	-end-	-end-	<suffix> obligation	grupo	alternativoj	prononco
+level	-end-	-end-	(suffix)  obligation	grupo	alternativoj	prononco
 level	longaj ŝtrumpoj	longaj ŝtrumpoj	long stockings	grupo	alternativoj	prononco
 level	barbo	barbo	beard	grupo	alternativoj	prononco
-level	-ing-	-ing-	<suffix> long holder, socket	grupo	alternativoj	prononco
+level	-ing-	-ing-	(suffix)  long holder, socket	grupo	alternativoj	prononco
 level	bongusta	bongusta	delicious, good-tasted	grupo	alternativoj	prononco
 level	flegi	flegi	to take care of, to nurse	grupo	alternativoj	prononco
-level	-njo	-njo	<suffix> female pet name	grupo	alternativoj	prononco
-level	-ĉjo	-ĉjo	<suffix> male pet name	grupo	alternativoj	prononco
+level	-njo	-njo	(suffix)  female pet name	grupo	alternativoj	prononco
+level	-ĉjo	-ĉjo	(suffix)  male pet name	grupo	alternativoj	prononco
 level	plugi	plugi	to plow, to plough, to till	grupo	alternativoj	prononco
 level	amletero	amletero	a loveletter	grupo	alternativoj	prononco
 level	glaso da	glaso da	a glass of	grupo	alternativoj	prononco
@@ -1634,7 +1634,7 @@ level	kvanto	kvanto	quantity, amount	grupo	alternativoj	prononco
 level	batilo	batilo	a bat (to hit)	grupo	alternativoj	prononco
 level	kvalito	kvalito	quality, property	grupo	alternativoj	prononco
 level	laŭte	laŭte	loudly, aloud	grupo	alternativoj	prononco
-level	-ut-	-ut-	<suffix> conditional passive	grupo	alternativoj	prononco
+level	-ut-	-ut-	(suffix)  conditional passive	grupo	alternativoj	prononco
 level	kristnasko	kristnasko	Christmas	grupo	alternativoj	prononco
 level	vivo	vivo	a life	grupo	alternativoj	prononco
 level	freneza	freneza	crazy, insane, mad	grupo	alternativoj	prononco
@@ -2393,7 +2393,7 @@ level	heredi	heredi	to inherit	grupo	alternativoj	prononco
 level	flugbileto	flugbileto	an air ticket	grupo	alternativoj	prononco
 level	robo	robo	a dress	grupo	alternativoj	prononco
 level	egipto	egipto	an Egyptian person	grupo	alternativoj	prononco
-level	-unt	-unt	<suffix> conditional active	grupo	alternativoj	prononco
+level	-unt	-unt	(suffix)  conditional active	grupo	alternativoj	prononco
 level	frenezulo	frenezulo	a fanatic, a lunatic, a maniac	grupo	alternativoj	prononco
 level	ekde	ekde	since	grupo	alternativoj	prononco
 level	observi	observi	to observe	grupo	alternativoj	prononco
@@ -2552,7 +2552,7 @@ level	irako	irako	Iraq	grupo	alternativoj	prononco
 level	resumo	resumo	a summary, a digest, a résumé, a sum-up	grupo	alternativoj	prononco
 level	promeno	promeno	a promenade, a walking	grupo	alternativoj	prononco
 level	horizontalo	horizontalo	a horizontal line	grupo	alternativoj	prononco
-level	fi-	fi-	<prefix> shameful, disgusting, dirty	grupo	alternativoj	prononco
+level	fi-	fi-	(prefix)  shameful, disgusting, dirty	grupo	alternativoj	prononco
 level	aŭkcio	aŭkcio	an auction	grupo	alternativoj	prononco
 level	konkludi	konkludi	to conclude	grupo	alternativoj	prononco
 level	salivo	salivo	saliva, slaver	grupo	alternativoj	prononco
@@ -5884,7 +5884,7 @@ level	Antono	Antono	Anthony	grupo	alternativoj	prononco
 level	Anno	Anno	Anna	grupo	alternativoj	prononco
 level	Berto	Berto	Bert	grupo	alternativoj	prononco
 level	apelacio	apelacio	an appeal, an accuser	grupo	alternativoj	prononco
-level	antimono	antimono	<chem> antimony	grupo	alternativoj	prononco
+level	antimono	antimono	(chem)  antimony	grupo	alternativoj	prononco
 level	apokrifo	apokrifo	apocrypha	grupo	alternativoj	prononco
 level	apoteozo	apoteozo	apotheosis	grupo	alternativoj	prononco
 level	ardezo	ardezo	slate	grupo	alternativoj	prononco
@@ -5904,7 +5904,7 @@ level	ĉano	ĉano	a cock (of a gun), a hammer (of a gun)	grupo	alternativoj	pron
 level	afekcii	afekcii	to affect	grupo	alternativoj	prononco
 level	hardi	hardi	to toughen	grupo	alternativoj	prononco
 level	areno	areno	an arena	grupo	alternativoj	prononco
-level	arseniko	arseniko	<chem> arsenic	grupo	alternativoj	prononco
+level	arseniko	arseniko	(chem)  arsenic	grupo	alternativoj	prononco
 level	borakso	borakso	borax	grupo	alternativoj	prononco
 level	aspiro	aspiro	aspiration	grupo	alternativoj	prononco
 level	atribuo	atribuo	attribution, allocation	grupo	alternativoj	prononco

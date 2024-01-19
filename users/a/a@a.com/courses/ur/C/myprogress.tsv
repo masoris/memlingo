@@ -13,23 +13,23 @@ level	mem	خود سے	by oneself	grupo	0    	0000-00-00 00:00:00
 level	ĝis ~	~ تک، ~ تک	upto ~, until ~	grupo	0    	0000-00-00 00:00:00
 level	de ~	کا ~	of ~	grupo	0    	0000-00-00 00:00:00
 level	da ~	(بہت) کا ~، (بہت) کا ~	(much) of ~, (many) of ~	grupo	0    	0000-00-00 00:00:00
-level	-aĵo	<suffix>چیز، ٹھوس مظہر	<suffix> thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
+level	-aĵo	(suffix) چیز، ٹھوس مظہر	(suffix)  thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
 level	proksima	قریب، قریب، جلد، قریب	near, close to, soon, nearby	grupo	0    	0000-00-00 00:00:00
-level	-adi	<suffix>بار بار کارروائی، دیرپا کارروائی	<suffix> repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
-level	-as	<suffix>زمانہ حال	<suffix> present tense	grupo	0    	0000-00-00 00:00:00
-level	-is	<suffix>فعل ماضی	<suffix> past tense	grupo	0    	0000-00-00 00:00:00
+level	-adi	(suffix) بار بار کارروائی، دیرپا کارروائی	(suffix)  repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
+level	-as	(suffix) زمانہ حال	(suffix)  present tense	grupo	0    	0000-00-00 00:00:00
+level	-is	(suffix) فعل ماضی	(suffix)  past tense	grupo	0    	0000-00-00 00:00:00
 level	esti	بننا	to be	grupo	0    	0000-00-00 00:00:00
-level	-os	<suffix>فعل مستقبل	<suffix> future tense	grupo	0    	0000-00-00 00:00:00
-level	antaŭ ~	<preposition>~ سے پہلے، ~ کے سامنے	<preposition> before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
+level	-os	(suffix) فعل مستقبل	(suffix)  future tense	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ~	(preposition) ~ سے پہلے، ~ کے سامنے	(preposition)  before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
 level	fari	بنانا، کرنا	to make, to do	grupo	0    	0000-00-00 00:00:00
-level	ankaŭ ~	<preposition>بھی، بھی	<preposition> also, too	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ~	(preposition) بھی، بھی	(preposition)  also, too	grupo	0    	0000-00-00 00:00:00
 level	post ~	کے بعد ~	after ~	grupo	0    	0000-00-00 00:00:00
-level	mal-	<prefix>برعکس	<prefix> opposite	grupo	0    	0000-00-00 00:00:00
-level	-ul-	<suffix>کسی خاصیت کا آدمی	<suffix> a person of some trait	grupo	0    	0000-00-00 00:00:00
-level	-in-	<suffix>عورت	<suffix> female	grupo	0    	0000-00-00 00:00:00
-level	-ant-	<suffix>فعال موجود، ~ing ہے، کوئی ہے جو ~ing کر رہا ہے۔	<suffix> active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
-level	-int-	<suffix>فعال ماضی، ~ing تھا	<suffix> active past, was ~ing	grupo	0    	0000-00-00 00:00:00
-level	-ont-	<suffix>فعال مستقبل، ~ing ہو جائے گا	<suffix> active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
+level	mal-	(prefix) برعکس	(prefix)  opposite	grupo	0    	0000-00-00 00:00:00
+level	-ul-	(suffix) کسی خاصیت کا آدمی	(suffix)  a person of some trait	grupo	0    	0000-00-00 00:00:00
+level	-in-	(suffix) عورت	(suffix)  female	grupo	0    	0000-00-00 00:00:00
+level	-ant-	(suffix) فعال موجود، ~ing ہے، کوئی ہے جو ~ing کر رہا ہے۔	(suffix)  active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
+level	-int-	(suffix) فعال ماضی، ~ing تھا	(suffix)  active past, was ~ing	grupo	0    	0000-00-00 00:00:00
+level	-ont-	(suffix) فعال مستقبل، ~ing ہو جائے گا	(suffix)  active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
 level	kaj (k.)	اور	and	grupo	0    	0000-00-00 00:00:00
 level	aŭ	یا	or	grupo	0    	0000-00-00 00:00:00
 level	alta	اونچا، لمبا	high, tall	grupo	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ level	kiom	کتنا ھے؟ کتنے ھیں	how much, how many	grupo	0    	0000-0
 level	ofte	اکثر، اکثر	often, frequently	grupo	0    	0000-00-00 00:00:00
 level	iom	تھوڑا، بلکہ، کچھ، کسی حد تک	a little, rather, some, somewhat	grupo	0    	0000-00-00 00:00:00
 level	nova	نیا، ناول	new, novel	grupo	0    	0000-00-00 00:00:00
-level	-at-	<suffix>غیر فعال موجودہ شریک	<suffix> passive present participle	grupo	0    	0000-00-00 00:00:00
-level	-it-	<suffix>غیر فعال ماضی شریک	<suffix> passive past participle	grupo	0    	0000-00-00 00:00:00
-level	-ot-	<suffix>غیر فعال مستقبل میں حصہ لینے والا	<suffix> passive future participle	grupo	0    	0000-00-00 00:00:00
+level	-at-	(suffix) غیر فعال موجودہ شریک	(suffix)  passive present participle	grupo	0    	0000-00-00 00:00:00
+level	-it-	(suffix) غیر فعال ماضی شریک	(suffix)  passive past participle	grupo	0    	0000-00-00 00:00:00
+level	-ot-	(suffix) غیر فعال مستقبل میں حصہ لینے والا	(suffix)  passive future participle	grupo	0    	0000-00-00 00:00:00
 level	tre	بہت، بہت، بہت	very, quite, very much	grupo	0    	0000-00-00 00:00:00
 level	tro	بھی، ضرورت سے زیادہ، بہت زیادہ	too, excessively, too much	grupo	0    	0000-00-00 00:00:00
 level	tamen	تاہم، اس کے باوجود، لیکن، اس کے باوجود	however, nonetheless, but, nevertheless	grupo	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ level	ho!	اوہ! ہو!	Oh! Ho!	grupo	0    	0000-00-00 00:00:00
 level	ke ~	وہ ~	that ~	grupo	0    	0000-00-00 00:00:00
 level	ĉar ~	کیونکہ ~	because ~	grupo	0    	0000-00-00 00:00:00
 level	ĉu	چاہے ~	whether ~	grupo	0    	0000-00-00 00:00:00
-level	-ej-	<suffix>جگہ	<suffix> place	grupo	0    	0000-00-00 00:00:00
-level	-ec-	<suffix>معیار کا خلاصہ نام	<suffix> abstract name of quality	grupo	0    	0000-00-00 00:00:00
+level	-ej-	(suffix) جگہ	(suffix)  place	grupo	0    	0000-00-00 00:00:00
+level	-ec-	(suffix) معیار کا خلاصہ نام	(suffix)  abstract name of quality	grupo	0    	0000-00-00 00:00:00
 level	ambaŭ ~	دونوں ~	both ~	grupo	0    	0000-00-00 00:00:00
 level	tuj	فوراً، فوراً، فوراً	immediately, instantly, right away	grupo	0    	0000-00-00 00:00:00
 level	kvazaŭ ~	گویا ~	as if ~	grupo	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ level	neniam	کبھی نہیں، کبھی نہیں، کبھی نہیں۔	never, 
 level	tial	لہذا، تو	therefore, so	grupo	0    	0000-00-00 00:00:00
 level	kial	کیوں، کس لیے	why, what for	grupo	0    	0000-00-00 00:00:00
 level	kvankam	اگرچہ ~، جبکہ، اگرچہ	although ~, while, though	grupo	0    	0000-00-00 00:00:00
-level	ĉe ~	<preposition>~ پر	<preposition> at ~	grupo	0    	0000-00-00 00:00:00
+level	ĉe ~	(preposition) ~ پر	(preposition)  at ~	grupo	0    	0000-00-00 00:00:00
 level	pli	مزید	more	grupo	0    	0000-00-00 00:00:00
 level	plej	زیادہ تر	most	grupo	0    	0000-00-00 00:00:00
 level	diri	کہنا، بتانا	to say, to tell	grupo	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ level	tia	ایسا، اس قسم کا، اس طرح کا	such, that kind of, suc
 level	apenaŭ	بمشکل، مشکل سے، خوفناک	barely, hardly, scarecely	grupo	0    	0000-00-00 00:00:00
 level	sendi	بھیجنا	to send	grupo	0    	0000-00-00 00:00:00
 level	ĵus	ابھی (ایک لمحہ پہلے)، ابھی	just (a moment ago), just now	grupo	0    	0000-00-00 00:00:00
-level	-u	<suffix>ضروری	<suffix> imperative	grupo	0    	0000-00-00 00:00:00
+level	-u	(suffix) ضروری	(suffix)  imperative	grupo	0    	0000-00-00 00:00:00
 level	ekster ~	باہر ~	outside ~	grupo	0    	0000-00-00 00:00:00
-level	ge-	<prefix>دونوں جنس، دونوں جنس	<prefix> both sex, both gender	grupo	0    	0000-00-00 00:00:00
-level	-us	<suffix>مرضی، چاہیے، ضمنی	<suffix> would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
+level	ge-	(prefix) دونوں جنس، دونوں جنس	(prefix)  both sex, both gender	grupo	0    	0000-00-00 00:00:00
+level	-us	(suffix) مرضی، چاہیے، ضمنی	(suffix)  would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
 level	baldaŭ	اسی طرح	soon	grupo	0    	0000-00-00 00:00:00
 level	almenaŭ	کم از کم، اگر کچھ نہیں	at least, if nothing else	grupo	0    	0000-00-00 00:00:00
 level	dis-	dis-	dis-	grupo	0    	0000-00-00 00:00:00
-level	-uj-	<suffix>کنٹینر ملک	<suffix> container; country	grupo	0    	0000-00-00 00:00:00
+level	-uj-	(suffix) کنٹینر ملک	(suffix)  container; country	grupo	0    	0000-00-00 00:00:00
 level	lerni	سیکھنے کے لیے	to learn	grupo	0    	0000-00-00 00:00:00
-level	ek-	<prefix>آغاز اچانک شروع	<prefix> beginning; sudden start	grupo	0    	0000-00-00 00:00:00
+level	ek-	(prefix) آغاز اچانک شروع	(prefix)  beginning; sudden start	grupo	0    	0000-00-00 00:00:00
 level	se	اگر، بشرطیکہ	if, provided that	grupo	0    	0000-00-00 00:00:00
 level	eĉ	یہاں تک کہ	even	grupo	0    	0000-00-00 00:00:00
 level	amo	ایک محبت	a love	grupo	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ level	fini	ختم کرنا، ختم کرنا، ختم کرنا	to end, to finish
 level	do	تو، پھر، اس لیے	so, then, therefore	grupo	0    	0000-00-00 00:00:00
 level	ajn	~ کبھی، (کیا) کبھی، بالکل، - ہمیشہ	~ever, (what)ever, at all, -soever	grupo	0    	0000-00-00 00:00:00
 level	facila	آسان، آسان	easy, facile	grupo	0    	0000-00-00 00:00:00
-level	re-	<prefix>دوبارہ	<prefix> re-	grupo	0    	0000-00-00 00:00:00
+level	re-	(prefix) دوبارہ	(prefix)  re-	grupo	0    	0000-00-00 00:00:00
 level	granda	بڑا، بڑا، بڑا	big, great, large	grupo	0    	0000-00-00 00:00:00
-level	-ist-	<suffix>پیشہ ورانہ	<suffix> professional	grupo	0    	0000-00-00 00:00:00
-level	pro ~	<preposition>~ کی وجہ سے، ~ کی وجہ سے	<preposition> because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
-level	-estr-	<suffix>لیڈر، باس، سربراہ، سربراہ	<suffix> leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
+level	-ist-	(suffix) پیشہ ورانہ	(suffix)  professional	grupo	0    	0000-00-00 00:00:00
+level	pro ~	(preposition) ~ کی وجہ سے، ~ کی وجہ سے	(preposition)  because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
+level	-estr-	(suffix) لیڈر، باس، سربراہ، سربراہ	(suffix)  leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
 level	kio	کیا	what	grupo	0    	0000-00-00 00:00:00
 level	manĝi	کھانے کو	to eat	grupo	0    	0000-00-00 00:00:00
 level	nenio	کچھ نہیں، کچھ نہیں، کچھ بھی نہیں۔	nothing, none, not any thing	grupo	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ level	ĉio	سب کچھ	everything	grupo	0    	0000-00-00 00:00:00
 level	riĉa	امیر، امیر، اچھی طرح سے	rich, wealthy, well-off	grupo	0    	0000-00-00 00:00:00
 level	tio	وہ چیز، وہ	that thing, that	grupo	0    	0000-00-00 00:00:00
 level	konstrui	تعمیر کرنا، تعمیر کرنا	to build, to construct	grupo	0    	0000-00-00 00:00:00
-level	ĉef-	<prefix>سربراہ، سرکردہ، اہم	<prefix> chief, leading, main	grupo	0    	0000-00-00 00:00:00
-level	sen ~	<preposition>بغیر ~	<preposition> without ~	grupo	0    	0000-00-00 00:00:00
-level	kun ~	<preposition>کے ساتھ ~ (ایک ساتھ)	<preposition> with ~ (together)	grupo	0    	0000-00-00 00:00:00
-level	krom ~	<preposition>سوائے ~، اس کے علاوہ ~	<preposition> except ~, besides ~	grupo	0    	0000-00-00 00:00:00
+level	ĉef-	(prefix) سربراہ، سرکردہ، اہم	(prefix)  chief, leading, main	grupo	0    	0000-00-00 00:00:00
+level	sen ~	(preposition) بغیر ~	(preposition)  without ~	grupo	0    	0000-00-00 00:00:00
+level	kun ~	(preposition) کے ساتھ ~ (ایک ساتھ)	(preposition)  with ~ (together)	grupo	0    	0000-00-00 00:00:00
+level	krom ~	(preposition) سوائے ~، اس کے علاوہ ~	(preposition)  except ~, besides ~	grupo	0    	0000-00-00 00:00:00
 level	amiko	ایک دوست	a friend	grupo	0    	0000-00-00 00:00:00
 level	kies	کس کا، کون سا، جس کا	whose, which one's, of which	grupo	0    	0000-00-00 00:00:00
-level	per ~	<preposition>بذریعہ ~ (ایک طریقہ)، ~ (ایک ٹول) کے ساتھ	<preposition> by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
+level	per ~	(preposition) بذریعہ ~ (ایک طریقہ)، ~ (ایک ٹول) کے ساتھ	(preposition)  by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
 level	kontraŭ ~	کے خلاف ~	against ~	grupo	0    	0000-00-00 00:00:00
 level	el ~	~ سے باہر، ~ سے	out of ~, from ~	grupo	0    	0000-00-00 00:00:00
 level	hodiaŭ	آج	today	grupo	0    	0000-00-00 00:00:00
 level	hieraŭ	کل	yesterday	grupo	0    	0000-00-00 00:00:00
 level	nur	صرف، صرف، خصوصی طور پر	only, just, exclusively	grupo	0    	0000-00-00 00:00:00
 level	helpi	مدد کرنا، مدد کرنا، مدد کرنا	to help, to aid, to assist	grupo	0    	0000-00-00 00:00:00
-level	for	<adverb>بہت دور	<adverb> far, away	grupo	0    	0000-00-00 00:00:00
+level	for	(adverb) بہت دور	(adverb)  far, away	grupo	0    	0000-00-00 00:00:00
 level	nek	نہ ہی، نہ ہی	nor, neither	grupo	0    	0000-00-00 00:00:00
 level	malamo	ایک نفرت	a hate	grupo	0    	0000-00-00 00:00:00
 level	preskaŭ	تقریبا، تقریبا	almost, nearly	grupo	0    	0000-00-00 00:00:00
@@ -137,7 +137,7 @@ level	tiu	وہ شخص، وہ ~، وہ ایک، ادھر	that person, that ~, tha
 level	iu	کوئی، کوئی، کوئی	someone, somebody, some	grupo	0    	0000-00-00 00:00:00
 level	neniu	کوئی نہیں، کوئی نہیں، نہ ہی	nobody, no one, neither	grupo	0    	0000-00-00 00:00:00
 level	al ~	کو ~	to ~	grupo	0    	0000-00-00 00:00:00
-level	-ebl-	<suffix>~ قابل	<suffix> ~able	grupo	0    	0000-00-00 00:00:00
+level	-ebl-	(suffix) ~ قابل	(suffix)  ~able	grupo	0    	0000-00-00 00:00:00
 level	esperi	امید کرنا	to hope	grupo	0    	0000-00-00 00:00:00
 level	unu	ایک	one	grupo	0    	0000-00-00 00:00:00
 level	du	دو	two	grupo	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ level	naŭ	نو	nine	grupo	0    	0000-00-00 00:00:00
 level	dek	دس	ten	grupo	0    	0000-00-00 00:00:00
 level	cent	ایک سو	a hundred	grupo	0    	0000-00-00 00:00:00
 level	mil	ایک ہزار	a thousand	grupo	0    	0000-00-00 00:00:00
-level	-obl-	<suffix>کثرت کے لیے، -اوبل، -گنا	<suffix> for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
-level	-on-	<suffix>~واں، کسر	<suffix> ~th, fraction	grupo	0    	0000-00-00 00:00:00
+level	-obl-	(suffix) کثرت کے لیے، -اوبل، -گنا	(suffix)  for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
+level	-on-	(suffix) ~واں، کسر	(suffix)  ~th, fraction	grupo	0    	0000-00-00 00:00:00
 level	ama	محبت کا	of love	grupo	0    	0000-00-00 00:00:00
 level	anstataŭ ~	~ کے بجائے	instead of ~	grupo	0    	0000-00-00 00:00:00
-level	-iĝ-	<suffix>بن	<suffix> become	grupo	0    	0000-00-00 00:00:00
+level	-iĝ-	(suffix) بن	(suffix)  become	grupo	0    	0000-00-00 00:00:00
 level	voli	چاہنا، مرضی کرنا، آمادہ ہونا	to want, to will, to be willing to	grupo	0    	0000-00-00 00:00:00
-level	-ig-	<suffix>بننے کا سبب	<suffix> cause to become	grupo	0    	0000-00-00 00:00:00
+level	-ig-	(suffix) بننے کا سبب	(suffix)  cause to become	grupo	0    	0000-00-00 00:00:00
 level	sekvi	پیروی کرنا	to follow	grupo	0    	0000-00-00 00:00:00
 level	ĝoje	خوشی سے	gladly	grupo	0    	0000-00-00 00:00:00
 level	legi	پڑھنے کے لئے	to read	grupo	0    	0000-00-00 00:00:00
 level	silenta	خاموش	silent	grupo	0    	0000-00-00 00:00:00
 level	la	دی	the	grupo	0    	0000-00-00 00:00:00
 level	ha!	ہا!	ha!	grupo	0    	0000-00-00 00:00:00
-level	-il-	<suffix>آلہ، طریقہ	<suffix> tool, method	grupo	0    	0000-00-00 00:00:00
+level	-il-	(suffix) آلہ، طریقہ	(suffix)  tool, method	grupo	0    	0000-00-00 00:00:00
 level	trinki	پینا (غیر الکوحل)	to drink (non-alkohol)	grupo	0    	0000-00-00 00:00:00
-level	-et-	<suffix>چھوٹا، چھوٹا	<suffix> small, little	grupo	0    	0000-00-00 00:00:00
-level	-eg-	<suffix>بڑا، بڑا	<suffix> big, large	grupo	0    	0000-00-00 00:00:00
-level	inter ~	<preposition>کے درمیان ~	<preposition> between ~	grupo	0    	0000-00-00 00:00:00
-level	-um-	<suffix>متعلقہ رویہ	<suffix> related behavior	grupo	0    	0000-00-00 00:00:00
-level	-ar-	<suffix>سیٹ، گروپ	<suffix> set, group	grupo	0    	0000-00-00 00:00:00
-level	-an-	<suffix>ایک گروپ کے رکن	<suffix> member of a group	grupo	0    	0000-00-00 00:00:00
+level	-et-	(suffix) چھوٹا، چھوٹا	(suffix)  small, little	grupo	0    	0000-00-00 00:00:00
+level	-eg-	(suffix) بڑا، بڑا	(suffix)  big, large	grupo	0    	0000-00-00 00:00:00
+level	inter ~	(preposition) کے درمیان ~	(preposition)  between ~	grupo	0    	0000-00-00 00:00:00
+level	-um-	(suffix) متعلقہ رویہ	(suffix)  related behavior	grupo	0    	0000-00-00 00:00:00
+level	-ar-	(suffix) سیٹ، گروپ	(suffix)  set, group	grupo	0    	0000-00-00 00:00:00
+level	-an-	(suffix) ایک گروپ کے رکن	(suffix)  member of a group	grupo	0    	0000-00-00 00:00:00
 level	danki	شکریہ ادا کرنا	to thank	grupo	0    	0000-00-00 00:00:00
-level	-ind-	<suffix>قابل، قابل	<suffix> worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
+level	-ind-	(suffix) قابل، قابل	(suffix)  worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
 level	plu	اس سے بھی زیادہ، آگے، اور اسی طرح، مزید	even more, further, and so on, more	grupo	0    	0000-00-00 00:00:00
 level	kiel	کیسے، پسند، کس طرح، جیسے	how, like, in what way, such as	grupo	0    	0000-00-00 00:00:00
 level	tiel	اس طرح، اس طرح، اس طرح	such, in that way, thus	grupo	0    	0000-00-00 00:00:00
-level	en ~	<preposition>میں ~	<preposition> in ~	grupo	0    	0000-00-00 00:00:00
-level	apud ~	<preposition>~ کے ساتھ، ~ کے ساتھ	<preposition> next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
-level	sub ~	<preposition>نیچے، نیچے ~	<preposition> under, beneath ~	grupo	0    	0000-00-00 00:00:00
-level	sur ~	<preposition>پر ~	<preposition> on ~	grupo	0    	0000-00-00 00:00:00
-level	je ~	<preposition>غیر معینہ تیاری، پر، میں، کی طرف سے، پر	<preposition> indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
-level	ankoraŭ	<adverb>ابھی بھی	<adverb> still, yet	grupo	0    	0000-00-00 00:00:00
-level	ĉirkaŭ ~	<preposition>ارد گرد ~	<preposition> around ~	grupo	0    	0000-00-00 00:00:00
+level	en ~	(preposition) میں ~	(preposition)  in ~	grupo	0    	0000-00-00 00:00:00
+level	apud ~	(preposition) ~ کے ساتھ، ~ کے ساتھ	(preposition)  next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
+level	sub ~	(preposition) نیچے، نیچے ~	(preposition)  under, beneath ~	grupo	0    	0000-00-00 00:00:00
+level	sur ~	(preposition) پر ~	(preposition)  on ~	grupo	0    	0000-00-00 00:00:00
+level	je ~	(preposition) غیر معینہ تیاری، پر، میں، کی طرف سے، پر	(preposition)  indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ	(adverb) ابھی بھی	(adverb)  still, yet	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ ~	(preposition) ارد گرد ~	(preposition)  around ~	grupo	0    	0000-00-00 00:00:00
 level	sed	لیکن	but	grupo	0    	0000-00-00 00:00:00
 level	ie	کہیں	somewhere	grupo	0    	0000-00-00 00:00:00
 level	kie	کہاں، کس جگہ	where, at what place	grupo	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ level	tie	وہاں، وہاں، ادھر	there, over there, yonder	grupo	0    	0
 level	ĉi	یہ ~	this ~	grupo	0    	0000-00-00 00:00:00
 level	kanti	گانے کے لئے	to sing	grupo	0    	0000-00-00 00:00:00
 level	morti	مرنا، مر جانا	to die, to pass away	grupo	0    	0000-00-00 00:00:00
-level	dum ~	<preposition>دوران ~، جبکہ ~	<preposition> during ~, while ~	grupo	0    	0000-00-00 00:00:00
+level	dum ~	(preposition) دوران ~، جبکہ ~	(preposition)  during ~, while ~	grupo	0    	0000-00-00 00:00:00
 level	nacio	ایک قوم	a nation	grupo	0    	0000-00-00 00:00:00
 level	koni	(کسی شخص کو) جاننا، واقف ہونا	to know (a person), to be aquainted with	grupo	0    	0000-00-00 00:00:00
 level	scii	جاننا (ایک حقیقت، علم)، جاننا کہ کیسے	to know (a fact, knowledge), to know how	grupo	0    	0000-00-00 00:00:00
 level	ĉiam	ہمیشہ، ہمیشہ	always, ever	grupo	0    	0000-00-00 00:00:00
 level	iam	کسی وقت، ایک بار	at some time, once	grupo	0    	0000-00-00 00:00:00
 level	tiam	پھر	then	grupo	0    	0000-00-00 00:00:00
-level	-em-	<suffix>رجحان	<suffix> tendancy	grupo	0    	0000-00-00 00:00:00
+level	-em-	(suffix) رجحان	(suffix)  tendancy	grupo	0    	0000-00-00 00:00:00
 level	ia	کسی طرح کا	some kind of	grupo	0    	0000-00-00 00:00:00
 level	sukcesi	کامیاب ہونا	to succeed	grupo	0    	0000-00-00 00:00:00
 level	ĉia	ہر قسم کا، ہر قسم کا	of all kind, every kind of	grupo	0    	0000-00-00 00:00:00
 level	nenia	نہیں، کسی بھی قسم کا نہیں، کوئی بھی نہیں۔	no, not any kind of, not any	grupo	0    	0000-00-00 00:00:00
-level	-id-	<suffix>اولاد	<suffix> offspring	grupo	0    	0000-00-00 00:00:00
+level	-id-	(suffix) اولاد	(suffix)  offspring	grupo	0    	0000-00-00 00:00:00
 level	ĉambro	ایک کمرہ، ایک چیمبر	a room, a chamber	grupo	0    	0000-00-00 00:00:00
 level	patro	ایک باپ	a father	grupo	0    	0000-00-00 00:00:00
 level	porko	ایک سور، سور	a pig, swine	grupo	0    	0000-00-00 00:00:00
-level	bo-	<prefix>- سسرال، شادی سے	<prefix> -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
+level	bo-	(prefix) - سسرال، شادی سے	(prefix)  -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
 level	ja	بے شک	indeed	grupo	0    	0000-00-00 00:00:00
-level	-ism-	<suffix>-ism	<suffix> -ism	grupo	0    	0000-00-00 00:00:00
+level	-ism-	(suffix) -ism	(suffix)  -ism	grupo	0    	0000-00-00 00:00:00
 level	io	کچھ	something	grupo	0    	0000-00-00 00:00:00
 level	veturi	چلانا (گاڑی)	to drive (a vehicle)	grupo	0    	0000-00-00 00:00:00
 level	koko	ایک مرغا، مرغی، مرغی، پرندہ	a cock, a hen, chicken, fowl	grupo	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ level	merkredo	بدھ	Wednesday	grupo	0    	0000-00-00 00:00:00
 level	vendredo	جمعہ	Friday	grupo	0    	0000-00-00 00:00:00
 level	fiŝkaptado	مچھلی پکڑنا، مچھلیاں پکڑنا	fish-catching, catching fishes	grupo	0    	0000-00-00 00:00:00
 level	ilustri	وضاحت کرنا	to illustrate	grupo	0    	0000-00-00 00:00:00
-level	des	<adverb>بہت زیادہ (زیادہ، کم)	<adverb> so much (more, less)	grupo	0    	0000-00-00 00:00:00
+level	des	(adverb) بہت زیادہ (زیادہ، کم)	(adverb)  so much (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sabato	ہفتہ	Saturday	grupo	0    	0000-00-00 00:00:00
 level	ĵaŭdo	جمعرات	Thursday	grupo	0    	0000-00-00 00:00:00
 level	mardo	منگل	Tuesday	grupo	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ level	ŝtupo	ایک قدم، ایک سیڑھی، ایک سیڑھی۔	a step, a s
 level	bordo	ایک ساحل، ایک واٹر فرنٹ، ایک کنارے	a shore, a waterfront, a bank	grupo	0    	0000-00-00 00:00:00
 level	justa	منصفانہ، انصاف پسند	fair, just, righteous	grupo	0    	0000-00-00 00:00:00
 level	lumo	ایک روشنی	a light	grupo	0    	0000-00-00 00:00:00
-level	malgraŭ ~	<preposition>~ کے باوجود، ~ کے باوجود	<preposition> despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
+level	malgraŭ ~	(preposition) ~ کے باوجود، ~ کے باوجود	(preposition)  despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
 level	drinkado	پینے کی کارروائی	drinking action	grupo	0    	0000-00-00 00:00:00
 level	aŭtomobilo	ایک کار، ایک آٹوموبائل، ایک موٹر کار (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	0    	0000-00-00 00:00:00
 level	bonvoli	مرضی (دل سے)، چاہنا (دل سے)	to will (from heart), to want (from heart)	grupo	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ level	nordo	شمال	north	grupo	0    	0000-00-00 00:00:00
 level	kolekto	مجموعہ	collection	grupo	0    	0000-00-00 00:00:00
 level	supro	ایک چوٹی، ایک چوٹی	a top, a summit	grupo	0    	0000-00-00 00:00:00
 level	oriento	مشرق	east	grupo	0    	0000-00-00 00:00:00
-level	ju	<adverb>(زیادہ، کم)	<adverb> the (more, less)	grupo	0    	0000-00-00 00:00:00
+level	ju	(adverb) (زیادہ، کم)	(adverb)  the (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sudo	جنوب	south	grupo	0    	0000-00-00 00:00:00
 level	okcidento	مغرب	west	grupo	0    	0000-00-00 00:00:00
 level	juĝi	فیصلہ کرنا	to judge	grupo	0    	0000-00-00 00:00:00
@@ -782,9 +782,9 @@ level	malalta	کم	low	grupo	0    	0000-00-00 00:00:00
 level	viando	گوشت، ایک گوشت	meat, a meat	grupo	0    	0000-00-00 00:00:00
 level	respekti	احترام کرنا	to respect	grupo	0    	0000-00-00 00:00:00
 level	forno	ایک بھٹی، ایک چولہا، ایک تندور	a furnace, a stove, an oven	grupo	0    	0000-00-00 00:00:00
-level	-er-	<suffix>عنصر، پورے کا چھوٹا ذرہ	<suffix> element, small particle of whole	grupo	0    	0000-00-00 00:00:00
+level	-er-	(suffix) عنصر، پورے کا چھوٹا ذرہ	(suffix)  element, small particle of whole	grupo	0    	0000-00-00 00:00:00
 level	malkovri	دریافت کرنا، ننگا کرنا، پردہ اٹھانا	to discover, to uncover, to unveil	grupo	0    	0000-00-00 00:00:00
-level	-aĉ-	<suffix>برا، مکروہ	<suffix> bad, disgusting	grupo	0    	0000-00-00 00:00:00
+level	-aĉ-	(suffix) برا، مکروہ	(suffix)  bad, disgusting	grupo	0    	0000-00-00 00:00:00
 level	branĉo	ایک شاخ، ایک شاخ	a branch, a bough	grupo	0    	0000-00-00 00:00:00
 level	malhela	تاریک، مایوس کن، تاریک	dark, dismal, bleak	grupo	0    	0000-00-00 00:00:00
 level	mensogi	جھوٹ بولنا، جھوٹ بولنا	to lie, to tell a lie	grupo	0    	0000-00-00 00:00:00
@@ -1076,7 +1076,7 @@ level	imagi	تصور کرنا	to imagine	grupo	0    	0000-00-00 00:00:00
 level	fidela	وفادار، قابل اعتماد	faithful, trustworthy	grupo	0    	0000-00-00 00:00:00
 level	partopreni	حصہ لینا، حصہ لینا	to participate, to take part	grupo	0    	0000-00-00 00:00:00
 level	kastelo	ایک قلعہ، ایک قلعہ	a castle, a citadel	grupo	0    	0000-00-00 00:00:00
-level	-op-	<suffix>تعداد میں ایک گروپ	<suffix> a group in numbers	grupo	0    	0000-00-00 00:00:00
+level	-op-	(suffix) تعداد میں ایک گروپ	(suffix)  a group in numbers	grupo	0    	0000-00-00 00:00:00
 level	ĉeesti	حاضر ہونا، حاضر ہونا	to attend, to be present at	grupo	0    	0000-00-00 00:00:00
 level	televido	ٹی وی، ٹیلی ویژن	TV, television	grupo	0    	0000-00-00 00:00:00
 level	studento	ایک طالب علم (یونیورسٹی)	a student (university)	grupo	0    	0000-00-00 00:00:00
@@ -1328,7 +1328,7 @@ level	lastjare	آخری سال	last year	grupo	0    	0000-00-00 00:00:00
 level	vojmontrilo	ایک نشان، نشانی	a landmark, a signpost	grupo	0    	0000-00-00 00:00:00
 level	kelo	تہھانے، تہھانے	a cellar, a basement	grupo	0    	0000-00-00 00:00:00
 level	firma	مضبوط، مستحکم	firm, stable	grupo	0    	0000-00-00 00:00:00
-level	eks-	<prefix>سابق، سابق	<prefix> ex-, former	grupo	0    	0000-00-00 00:00:00
+level	eks-	(prefix) سابق، سابق	(prefix)  ex-, former	grupo	0    	0000-00-00 00:00:00
 level	kilogramo	ایک کلو گرام	a kilogram	grupo	0    	0000-00-00 00:00:00
 level	frago	ایک سٹرابیری	a strawberry	grupo	0    	0000-00-00 00:00:00
 level	pato	ایک کڑاہی	a frying pan	grupo	0    	0000-00-00 00:00:00
@@ -1340,7 +1340,7 @@ level	matura	بالغ، پکا ہوا	mature, ripe	grupo	0    	0000-00-00 00:00:
 level	kulerego	بالٹی، ایک بڑا چمچ	bucket, a large spoon	grupo	0    	0000-00-00 00:00:00
 level	konduti	اپنے آپ کو برتاؤ کرنا، برتاؤ کرنا	to conduct oneself, to behave	grupo	0    	0000-00-00 00:00:00
 level	vere	واقعی، حقیقی طور پر، واقعی	really, genuinly, truly	grupo	0    	0000-00-00 00:00:00
-level	mis-	<prefix>غلط	<prefix> mis-	grupo	0    	0000-00-00 00:00:00
+level	mis-	(prefix) غلط	(prefix)  mis-	grupo	0    	0000-00-00 00:00:00
 level	kvieta	پرسکون، پرسکون	quiet, calm	grupo	0    	0000-00-00 00:00:00
 level	funkcii	کام کرنا، کام کرنا، کام کرنا	to function, to operate, to work	grupo	0    	0000-00-00 00:00:00
 level	konvena	مناسب، موزوں	appropriate, suitable	grupo	0    	0000-00-00 00:00:00
@@ -1355,14 +1355,14 @@ level	mieno	ایک (چہرے کا) تاثر	a (facial) expression	grupo	0    	00
 level	pensio	پنشن، سالانہ	pension, annuity	grupo	0    	0000-00-00 00:00:00
 level	princo	ایک شہزادہ	a prince	grupo	0    	0000-00-00 00:00:00
 level	sorto	قسمت، قسمت، قسمت	destiny, fate, fortune	grupo	0    	0000-00-00 00:00:00
-level	-end-	<suffix>ذمہ داری	<suffix> obligation	grupo	0    	0000-00-00 00:00:00
+level	-end-	(suffix) ذمہ داری	(suffix)  obligation	grupo	0    	0000-00-00 00:00:00
 level	longaj ŝtrumpoj	لمبی جرابیں	long stockings	grupo	0    	0000-00-00 00:00:00
 level	barbo	داڑھی	beard	grupo	0    	0000-00-00 00:00:00
-level	-ing-	<suffix>لمبا ہولڈر، ساکٹ	<suffix> long holder, socket	grupo	0    	0000-00-00 00:00:00
+level	-ing-	(suffix) لمبا ہولڈر، ساکٹ	(suffix)  long holder, socket	grupo	0    	0000-00-00 00:00:00
 level	bongusta	مزیدار، اچھا ذائقہ	delicious, good-tasted	grupo	0    	0000-00-00 00:00:00
 level	flegi	دیکھ بھال کرنا، نرس کرنا	to take care of, to nurse	grupo	0    	0000-00-00 00:00:00
-level	-njo	<suffix>خواتین کے پالتو جانوروں کا نام	<suffix> female pet name	grupo	0    	0000-00-00 00:00:00
-level	-ĉjo	<suffix>مرد پالتو جانور کا نام	<suffix> male pet name	grupo	0    	0000-00-00 00:00:00
+level	-njo	(suffix) خواتین کے پالتو جانوروں کا نام	(suffix)  female pet name	grupo	0    	0000-00-00 00:00:00
+level	-ĉjo	(suffix) مرد پالتو جانور کا نام	(suffix)  male pet name	grupo	0    	0000-00-00 00:00:00
 level	plugi	ہل چلانا، ہل چلانا، تکنا	to plow, to plough, to till	grupo	0    	0000-00-00 00:00:00
 level	amletero	ایک محبت نامہ	a loveletter	grupo	0    	0000-00-00 00:00:00
 level	glaso da	کا ایک گلاس	a glass of	grupo	0    	0000-00-00 00:00:00
@@ -1632,7 +1632,7 @@ level	kvanto	مقدار، مقدار	quantity, amount	grupo	0    	0000-00-00 00:
 level	batilo	ایک چمگادڑ (مارنے کے لیے)	a bat (to hit)	grupo	0    	0000-00-00 00:00:00
 level	kvalito	معیار، جائیداد	quality, property	grupo	0    	0000-00-00 00:00:00
 level	laŭte	زور سے، بلند آواز سے	loudly, aloud	grupo	0    	0000-00-00 00:00:00
-level	-ut-	<suffix>مشروط غیر فعال	<suffix> conditional passive	grupo	0    	0000-00-00 00:00:00
+level	-ut-	(suffix) مشروط غیر فعال	(suffix)  conditional passive	grupo	0    	0000-00-00 00:00:00
 level	kristnasko	کرسمس	Christmas	grupo	0    	0000-00-00 00:00:00
 level	vivo	زندگی	a life	grupo	0    	0000-00-00 00:00:00
 level	freneza	پاگل، پاگل، پاگل	crazy, insane, mad	grupo	0    	0000-00-00 00:00:00
@@ -2391,7 +2391,7 @@ level	heredi	وارث کے لئے	to inherit	grupo	0    	0000-00-00 00:00:00
 level	flugbileto	ایک ہوائی ٹکٹ	an air ticket	grupo	0    	0000-00-00 00:00:00
 level	robo	ایک لباس	a dress	grupo	0    	0000-00-00 00:00:00
 level	egipto	ایک مصری شخص	an Egyptian person	grupo	0    	0000-00-00 00:00:00
-level	-unt	<suffix>مشروط فعال	<suffix> conditional active	grupo	0    	0000-00-00 00:00:00
+level	-unt	(suffix) مشروط فعال	(suffix)  conditional active	grupo	0    	0000-00-00 00:00:00
 level	frenezulo	ایک جنونی، ایک پاگل، ایک پاگل	a fanatic, a lunatic, a maniac	grupo	0    	0000-00-00 00:00:00
 level	ekde	جب سے	since	grupo	0    	0000-00-00 00:00:00
 level	observi	مشاہدہ کرنا	to observe	grupo	0    	0000-00-00 00:00:00
@@ -2550,7 +2550,7 @@ level	irako	عراق	Iraq	grupo	0    	0000-00-00 00:00:00
 level	resumo	ایک خلاصہ، ایک ڈائجسٹ، ایک ریزیومے، ایک خلاصہ	a summary, a digest, a résumé, a sum-up	grupo	0    	0000-00-00 00:00:00
 level	promeno	ایک چہل قدمی، پیدل چلنا	a promenade, a walking	grupo	0    	0000-00-00 00:00:00
 level	horizontalo	ایک افقی لائن	a horizontal line	grupo	0    	0000-00-00 00:00:00
-level	fi-	<prefix>شرمناک، مکروہ، گندا	<prefix> shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
+level	fi-	(prefix) شرمناک، مکروہ، گندا	(prefix)  shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
 level	aŭkcio	ایک نیلامی	an auction	grupo	0    	0000-00-00 00:00:00
 level	konkludi	نتیجہ اخذ کرنا	to conclude	grupo	0    	0000-00-00 00:00:00
 level	salivo	تھوک، غلام	saliva, slaver	grupo	0    	0000-00-00 00:00:00
@@ -5882,7 +5882,7 @@ level	Antono	انتھونی	Anthony	grupo	0    	0000-00-00 00:00:00
 level	Anno	انا	Anna	grupo	0    	0000-00-00 00:00:00
 level	Berto	برٹ	Bert	grupo	0    	0000-00-00 00:00:00
 level	apelacio	ایک اپیل، ایک الزام لگانے والا	an appeal, an accuser	grupo	0    	0000-00-00 00:00:00
-level	antimono	<chem>اینٹیمونی	<chem> antimony	grupo	0    	0000-00-00 00:00:00
+level	antimono	(chem) اینٹیمونی	(chem)  antimony	grupo	0    	0000-00-00 00:00:00
 level	apokrifo	apocrypha	apocrypha	grupo	0    	0000-00-00 00:00:00
 level	apoteozo	apotheosis	apotheosis	grupo	0    	0000-00-00 00:00:00
 level	ardezo	سلیٹ	slate	grupo	0    	0000-00-00 00:00:00
@@ -5902,7 +5902,7 @@ level	ĉano	ایک مرغ (بندوق کا)، ہتھوڑا (بندوق کا)	a c
 level	afekcii	متاثر کرنے کے لئے	to affect	grupo	0    	0000-00-00 00:00:00
 level	hardi	سخت کرنے کے لئے	to toughen	grupo	0    	0000-00-00 00:00:00
 level	areno	ایک میدان	an arena	grupo	0    	0000-00-00 00:00:00
-level	arseniko	<chem>سنکھیا	<chem> arsenic	grupo	0    	0000-00-00 00:00:00
+level	arseniko	(chem) سنکھیا	(chem)  arsenic	grupo	0    	0000-00-00 00:00:00
 level	borakso	بوریکس	borax	grupo	0    	0000-00-00 00:00:00
 level	aspiro	خواہش	aspiration	grupo	0    	0000-00-00 00:00:00
 level	atribuo	انتساب، مختص	attribution, allocation	grupo	0    	0000-00-00 00:00:00

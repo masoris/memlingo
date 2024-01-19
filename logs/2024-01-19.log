@@ -1,0 +1,23 @@
+2024-01-19 16:35:44	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-01-19 16:35:44	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-19 16:35:48	/api/get_course_info.api	a@a.com	ar
+2024-01-19 16:35:51	/api/get_course_info.api	a@a.com	de
+2024-01-19 16:35:54	/api/get_course_info.api	a@a.com	es
+2024-01-19 16:35:56	/api/get_course_info.api	a@a.com	ru
+2024-01-19 16:35:57	/api/get_course_info.api	a@a.com	pt
+2024-01-19 16:35:59	/api/get_course_info.api	a@a.com	pl
+2024-01-19 16:36:02	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-19 16:44:11	/api/get_course_info.api	a@a.com	pt
+2024-01-19 16:44:17	/api/get_course_info.api	a@a.com	pt
+2024-01-19 16:44:23	/api/session-start.api	a@a.com	pt	A
+2024-01-19 16:44:23	/api/card-next.api	a@a.com	A	pt	mi, vi	0	./quizD.html	ludoviko
+2024-01-19 16:44:23	/api/similar-words-kor.api	a@a.com	A	pt	Eu você
+2024-01-19 16:44:32	/api/similar-words-jk.api	a@a.com	A	pt	mi	
+2024-01-19 16:48:04	/api/similar-words-jk.api	a@a.com	A	pt	vi	
+2024-01-19 16:49:15	/api/similar-words.api	a@a.com	A	pt	mi, vi
+2024-01-19 16:49:23	/api/similar-words-kor.api	a@a.com	A	pt	Eu você
+2024-01-19 16:49:29	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-01-19 16:50:03	/api/similar-words-kor.api	a@a.com	A	pt	Eu você
+2024-01-19 16:50:48	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-01-19 16:50:53	/api/similar-words.api	a@a.com	A	pt	mi, vi
+2024-01-19 16:51:25	/api/similar-words.api	a@a.com	A	pt	mi, vi

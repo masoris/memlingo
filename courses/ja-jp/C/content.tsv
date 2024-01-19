@@ -15,23 +15,23 @@ level	mem	自分で、親しく、直接、一人で	by oneself	grupo	alternativ
 level	ĝis ~	〜まで（時間的、空間的）	upto ~, until ~	grupo	alternativoj	prononco
 level	de ~	〜の、〜から、〜のため	of ~	grupo	alternativoj	prononco
 level	da ~	数、量を表す前置詞	(much) of ~, (many) of ~	grupo	alternativoj	prononco
-level	-aĵo	物事の接尾辞、〜もの、〜一つのもの	<suffix> thing, concrete manifestation	grupo	alternativoj	prononco
+level	-aĵo	物事の接尾辞、〜もの、〜一つのもの	(suffix)  thing, concrete manifestation	grupo	alternativoj	prononco
 level	proksima	近い	near, close to, soon, nearby	grupo	alternativoj	prononco
-level	-adi	繰り返し行為サフィックス（繰り返し）	<suffix> repetitive action, lasting action	grupo	alternativoj	prononco
-level	-as	動詞現在型母	<suffix> present tense	grupo	alternativoj	prononco
-level	-is	動詞の過去の母語	<suffix> past tense	grupo	alternativoj	prononco
+level	-adi	繰り返し行為サフィックス（繰り返し）	(suffix)  repetitive action, lasting action	grupo	alternativoj	prononco
+level	-as	動詞現在型母	(suffix)  present tense	grupo	alternativoj	prononco
+level	-is	動詞の過去の母語	(suffix)  past tense	grupo	alternativoj	prononco
 level	esti	〜である、〜がある、存在する	to be	grupo	alternativoj	prononco
-level	-os	動詞未来型母語	<suffix> future tense	grupo	alternativoj	prononco
-level	antaŭ ~	～前の、～前の	<preposition> before ~, in front of ~	grupo	alternativoj	prononco
+level	-os	動詞未来型母語	(suffix)  future tense	grupo	alternativoj	prononco
+level	antaŭ ~	～前の、～前の	(preposition)  before ~, in front of ~	grupo	alternativoj	prononco
 level	fari	〜をする、〜を作る	to make, to do	grupo	alternativoj	prononco
-level	ankaŭ ~	~も、~も	<preposition> also, too	grupo	alternativoj	prononco
+level	ankaŭ ~	~も、~も	(preposition)  also, too	grupo	alternativoj	prononco
 level	post ~	〜後、〜次に	after ~	grupo	alternativoj	prononco
-level	mal-	反対の接頭辞	<prefix> opposite	grupo	alternativoj	prononco
-level	-ul-	どんな特性がある人、～一人	<suffix> a person of some trait	grupo	alternativoj	prononco
-level	-in-	女性型サフィックス	<suffix> female	grupo	alternativoj	prononco
-level	-ant-	〜する、〜する人（現在、アクティブ、進行型）	<suffix> active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
-level	-int-	〜していた、〜していた人（過去、アクティブ、進行型）	<suffix> active past, was ~ing	grupo	alternativoj	prononco
-level	-ont-	～している、～している人（未来アクティブ進行型）	<suffix> active future, will be ~ing	grupo	alternativoj	prononco
+level	mal-	反対の接頭辞	(prefix)  opposite	grupo	alternativoj	prononco
+level	-ul-	どんな特性がある人、～一人	(suffix)  a person of some trait	grupo	alternativoj	prononco
+level	-in-	女性型サフィックス	(suffix)  female	grupo	alternativoj	prononco
+level	-ant-	〜する、〜する人（現在、アクティブ、進行型）	(suffix)  active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
+level	-int-	〜していた、〜していた人（過去、アクティブ、進行型）	(suffix)  active past, was ~ing	grupo	alternativoj	prononco
+level	-ont-	～している、～している人（未来アクティブ進行型）	(suffix)  active future, will be ~ing	grupo	alternativoj	prononco
 level	kaj (k.)	そして、〜と、〜と	and	grupo	alternativoj	prononco
 level	aŭ	または、または	or	grupo	alternativoj	prononco
 level	alta	高い、大きい	high, tall	grupo	alternativoj	prononco
@@ -43,9 +43,9 @@ level	kiom	いくら	how much, how many	grupo	alternativoj	prononco
 level	ofte	しばしば、しばしば	often, frequently	grupo	alternativoj	prononco
 level	iom	少し、少量	a little, rather, some, somewhat	grupo	alternativoj	prononco
 level	nova	新しい	new, novel	grupo	alternativoj	prononco
-level	-at-	受動態現在噴射	<suffix> passive present participle	grupo	alternativoj	prononco
-level	-it-	受動態過去噴射	<suffix> passive past participle	grupo	alternativoj	prononco
-level	-ot-	受動態未来噴射	<suffix> passive future participle	grupo	alternativoj	prononco
+level	-at-	受動態現在噴射	(suffix)  passive present participle	grupo	alternativoj	prononco
+level	-it-	受動態過去噴射	(suffix)  passive past participle	grupo	alternativoj	prononco
+level	-ot-	受動態未来噴射	(suffix)  passive future participle	grupo	alternativoj	prononco
 level	tre	非常に	very, quite, very much	grupo	alternativoj	prononco
 level	tro	あまり	too, excessively, too much	grupo	alternativoj	prononco
 level	tamen	しかし、	however, nonetheless, but, nevertheless	grupo	alternativoj	prononco
@@ -53,8 +53,8 @@ level	ho!	ああ！ああ！ (感嘆者)	Oh! Ho!	grupo	alternativoj	prononco
 level	ke ~	～したもの （従属接続社）	that ~	grupo	alternativoj	prononco
 level	ĉar ~	なぜなら〜	because ~	grupo	alternativoj	prononco
 level	ĉu	〜ですか？ 〜ですか？ 〜ですか？	whether ~	grupo	alternativoj	prononco
-level	-ej-	場所サフィックス	<suffix> place	grupo	alternativoj	prononco
-level	-ec-	特性サフィックス	<suffix> abstract name of quality	grupo	alternativoj	prononco
+level	-ej-	場所サフィックス	(suffix)  place	grupo	alternativoj	prononco
+level	-ec-	特性サフィックス	(suffix)  abstract name of quality	grupo	alternativoj	prononco
 level	ambaŭ ~	両方、両方	both ~	grupo	alternativoj	prononco
 level	tuj	すぐに、すぐに、すぐに	immediately, instantly, right away	grupo	alternativoj	prononco
 level	kvazaŭ ~	まるで〜のように	as if ~	grupo	alternativoj	prononco
@@ -64,7 +64,7 @@ level	neniam	いつも決して〜ない	never, at no time, not ever	grupo	alter
 level	tial	そういうわけで、だから	therefore, so	grupo	alternativoj	prononco
 level	kial	なぜ	why, what for	grupo	alternativoj	prononco
 level	kvankam	たとえ〜でも	although ~, while, though	grupo	alternativoj	prononco
-level	ĉe ~	～（場所）へ、～へ（接触）	<preposition> at ~	grupo	alternativoj	prononco
+level	ĉe ~	～（場所）へ、～へ（接触）	(preposition)  at ~	grupo	alternativoj	prononco
 level	pli	~以上(比較を表す副詞)	more	grupo	alternativoj	prononco
 level	plej	偽装（最上級）	most	grupo	alternativoj	prononco
 level	diri	話す（内容）	to say, to tell	grupo	alternativoj	prononco
@@ -75,16 +75,16 @@ level	tia	そのような、	such, that kind of, such a	grupo	alternativoj	prono
 level	apenaŭ	やっと、近くで、ほとんど〜しない	barely, hardly, scarecely	grupo	alternativoj	prononco
 level	sendi	送る	to send	grupo	alternativoj	prononco
 level	ĵus	直前に、今	just (a moment ago), just now	grupo	alternativoj	prononco
-level	-u	命令型語彙	<suffix> imperative	grupo	alternativoj	prononco
+level	-u	命令型語彙	(suffix)  imperative	grupo	alternativoj	prononco
 level	ekster ~	〜外から、〜の外に	outside ~	grupo	alternativoj	prononco
-level	ge-	男女の、良性の	<prefix> both sex, both gender	grupo	alternativoj	prononco
-level	-us	家庭法の母親	<suffix> would, should, subjunctive	grupo	alternativoj	prononco
+level	ge-	男女の、良性の	(prefix)  both sex, both gender	grupo	alternativoj	prononco
+level	-us	家庭法の母親	(suffix)  would, should, subjunctive	grupo	alternativoj	prononco
 level	baldaŭ	すぐに、すぐに	soon	grupo	alternativoj	prononco
 level	almenaŭ	少なくとも	at least, if nothing else	grupo	alternativoj	prononco
 level	dis-	散乱、分散プレフィックス	dis-	grupo	alternativoj	prononco
-level	-uj-	収納容器、ボウルサフィックス	<suffix> container; country	grupo	alternativoj	prononco
+level	-uj-	収納容器、ボウルサフィックス	(suffix)  container; country	grupo	alternativoj	prononco
 level	lerni	学ぶ	to learn	grupo	alternativoj	prononco
-level	ek-	開始、突然の変更プレフィックス	<prefix> beginning; sudden start	grupo	alternativoj	prononco
+level	ek-	開始、突然の変更プレフィックス	(prefix)  beginning; sudden start	grupo	alternativoj	prononco
 level	se	（〜ラーメン）（仮定型接続会社）	if, provided that	grupo	alternativoj	prononco
 level	eĉ	〜すら、〜まで	even	grupo	alternativoj	prononco
 level	amo	愛	a love	grupo	alternativoj	prononco
@@ -94,11 +94,11 @@ level	fini	〜を終える、終わる	to end, to finish, to terminate	grupo	alt
 level	do	したがって、だから、したがって、それから	so, then, therefore	grupo	alternativoj	prononco
 level	ajn	無差別の、制限のない、～でも、～でも	~ever, (what)ever, at all, -soever	grupo	alternativoj	prononco
 level	facila	簡単	easy, facile	grupo	alternativoj	prononco
-level	re-	また、繰り返しプレフィックス	<prefix> re-	grupo	alternativoj	prononco
+level	re-	また、繰り返しプレフィックス	(prefix)  re-	grupo	alternativoj	prononco
 level	granda	大きい	big, great, large	grupo	alternativoj	prononco
-level	-ist-	職業サフィックス	<suffix> professional	grupo	alternativoj	prononco
-level	pro ~	〜ので、〜だから、〜	<preposition> because of ~, due to ~	grupo	alternativoj	prononco
-level	-estr-	団体の章、ヘッダーサフィックス	<suffix> leader, boss, head, chief	grupo	alternativoj	prononco
+level	-ist-	職業サフィックス	(suffix)  professional	grupo	alternativoj	prononco
+level	pro ~	〜ので、〜だから、〜	(preposition)  because of ~, due to ~	grupo	alternativoj	prononco
+level	-estr-	団体の章、ヘッダーサフィックス	(suffix)  leader, boss, head, chief	grupo	alternativoj	prononco
 level	kio	何	what	grupo	alternativoj	prononco
 level	manĝi	食べる	to eat	grupo	alternativoj	prononco
 level	nenio	存在しないもの、何もないもの（代名詞）	nothing, none, not any thing	grupo	alternativoj	prononco
@@ -107,20 +107,20 @@ level	ĉio	すべて（代名詞）	everything	grupo	alternativoj	prononco
 level	riĉa	豊かな	rich, wealthy, well-off	grupo	alternativoj	prononco
 level	tio	それ、それ（代名詞）	that thing, that	grupo	alternativoj	prononco
 level	konstrui	建設する、建設する、建設する	to build, to construct	grupo	alternativoj	prononco
-level	ĉef-	葬儀、ヘッダー、リーダー（プレフィックス）	<prefix> chief, leading, main	grupo	alternativoj	prononco
-level	sen ~	~なし	<preposition> without ~	grupo	alternativoj	prononco
-level	kun ~	~と	<preposition> with ~ (together)	grupo	alternativoj	prononco
-level	krom ~	～のほかに、～しなくても	<preposition> except ~, besides ~	grupo	alternativoj	prononco
+level	ĉef-	葬儀、ヘッダー、リーダー（プレフィックス）	(prefix)  chief, leading, main	grupo	alternativoj	prononco
+level	sen ~	~なし	(preposition)  without ~	grupo	alternativoj	prononco
+level	kun ~	~と	(preposition)  with ~ (together)	grupo	alternativoj	prononco
+level	krom ~	～のほかに、～しなくても	(preposition)  except ~, besides ~	grupo	alternativoj	prononco
 level	amiko	友達	a friend	grupo	alternativoj	prononco
 level	kies	誰の、誰の	whose, which one's, of which	grupo	alternativoj	prononco
-level	per ~	〜で、〜として、〜を利用して、〜を介して（ツール）	<preposition> by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
+level	per ~	〜で、〜として、〜を利用して、〜を介して（ツール）	(preposition)  by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
 level	kontraŭ ~	〜さかのぼり、〜そうです、〜反対に、〜に対抗して	against ~	grupo	alternativoj	prononco
 level	el ~	～中から、～から（材料）、～中から	out of ~, from ~	grupo	alternativoj	prononco
 level	hodiaŭ	今日	today	grupo	alternativoj	prononco
 level	hieraŭ	昨日	yesterday	grupo	alternativoj	prononco
 level	nur	ただ、〜だけ	only, just, exclusively	grupo	alternativoj	prononco
 level	helpi	助ける	to help, to aid, to assist	grupo	alternativoj	prononco
-level	for	遠く、遠くに	<adverb> far, away	grupo	alternativoj	prononco
+level	for	遠く、遠くに	(adverb)  far, away	grupo	alternativoj	prononco
 level	nek	〜でもない（他の不定詞の後ろに使用）	nor, neither	grupo	alternativoj	prononco
 level	malamo	嫌い	a hate	grupo	alternativoj	prononco
 level	preskaŭ	ほぼ	almost, nearly	grupo	alternativoj	prononco
@@ -139,7 +139,7 @@ level	tiu	私（彼）人、それ、彼〜	that person, that ~, that one, yonde
 level	iu	誰か、何人かの人、何か	someone, somebody, some	grupo	alternativoj	prononco
 level	neniu	誰も（どれも）〜いいえ（否定代名詞）	nobody, no one, neither	grupo	alternativoj	prononco
 level	al ~	＜前置詞＞～へ、～へ	to ~	grupo	alternativoj	prononco
-level	-ebl-	＜サフィックス＞可能、できる	<suffix> ~able	grupo	alternativoj	prononco
+level	-ebl-	＜サフィックス＞可能、できる	(suffix)  ~able	grupo	alternativoj	prononco
 level	esperi	希望する	to hope	grupo	alternativoj	prononco
 level	unu	1(1)	one	grupo	alternativoj	prononco
 level	du	2(2)	two	grupo	alternativoj	prononco
@@ -153,39 +153,39 @@ level	naŭ	9(9)	nine	grupo	alternativoj	prononco
 level	dek	10(十)	ten	grupo	alternativoj	prononco
 level	cent	100(バッグ)	a hundred	grupo	alternativoj	prononco
 level	mil	1000(千)	a thousand	grupo	alternativoj	prononco
-level	-obl-	＜接尾辞＞ ～倍の、倍数を表す接尾辞	<suffix> for multiplicity, -oble, -fold	grupo	alternativoj	prononco
-level	-on-	＜接尾辞＞ ～分の日、分数を表示する接尾辞	<suffix> ~th, fraction	grupo	alternativoj	prononco
+level	-obl-	＜接尾辞＞ ～倍の、倍数を表す接尾辞	(suffix)  for multiplicity, -oble, -fold	grupo	alternativoj	prononco
+level	-on-	＜接尾辞＞ ～分の日、分数を表示する接尾辞	(suffix)  ~th, fraction	grupo	alternativoj	prononco
 level	ama	愛の	of love	grupo	alternativoj	prononco
 level	anstataŭ ~	&lt;前置詞&gt;〜代わりに	instead of ~	grupo	alternativoj	prononco
-level	-iĝ-	&lt;サフィックス&gt;〜になる	<suffix> become	grupo	alternativoj	prononco
+level	-iĝ-	&lt;サフィックス&gt;〜になる	(suffix)  become	grupo	alternativoj	prononco
 level	voli	欲しい、望む	to want, to will, to be willing to	grupo	alternativoj	prononco
-level	-ig-	＜サフィックス＞〜する	<suffix> cause to become	grupo	alternativoj	prononco
+level	-ig-	＜サフィックス＞〜する	(suffix)  cause to become	grupo	alternativoj	prononco
 level	sekvi	続く、続く、行う	to follow	grupo	alternativoj	prononco
 level	ĝoje	喜んで	gladly	grupo	alternativoj	prononco
 level	legi	読む	to read	grupo	alternativoj	prononco
 level	silenta	静かな	silent	grupo	alternativoj	prononco
 level	la	&lt;定款師&gt;	the	grupo	alternativoj	prononco
 level	ha!	ハ！ (感嘆者)	ha!	grupo	alternativoj	prononco
-level	-il-	&lt;サフィックス&gt;機構、ツール	<suffix> tool, method	grupo	alternativoj	prononco
+level	-il-	&lt;サフィックス&gt;機構、ツール	(suffix)  tool, method	grupo	alternativoj	prononco
 level	trinki	飲む	to drink (non-alkohol)	grupo	alternativoj	prononco
-level	-et-	&lt;サフィックス&gt;小さな、かわいい	<suffix> small, little	grupo	alternativoj	prononco
-level	-eg-	&lt;サフィックス&gt;大きいもの、大きい	<suffix> big, large	grupo	alternativoj	prononco
-level	inter ~	&lt;前置詞&gt;〜サイエ	<preposition> between ~	grupo	alternativoj	prononco
-level	-um-	＜サフィックス＞（関係する）行動、（関係する）傾向	<suffix> related behavior	grupo	alternativoj	prononco
-level	-ar-	&lt;サフィックス&gt;セット、会議、グループを表す	<suffix> set, group	grupo	alternativoj	prononco
-level	-an-	＜サフィックス＞ 会員、会員、〜に属する者	<suffix> member of a group	grupo	alternativoj	prononco
+level	-et-	&lt;サフィックス&gt;小さな、かわいい	(suffix)  small, little	grupo	alternativoj	prononco
+level	-eg-	&lt;サフィックス&gt;大きいもの、大きい	(suffix)  big, large	grupo	alternativoj	prononco
+level	inter ~	&lt;前置詞&gt;〜サイエ	(preposition)  between ~	grupo	alternativoj	prononco
+level	-um-	＜サフィックス＞（関係する）行動、（関係する）傾向	(suffix)  related behavior	grupo	alternativoj	prononco
+level	-ar-	&lt;サフィックス&gt;セット、会議、グループを表す	(suffix)  set, group	grupo	alternativoj	prononco
+level	-an-	＜サフィックス＞ 会員、会員、〜に属する者	(suffix)  member of a group	grupo	alternativoj	prononco
 level	danki	ありがとう、事例	to thank	grupo	alternativoj	prononco
-level	-ind-	&lt;サフィックス&gt;〜する価値がある	<suffix> worthwhile, worthy	grupo	alternativoj	prononco
+level	-ind-	&lt;サフィックス&gt;〜する価値がある	(suffix)  worthwhile, worthy	grupo	alternativoj	prononco
 level	plu	（時間的）〜もっと続き、（空間的）〜もっと遠く	even more, further, and so on, more	grupo	alternativoj	prononco
 level	kiel	どのように	how, like, in what way, such as	grupo	alternativoj	prononco
 level	tiel	そう	such, in that way, thus	grupo	alternativoj	prononco
-level	en ~	&lt;前置詞&gt;〜の中、〜の中、〜	<preposition> in ~	grupo	alternativoj	prononco
-level	apud ~	＜前置詞＞ ～隣に、～そばに、～近くに	<preposition> next to ~, beside ~	grupo	alternativoj	prononco
-level	sub ~	&lt;前置詞&gt;〜下	<preposition> under, beneath ~	grupo	alternativoj	prononco
-level	sur ~	&lt;前置詞&gt;〜綿の上に	<preposition> on ~	grupo	alternativoj	prononco
-level	je ~	＜前置詞＞ 時間に、様々に適用可能な前置詞	<preposition> indefinate prep., at, in, by, on	grupo	alternativoj	prononco
-level	ankoraŭ	&lt;副詞&gt;まだ、今でも、まだ	<adverb> still, yet	grupo	alternativoj	prononco
-level	ĉirkaŭ ~	＜前置詞＞ ～周り、～周り、～四方へ	<preposition> around ~	grupo	alternativoj	prononco
+level	en ~	&lt;前置詞&gt;〜の中、〜の中、〜	(preposition)  in ~	grupo	alternativoj	prononco
+level	apud ~	＜前置詞＞ ～隣に、～そばに、～近くに	(preposition)  next to ~, beside ~	grupo	alternativoj	prononco
+level	sub ~	&lt;前置詞&gt;〜下	(preposition)  under, beneath ~	grupo	alternativoj	prononco
+level	sur ~	&lt;前置詞&gt;〜綿の上に	(preposition)  on ~	grupo	alternativoj	prononco
+level	je ~	＜前置詞＞ 時間に、様々に適用可能な前置詞	(preposition)  indefinate prep., at, in, by, on	grupo	alternativoj	prononco
+level	ankoraŭ	&lt;副詞&gt;まだ、今でも、まだ	(adverb)  still, yet	grupo	alternativoj	prononco
+level	ĉirkaŭ ~	＜前置詞＞ ～周り、～周り、～四方へ	(preposition)  around ~	grupo	alternativoj	prononco
 level	sed	しかし	but	grupo	alternativoj	prononco
 level	ie	どこかに	somewhere	grupo	alternativoj	prononco
 level	kie	どこに	where, at what place	grupo	alternativoj	prononco
@@ -196,25 +196,25 @@ level	tie	そこに、そこに	there, over there, yonder	grupo	alternativoj	pro
 level	ĉi	＜指示副詞＞ この（近さを示す）	this ~	grupo	alternativoj	prononco
 level	kanti	歌う	to sing	grupo	alternativoj	prononco
 level	morti	死ぬ	to die, to pass away	grupo	alternativoj	prononco
-level	dum ~	&lt;前置詞&gt;〜	<preposition> during ~, while ~	grupo	alternativoj	prononco
+level	dum ~	&lt;前置詞&gt;〜	(preposition)  during ~, while ~	grupo	alternativoj	prononco
 level	nacio	国、国	a nation	grupo	alternativoj	prononco
 level	koni	わかる、知っている間だ	to know (a person), to be aquainted with	grupo	alternativoj	prononco
 level	scii	知っている、（知識を）知っている	to know (a fact, knowledge), to know how	grupo	alternativoj	prononco
 level	ĉiam	いつも、いつも、いつも	always, ever	grupo	alternativoj	prononco
 level	iam	いつか（不明な時）	at some time, once	grupo	alternativoj	prononco
 level	tiam	その時	then	grupo	alternativoj	prononco
-level	-em-	&lt;サフィックス&gt;傾向、傾向、習慣	<suffix> tendancy	grupo	alternativoj	prononco
+level	-em-	&lt;サフィックス&gt;傾向、傾向、習慣	(suffix)  tendancy	grupo	alternativoj	prononco
 level	ia	ある、苗の	some kind of	grupo	alternativoj	prononco
 level	sukcesi	成功する	to succeed	grupo	alternativoj	prononco
 level	ĉia	あらゆる種類の	of all kind, every kind of	grupo	alternativoj	prononco
 level	nenia	どんなものでも〜いいえ、どんなものでもありません	no, not any kind of, not any	grupo	alternativoj	prononco
-level	-id-	&lt;サフィックス&gt;子、息子、子	<suffix> offspring	grupo	alternativoj	prononco
+level	-id-	&lt;サフィックス&gt;子、息子、子	(suffix)  offspring	grupo	alternativoj	prononco
 level	ĉambro	部屋	a room, a chamber	grupo	alternativoj	prononco
 level	patro	父	a father	grupo	alternativoj	prononco
 level	porko	豚	a pig, swine	grupo	alternativoj	prononco
-level	bo-	婚姻による親戚関係（接頭辞）	<prefix> -in-law, by marriage	grupo	alternativoj	prononco
+level	bo-	婚姻による親戚関係（接頭辞）	(prefix)  -in-law, by marriage	grupo	alternativoj	prononco
 level	ja	実に、まさに、こんにちは、確かに	indeed	grupo	alternativoj	prononco
-level	-ism-	&lt;サフィックス&gt; ~注意、思想、教義	<suffix> -ism	grupo	alternativoj	prononco
+level	-ism-	&lt;サフィックス&gt; ~注意、思想、教義	(suffix)  -ism	grupo	alternativoj	prononco
 level	io	＜代名詞＞（不特定）何か	something	grupo	alternativoj	prononco
 level	veturi	乗る	to drive (a vehicle)	grupo	alternativoj	prononco
 level	koko	チキン	a cock, a hen, chicken, fowl	grupo	alternativoj	prononco
@@ -625,7 +625,7 @@ level	merkredo	水曜日	Wednesday	grupo	alternativoj	prononco
 level	vendredo	金曜日	Friday	grupo	alternativoj	prononco
 level	fiŝkaptado	魚釣り	fish-catching, catching fishes	grupo	alternativoj	prononco
 level	ilustri	絵で説明する、飾る、漫画を描く	to illustrate	grupo	alternativoj	prononco
-level	des	それだけ（juと呼応）	<adverb> so much (more, less)	grupo	alternativoj	prononco
+level	des	それだけ（juと呼応）	(adverb)  so much (more, less)	grupo	alternativoj	prononco
 level	sabato	土曜日	Saturday	grupo	alternativoj	prononco
 level	ĵaŭdo	木曜日	Thursday	grupo	alternativoj	prononco
 level	mardo	火曜日	Tuesday	grupo	alternativoj	prononco
@@ -678,7 +678,7 @@ level	ŝtupo	階段一行	a step, a stair, a rung	grupo	alternativoj	prononco
 level	bordo	川、海岸、水辺	a shore, a waterfront, a bank	grupo	alternativoj	prononco
 level	justa	公正	fair, just, righteous	grupo	alternativoj	prononco
 level	lumo	光	a light	grupo	alternativoj	prononco
-level	malgraŭ ~	〜にもかかわらず	<preposition> despite ~, in spite of ~	grupo	alternativoj	prononco
+level	malgraŭ ~	〜にもかかわらず	(preposition)  despite ~, in spite of ~	grupo	alternativoj	prononco
 level	drinkado	飲酒	drinking action	grupo	alternativoj	prononco
 level	aŭtomobilo	車(=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	alternativoj	prononco
 level	bonvoli	好意を払う、自発的にする	to will (from heart), to want (from heart)	grupo	alternativoj	prononco
@@ -729,7 +729,7 @@ level	nordo	北、北	north	grupo	alternativoj	prononco
 level	kolekto	収集	collection	grupo	alternativoj	prononco
 level	supro	上、上、絶頂	a top, a summit	grupo	alternativoj	prononco
 level	oriento	東、東	east	grupo	alternativoj	prononco
-level	ju	（pliと一緒に）〜やればするほど（ju pli）	<adverb> the (more, less)	grupo	alternativoj	prononco
+level	ju	（pliと一緒に）〜やればするほど（ju pli）	(adverb)  the (more, less)	grupo	alternativoj	prononco
 level	sudo	南、南	south	grupo	alternativoj	prononco
 level	okcidento	西、西	west	grupo	alternativoj	prononco
 level	juĝi	裁判をする、判決を下す	to judge	grupo	alternativoj	prononco
@@ -784,9 +784,9 @@ level	malalta	低い	low	grupo	alternativoj	prononco
 level	viando	肉、肉	meat, a meat	grupo	alternativoj	prononco
 level	respekti	尊敬する、尊重する	to respect	grupo	alternativoj	prononco
 level	forno	ストーブ	a furnace, a stove, an oven	grupo	alternativoj	prononco
-level	-er-	コンポーネントサフィックス	<suffix> element, small particle of whole	grupo	alternativoj	prononco
+level	-er-	コンポーネントサフィックス	(suffix)  element, small particle of whole	grupo	alternativoj	prononco
 level	malkovri	発見する、カバーを脱ぐ	to discover, to uncover, to unveil	grupo	alternativoj	prononco
-level	-aĉ-	邪悪な性質、悪い、粗悪さのサフィックス	<suffix> bad, disgusting	grupo	alternativoj	prononco
+level	-aĉ-	邪悪な性質、悪い、粗悪さのサフィックス	(suffix)  bad, disgusting	grupo	alternativoj	prononco
 level	branĉo	枝	a branch, a bough	grupo	alternativoj	prononco
 level	malhela	暗い	dark, dismal, bleak	grupo	alternativoj	prononco
 level	mensogi	嘘をつく	to lie, to tell a lie	grupo	alternativoj	prononco
@@ -1078,7 +1078,7 @@ level	imagi	想像する	to imagine	grupo	alternativoj	prononco
 level	fidela	忠実	faithful, trustworthy	grupo	alternativoj	prononco
 level	partopreni	参加する、一緒にする（parto-）	to participate, to take part	grupo	alternativoj	prononco
 level	kastelo	城	a castle, a citadel	grupo	alternativoj	prononco
-level	-op-	＜サフィックス＞数字の集合（集団）	<suffix> a group in numbers	grupo	alternativoj	prononco
+level	-op-	＜サフィックス＞数字の集合（集団）	(suffix)  a group in numbers	grupo	alternativoj	prononco
 level	ĉeesti	出席する、出席する、席にいる	to attend, to be present at	grupo	alternativoj	prononco
 level	televido	テレビ	TV, television	grupo	alternativoj	prononco
 level	studento	学生、大学生	a student (university)	grupo	alternativoj	prononco
@@ -1330,7 +1330,7 @@ level	lastjare	昨年	last year	grupo	alternativoj	prononco
 level	vojmontrilo	マイルストーン	a landmark, a signpost	grupo	alternativoj	prononco
 level	kelo	地下室	a cellar, a basement	grupo	alternativoj	prononco
 level	firma	頑丈な、固い、頑丈な	firm, stable	grupo	alternativoj	prononco
-level	eks-	＜プレフィックス＞元	<prefix> ex-, former	grupo	alternativoj	prononco
+level	eks-	＜プレフィックス＞元	(prefix)  ex-, former	grupo	alternativoj	prononco
 level	kilogramo	キログラム	a kilogram	grupo	alternativoj	prononco
 level	frago	イチゴ	a strawberry	grupo	alternativoj	prononco
 level	pato	フライパン	a frying pan	grupo	alternativoj	prononco
@@ -1342,7 +1342,7 @@ level	matura	成熟した、熟した	mature, ripe	grupo	alternativoj	prononco
 level	kulerego	スクープ（大きなスプーン）	bucket, a large spoon	grupo	alternativoj	prononco
 level	konduti	処罰する、〜するように行動する	to conduct oneself, to behave	grupo	alternativoj	prononco
 level	vere	本当に	really, genuinly, truly	grupo	alternativoj	prononco
-level	mis-	&lt;プレフィックス&gt; 間違っている、間違いを示す	<prefix> mis-	grupo	alternativoj	prononco
+level	mis-	&lt;プレフィックス&gt; 間違っている、間違いを示す	(prefix)  mis-	grupo	alternativoj	prononco
 level	kvieta	静か	quiet, calm	grupo	alternativoj	prononco
 level	funkcii	機能する、動作する	to function, to operate, to work	grupo	alternativoj	prononco
 level	konvena	フィット、フィット、（服）フィット	appropriate, suitable	grupo	alternativoj	prononco
@@ -1357,14 +1357,14 @@ level	mieno	表情	a (facial) expression	grupo	alternativoj	prononco
 level	pensio	年金	pension, annuity	grupo	alternativoj	prononco
 level	princo	王子	a prince	grupo	alternativoj	prononco
 level	sorto	運命	destiny, fate, fortune	grupo	alternativoj	prononco
-level	-end-	&lt;サフィックス&gt;〜しなければならない	<suffix> obligation	grupo	alternativoj	prononco
+level	-end-	&lt;サフィックス&gt;〜しなければならない	(suffix)  obligation	grupo	alternativoj	prononco
 level	longaj ŝtrumpoj	ロングソックス、ストッキング	long stockings	grupo	alternativoj	prononco
 level	barbo	ひげ	beard	grupo	alternativoj	prononco
-level	-ing-	＜接尾辞＞ 一端を差し込むか、差し込むもの	<suffix> long holder, socket	grupo	alternativoj	prononco
+level	-ing-	＜接尾辞＞ 一端を差し込むか、差し込むもの	(suffix)  long holder, socket	grupo	alternativoj	prononco
 level	bongusta	おいしい	delicious, good-tasted	grupo	alternativoj	prononco
 level	flegi	看護する、保護する	to take care of, to nurse	grupo	alternativoj	prononco
-level	-njo	＜サフィックス＞女性愛称（例：ママ）	<suffix> female pet name	grupo	alternativoj	prononco
-level	-ĉjo	&lt;サフィックス&gt;男性愛称（例：お父さん）	<suffix> male pet name	grupo	alternativoj	prononco
+level	-njo	＜サフィックス＞女性愛称（例：ママ）	(suffix)  female pet name	grupo	alternativoj	prononco
+level	-ĉjo	&lt;サフィックス&gt;男性愛称（例：お父さん）	(suffix)  male pet name	grupo	alternativoj	prononco
 level	plugi	耕作、（畑）	to plow, to plough, to till	grupo	alternativoj	prononco
 level	amletero	恋愛手紙、愛の手紙	a loveletter	grupo	alternativoj	prononco
 level	glaso da	ガラスの	a glass of	grupo	alternativoj	prononco
@@ -1634,7 +1634,7 @@ level	kvanto	量、分量	quantity, amount	grupo	alternativoj	prononco
 level	batilo	バット（バット）	a bat (to hit)	grupo	alternativoj	prononco
 level	kvalito	品質、品質	quality, property	grupo	alternativoj	prononco
 level	laŭte	大きく（音）	loudly, aloud	grupo	alternativoj	prononco
-level	-ut-	&lt;母語&gt;仮定法受動態	<suffix> conditional passive	grupo	alternativoj	prononco
+level	-ut-	&lt;母語&gt;仮定法受動態	(suffix)  conditional passive	grupo	alternativoj	prononco
 level	kristnasko	クリスマス	Christmas	grupo	alternativoj	prononco
 level	vivo	生命、生活	a life	grupo	alternativoj	prononco
 level	freneza	クレイジー	crazy, insane, mad	grupo	alternativoj	prononco
@@ -2393,7 +2393,7 @@ level	heredi	継承される、受け継がれる	to inherit	grupo	alternativoj	
 level	flugbileto	飛行機票	an air ticket	grupo	alternativoj	prononco
 level	robo	ロングスーツ、衣服、法服	a dress	grupo	alternativoj	prononco
 level	egipto	エジプト人	an Egyptian person	grupo	alternativoj	prononco
-level	-unt	＜母語＞家庭法能動態	<suffix> conditional active	grupo	alternativoj	prononco
+level	-unt	＜母語＞家庭法能動態	(suffix)  conditional active	grupo	alternativoj	prononco
 level	frenezulo	クレイジー、狂人	a fanatic, a lunatic, a maniac	grupo	alternativoj	prononco
 level	ekde	~から	since	grupo	alternativoj	prononco
 level	observi	観察する、守るより、順守する	to observe	grupo	alternativoj	prononco
@@ -2552,7 +2552,7 @@ level	irako	イラク	Iraq	grupo	alternativoj	prononco
 level	resumo	要約、概要	a summary, a digest, a résumé, a sum-up	grupo	alternativoj	prononco
 level	promeno	散歩	a promenade, a walking	grupo	alternativoj	prononco
 level	horizontalo	水平	a horizontal line	grupo	alternativoj	prononco
-level	fi-	＜プレフィックス＞悲しみ、軽蔑、憎悪、汚い	<prefix> shameful, disgusting, dirty	grupo	alternativoj	prononco
+level	fi-	＜プレフィックス＞悲しみ、軽蔑、憎悪、汚い	(prefix)  shameful, disgusting, dirty	grupo	alternativoj	prononco
 level	aŭkcio	オークション	an auction	grupo	alternativoj	prononco
 level	konkludi	結論を出す	to conclude	grupo	alternativoj	prononco
 level	salivo	唾液、唾液	saliva, slaver	grupo	alternativoj	prononco
@@ -5884,7 +5884,7 @@ level	Antono	アントニー（名前）	Anthony	grupo	alternativoj	prononco
 level	Anno	アンナ（名前）	Anna	grupo	alternativoj	prononco
 level	Berto	ベルタ（名前）	Bert	grupo	alternativoj	prononco
 level	apelacio	上訴、控訴、告訴人	an appeal, an accuser	grupo	alternativoj	prononco
-level	antimono	&lt;化&gt;アンチモン	<chem> antimony	grupo	alternativoj	prononco
+level	antimono	&lt;化&gt;アンチモン	(chem)  antimony	grupo	alternativoj	prononco
 level	apokrifo	疑わしいソースの外径	apocrypha	grupo	alternativoj	prononco
 level	apoteozo	神格化	apotheosis	grupo	alternativoj	prononco
 level	ardezo	（天然）ストレート、スラブ	slate	grupo	alternativoj	prononco
@@ -5904,7 +5904,7 @@ level	ĉano	（銃の）打撃、撃墜	a cock (of a gun), a hammer (of a gun)	g
 level	afekcii	感動させる。病気を引き起こす。	to affect	grupo	alternativoj	prononco
 level	hardi	強くする。	to toughen	grupo	alternativoj	prononco
 level	areno	闘技場、武道場、活躍舞台	an arena	grupo	alternativoj	prononco
-level	arseniko	ヒ素、石	<chem> arsenic	grupo	alternativoj	prononco
+level	arseniko	ヒ素、石	(chem)  arsenic	grupo	alternativoj	prononco
 level	borakso	ホウ砂	borax	grupo	alternativoj	prononco
 level	aspiro	願望、抱負、憧れ、憧れ	aspiration	grupo	alternativoj	prononco
 level	atribuo	せいで回す、割り当て、配当	attribution, allocation	grupo	alternativoj	prononco

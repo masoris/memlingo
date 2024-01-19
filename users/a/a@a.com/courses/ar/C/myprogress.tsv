@@ -13,23 +13,23 @@ level	mem	بنفسه	by oneself	grupo	0    	0000-00-00 00:00:00
 level	ĝis ~	حتى ~، حتى ~	upto ~, until ~	grupo	0    	0000-00-00 00:00:00
 level	de ~	من ~	of ~	grupo	0    	0000-00-00 00:00:00
 level	da ~	(كثيرًا) من ~، (كثيرًا) من ~	(much) of ~, (many) of ~	grupo	0    	0000-00-00 00:00:00
-level	-aĵo	<suffix>الشيء، مظهر ملموس	<suffix> thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
+level	-aĵo	(suffix) الشيء، مظهر ملموس	(suffix)  thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
 level	proksima	قريب، قريب، قريب، قريب	near, close to, soon, nearby	grupo	0    	0000-00-00 00:00:00
-level	-adi	<suffix>عمل متكرر، عمل دائم	<suffix> repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
-level	-as	<suffix>الزمن الحاضر	<suffix> present tense	grupo	0    	0000-00-00 00:00:00
-level	-is	<suffix>فعل ماضي	<suffix> past tense	grupo	0    	0000-00-00 00:00:00
+level	-adi	(suffix) عمل متكرر، عمل دائم	(suffix)  repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
+level	-as	(suffix) الزمن الحاضر	(suffix)  present tense	grupo	0    	0000-00-00 00:00:00
+level	-is	(suffix) فعل ماضي	(suffix)  past tense	grupo	0    	0000-00-00 00:00:00
 level	esti	يكون	to be	grupo	0    	0000-00-00 00:00:00
-level	-os	<suffix>زمن المستقبل	<suffix> future tense	grupo	0    	0000-00-00 00:00:00
-level	antaŭ ~	<preposition>قبل ~، أمام ~	<preposition> before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
+level	-os	(suffix) زمن المستقبل	(suffix)  future tense	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ~	(preposition) قبل ~، أمام ~	(preposition)  before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
 level	fari	للقيام به	to make, to do	grupo	0    	0000-00-00 00:00:00
-level	ankaŭ ~	<preposition>أيضا	<preposition> also, too	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ~	(preposition) أيضا	(preposition)  also, too	grupo	0    	0000-00-00 00:00:00
 level	post ~	بعد ~	after ~	grupo	0    	0000-00-00 00:00:00
-level	mal-	<prefix>عكس	<prefix> opposite	grupo	0    	0000-00-00 00:00:00
-level	-ul-	<suffix>شخص من بعض الصفات	<suffix> a person of some trait	grupo	0    	0000-00-00 00:00:00
-level	-in-	<suffix>أنثى	<suffix> female	grupo	0    	0000-00-00 00:00:00
-level	-ant-	<suffix>المضارع النشط، هو ~ing، شخص ~ing	<suffix> active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
-level	-int-	<suffix>الماضي النشط، كان ~ جي	<suffix> active past, was ~ing	grupo	0    	0000-00-00 00:00:00
-level	-ont-	<suffix>المستقبل النشط، سوف يكون ~ جي	<suffix> active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
+level	mal-	(prefix) عكس	(prefix)  opposite	grupo	0    	0000-00-00 00:00:00
+level	-ul-	(suffix) شخص من بعض الصفات	(suffix)  a person of some trait	grupo	0    	0000-00-00 00:00:00
+level	-in-	(suffix) أنثى	(suffix)  female	grupo	0    	0000-00-00 00:00:00
+level	-ant-	(suffix) المضارع النشط، هو ~ing، شخص ~ing	(suffix)  active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
+level	-int-	(suffix) الماضي النشط، كان ~ جي	(suffix)  active past, was ~ing	grupo	0    	0000-00-00 00:00:00
+level	-ont-	(suffix) المستقبل النشط، سوف يكون ~ جي	(suffix)  active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
 level	kaj (k.)	و	and	grupo	0    	0000-00-00 00:00:00
 level	aŭ	أو	or	grupo	0    	0000-00-00 00:00:00
 level	alta	ارتفاع طويل	high, tall	grupo	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ level	kiom	كم القيمة كم العدد	how much, how many	grupo	0    	0000
 level	ofte	في كثير من الأحيان في كثير من الأحيان	often, frequently	grupo	0    	0000-00-00 00:00:00
 level	iom	قليلا، بدلا من ذلك، بعض، إلى حد ما	a little, rather, some, somewhat	grupo	0    	0000-00-00 00:00:00
 level	nova	جديدة، رواية	new, novel	grupo	0    	0000-00-00 00:00:00
-level	-at-	<suffix>النعت السلبي	<suffix> passive present participle	grupo	0    	0000-00-00 00:00:00
-level	-it-	<suffix>النعت الماضي السلبي	<suffix> passive past participle	grupo	0    	0000-00-00 00:00:00
-level	-ot-	<suffix>النعت المستقبل السلبي	<suffix> passive future participle	grupo	0    	0000-00-00 00:00:00
+level	-at-	(suffix) النعت السلبي	(suffix)  passive present participle	grupo	0    	0000-00-00 00:00:00
+level	-it-	(suffix) النعت الماضي السلبي	(suffix)  passive past participle	grupo	0    	0000-00-00 00:00:00
+level	-ot-	(suffix) النعت المستقبل السلبي	(suffix)  passive future participle	grupo	0    	0000-00-00 00:00:00
 level	tre	جدا جدا جدا	very, quite, very much	grupo	0    	0000-00-00 00:00:00
 level	tro	أكثر من اللازم، أكثر من اللازم	too, excessively, too much	grupo	0    	0000-00-00 00:00:00
 level	tamen	ومع ذلك، ومع ذلك، ولكن مع ذلك	however, nonetheless, but, nevertheless	grupo	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ level	ho!	أوه! هو!	Oh! Ho!	grupo	0    	0000-00-00 00:00:00
 level	ke ~	أن ~	that ~	grupo	0    	0000-00-00 00:00:00
 level	ĉar ~	لأن ~	because ~	grupo	0    	0000-00-00 00:00:00
 level	ĉu	سواء ~	whether ~	grupo	0    	0000-00-00 00:00:00
-level	-ej-	<suffix>مكان	<suffix> place	grupo	0    	0000-00-00 00:00:00
-level	-ec-	<suffix>اسم مجردة للجودة	<suffix> abstract name of quality	grupo	0    	0000-00-00 00:00:00
+level	-ej-	(suffix) مكان	(suffix)  place	grupo	0    	0000-00-00 00:00:00
+level	-ec-	(suffix) اسم مجردة للجودة	(suffix)  abstract name of quality	grupo	0    	0000-00-00 00:00:00
 level	ambaŭ ~	كلاهما ~	both ~	grupo	0    	0000-00-00 00:00:00
 level	tuj	على الفور، على الفور، على الفور	immediately, instantly, right away	grupo	0    	0000-00-00 00:00:00
 level	kvazaŭ ~	كما لو ~	as if ~	grupo	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ level	neniam	أبدا، في أي وقت من الأوقات، أبدا	never, a
 level	tial	لذلك، لذلك	therefore, so	grupo	0    	0000-00-00 00:00:00
 level	kial	لماذا، لماذا	why, what for	grupo	0    	0000-00-00 00:00:00
 level	kvankam	على الرغم من ~، في حين، على أية حال	although ~, while, though	grupo	0    	0000-00-00 00:00:00
-level	ĉe ~	<preposition>في ~	<preposition> at ~	grupo	0    	0000-00-00 00:00:00
+level	ĉe ~	(preposition) في ~	(preposition)  at ~	grupo	0    	0000-00-00 00:00:00
 level	pli	أكثر	more	grupo	0    	0000-00-00 00:00:00
 level	plej	معظم	most	grupo	0    	0000-00-00 00:00:00
 level	diri	ليقول ليقول	to say, to tell	grupo	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ level	tia	مثل هذا النوع من مثل هذا	such, that kind of, such a
 level	apenaŭ	بالكاد، بالكاد، نادرا	barely, hardly, scarecely	grupo	0    	0000-00-00 00:00:00
 level	sendi	لترسل	to send	grupo	0    	0000-00-00 00:00:00
 level	ĵus	فقط (منذ لحظة)، الآن	just (a moment ago), just now	grupo	0    	0000-00-00 00:00:00
-level	-u	<suffix>إلزامي	<suffix> imperative	grupo	0    	0000-00-00 00:00:00
+level	-u	(suffix) إلزامي	(suffix)  imperative	grupo	0    	0000-00-00 00:00:00
 level	ekster ~	خارج ~	outside ~	grupo	0    	0000-00-00 00:00:00
-level	ge-	<prefix>كلا الجنسين، كلا الجنسين	<prefix> both sex, both gender	grupo	0    	0000-00-00 00:00:00
-level	-us	<suffix>سوف، ينبغي، شرطي	<suffix> would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
+level	ge-	(prefix) كلا الجنسين، كلا الجنسين	(prefix)  both sex, both gender	grupo	0    	0000-00-00 00:00:00
+level	-us	(suffix) سوف، ينبغي، شرطي	(suffix)  would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
 level	baldaŭ	قريباً	soon	grupo	0    	0000-00-00 00:00:00
 level	almenaŭ	على الأقل، إذا لم يكن هناك شيء آخر	at least, if nothing else	grupo	0    	0000-00-00 00:00:00
 level	dis-	ديس-	dis-	grupo	0    	0000-00-00 00:00:00
-level	-uj-	<suffix>حاوية؛ دولة	<suffix> container; country	grupo	0    	0000-00-00 00:00:00
+level	-uj-	(suffix) حاوية؛ دولة	(suffix)  container; country	grupo	0    	0000-00-00 00:00:00
 level	lerni	ليتعلم	to learn	grupo	0    	0000-00-00 00:00:00
-level	ek-	<prefix>بداية؛ بداية مفاجئة	<prefix> beginning; sudden start	grupo	0    	0000-00-00 00:00:00
+level	ek-	(prefix) بداية؛ بداية مفاجئة	(prefix)  beginning; sudden start	grupo	0    	0000-00-00 00:00:00
 level	se	إذا بشرط ذلك	if, provided that	grupo	0    	0000-00-00 00:00:00
 level	eĉ	حتى	even	grupo	0    	0000-00-00 00:00:00
 level	amo	الحب	a love	grupo	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ level	fini	لإنهاء، لإنهاء، لإنهاء	to end, to finish, to term
 level	do	إذن إذن	so, then, therefore	grupo	0    	0000-00-00 00:00:00
 level	ajn	~أبدًا، (ما) أبدًا، على الإطلاق، -أيًّا كان	~ever, (what)ever, at all, -soever	grupo	0    	0000-00-00 00:00:00
 level	facila	سهل وسهل	easy, facile	grupo	0    	0000-00-00 00:00:00
-level	re-	<prefix>يكرر-	<prefix> re-	grupo	0    	0000-00-00 00:00:00
+level	re-	(prefix) يكرر-	(prefix)  re-	grupo	0    	0000-00-00 00:00:00
 level	granda	كبير، عظيم، كبير	big, great, large	grupo	0    	0000-00-00 00:00:00
-level	-ist-	<suffix>احترافي	<suffix> professional	grupo	0    	0000-00-00 00:00:00
-level	pro ~	<preposition>بسبب ~، بسبب ~	<preposition> because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
-level	-estr-	<suffix>زعيم، رئيس، رئيس، رئيس	<suffix> leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
+level	-ist-	(suffix) احترافي	(suffix)  professional	grupo	0    	0000-00-00 00:00:00
+level	pro ~	(preposition) بسبب ~، بسبب ~	(preposition)  because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
+level	-estr-	(suffix) زعيم، رئيس، رئيس، رئيس	(suffix)  leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
 level	kio	ماذا	what	grupo	0    	0000-00-00 00:00:00
 level	manĝi	لتناول الطعام	to eat	grupo	0    	0000-00-00 00:00:00
 level	nenio	لا شيء، لا شيء، ليس أي شيء	nothing, none, not any thing	grupo	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ level	ĉio	كل شئ	everything	grupo	0    	0000-00-00 00:00:00
 level	riĉa	غني، ثري، ميسوري الحال	rich, wealthy, well-off	grupo	0    	0000-00-00 00:00:00
 level	tio	هذا الشيء، ذلك	that thing, that	grupo	0    	0000-00-00 00:00:00
 level	konstrui	لبناء، لبناء	to build, to construct	grupo	0    	0000-00-00 00:00:00
-level	ĉef-	<prefix>رئيس، رائد، رئيسي	<prefix> chief, leading, main	grupo	0    	0000-00-00 00:00:00
-level	sen ~	<preposition>بدون ~	<preposition> without ~	grupo	0    	0000-00-00 00:00:00
-level	kun ~	<preposition>مع ~ (معا)	<preposition> with ~ (together)	grupo	0    	0000-00-00 00:00:00
-level	krom ~	<preposition>باستثناء ~، إلى جانب ~	<preposition> except ~, besides ~	grupo	0    	0000-00-00 00:00:00
+level	ĉef-	(prefix) رئيس، رائد، رئيسي	(prefix)  chief, leading, main	grupo	0    	0000-00-00 00:00:00
+level	sen ~	(preposition) بدون ~	(preposition)  without ~	grupo	0    	0000-00-00 00:00:00
+level	kun ~	(preposition) مع ~ (معا)	(preposition)  with ~ (together)	grupo	0    	0000-00-00 00:00:00
+level	krom ~	(preposition) باستثناء ~، إلى جانب ~	(preposition)  except ~, besides ~	grupo	0    	0000-00-00 00:00:00
 level	amiko	صديق	a friend	grupo	0    	0000-00-00 00:00:00
 level	kies	الذي، أي واحد، الذي	whose, which one's, of which	grupo	0    	0000-00-00 00:00:00
-level	per ~	<preposition>بواسطة ~ (طريقة)، بواسطة ~ (أداة)	<preposition> by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
+level	per ~	(preposition) بواسطة ~ (طريقة)، بواسطة ~ (أداة)	(preposition)  by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
 level	kontraŭ ~	ضد ~	against ~	grupo	0    	0000-00-00 00:00:00
 level	el ~	من ~، من ~	out of ~, from ~	grupo	0    	0000-00-00 00:00:00
 level	hodiaŭ	اليوم	today	grupo	0    	0000-00-00 00:00:00
 level	hieraŭ	أمس	yesterday	grupo	0    	0000-00-00 00:00:00
 level	nur	فقط، فقط، حصرا	only, just, exclusively	grupo	0    	0000-00-00 00:00:00
 level	helpi	للمساعدة، للمساعدة، للمساعدة	to help, to aid, to assist	grupo	0    	0000-00-00 00:00:00
-level	for	<adverb>بعيداً	<adverb> far, away	grupo	0    	0000-00-00 00:00:00
+level	for	(adverb) بعيداً	(adverb)  far, away	grupo	0    	0000-00-00 00:00:00
 level	nek	ولا لا	nor, neither	grupo	0    	0000-00-00 00:00:00
 level	malamo	الكراهية	a hate	grupo	0    	0000-00-00 00:00:00
 level	preskaŭ	تقريبا، تقريبا	almost, nearly	grupo	0    	0000-00-00 00:00:00
@@ -137,7 +137,7 @@ level	tiu	ذلك الشخص، ذلك ~، ذلك الشخص، هناك	that perso
 level	iu	شخص ما، شخص ما، بعض	someone, somebody, some	grupo	0    	0000-00-00 00:00:00
 level	neniu	لا أحد، لا أحد، لا	nobody, no one, neither	grupo	0    	0000-00-00 00:00:00
 level	al ~	إلى ~	to ~	grupo	0    	0000-00-00 00:00:00
-level	-ebl-	<suffix>~ قادر	<suffix> ~able	grupo	0    	0000-00-00 00:00:00
+level	-ebl-	(suffix) ~ قادر	(suffix)  ~able	grupo	0    	0000-00-00 00:00:00
 level	esperi	ليأمل	to hope	grupo	0    	0000-00-00 00:00:00
 level	unu	واحد	one	grupo	0    	0000-00-00 00:00:00
 level	du	اثنين	two	grupo	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ level	naŭ	تسع	nine	grupo	0    	0000-00-00 00:00:00
 level	dek	عشرة	ten	grupo	0    	0000-00-00 00:00:00
 level	cent	مائة	a hundred	grupo	0    	0000-00-00 00:00:00
 level	mil	ألف	a thousand	grupo	0    	0000-00-00 00:00:00
-level	-obl-	<suffix>للتعدد، -oble، -fold	<suffix> for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
-level	-on-	<suffix>~ال، الكسر	<suffix> ~th, fraction	grupo	0    	0000-00-00 00:00:00
+level	-obl-	(suffix) للتعدد، -oble، -fold	(suffix)  for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
+level	-on-	(suffix) ~ال، الكسر	(suffix)  ~th, fraction	grupo	0    	0000-00-00 00:00:00
 level	ama	من الحب	of love	grupo	0    	0000-00-00 00:00:00
 level	anstataŭ ~	بدلاً من ~	instead of ~	grupo	0    	0000-00-00 00:00:00
-level	-iĝ-	<suffix>يصبح	<suffix> become	grupo	0    	0000-00-00 00:00:00
+level	-iĝ-	(suffix) يصبح	(suffix)  become	grupo	0    	0000-00-00 00:00:00
 level	voli	أن تريد، أن ترغب، أن تكون على استعداد ل	to want, to will, to be willing to	grupo	0    	0000-00-00 00:00:00
-level	-ig-	<suffix>سبب لتصبح	<suffix> cause to become	grupo	0    	0000-00-00 00:00:00
+level	-ig-	(suffix) سبب لتصبح	(suffix)  cause to become	grupo	0    	0000-00-00 00:00:00
 level	sekvi	للمتابعة	to follow	grupo	0    	0000-00-00 00:00:00
 level	ĝoje	بكل سرور	gladly	grupo	0    	0000-00-00 00:00:00
 level	legi	ليقرأ	to read	grupo	0    	0000-00-00 00:00:00
 level	silenta	صامتة	silent	grupo	0    	0000-00-00 00:00:00
 level	la	ال	the	grupo	0    	0000-00-00 00:00:00
 level	ha!	ها!	ha!	grupo	0    	0000-00-00 00:00:00
-level	-il-	<suffix>أداة، طريقة	<suffix> tool, method	grupo	0    	0000-00-00 00:00:00
+level	-il-	(suffix) أداة، طريقة	(suffix)  tool, method	grupo	0    	0000-00-00 00:00:00
 level	trinki	للشرب (غير الكحول)	to drink (non-alkohol)	grupo	0    	0000-00-00 00:00:00
-level	-et-	<suffix>صغير، قليل	<suffix> small, little	grupo	0    	0000-00-00 00:00:00
-level	-eg-	<suffix>كبيرة، كبيرة	<suffix> big, large	grupo	0    	0000-00-00 00:00:00
-level	inter ~	<preposition>بين ~	<preposition> between ~	grupo	0    	0000-00-00 00:00:00
-level	-um-	<suffix>السلوك ذو الصلة	<suffix> related behavior	grupo	0    	0000-00-00 00:00:00
-level	-ar-	<suffix>مجموعة، مجموعة	<suffix> set, group	grupo	0    	0000-00-00 00:00:00
-level	-an-	<suffix>عضو في مجموعة	<suffix> member of a group	grupo	0    	0000-00-00 00:00:00
+level	-et-	(suffix) صغير، قليل	(suffix)  small, little	grupo	0    	0000-00-00 00:00:00
+level	-eg-	(suffix) كبيرة، كبيرة	(suffix)  big, large	grupo	0    	0000-00-00 00:00:00
+level	inter ~	(preposition) بين ~	(preposition)  between ~	grupo	0    	0000-00-00 00:00:00
+level	-um-	(suffix) السلوك ذو الصلة	(suffix)  related behavior	grupo	0    	0000-00-00 00:00:00
+level	-ar-	(suffix) مجموعة، مجموعة	(suffix)  set, group	grupo	0    	0000-00-00 00:00:00
+level	-an-	(suffix) عضو في مجموعة	(suffix)  member of a group	grupo	0    	0000-00-00 00:00:00
 level	danki	لأشكر	to thank	grupo	0    	0000-00-00 00:00:00
-level	-ind-	<suffix>جدير بالاهتمام، جدير	<suffix> worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
+level	-ind-	(suffix) جدير بالاهتمام، جدير	(suffix)  worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
 level	plu	بل وأكثر، وأكثر، وهكذا، أكثر	even more, further, and so on, more	grupo	0    	0000-00-00 00:00:00
 level	kiel	كيف، مثل، بأي طريقة، مثل	how, like, in what way, such as	grupo	0    	0000-00-00 00:00:00
 level	tiel	هكذا، بهذه الطريقة، هكذا	such, in that way, thus	grupo	0    	0000-00-00 00:00:00
-level	en ~	<preposition>في ~	<preposition> in ~	grupo	0    	0000-00-00 00:00:00
-level	apud ~	<preposition>بجانب ~، بجانب ~	<preposition> next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
-level	sub ~	<preposition>تحت، تحت~	<preposition> under, beneath ~	grupo	0    	0000-00-00 00:00:00
-level	sur ~	<preposition>على ~	<preposition> on ~	grupo	0    	0000-00-00 00:00:00
-level	je ~	<preposition>الإعدادية غير المحددة، في، في، بواسطة، على	<preposition> indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
-level	ankoraŭ	<adverb>لا يزال حتى الآن	<adverb> still, yet	grupo	0    	0000-00-00 00:00:00
-level	ĉirkaŭ ~	<preposition>حول ~	<preposition> around ~	grupo	0    	0000-00-00 00:00:00
+level	en ~	(preposition) في ~	(preposition)  in ~	grupo	0    	0000-00-00 00:00:00
+level	apud ~	(preposition) بجانب ~، بجانب ~	(preposition)  next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
+level	sub ~	(preposition) تحت، تحت~	(preposition)  under, beneath ~	grupo	0    	0000-00-00 00:00:00
+level	sur ~	(preposition) على ~	(preposition)  on ~	grupo	0    	0000-00-00 00:00:00
+level	je ~	(preposition) الإعدادية غير المحددة، في، في، بواسطة، على	(preposition)  indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ	(adverb) لا يزال حتى الآن	(adverb)  still, yet	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ ~	(preposition) حول ~	(preposition)  around ~	grupo	0    	0000-00-00 00:00:00
 level	sed	لكن	but	grupo	0    	0000-00-00 00:00:00
 level	ie	مكان ما	somewhere	grupo	0    	0000-00-00 00:00:00
 level	kie	أين وفي أي مكان	where, at what place	grupo	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ level	tie	هناك، هناك، هناك	there, over there, yonder	grupo	0    	0
 level	ĉi	هذا ~	this ~	grupo	0    	0000-00-00 00:00:00
 level	kanti	ليغني	to sing	grupo	0    	0000-00-00 00:00:00
 level	morti	للموت، للرحيل	to die, to pass away	grupo	0    	0000-00-00 00:00:00
-level	dum ~	<preposition>أثناء ~، بينما ~	<preposition> during ~, while ~	grupo	0    	0000-00-00 00:00:00
+level	dum ~	(preposition) أثناء ~، بينما ~	(preposition)  during ~, while ~	grupo	0    	0000-00-00 00:00:00
 level	nacio	أمة	a nation	grupo	0    	0000-00-00 00:00:00
 level	koni	أن تعرف (شخصًا) ، أن تتعرف عليه	to know (a person), to be aquainted with	grupo	0    	0000-00-00 00:00:00
 level	scii	أن تعرف (حقيقة، معرفة)، أن تعرف كيف	to know (a fact, knowledge), to know how	grupo	0    	0000-00-00 00:00:00
 level	ĉiam	دائما وابدا	always, ever	grupo	0    	0000-00-00 00:00:00
 level	iam	في وقت ما، مرة واحدة	at some time, once	grupo	0    	0000-00-00 00:00:00
 level	tiam	ثم	then	grupo	0    	0000-00-00 00:00:00
-level	-em-	<suffix>الميل	<suffix> tendancy	grupo	0    	0000-00-00 00:00:00
+level	-em-	(suffix) الميل	(suffix)  tendancy	grupo	0    	0000-00-00 00:00:00
 level	ia	نوعا ما	some kind of	grupo	0    	0000-00-00 00:00:00
 level	sukcesi	كي تنجح	to succeed	grupo	0    	0000-00-00 00:00:00
 level	ĉia	من كل نوع، من كل نوع	of all kind, every kind of	grupo	0    	0000-00-00 00:00:00
 level	nenia	لا، ليس أي نوع من، وليس أي	no, not any kind of, not any	grupo	0    	0000-00-00 00:00:00
-level	-id-	<suffix>النسل	<suffix> offspring	grupo	0    	0000-00-00 00:00:00
+level	-id-	(suffix) النسل	(suffix)  offspring	grupo	0    	0000-00-00 00:00:00
 level	ĉambro	غرفة، غرفة	a room, a chamber	grupo	0    	0000-00-00 00:00:00
 level	patro	أب	a father	grupo	0    	0000-00-00 00:00:00
 level	porko	خنزير، خنزير	a pig, swine	grupo	0    	0000-00-00 00:00:00
-level	bo-	<prefix>-صهر، بالزواج	<prefix> -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
+level	bo-	(prefix) -صهر، بالزواج	(prefix)  -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
 level	ja	بالفعل	indeed	grupo	0    	0000-00-00 00:00:00
-level	-ism-	<suffix>-ism	<suffix> -ism	grupo	0    	0000-00-00 00:00:00
+level	-ism-	(suffix) -ism	(suffix)  -ism	grupo	0    	0000-00-00 00:00:00
 level	io	شئ ما	something	grupo	0    	0000-00-00 00:00:00
 level	veturi	يقود (مركبة)	to drive (a vehicle)	grupo	0    	0000-00-00 00:00:00
 level	koko	ديك، دجاجة، دجاج، طير	a cock, a hen, chicken, fowl	grupo	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ level	merkredo	الأربعاء	Wednesday	grupo	0    	0000-00-00 00:00:00
 level	vendredo	جمعة	Friday	grupo	0    	0000-00-00 00:00:00
 level	fiŝkaptado	صيد الأسماك، صيد الأسماك	fish-catching, catching fishes	grupo	0    	0000-00-00 00:00:00
 level	ilustri	لتوضيح	to illustrate	grupo	0    	0000-00-00 00:00:00
-level	des	<adverb>كثيرا (أكثر، أقل)	<adverb> so much (more, less)	grupo	0    	0000-00-00 00:00:00
+level	des	(adverb) كثيرا (أكثر، أقل)	(adverb)  so much (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sabato	السبت	Saturday	grupo	0    	0000-00-00 00:00:00
 level	ĵaŭdo	يوم الخميس	Thursday	grupo	0    	0000-00-00 00:00:00
 level	mardo	يوم الثلاثاء	Tuesday	grupo	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ level	ŝtupo	خطوة، درج، درجة	a step, a stair, a rung	grupo	0    	00
 level	bordo	الشاطئ، الواجهة البحرية، البنك	a shore, a waterfront, a bank	grupo	0    	0000-00-00 00:00:00
 level	justa	عادل، عادل، صالح	fair, just, righteous	grupo	0    	0000-00-00 00:00:00
 level	lumo	مشتعل	a light	grupo	0    	0000-00-00 00:00:00
-level	malgraŭ ~	<preposition>رغم ~، رغم ~	<preposition> despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
+level	malgraŭ ~	(preposition) رغم ~، رغم ~	(preposition)  despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
 level	drinkado	عمل الشرب	drinking action	grupo	0    	0000-00-00 00:00:00
 level	aŭtomobilo	سيارة، سيارة، سيارة (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	0    	0000-00-00 00:00:00
 level	bonvoli	يريد (من القلب)، يريد (من القلب)	to will (from heart), to want (from heart)	grupo	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ level	nordo	شمال	north	grupo	0    	0000-00-00 00:00:00
 level	kolekto	مجموعة	collection	grupo	0    	0000-00-00 00:00:00
 level	supro	قمة، قمة	a top, a summit	grupo	0    	0000-00-00 00:00:00
 level	oriento	شرق	east	grupo	0    	0000-00-00 00:00:00
-level	ju	<adverb>(أكثر، أقل)	<adverb> the (more, less)	grupo	0    	0000-00-00 00:00:00
+level	ju	(adverb) (أكثر، أقل)	(adverb)  the (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sudo	جنوب	south	grupo	0    	0000-00-00 00:00:00
 level	okcidento	الغرب	west	grupo	0    	0000-00-00 00:00:00
 level	juĝi	أن يحكم على	to judge	grupo	0    	0000-00-00 00:00:00
@@ -782,9 +782,9 @@ level	malalta	قليل	low	grupo	0    	0000-00-00 00:00:00
 level	viando	لحم، لحم	meat, a meat	grupo	0    	0000-00-00 00:00:00
 level	respekti	لتحترم	to respect	grupo	0    	0000-00-00 00:00:00
 level	forno	فرن، موقد، فرن	a furnace, a stove, an oven	grupo	0    	0000-00-00 00:00:00
-level	-er-	<suffix>عنصر، جسيم صغير من الكل	<suffix> element, small particle of whole	grupo	0    	0000-00-00 00:00:00
+level	-er-	(suffix) عنصر، جسيم صغير من الكل	(suffix)  element, small particle of whole	grupo	0    	0000-00-00 00:00:00
 level	malkovri	لاكتشاف، وكشف، وكشف النقاب	to discover, to uncover, to unveil	grupo	0    	0000-00-00 00:00:00
-level	-aĉ-	<suffix>سيئة ومثير للاشمئزاز	<suffix> bad, disgusting	grupo	0    	0000-00-00 00:00:00
+level	-aĉ-	(suffix) سيئة ومثير للاشمئزاز	(suffix)  bad, disgusting	grupo	0    	0000-00-00 00:00:00
 level	branĉo	فرع، غصن	a branch, a bough	grupo	0    	0000-00-00 00:00:00
 level	malhela	مظلمة، كئيبة، قاتمة	dark, dismal, bleak	grupo	0    	0000-00-00 00:00:00
 level	mensogi	أن يكذب، أن يكذب	to lie, to tell a lie	grupo	0    	0000-00-00 00:00:00
@@ -1076,7 +1076,7 @@ level	imagi	للتخيل	to imagine	grupo	0    	0000-00-00 00:00:00
 level	fidela	المؤمنين وجدير بالثقة	faithful, trustworthy	grupo	0    	0000-00-00 00:00:00
 level	partopreni	للمشاركة، للمشاركة	to participate, to take part	grupo	0    	0000-00-00 00:00:00
 level	kastelo	قلعة، قلعة	a castle, a citadel	grupo	0    	0000-00-00 00:00:00
-level	-op-	<suffix>مجموعة بالأرقام	<suffix> a group in numbers	grupo	0    	0000-00-00 00:00:00
+level	-op-	(suffix) مجموعة بالأرقام	(suffix)  a group in numbers	grupo	0    	0000-00-00 00:00:00
 level	ĉeesti	للحضور، للحضور في	to attend, to be present at	grupo	0    	0000-00-00 00:00:00
 level	televido	تلفزيون، تلفزيون	TV, television	grupo	0    	0000-00-00 00:00:00
 level	studento	طالب (جامعة)	a student (university)	grupo	0    	0000-00-00 00:00:00
@@ -1328,7 +1328,7 @@ level	lastjare	العام الماضي	last year	grupo	0    	0000-00-00 00:00:00
 level	vojmontrilo	معلما، علامة	a landmark, a signpost	grupo	0    	0000-00-00 00:00:00
 level	kelo	قبو، قبو	a cellar, a basement	grupo	0    	0000-00-00 00:00:00
 level	firma	ثابت ومستقر	firm, stable	grupo	0    	0000-00-00 00:00:00
-level	eks-	<prefix>السابقين، السابقين	<prefix> ex-, former	grupo	0    	0000-00-00 00:00:00
+level	eks-	(prefix) السابقين، السابقين	(prefix)  ex-, former	grupo	0    	0000-00-00 00:00:00
 level	kilogramo	كيلوغرام	a kilogram	grupo	0    	0000-00-00 00:00:00
 level	frago	فراولة	a strawberry	grupo	0    	0000-00-00 00:00:00
 level	pato	مقلاة	a frying pan	grupo	0    	0000-00-00 00:00:00
@@ -1340,7 +1340,7 @@ level	matura	ناضجة، ناضجة	mature, ripe	grupo	0    	0000-00-00 00:00:0
 level	kulerego	دلو، ملعقة كبيرة	bucket, a large spoon	grupo	0    	0000-00-00 00:00:00
 level	konduti	أن يتصرف، أن يتصرف	to conduct oneself, to behave	grupo	0    	0000-00-00 00:00:00
 level	vere	حقا، حقا، حقا	really, genuinly, truly	grupo	0    	0000-00-00 00:00:00
-level	mis-	<prefix>سوء	<prefix> mis-	grupo	0    	0000-00-00 00:00:00
+level	mis-	(prefix) سوء	(prefix)  mis-	grupo	0    	0000-00-00 00:00:00
 level	kvieta	الهدوء الهدوء	quiet, calm	grupo	0    	0000-00-00 00:00:00
 level	funkcii	للعمل، للعمل، للعمل	to function, to operate, to work	grupo	0    	0000-00-00 00:00:00
 level	konvena	مناسب، مناسب	appropriate, suitable	grupo	0    	0000-00-00 00:00:00
@@ -1355,14 +1355,14 @@ level	mieno	تعبير (الوجه).	a (facial) expression	grupo	0    	0000-00-0
 level	pensio	المعاش، المعاش	pension, annuity	grupo	0    	0000-00-00 00:00:00
 level	princo	امير	a prince	grupo	0    	0000-00-00 00:00:00
 level	sorto	القدر، القدر، الثروة	destiny, fate, fortune	grupo	0    	0000-00-00 00:00:00
-level	-end-	<suffix>فرض	<suffix> obligation	grupo	0    	0000-00-00 00:00:00
+level	-end-	(suffix) فرض	(suffix)  obligation	grupo	0    	0000-00-00 00:00:00
 level	longaj ŝtrumpoj	جوارب طويلة	long stockings	grupo	0    	0000-00-00 00:00:00
 level	barbo	لحية	beard	grupo	0    	0000-00-00 00:00:00
-level	-ing-	<suffix>حامل طويل، مقبس	<suffix> long holder, socket	grupo	0    	0000-00-00 00:00:00
+level	-ing-	(suffix) حامل طويل، مقبس	(suffix)  long holder, socket	grupo	0    	0000-00-00 00:00:00
 level	bongusta	لذيذ، حسن الذوق	delicious, good-tasted	grupo	0    	0000-00-00 00:00:00
 level	flegi	لرعاية، لتمريض	to take care of, to nurse	grupo	0    	0000-00-00 00:00:00
-level	-njo	<suffix>اسم حيوان أليف أنثى	<suffix> female pet name	grupo	0    	0000-00-00 00:00:00
-level	-ĉjo	<suffix>اسم حيوان أليف ذكر	<suffix> male pet name	grupo	0    	0000-00-00 00:00:00
+level	-njo	(suffix) اسم حيوان أليف أنثى	(suffix)  female pet name	grupo	0    	0000-00-00 00:00:00
+level	-ĉjo	(suffix) اسم حيوان أليف ذكر	(suffix)  male pet name	grupo	0    	0000-00-00 00:00:00
 level	plugi	يحرث، يحرث، يحرث	to plow, to plough, to till	grupo	0    	0000-00-00 00:00:00
 level	amletero	رسالة حب	a loveletter	grupo	0    	0000-00-00 00:00:00
 level	glaso da	كأس من	a glass of	grupo	0    	0000-00-00 00:00:00
@@ -1632,7 +1632,7 @@ level	kvanto	كمية كمية	quantity, amount	grupo	0    	0000-00-00 00:00:00
 level	batilo	مضرب (لضرب)	a bat (to hit)	grupo	0    	0000-00-00 00:00:00
 level	kvalito	الجودة والممتلكات	quality, property	grupo	0    	0000-00-00 00:00:00
 level	laŭte	بصوت عال، بصوت عال	loudly, aloud	grupo	0    	0000-00-00 00:00:00
-level	-ut-	<suffix>السلبي المشروط	<suffix> conditional passive	grupo	0    	0000-00-00 00:00:00
+level	-ut-	(suffix) السلبي المشروط	(suffix)  conditional passive	grupo	0    	0000-00-00 00:00:00
 level	kristnasko	عيد الميلاد	Christmas	grupo	0    	0000-00-00 00:00:00
 level	vivo	حياة	a life	grupo	0    	0000-00-00 00:00:00
 level	freneza	مجنون، مجنون، مجنون	crazy, insane, mad	grupo	0    	0000-00-00 00:00:00
@@ -2391,7 +2391,7 @@ level	heredi	ليرث	to inherit	grupo	0    	0000-00-00 00:00:00
 level	flugbileto	تذكرة طيران	an air ticket	grupo	0    	0000-00-00 00:00:00
 level	robo	فستان	a dress	grupo	0    	0000-00-00 00:00:00
 level	egipto	شخص مصري	an Egyptian person	grupo	0    	0000-00-00 00:00:00
-level	-unt	<suffix>نشط مشروط	<suffix> conditional active	grupo	0    	0000-00-00 00:00:00
+level	-unt	(suffix) نشط مشروط	(suffix)  conditional active	grupo	0    	0000-00-00 00:00:00
 level	frenezulo	متعصب، مجنون، مهووس	a fanatic, a lunatic, a maniac	grupo	0    	0000-00-00 00:00:00
 level	ekde	منذ	since	grupo	0    	0000-00-00 00:00:00
 level	observi	لمراقبة	to observe	grupo	0    	0000-00-00 00:00:00
@@ -2550,7 +2550,7 @@ level	irako	العراق	Iraq	grupo	0    	0000-00-00 00:00:00
 level	resumo	ملخص، ملخص، سيرة ذاتية، تلخيص	a summary, a digest, a résumé, a sum-up	grupo	0    	0000-00-00 00:00:00
 level	promeno	نزهة، المشي	a promenade, a walking	grupo	0    	0000-00-00 00:00:00
 level	horizontalo	خط أفقي	a horizontal line	grupo	0    	0000-00-00 00:00:00
-level	fi-	<prefix>مخزي ومثير للاشمئزاز وقذر	<prefix> shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
+level	fi-	(prefix) مخزي ومثير للاشمئزاز وقذر	(prefix)  shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
 level	aŭkcio	مزاد	an auction	grupo	0    	0000-00-00 00:00:00
 level	konkludi	ليستنتج	to conclude	grupo	0    	0000-00-00 00:00:00
 level	salivo	اللعاب، الرقيق	saliva, slaver	grupo	0    	0000-00-00 00:00:00
@@ -5882,7 +5882,7 @@ level	Antono	أنتوني	Anthony	grupo	0    	0000-00-00 00:00:00
 level	Anno	آنا	Anna	grupo	0    	0000-00-00 00:00:00
 level	Berto	بيرت	Bert	grupo	0    	0000-00-00 00:00:00
 level	apelacio	استئناف، متهم	an appeal, an accuser	grupo	0    	0000-00-00 00:00:00
-level	antimono	<chem>الأنتيمون	<chem> antimony	grupo	0    	0000-00-00 00:00:00
+level	antimono	(chem) الأنتيمون	(chem)  antimony	grupo	0    	0000-00-00 00:00:00
 level	apokrifo	ابوكريفا	apocrypha	grupo	0    	0000-00-00 00:00:00
 level	apoteozo	تأليه	apotheosis	grupo	0    	0000-00-00 00:00:00
 level	ardezo	لائحة	slate	grupo	0    	0000-00-00 00:00:00
@@ -5902,7 +5902,7 @@ level	ĉano	الديك (بندقية)، مطرقة (بندقية)	a cock (of a g
 level	afekcii	ليؤثر	to affect	grupo	0    	0000-00-00 00:00:00
 level	hardi	لتشديد	to toughen	grupo	0    	0000-00-00 00:00:00
 level	areno	ساحة	an arena	grupo	0    	0000-00-00 00:00:00
-level	arseniko	<chem>الزرنيخ	<chem> arsenic	grupo	0    	0000-00-00 00:00:00
+level	arseniko	(chem) الزرنيخ	(chem)  arsenic	grupo	0    	0000-00-00 00:00:00
 level	borakso	البوراكس	borax	grupo	0    	0000-00-00 00:00:00
 level	aspiro	طموح	aspiration	grupo	0    	0000-00-00 00:00:00
 level	atribuo	الإسناد، التخصيص	attribution, allocation	grupo	0    	0000-00-00 00:00:00

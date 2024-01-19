@@ -1,20 +1,20 @@
 A.th content.tsv
 Level	Esperanto	th	en-us	Grupo	Alternativoj	Pronoco
 level	mi, vi	ฉันคุณ	I, you	grupo	alternativoj	prononco
-level	estas, estis	(ปัจจุบัน) คือ เป็น เป็น (อดีต) เป็น เป็น	(present) is, am, are (past) was, were	grupo	alternativoj	prononco
-level	mi estas ~	ฉัน~	I am ~	grupo	alternativoj	prononco
+level	estas, estis	(ปัจจุบัน) เป็น อยู่ คือ เท่ากับ, (อดีต) เป็น อยู่ คือ เท่ากับ	(present) is, am, are (past) was, were	grupo	alternativoj	prononco
+level	mi estas ~	ฉันคือ~	I am ~	grupo	alternativoj	prononco
 level	vi estas ~	คุณคือ ~	you are ~	grupo	alternativoj	prononco
 level	saluton	สวัสดี	hello	grupo	alternativoj	prononco
-level	saluton, mi estas ~	สวัสดี ฉันเอง~	hello, I am ~	grupo	alternativoj	prononco
-level	mia, via	ของฉันของคุณ	my, your	grupo	alternativoj	prononco
+level	saluton, mi estas ~	สวัสดี ฉันคือ~	hello, I am ~	grupo	alternativoj	prononco
+level	mia, via	ของฉัน, ของคุณ	my, your	grupo	alternativoj	prononco
 level	nomo	ชื่อ	a name	grupo	alternativoj	prononco
-level	mia nomo, via nomo	ชื่อของฉัน ชื่อของคุณ	my name, your name	grupo	alternativoj	prononco
-level	mia nomo estas ~	ฉันชื่อ ~	my name is ~	grupo	alternativoj	prononco
-level	via nomo estas ~	คุณชื่อ ~	your name is ~	grupo	alternativoj	prononco
-level	fartas, fartis	(ปัจจุบัน) ทำ (อดีต) ทำ	(present) does, (past) did	grupo	alternativoj	prononco
-level	estis, estos	(ปัจจุบัน) เคยเป็น (อนาคต) จะเป็น	(present) was, were (future) will be	grupo	alternativoj	prononco
-level	nomo, nomon	ชื่อชื่อ (วัตถุประสงค์)	a name, an (objective) name	grupo	alternativoj	prononco
-level	mia amo	ที่รัก	my love	grupo	alternativoj	prononco
+level	mia nomo, via nomo	ชื่อของฉัน, ชื่อของคุณ	my name, your name	grupo	alternativoj	prononco
+level	mia nomo estas ~	ชื่อของฉันคือ~	my name is ~	grupo	alternativoj	prononco
+level	via nomo estas ~	ชื่อของคุณคือ	your name is ~	grupo	alternativoj	prononco
+level	fartas, fartis	(ปัจจุบัน) มีสุขภาพ, (อดีต) มีสุขภาพ	(present) does, (past) did	grupo	alternativoj	prononco
+level	estis, estos	(ปัจจุบัน) เคยเป็น, (อนาคต) จะเป็น	(present) was, were (future) will be	grupo	alternativoj	prononco
+level	nomo, nomon	ชื่อ, ชื่อ (กรรม)	a name, an (objective) name	grupo	alternativoj	prononco
+level	mia amo	ความรักของฉัน	my love	grupo	alternativoj	prononco
 level	vi fartas	คุณกำลังทำ ~	you are doing ~	grupo	alternativoj	prononco
 level	kiel	ยังไง	how	grupo	alternativoj	prononco
 level	kiel vi fartas?	เป็นอย่างไรบ้าง	how are you doing?	grupo	alternativoj	prononco

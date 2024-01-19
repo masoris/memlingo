@@ -13,23 +13,23 @@ level	mem	kendi kendine	by oneself	grupo	0    	0000-00-00 00:00:00
 level	ĝis ~	~'a kadar, ~'a kadar	upto ~, until ~	grupo	0    	0000-00-00 00:00:00
 level	de ~	~	of ~	grupo	0    	0000-00-00 00:00:00
 level	da ~	(çok) ~, (birçok) ~	(much) of ~, (many) of ~	grupo	0    	0000-00-00 00:00:00
-level	-aĵo	<suffix>şey, somut tezahür	<suffix> thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
+level	-aĵo	(suffix) şey, somut tezahür	(suffix)  thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
 level	proksima	yakın, yakın, yakında, yakında	near, close to, soon, nearby	grupo	0    	0000-00-00 00:00:00
-level	-adi	<suffix>Tekrarlanan eylem, kalıcı eylem	<suffix> repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
-level	-as	<suffix>şimdiki zaman	<suffix> present tense	grupo	0    	0000-00-00 00:00:00
-level	-is	<suffix>geçmiş zaman	<suffix> past tense	grupo	0    	0000-00-00 00:00:00
+level	-adi	(suffix) Tekrarlanan eylem, kalıcı eylem	(suffix)  repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
+level	-as	(suffix) şimdiki zaman	(suffix)  present tense	grupo	0    	0000-00-00 00:00:00
+level	-is	(suffix) geçmiş zaman	(suffix)  past tense	grupo	0    	0000-00-00 00:00:00
 level	esti	olmak	to be	grupo	0    	0000-00-00 00:00:00
-level	-os	<suffix>gelecek zaman	<suffix> future tense	grupo	0    	0000-00-00 00:00:00
-level	antaŭ ~	<preposition>~'den önce, ~'den önce	<preposition> before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
+level	-os	(suffix) gelecek zaman	(suffix)  future tense	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ~	(preposition) ~'den önce, ~'den önce	(preposition)  before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
 level	fari	yapmak, yapmak	to make, to do	grupo	0    	0000-00-00 00:00:00
-level	ankaŭ ~	<preposition>ayrıca da	<preposition> also, too	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ~	(preposition) ayrıca da	(preposition)  also, too	grupo	0    	0000-00-00 00:00:00
 level	post ~	~'dan sonra	after ~	grupo	0    	0000-00-00 00:00:00
-level	mal-	<prefix>zıt	<prefix> opposite	grupo	0    	0000-00-00 00:00:00
-level	-ul-	<suffix>bazı özelliklere sahip bir kişi	<suffix> a person of some trait	grupo	0    	0000-00-00 00:00:00
-level	-in-	<suffix>dişi	<suffix> female	grupo	0    	0000-00-00 00:00:00
-level	-ant-	<suffix>aktif şimdiki zaman, ~ing, ~ing yapan biri	<suffix> active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
-level	-int-	<suffix>aktif geçmiş, ~ing	<suffix> active past, was ~ing	grupo	0    	0000-00-00 00:00:00
-level	-ont-	<suffix>aktif gelecek, olacak	<suffix> active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
+level	mal-	(prefix) zıt	(prefix)  opposite	grupo	0    	0000-00-00 00:00:00
+level	-ul-	(suffix) bazı özelliklere sahip bir kişi	(suffix)  a person of some trait	grupo	0    	0000-00-00 00:00:00
+level	-in-	(suffix) dişi	(suffix)  female	grupo	0    	0000-00-00 00:00:00
+level	-ant-	(suffix) aktif şimdiki zaman, ~ing, ~ing yapan biri	(suffix)  active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
+level	-int-	(suffix) aktif geçmiş, ~ing	(suffix)  active past, was ~ing	grupo	0    	0000-00-00 00:00:00
+level	-ont-	(suffix) aktif gelecek, olacak	(suffix)  active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
 level	kaj (k.)	Ve	and	grupo	0    	0000-00-00 00:00:00
 level	aŭ	veya	or	grupo	0    	0000-00-00 00:00:00
 level	alta	yüksek, uzun	high, tall	grupo	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ level	kiom	ne kadar, kaç	how much, how many	grupo	0    	0000-00-00 00:00:00
 level	ofte	sık sık	often, frequently	grupo	0    	0000-00-00 00:00:00
 level	iom	biraz, biraz, biraz, biraz	a little, rather, some, somewhat	grupo	0    	0000-00-00 00:00:00
 level	nova	yeni, roman	new, novel	grupo	0    	0000-00-00 00:00:00
-level	-at-	<suffix>pasif şimdiki zaman katılımcısı	<suffix> passive present participle	grupo	0    	0000-00-00 00:00:00
-level	-it-	<suffix>pasif geçmiş katılımcı	<suffix> passive past participle	grupo	0    	0000-00-00 00:00:00
-level	-ot-	<suffix>pasif gelecek katılımcı	<suffix> passive future participle	grupo	0    	0000-00-00 00:00:00
+level	-at-	(suffix) pasif şimdiki zaman katılımcısı	(suffix)  passive present participle	grupo	0    	0000-00-00 00:00:00
+level	-it-	(suffix) pasif geçmiş katılımcı	(suffix)  passive past participle	grupo	0    	0000-00-00 00:00:00
+level	-ot-	(suffix) pasif gelecek katılımcı	(suffix)  passive future participle	grupo	0    	0000-00-00 00:00:00
 level	tre	çok, oldukça, çok	very, quite, very much	grupo	0    	0000-00-00 00:00:00
 level	tro	çok, aşırı derecede, çok fazla	too, excessively, too much	grupo	0    	0000-00-00 00:00:00
 level	tamen	bununla birlikte, yine de, ama yine de	however, nonetheless, but, nevertheless	grupo	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ level	ho!	Ah! Ho!	Oh! Ho!	grupo	0    	0000-00-00 00:00:00
 level	ke ~	bu ~	that ~	grupo	0    	0000-00-00 00:00:00
 level	ĉar ~	çünkü ~	because ~	grupo	0    	0000-00-00 00:00:00
 level	ĉu	~ olup olmadığı	whether ~	grupo	0    	0000-00-00 00:00:00
-level	-ej-	<suffix>yer	<suffix> place	grupo	0    	0000-00-00 00:00:00
-level	-ec-	<suffix>kalitenin soyut adı	<suffix> abstract name of quality	grupo	0    	0000-00-00 00:00:00
+level	-ej-	(suffix) yer	(suffix)  place	grupo	0    	0000-00-00 00:00:00
+level	-ec-	(suffix) kalitenin soyut adı	(suffix)  abstract name of quality	grupo	0    	0000-00-00 00:00:00
 level	ambaŭ ~	her ikisi de ~	both ~	grupo	0    	0000-00-00 00:00:00
 level	tuj	hemen, anında, hemen	immediately, instantly, right away	grupo	0    	0000-00-00 00:00:00
 level	kvazaŭ ~	sanki ~	as if ~	grupo	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ level	neniam	asla, hiçbir zaman, hiçbir zaman	never, at no time, not ever	grup
 level	tial	bu nedenle, yani	therefore, so	grupo	0    	0000-00-00 00:00:00
 level	kial	neden, ne için	why, what for	grupo	0    	0000-00-00 00:00:00
 level	kvankam	buna rağmen ~, oysa, yine de	although ~, while, though	grupo	0    	0000-00-00 00:00:00
-level	ĉe ~	<preposition>~'da	<preposition> at ~	grupo	0    	0000-00-00 00:00:00
+level	ĉe ~	(preposition) ~'da	(preposition)  at ~	grupo	0    	0000-00-00 00:00:00
 level	pli	Daha	more	grupo	0    	0000-00-00 00:00:00
 level	plej	en	most	grupo	0    	0000-00-00 00:00:00
 level	diri	söylemek, söylemek	to say, to tell	grupo	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ level	tia	böyle, böyle, böyle bir	such, that kind of, such a	grupo	0    	0000
 level	apenaŭ	zar zor, zar zor, neredeyse hiç	barely, hardly, scarecely	grupo	0    	0000-00-00 00:00:00
 level	sendi	göndermek	to send	grupo	0    	0000-00-00 00:00:00
 level	ĵus	sadece (bir dakika önce), şimdi	just (a moment ago), just now	grupo	0    	0000-00-00 00:00:00
-level	-u	<suffix>zorunlu	<suffix> imperative	grupo	0    	0000-00-00 00:00:00
+level	-u	(suffix) zorunlu	(suffix)  imperative	grupo	0    	0000-00-00 00:00:00
 level	ekster ~	dışarıda ~	outside ~	grupo	0    	0000-00-00 00:00:00
-level	ge-	<prefix>her iki cinsiyet, her iki cinsiyet	<prefix> both sex, both gender	grupo	0    	0000-00-00 00:00:00
-level	-us	<suffix>olurdu, gerekir, dilek kipi	<suffix> would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
+level	ge-	(prefix) her iki cinsiyet, her iki cinsiyet	(prefix)  both sex, both gender	grupo	0    	0000-00-00 00:00:00
+level	-us	(suffix) olurdu, gerekir, dilek kipi	(suffix)  would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
 level	baldaŭ	yakında	soon	grupo	0    	0000-00-00 00:00:00
 level	almenaŭ	en azından başka bir şey yoksa	at least, if nothing else	grupo	0    	0000-00-00 00:00:00
 level	dis-	dis-	dis-	grupo	0    	0000-00-00 00:00:00
-level	-uj-	<suffix>konteyner; ülke	<suffix> container; country	grupo	0    	0000-00-00 00:00:00
+level	-uj-	(suffix) konteyner; ülke	(suffix)  container; country	grupo	0    	0000-00-00 00:00:00
 level	lerni	öğrenmek	to learn	grupo	0    	0000-00-00 00:00:00
-level	ek-	<prefix>başlangıç; ani başlangıç	<prefix> beginning; sudden start	grupo	0    	0000-00-00 00:00:00
+level	ek-	(prefix) başlangıç; ani başlangıç	(prefix)  beginning; sudden start	grupo	0    	0000-00-00 00:00:00
 level	se	eğer, şu şartla	if, provided that	grupo	0    	0000-00-00 00:00:00
 level	eĉ	eşit	even	grupo	0    	0000-00-00 00:00:00
 level	amo	bir aşk	a love	grupo	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ level	fini	bitirmek, bitirmek, sona erdirmek	to end, to finish, to terminate	gru
 level	do	öyleyse, öyleyse, bu yüzden	so, then, therefore	grupo	0    	0000-00-00 00:00:00
 level	ajn	~hiç, (ne)hiç, ne olursa olsun, -her ne olursa olsun	~ever, (what)ever, at all, -soever	grupo	0    	0000-00-00 00:00:00
 level	facila	kolay, kolay	easy, facile	grupo	0    	0000-00-00 00:00:00
-level	re-	<prefix>tekrar-	<prefix> re-	grupo	0    	0000-00-00 00:00:00
+level	re-	(prefix) tekrar-	(prefix)  re-	grupo	0    	0000-00-00 00:00:00
 level	granda	büyük, harika, büyük	big, great, large	grupo	0    	0000-00-00 00:00:00
-level	-ist-	<suffix>profesyonel	<suffix> professional	grupo	0    	0000-00-00 00:00:00
-level	pro ~	<preposition>~ nedeniyle, ~ nedeniyle	<preposition> because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
-level	-estr-	<suffix>lider, patron, baş, şef	<suffix> leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
+level	-ist-	(suffix) profesyonel	(suffix)  professional	grupo	0    	0000-00-00 00:00:00
+level	pro ~	(preposition) ~ nedeniyle, ~ nedeniyle	(preposition)  because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
+level	-estr-	(suffix) lider, patron, baş, şef	(suffix)  leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
 level	kio	Ne	what	grupo	0    	0000-00-00 00:00:00
 level	manĝi	yemek için	to eat	grupo	0    	0000-00-00 00:00:00
 level	nenio	hiçbir şey, hiçbiri, hiçbir şey	nothing, none, not any thing	grupo	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ level	ĉio	her şey	everything	grupo	0    	0000-00-00 00:00:00
 level	riĉa	zengin, varlıklı, hali vakti yerinde	rich, wealthy, well-off	grupo	0    	0000-00-00 00:00:00
 level	tio	o şey, o	that thing, that	grupo	0    	0000-00-00 00:00:00
 level	konstrui	inşa etmek, inşa etmek	to build, to construct	grupo	0    	0000-00-00 00:00:00
-level	ĉef-	<prefix>baş, lider, ana	<prefix> chief, leading, main	grupo	0    	0000-00-00 00:00:00
-level	sen ~	<preposition>~ olmadan	<preposition> without ~	grupo	0    	0000-00-00 00:00:00
-level	kun ~	<preposition>~ ile (birlikte)	<preposition> with ~ (together)	grupo	0    	0000-00-00 00:00:00
-level	krom ~	<preposition>~ dışında, ~ dışında	<preposition> except ~, besides ~	grupo	0    	0000-00-00 00:00:00
+level	ĉef-	(prefix) baş, lider, ana	(prefix)  chief, leading, main	grupo	0    	0000-00-00 00:00:00
+level	sen ~	(preposition) ~ olmadan	(preposition)  without ~	grupo	0    	0000-00-00 00:00:00
+level	kun ~	(preposition) ~ ile (birlikte)	(preposition)  with ~ (together)	grupo	0    	0000-00-00 00:00:00
+level	krom ~	(preposition) ~ dışında, ~ dışında	(preposition)  except ~, besides ~	grupo	0    	0000-00-00 00:00:00
 level	amiko	bir arkadaş	a friend	grupo	0    	0000-00-00 00:00:00
 level	kies	kimin, hangisinin, hangisinden	whose, which one's, of which	grupo	0    	0000-00-00 00:00:00
-level	per ~	<preposition>~ ile (bir yöntem), ~ ile (bir araç)	<preposition> by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
+level	per ~	(preposition) ~ ile (bir yöntem), ~ ile (bir araç)	(preposition)  by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
 level	kontraŭ ~	~'e karşı	against ~	grupo	0    	0000-00-00 00:00:00
 level	el ~	~'dan, ~'dan	out of ~, from ~	grupo	0    	0000-00-00 00:00:00
 level	hodiaŭ	Bugün	today	grupo	0    	0000-00-00 00:00:00
 level	hieraŭ	Dün	yesterday	grupo	0    	0000-00-00 00:00:00
 level	nur	yalnızca, yalnızca, yalnızca	only, just, exclusively	grupo	0    	0000-00-00 00:00:00
 level	helpi	yardım etmek, yardım etmek, yardımcı olmak	to help, to aid, to assist	grupo	0    	0000-00-00 00:00:00
-level	for	<adverb>uzak	<adverb> far, away	grupo	0    	0000-00-00 00:00:00
+level	for	(adverb) uzak	(adverb)  far, away	grupo	0    	0000-00-00 00:00:00
 level	nek	ne de ne de	nor, neither	grupo	0    	0000-00-00 00:00:00
 level	malamo	bir nefret	a hate	grupo	0    	0000-00-00 00:00:00
 level	preskaŭ	neredeyse yakın	almost, nearly	grupo	0    	0000-00-00 00:00:00
@@ -137,7 +137,7 @@ level	tiu	o kişi, o ~, o, şuradaki	that person, that ~, that one, yonder	grupo
 level	iu	birisi, birisi, bazıları	someone, somebody, some	grupo	0    	0000-00-00 00:00:00
 level	neniu	hiç kimse, hiç kimse, ne de	nobody, no one, neither	grupo	0    	0000-00-00 00:00:00
 level	al ~	~'e	to ~	grupo	0    	0000-00-00 00:00:00
-level	-ebl-	<suffix>~mümkün	<suffix> ~able	grupo	0    	0000-00-00 00:00:00
+level	-ebl-	(suffix) ~mümkün	(suffix)  ~able	grupo	0    	0000-00-00 00:00:00
 level	esperi	Umut etmek	to hope	grupo	0    	0000-00-00 00:00:00
 level	unu	bir	one	grupo	0    	0000-00-00 00:00:00
 level	du	iki	two	grupo	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ level	naŭ	dokuz	nine	grupo	0    	0000-00-00 00:00:00
 level	dek	on	ten	grupo	0    	0000-00-00 00:00:00
 level	cent	yüz	a hundred	grupo	0    	0000-00-00 00:00:00
 level	mil	bin	a thousand	grupo	0    	0000-00-00 00:00:00
-level	-obl-	<suffix>çokluk için, -oble, -fold	<suffix> for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
-level	-on-	<suffix>~th, kesir	<suffix> ~th, fraction	grupo	0    	0000-00-00 00:00:00
+level	-obl-	(suffix) çokluk için, -oble, -fold	(suffix)  for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
+level	-on-	(suffix) ~th, kesir	(suffix)  ~th, fraction	grupo	0    	0000-00-00 00:00:00
 level	ama	aşk	of love	grupo	0    	0000-00-00 00:00:00
 level	anstataŭ ~	~ yerine	instead of ~	grupo	0    	0000-00-00 00:00:00
-level	-iĝ-	<suffix>haline gelmek	<suffix> become	grupo	0    	0000-00-00 00:00:00
+level	-iĝ-	(suffix) haline gelmek	(suffix)  become	grupo	0    	0000-00-00 00:00:00
 level	voli	istemek, istekli olmak, istekli olmak	to want, to will, to be willing to	grupo	0    	0000-00-00 00:00:00
-level	-ig-	<suffix>olmasına neden olmak	<suffix> cause to become	grupo	0    	0000-00-00 00:00:00
+level	-ig-	(suffix) olmasına neden olmak	(suffix)  cause to become	grupo	0    	0000-00-00 00:00:00
 level	sekvi	takip etmek	to follow	grupo	0    	0000-00-00 00:00:00
 level	ĝoje	memnuniyetle	gladly	grupo	0    	0000-00-00 00:00:00
 level	legi	okumak	to read	grupo	0    	0000-00-00 00:00:00
 level	silenta	sessiz	silent	grupo	0    	0000-00-00 00:00:00
 level	la	the	the	grupo	0    	0000-00-00 00:00:00
 level	ha!	Ha!	ha!	grupo	0    	0000-00-00 00:00:00
-level	-il-	<suffix>araç, yöntem	<suffix> tool, method	grupo	0    	0000-00-00 00:00:00
+level	-il-	(suffix) araç, yöntem	(suffix)  tool, method	grupo	0    	0000-00-00 00:00:00
 level	trinki	içmek (alkolsüz)	to drink (non-alkohol)	grupo	0    	0000-00-00 00:00:00
-level	-et-	<suffix>küçük, küçük	<suffix> small, little	grupo	0    	0000-00-00 00:00:00
-level	-eg-	<suffix>büyük, büyük	<suffix> big, large	grupo	0    	0000-00-00 00:00:00
-level	inter ~	<preposition>~ arası	<preposition> between ~	grupo	0    	0000-00-00 00:00:00
-level	-um-	<suffix>ilgili davranış	<suffix> related behavior	grupo	0    	0000-00-00 00:00:00
-level	-ar-	<suffix>ayarlamak, gruplamak	<suffix> set, group	grupo	0    	0000-00-00 00:00:00
-level	-an-	<suffix>bir grubun üyesi	<suffix> member of a group	grupo	0    	0000-00-00 00:00:00
+level	-et-	(suffix) küçük, küçük	(suffix)  small, little	grupo	0    	0000-00-00 00:00:00
+level	-eg-	(suffix) büyük, büyük	(suffix)  big, large	grupo	0    	0000-00-00 00:00:00
+level	inter ~	(preposition) ~ arası	(preposition)  between ~	grupo	0    	0000-00-00 00:00:00
+level	-um-	(suffix) ilgili davranış	(suffix)  related behavior	grupo	0    	0000-00-00 00:00:00
+level	-ar-	(suffix) ayarlamak, gruplamak	(suffix)  set, group	grupo	0    	0000-00-00 00:00:00
+level	-an-	(suffix) bir grubun üyesi	(suffix)  member of a group	grupo	0    	0000-00-00 00:00:00
 level	danki	Teşekkür	to thank	grupo	0    	0000-00-00 00:00:00
-level	-ind-	<suffix>değerli, layık	<suffix> worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
+level	-ind-	(suffix) değerli, layık	(suffix)  worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
 level	plu	daha da fazlası, daha fazlası, vb., daha fazlası	even more, further, and so on, more	grupo	0    	0000-00-00 00:00:00
 level	kiel	nasıl, nasıl, ne şekilde, mesela	how, like, in what way, such as	grupo	0    	0000-00-00 00:00:00
 level	tiel	böyle, bu şekilde, böylece	such, in that way, thus	grupo	0    	0000-00-00 00:00:00
-level	en ~	<preposition>~ içinde	<preposition> in ~	grupo	0    	0000-00-00 00:00:00
-level	apud ~	<preposition>~'ın yanında, ~'ın yanında	<preposition> next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
-level	sub ~	<preposition>altında, altında ~	<preposition> under, beneath ~	grupo	0    	0000-00-00 00:00:00
-level	sur ~	<preposition>~ üzerinde	<preposition> on ~	grupo	0    	0000-00-00 00:00:00
-level	je ~	<preposition>belirsiz hazırlık, içinde, tarafından, tarihinde	<preposition> indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
-level	ankoraŭ	<adverb>hala, henüz	<adverb> still, yet	grupo	0    	0000-00-00 00:00:00
-level	ĉirkaŭ ~	<preposition>civarında ~	<preposition> around ~	grupo	0    	0000-00-00 00:00:00
+level	en ~	(preposition) ~ içinde	(preposition)  in ~	grupo	0    	0000-00-00 00:00:00
+level	apud ~	(preposition) ~'ın yanında, ~'ın yanında	(preposition)  next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
+level	sub ~	(preposition) altında, altında ~	(preposition)  under, beneath ~	grupo	0    	0000-00-00 00:00:00
+level	sur ~	(preposition) ~ üzerinde	(preposition)  on ~	grupo	0    	0000-00-00 00:00:00
+level	je ~	(preposition) belirsiz hazırlık, içinde, tarafından, tarihinde	(preposition)  indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ	(adverb) hala, henüz	(adverb)  still, yet	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ ~	(preposition) civarında ~	(preposition)  around ~	grupo	0    	0000-00-00 00:00:00
 level	sed	Ancak	but	grupo	0    	0000-00-00 00:00:00
 level	ie	bir yerde	somewhere	grupo	0    	0000-00-00 00:00:00
 level	kie	nerede, hangi yerde	where, at what place	grupo	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ level	tie	orada, orada, orada	there, over there, yonder	grupo	0    	0000-00-00 0
 level	ĉi	bu ~	this ~	grupo	0    	0000-00-00 00:00:00
 level	kanti	şarkı söylemek	to sing	grupo	0    	0000-00-00 00:00:00
 level	morti	ölmek, vefat etmek	to die, to pass away	grupo	0    	0000-00-00 00:00:00
-level	dum ~	<preposition>~ sırasında, ~ sırasında	<preposition> during ~, while ~	grupo	0    	0000-00-00 00:00:00
+level	dum ~	(preposition) ~ sırasında, ~ sırasında	(preposition)  during ~, while ~	grupo	0    	0000-00-00 00:00:00
 level	nacio	bir millet	a nation	grupo	0    	0000-00-00 00:00:00
 level	koni	(bir kişiyi) tanımak, tanımak	to know (a person), to be aquainted with	grupo	0    	0000-00-00 00:00:00
 level	scii	bilmek (bir gerçek, bilgi), nasıl olduğunu bilmek	to know (a fact, knowledge), to know how	grupo	0    	0000-00-00 00:00:00
 level	ĉiam	her zaman, her zaman	always, ever	grupo	0    	0000-00-00 00:00:00
 level	iam	bir ara, bir zamanlar	at some time, once	grupo	0    	0000-00-00 00:00:00
 level	tiam	Daha sonra	then	grupo	0    	0000-00-00 00:00:00
-level	-em-	<suffix>eğilim	<suffix> tendancy	grupo	0    	0000-00-00 00:00:00
+level	-em-	(suffix) eğilim	(suffix)  tendancy	grupo	0    	0000-00-00 00:00:00
 level	ia	bir çeşit	some kind of	grupo	0    	0000-00-00 00:00:00
 level	sukcesi	başarılı olmak	to succeed	grupo	0    	0000-00-00 00:00:00
 level	ĉia	her türden, her türden	of all kind, every kind of	grupo	0    	0000-00-00 00:00:00
 level	nenia	hayır, hiçbir şekilde, hiçbir şekilde	no, not any kind of, not any	grupo	0    	0000-00-00 00:00:00
-level	-id-	<suffix>yavru	<suffix> offspring	grupo	0    	0000-00-00 00:00:00
+level	-id-	(suffix) yavru	(suffix)  offspring	grupo	0    	0000-00-00 00:00:00
 level	ĉambro	bir oda, bir oda	a room, a chamber	grupo	0    	0000-00-00 00:00:00
 level	patro	bir baba	a father	grupo	0    	0000-00-00 00:00:00
 level	porko	domuz, domuz	a pig, swine	grupo	0    	0000-00-00 00:00:00
-level	bo-	<prefix>-kayınpeder, evlilik yoluyla	<prefix> -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
+level	bo-	(prefix) -kayınpeder, evlilik yoluyla	(prefix)  -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
 level	ja	Aslında	indeed	grupo	0    	0000-00-00 00:00:00
-level	-ism-	<suffix>-izm	<suffix> -ism	grupo	0    	0000-00-00 00:00:00
+level	-ism-	(suffix) -izm	(suffix)  -ism	grupo	0    	0000-00-00 00:00:00
 level	io	bir şey	something	grupo	0    	0000-00-00 00:00:00
 level	veturi	(araç) sürmek	to drive (a vehicle)	grupo	0    	0000-00-00 00:00:00
 level	koko	horoz, tavuk, tavuk, kümes hayvanı	a cock, a hen, chicken, fowl	grupo	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ level	merkredo	Çarşamba	Wednesday	grupo	0    	0000-00-00 00:00:00
 level	vendredo	Cuma	Friday	grupo	0    	0000-00-00 00:00:00
 level	fiŝkaptado	balık tutmak, balık tutmak	fish-catching, catching fishes	grupo	0    	0000-00-00 00:00:00
 level	ilustri	göstermek	to illustrate	grupo	0    	0000-00-00 00:00:00
-level	des	<adverb>çok fazla (daha fazla, daha az)	<adverb> so much (more, less)	grupo	0    	0000-00-00 00:00:00
+level	des	(adverb) çok fazla (daha fazla, daha az)	(adverb)  so much (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sabato	Cumartesi	Saturday	grupo	0    	0000-00-00 00:00:00
 level	ĵaŭdo	Perşembe	Thursday	grupo	0    	0000-00-00 00:00:00
 level	mardo	Salı	Tuesday	grupo	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ level	ŝtupo	bir adım, bir merdiven, bir basamak	a step, a stair, a rung	grupo	
 level	bordo	bir kıyı, bir sahil, bir banka	a shore, a waterfront, a bank	grupo	0    	0000-00-00 00:00:00
 level	justa	adil, adil, haklı	fair, just, righteous	grupo	0    	0000-00-00 00:00:00
 level	lumo	bir ışık	a light	grupo	0    	0000-00-00 00:00:00
-level	malgraŭ ~	<preposition>~'e rağmen, ~'e rağmen	<preposition> despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
+level	malgraŭ ~	(preposition) ~'e rağmen, ~'e rağmen	(preposition)  despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
 level	drinkado	içme eylemi	drinking action	grupo	0    	0000-00-00 00:00:00
 level	aŭtomobilo	bir araba, bir otomobil, bir motorlu araba (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	0    	0000-00-00 00:00:00
 level	bonvoli	istemek (kalpten), istemek (gönülden)	to will (from heart), to want (from heart)	grupo	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ level	nordo	kuzey	north	grupo	0    	0000-00-00 00:00:00
 level	kolekto	Toplamak	collection	grupo	0    	0000-00-00 00:00:00
 level	supro	bir zirve, bir zirve	a top, a summit	grupo	0    	0000-00-00 00:00:00
 level	oriento	doğu	east	grupo	0    	0000-00-00 00:00:00
-level	ju	<adverb>(daha fazla, daha az)	<adverb> the (more, less)	grupo	0    	0000-00-00 00:00:00
+level	ju	(adverb) (daha fazla, daha az)	(adverb)  the (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sudo	güney	south	grupo	0    	0000-00-00 00:00:00
 level	okcidento	batı	west	grupo	0    	0000-00-00 00:00:00
 level	juĝi	yargılamak	to judge	grupo	0    	0000-00-00 00:00:00
@@ -782,9 +782,9 @@ level	malalta	Düşük	low	grupo	0    	0000-00-00 00:00:00
 level	viando	et, bir et	meat, a meat	grupo	0    	0000-00-00 00:00:00
 level	respekti	saygı duymak	to respect	grupo	0    	0000-00-00 00:00:00
 level	forno	bir fırın, bir soba, bir fırın	a furnace, a stove, an oven	grupo	0    	0000-00-00 00:00:00
-level	-er-	<suffix>element, bütünün küçük parçacığı	<suffix> element, small particle of whole	grupo	0    	0000-00-00 00:00:00
+level	-er-	(suffix) element, bütünün küçük parçacığı	(suffix)  element, small particle of whole	grupo	0    	0000-00-00 00:00:00
 level	malkovri	keşfetmek, ortaya çıkarmak, ortaya çıkarmak	to discover, to uncover, to unveil	grupo	0    	0000-00-00 00:00:00
-level	-aĉ-	<suffix>kötü, iğrenç	<suffix> bad, disgusting	grupo	0    	0000-00-00 00:00:00
+level	-aĉ-	(suffix) kötü, iğrenç	(suffix)  bad, disgusting	grupo	0    	0000-00-00 00:00:00
 level	branĉo	bir dal, bir dal	a branch, a bough	grupo	0    	0000-00-00 00:00:00
 level	malhela	karanlık, kasvetli, kasvetli	dark, dismal, bleak	grupo	0    	0000-00-00 00:00:00
 level	mensogi	yalan söylemek, yalan söylemek	to lie, to tell a lie	grupo	0    	0000-00-00 00:00:00
@@ -1076,7 +1076,7 @@ level	imagi	hayal etmek	to imagine	grupo	0    	0000-00-00 00:00:00
 level	fidela	sadık, güvenilir	faithful, trustworthy	grupo	0    	0000-00-00 00:00:00
 level	partopreni	katılmak, katılmak	to participate, to take part	grupo	0    	0000-00-00 00:00:00
 level	kastelo	bir kale, bir hisar	a castle, a citadel	grupo	0    	0000-00-00 00:00:00
-level	-op-	<suffix>sayılardan oluşan bir grup	<suffix> a group in numbers	grupo	0    	0000-00-00 00:00:00
+level	-op-	(suffix) sayılardan oluşan bir grup	(suffix)  a group in numbers	grupo	0    	0000-00-00 00:00:00
 level	ĉeesti	katılmak, orada bulunmak	to attend, to be present at	grupo	0    	0000-00-00 00:00:00
 level	televido	televizyon, televizyon	TV, television	grupo	0    	0000-00-00 00:00:00
 level	studento	öğrenci (üniversite)	a student (university)	grupo	0    	0000-00-00 00:00:00
@@ -1328,7 +1328,7 @@ level	lastjare	geçen sene	last year	grupo	0    	0000-00-00 00:00:00
 level	vojmontrilo	bir dönüm noktası, bir tabela	a landmark, a signpost	grupo	0    	0000-00-00 00:00:00
 level	kelo	kiler, bodrum	a cellar, a basement	grupo	0    	0000-00-00 00:00:00
 level	firma	sağlam, istikrarlı	firm, stable	grupo	0    	0000-00-00 00:00:00
-level	eks-	<prefix>eski, eski	<prefix> ex-, former	grupo	0    	0000-00-00 00:00:00
+level	eks-	(prefix) eski, eski	(prefix)  ex-, former	grupo	0    	0000-00-00 00:00:00
 level	kilogramo	bir kilogram	a kilogram	grupo	0    	0000-00-00 00:00:00
 level	frago	bir çilek	a strawberry	grupo	0    	0000-00-00 00:00:00
 level	pato	kızartma tavası	a frying pan	grupo	0    	0000-00-00 00:00:00
@@ -1340,7 +1340,7 @@ level	matura	olgun, olgun	mature, ripe	grupo	0    	0000-00-00 00:00:00
 level	kulerego	kova, büyük kaşık	bucket, a large spoon	grupo	0    	0000-00-00 00:00:00
 level	konduti	kendi kendine davranmak, davranmak	to conduct oneself, to behave	grupo	0    	0000-00-00 00:00:00
 level	vere	gerçekten, gerçekten, gerçekten	really, genuinly, truly	grupo	0    	0000-00-00 00:00:00
-level	mis-	<prefix>yanlış	<prefix> mis-	grupo	0    	0000-00-00 00:00:00
+level	mis-	(prefix) yanlış	(prefix)  mis-	grupo	0    	0000-00-00 00:00:00
 level	kvieta	sessiz sakin	quiet, calm	grupo	0    	0000-00-00 00:00:00
 level	funkcii	işlev görmek, faaliyet göstermek, çalışmak	to function, to operate, to work	grupo	0    	0000-00-00 00:00:00
 level	konvena	uygun, uygun	appropriate, suitable	grupo	0    	0000-00-00 00:00:00
@@ -1355,14 +1355,14 @@ level	mieno	bir (yüz) ifadesi	a (facial) expression	grupo	0    	0000-00-00 00:0
 level	pensio	emeklilik, yıllık gelir	pension, annuity	grupo	0    	0000-00-00 00:00:00
 level	princo	bir prens	a prince	grupo	0    	0000-00-00 00:00:00
 level	sorto	kader, kader, talih	destiny, fate, fortune	grupo	0    	0000-00-00 00:00:00
-level	-end-	<suffix>yükümlülük	<suffix> obligation	grupo	0    	0000-00-00 00:00:00
+level	-end-	(suffix) yükümlülük	(suffix)  obligation	grupo	0    	0000-00-00 00:00:00
 level	longaj ŝtrumpoj	uzun çoraplar	long stockings	grupo	0    	0000-00-00 00:00:00
 level	barbo	sakal	beard	grupo	0    	0000-00-00 00:00:00
-level	-ing-	<suffix>uzun tutucu, soket	<suffix> long holder, socket	grupo	0    	0000-00-00 00:00:00
+level	-ing-	(suffix) uzun tutucu, soket	(suffix)  long holder, socket	grupo	0    	0000-00-00 00:00:00
 level	bongusta	lezzetli, tadı güzel	delicious, good-tasted	grupo	0    	0000-00-00 00:00:00
 level	flegi	ilgilenmek, hemşirelik yapmak	to take care of, to nurse	grupo	0    	0000-00-00 00:00:00
-level	-njo	<suffix>dişi evcil hayvan adı	<suffix> female pet name	grupo	0    	0000-00-00 00:00:00
-level	-ĉjo	<suffix>erkek evcil hayvan adı	<suffix> male pet name	grupo	0    	0000-00-00 00:00:00
+level	-njo	(suffix) dişi evcil hayvan adı	(suffix)  female pet name	grupo	0    	0000-00-00 00:00:00
+level	-ĉjo	(suffix) erkek evcil hayvan adı	(suffix)  male pet name	grupo	0    	0000-00-00 00:00:00
 level	plugi	sürmek, sürmek, sürmek	to plow, to plough, to till	grupo	0    	0000-00-00 00:00:00
 level	amletero	bir aşk mektubu	a loveletter	grupo	0    	0000-00-00 00:00:00
 level	glaso da	bir bardak	a glass of	grupo	0    	0000-00-00 00:00:00
@@ -1632,7 +1632,7 @@ level	kvanto	miktar, miktar	quantity, amount	grupo	0    	0000-00-00 00:00:00
 level	batilo	sopa (vurmak için)	a bat (to hit)	grupo	0    	0000-00-00 00:00:00
 level	kvalito	kalite, özellik	quality, property	grupo	0    	0000-00-00 00:00:00
 level	laŭte	yüksek sesle, yüksek sesle	loudly, aloud	grupo	0    	0000-00-00 00:00:00
-level	-ut-	<suffix>koşullu pasif	<suffix> conditional passive	grupo	0    	0000-00-00 00:00:00
+level	-ut-	(suffix) koşullu pasif	(suffix)  conditional passive	grupo	0    	0000-00-00 00:00:00
 level	kristnasko	Noel	Christmas	grupo	0    	0000-00-00 00:00:00
 level	vivo	bir hayat	a life	grupo	0    	0000-00-00 00:00:00
 level	freneza	deli, deli, deli	crazy, insane, mad	grupo	0    	0000-00-00 00:00:00
@@ -2391,7 +2391,7 @@ level	heredi	miras	to inherit	grupo	0    	0000-00-00 00:00:00
 level	flugbileto	uçak bileti	an air ticket	grupo	0    	0000-00-00 00:00:00
 level	robo	bir elbise	a dress	grupo	0    	0000-00-00 00:00:00
 level	egipto	Mısırlı bir kişi	an Egyptian person	grupo	0    	0000-00-00 00:00:00
-level	-unt	<suffix>koşullu aktif	<suffix> conditional active	grupo	0    	0000-00-00 00:00:00
+level	-unt	(suffix) koşullu aktif	(suffix)  conditional active	grupo	0    	0000-00-00 00:00:00
 level	frenezulo	bir fanatik, bir deli, bir manyak	a fanatic, a lunatic, a maniac	grupo	0    	0000-00-00 00:00:00
 level	ekde	o zamandan beri	since	grupo	0    	0000-00-00 00:00:00
 level	observi	gözlemlemek	to observe	grupo	0    	0000-00-00 00:00:00
@@ -2550,7 +2550,7 @@ level	irako	Irak	Iraq	grupo	0    	0000-00-00 00:00:00
 level	resumo	özet, özet, özgeçmiş, özetleme	a summary, a digest, a résumé, a sum-up	grupo	0    	0000-00-00 00:00:00
 level	promeno	bir gezinti yeri, bir yürüyüş	a promenade, a walking	grupo	0    	0000-00-00 00:00:00
 level	horizontalo	yatay bir çizgi	a horizontal line	grupo	0    	0000-00-00 00:00:00
-level	fi-	<prefix>utanç verici, iğrenç, kirli	<prefix> shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
+level	fi-	(prefix) utanç verici, iğrenç, kirli	(prefix)  shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
 level	aŭkcio	açık artırma	an auction	grupo	0    	0000-00-00 00:00:00
 level	konkludi	sonuçlandırmak	to conclude	grupo	0    	0000-00-00 00:00:00
 level	salivo	tükürük, köle taciri	saliva, slaver	grupo	0    	0000-00-00 00:00:00
@@ -5882,7 +5882,7 @@ level	Antono	Anthony	Anthony	grupo	0    	0000-00-00 00:00:00
 level	Anno	Anna	Anna	grupo	0    	0000-00-00 00:00:00
 level	Berto	Bert	Bert	grupo	0    	0000-00-00 00:00:00
 level	apelacio	bir itiraz, bir suçlayıcı	an appeal, an accuser	grupo	0    	0000-00-00 00:00:00
-level	antimono	<chem>antimon	<chem> antimony	grupo	0    	0000-00-00 00:00:00
+level	antimono	(chem) antimon	(chem)  antimony	grupo	0    	0000-00-00 00:00:00
 level	apokrifo	apokrif	apocrypha	grupo	0    	0000-00-00 00:00:00
 level	apoteozo	tanrılaştırma	apotheosis	grupo	0    	0000-00-00 00:00:00
 level	ardezo	kayrak	slate	grupo	0    	0000-00-00 00:00:00
@@ -5902,7 +5902,7 @@ level	ĉano	horoz (silahın), çekiç (silahın)	a cock (of a gun), a hammer (of
 level	afekcii	etkilemek	to affect	grupo	0    	0000-00-00 00:00:00
 level	hardi	sertleştirmek	to toughen	grupo	0    	0000-00-00 00:00:00
 level	areno	bir arena	an arena	grupo	0    	0000-00-00 00:00:00
-level	arseniko	<chem>arsenik	<chem> arsenic	grupo	0    	0000-00-00 00:00:00
+level	arseniko	(chem) arsenik	(chem)  arsenic	grupo	0    	0000-00-00 00:00:00
 level	borakso	boraks	borax	grupo	0    	0000-00-00 00:00:00
 level	aspiro	aspirasyon	aspiration	grupo	0    	0000-00-00 00:00:00
 level	atribuo	ilişkilendirme, tahsis	attribution, allocation	grupo	0    	0000-00-00 00:00:00

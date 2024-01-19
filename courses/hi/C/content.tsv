@@ -15,23 +15,23 @@ level	mem	अपने द्वारा	by oneself	grupo	alternativoj	prononco
 level	ĝis ~	~ तक, ~ तक	upto ~, until ~	grupo	alternativoj	prononco
 level	de ~	~ का	of ~	grupo	alternativoj	prononco
 level	da ~	(बहुत) का ~, (बहुत) का ~	(much) of ~, (many) of ~	grupo	alternativoj	prononco
-level	-aĵo	<suffix>वस्तु, ठोस अभिव्यक्ति	<suffix> thing, concrete manifestation	grupo	alternativoj	prononco
+level	-aĵo	(suffix) वस्तु, ठोस अभिव्यक्ति	(suffix)  thing, concrete manifestation	grupo	alternativoj	prononco
 level	proksima	निकट, निकट, निकट, निकट	near, close to, soon, nearby	grupo	alternativoj	prononco
-level	-adi	<suffix>दोहराव वाली कार्रवाई, स्थायी कार्रवाई	<suffix> repetitive action, lasting action	grupo	alternativoj	prononco
-level	-as	<suffix>वर्तमान - काल	<suffix> present tense	grupo	alternativoj	prononco
-level	-is	<suffix>भूतकाल	<suffix> past tense	grupo	alternativoj	prononco
+level	-adi	(suffix) दोहराव वाली कार्रवाई, स्थायी कार्रवाई	(suffix)  repetitive action, lasting action	grupo	alternativoj	prononco
+level	-as	(suffix) वर्तमान - काल	(suffix)  present tense	grupo	alternativoj	prononco
+level	-is	(suffix) भूतकाल	(suffix)  past tense	grupo	alternativoj	prononco
 level	esti	होना	to be	grupo	alternativoj	prononco
-level	-os	<suffix>भविष्यकाल	<suffix> future tense	grupo	alternativoj	prononco
-level	antaŭ ~	<preposition>~ से पहले, ~ के सामने	<preposition> before ~, in front of ~	grupo	alternativoj	prononco
+level	-os	(suffix) भविष्यकाल	(suffix)  future tense	grupo	alternativoj	prononco
+level	antaŭ ~	(preposition) ~ से पहले, ~ के सामने	(preposition)  before ~, in front of ~	grupo	alternativoj	prononco
 level	fari	बनाना, करना	to make, to do	grupo	alternativoj	prononco
-level	ankaŭ ~	<preposition>भी भी	<preposition> also, too	grupo	alternativoj	prononco
+level	ankaŭ ~	(preposition) भी भी	(preposition)  also, too	grupo	alternativoj	prononco
 level	post ~	~ के बाद	after ~	grupo	alternativoj	prononco
-level	mal-	<prefix>विलोम	<prefix> opposite	grupo	alternativoj	prononco
-level	-ul-	<suffix>किसी विशेष गुण वाला व्यक्ति	<suffix> a person of some trait	grupo	alternativoj	prononco
-level	-in-	<suffix>महिला	<suffix> female	grupo	alternativoj	prononco
-level	-ant-	<suffix>सक्रिय वर्तमान, ~आईएनजी, कोई है जो ~आईएनजी	<suffix> active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
-level	-int-	<suffix>सक्रिय अतीत, ~आईएनजी था	<suffix> active past, was ~ing	grupo	alternativoj	prononco
-level	-ont-	<suffix>सक्रिय भविष्य, ~आईएनजी होगा	<suffix> active future, will be ~ing	grupo	alternativoj	prononco
+level	mal-	(prefix) विलोम	(prefix)  opposite	grupo	alternativoj	prononco
+level	-ul-	(suffix) किसी विशेष गुण वाला व्यक्ति	(suffix)  a person of some trait	grupo	alternativoj	prononco
+level	-in-	(suffix) महिला	(suffix)  female	grupo	alternativoj	prononco
+level	-ant-	(suffix) सक्रिय वर्तमान, ~आईएनजी, कोई है जो ~आईएनजी	(suffix)  active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
+level	-int-	(suffix) सक्रिय अतीत, ~आईएनजी था	(suffix)  active past, was ~ing	grupo	alternativoj	prononco
+level	-ont-	(suffix) सक्रिय भविष्य, ~आईएनजी होगा	(suffix)  active future, will be ~ing	grupo	alternativoj	prononco
 level	kaj (k.)	और	and	grupo	alternativoj	prononco
 level	aŭ	या	or	grupo	alternativoj	prononco
 level	alta	उंचा लंबा	high, tall	grupo	alternativoj	prononco
@@ -43,9 +43,9 @@ level	kiom	कितना कितने	how much, how many	grupo	alternativoj
 level	ofte	प्रायः बारंबार	often, frequently	grupo	alternativoj	prononco
 level	iom	थोड़ा, बल्कि, कुछ, कुछ हद तक	a little, rather, some, somewhat	grupo	alternativoj	prononco
 level	nova	नया, उपन्यास	new, novel	grupo	alternativoj	prononco
-level	-at-	<suffix>निष्क्रिय वर्तमान कृदंत	<suffix> passive present participle	grupo	alternativoj	prononco
-level	-it-	<suffix>निष्क्रिय भूत कृदंत	<suffix> passive past participle	grupo	alternativoj	prononco
-level	-ot-	<suffix>निष्क्रिय भविष्य कृदंत	<suffix> passive future participle	grupo	alternativoj	prononco
+level	-at-	(suffix) निष्क्रिय वर्तमान कृदंत	(suffix)  passive present participle	grupo	alternativoj	prononco
+level	-it-	(suffix) निष्क्रिय भूत कृदंत	(suffix)  passive past participle	grupo	alternativoj	prononco
+level	-ot-	(suffix) निष्क्रिय भविष्य कृदंत	(suffix)  passive future participle	grupo	alternativoj	prononco
 level	tre	बहुत, काफी, बहुत	very, quite, very much	grupo	alternativoj	prononco
 level	tro	बहुत, अत्यधिक, बहुत अधिक	too, excessively, too much	grupo	alternativoj	prononco
 level	tamen	हालाँकि, फिर भी, लेकिन, फिर भी	however, nonetheless, but, nevertheless	grupo	alternativoj	prononco
@@ -53,8 +53,8 @@ level	ho!	ओह! हो!	Oh! Ho!	grupo	alternativoj	prononco
 level	ke ~	वह~	that ~	grupo	alternativoj	prononco
 level	ĉar ~	क्योंकि~	because ~	grupo	alternativoj	prononco
 level	ĉu	चाहे~	whether ~	grupo	alternativoj	prononco
-level	-ej-	<suffix>जगह	<suffix> place	grupo	alternativoj	prononco
-level	-ec-	<suffix>गुणवत्ता का सार नाम	<suffix> abstract name of quality	grupo	alternativoj	prononco
+level	-ej-	(suffix) जगह	(suffix)  place	grupo	alternativoj	prononco
+level	-ec-	(suffix) गुणवत्ता का सार नाम	(suffix)  abstract name of quality	grupo	alternativoj	prononco
 level	ambaŭ ~	दोनों~	both ~	grupo	alternativoj	prononco
 level	tuj	तुरंत, तुरंत, तुरंत	immediately, instantly, right away	grupo	alternativoj	prononco
 level	kvazaŭ ~	मानो~	as if ~	grupo	alternativoj	prononco
@@ -64,7 +64,7 @@ level	neniam	कभी नहीं, किसी भी समय नहीं,
 level	tial	इसलिए इतना	therefore, so	grupo	alternativoj	prononco
 level	kial	क्यों, किसलिए	why, what for	grupo	alternativoj	prononco
 level	kvankam	यद्यपि ~, जबकि, यद्यपि	although ~, while, though	grupo	alternativoj	prononco
-level	ĉe ~	<preposition>पर~	<preposition> at ~	grupo	alternativoj	prononco
+level	ĉe ~	(preposition) पर~	(preposition)  at ~	grupo	alternativoj	prononco
 level	pli	अधिक	more	grupo	alternativoj	prononco
 level	plej	अधिकांश	most	grupo	alternativoj	prononco
 level	diri	कहना, बताना	to say, to tell	grupo	alternativoj	prononco
@@ -75,16 +75,16 @@ level	tia	ऐसा, वैसा, वैसा	such, that kind of, such a	grupo
 level	apenaŭ	बमुश्किल, मुश्किल से, मुश्किल से	barely, hardly, scarecely	grupo	alternativoj	prononco
 level	sendi	भेजने के लिए	to send	grupo	alternativoj	prononco
 level	ĵus	अभी (एक क्षण पहले), अभी	just (a moment ago), just now	grupo	alternativoj	prononco
-level	-u	<suffix>अनिवार्य	<suffix> imperative	grupo	alternativoj	prononco
+level	-u	(suffix) अनिवार्य	(suffix)  imperative	grupo	alternativoj	prononco
 level	ekster ~	बाहर~	outside ~	grupo	alternativoj	prononco
-level	ge-	<prefix>दोनों लिंग, दोनों लिंग	<prefix> both sex, both gender	grupo	alternativoj	prononco
-level	-us	<suffix>होगा, चाहिए, वशीभूत	<suffix> would, should, subjunctive	grupo	alternativoj	prononco
+level	ge-	(prefix) दोनों लिंग, दोनों लिंग	(prefix)  both sex, both gender	grupo	alternativoj	prononco
+level	-us	(suffix) होगा, चाहिए, वशीभूत	(suffix)  would, should, subjunctive	grupo	alternativoj	prononco
 level	baldaŭ	जल्द ही	soon	grupo	alternativoj	prononco
 level	almenaŭ	और कुछ नहीं तो कम से कम	at least, if nothing else	grupo	alternativoj	prononco
 level	dis-	डिस	dis-	grupo	alternativoj	prononco
-level	-uj-	<suffix>कंटेनर; देश	<suffix> container; country	grupo	alternativoj	prononco
+level	-uj-	(suffix) कंटेनर; देश	(suffix)  container; country	grupo	alternativoj	prononco
 level	lerni	जानने के लिए	to learn	grupo	alternativoj	prononco
-level	ek-	<prefix>शुरुआत; अचानक शुरुआत	<prefix> beginning; sudden start	grupo	alternativoj	prononco
+level	ek-	(prefix) शुरुआत; अचानक शुरुआत	(prefix)  beginning; sudden start	grupo	alternativoj	prononco
 level	se	यदि, बशर्ते कि	if, provided that	grupo	alternativoj	prononco
 level	eĉ	यहां तक की	even	grupo	alternativoj	prononco
 level	amo	एक प्यार	a love	grupo	alternativoj	prononco
@@ -94,11 +94,11 @@ level	fini	समाप्त करना, समाप्त करना, स
 level	do	इसलिए, फिर, इसलिए	so, then, therefore	grupo	alternativoj	prononco
 level	ajn	~कभी भी, (क्या)कभी भी, -कभी भी	~ever, (what)ever, at all, -soever	grupo	alternativoj	prononco
 level	facila	आसान, सुगम	easy, facile	grupo	alternativoj	prononco
-level	re-	<prefix>दोबारा-	<prefix> re-	grupo	alternativoj	prononco
+level	re-	(prefix) दोबारा-	(prefix)  re-	grupo	alternativoj	prononco
 level	granda	बड़ा, महान, विशाल	big, great, large	grupo	alternativoj	prononco
-level	-ist-	<suffix>पेशेवर	<suffix> professional	grupo	alternativoj	prononco
-level	pro ~	<preposition>~ के कारण, ~ के कारण	<preposition> because of ~, due to ~	grupo	alternativoj	prononco
-level	-estr-	<suffix>नेता, बॉस, मुखिया, प्रमुख	<suffix> leader, boss, head, chief	grupo	alternativoj	prononco
+level	-ist-	(suffix) पेशेवर	(suffix)  professional	grupo	alternativoj	prononco
+level	pro ~	(preposition) ~ के कारण, ~ के कारण	(preposition)  because of ~, due to ~	grupo	alternativoj	prononco
+level	-estr-	(suffix) नेता, बॉस, मुखिया, प्रमुख	(suffix)  leader, boss, head, chief	grupo	alternativoj	prononco
 level	kio	क्या	what	grupo	alternativoj	prononco
 level	manĝi	को खाने के	to eat	grupo	alternativoj	prononco
 level	nenio	कुछ भी नहीं, कुछ भी नहीं, कुछ भी नहीं	nothing, none, not any thing	grupo	alternativoj	prononco
@@ -107,20 +107,20 @@ level	ĉio	सब कुछ	everything	grupo	alternativoj	prononco
 level	riĉa	अमीर, धनवान, संपन्न	rich, wealthy, well-off	grupo	alternativoj	prononco
 level	tio	वह चीज़, वह	that thing, that	grupo	alternativoj	prononco
 level	konstrui	निर्माण करना, निर्माण करना	to build, to construct	grupo	alternativoj	prononco
-level	ĉef-	<prefix>प्रमुख, अग्रणी, मुख्य	<prefix> chief, leading, main	grupo	alternativoj	prononco
-level	sen ~	<preposition>बिना~	<preposition> without ~	grupo	alternativoj	prononco
-level	kun ~	<preposition>~ के साथ (साथ में)	<preposition> with ~ (together)	grupo	alternativoj	prononco
-level	krom ~	<preposition>~ को छोड़कर, ~ को छोड़कर	<preposition> except ~, besides ~	grupo	alternativoj	prononco
+level	ĉef-	(prefix) प्रमुख, अग्रणी, मुख्य	(prefix)  chief, leading, main	grupo	alternativoj	prononco
+level	sen ~	(preposition) बिना~	(preposition)  without ~	grupo	alternativoj	prononco
+level	kun ~	(preposition) ~ के साथ (साथ में)	(preposition)  with ~ (together)	grupo	alternativoj	prononco
+level	krom ~	(preposition) ~ को छोड़कर, ~ को छोड़कर	(preposition)  except ~, besides ~	grupo	alternativoj	prononco
 level	amiko	एक मित्र	a friend	grupo	alternativoj	prononco
 level	kies	किसका, किसका, किसका	whose, which one's, of which	grupo	alternativoj	prononco
-level	per ~	<preposition>~ (एक विधि) द्वारा, ~ (एक उपकरण) के साथ	<preposition> by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
+level	per ~	(preposition) ~ (एक विधि) द्वारा, ~ (एक उपकरण) के साथ	(preposition)  by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
 level	kontraŭ ~	विरुद्ध~	against ~	grupo	alternativoj	prononco
 level	el ~	~ से बाहर, ~ से	out of ~, from ~	grupo	alternativoj	prononco
 level	hodiaŭ	आज	today	grupo	alternativoj	prononco
 level	hieraŭ	कल	yesterday	grupo	alternativoj	prononco
 level	nur	केवल, बस, विशेष रूप से	only, just, exclusively	grupo	alternativoj	prononco
 level	helpi	सहायता करना, मदद करना, मदद करना	to help, to aid, to assist	grupo	alternativoj	prononco
-level	for	<adverb>बहुत दूर	<adverb> far, away	grupo	alternativoj	prononco
+level	for	(adverb) बहुत दूर	(adverb)  far, away	grupo	alternativoj	prononco
 level	nek	नही दोंनों में से कोई भी नहीं	nor, neither	grupo	alternativoj	prononco
 level	malamo	एक नफरत	a hate	grupo	alternativoj	prononco
 level	preskaŭ	लगभग पास में	almost, nearly	grupo	alternativoj	prononco
@@ -139,7 +139,7 @@ level	tiu	वह व्यक्ति, वह ~, वह वाला, उधर
 level	iu	कोई, कोई, कोई	someone, somebody, some	grupo	alternativoj	prononco
 level	neniu	कोई भी नहीं, कोई भी नहीं, न ही	nobody, no one, neither	grupo	alternativoj	prononco
 level	al ~	को~	to ~	grupo	alternativoj	prononco
-level	-ebl-	<suffix>~सक्षम	<suffix> ~able	grupo	alternativoj	prononco
+level	-ebl-	(suffix) ~सक्षम	(suffix)  ~able	grupo	alternativoj	prononco
 level	esperi	आशा करना	to hope	grupo	alternativoj	prononco
 level	unu	एक	one	grupo	alternativoj	prononco
 level	du	दो	two	grupo	alternativoj	prononco
@@ -153,39 +153,39 @@ level	naŭ	नौ	nine	grupo	alternativoj	prononco
 level	dek	दस	ten	grupo	alternativoj	prononco
 level	cent	एक सौ	a hundred	grupo	alternativoj	prononco
 level	mil	एक हजार	a thousand	grupo	alternativoj	prononco
-level	-obl-	<suffix>बहुलता के लिए, -बल, -गुना	<suffix> for multiplicity, -oble, -fold	grupo	alternativoj	prononco
-level	-on-	<suffix>~वें, अंश	<suffix> ~th, fraction	grupo	alternativoj	prononco
+level	-obl-	(suffix) बहुलता के लिए, -बल, -गुना	(suffix)  for multiplicity, -oble, -fold	grupo	alternativoj	prononco
+level	-on-	(suffix) ~वें, अंश	(suffix)  ~th, fraction	grupo	alternativoj	prononco
 level	ama	इश्क़ वाला	of love	grupo	alternativoj	prononco
 level	anstataŭ ~	~ के बजाय	instead of ~	grupo	alternativoj	prononco
-level	-iĝ-	<suffix>बनना	<suffix> become	grupo	alternativoj	prononco
+level	-iĝ-	(suffix) बनना	(suffix)  become	grupo	alternativoj	prononco
 level	voli	चाहना, इच्छा करना, इच्छुक होना	to want, to will, to be willing to	grupo	alternativoj	prononco
-level	-ig-	<suffix>बनने का कारण	<suffix> cause to become	grupo	alternativoj	prononco
+level	-ig-	(suffix) बनने का कारण	(suffix)  cause to become	grupo	alternativoj	prononco
 level	sekvi	अनुकरण करना	to follow	grupo	alternativoj	prononco
 level	ĝoje	ख़ुशी से	gladly	grupo	alternativoj	prononco
 level	legi	पढ़ने के लिए	to read	grupo	alternativoj	prononco
 level	silenta	चुपचाप	silent	grupo	alternativoj	prononco
 level	la		the	grupo	alternativoj	prononco
 level	ha!	हा!	ha!	grupo	alternativoj	prononco
-level	-il-	<suffix>उपकरण, विधि	<suffix> tool, method	grupo	alternativoj	prononco
+level	-il-	(suffix) उपकरण, विधि	(suffix)  tool, method	grupo	alternativoj	prononco
 level	trinki	पीना (गैर-अल्कोहल)	to drink (non-alkohol)	grupo	alternativoj	prononco
-level	-et-	<suffix>छोटा छोटा	<suffix> small, little	grupo	alternativoj	prononco
-level	-eg-	<suffix>बङा विशाल	<suffix> big, large	grupo	alternativoj	prononco
-level	inter ~	<preposition>के बीच~	<preposition> between ~	grupo	alternativoj	prononco
-level	-um-	<suffix>संबंधित व्यवहार	<suffix> related behavior	grupo	alternativoj	prononco
-level	-ar-	<suffix>सेट, समूह	<suffix> set, group	grupo	alternativoj	prononco
-level	-an-	<suffix>एक समूह का सदस्य	<suffix> member of a group	grupo	alternativoj	prononco
+level	-et-	(suffix) छोटा छोटा	(suffix)  small, little	grupo	alternativoj	prononco
+level	-eg-	(suffix) बङा विशाल	(suffix)  big, large	grupo	alternativoj	prononco
+level	inter ~	(preposition) के बीच~	(preposition)  between ~	grupo	alternativoj	prononco
+level	-um-	(suffix) संबंधित व्यवहार	(suffix)  related behavior	grupo	alternativoj	prononco
+level	-ar-	(suffix) सेट, समूह	(suffix)  set, group	grupo	alternativoj	prononco
+level	-an-	(suffix) एक समूह का सदस्य	(suffix)  member of a group	grupo	alternativoj	prononco
 level	danki	धन्यवाद करने	to thank	grupo	alternativoj	prononco
-level	-ind-	<suffix>सार्थक, योग्य	<suffix> worthwhile, worthy	grupo	alternativoj	prononco
+level	-ind-	(suffix) सार्थक, योग्य	(suffix)  worthwhile, worthy	grupo	alternativoj	prononco
 level	plu	और भी अधिक, और भी, और भी, और भी अधिक	even more, further, and so on, more	grupo	alternativoj	prononco
 level	kiel	कैसे, पसंद, किस प्रकार, जैसे	how, like, in what way, such as	grupo	alternativoj	prononco
 level	tiel	इस प्रकार, उस प्रकार, इस प्रकार	such, in that way, thus	grupo	alternativoj	prononco
-level	en ~	<preposition>में ~	<preposition> in ~	grupo	alternativoj	prononco
-level	apud ~	<preposition>~ के बगल में, ~ के बगल में	<preposition> next to ~, beside ~	grupo	alternativoj	prononco
-level	sub ~	<preposition>नीचे, नीचे ~	<preposition> under, beneath ~	grupo	alternativoj	prononco
-level	sur ~	<preposition>पर~	<preposition> on ~	grupo	alternativoj	prononco
-level	je ~	<preposition>अनिश्चित तैयारी, पर, अंदर, द्वारा, चालू	<preposition> indefinate prep., at, in, by, on	grupo	alternativoj	prononco
-level	ankoraŭ	<adverb>फिर भी	<adverb> still, yet	grupo	alternativoj	prononco
-level	ĉirkaŭ ~	<preposition>चारों ओर~	<preposition> around ~	grupo	alternativoj	prononco
+level	en ~	(preposition) में ~	(preposition)  in ~	grupo	alternativoj	prononco
+level	apud ~	(preposition) ~ के बगल में, ~ के बगल में	(preposition)  next to ~, beside ~	grupo	alternativoj	prononco
+level	sub ~	(preposition) नीचे, नीचे ~	(preposition)  under, beneath ~	grupo	alternativoj	prononco
+level	sur ~	(preposition) पर~	(preposition)  on ~	grupo	alternativoj	prononco
+level	je ~	(preposition) अनिश्चित तैयारी, पर, अंदर, द्वारा, चालू	(preposition)  indefinate prep., at, in, by, on	grupo	alternativoj	prononco
+level	ankoraŭ	(adverb) फिर भी	(adverb)  still, yet	grupo	alternativoj	prononco
+level	ĉirkaŭ ~	(preposition) चारों ओर~	(preposition)  around ~	grupo	alternativoj	prononco
 level	sed	लेकिन	but	grupo	alternativoj	prononco
 level	ie	कहीं	somewhere	grupo	alternativoj	prononco
 level	kie	कहाँ, किस स्थान पर	where, at what place	grupo	alternativoj	prononco
@@ -196,25 +196,25 @@ level	tie	वहाँ, वहाँ, उधर	there, over there, yonder	grupo	
 level	ĉi	यह~	this ~	grupo	alternativoj	prononco
 level	kanti	गाने के लिए	to sing	grupo	alternativoj	prononco
 level	morti	मरना, गुज़र जाना	to die, to pass away	grupo	alternativoj	prononco
-level	dum ~	<preposition>~ के दौरान, जबकि ~	<preposition> during ~, while ~	grupo	alternativoj	prononco
+level	dum ~	(preposition) ~ के दौरान, जबकि ~	(preposition)  during ~, while ~	grupo	alternativoj	prononco
 level	nacio	एक राष्ट्र	a nation	grupo	alternativoj	prononco
 level	koni	(किसी व्यक्ति को) जानना, परिचित होना	to know (a person), to be aquainted with	grupo	alternativoj	prononco
 level	scii	जानना (एक तथ्य, ज्ञान), यह जानना कि कैसे	to know (a fact, knowledge), to know how	grupo	alternativoj	prononco
 level	ĉiam	सदैव कभी	always, ever	grupo	alternativoj	prononco
 level	iam	किसी समय, एक बार	at some time, once	grupo	alternativoj	prononco
 level	tiam	तब	then	grupo	alternativoj	prononco
-level	-em-	<suffix>प्रवृत्ति	<suffix> tendancy	grupo	alternativoj	prononco
+level	-em-	(suffix) प्रवृत्ति	(suffix)  tendancy	grupo	alternativoj	prononco
 level	ia	एक तरह का	some kind of	grupo	alternativoj	prononco
 level	sukcesi	सफल होने के लिए	to succeed	grupo	alternativoj	prononco
 level	ĉia	हर तरह का, हर तरह का	of all kind, every kind of	grupo	alternativoj	prononco
 level	nenia	नहीं, किसी भी तरह का नहीं, किसी भी तरह का नहीं	no, not any kind of, not any	grupo	alternativoj	prononco
-level	-id-	<suffix>वंश	<suffix> offspring	grupo	alternativoj	prononco
+level	-id-	(suffix) वंश	(suffix)  offspring	grupo	alternativoj	prononco
 level	ĉambro	एक कमरा, एक कक्ष	a room, a chamber	grupo	alternativoj	prononco
 level	patro	पापा अ	a father	grupo	alternativoj	prononco
 level	porko	एक सुअर, सूअर	a pig, swine	grupo	alternativoj	prononco
-level	bo-	<prefix>-ससुराल, शादी से	<prefix> -in-law, by marriage	grupo	alternativoj	prononco
+level	bo-	(prefix) -ससुराल, शादी से	(prefix)  -in-law, by marriage	grupo	alternativoj	prononco
 level	ja	वास्तव में	indeed	grupo	alternativoj	prononco
-level	-ism-	<suffix>-इस्म	<suffix> -ism	grupo	alternativoj	prononco
+level	-ism-	(suffix) -इस्म	(suffix)  -ism	grupo	alternativoj	prononco
 level	io	कुछ	something	grupo	alternativoj	prononco
 level	veturi	चलाना (एक वाहन)	to drive (a vehicle)	grupo	alternativoj	prononco
 level	koko	मुर्गा, मुर्गी, मुर्गी, मुर्गी	a cock, a hen, chicken, fowl	grupo	alternativoj	prononco
@@ -625,7 +625,7 @@ level	merkredo	बुधवार	Wednesday	grupo	alternativoj	prononco
 level	vendredo	शुक्रवार	Friday	grupo	alternativoj	prononco
 level	fiŝkaptado	मछली पकड़ना, मछलियाँ पकड़ना	fish-catching, catching fishes	grupo	alternativoj	prononco
 level	ilustri	उदाहरण देकर स्पष्ट करने के लिए	to illustrate	grupo	alternativoj	prononco
-level	des	<adverb>इतना (अधिक, कम)	<adverb> so much (more, less)	grupo	alternativoj	prononco
+level	des	(adverb) इतना (अधिक, कम)	(adverb)  so much (more, less)	grupo	alternativoj	prononco
 level	sabato	शनिवार	Saturday	grupo	alternativoj	prononco
 level	ĵaŭdo	गुरुवार	Thursday	grupo	alternativoj	prononco
 level	mardo	मंगलवार	Tuesday	grupo	alternativoj	prononco
@@ -678,7 +678,7 @@ level	ŝtupo	एक सीढ़ी, एक सीढ़ी, एक पायद
 level	bordo	एक किनारा, एक तट, एक किनारा	a shore, a waterfront, a bank	grupo	alternativoj	prononco
 level	justa	निष्पक्ष, न्यायपूर्ण, धर्मात्मा	fair, just, righteous	grupo	alternativoj	prononco
 level	lumo	प्रदीप्त करना	a light	grupo	alternativoj	prononco
-level	malgraŭ ~	<preposition>~ के बावजूद, ~ के बावजूद	<preposition> despite ~, in spite of ~	grupo	alternativoj	prononco
+level	malgraŭ ~	(preposition) ~ के बावजूद, ~ के बावजूद	(preposition)  despite ~, in spite of ~	grupo	alternativoj	prononco
 level	drinkado	पीने की क्रिया	drinking action	grupo	alternativoj	prononco
 level	aŭtomobilo	एक कार, एक ऑटोमोबाइल, एक मोटर कार (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	alternativoj	prononco
 level	bonvoli	इच्छा करना (दिल से), चाहना (दिल से)	to will (from heart), to want (from heart)	grupo	alternativoj	prononco
@@ -729,7 +729,7 @@ level	nordo	उत्तर	north	grupo	alternativoj	prononco
 level	kolekto	संग्रह	collection	grupo	alternativoj	prononco
 level	supro	एक शीर्ष, एक शिखर	a top, a summit	grupo	alternativoj	prononco
 level	oriento	पूर्व	east	grupo	alternativoj	prononco
-level	ju	<adverb>(अधिक, कम)	<adverb> the (more, less)	grupo	alternativoj	prononco
+level	ju	(adverb) (अधिक, कम)	(adverb)  the (more, less)	grupo	alternativoj	prononco
 level	sudo	दक्षिण	south	grupo	alternativoj	prononco
 level	okcidento	पश्चिम	west	grupo	alternativoj	prononco
 level	juĝi	न्यायाधीश को	to judge	grupo	alternativoj	prononco
@@ -784,9 +784,9 @@ level	malalta	कम	low	grupo	alternativoj	prononco
 level	viando	मांस, एक मांस	meat, a meat	grupo	alternativoj	prononco
 level	respekti	आदर करना	to respect	grupo	alternativoj	prononco
 level	forno	भट्टी, चूल्हा, भट्टी	a furnace, a stove, an oven	grupo	alternativoj	prononco
-level	-er-	<suffix>तत्व, संपूर्ण का छोटा कण	<suffix> element, small particle of whole	grupo	alternativoj	prononco
+level	-er-	(suffix) तत्व, संपूर्ण का छोटा कण	(suffix)  element, small particle of whole	grupo	alternativoj	prononco
 level	malkovri	खोजना, उजागर करना, अनावरण करना	to discover, to uncover, to unveil	grupo	alternativoj	prononco
-level	-aĉ-	<suffix>बुरा, घृणित	<suffix> bad, disgusting	grupo	alternativoj	prononco
+level	-aĉ-	(suffix) बुरा, घृणित	(suffix)  bad, disgusting	grupo	alternativoj	prononco
 level	branĉo	एक शाखा, एक टहनी	a branch, a bough	grupo	alternativoj	prononco
 level	malhela	अंधेरा, निराशाजनक, धूमिल	dark, dismal, bleak	grupo	alternativoj	prononco
 level	mensogi	झूठ बोलना, झूठ बोलना	to lie, to tell a lie	grupo	alternativoj	prononco
@@ -1078,7 +1078,7 @@ level	imagi	कल्पना करना	to imagine	grupo	alternativoj	pronon
 level	fidela	वफादार, भरोसेमंद	faithful, trustworthy	grupo	alternativoj	prononco
 level	partopreni	भाग लेना, भाग लेना	to participate, to take part	grupo	alternativoj	prononco
 level	kastelo	एक महल, एक गढ़	a castle, a citadel	grupo	alternativoj	prononco
-level	-op-	<suffix>संख्या में एक समूह	<suffix> a group in numbers	grupo	alternativoj	prononco
+level	-op-	(suffix) संख्या में एक समूह	(suffix)  a group in numbers	grupo	alternativoj	prononco
 level	ĉeesti	भाग लेना, उपस्थित होना	to attend, to be present at	grupo	alternativoj	prononco
 level	televido	टीवी, टेलीविजन	TV, television	grupo	alternativoj	prononco
 level	studento	एक छात्र (विश्वविद्यालय)	a student (university)	grupo	alternativoj	prononco
@@ -1330,7 +1330,7 @@ level	lastjare	पिछले साल	last year	grupo	alternativoj	prononco
 level	vojmontrilo	एक मील का पत्थर, एक संकेत	a landmark, a signpost	grupo	alternativoj	prononco
 level	kelo	एक तहख़ाना, एक तहख़ाना	a cellar, a basement	grupo	alternativoj	prononco
 level	firma	दृढ़, स्थिर	firm, stable	grupo	alternativoj	prononco
-level	eks-	<prefix>पूर्व-, पूर्व	<prefix> ex-, former	grupo	alternativoj	prononco
+level	eks-	(prefix) पूर्व-, पूर्व	(prefix)  ex-, former	grupo	alternativoj	prononco
 level	kilogramo	एक किलोग्राम	a kilogram	grupo	alternativoj	prononco
 level	frago	एक स्ट्रॉबेरी	a strawberry	grupo	alternativoj	prononco
 level	pato	फ़्राइंग पैन	a frying pan	grupo	alternativoj	prononco
@@ -1342,7 +1342,7 @@ level	matura	परिपक्व, परिपक्व	mature, ripe	grupo	alt
 level	kulerego	बाल्टी, एक बड़ा चम्मच	bucket, a large spoon	grupo	alternativoj	prononco
 level	konduti	आचरण करना, व्यवहार करना	to conduct oneself, to behave	grupo	alternativoj	prononco
 level	vere	सचमुच, सचमुच, सचमुच	really, genuinly, truly	grupo	alternativoj	prononco
-level	mis-	<prefix>अ-	<prefix> mis-	grupo	alternativoj	prononco
+level	mis-	(prefix) अ-	(prefix)  mis-	grupo	alternativoj	prononco
 level	kvieta	शांत शांत	quiet, calm	grupo	alternativoj	prononco
 level	funkcii	कार्य करना, संचालन करना, कार्य करना	to function, to operate, to work	grupo	alternativoj	prononco
 level	konvena	उपयुक्त, उपयुक्त	appropriate, suitable	grupo	alternativoj	prononco
@@ -1357,14 +1357,14 @@ level	mieno	एक (चेहरे की) अभिव्यक्ति	a (fa
 level	pensio	पेंशन, वार्षिकी	pension, annuity	grupo	alternativoj	prononco
 level	princo	राजकुमार	a prince	grupo	alternativoj	prononco
 level	sorto	नियति, भाग्य, भाग्य	destiny, fate, fortune	grupo	alternativoj	prononco
-level	-end-	<suffix>दायित्व	<suffix> obligation	grupo	alternativoj	prononco
+level	-end-	(suffix) दायित्व	(suffix)  obligation	grupo	alternativoj	prononco
 level	longaj ŝtrumpoj	लंबी मोज़ा	long stockings	grupo	alternativoj	prononco
 level	barbo	दाढ़ी	beard	grupo	alternativoj	prononco
-level	-ing-	<suffix>लंबा धारक, सॉकेट	<suffix> long holder, socket	grupo	alternativoj	prononco
+level	-ing-	(suffix) लंबा धारक, सॉकेट	(suffix)  long holder, socket	grupo	alternativoj	prononco
 level	bongusta	स्वादिष्ट, अच्छा स्वाद वाला	delicious, good-tasted	grupo	alternativoj	prononco
 level	flegi	देखभाल करना, देखभाल करना	to take care of, to nurse	grupo	alternativoj	prononco
-level	-njo	<suffix>महिला पालतू जानवर का नाम	<suffix> female pet name	grupo	alternativoj	prononco
-level	-ĉjo	<suffix>पुरुष पालतू जानवर का नाम	<suffix> male pet name	grupo	alternativoj	prononco
+level	-njo	(suffix) महिला पालतू जानवर का नाम	(suffix)  female pet name	grupo	alternativoj	prononco
+level	-ĉjo	(suffix) पुरुष पालतू जानवर का नाम	(suffix)  male pet name	grupo	alternativoj	prononco
 level	plugi	जोतना, जोतना, जोतना	to plow, to plough, to till	grupo	alternativoj	prononco
 level	amletero	एक प्रेम पत्र	a loveletter	grupo	alternativoj	prononco
 level	glaso da	एक गिलास	a glass of	grupo	alternativoj	prononco
@@ -1634,7 +1634,7 @@ level	kvanto	मात्रा राशि	quantity, amount	grupo	alternativoj
 level	batilo	एक बल्ला (मारने के लिए)	a bat (to hit)	grupo	alternativoj	prononco
 level	kvalito	गुणवत्ता, संपत्ति	quality, property	grupo	alternativoj	prononco
 level	laŭte	जोर से, जोर से	loudly, aloud	grupo	alternativoj	prononco
-level	-ut-	<suffix>सशर्त निष्क्रिय	<suffix> conditional passive	grupo	alternativoj	prononco
+level	-ut-	(suffix) सशर्त निष्क्रिय	(suffix)  conditional passive	grupo	alternativoj	prononco
 level	kristnasko	क्रिसमस	Christmas	grupo	alternativoj	prononco
 level	vivo	एक जीवन	a life	grupo	alternativoj	prononco
 level	freneza	पागल, पागल, पागल	crazy, insane, mad	grupo	alternativoj	prononco
@@ -2393,7 +2393,7 @@ level	heredi	विरासत में पाने के लिए	to inher
 level	flugbileto	एक हवाई टिकट	an air ticket	grupo	alternativoj	prononco
 level	robo	एक पोशाक	a dress	grupo	alternativoj	prononco
 level	egipto	एक मिस्री व्यक्ति	an Egyptian person	grupo	alternativoj	prononco
-level	-unt	<suffix>सशर्त सक्रिय	<suffix> conditional active	grupo	alternativoj	prononco
+level	-unt	(suffix) सशर्त सक्रिय	(suffix)  conditional active	grupo	alternativoj	prononco
 level	frenezulo	एक कट्टर, एक सनकी, एक उन्मत्त	a fanatic, a lunatic, a maniac	grupo	alternativoj	prononco
 level	ekde	तब से	since	grupo	alternativoj	prononco
 level	observi	अनुसरण करना	to observe	grupo	alternativoj	prononco
@@ -2552,7 +2552,7 @@ level	irako	इराक	Iraq	grupo	alternativoj	prononco
 level	resumo	एक सारांश, एक डाइजेस्ट, एक बायोडाटा, एक सार-संक्षेप	a summary, a digest, a résumé, a sum-up	grupo	alternativoj	prononco
 level	promeno	एक सैरगाह, एक सैर	a promenade, a walking	grupo	alternativoj	prononco
 level	horizontalo	एक क्षैतिज रेखा	a horizontal line	grupo	alternativoj	prononco
-level	fi-	<prefix>शर्मनाक, घृणित, गंदा	<prefix> shameful, disgusting, dirty	grupo	alternativoj	prononco
+level	fi-	(prefix) शर्मनाक, घृणित, गंदा	(prefix)  shameful, disgusting, dirty	grupo	alternativoj	prononco
 level	aŭkcio	नीलामी	an auction	grupo	alternativoj	prononco
 level	konkludi	समाप्त करने के लिए	to conclude	grupo	alternativoj	prononco
 level	salivo	लार, गुलाम	saliva, slaver	grupo	alternativoj	prononco
@@ -5884,7 +5884,7 @@ level	Antono	एंथोनी	Anthony	grupo	alternativoj	prononco
 level	Anno	अन्ना	Anna	grupo	alternativoj	prononco
 level	Berto	बर्ट	Bert	grupo	alternativoj	prononco
 level	apelacio	एक अपील, एक अभियुक्त	an appeal, an accuser	grupo	alternativoj	prononco
-level	antimono	<chem>सुरमा	<chem> antimony	grupo	alternativoj	prononco
+level	antimono	(chem) सुरमा	(chem)  antimony	grupo	alternativoj	prononco
 level	apokrifo	अपोक्रिफा	apocrypha	grupo	alternativoj	prononco
 level	apoteozo	गुणगान	apotheosis	grupo	alternativoj	prononco
 level	ardezo	स्लेट	slate	grupo	alternativoj	prononco
@@ -5904,7 +5904,7 @@ level	ĉano	एक मुर्गा (बंदूक का), एक हथौ
 level	afekcii	प्रभावित करने के लिए	to affect	grupo	alternativoj	prononco
 level	hardi	सख्त करना	to toughen	grupo	alternativoj	prononco
 level	areno	एक अखाड़ा	an arena	grupo	alternativoj	prononco
-level	arseniko	<chem>हरताल	<chem> arsenic	grupo	alternativoj	prononco
+level	arseniko	(chem) हरताल	(chem)  arsenic	grupo	alternativoj	prononco
 level	borakso	बोरेक्रस	borax	grupo	alternativoj	prononco
 level	aspiro	आकांक्षा	aspiration	grupo	alternativoj	prononco
 level	atribuo	आरोपण, आवंटन	attribution, allocation	grupo	alternativoj	prononco

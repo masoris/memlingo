@@ -119,24 +119,31 @@ window.onload = function () {
         enable_disable_login_button();
     }
 
-    $("radio-ko-kr").onclick = lang_changed;
-    $("radio-en-us").onclick = lang_changed;
-    $("radio-ja-jp").onclick = lang_changed;
-    $("radio-zh-cn").onclick = lang_changed;
-    $("radio-zh-tw").onclick = lang_changed;
-    $("radio-vi-vn").onclick = lang_changed;
-    $("radio-mn").onclick = lang_changed;
-    $("radio-th").onclick = lang_changed;
-    $("radio-ms").onclick = lang_changed;
-    $("radio-id").onclick = lang_changed;
-    $("radio-hi").onclick = lang_changed;
-    $("radio-fa").onclick = lang_changed;
-    $("radio-ne").onclick = lang_changed;
-    $("radio-ur").onclick = lang_changed;
-    $("radio-tr").onclick = lang_changed;
-    $("radio-he").onclick = lang_changed;
-    $("radio-ar").onclick = lang_changed;
-    $("radio-fr").onclick = lang_changed;
+    // 모든 라디오 버튼을 선택
+    const radioButtons = document.querySelectorAll('input[type="radio"]');
+    radioButtons.forEach(radioButton => {
+        $(radioButton.id).onclick = lang_changed;
+    });
+
+
+    // $("radio-ko-kr").onclick = lang_changed;
+    // $("radio-en-us").onclick = lang_changed;
+    // $("radio-ja-jp").onclick = lang_changed;
+    // $("radio-zh-cn").onclick = lang_changed;
+    // $("radio-zh-tw").onclick = lang_changed;
+    // $("radio-vi-vn").onclick = lang_changed;
+    // $("radio-mn").onclick = lang_changed;
+    // $("radio-th").onclick = lang_changed;
+    // $("radio-ms").onclick = lang_changed;
+    // $("radio-id").onclick = lang_changed;
+    // $("radio-hi").onclick = lang_changed;
+    // $("radio-fa").onclick = lang_changed;
+    // $("radio-ne").onclick = lang_changed;
+    // $("radio-ur").onclick = lang_changed;
+    // $("radio-tr").onclick = lang_changed;
+    // $("radio-he").onclick = lang_changed;
+    // $("radio-ar").onclick = lang_changed;
+    // $("radio-fr").onclick = lang_changed;
 
     if (localStorage.getItem('lang') != null) {
         var lang = localStorage.getItem('lang');

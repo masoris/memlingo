@@ -13,23 +13,23 @@ level	mem	oleh diri sendiri	by oneself	grupo	0    	0000-00-00 00:00:00
 level	ĝis ~	sehingga ~, sehingga ~	upto ~, until ~	grupo	0    	0000-00-00 00:00:00
 level	de ~	daripada ~	of ~	grupo	0    	0000-00-00 00:00:00
 level	da ~	(banyak) daripada ~, (banyak) daripada ~	(much) of ~, (many) of ~	grupo	0    	0000-00-00 00:00:00
-level	-aĵo	<suffix>perkara, manifestasi konkrit	<suffix> thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
+level	-aĵo	(suffix) perkara, manifestasi konkrit	(suffix)  thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
 level	proksima	dekat, dekat, dekat, dekat	near, close to, soon, nearby	grupo	0    	0000-00-00 00:00:00
-level	-adi	<suffix>tindakan berulang, tindakan yang berkekalan	<suffix> repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
-level	-as	<suffix>masa kini	<suffix> present tense	grupo	0    	0000-00-00 00:00:00
-level	-is	<suffix>masa lampau	<suffix> past tense	grupo	0    	0000-00-00 00:00:00
+level	-adi	(suffix) tindakan berulang, tindakan yang berkekalan	(suffix)  repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
+level	-as	(suffix) masa kini	(suffix)  present tense	grupo	0    	0000-00-00 00:00:00
+level	-is	(suffix) masa lampau	(suffix)  past tense	grupo	0    	0000-00-00 00:00:00
 level	esti	akan menjadi	to be	grupo	0    	0000-00-00 00:00:00
-level	-os	<suffix>masa hadapan	<suffix> future tense	grupo	0    	0000-00-00 00:00:00
-level	antaŭ ~	<preposition>sebelum ~, di hadapan ~	<preposition> before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
+level	-os	(suffix) masa hadapan	(suffix)  future tense	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ~	(preposition) sebelum ~, di hadapan ~	(preposition)  before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
 level	fari	untuk membuat, untuk melakukan	to make, to do	grupo	0    	0000-00-00 00:00:00
-level	ankaŭ ~	<preposition>juga, juga	<preposition> also, too	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ~	(preposition) juga, juga	(preposition)  also, too	grupo	0    	0000-00-00 00:00:00
 level	post ~	selepas ~	after ~	grupo	0    	0000-00-00 00:00:00
-level	mal-	<prefix>bertentangan	<prefix> opposite	grupo	0    	0000-00-00 00:00:00
-level	-ul-	<suffix>seseorang yang mempunyai sifat tertentu	<suffix> a person of some trait	grupo	0    	0000-00-00 00:00:00
-level	-in-	<suffix>perempuan	<suffix> female	grupo	0    	0000-00-00 00:00:00
-level	-ant-	<suffix>aktif hadir, sedang ~, seseorang yang sedang ~	<suffix> active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
-level	-int-	<suffix>masa lalu yang aktif, sedang ~ing	<suffix> active past, was ~ing	grupo	0    	0000-00-00 00:00:00
-level	-ont-	<suffix>masa depan yang aktif, akan ~ing	<suffix> active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
+level	mal-	(prefix) bertentangan	(prefix)  opposite	grupo	0    	0000-00-00 00:00:00
+level	-ul-	(suffix) seseorang yang mempunyai sifat tertentu	(suffix)  a person of some trait	grupo	0    	0000-00-00 00:00:00
+level	-in-	(suffix) perempuan	(suffix)  female	grupo	0    	0000-00-00 00:00:00
+level	-ant-	(suffix) aktif hadir, sedang ~, seseorang yang sedang ~	(suffix)  active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
+level	-int-	(suffix) masa lalu yang aktif, sedang ~ing	(suffix)  active past, was ~ing	grupo	0    	0000-00-00 00:00:00
+level	-ont-	(suffix) masa depan yang aktif, akan ~ing	(suffix)  active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
 level	kaj (k.)	dan	and	grupo	0    	0000-00-00 00:00:00
 level	aŭ	atau	or	grupo	0    	0000-00-00 00:00:00
 level	alta	tinggi, tinggi	high, tall	grupo	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ level	kiom	berapa banyak berapa banyak	how much, how many	grupo	0    	0000-00-00
 level	ofte	kerap, kerap	often, frequently	grupo	0    	0000-00-00 00:00:00
 level	iom	sedikit, agak, beberapa, agak	a little, rather, some, somewhat	grupo	0    	0000-00-00 00:00:00
 level	nova	baru, novel	new, novel	grupo	0    	0000-00-00 00:00:00
-level	-at-	<suffix>participle hadir pasif	<suffix> passive present participle	grupo	0    	0000-00-00 00:00:00
-level	-it-	<suffix>participle lepas pasif	<suffix> passive past participle	grupo	0    	0000-00-00 00:00:00
-level	-ot-	<suffix>participle masa depan pasif	<suffix> passive future participle	grupo	0    	0000-00-00 00:00:00
+level	-at-	(suffix) participle hadir pasif	(suffix)  passive present participle	grupo	0    	0000-00-00 00:00:00
+level	-it-	(suffix) participle lepas pasif	(suffix)  passive past participle	grupo	0    	0000-00-00 00:00:00
+level	-ot-	(suffix) participle masa depan pasif	(suffix)  passive future participle	grupo	0    	0000-00-00 00:00:00
 level	tre	sangat, agak, sangat	very, quite, very much	grupo	0    	0000-00-00 00:00:00
 level	tro	terlalu, berlebihan, terlalu banyak	too, excessively, too much	grupo	0    	0000-00-00 00:00:00
 level	tamen	walau bagaimanapun, walau bagaimanapun, tetapi, walau bagaimanapun	however, nonetheless, but, nevertheless	grupo	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ level	ho!	Oh! Ho!	Oh! Ho!	grupo	0    	0000-00-00 00:00:00
 level	ke ~	itu ~	that ~	grupo	0    	0000-00-00 00:00:00
 level	ĉar ~	kerana ~	because ~	grupo	0    	0000-00-00 00:00:00
 level	ĉu	sama ada ~	whether ~	grupo	0    	0000-00-00 00:00:00
-level	-ej-	<suffix>tempat	<suffix> place	grupo	0    	0000-00-00 00:00:00
-level	-ec-	<suffix>nama abstrak kualiti	<suffix> abstract name of quality	grupo	0    	0000-00-00 00:00:00
+level	-ej-	(suffix) tempat	(suffix)  place	grupo	0    	0000-00-00 00:00:00
+level	-ec-	(suffix) nama abstrak kualiti	(suffix)  abstract name of quality	grupo	0    	0000-00-00 00:00:00
 level	ambaŭ ~	kedua-duanya ~	both ~	grupo	0    	0000-00-00 00:00:00
 level	tuj	serta merta, serta merta, serta merta	immediately, instantly, right away	grupo	0    	0000-00-00 00:00:00
 level	kvazaŭ ~	seolah-olah ~	as if ~	grupo	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ level	neniam	tidak pernah, tidak pernah, tidak pernah	never, at no time, not eve
 level	tial	oleh itu, jadi	therefore, so	grupo	0    	0000-00-00 00:00:00
 level	kial	kenapa, untuk apa	why, what for	grupo	0    	0000-00-00 00:00:00
 level	kvankam	walaupun ~, sementara, walaupun	although ~, while, though	grupo	0    	0000-00-00 00:00:00
-level	ĉe ~	<preposition>di ~	<preposition> at ~	grupo	0    	0000-00-00 00:00:00
+level	ĉe ~	(preposition) di ~	(preposition)  at ~	grupo	0    	0000-00-00 00:00:00
 level	pli	lebih	more	grupo	0    	0000-00-00 00:00:00
 level	plej	paling	most	grupo	0    	0000-00-00 00:00:00
 level	diri	untuk mengatakan, untuk memberitahu	to say, to tell	grupo	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ level	tia	itu, itu, seperti itu	such, that kind of, such a	grupo	0    	0000-00-0
 level	apenaŭ	hampir tidak, hampir tidak, hampir tidak	barely, hardly, scarecely	grupo	0    	0000-00-00 00:00:00
 level	sendi	untuk hantar	to send	grupo	0    	0000-00-00 00:00:00
 level	ĵus	tadi (sebentar tadi), tadi	just (a moment ago), just now	grupo	0    	0000-00-00 00:00:00
-level	-u	<suffix>mustahak	<suffix> imperative	grupo	0    	0000-00-00 00:00:00
+level	-u	(suffix) mustahak	(suffix)  imperative	grupo	0    	0000-00-00 00:00:00
 level	ekster ~	luar ~	outside ~	grupo	0    	0000-00-00 00:00:00
-level	ge-	<prefix>kedua-dua jantina, kedua-dua jantina	<prefix> both sex, both gender	grupo	0    	0000-00-00 00:00:00
-level	-us	<suffix>akan, sepatutnya, subjungtif	<suffix> would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
+level	ge-	(prefix) kedua-dua jantina, kedua-dua jantina	(prefix)  both sex, both gender	grupo	0    	0000-00-00 00:00:00
+level	-us	(suffix) akan, sepatutnya, subjungtif	(suffix)  would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
 level	baldaŭ	tidak lama lagi	soon	grupo	0    	0000-00-00 00:00:00
 level	almenaŭ	sekurang-kurangnya, jika tiada yang lain	at least, if nothing else	grupo	0    	0000-00-00 00:00:00
 level	dis-	dis-	dis-	grupo	0    	0000-00-00 00:00:00
-level	-uj-	<suffix>bekas; negara	<suffix> container; country	grupo	0    	0000-00-00 00:00:00
+level	-uj-	(suffix) bekas; negara	(suffix)  container; country	grupo	0    	0000-00-00 00:00:00
 level	lerni	untuk belajar	to learn	grupo	0    	0000-00-00 00:00:00
-level	ek-	<prefix>permulaan; mula tiba-tiba	<prefix> beginning; sudden start	grupo	0    	0000-00-00 00:00:00
+level	ek-	(prefix) permulaan; mula tiba-tiba	(prefix)  beginning; sudden start	grupo	0    	0000-00-00 00:00:00
 level	se	jika, dengan syarat itu	if, provided that	grupo	0    	0000-00-00 00:00:00
 level	eĉ	malah	even	grupo	0    	0000-00-00 00:00:00
 level	amo	sebuah cinta	a love	grupo	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ level	fini	untuk menamatkan, untuk menamatkan, untuk menamatkan	to end, to finis
 level	do	jadi, maka, oleh itu	so, then, therefore	grupo	0    	0000-00-00 00:00:00
 level	ajn	~ pernah, (apa) pernah, sama sekali, -sesuatu	~ever, (what)ever, at all, -soever	grupo	0    	0000-00-00 00:00:00
 level	facila	mudah, mudah	easy, facile	grupo	0    	0000-00-00 00:00:00
-level	re-	<prefix>semula	<prefix> re-	grupo	0    	0000-00-00 00:00:00
+level	re-	(prefix) semula	(prefix)  re-	grupo	0    	0000-00-00 00:00:00
 level	granda	besar, hebat, besar	big, great, large	grupo	0    	0000-00-00 00:00:00
-level	-ist-	<suffix>profesional	<suffix> professional	grupo	0    	0000-00-00 00:00:00
-level	pro ~	<preposition>kerana ~, kerana ~	<preposition> because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
-level	-estr-	<suffix>ketua, ketua, ketua, ketua	<suffix> leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
+level	-ist-	(suffix) profesional	(suffix)  professional	grupo	0    	0000-00-00 00:00:00
+level	pro ~	(preposition) kerana ~, kerana ~	(preposition)  because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
+level	-estr-	(suffix) ketua, ketua, ketua, ketua	(suffix)  leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
 level	kio	apa	what	grupo	0    	0000-00-00 00:00:00
 level	manĝi	untuk makan	to eat	grupo	0    	0000-00-00 00:00:00
 level	nenio	tiada, tiada, tiada apa-apa	nothing, none, not any thing	grupo	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ level	ĉio	segala-galanya	everything	grupo	0    	0000-00-00 00:00:00
 level	riĉa	kaya, kaya, kaya	rich, wealthy, well-off	grupo	0    	0000-00-00 00:00:00
 level	tio	perkara itu, itu	that thing, that	grupo	0    	0000-00-00 00:00:00
 level	konstrui	membina, membina	to build, to construct	grupo	0    	0000-00-00 00:00:00
-level	ĉef-	<prefix>ketua, ketua, utama	<prefix> chief, leading, main	grupo	0    	0000-00-00 00:00:00
-level	sen ~	<preposition>tanpa ~	<preposition> without ~	grupo	0    	0000-00-00 00:00:00
-level	kun ~	<preposition>dengan ~ (bersama)	<preposition> with ~ (together)	grupo	0    	0000-00-00 00:00:00
-level	krom ~	<preposition>kecuali ~, selain ~	<preposition> except ~, besides ~	grupo	0    	0000-00-00 00:00:00
+level	ĉef-	(prefix) ketua, ketua, utama	(prefix)  chief, leading, main	grupo	0    	0000-00-00 00:00:00
+level	sen ~	(preposition) tanpa ~	(preposition)  without ~	grupo	0    	0000-00-00 00:00:00
+level	kun ~	(preposition) dengan ~ (bersama)	(preposition)  with ~ (together)	grupo	0    	0000-00-00 00:00:00
+level	krom ~	(preposition) kecuali ~, selain ~	(preposition)  except ~, besides ~	grupo	0    	0000-00-00 00:00:00
 level	amiko	seorang kawan	a friend	grupo	0    	0000-00-00 00:00:00
 level	kies	yang mana, yang mana, yang mana	whose, which one's, of which	grupo	0    	0000-00-00 00:00:00
-level	per ~	<preposition>dengan ~ (kaedah), dengan ~ (alat)	<preposition> by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
+level	per ~	(preposition) dengan ~ (kaedah), dengan ~ (alat)	(preposition)  by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
 level	kontraŭ ~	terhadap ~	against ~	grupo	0    	0000-00-00 00:00:00
 level	el ~	daripada ~, daripada ~	out of ~, from ~	grupo	0    	0000-00-00 00:00:00
 level	hodiaŭ	hari ini	today	grupo	0    	0000-00-00 00:00:00
 level	hieraŭ	semalam	yesterday	grupo	0    	0000-00-00 00:00:00
 level	nur	hanya, hanya, secara eksklusif	only, just, exclusively	grupo	0    	0000-00-00 00:00:00
 level	helpi	menolong, menolong, menolong	to help, to aid, to assist	grupo	0    	0000-00-00 00:00:00
-level	for	<adverb>jauh	<adverb> far, away	grupo	0    	0000-00-00 00:00:00
+level	for	(adverb) jauh	(adverb)  far, away	grupo	0    	0000-00-00 00:00:00
 level	nek	mahupun, tidak juga	nor, neither	grupo	0    	0000-00-00 00:00:00
 level	malamo	suatu kebencian	a hate	grupo	0    	0000-00-00 00:00:00
 level	preskaŭ	hampir, hampir	almost, nearly	grupo	0    	0000-00-00 00:00:00
@@ -137,7 +137,7 @@ level	tiu	orang itu, itu ~, itu, di sana	that person, that ~, that one, yonder	g
 level	iu	seseorang, seseorang, beberapa	someone, somebody, some	grupo	0    	0000-00-00 00:00:00
 level	neniu	tiada siapa, tiada siapa, tidak juga	nobody, no one, neither	grupo	0    	0000-00-00 00:00:00
 level	al ~	kepada ~	to ~	grupo	0    	0000-00-00 00:00:00
-level	-ebl-	<suffix>~boleh	<suffix> ~able	grupo	0    	0000-00-00 00:00:00
+level	-ebl-	(suffix) ~boleh	(suffix)  ~able	grupo	0    	0000-00-00 00:00:00
 level	esperi	untuk berharap	to hope	grupo	0    	0000-00-00 00:00:00
 level	unu	satu	one	grupo	0    	0000-00-00 00:00:00
 level	du	dua	two	grupo	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ level	naŭ	sembilan	nine	grupo	0    	0000-00-00 00:00:00
 level	dek	sepuluh	ten	grupo	0    	0000-00-00 00:00:00
 level	cent	seratus	a hundred	grupo	0    	0000-00-00 00:00:00
 level	mil	seribu	a thousand	grupo	0    	0000-00-00 00:00:00
-level	-obl-	<suffix>untuk kepelbagaian, -oble, -fold	<suffix> for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
-level	-on-	<suffix>~ ke, pecahan	<suffix> ~th, fraction	grupo	0    	0000-00-00 00:00:00
+level	-obl-	(suffix) untuk kepelbagaian, -oble, -fold	(suffix)  for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
+level	-on-	(suffix) ~ ke, pecahan	(suffix)  ~th, fraction	grupo	0    	0000-00-00 00:00:00
 level	ama	cinta	of love	grupo	0    	0000-00-00 00:00:00
 level	anstataŭ ~	bukannya ~	instead of ~	grupo	0    	0000-00-00 00:00:00
-level	-iĝ-	<suffix>menjadi	<suffix> become	grupo	0    	0000-00-00 00:00:00
+level	-iĝ-	(suffix) menjadi	(suffix)  become	grupo	0    	0000-00-00 00:00:00
 level	voli	mahu, berkehendak, berkemahuan	to want, to will, to be willing to	grupo	0    	0000-00-00 00:00:00
-level	-ig-	<suffix>menyebabkan menjadi	<suffix> cause to become	grupo	0    	0000-00-00 00:00:00
+level	-ig-	(suffix) menyebabkan menjadi	(suffix)  cause to become	grupo	0    	0000-00-00 00:00:00
 level	sekvi	ikut	to follow	grupo	0    	0000-00-00 00:00:00
 level	ĝoje	dengan senang hati	gladly	grupo	0    	0000-00-00 00:00:00
 level	legi	untuk membaca	to read	grupo	0    	0000-00-00 00:00:00
 level	silenta	senyap	silent	grupo	0    	0000-00-00 00:00:00
 level	la	yang	the	grupo	0    	0000-00-00 00:00:00
 level	ha!	ha!	ha!	grupo	0    	0000-00-00 00:00:00
-level	-il-	<suffix>alat, kaedah	<suffix> tool, method	grupo	0    	0000-00-00 00:00:00
+level	-il-	(suffix) alat, kaedah	(suffix)  tool, method	grupo	0    	0000-00-00 00:00:00
 level	trinki	minum (bukan alkohol)	to drink (non-alkohol)	grupo	0    	0000-00-00 00:00:00
-level	-et-	<suffix>kecil, kecil	<suffix> small, little	grupo	0    	0000-00-00 00:00:00
-level	-eg-	<suffix>besar, besar	<suffix> big, large	grupo	0    	0000-00-00 00:00:00
-level	inter ~	<preposition>antara ~	<preposition> between ~	grupo	0    	0000-00-00 00:00:00
-level	-um-	<suffix>tingkah laku yang berkaitan	<suffix> related behavior	grupo	0    	0000-00-00 00:00:00
-level	-ar-	<suffix>set, kumpulan	<suffix> set, group	grupo	0    	0000-00-00 00:00:00
-level	-an-	<suffix>ahli kumpulan	<suffix> member of a group	grupo	0    	0000-00-00 00:00:00
+level	-et-	(suffix) kecil, kecil	(suffix)  small, little	grupo	0    	0000-00-00 00:00:00
+level	-eg-	(suffix) besar, besar	(suffix)  big, large	grupo	0    	0000-00-00 00:00:00
+level	inter ~	(preposition) antara ~	(preposition)  between ~	grupo	0    	0000-00-00 00:00:00
+level	-um-	(suffix) tingkah laku yang berkaitan	(suffix)  related behavior	grupo	0    	0000-00-00 00:00:00
+level	-ar-	(suffix) set, kumpulan	(suffix)  set, group	grupo	0    	0000-00-00 00:00:00
+level	-an-	(suffix) ahli kumpulan	(suffix)  member of a group	grupo	0    	0000-00-00 00:00:00
 level	danki	untuk berterima kasih	to thank	grupo	0    	0000-00-00 00:00:00
-level	-ind-	<suffix>berbaloi, layak	<suffix> worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
+level	-ind-	(suffix) berbaloi, layak	(suffix)  worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
 level	plu	bahkan lebih, lebih jauh, dan seterusnya, lebih banyak lagi	even more, further, and so on, more	grupo	0    	0000-00-00 00:00:00
 level	kiel	bagaimana, seperti, dengan cara apa, seperti	how, like, in what way, such as	grupo	0    	0000-00-00 00:00:00
 level	tiel	sedemikian, dengan cara itu, dengan demikian	such, in that way, thus	grupo	0    	0000-00-00 00:00:00
-level	en ~	<preposition>dalam ~	<preposition> in ~	grupo	0    	0000-00-00 00:00:00
-level	apud ~	<preposition>sebelah ~, sebelah ~	<preposition> next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
-level	sub ~	<preposition>di bawah, di bawah ~	<preposition> under, beneath ~	grupo	0    	0000-00-00 00:00:00
-level	sur ~	<preposition>pada ~	<preposition> on ~	grupo	0    	0000-00-00 00:00:00
-level	je ~	<preposition>persediaan tidak tentu., pada, dalam, oleh, pada	<preposition> indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
-level	ankoraŭ	<adverb>masih belum	<adverb> still, yet	grupo	0    	0000-00-00 00:00:00
-level	ĉirkaŭ ~	<preposition>sekitar ~	<preposition> around ~	grupo	0    	0000-00-00 00:00:00
+level	en ~	(preposition) dalam ~	(preposition)  in ~	grupo	0    	0000-00-00 00:00:00
+level	apud ~	(preposition) sebelah ~, sebelah ~	(preposition)  next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
+level	sub ~	(preposition) di bawah, di bawah ~	(preposition)  under, beneath ~	grupo	0    	0000-00-00 00:00:00
+level	sur ~	(preposition) pada ~	(preposition)  on ~	grupo	0    	0000-00-00 00:00:00
+level	je ~	(preposition) persediaan tidak tentu., pada, dalam, oleh, pada	(preposition)  indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ	(adverb) masih belum	(adverb)  still, yet	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ ~	(preposition) sekitar ~	(preposition)  around ~	grupo	0    	0000-00-00 00:00:00
 level	sed	tetapi	but	grupo	0    	0000-00-00 00:00:00
 level	ie	di suatu tempat	somewhere	grupo	0    	0000-00-00 00:00:00
 level	kie	di mana, di tempat apa	where, at what place	grupo	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ level	tie	sana, sana, sana	there, over there, yonder	grupo	0    	0000-00-00 00:0
 level	ĉi	ini ~	this ~	grupo	0    	0000-00-00 00:00:00
 level	kanti	untuk menyanyi	to sing	grupo	0    	0000-00-00 00:00:00
 level	morti	mati, meninggal dunia	to die, to pass away	grupo	0    	0000-00-00 00:00:00
-level	dum ~	<preposition>semasa ~, manakala ~	<preposition> during ~, while ~	grupo	0    	0000-00-00 00:00:00
+level	dum ~	(preposition) semasa ~, manakala ~	(preposition)  during ~, while ~	grupo	0    	0000-00-00 00:00:00
 level	nacio	sebuah bangsa	a nation	grupo	0    	0000-00-00 00:00:00
 level	koni	untuk mengetahui (seseorang), untuk berkenalan	to know (a person), to be aquainted with	grupo	0    	0000-00-00 00:00:00
 level	scii	untuk mengetahui (sesuatu fakta, pengetahuan), untuk mengetahui bagaimana	to know (a fact, knowledge), to know how	grupo	0    	0000-00-00 00:00:00
 level	ĉiam	sentiasa, sentiasa	always, ever	grupo	0    	0000-00-00 00:00:00
 level	iam	pada suatu masa, sekali	at some time, once	grupo	0    	0000-00-00 00:00:00
 level	tiam	kemudian	then	grupo	0    	0000-00-00 00:00:00
-level	-em-	<suffix>kecenderungan	<suffix> tendancy	grupo	0    	0000-00-00 00:00:00
+level	-em-	(suffix) kecenderungan	(suffix)  tendancy	grupo	0    	0000-00-00 00:00:00
 level	ia	beberapa jenis	some kind of	grupo	0    	0000-00-00 00:00:00
 level	sukcesi	untuk berjaya	to succeed	grupo	0    	0000-00-00 00:00:00
 level	ĉia	semua jenis, setiap jenis	of all kind, every kind of	grupo	0    	0000-00-00 00:00:00
 level	nenia	tidak, bukan apa-apa, bukan apa-apa	no, not any kind of, not any	grupo	0    	0000-00-00 00:00:00
-level	-id-	<suffix>zuriat	<suffix> offspring	grupo	0    	0000-00-00 00:00:00
+level	-id-	(suffix) zuriat	(suffix)  offspring	grupo	0    	0000-00-00 00:00:00
 level	ĉambro	bilik, bilik	a room, a chamber	grupo	0    	0000-00-00 00:00:00
 level	patro	seorang bapa	a father	grupo	0    	0000-00-00 00:00:00
 level	porko	babi, babi	a pig, swine	grupo	0    	0000-00-00 00:00:00
-level	bo-	<prefix>-mertua, melalui perkahwinan	<prefix> -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
+level	bo-	(prefix) -mertua, melalui perkahwinan	(prefix)  -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
 level	ja	sungguh	indeed	grupo	0    	0000-00-00 00:00:00
-level	-ism-	<suffix>-isme	<suffix> -ism	grupo	0    	0000-00-00 00:00:00
+level	-ism-	(suffix) -isme	(suffix)  -ism	grupo	0    	0000-00-00 00:00:00
 level	io	sesuatu	something	grupo	0    	0000-00-00 00:00:00
 level	veturi	memandu (kenderaan)	to drive (a vehicle)	grupo	0    	0000-00-00 00:00:00
 level	koko	ayam, ayam, ayam, ayam	a cock, a hen, chicken, fowl	grupo	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ level	merkredo	Rabu	Wednesday	grupo	0    	0000-00-00 00:00:00
 level	vendredo	Jumaat	Friday	grupo	0    	0000-00-00 00:00:00
 level	fiŝkaptado	menangkap ikan, menangkap ikan	fish-catching, catching fishes	grupo	0    	0000-00-00 00:00:00
 level	ilustri	untuk menggambarkan	to illustrate	grupo	0    	0000-00-00 00:00:00
-level	des	<adverb>begitu banyak (lebih, kurang)	<adverb> so much (more, less)	grupo	0    	0000-00-00 00:00:00
+level	des	(adverb) begitu banyak (lebih, kurang)	(adverb)  so much (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sabato	Sabtu	Saturday	grupo	0    	0000-00-00 00:00:00
 level	ĵaŭdo	Khamis	Thursday	grupo	0    	0000-00-00 00:00:00
 level	mardo	Selasa	Tuesday	grupo	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ level	ŝtupo	satu langkah, tangga, anak tangga	a step, a stair, a rung	grupo	0  
 level	bordo	pantai, tepi laut, tebing	a shore, a waterfront, a bank	grupo	0    	0000-00-00 00:00:00
 level	justa	adil, adil, adil	fair, just, righteous	grupo	0    	0000-00-00 00:00:00
 level	lumo	sebuah cahaya	a light	grupo	0    	0000-00-00 00:00:00
-level	malgraŭ ~	<preposition>walaupun ~, walaupun ~	<preposition> despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
+level	malgraŭ ~	(preposition) walaupun ~, walaupun ~	(preposition)  despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
 level	drinkado	tindakan minum	drinking action	grupo	0    	0000-00-00 00:00:00
 level	aŭtomobilo	kereta, kereta, kereta motor (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	0    	0000-00-00 00:00:00
 level	bonvoli	berkehendak (dari hati), berkehendak (dari hati)	to will (from heart), to want (from heart)	grupo	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ level	nordo	utara	north	grupo	0    	0000-00-00 00:00:00
 level	kolekto	koleksi	collection	grupo	0    	0000-00-00 00:00:00
 level	supro	puncak, puncak	a top, a summit	grupo	0    	0000-00-00 00:00:00
 level	oriento	timur	east	grupo	0    	0000-00-00 00:00:00
-level	ju	<adverb>yang (lebih, kurang)	<adverb> the (more, less)	grupo	0    	0000-00-00 00:00:00
+level	ju	(adverb) yang (lebih, kurang)	(adverb)  the (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sudo	selatan	south	grupo	0    	0000-00-00 00:00:00
 level	okcidento	barat	west	grupo	0    	0000-00-00 00:00:00
 level	juĝi	untuk menghakimi	to judge	grupo	0    	0000-00-00 00:00:00
@@ -782,9 +782,9 @@ level	malalta	rendah	low	grupo	0    	0000-00-00 00:00:00
 level	viando	daging, daging	meat, a meat	grupo	0    	0000-00-00 00:00:00
 level	respekti	untuk menghormati	to respect	grupo	0    	0000-00-00 00:00:00
 level	forno	relau, dapur, ketuhar	a furnace, a stove, an oven	grupo	0    	0000-00-00 00:00:00
-level	-er-	<suffix>unsur, zarah kecil keseluruhan	<suffix> element, small particle of whole	grupo	0    	0000-00-00 00:00:00
+level	-er-	(suffix) unsur, zarah kecil keseluruhan	(suffix)  element, small particle of whole	grupo	0    	0000-00-00 00:00:00
 level	malkovri	untuk menemui, untuk mendedahkan, untuk mendedahkan	to discover, to uncover, to unveil	grupo	0    	0000-00-00 00:00:00
-level	-aĉ-	<suffix>buruk, menjijikkan	<suffix> bad, disgusting	grupo	0    	0000-00-00 00:00:00
+level	-aĉ-	(suffix) buruk, menjijikkan	(suffix)  bad, disgusting	grupo	0    	0000-00-00 00:00:00
 level	branĉo	dahan, dahan	a branch, a bough	grupo	0    	0000-00-00 00:00:00
 level	malhela	gelap, suram, suram	dark, dismal, bleak	grupo	0    	0000-00-00 00:00:00
 level	mensogi	untuk berbohong, untuk bercakap bohong	to lie, to tell a lie	grupo	0    	0000-00-00 00:00:00
@@ -1076,7 +1076,7 @@ level	imagi	untuk membayangkan	to imagine	grupo	0    	0000-00-00 00:00:00
 level	fidela	setia, amanah	faithful, trustworthy	grupo	0    	0000-00-00 00:00:00
 level	partopreni	untuk mengambil bahagian, untuk mengambil bahagian	to participate, to take part	grupo	0    	0000-00-00 00:00:00
 level	kastelo	sebuah istana, sebuah benteng	a castle, a citadel	grupo	0    	0000-00-00 00:00:00
-level	-op-	<suffix>kumpulan dalam nombor	<suffix> a group in numbers	grupo	0    	0000-00-00 00:00:00
+level	-op-	(suffix) kumpulan dalam nombor	(suffix)  a group in numbers	grupo	0    	0000-00-00 00:00:00
 level	ĉeesti	untuk menghadiri, untuk hadir di	to attend, to be present at	grupo	0    	0000-00-00 00:00:00
 level	televido	TV, televisyen	TV, television	grupo	0    	0000-00-00 00:00:00
 level	studento	seorang pelajar (universiti)	a student (university)	grupo	0    	0000-00-00 00:00:00
@@ -1328,7 +1328,7 @@ level	lastjare	tahun lepas	last year	grupo	0    	0000-00-00 00:00:00
 level	vojmontrilo	mercu tanda, tanda	a landmark, a signpost	grupo	0    	0000-00-00 00:00:00
 level	kelo	bilik bawah tanah, ruang bawah tanah	a cellar, a basement	grupo	0    	0000-00-00 00:00:00
 level	firma	teguh, stabil	firm, stable	grupo	0    	0000-00-00 00:00:00
-level	eks-	<prefix>bekas, bekas	<prefix> ex-, former	grupo	0    	0000-00-00 00:00:00
+level	eks-	(prefix) bekas, bekas	(prefix)  ex-, former	grupo	0    	0000-00-00 00:00:00
 level	kilogramo	sekilogram	a kilogram	grupo	0    	0000-00-00 00:00:00
 level	frago	strawberi	a strawberry	grupo	0    	0000-00-00 00:00:00
 level	pato	kuali	a frying pan	grupo	0    	0000-00-00 00:00:00
@@ -1340,7 +1340,7 @@ level	matura	matang, matang	mature, ripe	grupo	0    	0000-00-00 00:00:00
 level	kulerego	baldi, sudu besar	bucket, a large spoon	grupo	0    	0000-00-00 00:00:00
 level	konduti	untuk berkelakuan sendiri, untuk berkelakuan	to conduct oneself, to behave	grupo	0    	0000-00-00 00:00:00
 level	vere	sungguh, sungguh, sungguh	really, genuinly, truly	grupo	0    	0000-00-00 00:00:00
-level	mis-	<prefix>salah-	<prefix> mis-	grupo	0    	0000-00-00 00:00:00
+level	mis-	(prefix) salah-	(prefix)  mis-	grupo	0    	0000-00-00 00:00:00
 level	kvieta	tenang, tenang	quiet, calm	grupo	0    	0000-00-00 00:00:00
 level	funkcii	untuk berfungsi, untuk beroperasi, untuk bekerja	to function, to operate, to work	grupo	0    	0000-00-00 00:00:00
 level	konvena	sesuai, sesuai	appropriate, suitable	grupo	0    	0000-00-00 00:00:00
@@ -1355,14 +1355,14 @@ level	mieno	ekspresi (muka).	a (facial) expression	grupo	0    	0000-00-00 00:00:
 level	pensio	pencen, anuiti	pension, annuity	grupo	0    	0000-00-00 00:00:00
 level	princo	seorang putera raja	a prince	grupo	0    	0000-00-00 00:00:00
 level	sorto	takdir, nasib, nasib	destiny, fate, fortune	grupo	0    	0000-00-00 00:00:00
-level	-end-	<suffix>kewajipan	<suffix> obligation	grupo	0    	0000-00-00 00:00:00
+level	-end-	(suffix) kewajipan	(suffix)  obligation	grupo	0    	0000-00-00 00:00:00
 level	longaj ŝtrumpoj	stoking panjang	long stockings	grupo	0    	0000-00-00 00:00:00
 level	barbo	janggut	beard	grupo	0    	0000-00-00 00:00:00
-level	-ing-	<suffix>pemegang panjang, soket	<suffix> long holder, socket	grupo	0    	0000-00-00 00:00:00
+level	-ing-	(suffix) pemegang panjang, soket	(suffix)  long holder, socket	grupo	0    	0000-00-00 00:00:00
 level	bongusta	sedap, sedap	delicious, good-tasted	grupo	0    	0000-00-00 00:00:00
 level	flegi	untuk menjaga, untuk jururawat	to take care of, to nurse	grupo	0    	0000-00-00 00:00:00
-level	-njo	<suffix>nama haiwan peliharaan betina	<suffix> female pet name	grupo	0    	0000-00-00 00:00:00
-level	-ĉjo	<suffix>nama haiwan peliharaan jantan	<suffix> male pet name	grupo	0    	0000-00-00 00:00:00
+level	-njo	(suffix) nama haiwan peliharaan betina	(suffix)  female pet name	grupo	0    	0000-00-00 00:00:00
+level	-ĉjo	(suffix) nama haiwan peliharaan jantan	(suffix)  male pet name	grupo	0    	0000-00-00 00:00:00
 level	plugi	membajak, membajak, membajak	to plow, to plough, to till	grupo	0    	0000-00-00 00:00:00
 level	amletero	surat cinta	a loveletter	grupo	0    	0000-00-00 00:00:00
 level	glaso da	segelas	a glass of	grupo	0    	0000-00-00 00:00:00
@@ -1632,7 +1632,7 @@ level	kvanto	kuantiti, jumlah	quantity, amount	grupo	0    	0000-00-00 00:00:00
 level	batilo	kelawar (untuk memukul)	a bat (to hit)	grupo	0    	0000-00-00 00:00:00
 level	kvalito	kualiti, harta	quality, property	grupo	0    	0000-00-00 00:00:00
 level	laŭte	dengan kuat, lantang	loudly, aloud	grupo	0    	0000-00-00 00:00:00
-level	-ut-	<suffix>pasif bersyarat	<suffix> conditional passive	grupo	0    	0000-00-00 00:00:00
+level	-ut-	(suffix) pasif bersyarat	(suffix)  conditional passive	grupo	0    	0000-00-00 00:00:00
 level	kristnasko	Krismas	Christmas	grupo	0    	0000-00-00 00:00:00
 level	vivo	sebuah kehidupan	a life	grupo	0    	0000-00-00 00:00:00
 level	freneza	gila, gila, gila	crazy, insane, mad	grupo	0    	0000-00-00 00:00:00
@@ -2391,7 +2391,7 @@ level	heredi	Mewarisi	to inherit	grupo	0    	0000-00-00 00:00:00
 level	flugbileto	tiket penerbangan	an air ticket	grupo	0    	0000-00-00 00:00:00
 level	robo	sebuah pakaian	a dress	grupo	0    	0000-00-00 00:00:00
 level	egipto	seorang Mesir	an Egyptian person	grupo	0    	0000-00-00 00:00:00
-level	-unt	<suffix>aktif bersyarat	<suffix> conditional active	grupo	0    	0000-00-00 00:00:00
+level	-unt	(suffix) aktif bersyarat	(suffix)  conditional active	grupo	0    	0000-00-00 00:00:00
 level	frenezulo	fanatik, gila, gila	a fanatic, a lunatic, a maniac	grupo	0    	0000-00-00 00:00:00
 level	ekde	sejak	since	grupo	0    	0000-00-00 00:00:00
 level	observi	untuk memerhati	to observe	grupo	0    	0000-00-00 00:00:00
@@ -2550,7 +2550,7 @@ level	irako	Iraq	Iraq	grupo	0    	0000-00-00 00:00:00
 level	resumo	ringkasan, ringkasan, resume, rumusan	a summary, a digest, a résumé, a sum-up	grupo	0    	0000-00-00 00:00:00
 level	promeno	persiaran, berjalan kaki	a promenade, a walking	grupo	0    	0000-00-00 00:00:00
 level	horizontalo	garis mendatar	a horizontal line	grupo	0    	0000-00-00 00:00:00
-level	fi-	<prefix>memalukan, menjijikkan, kotor	<prefix> shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
+level	fi-	(prefix) memalukan, menjijikkan, kotor	(prefix)  shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
 level	aŭkcio	satu lelongan	an auction	grupo	0    	0000-00-00 00:00:00
 level	konkludi	untuk menyimpulkan	to conclude	grupo	0    	0000-00-00 00:00:00
 level	salivo	air liur, hamba	saliva, slaver	grupo	0    	0000-00-00 00:00:00
@@ -5882,7 +5882,7 @@ level	Antono	Anthony	Anthony	grupo	0    	0000-00-00 00:00:00
 level	Anno	Anna	Anna	grupo	0    	0000-00-00 00:00:00
 level	Berto	Bert	Bert	grupo	0    	0000-00-00 00:00:00
 level	apelacio	rayuan, penuduh	an appeal, an accuser	grupo	0    	0000-00-00 00:00:00
-level	antimono	<chem>antimoni	<chem> antimony	grupo	0    	0000-00-00 00:00:00
+level	antimono	(chem) antimoni	(chem)  antimony	grupo	0    	0000-00-00 00:00:00
 level	apokrifo	apokrif	apocrypha	grupo	0    	0000-00-00 00:00:00
 level	apoteozo	apotheosis	apotheosis	grupo	0    	0000-00-00 00:00:00
 level	ardezo	batu tulis	slate	grupo	0    	0000-00-00 00:00:00
@@ -5902,7 +5902,7 @@ level	ĉano	ayam jantan (pistol), tukul (pistol)	a cock (of a gun), a hammer (of
 level	afekcii	untuk memberi kesan	to affect	grupo	0    	0000-00-00 00:00:00
 level	hardi	untuk menguatkan	to toughen	grupo	0    	0000-00-00 00:00:00
 level	areno	sebuah arena	an arena	grupo	0    	0000-00-00 00:00:00
-level	arseniko	<chem>arsenik	<chem> arsenic	grupo	0    	0000-00-00 00:00:00
+level	arseniko	(chem) arsenik	(chem)  arsenic	grupo	0    	0000-00-00 00:00:00
 level	borakso	boraks	borax	grupo	0    	0000-00-00 00:00:00
 level	aspiro	aspirasi	aspiration	grupo	0    	0000-00-00 00:00:00
 level	atribuo	atribusi, peruntukan	attribution, allocation	grupo	0    	0000-00-00 00:00:00

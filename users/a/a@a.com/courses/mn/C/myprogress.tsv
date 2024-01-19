@@ -13,23 +13,23 @@ level	mem	өөрөө	by oneself	grupo	0    	0000-00-00 00:00:00
 level	ĝis ~	хүртэл ~ хүртэл, ~ хүртэл	upto ~, until ~	grupo	0    	0000-00-00 00:00:00
 level	de ~	-ийн ~	of ~	grupo	0    	0000-00-00 00:00:00
 level	da ~	(их) нь ~, (олон) нь ~	(much) of ~, (many) of ~	grupo	0    	0000-00-00 00:00:00
-level	-aĵo	<suffix>зүйл, тодорхой илрэл	<suffix> thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
+level	-aĵo	(suffix) зүйл, тодорхой илрэл	(suffix)  thing, concrete manifestation	grupo	0    	0000-00-00 00:00:00
 level	proksima	ойролцоо, ойр, ойрын, ойрын	near, close to, soon, nearby	grupo	0    	0000-00-00 00:00:00
-level	-adi	<suffix>давтагдах үйлдэл, удаан үргэлжлэх үйлдэл	<suffix> repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
-level	-as	<suffix>Одоо цаг	<suffix> present tense	grupo	0    	0000-00-00 00:00:00
-level	-is	<suffix>өнгөрсөн цаг	<suffix> past tense	grupo	0    	0000-00-00 00:00:00
+level	-adi	(suffix) давтагдах үйлдэл, удаан үргэлжлэх үйлдэл	(suffix)  repetitive action, lasting action	grupo	0    	0000-00-00 00:00:00
+level	-as	(suffix) Одоо цаг	(suffix)  present tense	grupo	0    	0000-00-00 00:00:00
+level	-is	(suffix) өнгөрсөн цаг	(suffix)  past tense	grupo	0    	0000-00-00 00:00:00
 level	esti	байх	to be	grupo	0    	0000-00-00 00:00:00
-level	-os	<suffix>ирээдүйн цаг	<suffix> future tense	grupo	0    	0000-00-00 00:00:00
-level	antaŭ ~	<preposition>өмнө ~, урд ~	<preposition> before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
+level	-os	(suffix) ирээдүйн цаг	(suffix)  future tense	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ~	(preposition) өмнө ~, урд ~	(preposition)  before ~, in front of ~	grupo	0    	0000-00-00 00:00:00
 level	fari	хийх, хийх	to make, to do	grupo	0    	0000-00-00 00:00:00
-level	ankaŭ ~	<preposition>бас бас	<preposition> also, too	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ~	(preposition) бас бас	(preposition)  also, too	grupo	0    	0000-00-00 00:00:00
 level	post ~	дараа ~	after ~	grupo	0    	0000-00-00 00:00:00
-level	mal-	<prefix>эсрэг	<prefix> opposite	grupo	0    	0000-00-00 00:00:00
-level	-ul-	<suffix>ямар нэгэн шинж чанартай хүн	<suffix> a person of some trait	grupo	0    	0000-00-00 00:00:00
-level	-in-	<suffix>эмэгтэй	<suffix> female	grupo	0    	0000-00-00 00:00:00
-level	-ant-	<suffix>идэвхтэй одоогийн, is ~ing, хэн нэгэн нь ~ болж байна	<suffix> active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
-level	-int-	<suffix>идэвхтэй өнгөрсөн, was ~ing	<suffix> active past, was ~ing	grupo	0    	0000-00-00 00:00:00
-level	-ont-	<suffix>идэвхтэй ирээдүй, will be ~ing	<suffix> active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
+level	mal-	(prefix) эсрэг	(prefix)  opposite	grupo	0    	0000-00-00 00:00:00
+level	-ul-	(suffix) ямар нэгэн шинж чанартай хүн	(suffix)  a person of some trait	grupo	0    	0000-00-00 00:00:00
+level	-in-	(suffix) эмэгтэй	(suffix)  female	grupo	0    	0000-00-00 00:00:00
+level	-ant-	(suffix) идэвхтэй одоогийн, is ~ing, хэн нэгэн нь ~ болж байна	(suffix)  active present, is ~ing, someone who is ~ing	grupo	0    	0000-00-00 00:00:00
+level	-int-	(suffix) идэвхтэй өнгөрсөн, was ~ing	(suffix)  active past, was ~ing	grupo	0    	0000-00-00 00:00:00
+level	-ont-	(suffix) идэвхтэй ирээдүй, will be ~ing	(suffix)  active future, will be ~ing	grupo	0    	0000-00-00 00:00:00
 level	kaj (k.)	болон	and	grupo	0    	0000-00-00 00:00:00
 level	aŭ	эсвэл	or	grupo	0    	0000-00-00 00:00:00
 level	alta	өндөр, өндөр	high, tall	grupo	0    	0000-00-00 00:00:00
@@ -41,9 +41,9 @@ level	kiom	хэр хичнээн их	how much, how many	grupo	0    	0000-00-00 
 level	ofte	байнга, байнга	often, frequently	grupo	0    	0000-00-00 00:00:00
 level	iom	бага зэрэг, харин зарим нь, зарим талаараа	a little, rather, some, somewhat	grupo	0    	0000-00-00 00:00:00
 level	nova	шинэ, роман	new, novel	grupo	0    	0000-00-00 00:00:00
-level	-at-	<suffix>идэвхгүй одоогийн үе	<suffix> passive present participle	grupo	0    	0000-00-00 00:00:00
-level	-it-	<suffix>идэвхгүй өнгөрсөн үе	<suffix> passive past participle	grupo	0    	0000-00-00 00:00:00
-level	-ot-	<suffix>идэвхгүй ирээдүйн гишүүн	<suffix> passive future participle	grupo	0    	0000-00-00 00:00:00
+level	-at-	(suffix) идэвхгүй одоогийн үе	(suffix)  passive present participle	grupo	0    	0000-00-00 00:00:00
+level	-it-	(suffix) идэвхгүй өнгөрсөн үе	(suffix)  passive past participle	grupo	0    	0000-00-00 00:00:00
+level	-ot-	(suffix) идэвхгүй ирээдүйн гишүүн	(suffix)  passive future participle	grupo	0    	0000-00-00 00:00:00
 level	tre	маш, маш, маш их	very, quite, very much	grupo	0    	0000-00-00 00:00:00
 level	tro	хэтэрхий, хэтэрхий, хэт их	too, excessively, too much	grupo	0    	0000-00-00 00:00:00
 level	tamen	Гэсэн хэдий ч, Гэсэн хэдий ч, гэхдээ, Гэсэн хэдий ч	however, nonetheless, but, nevertheless	grupo	0    	0000-00-00 00:00:00
@@ -51,8 +51,8 @@ level	ho!	Өө! Хо!	Oh! Ho!	grupo	0    	0000-00-00 00:00:00
 level	ke ~	тэр ~	that ~	grupo	0    	0000-00-00 00:00:00
 level	ĉar ~	Учир нь ~	because ~	grupo	0    	0000-00-00 00:00:00
 level	ĉu	эсэх ~	whether ~	grupo	0    	0000-00-00 00:00:00
-level	-ej-	<suffix>газар	<suffix> place	grupo	0    	0000-00-00 00:00:00
-level	-ec-	<suffix>чанарын хийсвэр нэр	<suffix> abstract name of quality	grupo	0    	0000-00-00 00:00:00
+level	-ej-	(suffix) газар	(suffix)  place	grupo	0    	0000-00-00 00:00:00
+level	-ec-	(suffix) чанарын хийсвэр нэр	(suffix)  abstract name of quality	grupo	0    	0000-00-00 00:00:00
 level	ambaŭ ~	хоёулаа ~	both ~	grupo	0    	0000-00-00 00:00:00
 level	tuj	тэр даруй, тэр даруй, тэр даруй	immediately, instantly, right away	grupo	0    	0000-00-00 00:00:00
 level	kvazaŭ ~	~ шиг	as if ~	grupo	0    	0000-00-00 00:00:00
@@ -62,7 +62,7 @@ level	neniam	хэзээ ч, хэзээ ч, хэзээ ч	never, at no time, not 
 level	tial	тиймээс, тийм	therefore, so	grupo	0    	0000-00-00 00:00:00
 level	kial	яагаад, юуны төлөө	why, what for	grupo	0    	0000-00-00 00:00:00
 level	kvankam	хэдий ч ~, байхад, гэхдээ	although ~, while, though	grupo	0    	0000-00-00 00:00:00
-level	ĉe ~	<preposition>~ дээр	<preposition> at ~	grupo	0    	0000-00-00 00:00:00
+level	ĉe ~	(preposition) ~ дээр	(preposition)  at ~	grupo	0    	0000-00-00 00:00:00
 level	pli	илүү	more	grupo	0    	0000-00-00 00:00:00
 level	plej	ихэнх нь	most	grupo	0    	0000-00-00 00:00:00
 level	diri	хэлэх, хэлэх	to say, to tell	grupo	0    	0000-00-00 00:00:00
@@ -73,16 +73,16 @@ level	tia	ийм, тийм, ийм, тийм	such, that kind of, such a	grupo	0 
 level	apenaŭ	арай ядан, бараг, бараг л	barely, hardly, scarecely	grupo	0    	0000-00-00 00:00:00
 level	sendi	илгээх	to send	grupo	0    	0000-00-00 00:00:00
 level	ĵus	дөнгөж сая (хоромын өмнө), яг одоо	just (a moment ago), just now	grupo	0    	0000-00-00 00:00:00
-level	-u	<suffix>зайлшгүй	<suffix> imperative	grupo	0    	0000-00-00 00:00:00
+level	-u	(suffix) зайлшгүй	(suffix)  imperative	grupo	0    	0000-00-00 00:00:00
 level	ekster ~	гадна ~	outside ~	grupo	0    	0000-00-00 00:00:00
-level	ge-	<prefix>аль аль нь хүйс, аль аль нь	<prefix> both sex, both gender	grupo	0    	0000-00-00 00:00:00
-level	-us	<suffix>байх, байх, туслах	<suffix> would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
+level	ge-	(prefix) аль аль нь хүйс, аль аль нь	(prefix)  both sex, both gender	grupo	0    	0000-00-00 00:00:00
+level	-us	(suffix) байх, байх, туслах	(suffix)  would, should, subjunctive	grupo	0    	0000-00-00 00:00:00
 level	baldaŭ	удахгүй	soon	grupo	0    	0000-00-00 00:00:00
 level	almenaŭ	наад зах нь, өөр зүйл байхгүй бол	at least, if nothing else	grupo	0    	0000-00-00 00:00:00
 level	dis-	dis-	dis-	grupo	0    	0000-00-00 00:00:00
-level	-uj-	<suffix>сав; улс	<suffix> container; country	grupo	0    	0000-00-00 00:00:00
+level	-uj-	(suffix) сав; улс	(suffix)  container; country	grupo	0    	0000-00-00 00:00:00
 level	lerni	сурах	to learn	grupo	0    	0000-00-00 00:00:00
-level	ek-	<prefix>эхлэл; гэнэтийн эхлэл	<prefix> beginning; sudden start	grupo	0    	0000-00-00 00:00:00
+level	ek-	(prefix) эхлэл; гэнэтийн эхлэл	(prefix)  beginning; sudden start	grupo	0    	0000-00-00 00:00:00
 level	se	хэрэв тийм бол	if, provided that	grupo	0    	0000-00-00 00:00:00
 level	eĉ	бүр	even	grupo	0    	0000-00-00 00:00:00
 level	amo	хайр	a love	grupo	0    	0000-00-00 00:00:00
@@ -92,11 +92,11 @@ level	fini	дуусгах, дуусгах, дуусгах	to end, to finish, to 
 level	do	тиймээс, тэгвэл, тиймээс	so, then, therefore	grupo	0    	0000-00-00 00:00:00
 level	ajn	~ хэзээ ч, (ямар ч) хэзээ ч, огтхон ч, - хэзээ ч	~ever, (what)ever, at all, -soever	grupo	0    	0000-00-00 00:00:00
 level	facila	хялбар, хялбар	easy, facile	grupo	0    	0000-00-00 00:00:00
-level	re-	<prefix>дахин	<prefix> re-	grupo	0    	0000-00-00 00:00:00
+level	re-	(prefix) дахин	(prefix)  re-	grupo	0    	0000-00-00 00:00:00
 level	granda	том, агуу, том	big, great, large	grupo	0    	0000-00-00 00:00:00
-level	-ist-	<suffix>мэргэжлийн	<suffix> professional	grupo	0    	0000-00-00 00:00:00
-level	pro ~	<preposition>учир нь ~, учир нь ~	<preposition> because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
-level	-estr-	<suffix>удирдагч, дарга, дарга, дарга	<suffix> leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
+level	-ist-	(suffix) мэргэжлийн	(suffix)  professional	grupo	0    	0000-00-00 00:00:00
+level	pro ~	(preposition) учир нь ~, учир нь ~	(preposition)  because of ~, due to ~	grupo	0    	0000-00-00 00:00:00
+level	-estr-	(suffix) удирдагч, дарга, дарга, дарга	(suffix)  leader, boss, head, chief	grupo	0    	0000-00-00 00:00:00
 level	kio	юу	what	grupo	0    	0000-00-00 00:00:00
 level	manĝi	идэх	to eat	grupo	0    	0000-00-00 00:00:00
 level	nenio	юу ч биш, юу ч биш, юу ч биш	nothing, none, not any thing	grupo	0    	0000-00-00 00:00:00
@@ -105,20 +105,20 @@ level	ĉio	бүх зүйл	everything	grupo	0    	0000-00-00 00:00:00
 level	riĉa	баян, чинээлэг, чинээлэг	rich, wealthy, well-off	grupo	0    	0000-00-00 00:00:00
 level	tio	тэр зүйл, тэр	that thing, that	grupo	0    	0000-00-00 00:00:00
 level	konstrui	барих, барих	to build, to construct	grupo	0    	0000-00-00 00:00:00
-level	ĉef-	<prefix>дарга, тэргүүлэх, гол	<prefix> chief, leading, main	grupo	0    	0000-00-00 00:00:00
-level	sen ~	<preposition>~гүйгээр	<preposition> without ~	grupo	0    	0000-00-00 00:00:00
-level	kun ~	<preposition>~-тай (хамтдаа)	<preposition> with ~ (together)	grupo	0    	0000-00-00 00:00:00
-level	krom ~	<preposition>~-аас бусад, ~-аас гадна	<preposition> except ~, besides ~	grupo	0    	0000-00-00 00:00:00
+level	ĉef-	(prefix) дарга, тэргүүлэх, гол	(prefix)  chief, leading, main	grupo	0    	0000-00-00 00:00:00
+level	sen ~	(preposition) ~гүйгээр	(preposition)  without ~	grupo	0    	0000-00-00 00:00:00
+level	kun ~	(preposition) ~-тай (хамтдаа)	(preposition)  with ~ (together)	grupo	0    	0000-00-00 00:00:00
+level	krom ~	(preposition) ~-аас бусад, ~-аас гадна	(preposition)  except ~, besides ~	grupo	0    	0000-00-00 00:00:00
 level	amiko	найз	a friend	grupo	0    	0000-00-00 00:00:00
 level	kies	хэнийх, аль нь, аль нь	whose, which one's, of which	grupo	0    	0000-00-00 00:00:00
-level	per ~	<preposition>~-аар (арга), ~-аар (хэрэгсэл)	<preposition> by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
+level	per ~	(preposition) ~-аар (арга), ~-аар (хэрэгсэл)	(preposition)  by ~ (a method), with ~ (a tool)	grupo	0    	0000-00-00 00:00:00
 level	kontraŭ ~	эсрэг ~	against ~	grupo	0    	0000-00-00 00:00:00
 level	el ~	~-аас, ~-аас	out of ~, from ~	grupo	0    	0000-00-00 00:00:00
 level	hodiaŭ	өнөөдөр	today	grupo	0    	0000-00-00 00:00:00
 level	hieraŭ	өчигдөр	yesterday	grupo	0    	0000-00-00 00:00:00
 level	nur	зөвхөн, зөвхөн, зөвхөн	only, just, exclusively	grupo	0    	0000-00-00 00:00:00
 level	helpi	туслах, туслах, туслах	to help, to aid, to assist	grupo	0    	0000-00-00 00:00:00
-level	for	<adverb>хол, хол	<adverb> far, away	grupo	0    	0000-00-00 00:00:00
+level	for	(adverb) хол, хол	(adverb)  far, away	grupo	0    	0000-00-00 00:00:00
 level	nek	аль нь ч биш	nor, neither	grupo	0    	0000-00-00 00:00:00
 level	malamo	үзэн ядалт	a hate	grupo	0    	0000-00-00 00:00:00
 level	preskaŭ	бараг, бараг	almost, nearly	grupo	0    	0000-00-00 00:00:00
@@ -137,7 +137,7 @@ level	tiu	тэр хүн, тэр ~, тэр нэг, наана	that person, that ~
 level	iu	хэн нэгэн, хэн нэгэн, зарим нь	someone, somebody, some	grupo	0    	0000-00-00 00:00:00
 level	neniu	хэн ч, хэн ч, хэн ч биш	nobody, no one, neither	grupo	0    	0000-00-00 00:00:00
 level	al ~	тулд ~	to ~	grupo	0    	0000-00-00 00:00:00
-level	-ebl-	<suffix>~ боломжтой	<suffix> ~able	grupo	0    	0000-00-00 00:00:00
+level	-ebl-	(suffix) ~ боломжтой	(suffix)  ~able	grupo	0    	0000-00-00 00:00:00
 level	esperi	найдах	to hope	grupo	0    	0000-00-00 00:00:00
 level	unu	нэг	one	grupo	0    	0000-00-00 00:00:00
 level	du	хоёр	two	grupo	0    	0000-00-00 00:00:00
@@ -151,39 +151,39 @@ level	naŭ	есөн	nine	grupo	0    	0000-00-00 00:00:00
 level	dek	арав	ten	grupo	0    	0000-00-00 00:00:00
 level	cent	нэг зуун	a hundred	grupo	0    	0000-00-00 00:00:00
 level	mil	мянга	a thousand	grupo	0    	0000-00-00 00:00:00
-level	-obl-	<suffix>олон талт байдлын хувьд, -oble, -fold	<suffix> for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
-level	-on-	<suffix>~th, бутархай	<suffix> ~th, fraction	grupo	0    	0000-00-00 00:00:00
+level	-obl-	(suffix) олон талт байдлын хувьд, -oble, -fold	(suffix)  for multiplicity, -oble, -fold	grupo	0    	0000-00-00 00:00:00
+level	-on-	(suffix) ~th, бутархай	(suffix)  ~th, fraction	grupo	0    	0000-00-00 00:00:00
 level	ama	Хайрын	of love	grupo	0    	0000-00-00 00:00:00
 level	anstataŭ ~	~-ын оронд	instead of ~	grupo	0    	0000-00-00 00:00:00
-level	-iĝ-	<suffix>болох	<suffix> become	grupo	0    	0000-00-00 00:00:00
+level	-iĝ-	(suffix) болох	(suffix)  become	grupo	0    	0000-00-00 00:00:00
 level	voli	хүсэх, хүсэх, бэлэн байх	to want, to will, to be willing to	grupo	0    	0000-00-00 00:00:00
-level	-ig-	<suffix>болоход хүргэх	<suffix> cause to become	grupo	0    	0000-00-00 00:00:00
+level	-ig-	(suffix) болоход хүргэх	(suffix)  cause to become	grupo	0    	0000-00-00 00:00:00
 level	sekvi	дагах	to follow	grupo	0    	0000-00-00 00:00:00
 level	ĝoje	баяртайгаар	gladly	grupo	0    	0000-00-00 00:00:00
 level	legi	унших	to read	grupo	0    	0000-00-00 00:00:00
 level	silenta	чимээгүй	silent	grupo	0    	0000-00-00 00:00:00
 level	la	нь	the	grupo	0    	0000-00-00 00:00:00
 level	ha!	ха!	ha!	grupo	0    	0000-00-00 00:00:00
-level	-il-	<suffix>хэрэгсэл, арга	<suffix> tool, method	grupo	0    	0000-00-00 00:00:00
+level	-il-	(suffix) хэрэгсэл, арга	(suffix)  tool, method	grupo	0    	0000-00-00 00:00:00
 level	trinki	уух (архигүй)	to drink (non-alkohol)	grupo	0    	0000-00-00 00:00:00
-level	-et-	<suffix>жижиг, бага	<suffix> small, little	grupo	0    	0000-00-00 00:00:00
-level	-eg-	<suffix>том, том	<suffix> big, large	grupo	0    	0000-00-00 00:00:00
-level	inter ~	<preposition>~ хооронд	<preposition> between ~	grupo	0    	0000-00-00 00:00:00
-level	-um-	<suffix>холбоотой зан үйл	<suffix> related behavior	grupo	0    	0000-00-00 00:00:00
-level	-ar-	<suffix>багц, бүлэг	<suffix> set, group	grupo	0    	0000-00-00 00:00:00
-level	-an-	<suffix>бүлгийн гишүүн	<suffix> member of a group	grupo	0    	0000-00-00 00:00:00
+level	-et-	(suffix) жижиг, бага	(suffix)  small, little	grupo	0    	0000-00-00 00:00:00
+level	-eg-	(suffix) том, том	(suffix)  big, large	grupo	0    	0000-00-00 00:00:00
+level	inter ~	(preposition) ~ хооронд	(preposition)  between ~	grupo	0    	0000-00-00 00:00:00
+level	-um-	(suffix) холбоотой зан үйл	(suffix)  related behavior	grupo	0    	0000-00-00 00:00:00
+level	-ar-	(suffix) багц, бүлэг	(suffix)  set, group	grupo	0    	0000-00-00 00:00:00
+level	-an-	(suffix) бүлгийн гишүүн	(suffix)  member of a group	grupo	0    	0000-00-00 00:00:00
 level	danki	талархах	to thank	grupo	0    	0000-00-00 00:00:00
-level	-ind-	<suffix>үнэ цэнэтэй, зохистой	<suffix> worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
+level	-ind-	(suffix) үнэ цэнэтэй, зохистой	(suffix)  worthwhile, worthy	grupo	0    	0000-00-00 00:00:00
 level	plu	бүр илүү, цааш, гэх мэт, илүү	even more, further, and so on, more	grupo	0    	0000-00-00 00:00:00
 level	kiel	яаж, гэх мэт, ямар замаар, гэх мэт	how, like, in what way, such as	grupo	0    	0000-00-00 00:00:00
 level	tiel	ийм, ийм байдлаар, ийм байдлаар	such, in that way, thus	grupo	0    	0000-00-00 00:00:00
-level	en ~	<preposition>~-д	<preposition> in ~	grupo	0    	0000-00-00 00:00:00
-level	apud ~	<preposition>~-ийн хажууд, ~-ын хажууд	<preposition> next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
-level	sub ~	<preposition>дор, доор ~	<preposition> under, beneath ~	grupo	0    	0000-00-00 00:00:00
-level	sur ~	<preposition>дээр ~	<preposition> on ~	grupo	0    	0000-00-00 00:00:00
-level	je ~	<preposition>indefinate prep., at, in, by, on	<preposition> indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
-level	ankoraŭ	<adverb>одоо ч гэсэн	<adverb> still, yet	grupo	0    	0000-00-00 00:00:00
-level	ĉirkaŭ ~	<preposition>эргэн тойронд ~	<preposition> around ~	grupo	0    	0000-00-00 00:00:00
+level	en ~	(preposition) ~-д	(preposition)  in ~	grupo	0    	0000-00-00 00:00:00
+level	apud ~	(preposition) ~-ийн хажууд, ~-ын хажууд	(preposition)  next to ~, beside ~	grupo	0    	0000-00-00 00:00:00
+level	sub ~	(preposition) дор, доор ~	(preposition)  under, beneath ~	grupo	0    	0000-00-00 00:00:00
+level	sur ~	(preposition) дээр ~	(preposition)  on ~	grupo	0    	0000-00-00 00:00:00
+level	je ~	(preposition) indefinate prep., at, in, by, on	(preposition)  indefinate prep., at, in, by, on	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ	(adverb) одоо ч гэсэн	(adverb)  still, yet	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ ~	(preposition) эргэн тойронд ~	(preposition)  around ~	grupo	0    	0000-00-00 00:00:00
 level	sed	гэхдээ	but	grupo	0    	0000-00-00 00:00:00
 level	ie	хаа нэгтээ	somewhere	grupo	0    	0000-00-00 00:00:00
 level	kie	хаана, ямар газар	where, at what place	grupo	0    	0000-00-00 00:00:00
@@ -194,25 +194,25 @@ level	tie	тэнд, тэнд, тэнд	there, over there, yonder	grupo	0    	000
 level	ĉi	энэ ~	this ~	grupo	0    	0000-00-00 00:00:00
 level	kanti	дуулах	to sing	grupo	0    	0000-00-00 00:00:00
 level	morti	үхэх, өнгөрөх	to die, to pass away	grupo	0    	0000-00-00 00:00:00
-level	dum ~	<preposition>үед ~, байхад ~	<preposition> during ~, while ~	grupo	0    	0000-00-00 00:00:00
+level	dum ~	(preposition) үед ~, байхад ~	(preposition)  during ~, while ~	grupo	0    	0000-00-00 00:00:00
 level	nacio	үндэстэн	a nation	grupo	0    	0000-00-00 00:00:00
 level	koni	мэдэх (хүн), танил болох	to know (a person), to be aquainted with	grupo	0    	0000-00-00 00:00:00
 level	scii	мэдэх (баримт, мэдлэг), яаж мэдэх	to know (a fact, knowledge), to know how	grupo	0    	0000-00-00 00:00:00
 level	ĉiam	үргэлж, хэзээд	always, ever	grupo	0    	0000-00-00 00:00:00
 level	iam	зарим үед, нэг удаа	at some time, once	grupo	0    	0000-00-00 00:00:00
 level	tiam	тэгээд	then	grupo	0    	0000-00-00 00:00:00
-level	-em-	<suffix>хандлага	<suffix> tendancy	grupo	0    	0000-00-00 00:00:00
+level	-em-	(suffix) хандлага	(suffix)  tendancy	grupo	0    	0000-00-00 00:00:00
 level	ia	зарим төрлийн	some kind of	grupo	0    	0000-00-00 00:00:00
 level	sukcesi	амжилттай	to succeed	grupo	0    	0000-00-00 00:00:00
 level	ĉia	бүх төрлийн, бүх төрлийн	of all kind, every kind of	grupo	0    	0000-00-00 00:00:00
 level	nenia	үгүй, ямар ч төрлийн биш, ямар ч биш	no, not any kind of, not any	grupo	0    	0000-00-00 00:00:00
-level	-id-	<suffix>үр удам	<suffix> offspring	grupo	0    	0000-00-00 00:00:00
+level	-id-	(suffix) үр удам	(suffix)  offspring	grupo	0    	0000-00-00 00:00:00
 level	ĉambro	өрөө, танхим	a room, a chamber	grupo	0    	0000-00-00 00:00:00
 level	patro	аав	a father	grupo	0    	0000-00-00 00:00:00
 level	porko	гахай, гахай	a pig, swine	grupo	0    	0000-00-00 00:00:00
-level	bo-	<prefix>-хадм, гэрлэлтээр	<prefix> -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
+level	bo-	(prefix) -хадм, гэрлэлтээр	(prefix)  -in-law, by marriage	grupo	0    	0000-00-00 00:00:00
 level	ja	үнэхээр	indeed	grupo	0    	0000-00-00 00:00:00
-level	-ism-	<suffix>-изм	<suffix> -ism	grupo	0    	0000-00-00 00:00:00
+level	-ism-	(suffix) -изм	(suffix)  -ism	grupo	0    	0000-00-00 00:00:00
 level	io	ямар нэг зүйл	something	grupo	0    	0000-00-00 00:00:00
 level	veturi	жолоодох (тээврийн хэрэгсэл)	to drive (a vehicle)	grupo	0    	0000-00-00 00:00:00
 level	koko	тахиа, тахиа, тахиа, шувуу	a cock, a hen, chicken, fowl	grupo	0    	0000-00-00 00:00:00
@@ -623,7 +623,7 @@ level	merkredo	Лхагва гараг	Wednesday	grupo	0    	0000-00-00 00:00:00
 level	vendredo	Баасан гараг	Friday	grupo	0    	0000-00-00 00:00:00
 level	fiŝkaptado	загас барих, загас барих	fish-catching, catching fishes	grupo	0    	0000-00-00 00:00:00
 level	ilustri	дүрслэн харуулах	to illustrate	grupo	0    	0000-00-00 00:00:00
-level	des	<adverb>маш их (илүү, бага)	<adverb> so much (more, less)	grupo	0    	0000-00-00 00:00:00
+level	des	(adverb) маш их (илүү, бага)	(adverb)  so much (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sabato	Бямба гариг	Saturday	grupo	0    	0000-00-00 00:00:00
 level	ĵaŭdo	Пүрэв гараг	Thursday	grupo	0    	0000-00-00 00:00:00
 level	mardo	Мягмар гараг	Tuesday	grupo	0    	0000-00-00 00:00:00
@@ -676,7 +676,7 @@ level	ŝtupo	алхам, шат, шат	a step, a stair, a rung	grupo	0    	0000
 level	bordo	эрэг, далайн эрэг, эрэг	a shore, a waterfront, a bank	grupo	0    	0000-00-00 00:00:00
 level	justa	шударга, шударга, зөвт	fair, just, righteous	grupo	0    	0000-00-00 00:00:00
 level	lumo	гэрэл	a light	grupo	0    	0000-00-00 00:00:00
-level	malgraŭ ~	<preposition>хэдий ч ~, хэдий ч ~	<preposition> despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
+level	malgraŭ ~	(preposition) хэдий ч ~, хэдий ч ~	(preposition)  despite ~, in spite of ~	grupo	0    	0000-00-00 00:00:00
 level	drinkado	архи уух үйлдэл	drinking action	grupo	0    	0000-00-00 00:00:00
 level	aŭtomobilo	машин, автомашин, моторт машин (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	0    	0000-00-00 00:00:00
 level	bonvoli	хүсэх (зүрхнээсээ), хүсэх (сэтгэлээс)	to will (from heart), to want (from heart)	grupo	0    	0000-00-00 00:00:00
@@ -727,7 +727,7 @@ level	nordo	хойд	north	grupo	0    	0000-00-00 00:00:00
 level	kolekto	цуглуулга	collection	grupo	0    	0000-00-00 00:00:00
 level	supro	оргил, оргил	a top, a summit	grupo	0    	0000-00-00 00:00:00
 level	oriento	зүүн	east	grupo	0    	0000-00-00 00:00:00
-level	ju	<adverb>(илүү, бага)	<adverb> the (more, less)	grupo	0    	0000-00-00 00:00:00
+level	ju	(adverb) (илүү, бага)	(adverb)  the (more, less)	grupo	0    	0000-00-00 00:00:00
 level	sudo	өмнөд	south	grupo	0    	0000-00-00 00:00:00
 level	okcidento	баруун	west	grupo	0    	0000-00-00 00:00:00
 level	juĝi	шүүгчид	to judge	grupo	0    	0000-00-00 00:00:00
@@ -782,9 +782,9 @@ level	malalta	бага	low	grupo	0    	0000-00-00 00:00:00
 level	viando	мах, мах	meat, a meat	grupo	0    	0000-00-00 00:00:00
 level	respekti	хүндлэх	to respect	grupo	0    	0000-00-00 00:00:00
 level	forno	зуух, зуух, зуух	a furnace, a stove, an oven	grupo	0    	0000-00-00 00:00:00
-level	-er-	<suffix>элемент, бүхэл бүтэн жижиг хэсэг	<suffix> element, small particle of whole	grupo	0    	0000-00-00 00:00:00
+level	-er-	(suffix) элемент, бүхэл бүтэн жижиг хэсэг	(suffix)  element, small particle of whole	grupo	0    	0000-00-00 00:00:00
 level	malkovri	нээх, нээх, ил гаргах	to discover, to uncover, to unveil	grupo	0    	0000-00-00 00:00:00
-level	-aĉ-	<suffix>муу, жигшүүртэй	<suffix> bad, disgusting	grupo	0    	0000-00-00 00:00:00
+level	-aĉ-	(suffix) муу, жигшүүртэй	(suffix)  bad, disgusting	grupo	0    	0000-00-00 00:00:00
 level	branĉo	салбар, мөчир	a branch, a bough	grupo	0    	0000-00-00 00:00:00
 level	malhela	харанхуй, уйтгартай, бүрхэг	dark, dismal, bleak	grupo	0    	0000-00-00 00:00:00
 level	mensogi	худал хэлэх, худал хэлэх	to lie, to tell a lie	grupo	0    	0000-00-00 00:00:00
@@ -1076,7 +1076,7 @@ level	imagi	төсөөлөх	to imagine	grupo	0    	0000-00-00 00:00:00
 level	fidela	итгэлтэй, итгэлтэй	faithful, trustworthy	grupo	0    	0000-00-00 00:00:00
 level	partopreni	оролцох, оролцох	to participate, to take part	grupo	0    	0000-00-00 00:00:00
 level	kastelo	цайз, цайз	a castle, a citadel	grupo	0    	0000-00-00 00:00:00
-level	-op-	<suffix>тооны бүлэг	<suffix> a group in numbers	grupo	0    	0000-00-00 00:00:00
+level	-op-	(suffix) тооны бүлэг	(suffix)  a group in numbers	grupo	0    	0000-00-00 00:00:00
 level	ĉeesti	оролцох, оролцох	to attend, to be present at	grupo	0    	0000-00-00 00:00:00
 level	televido	ТВ, телевиз	TV, television	grupo	0    	0000-00-00 00:00:00
 level	studento	оюутан (их сургууль)	a student (university)	grupo	0    	0000-00-00 00:00:00
@@ -1328,7 +1328,7 @@ level	lastjare	өнгөрсөн жил	last year	grupo	0    	0000-00-00 00:00:00
 level	vojmontrilo	тэмдэглэгээ, тэмдэг	a landmark, a signpost	grupo	0    	0000-00-00 00:00:00
 level	kelo	зоорь, подвал	a cellar, a basement	grupo	0    	0000-00-00 00:00:00
 level	firma	хатуу, тогтвортой	firm, stable	grupo	0    	0000-00-00 00:00:00
-level	eks-	<prefix>хуучин, хуучин	<prefix> ex-, former	grupo	0    	0000-00-00 00:00:00
+level	eks-	(prefix) хуучин, хуучин	(prefix)  ex-, former	grupo	0    	0000-00-00 00:00:00
 level	kilogramo	килограмм	a kilogram	grupo	0    	0000-00-00 00:00:00
 level	frago	гүзээлзгэнэ	a strawberry	grupo	0    	0000-00-00 00:00:00
 level	pato	хайруулын таваг	a frying pan	grupo	0    	0000-00-00 00:00:00
@@ -1340,7 +1340,7 @@ level	matura	боловсорсон, боловсорсон	mature, ripe	grupo	0
 level	kulerego	хувин, том халбага	bucket, a large spoon	grupo	0    	0000-00-00 00:00:00
 level	konduti	биеэ авч явах, биеэ авч явах	to conduct oneself, to behave	grupo	0    	0000-00-00 00:00:00
 level	vere	үнэхээр, чин сэтгэлээсээ, үнэхээр	really, genuinly, truly	grupo	0    	0000-00-00 00:00:00
-level	mis-	<prefix>буруу	<prefix> mis-	grupo	0    	0000-00-00 00:00:00
+level	mis-	(prefix) буруу	(prefix)  mis-	grupo	0    	0000-00-00 00:00:00
 level	kvieta	чимээгүй, тайван	quiet, calm	grupo	0    	0000-00-00 00:00:00
 level	funkcii	ажиллах, ажиллах, ажиллах	to function, to operate, to work	grupo	0    	0000-00-00 00:00:00
 level	konvena	тохиромжтой, тохиромжтой	appropriate, suitable	grupo	0    	0000-00-00 00:00:00
@@ -1355,14 +1355,14 @@ level	mieno	(нүүрний) илэрхийлэл	a (facial) expression	grupo	0 
 level	pensio	тэтгэвэр, аннуитет	pension, annuity	grupo	0    	0000-00-00 00:00:00
 level	princo	ханхүү	a prince	grupo	0    	0000-00-00 00:00:00
 level	sorto	хувь заяа, хувь тавилан, хувь тавилан	destiny, fate, fortune	grupo	0    	0000-00-00 00:00:00
-level	-end-	<suffix>үүрэг	<suffix> obligation	grupo	0    	0000-00-00 00:00:00
+level	-end-	(suffix) үүрэг	(suffix)  obligation	grupo	0    	0000-00-00 00:00:00
 level	longaj ŝtrumpoj	урт оймс	long stockings	grupo	0    	0000-00-00 00:00:00
 level	barbo	сахал	beard	grupo	0    	0000-00-00 00:00:00
-level	-ing-	<suffix>урт эзэмшигч, залгуур	<suffix> long holder, socket	grupo	0    	0000-00-00 00:00:00
+level	-ing-	(suffix) урт эзэмшигч, залгуур	(suffix)  long holder, socket	grupo	0    	0000-00-00 00:00:00
 level	bongusta	амттай, сайхан амттай	delicious, good-tasted	grupo	0    	0000-00-00 00:00:00
 level	flegi	асрах, асрах	to take care of, to nurse	grupo	0    	0000-00-00 00:00:00
-level	-njo	<suffix>гэрийн тэжээвэр амьтны эмэгтэй нэр	<suffix> female pet name	grupo	0    	0000-00-00 00:00:00
-level	-ĉjo	<suffix>гэрийн тэжээвэр амьтны эрэгтэй нэр	<suffix> male pet name	grupo	0    	0000-00-00 00:00:00
+level	-njo	(suffix) гэрийн тэжээвэр амьтны эмэгтэй нэр	(suffix)  female pet name	grupo	0    	0000-00-00 00:00:00
+level	-ĉjo	(suffix) гэрийн тэжээвэр амьтны эрэгтэй нэр	(suffix)  male pet name	grupo	0    	0000-00-00 00:00:00
 level	plugi	хагалах, хагалах, газар хагалах	to plow, to plough, to till	grupo	0    	0000-00-00 00:00:00
 level	amletero	хайрын захидал	a loveletter	grupo	0    	0000-00-00 00:00:00
 level	glaso da	нэг шил	a glass of	grupo	0    	0000-00-00 00:00:00
@@ -1632,7 +1632,7 @@ level	kvanto	тоо хэмжээ, хэмжээ	quantity, amount	grupo	0    	0000
 level	batilo	сарьсан багваахай (цохих)	a bat (to hit)	grupo	0    	0000-00-00 00:00:00
 level	kvalito	чанар, өмч	quality, property	grupo	0    	0000-00-00 00:00:00
 level	laŭte	чанга, чанга	loudly, aloud	grupo	0    	0000-00-00 00:00:00
-level	-ut-	<suffix>нөхцөлт идэвхгүй	<suffix> conditional passive	grupo	0    	0000-00-00 00:00:00
+level	-ut-	(suffix) нөхцөлт идэвхгүй	(suffix)  conditional passive	grupo	0    	0000-00-00 00:00:00
 level	kristnasko	Зул сарын баяр	Christmas	grupo	0    	0000-00-00 00:00:00
 level	vivo	амьдрал	a life	grupo	0    	0000-00-00 00:00:00
 level	freneza	галзуу, галзуу, галзуу	crazy, insane, mad	grupo	0    	0000-00-00 00:00:00
@@ -2391,7 +2391,7 @@ level	heredi	өвлөх	to inherit	grupo	0    	0000-00-00 00:00:00
 level	flugbileto	онгоцны тийз	an air ticket	grupo	0    	0000-00-00 00:00:00
 level	robo	даашинз	a dress	grupo	0    	0000-00-00 00:00:00
 level	egipto	египет хүн	an Egyptian person	grupo	0    	0000-00-00 00:00:00
-level	-unt	<suffix>нөхцөлт идэвхтэй	<suffix> conditional active	grupo	0    	0000-00-00 00:00:00
+level	-unt	(suffix) нөхцөлт идэвхтэй	(suffix)  conditional active	grupo	0    	0000-00-00 00:00:00
 level	frenezulo	фанат, галзуу, маньяк	a fanatic, a lunatic, a maniac	grupo	0    	0000-00-00 00:00:00
 level	ekde	оноос хойш	since	grupo	0    	0000-00-00 00:00:00
 level	observi	ажиглах	to observe	grupo	0    	0000-00-00 00:00:00
@@ -2550,7 +2550,7 @@ level	irako	Ирак	Iraq	grupo	0    	0000-00-00 00:00:00
 level	resumo	хураангуй, тойм, товч тойм, хураангуй	a summary, a digest, a résumé, a sum-up	grupo	0    	0000-00-00 00:00:00
 level	promeno	зугаалга, зугаалга	a promenade, a walking	grupo	0    	0000-00-00 00:00:00
 level	horizontalo	хэвтээ шугам	a horizontal line	grupo	0    	0000-00-00 00:00:00
-level	fi-	<prefix>ичгүүртэй, жигшүүртэй, бохир	<prefix> shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
+level	fi-	(prefix) ичгүүртэй, жигшүүртэй, бохир	(prefix)  shameful, disgusting, dirty	grupo	0    	0000-00-00 00:00:00
 level	aŭkcio	дуудлага худалдаа	an auction	grupo	0    	0000-00-00 00:00:00
 level	konkludi	дүгнэх	to conclude	grupo	0    	0000-00-00 00:00:00
 level	salivo	шүлс, боол	saliva, slaver	grupo	0    	0000-00-00 00:00:00
@@ -5882,7 +5882,7 @@ level	Antono	Энтони	Anthony	grupo	0    	0000-00-00 00:00:00
 level	Anno	Анна	Anna	grupo	0    	0000-00-00 00:00:00
 level	Berto	Берт	Bert	grupo	0    	0000-00-00 00:00:00
 level	apelacio	давж заалдах, яллагч	an appeal, an accuser	grupo	0    	0000-00-00 00:00:00
-level	antimono	<chem>сурьма	<chem> antimony	grupo	0    	0000-00-00 00:00:00
+level	antimono	(chem) сурьма	(chem)  antimony	grupo	0    	0000-00-00 00:00:00
 level	apokrifo	апокриф	apocrypha	grupo	0    	0000-00-00 00:00:00
 level	apoteozo	апотеоз	apotheosis	grupo	0    	0000-00-00 00:00:00
 level	ardezo	шифер	slate	grupo	0    	0000-00-00 00:00:00
@@ -5902,7 +5902,7 @@ level	ĉano	тахиа (бууны), алх (бууны)	a cock (of a gun), a ha
 level	afekcii	нөлөөлөх	to affect	grupo	0    	0000-00-00 00:00:00
 level	hardi	хатууруулах	to toughen	grupo	0    	0000-00-00 00:00:00
 level	areno	талбар	an arena	grupo	0    	0000-00-00 00:00:00
-level	arseniko	<chem>хүнцэл	<chem> arsenic	grupo	0    	0000-00-00 00:00:00
+level	arseniko	(chem) хүнцэл	(chem)  arsenic	grupo	0    	0000-00-00 00:00:00
 level	borakso	борос	borax	grupo	0    	0000-00-00 00:00:00
 level	aspiro	тэмүүлэл	aspiration	grupo	0    	0000-00-00 00:00:00
 level	atribuo	хамаарал, хуваарилалт	attribution, allocation	grupo	0    	0000-00-00 00:00:00

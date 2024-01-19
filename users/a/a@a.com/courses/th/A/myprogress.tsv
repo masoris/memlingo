@@ -1,18 +1,18 @@
 level	mi, vi	ฉันคุณ	I, you	grupo	0    	0000-00-00 00:00:00
-level	estas, estis	(ปัจจุบัน) คือ เป็น เป็น (อดีต) เป็น เป็น	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
-level	mi estas ~	ฉัน~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(ปัจจุบัน) เป็น อยู่ คือ เท่ากับ, (อดีต) เป็น อยู่ คือ เท่ากับ	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	ฉันคือ~	I am ~	grupo	0    	0000-00-00 00:00:00
 level	vi estas ~	คุณคือ ~	you are ~	grupo	0    	0000-00-00 00:00:00
 level	saluton	สวัสดี	hello	grupo	0    	0000-00-00 00:00:00
-level	saluton, mi estas ~	สวัสดี ฉันเอง~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
-level	mia, via	ของฉันของคุณ	my, your	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	สวัสดี ฉันคือ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	ของฉัน, ของคุณ	my, your	grupo	0    	0000-00-00 00:00:00
 level	nomo	ชื่อ	a name	grupo	0    	0000-00-00 00:00:00
-level	mia nomo, via nomo	ชื่อของฉัน ชื่อของคุณ	my name, your name	grupo	0    	0000-00-00 00:00:00
-level	mia nomo estas ~	ฉันชื่อ ~	my name is ~	grupo	0    	0000-00-00 00:00:00
-level	via nomo estas ~	คุณชื่อ ~	your name is ~	grupo	0    	0000-00-00 00:00:00
-level	fartas, fartis	(ปัจจุบัน) ทำ (อดีต) ทำ	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
-level	estis, estos	(ปัจจุบัน) เคยเป็น (อนาคต) จะเป็น	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
-level	nomo, nomon	ชื่อชื่อ (วัตถุประสงค์)	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
-level	mia amo	ที่รัก	my love	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	ชื่อของฉัน, ชื่อของคุณ	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	ชื่อของฉันคือ~	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	ชื่อของคุณคือ	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(ปัจจุบัน) มีสุขภาพ, (อดีต) มีสุขภาพ	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(ปัจจุบัน) เคยเป็น, (อนาคต) จะเป็น	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	ชื่อ, ชื่อ (กรรม)	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	ความรักของฉัน	my love	grupo	0    	0000-00-00 00:00:00
 level	vi fartas	คุณกำลังทำ ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
 level	kiel	ยังไง	how	grupo	0    	0000-00-00 00:00:00
 level	kiel vi fartas?	เป็นอย่างไรบ้าง	how are you doing?	grupo	0    	0000-00-00 00:00:00

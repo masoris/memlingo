@@ -15,23 +15,23 @@ level	mem	өөрөө	by oneself	grupo	alternativoj	prononco
 level	ĝis ~	хүртэл ~ хүртэл, ~ хүртэл	upto ~, until ~	grupo	alternativoj	prononco
 level	de ~	-ийн ~	of ~	grupo	alternativoj	prononco
 level	da ~	(их) нь ~, (олон) нь ~	(much) of ~, (many) of ~	grupo	alternativoj	prononco
-level	-aĵo	<suffix>зүйл, тодорхой илрэл	<suffix> thing, concrete manifestation	grupo	alternativoj	prononco
+level	-aĵo	(suffix) зүйл, тодорхой илрэл	(suffix)  thing, concrete manifestation	grupo	alternativoj	prononco
 level	proksima	ойролцоо, ойр, ойрын, ойрын	near, close to, soon, nearby	grupo	alternativoj	prononco
-level	-adi	<suffix>давтагдах үйлдэл, удаан үргэлжлэх үйлдэл	<suffix> repetitive action, lasting action	grupo	alternativoj	prononco
-level	-as	<suffix>Одоо цаг	<suffix> present tense	grupo	alternativoj	prononco
-level	-is	<suffix>өнгөрсөн цаг	<suffix> past tense	grupo	alternativoj	prononco
+level	-adi	(suffix) давтагдах үйлдэл, удаан үргэлжлэх үйлдэл	(suffix)  repetitive action, lasting action	grupo	alternativoj	prononco
+level	-as	(suffix) Одоо цаг	(suffix)  present tense	grupo	alternativoj	prononco
+level	-is	(suffix) өнгөрсөн цаг	(suffix)  past tense	grupo	alternativoj	prononco
 level	esti	байх	to be	grupo	alternativoj	prononco
-level	-os	<suffix>ирээдүйн цаг	<suffix> future tense	grupo	alternativoj	prononco
-level	antaŭ ~	<preposition>өмнө ~, урд ~	<preposition> before ~, in front of ~	grupo	alternativoj	prononco
+level	-os	(suffix) ирээдүйн цаг	(suffix)  future tense	grupo	alternativoj	prononco
+level	antaŭ ~	(preposition) өмнө ~, урд ~	(preposition)  before ~, in front of ~	grupo	alternativoj	prononco
 level	fari	хийх, хийх	to make, to do	grupo	alternativoj	prononco
-level	ankaŭ ~	<preposition>бас бас	<preposition> also, too	grupo	alternativoj	prononco
+level	ankaŭ ~	(preposition) бас бас	(preposition)  also, too	grupo	alternativoj	prononco
 level	post ~	дараа ~	after ~	grupo	alternativoj	prononco
-level	mal-	<prefix>эсрэг	<prefix> opposite	grupo	alternativoj	prononco
-level	-ul-	<suffix>ямар нэгэн шинж чанартай хүн	<suffix> a person of some trait	grupo	alternativoj	prononco
-level	-in-	<suffix>эмэгтэй	<suffix> female	grupo	alternativoj	prononco
-level	-ant-	<suffix>идэвхтэй одоогийн, is ~ing, хэн нэгэн нь ~ болж байна	<suffix> active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
-level	-int-	<suffix>идэвхтэй өнгөрсөн, was ~ing	<suffix> active past, was ~ing	grupo	alternativoj	prononco
-level	-ont-	<suffix>идэвхтэй ирээдүй, will be ~ing	<suffix> active future, will be ~ing	grupo	alternativoj	prononco
+level	mal-	(prefix) эсрэг	(prefix)  opposite	grupo	alternativoj	prononco
+level	-ul-	(suffix) ямар нэгэн шинж чанартай хүн	(suffix)  a person of some trait	grupo	alternativoj	prononco
+level	-in-	(suffix) эмэгтэй	(suffix)  female	grupo	alternativoj	prononco
+level	-ant-	(suffix) идэвхтэй одоогийн, is ~ing, хэн нэгэн нь ~ болж байна	(suffix)  active present, is ~ing, someone who is ~ing	grupo	alternativoj	prononco
+level	-int-	(suffix) идэвхтэй өнгөрсөн, was ~ing	(suffix)  active past, was ~ing	grupo	alternativoj	prononco
+level	-ont-	(suffix) идэвхтэй ирээдүй, will be ~ing	(suffix)  active future, will be ~ing	grupo	alternativoj	prononco
 level	kaj (k.)	болон	and	grupo	alternativoj	prononco
 level	aŭ	эсвэл	or	grupo	alternativoj	prononco
 level	alta	өндөр, өндөр	high, tall	grupo	alternativoj	prononco
@@ -43,9 +43,9 @@ level	kiom	хэр хичнээн их	how much, how many	grupo	alternativoj	pron
 level	ofte	байнга, байнга	often, frequently	grupo	alternativoj	prononco
 level	iom	бага зэрэг, харин зарим нь, зарим талаараа	a little, rather, some, somewhat	grupo	alternativoj	prononco
 level	nova	шинэ, роман	new, novel	grupo	alternativoj	prononco
-level	-at-	<suffix>идэвхгүй одоогийн үе	<suffix> passive present participle	grupo	alternativoj	prononco
-level	-it-	<suffix>идэвхгүй өнгөрсөн үе	<suffix> passive past participle	grupo	alternativoj	prononco
-level	-ot-	<suffix>идэвхгүй ирээдүйн гишүүн	<suffix> passive future participle	grupo	alternativoj	prononco
+level	-at-	(suffix) идэвхгүй одоогийн үе	(suffix)  passive present participle	grupo	alternativoj	prononco
+level	-it-	(suffix) идэвхгүй өнгөрсөн үе	(suffix)  passive past participle	grupo	alternativoj	prononco
+level	-ot-	(suffix) идэвхгүй ирээдүйн гишүүн	(suffix)  passive future participle	grupo	alternativoj	prononco
 level	tre	маш, маш, маш их	very, quite, very much	grupo	alternativoj	prononco
 level	tro	хэтэрхий, хэтэрхий, хэт их	too, excessively, too much	grupo	alternativoj	prononco
 level	tamen	Гэсэн хэдий ч, Гэсэн хэдий ч, гэхдээ, Гэсэн хэдий ч	however, nonetheless, but, nevertheless	grupo	alternativoj	prononco
@@ -53,8 +53,8 @@ level	ho!	Өө! Хо!	Oh! Ho!	grupo	alternativoj	prononco
 level	ke ~	тэр ~	that ~	grupo	alternativoj	prononco
 level	ĉar ~	Учир нь ~	because ~	grupo	alternativoj	prononco
 level	ĉu	эсэх ~	whether ~	grupo	alternativoj	prononco
-level	-ej-	<suffix>газар	<suffix> place	grupo	alternativoj	prononco
-level	-ec-	<suffix>чанарын хийсвэр нэр	<suffix> abstract name of quality	grupo	alternativoj	prononco
+level	-ej-	(suffix) газар	(suffix)  place	grupo	alternativoj	prononco
+level	-ec-	(suffix) чанарын хийсвэр нэр	(suffix)  abstract name of quality	grupo	alternativoj	prononco
 level	ambaŭ ~	хоёулаа ~	both ~	grupo	alternativoj	prononco
 level	tuj	тэр даруй, тэр даруй, тэр даруй	immediately, instantly, right away	grupo	alternativoj	prononco
 level	kvazaŭ ~	~ шиг	as if ~	grupo	alternativoj	prononco
@@ -64,7 +64,7 @@ level	neniam	хэзээ ч, хэзээ ч, хэзээ ч	never, at no time, not 
 level	tial	тиймээс, тийм	therefore, so	grupo	alternativoj	prononco
 level	kial	яагаад, юуны төлөө	why, what for	grupo	alternativoj	prononco
 level	kvankam	хэдий ч ~, байхад, гэхдээ	although ~, while, though	grupo	alternativoj	prononco
-level	ĉe ~	<preposition>~ дээр	<preposition> at ~	grupo	alternativoj	prononco
+level	ĉe ~	(preposition) ~ дээр	(preposition)  at ~	grupo	alternativoj	prononco
 level	pli	илүү	more	grupo	alternativoj	prononco
 level	plej	ихэнх нь	most	grupo	alternativoj	prononco
 level	diri	хэлэх, хэлэх	to say, to tell	grupo	alternativoj	prononco
@@ -75,16 +75,16 @@ level	tia	ийм, тийм, ийм, тийм	such, that kind of, such a	grupo	al
 level	apenaŭ	арай ядан, бараг, бараг л	barely, hardly, scarecely	grupo	alternativoj	prononco
 level	sendi	илгээх	to send	grupo	alternativoj	prononco
 level	ĵus	дөнгөж сая (хоромын өмнө), яг одоо	just (a moment ago), just now	grupo	alternativoj	prononco
-level	-u	<suffix>зайлшгүй	<suffix> imperative	grupo	alternativoj	prononco
+level	-u	(suffix) зайлшгүй	(suffix)  imperative	grupo	alternativoj	prononco
 level	ekster ~	гадна ~	outside ~	grupo	alternativoj	prononco
-level	ge-	<prefix>аль аль нь хүйс, аль аль нь	<prefix> both sex, both gender	grupo	alternativoj	prononco
-level	-us	<suffix>байх, байх, туслах	<suffix> would, should, subjunctive	grupo	alternativoj	prononco
+level	ge-	(prefix) аль аль нь хүйс, аль аль нь	(prefix)  both sex, both gender	grupo	alternativoj	prononco
+level	-us	(suffix) байх, байх, туслах	(suffix)  would, should, subjunctive	grupo	alternativoj	prononco
 level	baldaŭ	удахгүй	soon	grupo	alternativoj	prononco
 level	almenaŭ	наад зах нь, өөр зүйл байхгүй бол	at least, if nothing else	grupo	alternativoj	prononco
 level	dis-	dis-	dis-	grupo	alternativoj	prononco
-level	-uj-	<suffix>сав; улс	<suffix> container; country	grupo	alternativoj	prononco
+level	-uj-	(suffix) сав; улс	(suffix)  container; country	grupo	alternativoj	prononco
 level	lerni	сурах	to learn	grupo	alternativoj	prononco
-level	ek-	<prefix>эхлэл; гэнэтийн эхлэл	<prefix> beginning; sudden start	grupo	alternativoj	prononco
+level	ek-	(prefix) эхлэл; гэнэтийн эхлэл	(prefix)  beginning; sudden start	grupo	alternativoj	prononco
 level	se	хэрэв тийм бол	if, provided that	grupo	alternativoj	prononco
 level	eĉ	бүр	even	grupo	alternativoj	prononco
 level	amo	хайр	a love	grupo	alternativoj	prononco
@@ -94,11 +94,11 @@ level	fini	дуусгах, дуусгах, дуусгах	to end, to finish, to 
 level	do	тиймээс, тэгвэл, тиймээс	so, then, therefore	grupo	alternativoj	prononco
 level	ajn	~ хэзээ ч, (ямар ч) хэзээ ч, огтхон ч, - хэзээ ч	~ever, (what)ever, at all, -soever	grupo	alternativoj	prononco
 level	facila	хялбар, хялбар	easy, facile	grupo	alternativoj	prononco
-level	re-	<prefix>дахин	<prefix> re-	grupo	alternativoj	prononco
+level	re-	(prefix) дахин	(prefix)  re-	grupo	alternativoj	prononco
 level	granda	том, агуу, том	big, great, large	grupo	alternativoj	prononco
-level	-ist-	<suffix>мэргэжлийн	<suffix> professional	grupo	alternativoj	prononco
-level	pro ~	<preposition>учир нь ~, учир нь ~	<preposition> because of ~, due to ~	grupo	alternativoj	prononco
-level	-estr-	<suffix>удирдагч, дарга, дарга, дарга	<suffix> leader, boss, head, chief	grupo	alternativoj	prononco
+level	-ist-	(suffix) мэргэжлийн	(suffix)  professional	grupo	alternativoj	prononco
+level	pro ~	(preposition) учир нь ~, учир нь ~	(preposition)  because of ~, due to ~	grupo	alternativoj	prononco
+level	-estr-	(suffix) удирдагч, дарга, дарга, дарга	(suffix)  leader, boss, head, chief	grupo	alternativoj	prononco
 level	kio	юу	what	grupo	alternativoj	prononco
 level	manĝi	идэх	to eat	grupo	alternativoj	prononco
 level	nenio	юу ч биш, юу ч биш, юу ч биш	nothing, none, not any thing	grupo	alternativoj	prononco
@@ -107,20 +107,20 @@ level	ĉio	бүх зүйл	everything	grupo	alternativoj	prononco
 level	riĉa	баян, чинээлэг, чинээлэг	rich, wealthy, well-off	grupo	alternativoj	prononco
 level	tio	тэр зүйл, тэр	that thing, that	grupo	alternativoj	prononco
 level	konstrui	барих, барих	to build, to construct	grupo	alternativoj	prononco
-level	ĉef-	<prefix>дарга, тэргүүлэх, гол	<prefix> chief, leading, main	grupo	alternativoj	prononco
-level	sen ~	<preposition>~гүйгээр	<preposition> without ~	grupo	alternativoj	prononco
-level	kun ~	<preposition>~-тай (хамтдаа)	<preposition> with ~ (together)	grupo	alternativoj	prononco
-level	krom ~	<preposition>~-аас бусад, ~-аас гадна	<preposition> except ~, besides ~	grupo	alternativoj	prononco
+level	ĉef-	(prefix) дарга, тэргүүлэх, гол	(prefix)  chief, leading, main	grupo	alternativoj	prononco
+level	sen ~	(preposition) ~гүйгээр	(preposition)  without ~	grupo	alternativoj	prononco
+level	kun ~	(preposition) ~-тай (хамтдаа)	(preposition)  with ~ (together)	grupo	alternativoj	prononco
+level	krom ~	(preposition) ~-аас бусад, ~-аас гадна	(preposition)  except ~, besides ~	grupo	alternativoj	prononco
 level	amiko	найз	a friend	grupo	alternativoj	prononco
 level	kies	хэнийх, аль нь, аль нь	whose, which one's, of which	grupo	alternativoj	prononco
-level	per ~	<preposition>~-аар (арга), ~-аар (хэрэгсэл)	<preposition> by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
+level	per ~	(preposition) ~-аар (арга), ~-аар (хэрэгсэл)	(preposition)  by ~ (a method), with ~ (a tool)	grupo	alternativoj	prononco
 level	kontraŭ ~	эсрэг ~	against ~	grupo	alternativoj	prononco
 level	el ~	~-аас, ~-аас	out of ~, from ~	grupo	alternativoj	prononco
 level	hodiaŭ	өнөөдөр	today	grupo	alternativoj	prononco
 level	hieraŭ	өчигдөр	yesterday	grupo	alternativoj	prononco
 level	nur	зөвхөн, зөвхөн, зөвхөн	only, just, exclusively	grupo	alternativoj	prononco
 level	helpi	туслах, туслах, туслах	to help, to aid, to assist	grupo	alternativoj	prononco
-level	for	<adverb>хол, хол	<adverb> far, away	grupo	alternativoj	prononco
+level	for	(adverb) хол, хол	(adverb)  far, away	grupo	alternativoj	prononco
 level	nek	аль нь ч биш	nor, neither	grupo	alternativoj	prononco
 level	malamo	үзэн ядалт	a hate	grupo	alternativoj	prononco
 level	preskaŭ	бараг, бараг	almost, nearly	grupo	alternativoj	prononco
@@ -139,7 +139,7 @@ level	tiu	тэр хүн, тэр ~, тэр нэг, наана	that person, that ~
 level	iu	хэн нэгэн, хэн нэгэн, зарим нь	someone, somebody, some	grupo	alternativoj	prononco
 level	neniu	хэн ч, хэн ч, хэн ч биш	nobody, no one, neither	grupo	alternativoj	prononco
 level	al ~	тулд ~	to ~	grupo	alternativoj	prononco
-level	-ebl-	<suffix>~ боломжтой	<suffix> ~able	grupo	alternativoj	prononco
+level	-ebl-	(suffix) ~ боломжтой	(suffix)  ~able	grupo	alternativoj	prononco
 level	esperi	найдах	to hope	grupo	alternativoj	prononco
 level	unu	нэг	one	grupo	alternativoj	prononco
 level	du	хоёр	two	grupo	alternativoj	prononco
@@ -153,39 +153,39 @@ level	naŭ	есөн	nine	grupo	alternativoj	prononco
 level	dek	арав	ten	grupo	alternativoj	prononco
 level	cent	нэг зуун	a hundred	grupo	alternativoj	prononco
 level	mil	мянга	a thousand	grupo	alternativoj	prononco
-level	-obl-	<suffix>олон талт байдлын хувьд, -oble, -fold	<suffix> for multiplicity, -oble, -fold	grupo	alternativoj	prononco
-level	-on-	<suffix>~th, бутархай	<suffix> ~th, fraction	grupo	alternativoj	prononco
+level	-obl-	(suffix) олон талт байдлын хувьд, -oble, -fold	(suffix)  for multiplicity, -oble, -fold	grupo	alternativoj	prononco
+level	-on-	(suffix) ~th, бутархай	(suffix)  ~th, fraction	grupo	alternativoj	prononco
 level	ama	Хайрын	of love	grupo	alternativoj	prononco
 level	anstataŭ ~	~-ын оронд	instead of ~	grupo	alternativoj	prononco
-level	-iĝ-	<suffix>болох	<suffix> become	grupo	alternativoj	prononco
+level	-iĝ-	(suffix) болох	(suffix)  become	grupo	alternativoj	prononco
 level	voli	хүсэх, хүсэх, бэлэн байх	to want, to will, to be willing to	grupo	alternativoj	prononco
-level	-ig-	<suffix>болоход хүргэх	<suffix> cause to become	grupo	alternativoj	prononco
+level	-ig-	(suffix) болоход хүргэх	(suffix)  cause to become	grupo	alternativoj	prononco
 level	sekvi	дагах	to follow	grupo	alternativoj	prononco
 level	ĝoje	баяртайгаар	gladly	grupo	alternativoj	prononco
 level	legi	унших	to read	grupo	alternativoj	prononco
 level	silenta	чимээгүй	silent	grupo	alternativoj	prononco
 level	la	нь	the	grupo	alternativoj	prononco
 level	ha!	ха!	ha!	grupo	alternativoj	prononco
-level	-il-	<suffix>хэрэгсэл, арга	<suffix> tool, method	grupo	alternativoj	prononco
+level	-il-	(suffix) хэрэгсэл, арга	(suffix)  tool, method	grupo	alternativoj	prononco
 level	trinki	уух (архигүй)	to drink (non-alkohol)	grupo	alternativoj	prononco
-level	-et-	<suffix>жижиг, бага	<suffix> small, little	grupo	alternativoj	prononco
-level	-eg-	<suffix>том, том	<suffix> big, large	grupo	alternativoj	prononco
-level	inter ~	<preposition>~ хооронд	<preposition> between ~	grupo	alternativoj	prononco
-level	-um-	<suffix>холбоотой зан үйл	<suffix> related behavior	grupo	alternativoj	prononco
-level	-ar-	<suffix>багц, бүлэг	<suffix> set, group	grupo	alternativoj	prononco
-level	-an-	<suffix>бүлгийн гишүүн	<suffix> member of a group	grupo	alternativoj	prononco
+level	-et-	(suffix) жижиг, бага	(suffix)  small, little	grupo	alternativoj	prononco
+level	-eg-	(suffix) том, том	(suffix)  big, large	grupo	alternativoj	prononco
+level	inter ~	(preposition) ~ хооронд	(preposition)  between ~	grupo	alternativoj	prononco
+level	-um-	(suffix) холбоотой зан үйл	(suffix)  related behavior	grupo	alternativoj	prononco
+level	-ar-	(suffix) багц, бүлэг	(suffix)  set, group	grupo	alternativoj	prononco
+level	-an-	(suffix) бүлгийн гишүүн	(suffix)  member of a group	grupo	alternativoj	prononco
 level	danki	талархах	to thank	grupo	alternativoj	prononco
-level	-ind-	<suffix>үнэ цэнэтэй, зохистой	<suffix> worthwhile, worthy	grupo	alternativoj	prononco
+level	-ind-	(suffix) үнэ цэнэтэй, зохистой	(suffix)  worthwhile, worthy	grupo	alternativoj	prononco
 level	plu	бүр илүү, цааш, гэх мэт, илүү	even more, further, and so on, more	grupo	alternativoj	prononco
 level	kiel	яаж, гэх мэт, ямар замаар, гэх мэт	how, like, in what way, such as	grupo	alternativoj	prononco
 level	tiel	ийм, ийм байдлаар, ийм байдлаар	such, in that way, thus	grupo	alternativoj	prononco
-level	en ~	<preposition>~-д	<preposition> in ~	grupo	alternativoj	prononco
-level	apud ~	<preposition>~-ийн хажууд, ~-ын хажууд	<preposition> next to ~, beside ~	grupo	alternativoj	prononco
-level	sub ~	<preposition>дор, доор ~	<preposition> under, beneath ~	grupo	alternativoj	prononco
-level	sur ~	<preposition>дээр ~	<preposition> on ~	grupo	alternativoj	prononco
-level	je ~	<preposition>indefinate prep., at, in, by, on	<preposition> indefinate prep., at, in, by, on	grupo	alternativoj	prononco
-level	ankoraŭ	<adverb>одоо ч гэсэн	<adverb> still, yet	grupo	alternativoj	prononco
-level	ĉirkaŭ ~	<preposition>эргэн тойронд ~	<preposition> around ~	grupo	alternativoj	prononco
+level	en ~	(preposition) ~-д	(preposition)  in ~	grupo	alternativoj	prononco
+level	apud ~	(preposition) ~-ийн хажууд, ~-ын хажууд	(preposition)  next to ~, beside ~	grupo	alternativoj	prononco
+level	sub ~	(preposition) дор, доор ~	(preposition)  under, beneath ~	grupo	alternativoj	prononco
+level	sur ~	(preposition) дээр ~	(preposition)  on ~	grupo	alternativoj	prononco
+level	je ~	(preposition) indefinate prep., at, in, by, on	(preposition)  indefinate prep., at, in, by, on	grupo	alternativoj	prononco
+level	ankoraŭ	(adverb) одоо ч гэсэн	(adverb)  still, yet	grupo	alternativoj	prononco
+level	ĉirkaŭ ~	(preposition) эргэн тойронд ~	(preposition)  around ~	grupo	alternativoj	prononco
 level	sed	гэхдээ	but	grupo	alternativoj	prononco
 level	ie	хаа нэгтээ	somewhere	grupo	alternativoj	prononco
 level	kie	хаана, ямар газар	where, at what place	grupo	alternativoj	prononco
@@ -196,25 +196,25 @@ level	tie	тэнд, тэнд, тэнд	there, over there, yonder	grupo	alternati
 level	ĉi	энэ ~	this ~	grupo	alternativoj	prononco
 level	kanti	дуулах	to sing	grupo	alternativoj	prononco
 level	morti	үхэх, өнгөрөх	to die, to pass away	grupo	alternativoj	prononco
-level	dum ~	<preposition>үед ~, байхад ~	<preposition> during ~, while ~	grupo	alternativoj	prononco
+level	dum ~	(preposition) үед ~, байхад ~	(preposition)  during ~, while ~	grupo	alternativoj	prononco
 level	nacio	үндэстэн	a nation	grupo	alternativoj	prononco
 level	koni	мэдэх (хүн), танил болох	to know (a person), to be aquainted with	grupo	alternativoj	prononco
 level	scii	мэдэх (баримт, мэдлэг), яаж мэдэх	to know (a fact, knowledge), to know how	grupo	alternativoj	prononco
 level	ĉiam	үргэлж, хэзээд	always, ever	grupo	alternativoj	prononco
 level	iam	зарим үед, нэг удаа	at some time, once	grupo	alternativoj	prononco
 level	tiam	тэгээд	then	grupo	alternativoj	prononco
-level	-em-	<suffix>хандлага	<suffix> tendancy	grupo	alternativoj	prononco
+level	-em-	(suffix) хандлага	(suffix)  tendancy	grupo	alternativoj	prononco
 level	ia	зарим төрлийн	some kind of	grupo	alternativoj	prononco
 level	sukcesi	амжилттай	to succeed	grupo	alternativoj	prononco
 level	ĉia	бүх төрлийн, бүх төрлийн	of all kind, every kind of	grupo	alternativoj	prononco
 level	nenia	үгүй, ямар ч төрлийн биш, ямар ч биш	no, not any kind of, not any	grupo	alternativoj	prononco
-level	-id-	<suffix>үр удам	<suffix> offspring	grupo	alternativoj	prononco
+level	-id-	(suffix) үр удам	(suffix)  offspring	grupo	alternativoj	prononco
 level	ĉambro	өрөө, танхим	a room, a chamber	grupo	alternativoj	prononco
 level	patro	аав	a father	grupo	alternativoj	prononco
 level	porko	гахай, гахай	a pig, swine	grupo	alternativoj	prononco
-level	bo-	<prefix>-хадм, гэрлэлтээр	<prefix> -in-law, by marriage	grupo	alternativoj	prononco
+level	bo-	(prefix) -хадм, гэрлэлтээр	(prefix)  -in-law, by marriage	grupo	alternativoj	prononco
 level	ja	үнэхээр	indeed	grupo	alternativoj	prononco
-level	-ism-	<suffix>-изм	<suffix> -ism	grupo	alternativoj	prononco
+level	-ism-	(suffix) -изм	(suffix)  -ism	grupo	alternativoj	prononco
 level	io	ямар нэг зүйл	something	grupo	alternativoj	prononco
 level	veturi	жолоодох (тээврийн хэрэгсэл)	to drive (a vehicle)	grupo	alternativoj	prononco
 level	koko	тахиа, тахиа, тахиа, шувуу	a cock, a hen, chicken, fowl	grupo	alternativoj	prononco
@@ -625,7 +625,7 @@ level	merkredo	Лхагва гараг	Wednesday	grupo	alternativoj	prononco
 level	vendredo	Баасан гараг	Friday	grupo	alternativoj	prononco
 level	fiŝkaptado	загас барих, загас барих	fish-catching, catching fishes	grupo	alternativoj	prononco
 level	ilustri	дүрслэн харуулах	to illustrate	grupo	alternativoj	prononco
-level	des	<adverb>маш их (илүү, бага)	<adverb> so much (more, less)	grupo	alternativoj	prononco
+level	des	(adverb) маш их (илүү, бага)	(adverb)  so much (more, less)	grupo	alternativoj	prononco
 level	sabato	Бямба гариг	Saturday	grupo	alternativoj	prononco
 level	ĵaŭdo	Пүрэв гараг	Thursday	grupo	alternativoj	prononco
 level	mardo	Мягмар гараг	Tuesday	grupo	alternativoj	prononco
@@ -678,7 +678,7 @@ level	ŝtupo	алхам, шат, шат	a step, a stair, a rung	grupo	alternativ
 level	bordo	эрэг, далайн эрэг, эрэг	a shore, a waterfront, a bank	grupo	alternativoj	prononco
 level	justa	шударга, шударга, зөвт	fair, just, righteous	grupo	alternativoj	prononco
 level	lumo	гэрэл	a light	grupo	alternativoj	prononco
-level	malgraŭ ~	<preposition>хэдий ч ~, хэдий ч ~	<preposition> despite ~, in spite of ~	grupo	alternativoj	prononco
+level	malgraŭ ~	(preposition) хэдий ч ~, хэдий ч ~	(preposition)  despite ~, in spite of ~	grupo	alternativoj	prononco
 level	drinkado	архи уух үйлдэл	drinking action	grupo	alternativoj	prononco
 level	aŭtomobilo	машин, автомашин, моторт машин (=aŭto)	a car, an automobile, a motor car (=aŭto)	grupo	alternativoj	prononco
 level	bonvoli	хүсэх (зүрхнээсээ), хүсэх (сэтгэлээс)	to will (from heart), to want (from heart)	grupo	alternativoj	prononco
@@ -729,7 +729,7 @@ level	nordo	хойд	north	grupo	alternativoj	prononco
 level	kolekto	цуглуулга	collection	grupo	alternativoj	prononco
 level	supro	оргил, оргил	a top, a summit	grupo	alternativoj	prononco
 level	oriento	зүүн	east	grupo	alternativoj	prononco
-level	ju	<adverb>(илүү, бага)	<adverb> the (more, less)	grupo	alternativoj	prononco
+level	ju	(adverb) (илүү, бага)	(adverb)  the (more, less)	grupo	alternativoj	prononco
 level	sudo	өмнөд	south	grupo	alternativoj	prononco
 level	okcidento	баруун	west	grupo	alternativoj	prononco
 level	juĝi	шүүгчид	to judge	grupo	alternativoj	prononco
@@ -784,9 +784,9 @@ level	malalta	бага	low	grupo	alternativoj	prononco
 level	viando	мах, мах	meat, a meat	grupo	alternativoj	prononco
 level	respekti	хүндлэх	to respect	grupo	alternativoj	prononco
 level	forno	зуух, зуух, зуух	a furnace, a stove, an oven	grupo	alternativoj	prononco
-level	-er-	<suffix>элемент, бүхэл бүтэн жижиг хэсэг	<suffix> element, small particle of whole	grupo	alternativoj	prononco
+level	-er-	(suffix) элемент, бүхэл бүтэн жижиг хэсэг	(suffix)  element, small particle of whole	grupo	alternativoj	prononco
 level	malkovri	нээх, нээх, ил гаргах	to discover, to uncover, to unveil	grupo	alternativoj	prononco
-level	-aĉ-	<suffix>муу, жигшүүртэй	<suffix> bad, disgusting	grupo	alternativoj	prononco
+level	-aĉ-	(suffix) муу, жигшүүртэй	(suffix)  bad, disgusting	grupo	alternativoj	prononco
 level	branĉo	салбар, мөчир	a branch, a bough	grupo	alternativoj	prononco
 level	malhela	харанхуй, уйтгартай, бүрхэг	dark, dismal, bleak	grupo	alternativoj	prononco
 level	mensogi	худал хэлэх, худал хэлэх	to lie, to tell a lie	grupo	alternativoj	prononco
@@ -1078,7 +1078,7 @@ level	imagi	төсөөлөх	to imagine	grupo	alternativoj	prononco
 level	fidela	итгэлтэй, итгэлтэй	faithful, trustworthy	grupo	alternativoj	prononco
 level	partopreni	оролцох, оролцох	to participate, to take part	grupo	alternativoj	prononco
 level	kastelo	цайз, цайз	a castle, a citadel	grupo	alternativoj	prononco
-level	-op-	<suffix>тооны бүлэг	<suffix> a group in numbers	grupo	alternativoj	prononco
+level	-op-	(suffix) тооны бүлэг	(suffix)  a group in numbers	grupo	alternativoj	prononco
 level	ĉeesti	оролцох, оролцох	to attend, to be present at	grupo	alternativoj	prononco
 level	televido	ТВ, телевиз	TV, television	grupo	alternativoj	prononco
 level	studento	оюутан (их сургууль)	a student (university)	grupo	alternativoj	prononco
@@ -1330,7 +1330,7 @@ level	lastjare	өнгөрсөн жил	last year	grupo	alternativoj	prononco
 level	vojmontrilo	тэмдэглэгээ, тэмдэг	a landmark, a signpost	grupo	alternativoj	prononco
 level	kelo	зоорь, подвал	a cellar, a basement	grupo	alternativoj	prononco
 level	firma	хатуу, тогтвортой	firm, stable	grupo	alternativoj	prononco
-level	eks-	<prefix>хуучин, хуучин	<prefix> ex-, former	grupo	alternativoj	prononco
+level	eks-	(prefix) хуучин, хуучин	(prefix)  ex-, former	grupo	alternativoj	prononco
 level	kilogramo	килограмм	a kilogram	grupo	alternativoj	prononco
 level	frago	гүзээлзгэнэ	a strawberry	grupo	alternativoj	prononco
 level	pato	хайруулын таваг	a frying pan	grupo	alternativoj	prononco
@@ -1342,7 +1342,7 @@ level	matura	боловсорсон, боловсорсон	mature, ripe	grupo	a
 level	kulerego	хувин, том халбага	bucket, a large spoon	grupo	alternativoj	prononco
 level	konduti	биеэ авч явах, биеэ авч явах	to conduct oneself, to behave	grupo	alternativoj	prononco
 level	vere	үнэхээр, чин сэтгэлээсээ, үнэхээр	really, genuinly, truly	grupo	alternativoj	prononco
-level	mis-	<prefix>буруу	<prefix> mis-	grupo	alternativoj	prononco
+level	mis-	(prefix) буруу	(prefix)  mis-	grupo	alternativoj	prononco
 level	kvieta	чимээгүй, тайван	quiet, calm	grupo	alternativoj	prononco
 level	funkcii	ажиллах, ажиллах, ажиллах	to function, to operate, to work	grupo	alternativoj	prononco
 level	konvena	тохиромжтой, тохиромжтой	appropriate, suitable	grupo	alternativoj	prononco
@@ -1357,14 +1357,14 @@ level	mieno	(нүүрний) илэрхийлэл	a (facial) expression	grupo	al
 level	pensio	тэтгэвэр, аннуитет	pension, annuity	grupo	alternativoj	prononco
 level	princo	ханхүү	a prince	grupo	alternativoj	prononco
 level	sorto	хувь заяа, хувь тавилан, хувь тавилан	destiny, fate, fortune	grupo	alternativoj	prononco
-level	-end-	<suffix>үүрэг	<suffix> obligation	grupo	alternativoj	prononco
+level	-end-	(suffix) үүрэг	(suffix)  obligation	grupo	alternativoj	prononco
 level	longaj ŝtrumpoj	урт оймс	long stockings	grupo	alternativoj	prononco
 level	barbo	сахал	beard	grupo	alternativoj	prononco
-level	-ing-	<suffix>урт эзэмшигч, залгуур	<suffix> long holder, socket	grupo	alternativoj	prononco
+level	-ing-	(suffix) урт эзэмшигч, залгуур	(suffix)  long holder, socket	grupo	alternativoj	prononco
 level	bongusta	амттай, сайхан амттай	delicious, good-tasted	grupo	alternativoj	prononco
 level	flegi	асрах, асрах	to take care of, to nurse	grupo	alternativoj	prononco
-level	-njo	<suffix>гэрийн тэжээвэр амьтны эмэгтэй нэр	<suffix> female pet name	grupo	alternativoj	prononco
-level	-ĉjo	<suffix>гэрийн тэжээвэр амьтны эрэгтэй нэр	<suffix> male pet name	grupo	alternativoj	prononco
+level	-njo	(suffix) гэрийн тэжээвэр амьтны эмэгтэй нэр	(suffix)  female pet name	grupo	alternativoj	prononco
+level	-ĉjo	(suffix) гэрийн тэжээвэр амьтны эрэгтэй нэр	(suffix)  male pet name	grupo	alternativoj	prononco
 level	plugi	хагалах, хагалах, газар хагалах	to plow, to plough, to till	grupo	alternativoj	prononco
 level	amletero	хайрын захидал	a loveletter	grupo	alternativoj	prononco
 level	glaso da	нэг шил	a glass of	grupo	alternativoj	prononco
@@ -1634,7 +1634,7 @@ level	kvanto	тоо хэмжээ, хэмжээ	quantity, amount	grupo	alternativ
 level	batilo	сарьсан багваахай (цохих)	a bat (to hit)	grupo	alternativoj	prononco
 level	kvalito	чанар, өмч	quality, property	grupo	alternativoj	prononco
 level	laŭte	чанга, чанга	loudly, aloud	grupo	alternativoj	prononco
-level	-ut-	<suffix>нөхцөлт идэвхгүй	<suffix> conditional passive	grupo	alternativoj	prononco
+level	-ut-	(suffix) нөхцөлт идэвхгүй	(suffix)  conditional passive	grupo	alternativoj	prononco
 level	kristnasko	Зул сарын баяр	Christmas	grupo	alternativoj	prononco
 level	vivo	амьдрал	a life	grupo	alternativoj	prononco
 level	freneza	галзуу, галзуу, галзуу	crazy, insane, mad	grupo	alternativoj	prononco
@@ -2393,7 +2393,7 @@ level	heredi	өвлөх	to inherit	grupo	alternativoj	prononco
 level	flugbileto	онгоцны тийз	an air ticket	grupo	alternativoj	prononco
 level	robo	даашинз	a dress	grupo	alternativoj	prononco
 level	egipto	египет хүн	an Egyptian person	grupo	alternativoj	prononco
-level	-unt	<suffix>нөхцөлт идэвхтэй	<suffix> conditional active	grupo	alternativoj	prononco
+level	-unt	(suffix) нөхцөлт идэвхтэй	(suffix)  conditional active	grupo	alternativoj	prononco
 level	frenezulo	фанат, галзуу, маньяк	a fanatic, a lunatic, a maniac	grupo	alternativoj	prononco
 level	ekde	оноос хойш	since	grupo	alternativoj	prononco
 level	observi	ажиглах	to observe	grupo	alternativoj	prononco
@@ -2552,7 +2552,7 @@ level	irako	Ирак	Iraq	grupo	alternativoj	prononco
 level	resumo	хураангуй, тойм, товч тойм, хураангуй	a summary, a digest, a résumé, a sum-up	grupo	alternativoj	prononco
 level	promeno	зугаалга, зугаалга	a promenade, a walking	grupo	alternativoj	prononco
 level	horizontalo	хэвтээ шугам	a horizontal line	grupo	alternativoj	prononco
-level	fi-	<prefix>ичгүүртэй, жигшүүртэй, бохир	<prefix> shameful, disgusting, dirty	grupo	alternativoj	prononco
+level	fi-	(prefix) ичгүүртэй, жигшүүртэй, бохир	(prefix)  shameful, disgusting, dirty	grupo	alternativoj	prononco
 level	aŭkcio	дуудлага худалдаа	an auction	grupo	alternativoj	prononco
 level	konkludi	дүгнэх	to conclude	grupo	alternativoj	prononco
 level	salivo	шүлс, боол	saliva, slaver	grupo	alternativoj	prononco
@@ -5884,7 +5884,7 @@ level	Antono	Энтони	Anthony	grupo	alternativoj	prononco
 level	Anno	Анна	Anna	grupo	alternativoj	prononco
 level	Berto	Берт	Bert	grupo	alternativoj	prononco
 level	apelacio	давж заалдах, яллагч	an appeal, an accuser	grupo	alternativoj	prononco
-level	antimono	<chem>сурьма	<chem> antimony	grupo	alternativoj	prononco
+level	antimono	(chem) сурьма	(chem)  antimony	grupo	alternativoj	prononco
 level	apokrifo	апокриф	apocrypha	grupo	alternativoj	prononco
 level	apoteozo	апотеоз	apotheosis	grupo	alternativoj	prononco
 level	ardezo	шифер	slate	grupo	alternativoj	prononco
@@ -5904,7 +5904,7 @@ level	ĉano	тахиа (бууны), алх (бууны)	a cock (of a gun), a ha
 level	afekcii	нөлөөлөх	to affect	grupo	alternativoj	prononco
 level	hardi	хатууруулах	to toughen	grupo	alternativoj	prononco
 level	areno	талбар	an arena	grupo	alternativoj	prononco
-level	arseniko	<chem>хүнцэл	<chem> arsenic	grupo	alternativoj	prononco
+level	arseniko	(chem) хүнцэл	(chem)  arsenic	grupo	alternativoj	prononco
 level	borakso	борос	borax	grupo	alternativoj	prononco
 level	aspiro	тэмүүлэл	aspiration	grupo	alternativoj	prononco
 level	atribuo	хамаарал, хуваарилалт	attribution, allocation	grupo	alternativoj	prononco
