@@ -56,26 +56,26 @@ img.logo_subtitle {
 
 .Learn-Esperanto-by-E {
     width: 96%;
-    height: 60px;
-    margin: 20px 0px 16px;
+    /* height: 60px; */
+    /* margin: 20px 0px 16px; */
     font-family: Arial, sans-serif;
     font-size: 24px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.25;
+    line-height: 1.2;
     letter-spacing: normal;
     color: #fff;
     left: 2%;
-    position: absolute;
-    top: 74px;
+    position: relative;
+    /* top: 74px; */
 }
 
 .Rectangle-Copy {
     width: 96%;
-    height: 438px;
-    margin: 16px 0px 10px;
-    padding: 32px 20px;
+    height: 355px;
+    margin: 9px 0px 7px;
+    padding: 8px 15px;
     border-radius: 10px;
     background-color: #fff;
     left: 2%;
@@ -105,9 +105,9 @@ img.logo_subtitle {
 .Short-description {
     width: 280px;
     height: 40px;
-    margin: 8px 0 20px;
+    margin: 10px 0 20px;
     font-family: Arial, sans-serif;
-    font-size: 13pt;
+    font-size: 12pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -178,7 +178,7 @@ img.img_a {
     height: 30px;
     margin: 0 0 8px;
     font-family: Arial, sans-serif;
-    font-size: 18px;
+    font-size: 13pt;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;

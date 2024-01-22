@@ -21,3 +21,11 @@
 2024-01-19 16:50:48	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
 2024-01-19 16:50:53	/api/similar-words.api	a@a.com	A	pt	mi, vi
 2024-01-19 16:51:25	/api/similar-words.api	a@a.com	A	pt	mi, vi
+2024-01-19 21:52:40	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-01-19 21:52:41	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-19 21:52:42	/api/get_course_info.api	a@a.com	ko-kr
+2024-01-19 21:52:43	/api/session-start.api	a@a.com	ko-kr	A
+2024-01-19 21:52:43	/api/card-next.api	a@a.com	A	ko-kr	via nomo estas ~	5	./quizE.html	male1
+2024-01-19 21:52:44	/api/playsound.api	a@a.com	male1/via nomo estas ~.mp3
+2024-01-19 21:52:46	/api/card-next.api	a@a.com	A	ko-kr	kio estas via nomo?	5	./quizF.html	female1
+2024-01-19 21:52:46	/api/playsound.api	a@a.com	ludoviko/via nomo estas ~.mp3
