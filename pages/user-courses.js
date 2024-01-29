@@ -48,7 +48,7 @@ function update_course_info() {
         var course_table_X = course_table.replace(/\$A/g, X);
         $('Course_table').innerHTML += "<tr><td>" + course_table_X + "</td></tr>";
         $('Course' + X + '_name').innerText = user_courses[X].name;
-        $('Course' + X + '_short_description').innerText = user_courses[X].short_description;
+        $('Course' + X + '_short_description').innerHTML = user_courses[X].short_description;
         $('Course' + X + '_familiar').innerText = user_courses[X].familiar;
         $('Course' + X + '_mastered').innerText = user_courses[X].mastered;
         // $('Course' + X + '_needs_review').innerText = user_courses[X].needs_review;
@@ -57,6 +57,7 @@ function update_course_info() {
         $('Course' + X + '_total_count').innerText = user_courses[X].total_count;
         console.log(X);
     }
+    $("Course_table").innerHTML += "<tr><td>" + course_table_Z + "</td></tr>";
     for (var X in user_courses) {
         console.log(X);
         var btn_ID = 'Btn_Start' + X;
@@ -70,6 +71,7 @@ function update_course_info() {
         // alert($('Btn_Start' + X));
     }
 
+    $('Btn_Start_Z').onclick = Zagreba_click;
 }
 
 function lang_changed() {
@@ -88,6 +90,17 @@ function lang_changed() {
     display_message();
 }
 
+function Zagreba_click() {
+    lang = localStorage.lang;
+    if (lang == "zh-cn") { lang = "zh" }
+    else if (lang == "en-us") { lang = "en" }
+    else if (lang == "ko-kr") { lang = "ko" }
+    else if (lang == "ja-jp") { lang = "ja" }
+    else if (lang == "vi-vn") { lang = "vi" }
+
+    // window.location.href = "https://esperanto12.net/" + lang;
+    window.open("https://esperanto12.net/" + lang);
+}
 
 window.onload = function () {
     if (localStorage.getItem('login_status') != 'success') {
@@ -96,6 +109,7 @@ window.onload = function () {
     }
 
     $('Btn_logout').onclick = onlogout_click;
+
 
     const radioButtons = document.querySelectorAll('input[type="radio"]');
     radioButtons.forEach(radioButton => {

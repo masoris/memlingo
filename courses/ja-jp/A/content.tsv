@@ -65,7 +65,7 @@ level	jes, mi fartas bone	はい、私は元気です	yes, I'm fine	grupo	altern
 level	ne, tute ne	いいえ、まったくありません	no, not at all	grupo	alternativoj	prononco
 level	tre, tro	非常に、あまりにも	very, too much	grupo	alternativoj	prononco
 level	granda, grande	大きい、大きい	big, largely	grupo	alternativoj	prononco
-level	tre bona, tro granda	とても良い、大きすぎる	very big, too big	grupo	alternativoj	prononco
+level	tre bona, tro granda	とても良い、大きすぎる	very good, too big	grupo	alternativoj	prononco
 level	vi tre bone fartas	あなたはとても元気です	you are doing very well	grupo	alternativoj	prononco
 level	ne tre bone	腐って良くないように	not very well	grupo	alternativoj	prononco
 level	lerni ~, lerno	~を学ぶ、学ぶ	to learn, a learning	grupo	alternativoj	prononco
@@ -741,7 +741,7 @@ level	vi ne estas malsaĝa	あなたは愚かではありません。	you are no
 level	la problemo estas, ke ~	問題なら、〜したの	the problem is that ~	grupo	alternativoj	prononco
 level	ke vi devas lerni	勉強すべきこと	that you must learn	grupo	alternativoj	prononco
 level	devas lerni multe pli	はるかに勉強しなければならない	must learn much more	grupo	alternativoj	prononco
-level	tiam vi ne havos	それからあなたは持っているでしょう	then you will not have	grupo	alternativoj	prononco
+level	tiam vi ne havos	それからあなたは持っていないでしょう	then you will not have	grupo	alternativoj	prononco
 level	malbonaj notoj	悪いスコア	bad grades	grupo	alternativoj	prononco
 level	havos nur malbonajn notojn	悪いスコアだけが届くでしょう	will have only bad grades	grupo	alternativoj	prononco
 level	ankaŭ nun	今でも	also now	grupo	alternativoj	prononco

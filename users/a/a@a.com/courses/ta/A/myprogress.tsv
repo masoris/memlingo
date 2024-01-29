@@ -1,0 +1,1354 @@
+level	mi, vi	நான் நீ	I, you	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(தற்போது) is, am, are (past) was, were	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	நான் ~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	நீங்கள் ~	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	வணக்கம்	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	வணக்கம், நான் ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	என், உங்கள்	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	ஒரு பெயர்	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	என் பெயர், உங்கள் பெயர்	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	என் பெயர் ~	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	உங்கள் பெயர் ~	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(தற்போது) செய்கிறது, (கடந்த காலம்) செய்தது	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(தற்போது) இருந்தது, இருந்தது (எதிர்காலம்) இருக்கும்	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	ஒரு பெயர், ஒரு (புறநிலை) பெயர்	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	என் காதல்	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	நீங்கள் செய்கிறீர்கள் ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	எப்படி	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	நீங்கள் எப்படி இருக்கிறீர்கள்?	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	என்ன	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	உங்கள் பெயர் என்ன?	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	நல்லது சிறந்தது	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	நன்றாக இருக்கிறது	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	நான் நன்றாக இருக்கிறேன்	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	மற்றும்	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	நல்லது, மற்றும் நீங்கள்?	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	~ வரை	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(தற்போது) பார்க்கிறது, (கடந்த) பார்த்தேன்	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(கடந்த) பார்த்தேன், (கடந்த) மீண்டும் பார்த்தேன்	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	மீண்டும் பார்த்தேன், மீண்டும் பார்ப்பேன்	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	மீண்டும் பார்ப்பது, மீண்டும் பார்ப்பது (நோக்கம்)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	மீண்டும் சந்திப்போம்!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	நன்றி	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	நன்றி மீண்டும் சந்திப்போம்!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	உனக்கு, எனக்கு	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(தற்போது) நன்றி, (கடந்த) நன்றி	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	நான் உங்களை பாராட்டுகிறேன்	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	ஆ ம் இல்லை	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	ஆம், நன்றி	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	சாப்பிடுகிறார், சாப்பிடுவார்	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	நான் சாப்பிடுவதில்லை	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	இல்லை, நான் சாப்பிடுவதில்லை	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	அழகான, அழகாக	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	பயனுள்ளது (முடிவு)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	பாராட்டத்தக்கது, நன்றி சொல்லத் தக்கது	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	முழு, மொத்தமாக	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	அனைத்தும், (நோக்கம்) அனைத்தும்	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	இல்லை, நீங்கள் வரவேற்கப்படுகிறீர்கள்	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	முற்றிலும் இல்லை	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	மன்னிக்க, மன்னிக்க	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	எனக்கு ஒரு மன்னிப்பு	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	என்னை மன்னிக்கவும்! (என்னை மன்னிக்கவும்)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	மன்னிக்கவும், தயவுசெய்து	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	ஒரு காலை வணக்கம்	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	காலை வணக்கம்	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	இனிய இரவு	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	இனிமையான கனவு	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	உங்களுக்கு ஒரு நல்ல பயணம்	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	நல்ல நாள்!	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	அது ~?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	நீங்கள் நன்றாக இருக்கிறீர்களா? (எப்படி இருக்கிறீர்கள்?)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	ஆம். நான் நலம்	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	இல்லை, இல்லை	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	மிக மிக அதிகம்	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	பெரிய, பெருமளவில்	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	மிகவும் நல்லது, மிகப் பெரியது	very good, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	நீங்கள் நன்றாக செய்கிறீர்கள்	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	அவ்வளவாக சரியில்லை	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	கற்க, ஒரு கற்றல்	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	பார்க்கிறார், ஒரு பார்வையாளன்	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	கற்றல், ஒரு மாணவர் (கற்றல் நபர்)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	என்பது -ing, செய்துகொண்டிருக்கும் ஒரு நபர்	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	ஒரு மாணவர், கற்றவர்	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	நான் ஒரு மாணவன்.	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~ என் நண்பன்	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	அவன், அவள்	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	உட்கார, அமர்கிறது	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	உட்கார்ந்து, உட்கார்ந்து, உட்கார்ந்து இருக்கும்	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	அவன் அமர்ந்திருக்கிறான், அவள் கற்றுக் கொண்டிருக்கிறாள்	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	ஒரு அறை	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	ஒரு அறையில் கற்றுக்கொள்கிறார்	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	ஒரு மாணவர் மற்றும் ஒரு விளையாட்டு வீரர்	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	விளையாட்டு மற்றும் விளையாட்டு வீரர்	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	ஒரு விளையாட்டு வீரர் விளையாடுகிறார்	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	அவன் ஒரு மாணவன்	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	அவர் ஒரு மாணவர் மற்றும் விளையாட்டு வீரர்	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	அவர் இப்போது அமர்ந்திருக்கிறார்	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	மற்றும் இப்போது கற்றுக்கொள்கிறார்	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	உட்கார்ந்து கற்றுக்கொண்டிருக்கிறார்	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	இப்போது ஒரு அறையில்	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	ஒரு மேஜையில் உள்ளது	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	ஒரு காகிதம் மற்றும் காகிதங்கள்	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	ஒரு அட்டவணை மற்றும் அட்டவணைகள்	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	ஒரு புத்தகம் மற்றும் புத்தகங்கள்	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	காகிதங்கள் மற்றும் புத்தகங்கள்	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	அது ஒரு மேஜையில் உள்ளது.	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	எழுதும் மேசையில் எழுதுகிறார்	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	புத்தகங்கள் ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	மேசையின் மேல்	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	ஒரு பாடநூல் மற்றும் பாடப்புத்தகங்கள்	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	மேஜையில் உள்ளது ~	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	ஒரு தந்தை மற்றும் ஒரு தாய்	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	தந்தை மற்றும் தாய்	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	என் நண்பனின் தாய்	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	அறையில்	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	அறையில் இல்லை	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	அவர்கள் இப்போது வேலை செய்கிறார்கள்	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	அவரது தந்தை ஒரு தொழிலாளி	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	அவர் ஒரு ஹோட்டலில் வேலை செய்கிறார்	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	தாய் கற்பிக்கிறாள்	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	அவள் ஒரு ஆசிரியை	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	அவள் தாயா?	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	இல்லை, அவள் ஒரு ஹோட்டல் தொழிலாளி	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	இல்லை, நான் வேலை செய்யவில்லை	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	அவளுடைய பெயர் என்ன?	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	இப்போது பதில் சொல்வது யார்?	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	அவர்களின் தாயின் மொழி	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	உங்கள் பெயர் ~?	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	நாங்கள் உட்கார்ந்து பதில் சொல்கிறோம்	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	அவளுடைய வேலை நாற்காலி	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	அதன் பெயர் ~	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	அவளுடைய மொழி அவர்களின் மொழி	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	எங்கள் அப்பா மற்றும் அம்மா	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	உங்கள் மாணவர், உங்கள் மாணவர்கள்	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	அவர்கள் உங்கள் மாணவர்களா?	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	நீங்கள் ஒரு மாணவரா?	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	நீங்கள் அறையில் இருக்கிறீர்களா?	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	நான் இல்லை ~	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	ஒரு எஸ்பரான்டிஸ்ட் மற்றும் ஒரு பெண் எஸ்பரண்டிஸ்ட்	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	ஹோட்டல் அறையில் சோதனை செய்தார்	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	ஒரு மொழியியலாளர் மற்றும் ஒரு பெண் தொழிலாளி	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	அவரது பெண் தோழி ~	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	மாணவர்கள் மற்றும் விளையாட்டு வீரர்கள்	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	என் குடும்பப் பெயர் ~	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	யார் அவள்? அவள் யார்?	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	உங்கள் பெண் தோழி	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	உங்கள் நண்பரா ~?	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	அறையில் இப்போது எழுதுகிறார்	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	உங்கள் தந்தையின் நண்பரா?	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	ஹோட்டலில் வேலை செய்கிறார்	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	மேஜையில் என்ன இருக்கிறது?	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	எங்கள் அறையில் உள்ள மேஜையில்	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	எஸ்பெராண்டோ பாடநூல் ~?	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	உங்கள் மேஜையில் உள்ளது	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	ஒரு நண்பர் இருக்கிறார்	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	அவள் பெயர் ~	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	இளமை மற்றும் அழகான	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	இளமையாகவும் அழகாகவும் இருக்கிறது	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	இளம் மற்றும் அழகான நண்பர்கள்	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	ஆண்-பெண் நண்பர்கள்	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	அவளுடைய ஆசிரியரின் வீடு	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	வீட்டிற்கு வந்தார்	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	~ இன் வீடு	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	தயவு செய்து வாருங்கள்	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	வணக்கம், நீங்கள் என்ன செய்கிறீர்கள்?	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	நீ என்ன செய்கிறாய்? நீ என்ன செய்து கொண்டிருக்கிறாய்?	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	ஆனால் இப்போது எனக்கு வேண்டும் ~	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	நான் பேச வேண்டும்	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	மூன்று ஆண்-பெண் நண்பர்களுடன்	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	உன்னுடன் பேசினார்	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	உன்னுடன் பேச வேண்டும்	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	உங்களுக்கு ஆண்-பெண் நண்பர்கள் இருக்கிறார்களா?	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	அவரிடம் ஒரு புத்தகம் உள்ளது	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	ஒரு நல்ல புத்தகம் உள்ளது	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	ஆமாம் என்னிடம் இருக்கிறது	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	அவர்கள் அதை விரும்புகிறார்கள்	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	அவள் ஒரு புத்தகத்தைப் படித்தாள்	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	புத்தகங்கள் படிக்க பிடிக்கும்	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	ஒரு நல்ல புத்தகம் மட்டுமே	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	பல நல்ல புத்தகங்கள்	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	நல்ல புத்தகங்களை மட்டுமே படியுங்கள்	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	நல்ல புத்தகங்கள் படிக்க பிடிக்கும்	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	நீங்கள் படிக்க விரும்புகிறீர்களா?	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	இளைஞன் காபி குடித்தான்	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	தண்ணீர் குடிக்க வேண்டும்	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	ஒரு தந்தை மற்றும் ஒரு தாய்; பெற்றோர்கள்	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	ஒரு தொந்தரவு மற்றும் ஒரு சகோதரி, உடன்பிறப்புகள்	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	உங்கள் பெற்றோர் மற்றும் உடன்பிறந்தவர்கள்	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	உங்கள் வீட்டில் உள்ளது	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	இதோ காபி	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	இன்னும் குடிக்கவில்லை	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	இன்னும் சூடாக இருக்கிறது	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	நேற்று சமைத்தேன்	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	இப்போது சமைத்தேன்	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	நன்றி. அதனால் அவர் கூறினார்.	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	குடிக்கவும் சாப்பிடவும் முடியும்	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	குளிர்ந்த காபி குடித்தார்	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	இன்னும் சூடான காபி	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	குளிர் காபியும் அருந்துகிறார்	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	குளிர் காபி கூட குடிக்கலாம்	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	அவள் கண்ணைப் பார்க்கிறான்	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	மிக அழகான கண்	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	அழகான கண்கள்	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	அழகான கண்கள் பார்த்தன	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	அவளுடைய அழகான கண்கள்	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	பார்த்து புரிந்து கொள்கிறது	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	நான் அதை பார்க்கிறேன் ~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	அவன் அவளை காதலிக்கிறான் என்று	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	அவன் அவளை காதலிப்பதாக அவள் உணர்கிறாள்	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	அது பெரியதா என்று கேட்கிறார்	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	ஒரு எளிதான கேள்வி பற்றி	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	ஒரு புதிய பணம் பற்றி கூறினார்	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	மிக அழகான கண்கள்	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	பெரிய அண்ணனைப் பார்த்தார்	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	ஒரு சிறிய சகோதரி அதை மறந்துவிட்டார்	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	ஒரு குற்றச்சாட்டு (நோக்கம்)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	குற்றஞ்சாட்டப்பட்ட முடிவை மறந்துவிடாதீர்கள்	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	நீ யாரைப் பார்க்கிறாய்? நீங்கள் எதைப் பார்க்கிறீர்கள்?	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	நான் ஒரு நண்பரைப் பார்க்கிறேன்	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	நல்ல ஆண்-பெண் நண்பர்கள் உண்டு	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	அவர்கள் பழைய வீட்டைப் பற்றி வேலை செய்கிறார்கள்	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	வேலை, வேலை, வேலை செய்யும்	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	பார்க்கிறேன், நான் சாப்பிடுகிறேன் என்று	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	அவர் செல்வார் என்று கூறினார்	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	அசிங்கமான மற்றும் மோசமான	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	அவள் என்ன சொன்னாள்?	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	எதற்காக காத்திருக்கிறாய்?	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	அறைக்குள் சென்றார்	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	உள்ளடக்கம் மிகவும் கடினம்	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	கூட்டத்திற்கு வந்தார்	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	கூட்டத்திற்கு வரவேற்கிறோம்	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	ஒரு முதியவர் ஒரு குறிப்பு கொடுத்தார்	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	வந்து வரவேற்றார்	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	அவர்கள் வெறுக்கிறார்கள் ஆனால் ஒத்துழைக்கிறார்கள்	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	ஹோட்டலுக்கு சென்றார்	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	எளிதான பாடப்புத்தகங்கள் உள்ளன	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	உன் அம்மா எப்படி இருந்தாள்?	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	உங்கள் பழைய வீடு	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	நீங்கள் எந்த புத்தகங்களைப் படித்தீர்கள்?	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	அவர்கள் நன்றாக இருந்தார்களா?	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	நேற்று என்ன செய்தார்?	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	சிறிய அறையில்	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	மிக நீண்ட நேரம் பேசினார்	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	பள்ளி முன், பள்ளி முன்	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	பள்ளி முன்பு பேசினார்	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	பின்னர் புத்தகம் பற்றி பேசினார்	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	மகிழ்ச்சியுடன் பள்ளிக்குச் சென்றார்	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	தெரு வழியாக	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	தெரு வழியாக சென்றார்	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	ஒரு சூடான நாள்	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	அவர்கள் ஒரு ஓட்டலைப் பார்த்தார்கள்	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	சிவப்பு குக்கீகளை பார்த்தேன்	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	அதில் குக்கீகளை பார்த்தேன்	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	ஒரு ஓட்டலைப் பார்த்தேன்' மற்றும் அதில் குக்கீகள்	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	உள்ளே சென்று சாப்பிடு!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	உள்ளே வந்து சாப்பிடலாம்	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	போதுமான பணம் உள்ளது	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	உங்களிடம் போதுமான பணம் இருக்கிறதா?	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	உனக்கு புரிகிறதா?	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	நிச்சயமாக!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	அது போதாது	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	நூறு டாலர்கள் போதும்	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	ஒரு டாலர், டாலர்கள், டாலர்கள் (பன்மை நோக்கம்)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	நூறு டாலர்கள் உள்ளது	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	நிச்சயமாக, என்னிடம் உள்ளது	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	ஓ! நீ பணக்காரன்!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	ஒரு தண்ணீர், ஒரு பணியாள்	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	ஒரு பணியாளர் ஒரு மெனுவைக் கொண்டுவருகிறார்	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	அதை எங்களிடம் கொண்டு வந்தார், கொண்டு வந்தார்	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	ஒரு பணியாளர் நிறைய குக்கீகளை கொண்டு வந்தார்	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	அவர்கள் கொஞ்சம் சாப்பிட்டார்கள் (கொஞ்சம்)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	சாப்பிட்ட பிறகு (உணவு)	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	புதியது, மீண்டும்	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	பணியாள் மீண்டும் வந்தான்	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	சில இடத்தில்	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	ஏதோ ஒரு இடத்தில் தேடினார்	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	வேறு இடத்தில் தேடினார்	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	அவரது முகம் மகிழ்ச்சியாக இருந்தது	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	அவள் சோகமாக இருந்தாள்	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	இறுதியில் மற்றும் இறுதியாக	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	உங்கள் வலுவான குரல்	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	பலவீனமான குரலில்	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	பணம் இல்லை	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	அங்கு என்ன நடந்தது?	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	பின்னர் ஒரு விபத்து நடந்தது	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	அது எப்போது நடந்தது தெரியுமா?	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	விஷயம் பற்றி தெரியும்	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	இன்னும் ஒன்று உள்ளது	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	நீங்கள் அல்லது அவள், எந்தவொரு நபரும்	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	ஒரு பாடகர் போல, ஒரு கையொப்பமிட்டவராக	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	ஒரு தொழில்முறை பாடகர் போல் பாடினார்	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	அவள் வாழ்ந்த இடம்	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	கார் பற்றி உனக்கு எப்படி தெரியும்?	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	சரி, வேகமான காரைப் பாருங்கள்	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	சர்க்கரை இல்லாத சாறு	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	அவரிடம் வேகமான வாகனம் உள்ளது	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	மிகவும் வலுவாக	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	அவர் மிகவும் கடினமாக திறந்தார்	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	மிக வேகமாக ஓட்டினார் (பயணம் செய்தார்).	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	கரண்டியால் சாப்பிட்டார்	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	நாங்கள் கடுமையாக சந்தேகிக்கிறோம்	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	அவரிடமிருந்து ஒரு உண்மையான கடிதம்	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	ஐந்து புகைப்படங்களுடன் ஒரு காதல் கடிதம்	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	திரும்பி, திரும்பிய மக்கள்	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	மேலும் ஆறு கடிதங்கள் திரும்பியது	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	புகைப்படம் பார்க்க வேண்டும்	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	பள்ளியிலிருந்து திரும்பி வந்தார்	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	சகோதரி எப்போது திரும்புவாள்?	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	மீண்டும் படிக்க விரும்பினேன்	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	செய்தது (செய்தது), ஆனது	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	விரைவாக சிவப்பு நிறமாக மாறியது	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	ஒரு அறையில், ஒரு அறைக்குள்	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	நின்று அமர்ந்தார்	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	புகைப்படத்தின் முன் நின்றான்	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	என்னிடம் அது இருக்கிறது	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	உன் கையில் என்ன இருக்கிறது?	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	முன்னால் அல்லது பின்னால்?	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	முன் அல்லது பின்?	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	அங்கு கதவுக்கு பின்னால்	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	மற்றவர்கள், மற்றவர்கள்	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	மற்றவர்களிடமிருந்து கடிதங்கள்	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	கையை விட்டு விழுந்தது	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	மேஜையில், மேசையில்	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	அது மேசையில் விழுந்தது	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	மன்னிப்பு கேட்டார்	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	ஐந்து புத்தகங்களைத் தேடிக்கொண்டிருந்தான்	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	மன்னிக்கவும், நான் எனது புத்தகத்தைத் தேடிக்கொண்டிருந்தேன்.	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	ஆனால் உனக்கு நன்றாக தெரியும்	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	என் மேஜையில் இல்லை	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	உங்கள் புத்தகங்கள் என் மேஜையில் இல்லை	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	மீண்டும் கொடுத்தார், திரும்பினார்	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	கடிதத்தை என்னிடம் திருப்பி அனுப்பு	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	நல்ல பாடம் கிடைத்தது	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	மேலும் கழுவி, இன்னும் சாப்பிட்டேன்	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	இனி படிக்க மாட்டேன்	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	நானும் பெற்றுக்கொண்டேன்	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	மூட வேண்டும்	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	நான் நன்றாக மூட வேண்டும்	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	கதவை இறுக்கமாக மூடினான்	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	அமைதி, அமைதி	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	கேட்டது ஆனால் கேட்கவில்லை	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	அமைதியான ஒலி கேட்டது	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	என்னிடம், 4 பாக்கெட்டுகள் உள்ளன	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	கடைசி பாடத்திற்குப் பத்து நாட்களுக்குப் பிறகு	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	இரண்டு அட்டவணைகளுக்கு இடையில்	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	மூன்று கடிதங்கள், ஆறு தாள்கள்	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	தலை முதல் கால் வரை	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	நான்கு, நான்காவது, ஒரு நால்வர், ஒரு கால்	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	மூவரும் எங்கே போனார்கள்	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	இரண்டு கைகளிலும் ஐந்து விரல்கள்	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	சுயமாக, ஒருவரின் சொந்த பாக்கெட்	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	போட, ஒன்றாக, ஒரு கலவை	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	சொந்த பாக்கெட்டில் வைத்து	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	உலகில் இருநூறு நாடுகள்	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	எடுத்தது, எடுத்தது	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	தன்னுடைய ஒன்பது புத்தகங்களில் ஏழரை எடுத்தார்	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	விட்டு, கைவிடப்பட்டது	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	என்னை அமைதியாக விட்டு விடுங்கள்	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	ஆயிரத்து எண்ணூற்று எண்பத்தேழு (1887)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	ஒரு கோப்பை தேநீர்	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	ஒருவர் எட்டு கோப்பைகளை கழுவினார்	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	இரண்டாயிரத்து பத்தொன்பது (2019)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	அவர் தன்னை கழுவினார்	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	ஒருவரின் உடல், ஒருவரின் சொந்த உடைமை	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	மேஜையில், பூனை தூங்கியது	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	பூனை மேசையில் குதித்தது	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	மண்டபத்தில், மண்டபத்திற்குள்	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	அவன் கையில் விழுந்தது	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	வேலை செய்ய, விரிவாக	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	அந்த புத்தகத்திற்கு விரிவாக	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	தெரியும், அறிய வேண்டும், ஆர்வம்	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	இருமொழி, இருமொழி	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	ஒரு மும்மொழி கற்றவரைப் பற்றி ஆச்சரியமாக இருக்கிறது	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	சென்றார், திரும்பினார்	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	பூனைகள் தங்கள் (சொந்த) வீடுகளுக்குத் திரும்பின	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	பையில், பையில்	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	அதை உங்கள் பையில் வைக்கவும்	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	ஒரு கால், நடைகள், ஒரு பாதசாரி	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	பத்து நாட்கள், அவர்கள் நடந்தார்கள்	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	எடுக்க, வெளியே எடுக்க	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	அழகான பூக்கள், அழகான பூக்கள் எடுத்தது	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	அழகான பூக்களை மட்டும் வெளியே எடுத்தார்	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	திறக்கப்பட்டது, ஆனால் உடனடியாக மூடப்பட்டது	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	ஒரு சர்வதேச கூட்டத்தை ஆரம்பித்தார்	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	வெளியிடப்பட்டு விநியோகிக்கப்பட்டது	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	பதிப்பாளர் இருபத்தி மூன்று புத்தகங்களை வெளியிட்டார்	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	திரும்பி வந்து சொந்த மகனைப் பார்த்தான்	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	இரண்டாயிரத்து இருபத்து மூன்று ஆண்டு (2023)	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	ஒரு மனிதர் கடைக்குள் நுழைந்தார்	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	கார்களின் கடை	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	அங்கு அவர் ஒரு பெண்ணைப் பார்க்கிறார்	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	அன்புள்ள பெண்கள் மற்றும் தாய்மார்களே	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	அது என்னை மகிழ்வித்தது (நான் அதை விரும்புகிறேன்)	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	அந்த பெண் அவரை மகிழ்வித்தார் (அவர் அந்த பெண்ணை விரும்பினார்)	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	அழகான பெண்ணைப் பார்த்தார்	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	அவரை மகிழ்வித்தது யார்? (அவர் யாரை விரும்பினார்?)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	என்னை மகிழ்வித்த பெண்	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	வீட்டிற்குள் நுழைந்தவன்	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	அதை தானம் செய்த மனிதன்	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	அவர் தனது மனைவிக்கு ஒரு மோதிரத்தை கொடுத்தார்	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	அவள் மோதிரத்தை விரும்பினாள்	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	மோதிரத்தை விரும்பிய மனைவி	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	ஒரு விற்பனையாளர் கடையில் வேலை செய்கிறார்	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	கார் விற்பனையாளர்	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	அந்த மனிதர் விற்பனையாளரிடம் கேட்டார்	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	உனக்கு எந்த கார் பிடிக்கும்?	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	எந்த காரை தேர்வு செய்வீர்கள்?	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	நான் அந்த காரைத் தேர்ந்தெடுத்தேன்	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	இது பரவாயில்லை	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	இதை விட சிறந்தது	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	அவற்றில் சிறந்தது	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	சிறப்பானது	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	எந்த கார் சிறந்தது?	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	இந்த கார் சிறந்தது	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	இதுவே சிறந்தது	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	அனைத்து கார்களையும் பார்த்தேன்	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	அனைத்து சிறந்த	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	வேகமா?	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	மற்றவர்களை விட வேகமாக	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	வலுவாகவும் உள்ளது	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	ஆம், நிச்சயமாக!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	மிகவும் வலுவாக உள்ளது	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	நிச்சயமாக அது வலிமையானது	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	விலையுயர்ந்ததாகவும் உள்ளது	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	எல்லாவற்றிலும் மிகவும் விலை உயர்ந்தது	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	மலிவான ஆனால் வலுவான	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	வருந்துகிறது மற்றும் பரிதாபமாக இருக்கிறது (வருந்தத்தக்கது)	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	துரதிருஷ்டவசமாக நான் வாங்க மாட்டேன்	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	ஒரு துரதிருஷ்டவசமான விஷயம்	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	அவர் ஒரு புதிய கார் வாங்கினார்	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	ஏனென்றால் என்னிடம் பணம் இல்லை	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	என் பழைய கார்	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	எல்லாவற்றிலும் மலிவானது	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	நான் அங்கே ஓட்டுவேன்	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	இன்னும் அதனுடன் ஓட்டுவார்	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	நாள் முழுவதும்	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	என்று அவர் கூறும்போது	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	அவன் அவளை மீண்டும் பார்த்தான்	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	ஆனால் விற்பனையாளர் கூறினார்	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	அது நன்றாக இருக்கும் ~	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	இந்த பெண்ணை பார்	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	அதுவும் மிகவும் விலை உயர்ந்தது	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	நான் அவளுடைய கணவர்	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	உங்கள் பயணம் எவ்வளவு செலவானது?	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	உங்கள் மனைவியின் பாடலைக் கேளுங்கள்	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	நிறைய செலவாகும் என்பதை மறந்துவிடாதீர்கள்	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	அவர் இரண்டு மணி நேரம் விற்பனையாளருக்கு உதவினார்	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	மூன்று வருடங்களுக்கும் மேலாக	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	மூடுதல், மறைத்தல், வெளிக்கொணர்தல் (கண்டுபிடித்தல்)	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	காரணம் அவர் இன்னும் கண்டுபிடிக்கவில்லை	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	நீங்கள் ஏன் கடிதங்களை அனுப்ப ஆரம்பித்தீர்கள்?	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	எட்டு மாதங்கள் அங்கு வாழ்ந்தார்	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	கேட்க நேரமில்லை	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	கார் ஏற்கனவே நிரம்பியிருந்தது	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	நீங்கள் என்ன சாப்பிடுகிறீர்கள்	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	வானிலை எப்படி இருக்கிறது?	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	உங்களிடம் என்ன வகையான கார் உள்ளது?	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	அவளுடைய கடிதங்கள் எப்படி இருந்தன?	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	நாம் எங்கு இருக்கிறோம்?	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	நீங்கள் எங்கு செல்கிறீர்?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	யாருக்கு கொடுத்தாய்?	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	நீங்கள் பயணித்த மனிதன்	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	காரை விட பெரியது	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	அந்த மக்களில் மிக உயரமானவர்	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	அவர் இரவு உணவில் அமர்ந்திருந்தார்	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	அவன் படிக்கும் போது அவள் எழுதுகிறாள்	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	இங்கே, இந்த அறையில்	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	இந்த மனிதர்	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	கேட்க வேண்டிய செய்தி	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	புத்தகம் உண்மையில் படிக்கத் தகுந்தது	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	ஒரு துரதிருஷ்டவசமான விஷயம்	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	துரதிருஷ்டவசமாக, என்னால் முடியாது	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	நீங்கள் வரவேற்கப்படுகிறீர்கள். அது என் மகிழ்ச்சியாக இருந்தது	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	சிறிய அழகான பெண் மிகவும் அழகாக இருக்கிறாள்	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	எல்லா நண்பர்களும் அவளை நேசிக்கிறார்கள்	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	மூன்று மாதங்களுக்கு முன்பு	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	அவளுக்கு ஏதோ கெட்டது	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	அவள் கார் காரணமாக விழுந்தாள்	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	நோய்வாய்ப்பட்டது மற்றும் வெப்பநிலை உயர்ந்தது	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	அம்மா ஓய்வெடுக்க வேண்டும் என்றார்	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	அவள் வீட்டில் இருக்க வேண்டும்	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	அவள் ஒரு மருத்துவரை அழைப்பாள்	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	ஒன்பது மணிக்கு	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	காலை எட்டு மணிக்கு வந்தது	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	நாளை மாலை ஏழு மணிக்கு	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	கைகளைக் காட்டினார்	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	ஆடை, ஆடை அணிந்து வருகிறது	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	ஆடை அணிந்து உடலை சூடுபடுத்துங்கள்	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	வீட்டில் உடனடியாக ஆடைகளை அவிழ்த்துவிட்டு குளித்தார்	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	ஒரு மருத்துவர் எல்லாவற்றையும் பார்த்தார்	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	நன்றாகப் பார்த்துவிட்டு இறுதியாக சொன்னார்	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	ஒரு வாரம் வீட்டில் இருங்கள்	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	நீங்கள் அமைதியாக இருக்க வேண்டும் என்று விரும்புகிறார்	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	ஒரு வாரம் கழித்து	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	நீங்கள் நன்றாக உணருவீர்கள்	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	நிறைய தேநீர் குடிக்கவும்	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	மீண்டும் உன்னை பார்க்க வருவேன்	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	அவரும் அமைதியாக இருக்கட்டும்	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	ஆரோக்கியமான மனிதன், ஆரோக்கியமான மனிதன்	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	தன்னை கவனித்துக்கொண்டார்	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	முழு விஷயமும் எனக்கு ஒரே நேரத்தில் பயனுள்ளதாக இருந்தது	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	பயங்கரமான விஷயம் அருகில் இருப்பதை கவனித்தார்	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	அதை உடனடியாக கவனிக்குமாறு கேட்டுக் கொண்டார்	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	தேவையில்லை என்று நினைத்தேன்	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	அருகில் வாழ்ந்தார், அது பயனுள்ளதாக இருந்தது	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	நம் நாடு இன்று அச்சமடைந்துள்ளது	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	அனைத்து குடும்பங்களிலிருந்தும் அன்பான குழந்தைகள்	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	நேற்று ஒரு முறை, நாளை இரண்டு முறை	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	இன்று குடும்பங்களுக்கு குழந்தைகள் தேவை	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	நாளை நலமாக இருப்பார் என்று நம்பினார்	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	அவர் மிகவும் அமைதியாக உணர்ந்தார்	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	மூன்று சிறியவர்கள் மலையை உயர்த்தினார்கள்	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	முக்கியமானவர்கள் உதவி கேட்கவில்லை	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	உதவி செய்ய அங்கு நடந்தார்	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	வெப்பநிலை அதிகமாக இருந்தால் வீட்டிலேயே இருங்கள்	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	இன்றும் அதே வெப்பநிலை நீடித்தது	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	ஒன்பது மணிக்கு மருத்துவரை அழைக்கவும்	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	அதை உங்கள் மருத்துவரிடம் காட்டுங்கள்	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	உங்கள் கால் காட்ட	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	இந்த சட்டையை அணியுங்கள்	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	வார இறுதியில் எல்லாம் அமைதியாகிவிடும்	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	தேநீர் கோப்பையின் கீழ் நீங்கள் என்ன கண்டுபிடித்தீர்கள்?	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	எனக்கு காலை தேநீர் வேண்டும்	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	அமைதியான மாலையை எதிர்பார்த்தேன்	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	நீங்கள் கற்றுக்கொள்ள வேண்டும் என்று விரும்புகிறார்	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	நான் செல்ல வேண்டும் என்று வலியுறுத்தினார்	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	எந்த நேரத்தில்?	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	ஆறு மணிக்கு அவர் வருவார்	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	லிப்ரெட்டோ அழகாக இருந்தது	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	அமைதியாக இரு	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	அவன் அமைதியாக இருக்கட்டும்	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	அவரும்	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	எனக்கு வேண்டும் (ஆசை)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	நான் (ஆசை) என்று விரும்புகிறேன்	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	நீ கற்றுக்கொள் என்று	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	நீங்கள் கற்றுக்கொள்ள வேண்டும் என்று நான் விரும்புகிறேன்	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	தந்தை வலியுறுத்துகிறார்	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	என்று தந்தை வலியுறுத்துகிறார் ~	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	நான் செல்கிறேன் என்று	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	நான் போக வேண்டும் என்று அப்பா வற்புறுத்துகிறார்	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	எந்த நேரத்தில்	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	நீங்கள் எத்தனை மணிக்கு வருகிறீர்கள்?	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	ஐந்து மணிக்கு)	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	ஐந்து மணிக்கு	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	அவர் எப்படி இருக்கிறார்?	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	இப்பொழுது எப்படி இருக்கிறீர்கள்?	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	சிறிய புத்தகங்கள் அழகானவை	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	ஒரு சிறு புத்தகம், அழகான புத்தகங்கள்	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	அழகான, கொஞ்சம் அழகான, மிக அழகான	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	சூடான, மந்தமான, மிகவும் சூடாக	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	ஒரு பெரிய புத்தகம், ஒரு சிறு புத்தகம்	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	நல்லது, சிறந்தது, நல்லது	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	பணக்காரனாக, பணக்காரனாக, பணக்காரனாக ஆக	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	அமைதியாக, அமைதியாக, அமைதியாக	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	ஆரோக்கியமான, குணமடைய, குணமடைந்தார்	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	ஒரு கணவர், திருமணம், திருமணம்	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	ஒரு கடிதம் தபால்காரர்	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	ஒரு தாயகம்	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	ஓரளவு, கொஞ்சம்	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	நாங்கள் ஒரு சிறந்த இரவு உணவு சாப்பிட்டோம்	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	வட்டம், உங்களை கவனித்துக் கொள்ளுங்கள்	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	உயர்தர வீட்டுவசதி பற்றி நான் அக்கறை கொண்டேன்	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	இரண்டு முறை, பல முறை யோசி	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	புத்தகத்தை எடுத்தது யார்?	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	சீசர் என்ற பூனை	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	மேஜையில் இருக்கும் ஒரு கேக்	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	மேஜையில் இருக்கும் ஒரு கேக்கை சாப்பிடுங்கள்	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	சூடாகவும் சிவப்பாகவும் மாறியது	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	ஒரு தந்தை தனது குழந்தை சாப்பிட விரும்புகிறார்	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	ஒரு சிறிய அறையில்	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	நாங்கள் வாழ்கிறோம் ~	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	நான் பதட்டமடைந்தேன்	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	அந்த நேரத்தில் நான் உன்னை பார்த்தேன்	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	அனைவரும் அதை கவனித்தனர்	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	அவள் அழகாக இருக்கிறாள் என்பது உண்மை	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	உனக்கு அது வேண்டுமா ~? (தேசிரி)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	நான் உனக்கு காட்டலாம் என்று	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	நான் காட்ட வேண்டுமா?	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	எனது புதிய புத்தகம் (நோக்கம்)	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	நாளை காலை, உனக்கு என்ன வேண்டும்?	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	தாமதமாக காலை உணவு உண்டு	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	மார்க் எப்போது வருவார்?	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	ஐந்து அல்லது எட்டு மணிக்கு	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	நீங்கள் அதை எப்போது கவனித்தீர்கள் ~?	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	முழு குடும்பமும் என்னை ஒரு பயனாளி என்று அழைக்கிறது	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	உங்களுக்கு பயனுள்ளதாக இருக்கும்	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	புத்தகம் பயனுள்ளதாக இருந்ததா?	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	நான் அனுப்பிய சிறு புத்தகம்	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	காலையில் நீண்ட நேரம் தூங்கினேன்	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	அவர் சூரியனைப் பார்த்தபோது	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	திடீரென்று அவர் குதித்தார்	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	அவர் எப்போதும் ஆரம்பத்தில் இருந்தார்	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	அவர் எப்போதும் தாமதமாக இருக்கிறார்	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	அந்த நேரத்தில், அவர் செல்ல வேண்டும்	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	பள்ளிக்கு செல்ல	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	அவருக்குத் தெரியும், அது ~	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	அவருக்கு உண்மை தெரியும், ~	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	ஆசிரியர் தேனீக்களை வெறுக்கிறார் என்பது உண்மை	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	ஆசிரியர் தேனீக்களை வெறுக்கிறார் என்ற உண்மை தெரியும்	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	ஆசிரியர் அதை வெறுக்கிறார் என்பது தெரியும்	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	ஆனால் இன்று அவர் காபி குடித்தார்	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	அவர் விரைவாக ஆடைகளை அணிந்தார்	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	அவர் தாமதமாக வர விரும்பவில்லை	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	மிக விரைவாக கையில் புத்தகங்களுடன்	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	பின்னர் அவர் ஓடி குதித்தார்	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	அவன் ஓடி குதித்தான்	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	தெருவோடு	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	மக்கள் அவரைப் பார்த்தார்கள்	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	அவனைப் பார்த்து சொன்னான்	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	புத்திசாலி மற்றும் முட்டாள்	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	என்ன ஒரு முட்டாள் பையன்!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	ஒரு பள்ளியின் முன் இருந்தது	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	விரைவில்	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	அவர் முன்னால் இருந்தார் ~	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	செல்ல மற்றும் நுழைய	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	அவர் நுழைய விரும்பினார்	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	பள்ளிக்குள் நுழைய	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	ஆனால் எனினும்	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	ஆனால் அவனால் முடியவில்லை	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	மூட மற்றும் மூட	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	அது மூடப்பட்டது	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	~ அல்லது ~ இல்லை	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	ஆசிரியரோ அல்லது ஆண்-பெண் மாணவர்களோ அல்ல	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	ஆசிரியரையோ மாணவர்களையோ பார்க்கவில்லை	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	உட்கார, உட்கார	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	அமர்ந்தேன் (அமர்ந்திருந்தேன்)	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	அவர் அமர்ந்தார்	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	மற்றும் நினைத்தேன்	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	என்ன நடந்தது?	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	பயங்கரமானவர்களுக்கு (பிசாசு போல)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	அணைக்கட்டு	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	நினைவில் கொள்கிறது	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	இப்போது எனக்கு நினைவிருக்கிறது	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	ஞாயிற்றுக்கிழமை	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	இன்று ~	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	இன்று ஞாயிற்று கிழமை	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	தூங்குவதற்கும் தூங்குவதற்கும்	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	ஒரு சூரியன் மற்றும் ஒரு சந்திரன்	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	திடீரென்று மற்றும் திடீரென்று	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	ஆஃப்! (தொடங்க)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	குதித்து குதிக்க	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	எப்போதும் முன்கூட்டியே	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	இன்று போட்டு ஓடினான்	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	வயது அல்ல ஒரு விஷயம்	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	புத்திசாலிகளுடன் ஓடினார்	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	விரைவில்	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	என்ன பையன், என்ன பெண்	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	நினைக்கவில்லை அல்லது மனப்பாடம் செய்யவில்லை	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	ஞாயிற்றுக்கிழமை தண்ணீருக்காக ஒரு பிசாசு காத்திருந்தது	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	அத்தகைய சிறிய தருணம்	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	அத்தகைய சிறிய தருணம் கூட பயனுள்ளது	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	இரவு வரை அழுதார்	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	தபால் போஸ்ட்டை கையில் இருந்து தள்ளி வைக்கவும்	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	மெயில்போஸ்ட்டை வைத்துவிட்டு தனியாக சிரித்தார்	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	அவனோ அவளோ சிரிக்கவில்லை	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	அவள் சிரிக்கவும் இல்லை பதில் சொல்லவும் இல்லை	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	அவர் உட்காரவும் இல்லை, பார்க்கவும் இல்லை	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	நான் பார்த்ததில்லை	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	நான் யாரிடமும் சொல்ல மாட்டேன்	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	யாரிடமும் சொல்லாதே	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	நான் சொல்லவே மாட்டேன்	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	தனக்கு (தன்னால்)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	நான் அதை சுயமாக செய்தேன்	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	அதை செய்தேன் (அதை செய்தேன்)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	அதை தானே செய்தேன் (அதை தானே செய்தேன்)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	உன்னை (மீண்டும்), சந்திப்போம் (மீண்டும்)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	வரை! (பிரியாவிடை!)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	பேச ஆரம்பிக்க	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	சொல்ல ஆரம்பித்தார், கடைசியில் பேச ஆரம்பித்தார்	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	மிக வேகமாக குடித்தார்	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	காலை பானம் அருந்தினார்	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	சீக்கிரம் வர	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	பள்ளிக்கு வர வேண்டும்	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	சீக்கிரம் வர ~	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	செய்தி கேட்கவில்லை	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	இன்னும் கேட்கவில்லை	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	நான் இன்னும் கேட்கவில்லை	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	அந்த தருணத்தில்	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	அந்த நேரத்தில் அவர் அழுதார்	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	காதலிக்காத ஒரு பையன்	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	சிறுவர்கள் மற்றும் பெண்கள்	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	மற்ற சிறுவர்கள் மற்றும் பெண்கள்	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	மற்ற பையன்களையும் பெண்களையும் நேசிப்பதில்லை	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	நண்பர்கள் அல்லது பெண் நண்பர்கள் இல்லை	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	பணமும் நேரமும் இல்லை	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	புத்தகம் யாரிடம் இருந்தது?	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	நீங்கள் காத்திருந்த புத்தகம்	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	நீங்கள் 2 ஆண்டுகளுக்கும் மேலாக காத்திருந்தீர்கள்	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	உனக்கு அது வேண்டுமா?	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	உனக்கு அது வேண்டுமா ~?	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	அன்பான	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	அன்பான புகைப்படம்	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	என் அன்பான புகைப்படம்	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	எங்கே வாங்கினாய் ~	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	அந்த ஆடை	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	அந்த ஆடை (நோக்கம்)	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	அந்த உடையை வாங்கினார்	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	நீங்கள் அங்கு செல்வீர்கள்	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	நீங்கள் எங்கு செல்கிறீர்?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	வெளிச்சமான நாள்	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	அது ஒரு வெயில் நாளாக இருக்கும்	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	அது ஒரு வெயில் நாளாக இருந்தால்	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	உங்கள் சகோதரர் ஏற்கனவே ஆரம்பித்துவிட்டார்	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	உங்கள் சகோதரர் இன்னும் ஆரம்பித்தாரா?	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	தண்ணீர் எங்கே	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	தண்ணீர் கொண்டு வர	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	நீங்களே கொண்டு வந்தீர்கள்	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	நீர், நீயே கொண்டு வந்தாய்	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	மிகவும் அமைதியாக இருந்தது	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	இன்று என் அம்மா ~	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	நான் ~ இருந்து வந்தேன்	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	பள்ளிக்கு வெளியே	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	~ க்கு தெரிவிக்கப்பட்டது	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	அவளிடம் தெரிவித்தான்	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	~ என்று தெரிவிக்கப்பட்டுள்ளது	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	பெற்றுக் கொள்கிறேன் என்று தெரிவித்தார்	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	நான் மோசமான மதிப்பெண் பெறுவேன்	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	~ என்று அவள் சொன்னாள்	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	நீங்கள் ~ வேலை செய்ய வேண்டும்	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	மேலும்	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	மேலும் வேலை செய்ய	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	உங்கள் தலையை வேலை செய்ய	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	எத்தனை மோசமான மதிப்பெண்கள்	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	உங்களிடம் பல மோசமான மதிப்பெண்கள் உள்ளன	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	வருத்தமாக இருந்தது	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	உங்கள் அறைக்குள்	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	உன் அறைக்குள் போ	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	சென்று கற்றுக்கொள்	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	நான் அமர்ந்தேன்	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	எனது அறையில்	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	என் அறையில் அமர்ந்தார்	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	கற்கவும் இல்லை படிக்கவும் இல்லை	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	ஆனால் என்னால் கற்றுக்கொள்ளவோ படிக்கவோ முடியவில்லை	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	என் எண்ணங்கள்	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	ஒரு விளையாட்டில்	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	என் நண்பர்களுடன் விளையாட்டு	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	விளையாட்டில்	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	எனக்கு	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	எனக்குள் சொன்னேன்	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	மிகவும் முட்டாள்	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	நான் அவ்வளவு முட்டாளா?	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	நான் நிறைய கற்றுக்கொண்டாலும்	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	அம்மா உள்ளே நுழைந்தாள்	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	என் வார்த்தைகள்	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	என் வார்த்தைகளைக் கேட்டேன்	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	அவள் உடனே பதில் சொன்னாள்	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	இல்லை, அன்பே	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	நீ முட்டாள் இல்லை	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	பிரச்சனை என்னவென்றால் ~	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	நீங்கள் கற்றுக்கொள்ள வேண்டும் என்று	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	இன்னும் நிறைய கற்றுக்கொள்ள வேண்டும்	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	பிறகு உன்னிடம் இருக்காது	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	மோசமான தரங்களாக	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	மோசமான மதிப்பெண்கள் மட்டுமே இருக்கும்	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	இப்போதும்	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	என்னிடம் அவை இல்லை	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	எனக்கு நல்ல மதிப்பெண் உண்டு	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	இசை பற்றி	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	இசை பற்றிய நல்ல குறிப்பு	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	அம்மா திடீரென்று வெடித்துச் சிரித்தார்	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	என்று அழகுபடுத்தினார் ~	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	என்னுடைய நாள்	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	எனது நாளை உருவாக்கியது	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	ஆனால் இன்னும் இருந்தது	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	ஆனால் பிரச்சனை இன்னும் இருந்தது	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	ஒரு கிலோ ~	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	ஒரு கிலோ சர்க்கரை	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	ஒரு கண்ணாடி ~	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	ஒரு குவளை நீர்	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	நிறைய ~	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	நிறைய யோசனைகள்	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	தடுத்து நிறுத்த	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	எல்லாவற்றையும் வரிசைப்படுத்தியது	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	அவரிடம் ஒப்படைக்கப்பட்டது	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	நான் கேட்கிறேன்	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	ஒரு கிளாஸ் காபி	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	மற்றும் சிறிது தண்ணீர்	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	எனக்கு ஒரு கிளாஸ் காபி வேண்டும்	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	எனக்கு ஒரு கோப்பை தேநீர் வேண்டும்	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	அவரை காயப்படுத்தியது	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	அவரது தலை வலித்தது	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	அவர் நோய்வாய்ப்பட்டார்	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	அழகாக இருக்க பிடிக்கும்	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	அவள் முகத்தை அழகுபடுத்தினாள்	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	பையன் அழகாக இருக்க விரும்புகிறான்	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	அதனால் அவள் அதை அழகுபடுத்தினாள்	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	மதிய உணவிற்கு பின்	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	சமையலறையை சுத்தம் செய்ய	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	சமையலறையை யார் சுத்தம் செய்வார்கள்?	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	குடிக்க விரும்புகிறார்	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	உங்களுக்கு குடிப்பதற்கு என்ன வேண்டும்	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	தேநீர் குடிக்க	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	சிறிது தண்ணீர்	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	உனக்கு எதுவும் வேண்டாமா?	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	அதனால் திடீரென்று	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	நீ ஏன் முடிவு செய்தாய் ~?	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	நீங்கள் ஏன் திடீரென்று முடிவு செய்தீர்கள்?	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	உன் அறை	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	உங்கள் சிறிய அறை	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	உங்கள் சிறிய அறைக்கு	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	உங்கள் சிறிய அறையை புதுப்பிக்க	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	உங்கள் சிறிய அறையை புதுப்பிக்க முடிவு செய்தேன்	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	யாருக்கு	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	நீங்கள் கொடுத்தீர்கள் ~	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	யாருக்கு கொடுத்தாய் ~	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	சுத்தமான கண்ணாடிகள்	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	சுத்தமான கண்ணாடியைக் கொடுத்தீர்கள்	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	மதுவிற்கான சுத்தமான கண்ணாடிகள்	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	யாருக்கு எதிராக	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	உங்கள் விளையாட்டு கிளப்	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	~ எதிராக விளையாடுகிறது	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	இரண்டு வாரங்களுக்கு முன்பு	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	உங்கள் விளையாட்டுக் கழகம் யாருக்கு எதிராக விளையாடியது?	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	நீங்கள் பார்க்கிறீர்களா ~?	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	நீங்கள் அடிக்கடி பார்க்கிறீர்களா ~?	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	அடிக்கடி போலீஸ்காரரை பார்க்க வேண்டும்	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	~ இல் வாழ்பவர்	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	தங்கும் இடத்தில் வசிக்கிறார்	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	உங்களுக்கு மேலே வசிக்கும் இடம்	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	~ இல் வசிக்கும் போலீஸ் அதிகாரியைப் பார்க்கிறார்	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	ஓட்டுநர் திட்டம்	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	பயணம் செய்ய விரும்பினார்	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	வேறு நாட்டிற்கு பயணம் செய்ய	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	இலவச நேரத்தில்	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	அவர்கள் செல்ல முடிவு செய்தனர்	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	இத்தாலி செல்ல முடிவு செய்தார்	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	பழைய நகரங்கள்	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	பழைய நகரங்களைக் கொண்ட நாடு	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	மற்ற அழகிகள்	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	மற்றும் பிற அழகிகள்	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	பழைய நகரங்கள் மற்றும் பிற அழகுகளைக் கொண்ட அழகான நாடு	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	அவர்கள் சந்தோசமாக இருந்தார்கள்	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	எங்கே ~?	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	என் உடைகள் எங்கே	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	~ என்று கேட்டாள்	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	~ கொண்டு வர மறக்க வேண்டாம்	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	புத்தகத்தை எடுத்து செல்ல	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	Esperanto கற்க ஒரு புத்தகம்	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	கற்றுக்கொள்ள ஒரு புத்தகத்தை எடுத்துச் செல்ல வேண்டும்	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	நாம் தொடங்கலாம் ~	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	ரயிலில்	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	ஏற்கனவே ரயிலில்	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	நாங்கள் எதுவும் செய்ய மாட்டோம்	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	கார் மூலம்	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	நாங்கள் ~ மூலம் ஓட்டுவோம்	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	கார் ஓட்டுவார்	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	என்னிடம் ஒரு ரகசியம் இருக்கிறது	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	என் பணக்கார மாமா	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	எனது விருப்பம்	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	என் ஆசையை நிறைவேற்றினார்	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	எங்களுக்கு கொடுத்த	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	அவருடைய மகிழ்வுந்து	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	மற்றும் அவரது காரை எங்களுக்கு கொடுத்தார்	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	உபயோகத்திற்காக	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	அது முன் நிற்கிறது ~	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	வீட்டின் முன் நிற்கிறது	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	நான் சொல்ல வேண்டும் ~	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	எதுவும் சொல்லாதே	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	உட்காரலாம்	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	காரில் ஏறுங்கள்	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	~ க்கு ஓட்ட வேண்டும்	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	மற்றும் இத்தாலிக்கு ஓட்டுங்கள்	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	காரில் அமர்ந்தார்	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	மேலும் ஆடைகள்	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~ காரில் இருந்தார்	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	இன்னும் உட்கார்ந்து காத்திருந்தார்	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	ஆனால் அவர் காத்திருந்தார்	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	நாம் ஏன் ~ ?	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	நாம் ஏன் வாகனம் ஓட்ட ஆரம்பிக்கக்கூடாது?	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	என்னிடம் உள்ளது ~	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	காரை ஓட்டுவார்	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	ஆனால் எனக்கு தெரியாது ~	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	நான் அதை ஒருபோதும் கற்றுக்கொண்டதில்லை	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	நான் நம்புவேன் ~	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	நான் ஆரோக்கியமாக இருந்தால்	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	நான் மிகவும் மகிழ்ச்சியாக இருப்பேன்	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	நீங்கள் பணக்காரர் போல	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	நீங்கள் ஒரு பணக்காரர் போல் அமர்ந்திருக்கிறீர்கள்	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	குற்றம் சாட்டப்பட்ட பள்ளி	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	ஒரு பணக்காரனைப் போல	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	நீங்கள் ஒரு பணக்காரர் போல் அமர்ந்திருக்கிறீர்கள்	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	இவ்வளவு பணம்	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	யோசனைகள் போன்ற பணம்	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	என்னிடம் இவ்வளவு பணம் இருந்தால்	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	நான் பயணம் செய்வேன்	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	உலகம் முழுவதும்	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	ஒவ்வொரு அகராதியிலும்	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	ஏதோ காணவில்லை	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	சில வார்த்தைகள் இல்லை	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	நீண்ட நேரம் பேசிய ஒரு மனிதர்	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	சாப்பாட்டு மேஜையில்	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	ஒரு நபர் பசியுடன் இருப்பார்	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	டைனிங் டேபிளில் சொல்லிக்கொண்டே இருக்கிறார்	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	அவர் கவனம் செலுத்த வேண்டியிருந்தது ~	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	அனுமதிக்கப்படவில்லை ~	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	தங்க அனுமதிக்கப்பட்டது	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	நீண்ட நேரம் இருக்க அனுமதிக்கப்படவில்லை	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	மழையில் வெளியே இருக்க	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	அதனால்தான் அவருக்கு சளி பிடித்தது	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	அவருக்கு தெளிவான யோசனை உள்ளது	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	ஆனால் அவர் எல்லாவற்றையும் நம்புவார்	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	நீங்கள் என்ன சொன்னாலும்	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	நீ அவனுடைய மனைவி போல	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	உங்கள் பெற்றோர்	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	உங்கள் பெற்றோரை மகிழ்விக்க	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	என்ன தயவு செய்து ~?	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	உங்கள் பெற்றோரை மிகவும் மகிழ்ச்சியடையச் செய்வது எது?	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	கற்ற பிறகு	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	குறைந்தபட்சம் கற்றலுக்குப் பிறகு	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	நகர மையத்திற்குள்	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	நீ என்னுடன் சென்றால்	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	நீங்கள் என்னுடன் நகரத்திற்கு சென்றால்	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	நீங்கள் எங்கு பயணிக்க விரும்புகிறீர்கள்?	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	உங்களிடம் இருந்தால் ~	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	போதுமான பணம்	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	உங்களிடம் போதுமான பணம் மற்றும் வெப்பநிலை இருந்தால்	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	நீங்கள் திட்டமிடுகிறீர்களா ~?	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	பாரிஸ் செல்ல திட்டமிட்டுள்ளது	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	axuto உடன் ஓட்ட வேண்டும்	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	மிகவும் சிறப்பாக	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	மிகவும் சிறப்பாக தெரிகிறது	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	தொடர்வண்டி மூலம்	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	அல்லது அது மிகவும் சிறப்பாக இருப்பதாகத் தெரியவில்லையா?	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	பல்வேறு மக்கள்	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	மக்கள் ஏன் வெவ்வேறு வழிகளில் விளக்குகிறார்கள்?	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	அதே யோசனைகள்	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	அதே கருத்துக்களை விளக்குகிறது	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	குடும்ப உறுப்பினர்கள் ஒன்று கூடுவார்கள்	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	எவ்வளவு விரைவாக	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	நாட்கள் கழிகின்றன	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	நாட்கள் எவ்வளவு விரைவாக கடந்து செல்கின்றன!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	நாளை இருக்கும் ~	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	உங்கள் தந்தையின் பிறந்த நாள்	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	பல குடும்ப உறுப்பினர்கள்	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	பல குடும்ப உறுப்பினர்கள் வருவார்கள்	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	மற்றும் நண்பர்கள்	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	தயவு செய்து ~	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	கொஞ்சம் உதவ முடியுமா?	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	சிறிது நேரம்	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	சிறிது நேரம் தேடுங்கள்	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	உங்கள் அறையை ஒழுங்கமைக்க	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	குறைந்தபட்சம் உங்கள் அறையை ஒழுங்கமைக்க	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	நான் விரும்புகிறேன் ~	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	நான் ஏதாவது சமைக்க விரும்புகிறேன்	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	ஏதாவது நல்லது	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	நல்லதை சமைக்க	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	பிறந்தநாள் கேக்கிற்கு	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	பால் பற்றாக்குறை உள்ளது	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	வீட்டில்	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	~ வாங்குவது அவசியம்	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	சில உணவு	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	ஒரு கடையில் இருந்து	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	ஒரு மறைவிடத்திலிருந்து சிறிது உணவைப் பெற	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	நான் ஷாப்பிங் செய்வேன்	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	பிறந்தநாளுக்கு	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	உட்கார்ந்து சாப்பிடுவதற்கு பதிலாக	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	சுவாரஸ்யமான மக்கள்	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	ஆர்வமற்ற குடும்ப உறுப்பினர்களுடன்	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	நான் சுற்றுலா செல்ல விரும்புகிறேன்	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	கிளப் உறுப்பினர்களுடன்	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	எந்த கிளப் உறுப்பினர்களுடன்?	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	என்றார் தந்தை	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	சில வகையான காகிதங்கள், சில வகையான காகிதங்கள்	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	ஒரு பெட்டியில்	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	ஒரு காகிதத் தொட்டியில்	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	காகிதத் தொட்டியில் காகிதங்களை வீசினார்	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	காகிதத் தொட்டியில் சில காகிதங்களை எறிந்தார்	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	நாளை அதிகாலை	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	எனது விளையாட்டுக் கழக உறுப்பினர்கள்	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	என் அன்பே	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	அது சரியா?	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	நீங்கள் இல்லாமல் இருக்க வேண்டும்	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	இல்லையா ~ ?	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	உங்கள் சக கிளப் உறுப்பினர்கள்	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	உங்கள் சக கிளப் உறுப்பினர்களுடன் ஒருவரை ஒருவர் பார்க்கிறார்	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	வாரத்துக்கு மூன்று முறை	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	நான் ~?	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	எதையாவது முன்மொழிய உரிமை உண்டு	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	குடும்ப உறுப்பினர்களுடன் சாப்பிடுவேன்	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	ஆனால் இரண்டாம் பாகத்தில்	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	நான் என் நண்பர்களுடன் செல்வேன்	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	~ பற்றி பேசுவார்கள்	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	ஒரு தோல்வியுற்ற இயக்கி	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	தோல்வியுற்ற இயக்கத்தைப் பற்றி நிச்சயமாக பேசுவார்	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	கேக் பிறகு	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	எனக்கு அது இனி வேண்டாம்	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	என்று கேட்க விரும்புகிறார்	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	ஏன் நம்மிடம் இல்லை ~ ?	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	ஒரு யோசனை நிறைந்த மாமா	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	பணக்கார மாமாவுக்கு ஏதோ யோசனை இருக்கிறது	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	என் குடும்பத்தில்	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	அம்மா சிரித்தாள்	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	அவரது வார்த்தைகளில்	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	அது அவளுக்குத் தெரியும் ~	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	கொஞ்சம் அதிகமாக பேசுகிறார்	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	அது மட்டும் போதாது ~	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	யோசனைகளின் செல்வம்	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~ என்பதும் தேவை	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	அதைச் செய்ய ஒரு முழு பணப்பை	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	அம்மா தொடர்ந்தாள் ~	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	சிறிது மௌனத்திற்கு பிறகு	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	சில நிமிடங்களுக்கு முன்பு	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	ஆனா அவள் என்று அழைத்தாள்	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	அவளும் எங்களை சந்திப்பாள்	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	ஒரு இனிப்பு கேக்	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	அவளுக்கு இனிப்பு கேக் மிகவும் பிடிக்கும்	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	கொழுப்பு வராமல் கவனமாக இருக்கிறது	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	அவள் கவனம் செலுத்தினாலும்	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	உடனே மனம் மாறியது	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	உல்லாசப் பயணத்தின் போது	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	அவள் இல்லாமல்	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	அவர் மிகவும் தனிமையாக இருப்பார்	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	இருந்தாலும் தேர்ச்சி பெறுவேன்	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	இருந்தாலும் நாளை வீட்டில் கழிப்பேன்	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	இளமையில்	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	ஒன்று உள்ளது	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	அழகும் உண்டு	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	சிக்கலான வேலைகள்	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	சிக்கலான வேலைகள் (நோக்கம்)	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	எளிமைப்படுத்த வேண்டும்	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	அந்த வயதில்	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	அவர் ஏற்கனவே ~ ஆகிவிட்டார்	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	விளையாட்டுக் கழகத்தின் தலைவர்	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	ஒருவர் பணம் போடுகிறார்	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	ஒரு பணப்பையில்	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	ஒரு பணப்பையில் வைக்கிறது	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	உதாரணங்களைப் பின்பற்றவும்	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	நல்ல குடும்ப உறுப்பினர்களிடமிருந்து	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	நட்பு உங்களுக்கு மகிழ்ச்சியைத் தருகிறதா?	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	உங்களை மகிழ்ச்சியடையச் செய்கிறது	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	அன்பை விட	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	நீங்கள் எவ்வளவு அடிக்கடி ~?	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	நீங்கள் ~ க்கு கடிதங்கள் எழுதுகிறீர்கள்	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	உங்கள் பெண் நண்பர்களுக்கு கடிதம் எழுதுகிறார்	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	இத்தாலியில் உங்கள் பெண் நண்பர்கள்	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	உங்களுக்கும் உங்கள் ஆசிரியருக்கும் உள்ள உறவு	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	உறவு மாறிவிட்டதா?	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	உங்களுக்கு ஏற்கனவே தெரியுமா ~?	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	நன்றாக	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	அன்று மாலை இருந்தது ~	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	நூற்றுக்கணக்கான மக்கள்	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	சதுரத்தை நிரப்புகிறது	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	இளைஞர்கள் மற்றும் வீரர்கள்	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	கப்பல்களில் இருந்து மாலுமிகள்	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	சிறந்த பெண்மணி	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	சிறந்த பெண்கள்	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	வெளிநாட்டு பயணிகள்	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	அனைவரும் நகர மையத்திற்கு நகர்கின்றனர்	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	இன்னும் சிறிது தூரம்	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	கடலில் இருந்து வெகு தொலைவில் இல்லை	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	ஒரு சிறிய சதுரம் இருந்தது	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	இன்னும் சிறிது தூரம் ஆனால் வெகு தொலைவில் இல்லை	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	அதன் முடிவில்	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	கடல் அருகில்	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	அருகில் ஒரு மனிதன் நின்றான்	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	ஆடை படி	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	ஒருவருக்கு எளிதில் தெரியும் ~	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	~ என்பதை அறிய முடிந்தது	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	ஒரு பணக்காரனின் கோண்டோலியர்	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	அவர் ஒரு கோண்டோலியர் என்பதை கண்டுபிடிக்க முடிந்தது	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	அவர் பார்த்தார் ~	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	மகிழ்ச்சி நிறைந்த கூட்டத்தைப் பார்த்தார்	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	ஒரு புன்னகை அவன் முகத்தில் ஒளிர்ந்தது	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	அவர் ஒரு மாலுமியைப் பார்த்தபோது	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	வந்த மாலுமி	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	கடலின் பக்கம்	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	கடலின் பக்கத்திலிருந்து வந்தது	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	அது நீங்களா, ஸ்டீபன்?	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	கோண்டோலியர் கூச்சலிட்டார்	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	~ என்று எல்லோரும் சொல்கிறார்கள்	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	துருக்கியர்களின் கைகளில்	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	நீங்கள் துருக்கியர்களின் கைகளில் விழுந்தீர்கள் என்று	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	ஒருவரை சந்தித்தோம்	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	எங்கள் கப்பல்களில் இருந்து	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	அது எங்களைப் பின்தொடர்ந்தது	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	ஒரு மணி நேரத்திற்கும் மேலாக	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	ஆனால் செல்வது எளிதல்ல ~	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	எங்கள் கப்பலை விட வேகமாக செல்ல வேண்டும்	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	என்ன செய்தி இங்கே?	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	இங்கே வெனிஸில்	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	சுவாரசியமாக இல்லை	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	ஒரு பெரிய துரதிர்ஷ்டம்	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	உனக்கு பியட்ரோ தெரியுமா?	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	எனக்கு அவரை தெரியும்	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	ஒரு பெரிய கப்பல் அவரது கோண்டோலாவை மூழ்கடித்தது	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	மற்றும் அவரைப் பற்றி என்ன?	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	கோண்டோலா மூழ்கியது	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	அது நடந்தது ~	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	நாங்கள் நெருக்கமாக இருந்தோம்	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	நாங்கள் அவரை எங்கள் கோண்டோலாவில் அழைத்துச் சென்றோம்	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	அதே நேரத்தில்	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	என் முதலாளி மூழ்கிவிட்டார்	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	ஒரு இளம் பெண்ணுக்கு உதவ	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	கிட்டத்தட்ட இறந்துவிட்ட ஒரு இளம் பெண்	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	அவரது மாமாவுடன்	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	கிட்டத்தட்ட அவரது மாமாவுடன் இறந்தார்	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	ஒரு இளம் பெண் இருந்தாள்	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	எங்களால் அவருக்கு உதவ முடியவில்லை	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	ஒரு முக்கியமான நபராக இருந்தார்	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	உன்னை வெனிஸுக்கு அழைத்து வந்தது எது?	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	என் நண்பன்	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	மாலுமி நிமிர்ந்து பார்த்தார்	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	வேகமாக தன் நண்பனைப் பார்த்தான்	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	என்று சொல்ல ஆரம்பித்தான்	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	அதனால் உங்களுக்கு தெரியும் ~	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	நான் கொண்டு வந்தேன் ~	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	கோண்டோலியர் திடீரென்று அவரைத் தடுத்தார்	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	அவன் சொன்னான்	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	அப்போது ஒரு மனிதன் கடந்து சென்றான்	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	ஒரு மனிதர் அவரைக் கடந்து சென்றார்	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	அவருக்கு இன்னும் முப்பது வயது ஆகவில்லை	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	மற்றும் அவரது முகம் நிறமற்றது	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	அவரது பயணம் உறுதியாகவும் எளிதாகவும் இருந்தது	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	அவரது முகம் சோகமாக இருந்தது	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	அவர் மனிதனைப் பார்த்தபோது, ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	~ என்று கூறப்படுகிறது	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	பல முக்கியமானவர்கள் கொடுக்கிறார்கள்	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	இரகசிய வேலை	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	இரகசிய வேலைகள்	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	அவருக்கு ரகசிய வேலை கொடுக்கிறது	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	பல ரகசியங்கள்	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	அவருக்கு பல ரகசியங்கள் தெரியும்	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	அதனால் அவர்கள் பயப்படுகிறார்கள்	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	அவரை சிறைக்கு அனுப்ப வேண்டும்	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	என்றார் மாலுமி	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	மேலும் அவர் பேசினார்	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	அவர் மாளிகையைச் சுட்டிக் காட்டினார்	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	நாய்களின் மாளிகை	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	பல முக்கிய நபர்களுக்கு அவரது உதவி தேவை	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	அவர்கள் எவ்வளவு கொடுக்கிறார்கள்?	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	அவருக்கு பணம் கொடுக்கிறது	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	ஒரு கொலைக்கு பணம் கொடுக்கிறது	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	நிச்சயமாக ~ விட குறைவாக இல்லை	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	நூறு நாணயங்களை விட	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	என்பதை மறந்துவிடாதே ~	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	அவர் அவர்களுக்காக வேலை செய்கிறார் என்று	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	போதுமான பணம் உள்ளவர்களுக்கு	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	அவருக்கு பணம் கொடுக்க	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	வெனிஸில் உள்ளது ~	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	அந்த விஷயங்கள்	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	அந்த விஷயங்களை மறக்க	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	நன்றாக மறக்கப்பட்ட விஷயங்கள்	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	நீங்கள் நிம்மதியாக சாப்பிட விரும்பினால்	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	உங்கள் ரொட்டியை நிம்மதியாக சாப்பிடுங்கள்	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	சிறிது அமைதி நிலவியது	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	மற்றும் பின்னால்	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	கோண்டோலியர் மீண்டும் பேசினார்	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	நீங்கள் சரியான நேரத்தில் வந்தீர்கள்	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	படகுப் போட்டி பார்க்க	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	யாரோ பலவீனமாக சொன்னார்கள்	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	கோண்டோலியர் அருகில்	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	நகரத்தின் மேயர்	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	வார்த்தையின்றி கோண்டோலாவைச் சுட்டிக்காட்டினார்	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	கோண்டோலியர் கூறினார்	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	என்று தன் நண்பனின் கையைப் பிடித்தான்	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	காகிதத்தை வீசுகிறார்	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	காகிதத் தொட்டிக்குள்	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	பெண்கள் காகிதங்களை வீசினர்	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	என் பேனா எங்கே	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	நான் அவருக்கு பதில் சொல்ல விரும்புகிறேன்	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	சூரியன் மறைந்தது	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	இப்போது கிட்டத்தட்ட இருட்டாகிவிட்டது	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	தயவுசெய்து சாப்பிடுங்கள்	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	தயவுசெய்து ரொட்டியை சாப்பிடுங்கள்	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	கருவிகளுடன்	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	என்னை மன்னியுங்கள்	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	தங்க அனுமதிக்கப்படுகிறது	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	தங்குவதற்கு எனக்கு உரிமை இல்லை	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	கொண்டு வர முடியுமா ~?	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	என் சகோதரியிடமிருந்து	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	நீங்கள் எப்போது வாங்கினீர்கள் ~?	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	அந்த இசைக்கருவியை வாங்கினார்	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	கடைசியாக யார் பயன்படுத்தினார்கள்?	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	என் சாவியைப் பயன்படுத்தினேன்	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	நீங்கள் ஓட்டினீர்களா?	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	வெனிஸில்	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	கோண்டோலா மூலமாகவும்	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	நீங்கள் தூங்க முடியுமா?	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	பிறகு, அமைதி நிலவியது	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	அந்த மனிதர் உயரமாக இருந்தார்	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	உயரமான, கொழுப்பு	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	தடித்த, கனமான	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	கனமான மற்றும் பெரிய	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	உயரமாகவும், தடிமனாகவும், கனமாகவும், பெரியதாகவும் இருந்தது	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	பலம் கொடுத்தது	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	மதிப்புள்ள ஒரு சக்தி	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	மதிப்புள்ள உடல் வலிமை	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	என்று கொடுத்தார்	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	அவனுக்கு கொடுத்துவிட்டேன்	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	என்று பலம் கொடுத்தது	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	மதிப்புள்ள உடல் வலிமையைக் கொடுத்தது	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	அவரது தோற்றம்	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	ஒரு உயரமான நபரின் தோற்றம்	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	ஒரு சிறிய பாத்திரம்	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	பங்கு வகித்தது	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	சிறிய பாத்திரம் அல்ல	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	ஒரு சிறிய பாத்திரத்தில் நடித்தார்	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	சிறிய பாத்திரம் இல்லை	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	உண்மையில் ~	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	பெரும்பான்மையான மக்கள்	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	பயப்படாவிட்டால்	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	அவருக்கு பயமாக இருந்தது	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	அவர் பயந்திருந்தால்	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	அவருக்கு பயப்படாவிட்டால்	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	நிச்சயமாக மதிக்கப்படும்	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	குறைந்தபட்சம் ~ பற்றி நினைத்தேன்	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	முன் ~	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	அவரை திருப்திப்படுத்த	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	அவரை அதிருப்தி செய்ய	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	அதிருப்தி அடையும் முன் ~	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	முடிவெடுப்பதற்கு முன் ~	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	அதிருப்தி கொள்ள முடிவு செய்ய ~	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	அவரை திருப்திப்படுத்த முடிவு செய்ய வேண்டும்	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	அவரை அதிருப்தி செய்ய முடிவு செய்வதற்கு முன்	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	அது, பயனுள்ளது	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	பகலில் அடிக்கடி பயனுள்ளதாக இருக்கும்	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	ஒரு விரும்பத்தகாத தொல்லை	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	தன்னால்	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	விரும்பத்தகாத தொல்லை அளிக்கிறது	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	தன்னை ஒரு விரும்பத்தகாத தொல்லையாகக் காட்டுகிறது	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	மரங்கள் நிறைந்த இடத்தில்	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	பின்னர், ஒருவர் வழிதவறியபோது	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	ஒரு மனிதாபிமானமற்ற வனாந்தரத்தில்	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	மற்றும் குழப்பத்தில் சாலையில் செல்கிறது	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	ஒரு உயரமான பெரிய உடல்	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	தேர்ச்சி பெற முடியவில்லை ~	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	புதர்களுக்கு மத்தியில்	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	இயற்கையான விஷயங்களைத் தொடுவதைத் தவிர	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	பொதுவாக ஈரமானது	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	ஈரமான இயற்கையின் நடுவில்	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	ஈரமான இயற்கை விஷயங்கள், அதன் நடுவில் ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	அவர் சிரமத்துடன் நடந்தார்	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	அது ஒரு அனுபவம்	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	அசாதாரணமானது அல்ல	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	வலி மற்றும் எப்போதும் விரும்பத்தகாதது	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	மேலும் ~	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	வாழ்க்கையில் முன்னேறியது	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	கோட்டை காட்டில்	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	மேலும் மேலும் பிடிக்கவில்லை ~	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	இரவு இயல்பை விரும்பவில்லை	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	தெளிவாகக் காணக்கூடிய கண்களைக் கொண்ட ஒரு மனிதன்	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	நன்றாக பார்க்கக்கூடிய கண்கள்	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	இருட்டில் நன்றாக பார்க்க வேண்டும்	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	சிரமப்படுவதைப் பார்த்தார்	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	எங்கள் தொழிலதிபரிடம் இருந்து	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	அவன் சிரித்தான்	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	அந்த மனிதனுக்கு அடுத்து	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	போலீஸ்காரர் உடையில்	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	மற்றொரு நபர் நின்று கொண்டிருந்தார்	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	ஒத்த ஆடைகளில்	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	பிந்தையவர் ஒரு பெண்	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	போகலாம்	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	மனிதன் மெதுவாக சொன்னான்	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	அவரது தோழரின் காதுக்குள்	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	இப்போது சரியான தருணம்	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	இருவரும் அந்த நபரை நோக்கி சென்றனர்	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	செய்வதில் கவனமாக இருந்தார்கள் ~	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	முடிந்தவரை ~	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	முடிந்தவரை சிறிய சத்தம் (கீல் ஈபிள்)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	முடிந்தவரை சிறிய சத்தம் (laŭeble)	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	அவர்கள் கிட்டத்தட்ட முழுமையாக வெற்றி பெற்றனர்	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	இந்த மோசமான சூழ்நிலையில்	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	மரங்கள் கிளைகளை வீசி எறிந்த மோசமான சூழ்நிலை	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	தங்கள் சொந்த ஈரமான கிளைகளை எறிந்தனர்	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	நேராக முகங்களுக்குள்	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	தொழிலதிபரின்	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	பல கால்கள் கொண்ட சிறிய உயிரினங்கள்	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	அவரது கால்களை எடுத்தார்	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	ஒரு நடை பாதைக்கு	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	இயற்கை அவன் பாதத்தை விழச் செய்தது	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	மிகவும் வேதனையுடன்	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	ஒரு குழிக்குள் கால் போட்டான்	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	தண்ணீர் நிறைந்த ஒரு குழி	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	துர்நாற்றம் வீசும் நீர்	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	விரைவில் சிந்தனை வந்தது	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	ஒருவர் தயாராக இருக்க வேண்டும்	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	இங்கே	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	யாராவது ~	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	எந்த விரும்பத்தகாத சந்திப்பிற்கும் தயார்	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	எதையும் (எதுவாக இருந்தாலும்)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	அவர் எதற்கும் காத்திருந்தார்	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	ஒருபுறம் மனித குரல்	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	ஒரு குரல் கேட்டதும், ~	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	உடனடியாக அருகில் கேட்டது	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	அவர் ஒரு நல்ல தளத்தில் குதித்தார்	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	அவரது இதயத்தை நகர்த்தியவர்	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	வாய்க்கு மேல் வார்த்தை	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	அமைதியை மீட்டெடுக்கும் முயற்சியுடன்	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	கொஞ்சம் அமைதி	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	ஒரு விளக்கின் ஒளி	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	யாரோ அவரது கண்களை நேரடியாக இயக்கினர்	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	யாரோ ஒருவர் கண்களுக்கு அனுப்பிய விளக்கு	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	நல்லிணக்கத்தை தடுத்தது	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	~ என்று அவருக்குத் தோன்றியது	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	விளக்கு வைத்திருந்த மனித வடிவம்	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	ஆடை போலீஸ் அணிய	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	நீங்கள் இங்கே என்ன செய்கிறீர்கள்?	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	அதிகாரபூர்வமான குரல் ஒலிக்கிறது	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	தயவுசெய்து பேசுங்கள் ~	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	கொஞ்சம் தெளிவாக	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	மற்றவர் கூறினார்	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	இன்னும் முக்கியமான தொனியில்	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	நான் நடந்து வருகிறேன்	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	நீங்கள் பண்ணையில் நடக்கிறீர்கள்	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	கவுண்டமணியின்	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	கவுண்டஸ் பண்ணை	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	நள்ளிரவில்	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	கவுண்டஸ் உங்களை அழைத்தாரா?	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	~ பற்றி அவளுக்கு தெரியுமா?	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	உங்கள் இருப்பு பற்றி	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	உங்கள் இருப்பு இங்கே	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	நான் உங்களிடம் கேட்க வேண்டும் ~	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	என்னைப் பின்தொடரும்படி கேட்கிறார்	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	மற்றும் அவர் விளக்கினார் ~	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	~ என்று விளக்கினார்	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	தவறான முயற்சியில் இருந்து	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	கவுண்டஸைப் பிடிக்க தவறான முயற்சி	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	காரணமாக ~	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	பயங்கரவாதிகள் காரணமாக	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	போலீசார் கவனமாக சோதனை செய்கிறார்கள்	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	என்ன நடக்கிறது என்பதை சரிபார்க்கிறது	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	சுற்றுப்புறத்தில் ஏற்படுகிறது	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	கோட்டையின்	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	கோட்டையின் சுற்றுப்புறம்	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	தொழிலதிபருக்கு	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	~ என்று தோன்றியது	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	இந்த நேரத்தில் அவரது இதயம் விழுந்தது	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	காலில் விழுந்தான்	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	அது அவருக்குத் தெரியும் ~	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	அவர் கண்டுபிடிக்க முயற்சி செய்வார்	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	ஏற்றுக்கொள்ளக்கூடிய விளக்கத்தைக் கண்டறிய	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	ஒருவரின் சொந்த இருப்பு பற்றி	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	கவுண்டஸ்ஸுக்கு எல்லாம் தெரியும் என்ற எண்ணம்	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	இந்த யோசனை அவருக்கு கொஞ்சம் நம்பிக்கையை இழந்தது	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	சிறிய நம்பிக்கை	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	சிறிய நம்பிக்கை இருந்தது	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	காவல்துறையின் முதல் வார்த்தைகளுக்குப் பிறகு	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	மேலும் ~ மேலும் ~	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	நீண்டது சிறந்தது	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	எவ்வளவாக இருந்தாலும் பரவாயில்லை	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	கால் மணி நேரத்திற்கு முன்பு	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	அவர்கள் திரும்பி வந்தனர்	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	பயங்கரமான துரதிர்ஷ்டத்திற்குப் பிறகு	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	மக்கள் வெளியேறினர்	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	மற்றும் பழைய நகரங்கள் உடைந்தன	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	நாங்கள் உங்களை மீண்டும் பார்க்க வேண்டும்	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	அடிக்கடி	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	நான் யோசிக்கிறேன்	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	நான் எவ்வளவு கோபமாக இருக்கிறேன்	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	அவள் வசிக்கிறாள் ~	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	எந்த வீட்டிலும்	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	மீண்டும் ஒருவரையொருவர் பார்ப்போமா?	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	எங்கு எப்பொழுதும்	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	நான் எப்போது திரும்புவேன் ~	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	மற்ற பாதி புத்தகங்கள்	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	உங்களுக்கு தேவையா ~?	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	ஒரு வருடத்திற்கு கால் பகுதிக்கு மேல் தேவை	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	அந்த வேலைகளுக்கு	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	ஏன் ~?	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	குளிர்ச்சியானது	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	நீண்டது	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	நாங்கள் காத்திருக்கிறோம் ~	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	நீங்கள் திருப்தியடைகிறீர்களா ~?	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	எந்த மனிதனுடனும்	with any man	grupo	0    	0000-00-00 00:00:00

@@ -65,7 +65,7 @@ level	jes, mi fartas bone	예, 나는 잘 지냅니다	yes, I'm fine	grupo	alter
 level	ne, tute ne	아뇨, 전혀 아닙니다	no, not at all	grupo	alternativoj	prononco
 level	tre, tro	매우, 너무	very, too much	grupo	alternativoj	prononco
 level	granda, grande	커다란, 커다랗게	big, largely	grupo	alternativoj	prononco
-level	tre bona, tro granda	매우 좋은, 너무 큰	very big, too big	grupo	alternativoj	prononco
+level	tre bona, tro granda	매우 좋은, 너무 큰	very good, too big	grupo	alternativoj	prononco
 level	vi tre bone fartas	당신은 매우 잘 지냅니다	you are doing very well	grupo	alternativoj	prononco
 level	ne tre bone	썩 좋지는 않게	not very well	grupo	alternativoj	prononco
 level	lerni ~, lerno	~를 배우다, 배우기	to learn, a learning	grupo	alternativoj	prononco
@@ -741,7 +741,7 @@ level	vi ne estas malsaĝa	너는 멍청하지 않아	you are not stupid	grupo	a
 level	la problemo estas, ke ~	문제라면, ~ 한 거야	the problem is that ~	grupo	alternativoj	prononco
 level	ke vi devas lerni	너가 공부해야하는 것	that you must learn	grupo	alternativoj	prononco
 level	devas lerni multe pli	훨씬 많이 공부해야 한다	must learn much more	grupo	alternativoj	prononco
-level	tiam vi ne havos	그 때 너는 가질 것이다	then you will not have	grupo	alternativoj	prononco
+level	tiam vi ne havos	그 때 너는 가지지 못할 것이다	then you will not have	grupo	alternativoj	prononco
 level	malbonaj notoj	나쁜 점수들	bad grades	grupo	alternativoj	prononco
 level	havos nur malbonajn notojn	나쁜 점수들만 받게 될 것이다	will have only bad grades	grupo	alternativoj	prononco
 level	ankaŭ nun	지금도	also now	grupo	alternativoj	prononco

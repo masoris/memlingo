@@ -1,0 +1,1356 @@
+A.sv content.tsv
+Level	Esperanto	sv	en-us	Grupo	Alternativoj	Pronoco
+level	mi, vi	Jag du	I, you	grupo	alternativoj	prononco
+level	estas, estis	(nuvarande) är, är, är (förflutna) var, var	(present) is, am, are (past) was, were	grupo	alternativoj	prononco
+level	mi estas ~	jag är ~	I am ~	grupo	alternativoj	prononco
+level	vi estas ~	du är ~	you are ~	grupo	alternativoj	prononco
+level	saluton	Hallå	hello	grupo	alternativoj	prononco
+level	saluton, mi estas ~	hej, jag är ~	hello, I am ~	grupo	alternativoj	prononco
+level	mia, via	min din	my, your	grupo	alternativoj	prononco
+level	nomo	ett namn	a name	grupo	alternativoj	prononco
+level	mia nomo, via nomo	mitt namn, ditt namn	my name, your name	grupo	alternativoj	prononco
+level	mia nomo estas ~	mitt namn är ~	my name is ~	grupo	alternativoj	prononco
+level	via nomo estas ~	ditt namn är ~	your name is ~	grupo	alternativoj	prononco
+level	fartas, fartis	(nuvarande) gör, (förflutna) gjorde	(present) does, (past) did	grupo	alternativoj	prononco
+level	estis, estos	(nuvarande) var, var (framtid) kommer att vara	(present) was, were (future) will be	grupo	alternativoj	prononco
+level	nomo, nomon	ett namn, ett (objektivt) namn	a name, an (objective) name	grupo	alternativoj	prononco
+level	mia amo	min kärlek	my love	grupo	alternativoj	prononco
+level	vi fartas	du gör ~	you are doing ~	grupo	alternativoj	prononco
+level	kiel	hur	how	grupo	alternativoj	prononco
+level	kiel vi fartas?	hur mår du?	how are you doing?	grupo	alternativoj	prononco
+level	kio	Vad	what	grupo	alternativoj	prononco
+level	kio estas via nomo?	vad heter du?	what is your name?	grupo	alternativoj	prononco
+level	bona, bone	bra, väl	good, well	grupo	alternativoj	prononco
+level	fartas bone	mår bra	is doing well	grupo	alternativoj	prononco
+level	mi fartas bone	jag mår bra	I am doing well	grupo	alternativoj	prononco
+level	kaj	och	and	grupo	alternativoj	prononco
+level	bone, kaj vi?	bra och du?	fine, and you?	grupo	alternativoj	prononco
+level	ĝis ~	tills ~	until ~	grupo	alternativoj	prononco
+level	vidas, vidis	(nuvarande) ser, (förr) såg	(present) sees, (past) saw	grupo	alternativoj	prononco
+level	vidis, revidis	(förbi) såg, (förbi) såg igen	(past) saw, (past) saw again	grupo	alternativoj	prononco
+level	revidis, revidos	såg igen, kommer att se igen	saw again, will see again	grupo	alternativoj	prononco
+level	revido, revidon	se-igen, se-igen (objektiv)	seeing-again, seeing-again (objective)	grupo	alternativoj	prononco
+level	ĝis revido!	vi ses!	see you again!	grupo	alternativoj	prononco
+level	dankon	tack	thank you	grupo	alternativoj	prononco
+level	dankon kaj ĝis revido!	tack och vi ses igen!	thank you and see you again!	grupo	alternativoj	prononco
+level	al ~	till ~	to ~	grupo	alternativoj	prononco
+level	al vi, al mi	till dig, till mig	to you, to me	grupo	alternativoj	prononco
+level	dankas, dankis	(nuvarande) tack, (förflutna) tackade	(present) thanks, (past) thanked	grupo	alternativoj	prononco
+level	mi dankas al vi	Jag uppskattar till dig	I appreciate to you	grupo	alternativoj	prononco
+level	jes, ne	Ja Nej	yes, no	grupo	alternativoj	prononco
+level	jes, dankon	ja, tänk dig	yes, thaink you	grupo	alternativoj	prononco
+level	manĝas, manĝos	äter, kommer att äta	eats, will eat	grupo	alternativoj	prononco
+level	mi ne manĝas	Jag äter inte	I don't eat	grupo	alternativoj	prononco
+level	ne, mi ne manĝas	nej, jag äter inte	no, I don't eat	grupo	alternativoj	prononco
+level	bela, bele	vackert, vackert	beautiful, beautifully	grupo	alternativoj	prononco
+level	-inda	värt (slut)	worthwhile (ending)	grupo	alternativoj	prononco
+level	dankinda, dankinde	uppskattande, värt att tacka	appreciatable, worthwhile to thank	grupo	alternativoj	prononco
+level	tuta, tute	helhet, som helhet	whole, as a whole	grupo	alternativoj	prononco
+level	tuto, tuton	alla, (objektiva) alla	all, (objective) all	grupo	alternativoj	prononco
+level	nedankinde	inte alls, du är välkommen	not at all, you're welcome	grupo	alternativoj	prononco
+level	tute ne	helt nej	totally no	grupo	alternativoj	prononco
+level	pardoni ~, pardono	att förlåta, en förlåtande	to forgive, a forgiving	grupo	alternativoj	prononco
+level	pardonon al mi	en förlåtelse för mig	a forgiving to me	grupo	alternativoj	prononco
+level	pardonon	Jag är ledsen! (Ursäkta mig)	I'm sorry! (pardon me)	grupo	alternativoj	prononco
+level	pardonon, mi petas	Jag är ledsen, snälla	I'm sorry, please	grupo	alternativoj	prononco
+level	bona mateno	en god morgon	a good morning	grupo	alternativoj	prononco
+level	bonan matenon	god morgon	good morning	grupo	alternativoj	prononco
+level	bonan nokton	godnatt	good night	grupo	alternativoj	prononco
+level	bonan sonĝon	söt dröm	sweet dream	grupo	alternativoj	prononco
+level	bonan vojaĝon, al vi	(ha) en bra resa till dig	(have) a good trip, to you	grupo	alternativoj	prononco
+level	bonan tagon	God dag!	good day!	grupo	alternativoj	prononco
+level	ĉu ~	är det ~?	is it ~ ?	grupo	alternativoj	prononco
+level	ĉu vi fartas bone?	mår du bra? (Hur mår du?)	are you doing well? (how are you?)	grupo	alternativoj	prononco
+level	jes, mi fartas bone	Ja jag mår bra	yes, I'm fine	grupo	alternativoj	prononco
+level	ne, tute ne	Nej inte alls	no, not at all	grupo	alternativoj	prononco
+level	tre, tro	väldigt, för mycket	very, too much	grupo	alternativoj	prononco
+level	granda, grande	stort, till stor del	big, largely	grupo	alternativoj	prononco
+level	tre bona, tro granda	Mycket bra, för stort	very good, too big	grupo	alternativoj	prononco
+level	vi tre bone fartas	det går bra för dig	you are doing very well	grupo	alternativoj	prononco
+level	ne tre bone	inte så bra	not very well	grupo	alternativoj	prononco
+level	lerni ~, lerno	att lära, ett lärande	to learn, a learning	grupo	alternativoj	prononco
+level	vidanta, vidanto	tittar, en åskådare	is looking, a spectator	grupo	alternativoj	prononco
+level	lernanta, lernanto	är lärande, en student (en lärande person)	is learning, a student (a learning person)	grupo	alternativoj	prononco
+level	-anta, -anto	är -ing, en person som gör	is -ing, a person who is doing	grupo	alternativoj	prononco
+level	lernanto, lerninto	en elev, en person som har lärt sig	a student, a person who has learned	grupo	alternativoj	prononco
+level	mi estas lernanto	Jag är student.	I am a student.	grupo	alternativoj	prononco
+level	~ estas mia amiko	~ är min vän	~ is my friend	grupo	alternativoj	prononco
+level	li, ŝi	han Hon	he, she	grupo	alternativoj	prononco
+level	sidi, sidas	att sitta, sitter	to sit, sits	grupo	alternativoj	prononco
+level	sidanta, sidinta, sidonta	sitter, satt, kommer att sitta	is sitting, was sitting, will be sitting	grupo	alternativoj	prononco
+level	li sidas kaj ŝi lernas	han sitter och hon lär sig	he is sitting and she is learning	grupo	alternativoj	prononco
+level	ĉambro	ett rum	a room	grupo	alternativoj	prononco
+level	lernas en ĉambro	lär sig i ett rum	learns in a room	grupo	alternativoj	prononco
+level	lernanto kaj sportisto	en student och en idrottsman	a student and a sportsman	grupo	alternativoj	prononco
+level	sporto kaj sportisto	sport och en idrottsman	sport and a sportsman	grupo	alternativoj	prononco
+level	sportisto nun sportas	en idrottsman idrottar	a sportsman is sporting	grupo	alternativoj	prononco
+level	li estas lernanto	Han är en student	he is a student	grupo	alternativoj	prononco
+level	estas lernanto kaj sportisto	han är student och sportman	he is a student and a sportman	grupo	alternativoj	prononco
+level	li nun sidas	han sitter nu	he is now sitting	grupo	alternativoj	prononco
+level	kaj nun lernas	och håller på att lära sig nu	and is now learning	grupo	alternativoj	prononco
+level	sidas kaj lernas	sitter och lär sig	is sitting and is learning	grupo	alternativoj	prononco
+level	nun en ĉambro	nu i ett rum	now in a room	grupo	alternativoj	prononco
+level	estas sur tablo	ligger på ett bord	is on a table	grupo	alternativoj	prononco
+level	papero kaj paperoj	ett papper och papper	a paper and papers	grupo	alternativoj	prononco
+level	tablo kaj tabloj	ett bord och bord	a table and tables	grupo	alternativoj	prononco
+level	libro kaj libroj	en bok och böcker	a book and books	grupo	alternativoj	prononco
+level	la paperoj kaj libroj	tidningarna och böckerna	the papers and books	grupo	alternativoj	prononco
+level	ĝi estas sur tablo	den ligger på ett bord.	it is on a table.	grupo	alternativoj	prononco
+level	skribas sur la skribotablo	skriver på ett skrivbord	is writing on a writing table	grupo	alternativoj	prononco
+level	la libroj estas ~	böckerna är ~	the books are ~	grupo	alternativoj	prononco
+level	sur la tablo	på bordet	on the table	grupo	alternativoj	prononco
+level	lernolibro kaj la lernolibroj	en lärobok och läroböckerna	a textbook and the textbooks	grupo	alternativoj	prononco
+level	sur la tablo estas ~	på bordet finns ~	on the table there is ~	grupo	alternativoj	prononco
+level	patro kaj patrino	en pappa och en mamma	a father and a mother	grupo	alternativoj	prononco
+level	la patro kaj la patrino	fadern och modern	the father and the mother	grupo	alternativoj	prononco
+level	la patrino de mia amiko	mamman till min vän	the mother of my friend	grupo	alternativoj	prononco
+level	en la ĉambro	i rummet	in the room	grupo	alternativoj	prononco
+level	ne estas en la ĉambro	är inte i rummet	is not in the room	grupo	alternativoj	prononco
+level	ili nun laboras	de arbetar nu	they are now working	grupo	alternativoj	prononco
+level	lia patro estas laboristo	hans far är arbetare	his father is a worker	grupo	alternativoj	prononco
+level	li laboras en hotelo	han arbetar på ett hotell	he works in a hotel	grupo	alternativoj	prononco
+level	la patrino instruas	mamman undervisar	the mother teaches	grupo	alternativoj	prononco
+level	ŝi estas instruistino	hon är lärare	she is a teacher	grupo	alternativoj	prononco
+level	ĉu ŝi estas patrino?	är hon en mamma?	is she a mother?	grupo	alternativoj	prononco
+level	ne, ŝi estas hotelisto	nej, hon är hotellägare	no, she is an hotelier	grupo	alternativoj	prononco
+level	ne, mi ne laboras	nej, jag jobbar inte	no, I don't work	grupo	alternativoj	prononco
+level	kio estas ŝia nomo?	vad heter hon?	what is her name?	grupo	alternativoj	prononco
+level	kiu nun respondas?	vem svarar nu?	who is now answering?	grupo	alternativoj	prononco
+level	la lingvo de ilia patrino	deras mammas språk	the language of their mother	grupo	alternativoj	prononco
+level	ĉu via nomo estas ~ ?	är ditt namn ~?	is your name ~ ?	grupo	alternativoj	prononco
+level	ni sidas kaj respondas	vi sitter och svarar	we are sitting and answering	grupo	alternativoj	prononco
+level	ŝia labora seĝo	hennes arbetsstol	her working chair	grupo	alternativoj	prononco
+level	ĝia nomo ne estas ~	dess namn är inte ~	its name is not ~	grupo	alternativoj	prononco
+level	ŝia lingvo estas ilia lingvo	hennes språk är deras språk	her language is their language	grupo	alternativoj	prononco
+level	nia patro kaj patrino	vår far och mor	our father and mother	grupo	alternativoj	prononco
+level	via lernanto, viaj lernantoj	din student, dina elever	your student, your students	grupo	alternativoj	prononco
+level	ĉu ili estas viaj lernantoj?	är de dina elever?	are they your students?	grupo	alternativoj	prononco
+level	ĉu vi estas lernanto?	är du en student?	are you a student?	grupo	alternativoj	prononco
+level	ĉu vi estas en la ĉambro?	är du i rummet?	are you in the room?	grupo	alternativoj	prononco
+level	mi ne estas ~	Jag är inte ~	I'm not ~	grupo	alternativoj	prononco
+level	esperantisto kaj esperantistino	en esperantist och en kvinnlig esperantist	an Esperantist and a female Esperantist	grupo	alternativoj	prononco
+level	enskribis por la hotelĉambro	checkade in på hotellrummet	checked in for the hotel room	grupo	alternativoj	prononco
+level	lingvisto kaj laboristino	en lingvist och en kvinnlig arbetare	a linguist and a female worker	grupo	alternativoj	prononco
+level	lia amikino estas ~	hans flickvän är ~	his girl friend is ~	grupo	alternativoj	prononco
+level	lernantoj kaj sportistoj	studenter och idrottare	students and sportsmen	grupo	alternativoj	prononco
+level	mia familia nomo estas ~	mitt familjenamn är ~	my familia name is ~	grupo	alternativoj	prononco
+level	kiu estas ŝi?	vem är hon? vilken är hon?	who is she? which is she?	grupo	alternativoj	prononco
+level	estas via amikino	Är din flickvän	is your girl friend	grupo	alternativoj	prononco
+level	ĉu via amiko estas ~ ?	är din vän ~ ?	is your friend ~ ?	grupo	alternativoj	prononco
+level	skribas nun en la ĉambro	skriver nu i rummet	is writing now in the room	grupo	alternativoj	prononco
+level	ĉu la amiko de via patro ~ ?	är din vän far ~ ?	is the friend of you father ~ ?	grupo	alternativoj	prononco
+level	laboras en hotelo	arbetar på ett hotell	works in a hotel	grupo	alternativoj	prononco
+level	kio estas sur la tablo?	vad finns på bordet?	what is on the table?	grupo	alternativoj	prononco
+level	sur la tablo en nia ĉambro	på bordet i vårt rum	on the table in our room	grupo	alternativoj	prononco
+level	ĉu la lernolibro de Esperanto ~ ?	är läroboken i esperanto ~ ?	is the Esperanto textbook ~ ?	grupo	alternativoj	prononco
+level	estas sur via tablo	ligger på ditt bord	is on your table	grupo	alternativoj	prononco
+level	havas amikinon	har en vän	has a friend	grupo	alternativoj	prononco
+level	ŝia nomo estas ~	hon heter ~	her name is ~	grupo	alternativoj	prononco
+level	juna kaj bela	ung och vacker	young and beautiful	grupo	alternativoj	prononco
+level	estas juna kaj bela	är ung och vacker	is young and beautiful	grupo	alternativoj	prononco
+level	junaj kaj belaj amikoj	unga och vackra vänner	young and beautiful friends	grupo	alternativoj	prononco
+level	estas geamikoj	är manliga och kvinnliga vänner	are male-and-female friends	grupo	alternativoj	prononco
+level	hejmo de ŝia instruisto	hennes lärares hem	a home of her teacher	grupo	alternativoj	prononco
+level	venis al la hejmo	kom till hemmet	came to the home	grupo	alternativoj	prononco
+level	la hejmo de ~	hemmet för ~	the home of ~	grupo	alternativoj	prononco
+level	bonvolu eniri	snälla kom in	please come in	grupo	alternativoj	prononco
+level	saluton! kion vi faras?	Hej vad gör du?	hello, what are you doing?	grupo	alternativoj	prononco
+level	kion vi faras?	vad gör du? vad gör du?	what do you do? what are you doing?	grupo	alternativoj	prononco
+level	sed nun mi volas ~	men nu vill jag ha ~	but now I want ~	grupo	alternativoj	prononco
+level	mi volas paroli	jag vill prata	I want to speak	grupo	alternativoj	prononco
+level	kun tri geamikoj	med tre manliga och kvinnliga vänner	with three male-and-female friends	grupo	alternativoj	prononco
+level	parolis kun vi	talade med dig	spoke with you	grupo	alternativoj	prononco
+level	volas paroli kun vi	vill prata med dig	wants to speak with you	grupo	alternativoj	prononco
+level	ĉu vi havas geamikojn?	har du manliga och kvinnliga vänner	do you have male-and-female friends	grupo	alternativoj	prononco
+level	li havas libron	han har en bok	he has a book	grupo	alternativoj	prononco
+level	havas bonan libron	har en bra bok	has a good book	grupo	alternativoj	prononco
+level	jes, mi havas	Ja det har jag	yes, I have	grupo	alternativoj	prononco
+level	ili ŝatas ĝin	de gillar det	they like it	grupo	alternativoj	prononco
+level	ŝi legis libron	hon läser en bok	she read a book	grupo	alternativoj	prononco
+level	ŝatas legi librojn	gillar att läsa böcker	likes to read books	grupo	alternativoj	prononco
+level	nur bona libro	bara en bra bok	only a good book	grupo	alternativoj	prononco
+level	multaj bonaj libroj	många bra böcker	many good books	grupo	alternativoj	prononco
+level	legis nur bonajn librojn	läs bara bra böcker	read only good books	grupo	alternativoj	prononco
+level	ŝatas legi bonajn librojn	gillar att läsa bra böcker	likes to read good books	grupo	alternativoj	prononco
+level	ĉu vi volas legi?	vill du läsa?	do you want to read?	grupo	alternativoj	prononco
+level	la junulo trinkis kafon	ynglingen drack kaffe	the youngster drank coffee	grupo	alternativoj	prononco
+level	volas trinki akvon	vill dricka vatten	wants to drink water	grupo	alternativoj	prononco
+level	patro kaj patrino, gepatroj	en far och en mor; föräldrar	a father and a mother; parents	grupo	alternativoj	prononco
+level	frato kaj fratino, gefratoj	en besvär och en syster, syskon	a bother and a sister, siblings	grupo	alternativoj	prononco
+level	viaj gepatroj kaj gefratoj	dina föräldrar och syskon	your parents and siblings	grupo	alternativoj	prononco
+level	estas en via hejmo	är i ditt hem	is in your home	grupo	alternativoj	prononco
+level	jen la kafo	här är kaffet	here is the coffee	grupo	alternativoj	prononco
+level	ankoraŭ ne trinkis	har inte druckit ännu	didn't drink yet	grupo	alternativoj	prononco
+level	estas ankoraŭ varma	är fortfarande varmt	is still warm	grupo	alternativoj	prononco
+level	hieraŭ kuiris ĝin	lagade den igår	cooked it yesterday	grupo	alternativoj	prononco
+level	mi nun kuiris	Nu har jag lagat mat	I now cooked	grupo	alternativoj	prononco
+level	dankon. tiel li diris	tack. så sa han.	thank you. so he said.	grupo	alternativoj	prononco
+level	povas trinki kaj manĝi	kan dricka och äta	can drink and eat	grupo	alternativoj	prononco
+level	trinkis malvarman kafon	drack kallt kaffe	drank cold coffee	grupo	alternativoj	prononco
+level	ankaŭ varma kafo	fortfarande varmt kaffe	still warm coffee	grupo	alternativoj	prononco
+level	trinkas ankaŭ malvarman kafon	dricker kallt kaffe också	drinks cold coffee too	grupo	alternativoj	prononco
+level	povas trinki ankaŭ malvarman kafon	kan även dricka kallt kaffe	can also drink cold coffee	grupo	alternativoj	prononco
+level	rigardas ŝian okulon	ser på hennes öga	looks at her eye	grupo	alternativoj	prononco
+level	la plej bela okulo	det vackraste ögat	the most beautiful eye	grupo	alternativoj	prononco
+level	la belaj okuloj	de vackra ögonen	the beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la belajn okulojn	såg de vackra ögonen	looked the beautiful eyes	grupo	alternativoj	prononco
+level	la belaj okuloj de ŝi	hennes vackra ögon	the beautiful eyes of her	grupo	alternativoj	prononco
+level	vidas kaj komprenas	ser och förstår	sees and understands	grupo	alternativoj	prononco
+level	mi vidas, ke ~	Jag ser att ~	I see that ~	grupo	alternativoj	prononco
+level	ke li amas ŝin	att han älskar henne	that he loves her	grupo	alternativoj	prononco
+level	ŝi sentis, ke li amas ŝin	hon känner att han älskar henne	she feels that he loves her	grupo	alternativoj	prononco
+level	demandas, ĉu tio estis granda	frågar om det var stort	asks whether that was big	grupo	alternativoj	prononco
+level	pri facila demando	om en lätt fråga	about an easy question	grupo	alternativoj	prononco
+level	diris pri nova mono	sa om nya pengar	said about a new money	grupo	alternativoj	prononco
+level	tre belaj okuloj	väldigt vackra ögon	very beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la grandan fraton	såg storebror ut	looked the big brother	grupo	alternativoj	prononco
+level	malgranda fratino forgesis ĝin	en lillasyster glömde det	a little sister forgot it	grupo	alternativoj	prononco
+level	akuzativo	en ackusativ (objektiv)	an accusative (objective)	grupo	alternativoj	prononco
+level	ne forgesu akuzativon	glöm inte ackusativ slutet	don't forget the accusative ending	grupo	alternativoj	prononco
+level	kiun vi vidas?	vem ser du? vilken ser du?	whom are you seeing? which one do you see?	grupo	alternativoj	prononco
+level	mi vidas amikon	Jag ser en vän	I see a friend	grupo	alternativoj	prononco
+level	havas bonajn geamikojn	har bra manliga och kvinnliga vänner	has good male-and-female friends	grupo	alternativoj	prononco
+level	ili laboras pri la malnova domo	de arbetar med det gamla huset	they are working about the old house	grupo	alternativoj	prononco
+level	laboras, laboris, laboros	fungerar, fungerade, kommer att fungera	works, worked, will work	grupo	alternativoj	prononco
+level	vidas, ke mi manĝas	ser, att jag äter	sees, that I eat	grupo	alternativoj	prononco
+level	diris, ke li iros	sade, att han kommer att gå	said, that he will go	grupo	alternativoj	prononco
+level	malbela kaj malbona	fult och dåligt	ugly and bad	grupo	alternativoj	prononco
+level	kion ŝi diris?	vad sa hon?	what did she say?	grupo	alternativoj	prononco
+level	kion vi atendas?	vad väntar du på?	what are you waiting for?	grupo	alternativoj	prononco
+level	eniris en la ĉambron	gick in i rummet	went into the room	grupo	alternativoj	prononco
+level	enhavo estis tre malfacila	ett innehåll är mycket svårt	a content is very difficult	grupo	alternativoj	prononco
+level	alvenis al la kunsido	anlände till mötet	arrived at the meeting	grupo	alternativoj	prononco
+level	bonvenon, al la kunveno	välkommen till mötet	welcome to the meeting	grupo	alternativoj	prononco
+level	maljuna viro donis trinkmonon	en gammal man gav ett tips	an old man gave a tip	grupo	alternativoj	prononco
+level	alvenis kaj estis bonvena	anlände och välkomnades	arrived and was welcomed	grupo	alternativoj	prononco
+level	ili malamas sed kunlaboras.	de hatar men samarbetar	they hate but cooperate	grupo	alternativoj	prononco
+level	iris al la hotelo	gick till hotellet	went to the hotel	grupo	alternativoj	prononco
+level	havas facilajn lernolibrojn	har lätta läroböcker	has easy textbooks	grupo	alternativoj	prononco
+level	kia estis via patrino?	hur var din mamma?	how was your mother?	grupo	alternativoj	prononco
+level	via malnova hejmo	ditt gamla hem	your old home	grupo	alternativoj	prononco
+level	kiujn librojn vi legis?	vilka böcker läste du?	which books did you read?	grupo	alternativoj	prononco
+level	ĉu ili estis bonaj?	var de bra?	were they good?	grupo	alternativoj	prononco
+level	kion faris hieraŭ?	gjorde vad igår?	did what yesterday?	grupo	alternativoj	prononco
+level	en la malgranda ĉambro	i det lilla rummet	in the small room	grupo	alternativoj	prononco
+level	tre longe parolis	talade väldigt länge	spoke very long while	grupo	alternativoj	prononco
+level	antaŭ la lernejo	framför skolan, innan skolan	in front of the school, before the school	grupo	alternativoj	prononco
+level	parolis antaŭ la lernejo	talade inför skolan	spoke before the school	grupo	alternativoj	prononco
+level	poste parolis pri la libro	talade senare om boken	later spoke about the book	grupo	alternativoj	prononco
+level	ĝoje iris al la lernejo	gick gärna till skolan	gladly went to the school	grupo	alternativoj	prononco
+level	tra la strato	genom gatan	through the street	grupo	alternativoj	prononco
+level	iris tra la strato	gick genom gatan	went through the street	grupo	alternativoj	prononco
+level	estis varma tago	var en varm dag	was a warm day	grupo	alternativoj	prononco
+level	ili vidis kafejon	de såg ett café&quot;	they saw a cafe'	grupo	alternativoj	prononco
+level	vidis ruĝajn kukojn	såg röda kakor	saw red cookies	grupo	alternativoj	prononco
+level	vidis kukojn en ĝi	såg kakor i den	saw cookies in it	grupo	alternativoj	prononco
+level	vidis kafejon kaj en ĝi kukojn	såg ett café' och i det kakor	saw a cafe' and in it  cookies	grupo	alternativoj	prononco
+level	eniru kaj manĝu!	gå in och ät!	go in and eat!	grupo	alternativoj	prononco
+level	ni eniru kaj manĝu	låt oss gå in och äta	let's come in and eat	grupo	alternativoj	prononco
+level	havas sufiĉan monon	har tillräckligt med pengar	has sufficient money	grupo	alternativoj	prononco
+level	ĉu vi havas sufiĉan monon?	har du tillräckligt med pengar?	do you have sufficient money?	grupo	alternativoj	prononco
+level	ĉu vi komprenas?	förstår du?	do you understand?	grupo	alternativoj	prononco
+level	kompreneble!	självklart!	of course!	grupo	alternativoj	prononco
+level	tio ne sufiĉas	det är inte tillräckligt	that is not enough	grupo	alternativoj	prononco
+level	cent dolaroj sufiĉas	hundra dollar räcker	a hundred dollars is enough	grupo	alternativoj	prononco
+level	dolaro, dolaroj, dolarojn	en dollar, dollar, dollar (plural objektiv)	a dollar, dollars, dollars (plural objective)	grupo	alternativoj	prononco
+level	havas cent dolarojn	har hundra dollar	has a hundred dollars	grupo	alternativoj	prononco
+level	kompreneble, mi havas	så klart jag har	of course, I have	grupo	alternativoj	prononco
+level	ho! vi estas riĉa!	åh! du är rik!	oh! you are rich!	grupo	alternativoj	prononco
+level	kelnero, kelnerino	ett vatten, en servitris	a water, an waitress	grupo	alternativoj	prononco
+level	kelnero portas menuon	en servitör kommer med en meny	a waiter brings a menu	grupo	alternativoj	prononco
+level	portis tion al ni, alportis tion	kom med det till oss, kom med det	brought that to us, brought that	grupo	alternativoj	prononco
+level	kelnero alportis multajn kukojn	en servitör tog med en massa kakor	a waiter brought a lot of cookies	grupo	alternativoj	prononco
+level	ili manĝis iom	de åt lite (lite)	they ate some (a little)	grupo	alternativoj	prononco
+level	post la manĝo	efter maten (måltiden)	after the eating (meal)	grupo	alternativoj	prononco
+level	nova, denove	nytt, igen	new, again	grupo	alternativoj	prononco
+level	la kelnero denove venis	servitören kom igen	the waiter came again	grupo	alternativoj	prononco
+level	en iu loko	på något ställe	in some place	grupo	alternativoj	prononco
+level	serĉis en iu loko	hade sökt på något ställe	had searched in some place	grupo	alternativoj	prononco
+level	serĉis en alia loko	sökte på annat ställe	searched in other place	grupo	alternativoj	prononco
+level	lia vizaĝo estis ĝoja	hans ansikte var glatt	his face was joyous	grupo	alternativoj	prononco
+level	ŝi estis malĝoja	hon var ledsen	she was sad	grupo	alternativoj	prononco
+level	fine kaj finfine	till slut och till sist	in the end and finally at last	grupo	alternativoj	prononco
+level	via forta voĉo	din starka röst	your strong voice	grupo	alternativoj	prononco
+level	en malforta voĉo	med svag röst	in weak voice	grupo	alternativoj	prononco
+level	ne havas monon	har inte pengar	doesn't have money	grupo	alternativoj	prononco
+level	kio okazis tie?	vad hände där?	what did happen there?	grupo	alternativoj	prononco
+level	akcidento okazis poste	en olycka inträffade senare	an accident happened later	grupo	alternativoj	prononco
+level	ĉu vi scias, kiam ĝi okazis?	vet du när det hände?	do you know when did it happen?	grupo	alternativoj	prononco
+level	scias pri la afero	känner till saken	knows about the matter	grupo	alternativoj	prononco
+level	ankoraŭ unu afero restas	fortfarande en sak återstår	still one thing remains	grupo	alternativoj	prononco
+level	vi aŭ ŝi, ajna homo	du eller hon, vilken person som helst	you or she, any person	grupo	alternativoj	prononco
+level	kiel kantisto	som en sångare, som en undertecknare	like a singer, as a signer	grupo	alternativoj	prononco
+level	kantis kiel profesia kantisto	sjöng som en professionell sångare	sang like a professional singer	grupo	alternativoj	prononco
+level	tie, kie ŝi loĝis	en plats där hon bodde	a the place, where she lived	grupo	alternativoj	prononco
+level	kiel vi scias pri la aŭto?	hur vet du om bilen?	how do you know about the car?	grupo	alternativoj	prononco
+level	nu, vidu la rapidan aŭton	ja, titta på den snabba bilen	well, look at the fast car	grupo	alternativoj	prononco
+level	suko sen sukero	en juice utan socker	a juice without sugar	grupo	alternativoj	prononco
+level	li havis rapidan veturilon	han har ett snabbt fordon	he has a fast vehicle	grupo	alternativoj	prononco
+level	tro forte	för starkt	too strongly	grupo	alternativoj	prononco
+level	li tro forte malfermis	han öppnade för hårt	he opened too hard	grupo	alternativoj	prononco
+level	veturis tro rapide	körde (färdades) för fort	drove (traveled) too fast	grupo	alternativoj	prononco
+level	manĝis per kulero	åt med sked	ate with a spoon	grupo	alternativoj	prononco
+level	ni forte dubas	vi tvivlar starkt på	we strongly doubt	grupo	alternativoj	prononco
+level	vera letero de li	ett sant brev från honom	a true letter from him	grupo	alternativoj	prononco
+level	amletero kun kvin fotoj	ett kärleksbrev med fem bilder	a love letter with five photos	grupo	alternativoj	prononco
+level	revenis, revenintoj	återvänt, människorna som återvänt	returned, the people who returned	grupo	alternativoj	prononco
+level	ankaŭ ses leteroj revenis	även sex brev returnerade	also six letters returned	grupo	alternativoj	prononco
+level	volis vidi la foton	ville se fotot	wanted to see the photo	grupo	alternativoj	prononco
+level	revenis el la lernejo	kom tillbaka från skolan	came back from the school	grupo	alternativoj	prononco
+level	kiam revenos la fratino?	när kommer systern tillbaka?	when will the sister return?	grupo	alternativoj	prononco
+level	volis legi denove	ville läsa igen	wanted to read again	grupo	alternativoj	prononco
+level	faris, fariĝis	gjorde (gjorde), blev	made (did), became	grupo	alternativoj	prononco
+level	rapide fariĝis ruĝa	blev snabbt röd	rapidly became red	grupo	alternativoj	prononco
+level	en ĉambro, en ĉambron	i ett rum, in i ett rum	in a room, into a room	grupo	alternativoj	prononco
+level	staris kaj sidis	stod och satt	stood and sat	grupo	alternativoj	prononco
+level	tie staris antaŭ la foto	där stod framför fotot	there stood in front of the photo	grupo	alternativoj	prononco
+level	mi havas tion	jag har det	I have that	grupo	alternativoj	prononco
+level	kion vi havas en via mano?	vad har du i handen?	what do you have in your hand?	grupo	alternativoj	prononco
+level	antaŭ aŭ malantaŭ?	framför eller bakom?	in front or behind?	grupo	alternativoj	prononco
+level	antaŭ aŭ post?	före eller efter?	before or after?	grupo	alternativoj	prononco
+level	tie malantaŭ la pordo	där bakom dörren	there behind the door	grupo	alternativoj	prononco
+level	aliaj, aliaj homoj	andra, andra människor	others, other people	grupo	alternativoj	prononco
+level	leteroj de aliaj	brev från andra	letters from others	grupo	alternativoj	prononco
+level	falis el la mano	föll ur handen	fell out of the hand	grupo	alternativoj	prononco
+level	sur la tablo, sur la tablon	på bordet, på bordet	on the table, onto the table	grupo	alternativoj	prononco
+level	ĝi falis sur la tablon	den föll på bordet	it fell on the table	grupo	alternativoj	prononco
+level	petis pardonon	bad om ursäkt	asked for pardon	grupo	alternativoj	prononco
+level	serĉis kvin librojn	letade efter fem böcker	was searching for five books	grupo	alternativoj	prononco
+level	pardonu, mi serĉis mian libron	förlåt, jag letade efter min bok.	sorry, I was looking for my book.	grupo	alternativoj	prononco
+level	sed vi bone scias	men du vet väl	but you know well	grupo	alternativoj	prononco
+level	ne estas sur mia tablo	finns inte på mitt bord	is not on my table	grupo	alternativoj	prononco
+level	viaj libroj ne estas sur mia tablo	dina böcker ligger inte på mitt bord	your books are not on my table	grupo	alternativoj	prononco
+level	ree donis, redonis	åter gav, återvände	again gave, returned	grupo	alternativoj	prononco
+level	redonu la leteron al mi.	lämna tillbaka brevet till mig	return the letter to me	grupo	alternativoj	prononco
+level	ricevis bonan lecionon	fick en bra lektion	received a good lesson	grupo	alternativoj	prononco
+level	plu lavis, ne plu manĝis	ytterligare tvättade, åt mer	further washed, ate any more	grupo	alternativoj	prononco
+level	ne plu legos	kommer inte att läsa längre	will no longer read	grupo	alternativoj	prononco
+level	ankaŭ mi ricevis	Jag fick också	I also received	grupo	alternativoj	prononco
+level	devas fermi	måste stänga	has to close	grupo	alternativoj	prononco
+level	mi devas bone fermi	Jag måste stänga bra	I have to close well	grupo	alternativoj	prononco
+level	bone fermis la pordon	stängde dörren ordentligt	closed the door tightly	grupo	alternativoj	prononco
+level	trankvila, trankviliĝu	lugn, lugn	calm, calm down	grupo	alternativoj	prononco
+level	aŭdis sed ne aŭskultis	hörde men lyssnade inte	heard but did not listen	grupo	alternativoj	prononco
+level	aŭdis trankvilan sonon	hörde ett lugnt ljud	heard a calm sound	grupo	alternativoj	prononco
+level	ĉe mi estis kvar poŝoj	hos mig finns det 4 fickor	at me, there are 4 pockets	grupo	alternativoj	prononco
+level	dek tagoj post la lasta leciono	tio dagar efter sista lektionen	ten days after the last lesson	grupo	alternativoj	prononco
+level	inter la du tabloj	mellan de två borden	between the two tables	grupo	alternativoj	prononco
+level	tri leteroj, ses paperoj	tre bokstäver, sex papper	three letters, six papers	grupo	alternativoj	prononco
+level	de kapo ĝis piedo	från topp till fot	from head to foot	grupo	alternativoj	prononco
+level	kvar, kvara, kvaropo, kvarono	fyra, fjärde, en kvartett, en kvart	four, fourth, a quartet, a quarter	grupo	alternativoj	prononco
+level	kien iris la triopo?	vart tog trion vägen	where did the trio go	grupo	alternativoj	prononco
+level	kvin fingroj en ambaŭaj manoj	fem fingrar i båda händerna	five fingers in both hands	grupo	alternativoj	prononco
+level	si mem, sia poŝo	för sig själv, sin egen ficka	by oneself, one's own pocket	grupo	alternativoj	prononco
+level	meti, kunmeti, kunmetaĵo	sätta, sätta ihop, en förening	put, put together, a compound	grupo	alternativoj	prononco
+level	metis en sian poŝon	stoppa i sin egen ficka	put in one's own pocket	grupo	alternativoj	prononco
+level	du cent nacioj en la mondo	tvåhundra nationer i världen	two hundred nations in the world	grupo	alternativoj	prononco
+level	prenis, forprenis	tog, tog bort	took, took away	grupo	alternativoj	prononco
+level	prenis sep el siaj naŭ libroj	tog sju av sina egna nio böcker	took seven out of his own nine books	grupo	alternativoj	prononco
+level	lasi, forlasita	att lämna, övergiven	to leave, abandoned	grupo	alternativoj	prononco
+level	lasu min sola kaj trankvila	lämna mig ifred och lugn	leave me alone and calm	grupo	alternativoj	prononco
+level	mil ok cent ok dek sep	tusen åtta hundra åttiosju (1887)	thousand eight hundred and eighty seven (1887)	grupo	alternativoj	prononco
+level	taso da teo	en kopp te	a cup of tea	grupo	alternativoj	prononco
+level	oni lavis ok tasojn	någon tvättade åtta koppar	somebody washed eight cups	grupo	alternativoj	prononco
+level	du mil dek naŭ	tvåtusen nitton (2019)	two thousand nineteen (2019)	grupo	alternativoj	prononco
+level	li lavis sin	han tvättade sig	he washed himself	grupo	alternativoj	prononco
+level	sia korpo, sia propra posedo	sin kropp, sin egen ägodel	one's body, one's own possession	grupo	alternativoj	prononco
+level	sur la tablo, la kato dormis	på bordet sov katten	on the table, the cat slept	grupo	alternativoj	prononco
+level	la kato saltis sur la tablon	katten hoppade upp på bordet	the cat jumped onto the table	grupo	alternativoj	prononco
+level	en la halo, en la halon	i hallen, in i hallen	in the hall, into the hall	grupo	alternativoj	prononco
+level	enfalis en lian manon	föll i hans hand	fell into his hand	grupo	alternativoj	prononco
+level	labori, ellabori	att arbeta, att utarbeta	to work, to elaborate	grupo	alternativoj	prononco
+level	ellabori por tiu libro	att utveckla för den boken	to elaborate for that book	grupo	alternativoj	prononco
+level	scias, scivolas, scivolo	vet, vill veta, nyfikenhet	knows, wants to know, curiosity	grupo	alternativoj	prononco
+level	dulingva, dulingveco	tvåspråkighet, tvåspråkighet	bilingual, bilingualism	grupo	alternativoj	prononco
+level	scivolas pri trilingva lernanto	undrar om en trespråkig elev	wonders about a trilingual learner	grupo	alternativoj	prononco
+level	iris, reiris	gick, återvände	went, returned	grupo	alternativoj	prononco
+level	la katoj reiris al siaj domoj	katterna återvände till sina (egna) hem	the cats returned to their (own) homes	grupo	alternativoj	prononco
+level	en la sako, en la sakon	i väskan, i väskan	in the bag, into the bag	grupo	alternativoj	prononco
+level	enmetu ĝin en vian sakon	lägg den i din väska	put it into your bag	grupo	alternativoj	prononco
+level	piedo, piediras, piediranto	en fot, promenader, en fotgängare	a foot, walks, a pedestrian	grupo	alternativoj	prononco
+level	dek-tage ili piediris	i tio dagar gick de	for ten days, they walked	grupo	alternativoj	prononco
+level	preni, elpreni	att ta, att ta ut	to take, to take out	grupo	alternativoj	prononco
+level	belaj floroj, prenis belajn florojn	vackra blommor, tog vackra blommor	beautiful flowers, took beautiful flowers	grupo	alternativoj	prononco
+level	li elprenis nur belajn florojn	han tog bara fram vackra blommor	he took out only beautiful flowers	grupo	alternativoj	prononco
+level	malfermis, sed tuj fermis	öppnade, men stängdes omedelbart	opened, but immediately closed	grupo	alternativoj	prononco
+level	malfermis internacian kunvenon	öppnade ett internationellt möte	opened an international meeting	grupo	alternativoj	prononco
+level	eldonis kaj disdonis	publiceras och distribueras	published and distributed	grupo	alternativoj	prononco
+level	la eldonisto eldonis dudek tri librojn	förlaget gav ut tjugotre böcker	the publisher published twenty-three books	grupo	alternativoj	prononco
+level	revenis kaj revidis sian filon	återvände och såg sin egen son igen	returned and saw one's own son again	grupo	alternativoj	prononco
+level	en la jaro dumil dudek tri	år två tusen och tjugotre (2023)	in the year two thousand and twenty three (2023)	grupo	alternativoj	prononco
+level	sinjoro eniris la vendejon	en herre gick in (in i) butiken	a gentleman entered (into) the store	grupo	alternativoj	prononco
+level	la vendejo de aŭtoj	butiken av bilar	the store of cars	grupo	alternativoj	prononco
+level	tie li vidas sinjorinon	där ser han en dam	there he sees a lady	grupo	alternativoj	prononco
+level	karaj gesinjoroj	kära damer och herrar	dear ladies and gentlemen	grupo	alternativoj	prononco
+level	tio plaĉis al mi	det gladde mig (jag gillar det)	that pleased me (I like that)	grupo	alternativoj	prononco
+level	la sinjorino plaĉis al li	damen gladde honom (han gillade damen)	the lady pleased him (he liked the lady)	grupo	alternativoj	prononco
+level	vidis la belan sinjorinon	såg den vackra damen	saw the beautiful lady	grupo	alternativoj	prononco
+level	kiu plaĉis al li?	vem gjorde honom nöjd? (vem gillade han?)	who pleased him? (whom did he like?)	grupo	alternativoj	prononco
+level	la virino, kiu plaĉis al mi	kvinnan, som gladde mig	the woman, who pleased me	grupo	alternativoj	prononco
+level	tiu, kiu eniris la domon	den som gick in i huset	the one who entered the house	grupo	alternativoj	prononco
+level	la viro, kiu donacis ĝin	mannen som donerade den	the man who donated it	grupo	alternativoj	prononco
+level	li donacis ringon al lia edzino	han gav en ring till sin fru	he gave a ring to his wife	grupo	alternativoj	prononco
+level	la ringo plaĉis al ŝi	hon gillade ringen	she liked the ring	grupo	alternativoj	prononco
+level	la edzino, al kiu la ringo plaĉis	frun som gillade ringen	the wife who liked the ring	grupo	alternativoj	prononco
+level	vendisto laboras en la vendejo	en säljare jobbar i butiken	a salesman works in the store	grupo	alternativoj	prononco
+level	vendisto de aŭtoj	en försäljare av bilar	a salesman of cars	grupo	alternativoj	prononco
+level	la sinjoro demandis al la vendisto	frågade herren försäljaren	the gentleman asked the salesman	grupo	alternativoj	prononco
+level	kiu aŭto plaĉas al vi?	vilken bil gillar du?	which car do you like?	grupo	alternativoj	prononco
+level	kiun aŭton vi elektos?	vilken bil kommer du att välja?	which car will you choose?	grupo	alternativoj	prononco
+level	mi elektis tiun aŭton	Jag valde den bilen	I chose that car	grupo	alternativoj	prononco
+level	ĝi estas pli bona	det är bättre	it is better	grupo	alternativoj	prononco
+level	pli bona ol ĉi tio	bättre än det här	better than this	grupo	alternativoj	prononco
+level	plej bona el ili	bäst av dem	best of them	grupo	alternativoj	prononco
+level	estas la plej bona	är bäst	is the best	grupo	alternativoj	prononco
+level	kiu aŭto estas la plej bona?	vilken bil är bäst?	which car is the best?	grupo	alternativoj	prononco
+level	tiu ĉi aŭto estas pli bona	den här bilen är bättre	this car is better	grupo	alternativoj	prononco
+level	tiu ĉi estas la plej bona	den här är bäst	this one is the best	grupo	alternativoj	prononco
+level	vidis ĉiujn aŭtojn	såg alla bilar	saw all the cars	grupo	alternativoj	prononco
+level	la plej bona el ĉiuj	det bästa av allt	the best of all	grupo	alternativoj	prononco
+level	ĉu ĝi estas rapida?	är det snabbt?	is it fast?	grupo	alternativoj	prononco
+level	pli rapida ol aliaj	snabbare än andra	faster than others	grupo	alternativoj	prononco
+level	estas ankaŭ forta	är också stark	is also strong	grupo	alternativoj	prononco
+level	ho jes, kompreneble!	åh ja, självklart!	oh yes, of course!	grupo	alternativoj	prononco
+level	estas tre forta	är mycket stark	is very strong	grupo	alternativoj	prononco
+level	certe ĝi estas forta	visst är den stark	certainly it is strong	grupo	alternativoj	prononco
+level	estas ankaŭ multekosta	är också dyrt	is also expensive	grupo	alternativoj	prononco
+level	la plej multekosta el ĉiuj	den dyraste av alla	the most expensive of all	grupo	alternativoj	prononco
+level	malmultekosta sed forta	billig men stark	cheap but strong	grupo	alternativoj	prononco
+level	bedaŭras kaj bedaŭrindas	tycker synd om och är medlidande (värt att tycka synd om)	feels sorry and is pityful (worth feeling sorry)	grupo	alternativoj	prononco
+level	bedaŭrinde mi ne aĉetos	jag kommer tyvärr inte köpa	unfortunately I will not buy	grupo	alternativoj	prononco
+level	estas bedaŭrinda afero	är en olycklig sak	is an unfortunate thing	grupo	alternativoj	prononco
+level	li aĉetis novan aŭton	han köpte en ny bil	he bought a new car	grupo	alternativoj	prononco
+level	ĉar mi ne havas monon	eftersom jag inte har pengar	because I do not have money	grupo	alternativoj	prononco
+level	mia malnova aŭto	min gamla bil	my old car	grupo	alternativoj	prononco
+level	la plej malmultekosta el ĉiuj	den billigaste av alla	the cheapest of all	grupo	alternativoj	prononco
+level	mi veturos tien	Jag kör dit	I'll drive there	grupo	alternativoj	prononco
+level	ankoraŭ veturos per ĝi	kommer fortfarande köra med den	will still drive with it	grupo	alternativoj	prononco
+level	dum la tuta tago	hela dagen	all day long	grupo	alternativoj	prononco
+level	dum li diris tion	medan han sa det	while he said that	grupo	alternativoj	prononco
+level	li denove rigardis ŝin	han tittade på henne igen	he looked at her again	grupo	alternativoj	prononco
+level	sed la vendisto diris	men försäljaren sa	but the salesman said	grupo	alternativoj	prononco
+level	estus pli bone, ke ~	det vore bättre att ~	it would be better that ~	grupo	alternativoj	prononco
+level	rigardu tiun ĉi sinjorinon	titta på den här damen	look at this lady	grupo	alternativoj	prononco
+level	ankaŭ tio estas tre multekosta	det är också väldigt dyrt	that is also very expensive	grupo	alternativoj	prononco
+level	mi estas ŝia edzo	Jag är hennes man	I am her husband	grupo	alternativoj	prononco
+level	kiom via vojaĝo kostis?	hur mycket kostade din resa?	how much did your trip cost?	grupo	alternativoj	prononco
+level	aŭskultu la kanton de via edzino	lyssna på din frus sång	listen to your wife's song	grupo	alternativoj	prononco
+level	ne forgesu, ke ĝi tre multe kostas	glöm inte att det kostar mycket	don’t forget that it costs a lot	grupo	alternativoj	prononco
+level	li helpis la vendiston dum du horoj	han hjälpte säljaren i två timmar	he helped the salesman for two hours	grupo	alternativoj	prononco
+level	jam pli ol tri jaroj	i mer än tre år	for more than three years	grupo	alternativoj	prononco
+level	kovri, kovrilo, malkovri	täcka, täcka, avslöja (upptäcka)	cover, cover, uncover (discover)	grupo	alternativoj	prononco
+level	la kialon li ankoraŭ ne malkovris	anledningen har han ännu inte upptäckt	the reason he has not yet discovered	grupo	alternativoj	prononco
+level	kial vi komencis sendi leterojn?	varför började du skicka brev?	why did you start sending letters?	grupo	alternativoj	prononco
+level	dum ok monatoj li vivis tie	i åtta månader bodde han där	for eight months he lived there	grupo	alternativoj	prononco
+level	ne havis tempon por aŭskulti	hade inte tid att lyssna	didn't have time to listen	grupo	alternativoj	prononco
+level	la aŭto estis jam plena	bilen var redan full	the car was already full	grupo	alternativoj	prononco
+level	kion vi manĝas?	vad äter du	what are you eating	grupo	alternativoj	prononco
+level	kia estas la vetero?	hur är vädret?	what's the weather like?	grupo	alternativoj	prononco
+level	kian aŭton vi havas?	Vad för slags bil har du?	what kind of car do you have?	grupo	alternativoj	prononco
+level	kiaj estis ŝiaj leteroj?	hur var hennes brev?	what were her letters like?	grupo	alternativoj	prononco
+level	kie ni estas?	var är vi?	where are we?	grupo	alternativoj	prononco
+level	kien vi iras?	vart ska du till?	where are you going to?	grupo	alternativoj	prononco
+level	al kiu vi donis ĝin?	till vem gav du den?	to whom did you give it?	grupo	alternativoj	prononco
+level	la viro, kun kiu vi vojaĝis	mannen som du reste med	the man whom you traveled with	grupo	alternativoj	prononco
+level	pli granda ol la aŭto	större än bilen	bigger than the car	grupo	alternativoj	prononco
+level	la plej alta el tiuj homoj	den högsta av dessa människor	the tallest of those people	grupo	alternativoj	prononco
+level	li sidis dum la manĝo	han satt på middag	he was sitting at dinner	grupo	alternativoj	prononco
+level	ŝi skribas dum li legas	hon skriver medan han läser	she writes while he reads	grupo	alternativoj	prononco
+level	ĉi tie, en ĉi tiu ĉambro	här, i det här rummet	here, in this room	grupo	alternativoj	prononco
+level	tiu ĉi sinjoro	denna herre	this gentleman	grupo	alternativoj	prononco
+level	aŭskultinda novaĵo	en nyhet värd att lyssna på	a news worth listening	grupo	alternativoj	prononco
+level	la libro estas vere leginda	boken är verkligen läsvärd	the book is really worth reading	grupo	alternativoj	prononco
+level	bedaŭra afero	en olycklig sak	an unfortunate thing	grupo	alternativoj	prononco
+level	bedaŭrinde, mi ne povas	tyvärr kan jag inte	unfortunately, I can't	grupo	alternativoj	prononco
+level	nedankinde. estis mia plezuro	Varsågod. det var mitt nöje	you are welcome. it was my pleasure	grupo	alternativoj	prononco
+level	eta belulino ege belas	liten söt flicka är mycket vacker	small pretty girl is very beautiful	grupo	alternativoj	prononco
+level	ĉiuj amikoj amas ŝin	alla vänner älskar henne	all friends love her	grupo	alternativoj	prononco
+level	antaŭ tri monatoj	tre månader sedan	three months ago	grupo	alternativoj	prononco
+level	okazis malbono al ŝi	något dåligt hände henne	something bad happened to her	grupo	alternativoj	prononco
+level	ŝi falis pro aŭto	hon ramlade på grund av en bil	she fell because of a car	grupo	alternativoj	prononco
+level	malsaniĝis kaj temperaturo altiĝis	blev sjuk och temperaturen steg	became ill and temperature rose	grupo	alternativoj	prononco
+level	patrino diris, ke ŝi devas ripozi	mamma sa att hon skulle vila	mother said she should rest	grupo	alternativoj	prononco
+level	ŝi devas resti hejme	hon måste stanna hemma	she has to stay home	grupo	alternativoj	prononco
+level	ŝi vokos doktoron	hon kommer att ringa en läkare	she will call a doctor	grupo	alternativoj	prononco
+level	je la naŭa horo	klockan nio	at nine o'clock	grupo	alternativoj	prononco
+level	matene venis je la oka	på morgonen kom klockan åtta	in the morning came at eight o'clock	grupo	alternativoj	prononco
+level	je la sepa morgaŭ vespere	klockan sju i morgon kväll	at seven tomorrow evening	grupo	alternativoj	prononco
+level	montris liajn manojn	visade sina händer	showed his hands	grupo	alternativoj	prononco
+level	vesto, vestiĝas	klänning, klär på sig	dress, is getting dressed	grupo	alternativoj	prononco
+level	vestiĝu kaj varmigu vian korpon	klä på dig och värm din kropp	get dressed and warm your body	grupo	alternativoj	prononco
+level	hejme tuj malvestis kaj duŝis	hemma klädde genast av och duschade	at home immediately undressed and showered	grupo	alternativoj	prononco
+level	doktoro rigardis ĉion	en läkare tittade på allt	a doctor looked at everything	grupo	alternativoj	prononco
+level	bone rigardis kaj fine diris	tittade noggrant och sa till sist	looked throughly and finally said	grupo	alternativoj	prononco
+level	unu semajnon restu hejme	stanna hemma en vecka	stay home for a week	grupo	alternativoj	prononco
+level	deziras, ke vi estu trankvila	vill att du ska vara lugn	wants you to be calm	grupo	alternativoj	prononco
+level	post unu semajno	efter en vecka	after one week	grupo	alternativoj	prononco
+level	vi fartos pli bone	du kommer att må bättre	you will feel better	grupo	alternativoj	prononco
+level	trinku multe da teo	drick mycket te	drink plenty of tea	grupo	alternativoj	prononco
+level	venos por revidi vin	kommer att träffa dig igen	will come to see you again	grupo	alternativoj	prononco
+level	ankaŭ li estu trankvila	låt honom också vara lugn	let him be calm too	grupo	alternativoj	prononco
+level	sana homo, sanulo	frisk man, frisk person	healthy man, healthy person	grupo	alternativoj	prononco
+level	zorgis pri si mem	tog hand om sig själv	took care of oneself	grupo	alternativoj	prononco
+level	tuta afero tuje utilis al mi	det hela var nyttigt för mig på en gång	the whole thing was useful to me at once	grupo	alternativoj	prononco
+level	rimarkis, ke teruraĵo proksimas	märkte att det hemska är nära	noticed that horrible thing is near	grupo	alternativoj	prononco
+level	petis tuj rimarki ĝin	bad att märka det omedelbart	asked to notice it immediately	grupo	alternativoj	prononco
+level	pensis, ke tio ne necesas	trodde att det inte var nödvändigt	thought that was not necessary	grupo	alternativoj	prononco
+level	loĝis proksime, kaj tio utilis	bodde i närheten, och det var nyttigt	lived nearby, and that was useful	grupo	alternativoj	prononco
+level	nia lando hodiaŭ teruriĝis	vårt land blev livrädd idag	our country became terrified today	grupo	alternativoj	prononco
+level	karaj infanoj el ĉiuj familioj	kära barn från alla familjer	dear children from all families	grupo	alternativoj	prononco
+level	unu fojon hieraŭ, du fojojn morgaŭ	en gång igår, två gånger imorgon	once yesterday, twice tomorrow	grupo	alternativoj	prononco
+level	hodiaŭ familioj bezonas infanojn	idag behöver familjer barn	today families need children	grupo	alternativoj	prononco
+level	esperis, ke li fartos bone morgaŭ	hoppades att han skulle må bra imorgon	hoped he would be well tomorrow	grupo	alternativoj	prononco
+level	li fartis ege trankvila	han kände sig (har varit) väldigt lugn	he was feeling (has been) very calm	grupo	alternativoj	prononco
+level	tri etuloj altigis la monton	tre små höjde berget	three little ones raised the mountain	grupo	alternativoj	prononco
+level	gravuloj ne petis helpon	viktiga personer bad inte om hjälp	important people did not ask for help	grupo	alternativoj	prononco
+level	piediris tien por helpi	gick dit för att hjälpa till	walked there to help	grupo	alternativoj	prononco
+level	restu hejme se temperaturo altas	stanna hemma om temperaturen är hög	stay home if temperature is high	grupo	alternativoj	prononco
+level	temperaturo restis simila hodiaŭ	Temperaturen var densamma idag	temperature remained similar today	grupo	alternativoj	prononco
+level	voku la doktoron je la naŭa	ring läkaren vid nio	call the doctor at nine	grupo	alternativoj	prononco
+level	montru ĝin al via doktoro	visa det för din läkare	show it to your doctor	grupo	alternativoj	prononco
+level	por montri vian piedon	att visa din fot	to show your foot	grupo	alternativoj	prononco
+level	vestu ĉi tiun ĉemizon	bär denna skjorta	wear this shirt	grupo	alternativoj	prononco
+level	semajnfine ĉio trankviliĝos	i helgen kommer allt att lugna sig	on the weekend everything will calm down	grupo	alternativoj	prononco
+level	sub la te-taso kion vi trovis?	vad hittade du under tekoppen?	under the tea-cup what did you find?	grupo	alternativoj	prononco
+level	mi deziras matenan teon	Jag vill ha morgonte	I want morning tea	grupo	alternativoj	prononco
+level	esperis trankvilan vesperon	hoppas på en lugn kväll	hoped for a quiet evening	grupo	alternativoj	prononco
+level	deziras, ke vi lernu	vill att du lär dig	wants that you learn	grupo	alternativoj	prononco
+level	insistis, ke mi iru	insisterade på att jag skulle gå	insisted that I go	grupo	alternativoj	prononco
+level	je kioma horo?	vilken tid?	at what hour?	grupo	alternativoj	prononco
+level	je la sesa, li venos	vid sex kommer han	at six he will come	grupo	alternativoj	prononco
+level	la libreto estis ĉarma	librettot var charmigt	the libretto was charming	grupo	alternativoj	prononco
+level	estu trankvila	var tyst	be quiet	grupo	alternativoj	prononco
+level	li estu trankvila	låt honom vara tyst	let him be quiet	grupo	alternativoj	prononco
+level	ankaŭ li	han också	he too	grupo	alternativoj	prononco
+level	mi deziras	jag vill (längta)	I want (desire)	grupo	alternativoj	prononco
+level	mi deziras, ke ~	Jag önskar (önskar) att ~	I wish (desire) that ~	grupo	alternativoj	prononco
+level	ke vi lernu	att du lär dig	that you learn	grupo	alternativoj	prononco
+level	mi deziras, ke vi lernu	Jag vill att du ska lära dig	I want you to learn	grupo	alternativoj	prononco
+level	patro insistas	insisterar pappa	father insists	grupo	alternativoj	prononco
+level	patro insistas, ke ~	far insisterar på att ~	father insists that ~	grupo	alternativoj	prononco
+level	ke mi iru	att jag går	that I go	grupo	alternativoj	prononco
+level	patro insistas, ke mi iru	pappa insisterar på att jag ska gå	father insists that I go	grupo	alternativoj	prononco
+level	je kioma horo	vilken tid	at what hour	grupo	alternativoj	prononco
+level	je kioma horo vi venos?	vilken tid kommer du?	what time do you come?	grupo	alternativoj	prononco
+level	je la kvina	klockan fem)	at five (o'clock)	grupo	alternativoj	prononco
+level	je la kvina horo	klockan fem	at five o'clock	grupo	alternativoj	prononco
+level	kiel li fartas?	hur mår han?	how does he doing?	grupo	alternativoj	prononco
+level	kiel vi fartis lastatempe?	hur har du haft det på sistone?	how have you been lately?	grupo	alternativoj	prononco
+level	etaj libroj belas	små böcker är vackra	little books are beautiful	grupo	alternativoj	prononco
+level	libreto, belaj libroj	ett häfte, vackra böcker	a booklet, beautiful books	grupo	alternativoj	prononco
+level	bela, beleta, belega	vacker, lite vacker, mycket vacker	beautiful, a little pretty, very beautiful	grupo	alternativoj	prononco
+level	varma, varmeta, varmega	varm, ljummen, mycket varm	warm, lukewarm, very hot	grupo	alternativoj	prononco
+level	librego, libreto	en stor bok, ett häfte	a big book, a booklet	grupo	alternativoj	prononco
+level	bona, bonega, bonege	bra, bra, bra	good, great, well	grupo	alternativoj	prononco
+level	riĉa, riĉiĝi, riĉulo	rik, bli rik, en rik person	rich, become rich, a rich person	grupo	alternativoj	prononco
+level	trankvila, trankviliĝi, trankviliĝu	lugna, lugna ner sig, lugna ner sig	calm, to calm down, calm down	grupo	alternativoj	prononco
+level	sana, resaniĝi, resaniĝis	frisk, att bli helad, blev helad	healthy, to become healed, became healed	grupo	alternativoj	prononco
+level	edzo, edziĝo, geedziĝis	en man, äktenskap, gift	a husband, marriage, married	grupo	alternativoj	prononco
+level	leterportisto	en brevbrevbärare	a letter postman	grupo	alternativoj	prononco
+level	hejmlando	ett hemland	a homeland	grupo	alternativoj	prononco
+level	iom, iomete	något, lite	somewhat, a little	grupo	alternativoj	prononco
+level	ni bonege vespermanĝis	vi hade en fantastisk middag	we had a great dinner	grupo	alternativoj	prononco
+level	espereble, prizorgu vin	förhoppningsvis, ta hand om dig själv	hopefully, take care of yourself	grupo	alternativoj	prononco
+level	mi zorgis pri la altkvalita loĝejo	Jag brydde mig om de högkvalitativa bostäderna	I cared about the high-quality housing	grupo	alternativoj	prononco
+level	pripensu dufoje, multfoje	tänk två gånger, många gånger	think twice, many times	grupo	alternativoj	prononco
+level	kiu deprenis la libreton?	vem tog ner häftet?	who took down the booklet?	grupo	alternativoj	prononco
+level	kato, kiu nomiĝas Cezaro	en katt som heter Caesar	a cat named Caesar	grupo	alternativoj	prononco
+level	kuko, kiu estas sur la tablo	en tårta som står på bordet	a cake which is on the table	grupo	alternativoj	prononco
+level	manĝu kukon, kiu estas sur la tablo	äta en tårta som står på bordet	eat a cake that is on the table	grupo	alternativoj	prononco
+level	fariĝis varmega kaj ruĝiĝis	blev het och rodnade	became hot and blushed	grupo	alternativoj	prononco
+level	patro volas, ke lia infano manĝu	en pappa vill att hans barn ska äta	a father wants his child to eat	grupo	alternativoj	prononco
+level	en malgranda ĉambro	i ett litet rum	in a small room	grupo	alternativoj	prononco
+level	ni loĝas en ~	vi bor i ~	we live in ~	grupo	alternativoj	prononco
+level	mi fariĝis maltrankvila	Jag blev orolig	I became anxious	grupo	alternativoj	prononco
+level	tiam, kiam mi vidis vin	på den tiden när jag såg dig	at that time when I saw you	grupo	alternativoj	prononco
+level	ĉiuj rimarkis tion	alla märkte det	everyone noticed that	grupo	alternativoj	prononco
+level	tion, ke ŝi estas belega	det faktum att hon är vacker	the fact that she is beautiful	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke ~ ?	vill du ha det ~ ? (deziri)	do you want that ~ ? (deziri)	grupo	alternativoj	prononco
+level	ke mi montru al vi	att jag kan visa dig	that I may show you	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke mi montru?	vill du att jag ska visa?	do you want me to show?	grupo	alternativoj	prononco
+level	mian plej novan libron	min senaste bok (mål)	my newest book (objective)	grupo	alternativoj	prononco
+level	morgaŭ matene, kion vi volas?	imorgon bitti, vad vill du?	tomorrow morning, what do you want?	grupo	alternativoj	prononco
+level	matenmanĝis malfrue	åt frukost sent	had breakfast late	grupo	alternativoj	prononco
+level	kiam Marko alvenos?	när kommer Mark?	when will Mark arrive?	grupo	alternativoj	prononco
+level	je la kvina aŭ je la oka horo	klockan fem eller åtta	at five or eight o'clock	grupo	alternativoj	prononco
+level	kiam vi rimarkis, ke ~ ?	när märkte du att ~ ?	when did you notice that ~ ?	grupo	alternativoj	prononco
+level	la tuta familio nomas min bonfarulo	hela familjen kallar mig en välgörare	the whole family calls me a benefactor	grupo	alternativoj	prononco
+level	utila por vi	användbar för dig	useful for you	grupo	alternativoj	prononco
+level	ĉu la libreto estis utila?	var häftet användbart?	was the booklet useful?	grupo	alternativoj	prononco
+level	tiu libreto, kiun mi sendis	häftet, som jag skickade	the booklet, which I sent	grupo	alternativoj	prononco
+level	matene dormis tre longe	på morgonen sov länge	in the morning slept for a long time	grupo	alternativoj	prononco
+level	kiam li vidis la sunon	när han såg solen	when he saw the sun	grupo	alternativoj	prononco
+level	subite li eksaltis	plötsligt hoppade han upp	suddenly he jumped up	grupo	alternativoj	prononco
+level	li estis ĉiam frua	han var alltid tidig	he was always early	grupo	alternativoj	prononco
+level	ĉiam li malfruas	han är alltid sen	he is always late	grupo	alternativoj	prononco
+level	tiam, kiam li devas iri	på den tiden, när han måste gå	at that time, when he has to go	grupo	alternativoj	prononco
+level	iri al la lernejo	att gå till skolan	to go to the school	grupo	alternativoj	prononco
+level	li scias, ke ~	han vet, att ~	he knows, that ~	grupo	alternativoj	prononco
+level	li scias tion, ke ~	han vet det faktum, att ~	he knows the fact, that ~	grupo	alternativoj	prononco
+level	tion, ke la instruisto malŝatas abelon	det faktum att läraren hatar bin	the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias tion, ke la instruisto malŝatas abelon	vet det faktum att läraren hatar bin	knows the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias, ke la instruisto malŝatas tion	vet att läraren hatar det	knows that the teacher hates that	grupo	alternativoj	prononco
+level	sed hodiaŭ li trinkis la kafon	men idag drack han kaffet	but today he drank the coffee	grupo	alternativoj	prononco
+level	li rapide surmetas la vestaĵon	han tar snabbt på sig kläderna	he quickly puts on the clothes	grupo	alternativoj	prononco
+level	li ne volas malfrui	han vill inte komma försent	he doesn't want to be late	grupo	alternativoj	prononco
+level	rapidege kun la libroj en la mano	mycket snabbt med böckerna i handen	very quickly with the books in hand	grupo	alternativoj	prononco
+level	poste li kuris kaj saltis	senare sprang han och hoppade	later he ran and jumped	grupo	alternativoj	prononco
+level	li kuris kaj saltis	han sprang och hoppade	he ran and jumped	grupo	alternativoj	prononco
+level	laŭ la strato	längs med gatan	along the street	grupo	alternativoj	prononco
+level	la homoj rigardis lin	folket tittade på honom	the people looked at him	grupo	alternativoj	prononco
+level	rigardis lin kaj diris	tittade på honom och sa	looked at him and said	grupo	alternativoj	prononco
+level	saĝa kaj malsaĝa	klok och dåraktig	wise and foolish	grupo	alternativoj	prononco
+level	kia malsaĝa knabo!	vilken dum pojke!	what a foolish boy!	grupo	alternativoj	prononco
+level	estis antaŭ lernejo	var framför en skola	was in front of a school	grupo	alternativoj	prononco
+level	baldaŭ	snart	soon	grupo	alternativoj	prononco
+level	li estis antaŭ ~	han var framför ~	he was in front of ~	grupo	alternativoj	prononco
+level	iri kaj eniri	att gå och gå in	to go and to enter	grupo	alternativoj	prononco
+level	li volis eniri	han ville in	he wanted to enter	grupo	alternativoj	prononco
+level	eniri la lernejon	att komma in i skolan	to enter into the school	grupo	alternativoj	prononco
+level	sed tamen	men hur som helst	but however	grupo	alternativoj	prononco
+level	sed li ne povis	men han kunde inte	but he couldn't	grupo	alternativoj	prononco
+level	fermi kaj fermita	att stänga och stänga	to close and closed	grupo	alternativoj	prononco
+level	ĝi estis fermita	det var stängt	it was closed	grupo	alternativoj	prononco
+level	nek ~ nek ~	varken ~ eller ~	neither ~ nor ~	grupo	alternativoj	prononco
+level	nek instruisto nek gelernantoj	varken lärare eller manliga och kvinnliga elever	neither a teacher nor male-and-female students	grupo	alternativoj	prononco
+level	vidis nek instruiston nek gelernantojn	såg varken lärare eller elever	saw neither a teacher nor students	grupo	alternativoj	prononco
+level	sidi, eksidi	att sitta, att få sitta	to sit, to get sitted	grupo	alternativoj	prononco
+level	eksidis	satte sig (hade sittande)	got seated (had seated)	grupo	alternativoj	prononco
+level	li eksidis	han satte sig	he got seated	grupo	alternativoj	prononco
+level	kaj pensis	och tänkte	and thought	grupo	alternativoj	prononco
+level	kio okazis?	vad hände?	what did happen?	grupo	alternativoj	prononco
+level	diable	till det hemska (som en djävul)	to the awful (like a devil)	grupo	alternativoj	prononco
+level	damne	fördärva det	dam it	grupo	alternativoj	prononco
+level	memoras	minns	remembers	grupo	alternativoj	prononco
+level	nun mi memoras	nu kommer jag ihåg	now I remember	grupo	alternativoj	prononco
+level	dimanĉo	söndag	Sunday	grupo	alternativoj	prononco
+level	hodiaŭ estas ~	idag är ~	today is ~	grupo	alternativoj	prononco
+level	hodiaŭ estas dimanĉo	idag är det söndag	today is Sunday	grupo	alternativoj	prononco
+level	dormi kaj ekdormi	att sova och att somna	to sleep and to get into sleep	grupo	alternativoj	prononco
+level	suno kaj luno	en sol och en måne	a sun and a moon	grupo	alternativoj	prononco
+level	subita kaj subite	plötsligt och plötsligt	sudden and suddenly	grupo	alternativoj	prononco
+level	ek!	av! (att börja)	off! (to start)	grupo	alternativoj	prononco
+level	salti kaj eksaltis	att hoppa och hoppa	to jump and jumped 	grupo	alternativoj	prononco
+level	ĉiam frua	alltid tidigt	always early	grupo	alternativoj	prononco
+level	hodiaŭ metis kaj kuris	idag satte och sprang	today put and ran	grupo	alternativoj	prononco
+level	aĵo, ne aĝo	en sak inte ålder	a thing not age	grupo	alternativoj	prononco
+level	kuris laŭ homoj saĝaj	sprang tillsammans med kloka människor	ran along wise people	grupo	alternativoj	prononco
+level	laŭeble baldaŭ	snart som möjligt	soon as possible	grupo	alternativoj	prononco
+level	kia knabo, kia knabino	vilken pojke, vilken tjej	what a boy, what a girl	grupo	alternativoj	prononco
+level	nek pensita nek memorita	varken tänkt eller memorerat	neither thought nor memorized	grupo	alternativoj	prononco
+level	diablo atendis akvon dimanĉe	en djävul väntade på vatten på söndagen	a devil waited for water on Sunday	grupo	alternativoj	prononco
+level	tiom malgranda momento	ett så litet ögonblick	such a small moment	grupo	alternativoj	prononco
+level	eĉ tiom malgranda momento valoras	även ett så litet ögonblick är värt besväret	even such a small moment is worthwhile	grupo	alternativoj	prononco
+level	kriis for ĝis nokto	grät bort till natten	cried away until night	grupo	alternativoj	prononco
+level	lasis la poŝton de la mano	lägga undan postposten från handen	put away the mailpost from the hand	grupo	alternativoj	prononco
+level	ridis mem lasante la poŝton	skrattade av sig själv och lade undan postinlägget	laughed by oneself, putting away the mailpost	grupo	alternativoj	prononco
+level	nek li nek ŝi ridis	varken han eller hon skrattade	neither he nor she laughed	grupo	alternativoj	prononco
+level	ŝi nek ridis nek respondis	hon varken skrattade eller svarade	she neither laughed nor answered	grupo	alternativoj	prononco
+level	li nek sidas nek rigardas	han varken sitter eller tittar på	he neither sits nor watches	grupo	alternativoj	prononco
+level	neniam mi vidis	jag har aldrig sett	I have never seen	grupo	alternativoj	prononco
+level	mi neniam diros al iu	Jag kommer aldrig berätta för någon	I will never tell anyone	grupo	alternativoj	prononco
+level	diru al neniu	berätta för ingen	tell no one	grupo	alternativoj	prononco
+level	mi neniam diros	Jag kommer aldrig att säga	I will never say	grupo	alternativoj	prononco
+level	mem	till sig själv (av sig själv)	to oneself (by oneself)	grupo	alternativoj	prononco
+level	mi mem faris	jag gjorde det själv	I did it myself	grupo	alternativoj	prononco
+level	faris tion	gjorde det (gjorde det)	did it (made it)	grupo	alternativoj	prononco
+level	mem faris tion	gjorde det själv (gjorde det själv)	did it oneself (made it oneself)	grupo	alternativoj	prononco
+level	ĝis la revido, ĝis revido	vi ses (igen), vi ses (igen)	see you (again), see you (again)	grupo	alternativoj	prononco
+level	ĝis!	fram tills! (adjö!)	until! (goodbye!)	grupo	alternativoj	prononco
+level	ekparoli	att börja prata	to start talking	grupo	alternativoj	prononco
+level	ekparolis, komencis paroli finfine	började säga, började äntligen tala	started saying, began to speak at last	grupo	alternativoj	prononco
+level	trinkis rapidege	drack väldigt snabbt	drank very fast	grupo	alternativoj	prononco
+level	trinkis matenan trinkaĵon	tog en drink på morgonen	had a morning drink	grupo	alternativoj	prononco
+level	por frue veni	att komma tidigt	to come early	grupo	alternativoj	prononco
+level	veni al la lernejo	att komma till skolan	to come to school	grupo	alternativoj	prononco
+level	frue veni al ~	att komma tidigt till ~	to come early to ~	grupo	alternativoj	prononco
+level	ne aŭdis novaĵon	hörde inga nyheter	didn't hear news	grupo	alternativoj	prononco
+level	ankoraŭ ne aŭdis	inte hört ännu	didn't hear yet	grupo	alternativoj	prononco
+level	mi ankoraŭ ne aŭdis	Jag har inte hört ännu	I didn't hear yet	grupo	alternativoj	prononco
+level	en tiu momento	i det ögonblicket	in that moment	grupo	alternativoj	prononco
+level	en tiu momento li ekkriis	i det ögonblicket grät han	in that moment he cried	grupo	alternativoj	prononco
+level	knabo, kiu ne amas	en pojke, som inte älskar	a boy, who does not love	grupo	alternativoj	prononco
+level	geknaboj	pojkar och flickor	boys and girls	grupo	alternativoj	prononco
+level	aliaj geknaboj	andra killar och tjejer	other boys and girls	grupo	alternativoj	prononco
+level	ne amas aliajn geknabojn	älskar inte andra killar och tjejer	does not love other boys and girls	grupo	alternativoj	prononco
+level	nek amikojn, nek amikinojn	varken vänner eller tjejkompisar	neither friends nor girl friends	grupo	alternativoj	prononco
+level	havas nek monon, nek tempon	har varken pengar eller tid	does not have neither money nor time	grupo	alternativoj	prononco
+level	kiu havis la libron?	vem hade boken?	who had the book?	grupo	alternativoj	prononco
+level	la libron, kiun vi atendis	boken som du väntade på	the book which you waited	grupo	alternativoj	prononco
+level	tiun, kiun vi atendis pli ol du jarojn	det, som du väntat i mer än 2 år	that, which you waited for more than 2 years	grupo	alternativoj	prononco
+level	ĉu vi volas tion?	vill du det?	do you want that?	grupo	alternativoj	prononco
+level	ĉu vi volas, ke ~ ?	vill du ha det ~ ?	do you want that ~ ?	grupo	alternativoj	prononco
+level	plej kara	käraste	dearest	grupo	alternativoj	prononco
+level	plej kara foto	käraste fotot	dearest photo	grupo	alternativoj	prononco
+level	mian plej karan foton	mitt käraste foto	my dearest photo	grupo	alternativoj	prononco
+level	kie vi aĉetis ~ ?	var köpte du ~ ?	where did you buy ~ ?	grupo	alternativoj	prononco
+level	tiu vestaĵo	den där kläderna	that clothing	grupo	alternativoj	prononco
+level	tiun vestaĵon	den där kläderna (objektiv)	that clothing (objective)	grupo	alternativoj	prononco
+level	aĉetis tiun vestaĵon	köpte den där outfiten	bought that outfit	grupo	alternativoj	prononco
+level	vi iros tien	du kommer att gå dit	you will go there	grupo	alternativoj	prononco
+level	kien vi iros?	vart ska du till?	where are you going to?	grupo	alternativoj	prononco
+level	suna tago	solig dag	sunny day	grupo	alternativoj	prononco
+level	estos suna tago	det blir en solig dag	it will be a sunny day	grupo	alternativoj	prononco
+level	se estos suna tago	om det blir en solig dag	if it will be a sunny day	grupo	alternativoj	prononco
+level	via frato jam ekiris	din bror har redan börjat	your brother has already started	grupo	alternativoj	prononco
+level	ĉu via frato jam ekiris?	har din bror börjat än?	has your brother started yet?	grupo	alternativoj	prononco
+level	kie estas la akvo?	var är vattnet	where is the water	grupo	alternativoj	prononco
+level	kunporti la akvon	att ta med vattnet	to bring the water	grupo	alternativoj	prononco
+level	vi mem kunportis	du själv tagit med	you yourself brought	grupo	alternativoj	prononco
+level	la akvon, kion vi mem kunportis	vattnet, som du själv kom med	the water, that you yourself brought	grupo	alternativoj	prononco
+level	estis tre trankvila	var väldigt tyst	was very quiet	grupo	alternativoj	prononco
+level	hodiaŭ mia patrino estis ~	idag var min mamma ~	today my mother was ~	grupo	alternativoj	prononco
+level	mi venis el ~	Jag kom från ~	I came from ~	grupo	alternativoj	prononco
+level	el la lernejo	ut ur skolan	out of the school	grupo	alternativoj	prononco
+level	raportis al ~	rapporteras till ~	reported to ~	grupo	alternativoj	prononco
+level	kaj raportis al ŝi	och rapporterade till henne	and reported to her	grupo	alternativoj	prononco
+level	raportis, ke ~	rapporterade att ~	reported that ~	grupo	alternativoj	prononco
+level	raportis, ke mi ricevos	rapporterat att jag kommer att få	reported that I will receive	grupo	alternativoj	prononco
+level	mi ricevos malbonan noton	Jag kommer få ett dåligt betyg	I will get a bad grade	grupo	alternativoj	prononco
+level	ŝi diris, ke ~	hon sa att ~	she said that ~	grupo	alternativoj	prononco
+level	vi devas laborigi ~	du måste få ~ att fungera	you have to make ~ work	grupo	alternativoj	prononco
+level	pli multe	Mer	more	grupo	alternativoj	prononco
+level	pli multe laborigi	för att få jobbet mer	to make work more	grupo	alternativoj	prononco
+level	laborigi vian kapon	att få huvudet att fungera	to make your head work	grupo	alternativoj	prononco
+level	kiom da malbonaj notoj	hur många dåliga betyg	how many bad grades	grupo	alternativoj	prononco
+level	vi havas tiom da malbonaj notoj	du har så många dåliga betyg	you have so many bad grades	grupo	alternativoj	prononco
+level	estis malĝoja	var ledsen	was sad	grupo	alternativoj	prononco
+level	en vian ĉambron	in i ditt rum	into your room	grupo	alternativoj	prononco
+level	iru en vian ĉambron	gå in i ditt rum	go into your room	grupo	alternativoj	prononco
+level	iru kaj lernu	gå och lär dig	go and learn	grupo	alternativoj	prononco
+level	mi sidis	Jag satt	I sat	grupo	alternativoj	prononco
+level	en mia ĉambro	i mitt rum	in my room	grupo	alternativoj	prononco
+level	sidis en mia ĉambro	satt i mitt rum	sat in my room	grupo	alternativoj	prononco
+level	nek lerni nek legi	varken lära sig eller läsa	neither learn nor read	grupo	alternativoj	prononco
+level	sed mi povis nek lerni nek legi	men jag kunde varken lära mig eller läsa	but I could neither learn nor read	grupo	alternativoj	prononco
+level	miaj pensoj	mina tankar	my thoughts	grupo	alternativoj	prononco
+level	ĉe ludo	vid ett spel	at a game	grupo	alternativoj	prononco
+level	ludo kun miaj amikoj	spel med mina vänner	game with my friends	grupo	alternativoj	prononco
+level	ĉe sporto	på sporten	at sport	grupo	alternativoj	prononco
+level	al mi mem	till mig själv	to myself	grupo	alternativoj	prononco
+level	diris al mi mem	sa till mig själv	said to myself	grupo	alternativoj	prononco
+level	tiom malsaĝa	så dumt	so stupid	grupo	alternativoj	prononco
+level	ĉu mi estas tiom malsaĝa?	är jag så dum?	am I that stupid?	grupo	alternativoj	prononco
+level	kvankam mi lernis multe	även om jag lärde mig mycket	although I learned a lot	grupo	alternativoj	prononco
+level	la patrino eniris	modern gick in	the mother entered	grupo	alternativoj	prononco
+level	miaj vortoj	mina ord	my words	grupo	alternativoj	prononco
+level	kaj aŭdis miajn vortojn	och hörde mina ord	and heard my words	grupo	alternativoj	prononco
+level	ŝi tuj respondis	svarade hon genast	she answered immediately	grupo	alternativoj	prononco
+level	ne, mia kara	Nej min kära	no, my dear	grupo	alternativoj	prononco
+level	vi ne estas malsaĝa	du är inte dum	you are not stupid	grupo	alternativoj	prononco
+level	la problemo estas, ke ~	problemet är att ~	the problem is that ~	grupo	alternativoj	prononco
+level	ke vi devas lerni	som du måste lära dig	that you must learn	grupo	alternativoj	prononco
+level	devas lerni multe pli	måste lära sig mycket mer	must learn much more	grupo	alternativoj	prononco
+level	tiam vi ne havos	då har du inte	then you will not have	grupo	alternativoj	prononco
+level	malbonaj notoj	dåliga betyg	bad grades	grupo	alternativoj	prononco
+level	havos nur malbonajn notojn	kommer bara ha dåliga betyg	will have only bad grades	grupo	alternativoj	prononco
+level	ankaŭ nun	också nu	also now	grupo	alternativoj	prononco
+level	mi ne havas ilin	Jag har dem inte	I don't have them	grupo	alternativoj	prononco
+level	mi havas bonan noton	Jag har ett bra betyg	I have a good grade	grupo	alternativoj	prononco
+level	pri muziko	om musik	about music	grupo	alternativoj	prononco
+level	bonan noton pri muziko	en bra not om musik	a good note on music	grupo	alternativoj	prononco
+level	la patrino subite ekridis	mamman brast plötsligt ut i skratt	the mother suddenly burst out laughing	grupo	alternativoj	prononco
+level	tio plibeligis ~	som förskönade ~	that beautified ~	grupo	alternativoj	prononco
+level	mian tagon	min dag	my day	grupo	alternativoj	prononco
+level	plibeligis mian tagon	gjorde min dag	made my day	grupo	alternativoj	prononco
+level	sed tamen restis	men blev ändå kvar	but still remained	grupo	alternativoj	prononco
+level	sed la problemo tamen restis	men problemet kvarstod	but the problem still remained	grupo	alternativoj	prononco
+level	kilogramo da ~	ett kilo ~	a kilogram of ~	grupo	alternativoj	prononco
+level	kilogramo da sukero	ett kilo socker	a kilogram of sugar	grupo	alternativoj	prononco
+level	glaso da ~	ett glas ~	a glass of ~	grupo	alternativoj	prononco
+level	glaso da akvo	ett glas vatten	a glass of water	grupo	alternativoj	prononco
+level	multe da ~	en hel del ~	a lot of ~	grupo	alternativoj	prononco
+level	multe da ideoj	massor av idéer	lots of ideas	grupo	alternativoj	prononco
+level	deteni sin	att hålla tillbaka	to hold back	grupo	alternativoj	prononco
+level	ordigis ĉion	fixade allt	sorted everything out	grupo	alternativoj	prononco
+level	transdonis al li	överlämnade till honom	handed over to him	grupo	alternativoj	prononco
+level	mi petas	jag frågar	I'm asking	grupo	alternativoj	prononco
+level	glason da kafo	ett glas kaffe	a glass of coffee	grupo	alternativoj	prononco
+level	kaj iom da akvo	och lite vatten	and some water	grupo	alternativoj	prononco
+level	mi petas glason da kafo	Jag skulle vilja ha ett glas kaffe	I would like a glass of coffee	grupo	alternativoj	prononco
+level	mi petas tason da teo	Jag skulle vilja ha en kopp te	I would like a cup of tea	grupo	alternativoj	prononco
+level	doloris lin	skada honom	hurt him	grupo	alternativoj	prononco
+level	la kapo doloris lin	hans huvud gjorde ont	his head hurt	grupo	alternativoj	prononco
+level	li malsaniĝis	han blev sjuk	he fell ill	grupo	alternativoj	prononco
+level	ŝatas esti bela	gillar att vara vacker	likes to be beautiful	grupo	alternativoj	prononco
+level	ŝi beligis sian vizaĝon	hon förskönade sitt ansikte	she beautified her face	grupo	alternativoj	prononco
+level	la knabo ŝatas esti bela	pojken gillar att vara snygg	the boy likes to be pretty	grupo	alternativoj	prononco
+level	pro tio ŝi beligis ĝin	därför förskönade hon den	therefore she beautified it	grupo	alternativoj	prononco
+level	post la tagmanĝo	efter lunch	after lunch	grupo	alternativoj	prononco
+level	purigi la kuirejon	att städa köket	to clean the kitchen	grupo	alternativoj	prononco
+level	kiu purigos la kuirejon?	vem ska städa köket?	who will clean the kitchen?	grupo	alternativoj	prononco
+level	volas trinki	vill dricka	wants to drink	grupo	alternativoj	prononco
+level	kion vi volas trinki?	vad vill du dricka	what do you want to drink	grupo	alternativoj	prononco
+level	trinki teon	att dricka te	to drink tea	grupo	alternativoj	prononco
+level	iom da akvo	lite vatten	a little of water	grupo	alternativoj	prononco
+level	ĉu vi volas nenion?	vill du ingenting?	do you want nothing?	grupo	alternativoj	prononco
+level	tiel subite	så plötsligt	so suddenly	grupo	alternativoj	prononco
+level	kial vi decidis ~ ?	varför bestämde du dig ~ ?	why did you decide ~ ?	grupo	alternativoj	prononco
+level	kial vi tiel subite decidis ~ ?	varför bestämde du dig ~ så plötsligt?	why did you decide ~ so suddenly?	grupo	alternativoj	prononco
+level	via ĉambro	ditt rum	your room	grupo	alternativoj	prononco
+level	via ĉambreto	ditt lilla rum	your little room	grupo	alternativoj	prononco
+level	vian ĉambreton	till ditt lilla rum	to your little room	grupo	alternativoj	prononco
+level	renovigi vian ĉambreton	att renovera ditt lilla rum	to renovate your little room	grupo	alternativoj	prononco
+level	decidis renovigi vian ĉambreton	bestämde mig för att renovera ditt lilla rum	decided to renovate your little room	grupo	alternativoj	prononco
+level	al kiu	till vem	to whom	grupo	alternativoj	prononco
+level	vi donis ~	du gav ~	you gave ~	grupo	alternativoj	prononco
+level	al kiu vi donis ~ ?	till vem gav du ~ ?	to whom did you give ~ ?	grupo	alternativoj	prononco
+level	puraj glasoj	rena glasögon	clean glasses	grupo	alternativoj	prononco
+level	vi donis la purajn glasojn	du gav de rena glasen	you gave the clean glasses	grupo	alternativoj	prononco
+level	la puraj glasoj por la vino	de rena glasen till vinet	the clean glasses for the wine	grupo	alternativoj	prononco
+level	kontraŭ kiu	mot vem	against whom	grupo	alternativoj	prononco
+level	via sportklubo	din idrottsförening	your sports club	grupo	alternativoj	prononco
+level	ludas kontraŭ ~	spelar mot ~	plays against ~	grupo	alternativoj	prononco
+level	antaŭ du semajnoj	två veckor sedan	two weeks ago	grupo	alternativoj	prononco
+level	kontraŭ kiu via sportklubo ludis?	vem spelade din idrottsförening mot?	who did your sports club play against?	grupo	alternativoj	prononco
+level	ĉu vi vidas ~ ?	ser du ~ ?	do you see ~ ?	grupo	alternativoj	prononco
+level	ĉu vi ofte vidas ~ ?	ser du ofta ~ ?	do you often see ~ ?	grupo	alternativoj	prononco
+level	ofte vidas la policiston	ser ofta polisen	often see the policeman	grupo	alternativoj	prononco
+level	tiu, kiu loĝas en ~	den som bor i ~	the one who lives in ~	grupo	alternativoj	prononco
+level	loĝas en la loĝejo	bor på boendet	lives in the lodging place	grupo	alternativoj	prononco
+level	la loĝejo super vi	bostaden ovanför dig	the dwelling place above you	grupo	alternativoj	prononco
+level	vidas la policiston, kiu loĝas en ~	ser polisen som bor i ~	sees the police officer who lives in ~	grupo	alternativoj	prononco
+level	plano pri veturado	körplan	driving plan	grupo	alternativoj	prononco
+level	volis vojaĝi	ville resa	wanted to travel	grupo	alternativoj	prononco
+level	vojaĝi al alia lando	att resa till ett annat land	to travel to another country	grupo	alternativoj	prononco
+level	en libertempo	på fritiden	in free time	grupo	alternativoj	prononco
+level	ili decidis iri	de bestämde sig för att gå	they decided to go	grupo	alternativoj	prononco
+level	decidis iri al Italio	bestämde sig för att åka till Italien	decided to go to Italy	grupo	alternativoj	prononco
+level	malnovaj urboj	gamla städer	old cities	grupo	alternativoj	prononco
+level	lando kun malnovaj urboj	ett land med gamla städer	a country with old cities	grupo	alternativoj	prononco
+level	aliaj belaĵoj	andra skönheter	other beauties	grupo	alternativoj	prononco
+level	kaj aliaj belaĵoj	och andra skönheter	and other beauties	grupo	alternativoj	prononco
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	ett vackert land med gamla städer och andra skönheter	a beautiful country with old cities and other beauties	grupo	alternativoj	prononco
+level	ili estis feliĉaj	De var glada	they were happy	grupo	alternativoj	prononco
+level	kie estas ~ ?	var är ~?	where is ~ ?	grupo	alternativoj	prononco
+level	kie estas mia vestaĵo?	var är mina kläder	where are my clothes	grupo	alternativoj	prononco
+level	ŝi demandis ~	frågade hon ~	she asked ~	grupo	alternativoj	prononco
+level	ni ne forgesu kunporti ~	låt oss inte glömma att ta med ~	let's not forget to bring ~	grupo	alternativoj	prononco
+level	kunporti la libron	att ta med dig boken	to take the book with you	grupo	alternativoj	prononco
+level	libro por lerni Esperanton	en bok för att lära sig esperanto	a book to learn Esperanto	grupo	alternativoj	prononco
+level	kunporti libron por lerni	att bära en bok för att lära sig	to carry a book to learn	grupo	alternativoj	prononco
+level	ni povas komenci ~	vi kan börja ~	we can start ~	grupo	alternativoj	prononco
+level	en la vagonaro	i tåget	in the train	grupo	alternativoj	prononco
+level	jam en la vagonaro	redan i tåget	already in the train	grupo	alternativoj	prononco
+level	ni nenion faros	vi kommer inte att göra någonting	we won't do anything	grupo	alternativoj	prononco
+level	per aŭto	med bil	by car	grupo	alternativoj	prononco
+level	ni veturos per ~	vi kör förbi ~	we will drive by ~	grupo	alternativoj	prononco
+level	veturos per aŭto	ska köra bil	will drive a car	grupo	alternativoj	prononco
+level	mi havas sekreton	jag har en hemlighet	I have a secret	grupo	alternativoj	prononco
+level	mia riĉa onklo	min rike farbror	my rich uncle	grupo	alternativoj	prononco
+level	mia deziro	min önskan	my wish	grupo	alternativoj	prononco
+level	plenumis mian deziron	uppfyllde min önskan	fulfilled my wish	grupo	alternativoj	prononco
+level	donis al ni	gav oss	gave us	grupo	alternativoj	prononco
+level	sian aŭton	hans bil	his car	grupo	alternativoj	prononco
+level	kaj donis al ni sian aŭton	och gav oss sin bil	and gave us his car	grupo	alternativoj	prononco
+level	por uzo	för användning	for use	grupo	alternativoj	prononco
+level	ĝi staras antaŭ ~	det står framför ~	it stands before ~	grupo	alternativoj	prononco
+level	staras antaŭ la domo	står framför huset	stands in front of the house	grupo	alternativoj	prononco
+level	mi devas diri ~	Jag måste säga ~	I have to say ~	grupo	alternativoj	prononco
+level	nenion diru	säg ingenting	don't say anything	grupo	alternativoj	prononco
+level	ni eksidu	låt oss sitta ner	let's sit down	grupo	alternativoj	prononco
+level	eksidu en la aŭton	gå in i bilen	get in the car	grupo	alternativoj	prononco
+level	veturi al ~	att köra till ~	to drive to ~	grupo	alternativoj	prononco
+level	kaj veturu al Italio	och kör till Italien	and drive to Italy	grupo	alternativoj	prononco
+level	sidis en la aŭto	satt i bilen	sat in the car	grupo	alternativoj	prononco
+level	ankaŭ la vestaĵoj	även kläderna	also the clothes	grupo	alternativoj	prononco
+level	~ estis en la aŭto	~ var i bilen	~ was in the car	grupo	alternativoj	prononco
+level	ankoraŭ sidadis kaj atendis	satt fortfarande och väntade	still sat and waited	grupo	alternativoj	prononco
+level	sed li atendis	men han väntade	but he waited	grupo	alternativoj	prononco
+level	kial ni ne ~ ?	varför gör vi inte ~ ?	why don't we ~ ?	grupo	alternativoj	prononco
+level	kial ni ne ekveturas?	varför börjar vi inte köra?	why don't we start driving?	grupo	alternativoj	prononco
+level	ankaŭ mi havas ~	Jag har ~ också	I have ~ too	grupo	alternativoj	prononco
+level	veturigus la aŭton	skulle köra bilen	would drive the car	grupo	alternativoj	prononco
+level	sed mi ne scias ~	men jag vet inte ~	but I don't know ~	grupo	alternativoj	prononco
+level	mi neniam lernis tion	Det lärde jag mig aldrig	I never learned that	grupo	alternativoj	prononco
+level	mi kredus ~	Jag skulle tro ~	I would believe ~	grupo	alternativoj	prononco
+level	se mi estus sana	om jag var frisk	if I were healthy	grupo	alternativoj	prononco
+level	mi estus tre feliĉa	jag skulle bli väldigt glad	I would be very happy	grupo	alternativoj	prononco
+level	kvazaŭ vi estus riĉulo	som om du vore rik	as if you were rich	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ vi estus riĉulo	du sitter där som om du vore en rik man	you sit there as if you were a rich man	grupo	alternativoj	prononco
+level	kvazaŭa lernejo	påstådd skola	alleged school	grupo	alternativoj	prononco
+level	kvazaŭ riĉulo	som en rik man	like a rich man	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ riĉulo	du sitter där som en rik man	you sit there like a rich man	grupo	alternativoj	prononco
+level	tiom da mono	så mycket pengar	so much money	grupo	alternativoj	prononco
+level	tiom da mono kiom da ideoj	lika mycket pengar som idéer	as much money as ideas	grupo	alternativoj	prononco
+level	se mi havus tiom da mono	om jag hade så mycket pengar	if I had that much money	grupo	alternativoj	prononco
+level	mi vojaĝadus	jag skulle resa	I would travel	grupo	alternativoj	prononco
+level	ĉirkaŭ la mondo	runt världen	around the world	grupo	alternativoj	prononco
+level	en ĉiu vortaro	i varje ordbok	in every dictionary	grupo	alternativoj	prononco
+level	mankas io	något saknas	something is missing	grupo	alternativoj	prononco
+level	mankas kelkaj vortoj	några ord saknas	some words are missing	grupo	alternativoj	prononco
+level	homo, kiu longe parolis	en man som talade länge	a man who spoke at length	grupo	alternativoj	prononco
+level	ĉe la manĝotablo	vid matbordet	at the dining table	grupo	alternativoj	prononco
+level	homo, kiu rakontas, restos malsata	en person som berättar förblir hungrig	a person who tells will remain hungry	grupo	alternativoj	prononco
+level	rakontadas ĉe la manĝo tablo	berättar hela tiden vid matbordet	keeps telling at the dining table	grupo	alternativoj	prononco
+level	li devis atenti ~	han var tvungen att uppmärksamma ~	he had to pay attention to ~	grupo	alternativoj	prononco
+level	ne rajtis ~	fick inte ~	was not allowed to ~	grupo	alternativoj	prononco
+level	rajtis resti	fick stanna	was allowed to stay	grupo	alternativoj	prononco
+level	ne rajtis longe resti	fick inte stanna länge	was not allowed to stay long	grupo	alternativoj	prononco
+level	resti ekstere en pluvo	att stanna ute i regnet	to stay out in the rain	grupo	alternativoj	prononco
+level	tial li malvarmumis	det var därför han blev förkyld	that's why he caught a cold	grupo	alternativoj	prononco
+level	li havas sian klaran ideon	han har sin egen tydliga idé	he has his own clear idea	grupo	alternativoj	prononco
+level	sed li kredos ĉion	men han kommer att tro på allt	but he will believe everything	grupo	alternativoj	prononco
+level	ĉion, kion vi diros	vad du än säger	whatever you say	grupo	alternativoj	prononco
+level	kvazaŭ vi estus lia edzino	som om du vore hans fru	as if you were his wife	grupo	alternativoj	prononco
+level	viaj gepatroj	dina föräldrar	your parents	grupo	alternativoj	prononco
+level	ĝojigi viajn gepatrojn	för att göra dina föräldrar lyckliga	to make your parents happy	grupo	alternativoj	prononco
+level	kio povus ĝojigi ~ ?	vad skulle kunna glädja ~ ?	what could please ~ ?	grupo	alternativoj	prononco
+level	kio povus plej ĝojigi viajn gepatrojn?	vad kan göra dina föräldrar mest lyckliga?	what could make your parents the most happy?	grupo	alternativoj	prononco
+level	post la lernado	efter inlärningen	after the learning	grupo	alternativoj	prononco
+level	almenaŭ post la lernado	åtminstone efter inlärningen	at least after the learning	grupo	alternativoj	prononco
+level	en la urbocentron	in till centrum	into the city center	grupo	alternativoj	prononco
+level	se vi irus kun mi	om du vill följa med mig	if you would go with me	grupo	alternativoj	prononco
+level	se vi irus kun mi en la urbocentron	om du vill åka till centrum med mig	if you would go downtown with me	grupo	alternativoj	prononco
+level	kien vi dezirus vojaĝi?	Vart skulle du vilja resa?	where would you like to travel?	grupo	alternativoj	prononco
+level	se vi havus ~	om du hade ~	if you had ~	grupo	alternativoj	prononco
+level	sufiĉe da mono	tillräckligt med pengar	enough money	grupo	alternativoj	prononco
+level	se vi havus sufiĉe da mono kaj tempo	om du hade tillräckligt med pengar och temp	if you had enough money and temp	grupo	alternativoj	prononco
+level	ĉu vi planas ~ ?	planerar du att ~ ?	are you planning to ~ ?	grupo	alternativoj	prononco
+level	planas veturi al Parizo	planerar att resa till Paris	plans to travel to Paris	grupo	alternativoj	prononco
+level	veturi per aŭto	att köra med en axuto	to drive with an axuto	grupo	alternativoj	prononco
+level	multe pli bone	mycket bättre	much better	grupo	alternativoj	prononco
+level	ŝajnas multe pli bone	verkar mycket bättre	seems much better	grupo	alternativoj	prononco
+level	per vagonaro	med tåg	by train	grupo	alternativoj	prononco
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	eller verkar det inte vara mycket bättre?	or doesn't it seem to be much better?	grupo	alternativoj	prononco
+level	diversaj homoj	olika människor	various people	grupo	alternativoj	prononco
+level	kial homoj klarigas diversmaniere?	varför förklarar människor på olika sätt?	why do people explain in different ways?	grupo	alternativoj	prononco
+level	samaj ideoj	samma idéer	same ideas	grupo	alternativoj	prononco
+level	klarigas samajn ideojn	förklarar samma idéer	explains the same ideas	grupo	alternativoj	prononco
+level	familianoj kunvenas	familjemedlemmar träffas	family members get together	grupo	alternativoj	prononco
+level	kiel rapide	hur snabbt	how quickly	grupo	alternativoj	prononco
+level	tagoj pasas	dagar går	days pass	grupo	alternativoj	prononco
+level	kiel rapide pasas tagoj!	vad fort dagarna går!	how quickly the days pass!	grupo	alternativoj	prononco
+level	morgaŭ estos ~	imorgon kommer att vara ~	tomorrow will be ~	grupo	alternativoj	prononco
+level	la naskiĝtago de via patro	din fars födelsedag	your father's birthday	grupo	alternativoj	prononco
+level	kelkaj familianoj	flera familjemedlemmar	several family members	grupo	alternativoj	prononco
+level	alvenos kelkaj familianoj	flera familjemedlemmar kommer	several family members will come	grupo	alternativoj	prononco
+level	kaj geamikoj	och vänner	and friends	grupo	alternativoj	prononco
+level	ĉu vi bonvolus ~ ?	skulle du snälla ~ ?	would you please ~ ?	grupo	alternativoj	prononco
+level	ĉu vi bonvolus iom helpi?	kan du snälla hjälpa till lite?	could you please help a little?	grupo	alternativoj	prononco
+level	iomete da tempo	en liten stund	a little while	grupo	alternativoj	prononco
+level	trovu iomete da tempo	hitta lite tid	find a little time	grupo	alternativoj	prononco
+level	por ordigi vian ĉambron	att städa ditt rum	to tidy your room	grupo	alternativoj	prononco
+level	almenaŭ por ordigi vian ĉambron	åtminstone för att städa ditt rum	at least to tidy your room	grupo	alternativoj	prononco
+level	mi ŝatus ~	Jag skulle vilja ~	I would like ~	grupo	alternativoj	prononco
+level	mi ŝatus kuiri ion	Jag skulle vilja laga något	I would like to cook something	grupo	alternativoj	prononco
+level	ion bonan	någonting bra	something good	grupo	alternativoj	prononco
+level	kuiri ion bonan	laga något gott	cook something good	grupo	alternativoj	prononco
+level	por la naskiĝ-taga kuko	till födelsedagstårtan	for the birthday cake	grupo	alternativoj	prononco
+level	mankas lakto	saknar mjölk	is lacking of milk	grupo	alternativoj	prononco
+level	en la hejmo	i hemmet	in the home	grupo	alternativoj	prononco
+level	necesas havigi ~	det är nödvändigt att införskaffa ~	it is necessary to procure ~	grupo	alternativoj	prononco
+level	iom da manĝaĵo	lite mat	some food	grupo	alternativoj	prononco
+level	el vendejo	från en butik	from a store	grupo	alternativoj	prononco
+level	havigi iom da manĝaĵo el vendejo	för att få lite mat från ett gömställe	to get some food from a hideout	grupo	alternativoj	prononco
+level	mi aĉetumos	Jag ska shoppa	I will do shopping	grupo	alternativoj	prononco
+level	por la naskiĝtago	till födelsedagen	for the birthday	grupo	alternativoj	prononco
+level	anstataŭ sidi kaj manĝegi	istället för att sitta och äta	instead of sitting and eating	grupo	alternativoj	prononco
+level	interesaj homoj	intressanta människor	interesting people	grupo	alternativoj	prononco
+level	kun neinteresaj familianoj	med ointressanta familjemedlemmar	with uninteresting family members	grupo	alternativoj	prononco
+level	mi ŝatus ekskursi	Jag skulle vilja åka på picknick	I would like to go on a picnic	grupo	alternativoj	prononco
+level	kun klubanoj	med klubbmedlemmar	with club members	grupo	alternativoj	prononco
+level	kun kiuj klubanoj?	med vilka klubbmedlemmar?	with which club members?	grupo	alternativoj	prononco
+level	diris la patro	sa fadern	said the father	grupo	alternativoj	prononco
+level	ia papero, iaj paperoj	någon sorts papper, någon sorts papper	some kind of paper, some kind of papers	grupo	alternativoj	prononco
+level	en paperujo	i en portfölj	in a briefcase	grupo	alternativoj	prononco
+level	en paperujon	i en papperskorg	into a paper bin	grupo	alternativoj	prononco
+level	ĵetis paperojn en paperujon	kastade papper i en papperskorg	threw papers into a paper bin	grupo	alternativoj	prononco
+level	ĵetis iajn paperojn en paperujon	kastade några papper i en papperskorg	threw some papers into a paper bin	grupo	alternativoj	prononco
+level	morgaŭ frue	tidigt i morgon	early tomorrow	grupo	alternativoj	prononco
+level	anoj de mia sporta klubo	medlemmar i min idrottsklubb	members of my sports club	grupo	alternativoj	prononco
+level	kara mia	min kära	my dear	grupo	alternativoj	prononco
+level	ĉu ĝuste ~ ?	är det rätt?	is that right?	grupo	alternativoj	prononco
+level	vi devas foresti	du måste vara frånvarande	you must be absent	grupo	alternativoj	prononco
+level	ĉu vi ne ~ ?	gör du inte ~ ?	don't you ~ ?	grupo	alternativoj	prononco
+level	viaj samklubanoj	dina klubbmedlemmar	your fellow club members	grupo	alternativoj	prononco
+level	intervidiĝas kun viaj samklubanoj	ser varandra med dina klubbmedlemmar	sees each other with your fellow club members	grupo	alternativoj	prononco
+level	trifoje semajne	tre gånger i veckan	three times a week	grupo	alternativoj	prononco
+level	ĉu mi rajtas ~ ?	får jag ~ ?	may I ~ ?	grupo	alternativoj	prononco
+level	rajtas ion proponi	har rätt att föreslå något	has the right to propose something	grupo	alternativoj	prononco
+level	mi kunmanĝos kun la familianoj	Jag ska äta med familjemedlemmarna	I will eat with the family members	grupo	alternativoj	prononco
+level	sed en la dua parto	men i andra delen	but in the second part	grupo	alternativoj	prononco
+level	mi foriros kun miaj geamikoj	Jag kommer att gå med mina vänner	I will go with my friends	grupo	alternativoj	prononco
+level	parolos pri ~	kommer att prata om ~	will talk about ~	grupo	alternativoj	prononco
+level	malsukcesa veturado	en misslyckad enhet	a failed drive	grupo	alternativoj	prononco
+level	certe parolos pri la malsukcesa veturado	kommer definitivt att prata om den misslyckade enheten	will definitely talk about the failed drive	grupo	alternativoj	prononco
+level	post la kuko	efter tårtan	after the cake	grupo	alternativoj	prononco
+level	mi ne plu volas tion	Det vill jag inte längre	I don't want that anymore	grupo	alternativoj	prononco
+level	volas tion aŭdi	vill höra det	wants to hear that	grupo	alternativoj	prononco
+level	kial ni ne havas ~ ?	varför har vi inte ~ ?	why don't we have ~ ?	grupo	alternativoj	prononco
+level	ideoriĉa onklo	en idérik farbror	an idea-rich uncle	grupo	alternativoj	prononco
+level	havas iun ideoriĉan onklon	har någon idérik farbror	has some idea rich uncle	grupo	alternativoj	prononco
+level	en mia familio	i min familj	in my family	grupo	alternativoj	prononco
+level	la patrino ridetis	mamman log	the mother smiled	grupo	alternativoj	prononco
+level	je liaj vortoj	på hans ord	at his words	grupo	alternativoj	prononco
+level	ŝi scias, ke ~	hon vet att ~	she knows that ~	grupo	alternativoj	prononco
+level	iom tro parolas	pratar lite för mycket	talks a little too much	grupo	alternativoj	prononco
+level	ne sufiĉas nur ~	det räcker inte bara ~	it's not enough just ~	grupo	alternativoj	prononco
+level	riĉeco de la ideoj	rikedom av idéer	wealth of ideas	grupo	alternativoj	prononco
+level	necesas ankaŭ ~	~ behövs också	~ is also needed	grupo	alternativoj	prononco
+level	plena monujo por realigi ĝin	en full plånbok för att få det att hända	a full wallet to make it happen	grupo	alternativoj	prononco
+level	la patrino daŭrigis ~	mamman fortsatte ~	the mother continued ~	grupo	alternativoj	prononco
+level	post iom da silento	efter lite tystnad	after a little silence	grupo	alternativoj	prononco
+level	antaŭ kelkaj minutoj	några minuter sedan	a few minutes ago	grupo	alternativoj	prononco
+level	Ana telefonis, ke ŝi ~	Ana kallade det hon ~	Ana called that she ~	grupo	alternativoj	prononco
+level	ankaŭ ŝi vizitos nin	hon kommer också att besöka oss	she will also visit us	grupo	alternativoj	prononco
+level	dolĉa kuko	en söt tårta	a sweet cake	grupo	alternativoj	prononco
+level	ŝi tre ŝatas dolĉan kukon	hon gillar verkligen söt tårta	she really likes sweet cake	grupo	alternativoj	prononco
+level	atentas por ne dikiĝi	är noga med att inte bli tjock	is careful not to get fat	grupo	alternativoj	prononco
+level	kvankam ŝi atentos	även om hon kommer att vara uppmärksam	although she will pay attention	grupo	alternativoj	prononco
+level	tuj ŝanĝis la opinion	ändrade genast uppfattning	immediately changed the mind	grupo	alternativoj	prononco
+level	dum la ekskurso	under utflykten	during the excursion	grupo	alternativoj	prononco
+level	sen ŝi	utan henne	without her	grupo	alternativoj	prononco
+level	li estus tre soleca	han skulle vara väldigt ensam	he would be very lonely	grupo	alternativoj	prononco
+level	mi tamen pasigos	Jag kommer dock att passera	I will pass though	grupo	alternativoj	prononco
+level	mi tamen pasigos la morgaŭan tagon hejme	Jag kommer att spendera morgondagen hemma dock	I will spend tomorrow at home though	grupo	alternativoj	prononco
+level	en juneco	i ungdomen	in youth	grupo	alternativoj	prononco
+level	oni havas	en har	one has	grupo	alternativoj	prononco
+level	havas ankaŭ belecon	har också skönhet	also has beauty	grupo	alternativoj	prononco
+level	malsimplaj laboroj	komplicerade jobb	complicated jobs	grupo	alternativoj	prononco
+level	malsimplajn laborojn	komplicerade jobb (objektiv)	complicated jobs (objective)	grupo	alternativoj	prononco
+level	devus plisimpligi	bör förenkla	should simplify	grupo	alternativoj	prononco
+level	en tiu aĝo	i den åldern	at that age	grupo	alternativoj	prononco
+level	li jam fariĝis ~	han har redan blivit ~	he has already become ~	grupo	alternativoj	prononco
+level	estro de la sporta klubo	chef för idrottsföreningen	head of the sports club	grupo	alternativoj	prononco
+level	monon oni metas	man lägger pengar	one puts money	grupo	alternativoj	prononco
+level	en monujon	i en plånbok	into a wallet	grupo	alternativoj	prononco
+level	metas en monujon	lägger i en handväska	puts in a purse	grupo	alternativoj	prononco
+level	sekvu la ekzemplojn	följ exemplen	follow the examples	grupo	alternativoj	prononco
+level	de la bonaj familianoj	från de goda familjemedlemmarna	from the good family members	grupo	alternativoj	prononco
+level	ĉu amikeco pli feliĉigas?	gör vänskap dig lyckligare?	does friendship make you happier?	grupo	alternativoj	prononco
+level	feliĉigas vin	gör dig glad	makes you happy	grupo	alternativoj	prononco
+level	ol la amo	än kärleken	than the love	grupo	alternativoj	prononco
+level	kiel ofte vi ~ ?	hur ofta gör du ~ ?	how often do you ~ ?	grupo	alternativoj	prononco
+level	vi skribas leterojn al ~	du skriver brev till ~	you write letters to ~	grupo	alternativoj	prononco
+level	skrivas leterojn al viaj amikinoj	skriver brev till dina tjejkompisar	writes letters to your girl friends	grupo	alternativoj	prononco
+level	viaj amikinoj en Italio	dina tjejkompisar i Italien	your girl friends in Italy	grupo	alternativoj	prononco
+level	la rilato inter vi kaj via instruisto	relationen mellan dig och din lärare	the relation between you and your teacher	grupo	alternativoj	prononco
+level	ĉu la rilato ŝanĝiĝis?	har förhållandet förändrats?	has the relationship changed?	grupo	alternativoj	prononco
+level	ĉu vi jam scias ~ ?	vet du redan ~ ?	do you already know ~ ?	grupo	alternativoj	prononco
+level	sufiĉe bone	ganska bra	quite well	grupo	alternativoj	prononco
+level	estis vespero en ~	det var kväll i ~	it was evening in ~	grupo	alternativoj	prononco
+level	centoj da homoj	hundratals människor	hundreds of people	grupo	alternativoj	prononco
+level	plenigas la placon	fyller torget	fills the square	grupo	alternativoj	prononco
+level	junuloj kaj militistoj	unga män och soldater	young men and soldiers	grupo	alternativoj	prononco
+level	maristoj de sur la ŝipoj	sjömän från fartygen	sailors from the ships	grupo	alternativoj	prononco
+level	elstara sinjorino	enastående dam	outstanding lady	grupo	alternativoj	prononco
+level	elstaraj sinjorinoj	enastående damer	outstanding ladies	grupo	alternativoj	prononco
+level	alilandaj vojaĝantoj	utländska resenärer	foreign travelers	grupo	alternativoj	prononco
+level	ĉiuj moviĝas al urbomezo	alla flyttar till centrum	everyone is moving to the city center	grupo	alternativoj	prononco
+level	iom plue	lite längre	a little further	grupo	alternativoj	prononco
+level	ne malproksime de la maro	inte långt från havet	not far from the sea	grupo	alternativoj	prononco
+level	troviĝis malgranda placo	det fanns ett litet torg	there was a small square	grupo	alternativoj	prononco
+level	iom plue sed ne malproksime	lite längre men inte långt	a little further but not far	grupo	alternativoj	prononco
+level	fine de ĝi	i slutet av det	at the end of it	grupo	alternativoj	prononco
+level	proksime de la maro	nära havet	near the sea	grupo	alternativoj	prononco
+level	proksime staris homo	en man stod i närheten	a man stood nearby	grupo	alternativoj	prononco
+level	laŭ la vestaĵo	enligt kläderna	according to the clothing	grupo	alternativoj	prononco
+level	oni facile scii ~	man kan lätt veta ~	one may know easily ~	grupo	alternativoj	prononco
+level	oni povis ekscii, ke ~	det var möjligt att ta reda på att ~	it was possible to find out that ~	grupo	alternativoj	prononco
+level	gondolisto de iu riĉulo	en rik mans gondolier	a rich man's gondolier	grupo	alternativoj	prononco
+level	povis ekscii, ke li estas gondolisto	kunde få reda på att han var en gondolier	could find out that he was a gondolier	grupo	alternativoj	prononco
+level	li rigardis ~	han såg ~	he looked ~	grupo	alternativoj	prononco
+level	rigardis la ĝojan hommulton	tittade på den glada publiken	looked at the joyful crowd	grupo	alternativoj	prononco
+level	rideto lumigis lian vizaĝon	ett leende lyste upp hans ansikte	a smile lit up his face	grupo	alternativoj	prononco
+level	kiam li ekvidis mariston	när han såg en sjöman	when he saw a sailor	grupo	alternativoj	prononco
+level	la mariston, kiu alvenis	sjömannen som anlände	the sailor who arrived	grupo	alternativoj	prononco
+level	la flanko de la maro	sidan av havet	the side of the sea	grupo	alternativoj	prononco
+level	alvenis el la flanko de la maro	anlände från sidan av havet	arrived from the side of the sea	grupo	alternativoj	prononco
+level	ĉu tio estas vi, Stefano?	är det du, Stephen?	is that you, Stephen?	grupo	alternativoj	prononco
+level	ekkriis la gondolisto	utbrast gondolieren	exclaimed the gondolier	grupo	alternativoj	prononco
+level	ĉiuj diras, ke ~	alla säger att ~	everyone says that ~	grupo	alternativoj	prononco
+level	en la manojn de la Turkoj	i händerna på turkarna	into the hands of the Turks	grupo	alternativoj	prononco
+level	ke vi falis en la manojn de la Turkoj	att du föll i turkarnas händer	that you fell into the hands of the Turks	grupo	alternativoj	prononco
+level	ni renkontis unu	vi träffade en	we met one	grupo	alternativoj	prononco
+level	el niaj ŝipoj	från våra fartyg	from our ships	grupo	alternativoj	prononco
+level	ĝi sekvis nin	den följde oss	it followed us	grupo	alternativoj	prononco
+level	dum pli ol unu horo	i mer än en timme	for more than an hour	grupo	alternativoj	prononco
+level	sed ne estas facile iri ~	men det är inte lätt att gå ~	but it is not easy to go ~	grupo	alternativoj	prononco
+level	iri pli rapide ol nia ŝipo	att gå snabbare än vårt skepp	to go faster than our ship	grupo	alternativoj	prononco
+level	kiaj novaĵoj estas tie ĉi?	vilka nyheter är här?	what news is here?	grupo	alternativoj	prononco
+level	tie ĉi en Venecio	här i Venedig	here in Venice	grupo	alternativoj	prononco
+level	nenio interesa	inget intressant	nothing interesting	grupo	alternativoj	prononco
+level	nur granda malfeliĉo	bara en stor olycka	just a big misfortune	grupo	alternativoj	prononco
+level	ĉu vi konas Pietron?	känner du Pietro?	do you know Pietro?	grupo	alternativoj	prononco
+level	mi konas lin	jag känner honom	I know him	grupo	alternativoj	prononco
+level	granda ŝipo subakvigis lian gondolon	ett stort skepp sänkte hans gondol	a large ship submerged his gondola	grupo	alternativoj	prononco
+level	kaj kio pri li?	och hur är det med honom?	and what about him?	grupo	alternativoj	prononco
+level	la gondolo subakviĝis	gondolen sjönk	the gondola sank	grupo	alternativoj	prononco
+level	okazis, ke ~	det hände att ~	it happened that ~	grupo	alternativoj	prononco
+level	ni troviĝis proksime	vi var nära	we were close	grupo	alternativoj	prononco
+level	ni prenis lin en nian gondolon	vi tog honom i vår gondol	we took him in our gondola	grupo	alternativoj	prononco
+level	en la sama tempo	på samma gång	at the same time	grupo	alternativoj	prononco
+level	mia estro subakviĝis	min chef drunknade	my boss drowned	grupo	alternativoj	prononco
+level	por helpi junulinon	att hjälpa en ung kvinna	to help a young woman	grupo	alternativoj	prononco
+level	junulinon, kiu preskaŭ mortis	en ung kvinna som nästan dog	a young woman who almost died	grupo	alternativoj	prononco
+level	kun sia onklo	med sin farbror	with his uncle	grupo	alternativoj	prononco
+level	preskaŭ mortis kun sia onklo	dog nästan med sin farbror	almost died with his uncle	grupo	alternativoj	prononco
+level	tie estis junulino	där var en ung kvinna	there was a young woman	grupo	alternativoj	prononco
+level	lin ni ne povis helpi	vi kunde inte hjälpa honom	we could not help him	grupo	alternativoj	prononco
+level	estis grava homo	var en viktig person	was an important person	grupo	alternativoj	prononco
+level	kio alvenigis vin en Venecion?	vad förde dig till Venedig?	what brought you to Venice?	grupo	alternativoj	prononco
+level	amiko mia	min vän	my friend	grupo	alternativoj	prononco
+level	la maristo ekrigardis	sjömannen såg upp	the sailor looked up	grupo	alternativoj	prononco
+level	rapide ekrigardis sian amikon	sneglade snabbt på sin vän	quickly glanced at his friend	grupo	alternativoj	prononco
+level	kaj komencis diri	och började säga	and began to say	grupo	alternativoj	prononco
+level	do vi scias ~	så du vet ~	so you know ~	grupo	alternativoj	prononco
+level	mi alportis ~	Jag tog med ~	I brought ~	grupo	alternativoj	prononco
+level	la gondolisto subite haltigis lin	gondoljären stoppade honom plötsligt	the gondolier suddenly stopped him	grupo	alternativoj	prononco
+level	li diris	han sa	he said	grupo	alternativoj	prononco
+level	tiam iu homo pasis	då gick en man förbi	then a man passed by	grupo	alternativoj	prononco
+level	iu homo pasis apud li	en man gick förbi honom	a man passed by him	grupo	alternativoj	prononco
+level	li ankoraŭ ne estis tridekjara	han var ännu inte trettio	he was not yet thirty	grupo	alternativoj	prononco
+level	kaj lia vizaĝo estis senkolora	och hans ansikte var färglöst	and his face was colorless	grupo	alternativoj	prononco
+level	lia iro estis certa kaj facila	hans gång var säker och lätt	his going was sure and easy	grupo	alternativoj	prononco
+level	lia vizaĝo estis malĝoja	hans ansikte var ledsen	his face was sad	grupo	alternativoj	prononco
+level	kiam li ekvidis la homon, ~	när han såg mannen, ~	when he saw the man, ~	grupo	alternativoj	prononco
+level	oni diras, ke ~	det sägs att ~	it is said that ~	grupo	alternativoj	prononco
+level	multaj gravuloj donas ~	många viktiga personer ger ~	many important people give ~	grupo	alternativoj	prononco
+level	sekreta laboro	hemligt arbete	secret work	grupo	alternativoj	prononco
+level	sekretaj laboroj	hemliga jobb	secret jobs	grupo	alternativoj	prononco
+level	donas sekretajn laborojn al li	ger honom hemliga jobb	gives secret jobs to him	grupo	alternativoj	prononco
+level	tro da sekretoj	för många hemligheter	too many secrets	grupo	alternativoj	prononco
+level	li scias tro da sekretoj	han vet för många hemligheter	he knows too many secrets	grupo	alternativoj	prononco
+level	tial ili timas	därför är de rädda	therefore they are afraid	grupo	alternativoj	prononco
+level	sendi lin en malliberejon	att skicka honom i fängelse	to send him to prison	grupo	alternativoj	prononco
+level	diris la maristo	sa sjömannen	said the sailor	grupo	alternativoj	prononco
+level	kaj dum li parolis	och som han talade	and as he spoke	grupo	alternativoj	prononco
+level	li montris la domegon	han pekade på herrgården	he pointed to the mansion	grupo	alternativoj	prononco
+level	la domego de Doĝoj	Doges herrgård	the mansion of Doges	grupo	alternativoj	prononco
+level	multaj gravuloj bezonas lian helpon	många viktiga personer behöver hans hjälp	many important people need his help	grupo	alternativoj	prononco
+level	kiom ili pagas?	hur mycket betalar de?	how much they pay?	grupo	alternativoj	prononco
+level	pagas al li	betalar honom	pays him	grupo	alternativoj	prononco
+level	pagas por unu mortigo	betalar för ett dödande	pays for one kill	grupo	alternativoj	prononco
+level	certe ne malpli ol ~	absolut inte mindre än ~	certainly not less than ~	grupo	alternativoj	prononco
+level	ol cent moneroj	än hundra mynt	than a hundred coins	grupo	alternativoj	prononco
+level	ne forgesu, ke ~	glöm inte att ~	don't forget that ~	grupo	alternativoj	prononco
+level	ke li laboras por tiuj	att han arbetar för dem	that he works for them	grupo	alternativoj	prononco
+level	por tiuj, kiuj havas sufiĉe da mono	för dem som har tillräckligt med pengar	for those who have enough money	grupo	alternativoj	prononco
+level	por pagi al li	att betala honom	to pay him	grupo	alternativoj	prononco
+level	en Venecio estas ~	i Venedig finns ~	in Venice there is ~	grupo	alternativoj	prononco
+level	tiuj aferoj	dessa saker	those things	grupo	alternativoj	prononco
+level	forgesi tiujn aferojn	att glömma dessa saker	to forget those things	grupo	alternativoj	prononco
+level	aferoj, kiujn estas pli bone forgesi	saker som är bättre att glömma	things that are better forgotten	grupo	alternativoj	prononco
+level	se vi volas trankvile manĝi	om du vill äta i fred	if you want to eat in peace	grupo	alternativoj	prononco
+level	trankvile manĝi vian panon	att äta ditt bröd i fred	to eat your bread in peace	grupo	alternativoj	prononco
+level	estis iom da silento	det blev lite tystnad	there was some silence	grupo	alternativoj	prononco
+level	kaj poste	och senare	and later	grupo	alternativoj	prononco
+level	la gondolisto denove ekparolis	gondoljären talade igen	the gondolier spoke again	grupo	alternativoj	prononco
+level	vi venis ĝustatempe	du kom precis i tid	you came just in time	grupo	alternativoj	prononco
+level	por vidi ŝipkuron	att se en båttävling	to see a boat race	grupo	alternativoj	prononco
+level	iu diris malforte	sa någon svagt	someone said weakly	grupo	alternativoj	prononco
+level	proksime de la gondolisto	nära gondoliern	near the gondolier	grupo	alternativoj	prononco
+level	la estro de la urbo	borgmästaren i staden	the mayor of the city	grupo	alternativoj	prononco
+level	senvorte montris al la gondolo	pekade ordlöst på gondolen	wordlessly pointed to the gondola	grupo	alternativoj	prononco
+level	diris la gondolisto	sa gondoljären	said the gondolier	grupo	alternativoj	prononco
+level	kaj prenis la manon de sia amiko	och tog sin väns hand	and took his friend's hand	grupo	alternativoj	prononco
+level	ĵetas la paperon	kastar papperet	throws the paper	grupo	alternativoj	prononco
+level	en la paperujon	i papperskorgen	into the paper bin	grupo	alternativoj	prononco
+level	la knabinoj ĵetis la paperojn	flickorna kastade tidningarna	the girls threw the papers	grupo	alternativoj	prononco
+level	kie estas mia skribilo?	var är min penna	where is my pen	grupo	alternativoj	prononco
+level	mi volas respondi al li	Jag vill svara honom	I want to answer him	grupo	alternativoj	prononco
+level	la suno malaperis	solen försvann	the sun disappeared	grupo	alternativoj	prononco
+level	kaj nun estas preskaŭ malhele	och nu är det nästan mörkt	and now it is almost dark	grupo	alternativoj	prononco
+level	bonvolu manĝi	var snäll och ät	please eat	grupo	alternativoj	prononco
+level	bonvolu manĝi la panon	snälla ät brödet	please eat the bread	grupo	alternativoj	prononco
+level	per manĝiloj	med bestick	with cutlery	grupo	alternativoj	prononco
+level	pardonu min	Ursäkta mig	excuse me	grupo	alternativoj	prononco
+level	rajtas resti	får stanna	is allowed to stay	grupo	alternativoj	prononco
+level	mi ne rajtas resti	Jag har ingen rätt att stanna	I have no right to stay	grupo	alternativoj	prononco
+level	ĉu vi povas kunporti ~ ?	kan du ta med ~ ?	can you bring ~ ?	grupo	alternativoj	prononco
+level	de mia fratino	från min syster	from my sister	grupo	alternativoj	prononco
+level	kiam vi aĉetis ~ ?	när köpte du ~ ?	when did you buy ~ ?	grupo	alternativoj	prononco
+level	aĉetis tiun muzikilon	köpte det där musikinstrumentet	bought that musical instrument	grupo	alternativoj	prononco
+level	kiu laste uzis ?	vem använde senast?	who used last?	grupo	alternativoj	prononco
+level	uzis mian ŝlosilon	använde min nyckel	used my key	grupo	alternativoj	prononco
+level	ĉu vi veturis?	körde du?	did you drive?	grupo	alternativoj	prononco
+level	en Venecio	i Venedig	in Venice	grupo	alternativoj	prononco
+level	ankaŭ per gondolo	även med gondol	also by gondola	grupo	alternativoj	prononco
+level	ĉu vi povos ekdormi?	kommer du att kunna somna?	will you be able to fall asleep?	grupo	alternativoj	prononco
+level	tiam, kiam silentiĝis	sedan, när det blev tyst	then, when there was silence	grupo	alternativoj	prononco
+level	la sinjoro estis alta	herren var lång	the gentleman was tall	grupo	alternativoj	prononco
+level	alta, dika	lång, fet	tall, fat	grupo	alternativoj	prononco
+level	dika, peza	tjock, tung	thick, heavy	grupo	alternativoj	prononco
+level	peza kaj larĝa	tung och stor	heavy and large	grupo	alternativoj	prononco
+level	estis alta, dika, peza, kaj larĝa	var lång, tjock, tung och stor	was tall, thick, heavy, and large	grupo	alternativoj	prononco
+level	donis forton	gav styrka	gave strength	grupo	alternativoj	prononco
+level	havinda forto	en kraft värd att ha	a force worth having	grupo	alternativoj	prononco
+level	havinda korpoforto	fysisk styrka värd att ha	physical strength worth having	grupo	alternativoj	prononco
+level	tio donis	som gav	that gave	grupo	alternativoj	prononco
+level	donis al li	gav honom	gave him	grupo	alternativoj	prononco
+level	tio donis forton	som gav styrka	that gave strength	grupo	alternativoj	prononco
+level	donis havindan korpoforton	gav kroppsstyrka värd att ha	gave body strength worth having	grupo	alternativoj	prononco
+level	lia aspekto	hans utseende	his appearance	grupo	alternativoj	prononco
+level	grandula aspekto	en lång persons utseende	appearance of a tall person	grupo	alternativoj	prononco
+level	eta rolo	en liten roll	a small role	grupo	alternativoj	prononco
+level	ludis rolon	spelat en roll	played a role	grupo	alternativoj	prononco
+level	ne eta rolo	ingen liten roll	not a small role	grupo	alternativoj	prononco
+level	ludis etan rolon	spelat en liten roll	played a small role	grupo	alternativoj	prononco
+level	ludis ne etan rolon	spelade ingen liten roll	played no small role	grupo	alternativoj	prononco
+level	en la fakto, ke ~	i det faktum att ~	in the fact that ~	grupo	alternativoj	prononco
+level	la plimulto el la homoj	majoriteten av folket	the majority of the people	grupo	alternativoj	prononco
+level	se ne timis	om inte rädd	if not afraid	grupo	alternativoj	prononco
+level	lin timis	var rädd för honom	was afraid of him	grupo	alternativoj	prononco
+level	se lin timis	om han var rädd	if he was afraid	grupo	alternativoj	prononco
+level	se ne lin timis	om inte rädd för honom	if not afraid of him	grupo	alternativoj	prononco
+level	certe respektis	verkligen respekterad	certainly respected	grupo	alternativoj	prononco
+level	almenaŭ pripensis ~	tänkte åtminstone på ~	at least thought about ~	grupo	alternativoj	prononco
+level	antaŭ ol ~	före ~	before ~	grupo	alternativoj	prononco
+level	kontentigi lin	för att tillfredsställa honom	to satisfy him	grupo	alternativoj	prononco
+level	malkontentigi lin	att misshaga honom	to displease him	grupo	alternativoj	prononco
+level	antaŭ ol malkontentigi ~	innan missnöje ~	before dissatisfying ~	grupo	alternativoj	prononco
+level	antaŭ ol decidi ~	innan du bestämmer ~	before deciding ~	grupo	alternativoj	prononco
+level	decidi malkontentigi ~	att besluta att misshaga ~	to decide to displease ~	grupo	alternativoj	prononco
+level	decidi kontentigi lin	att bestämma sig för att tillfredsställa honom	to decide to satisfy him	grupo	alternativoj	prononco
+level	antaŭ ol decidi malkontentigi lin	innan han bestämmer sig för att misshaga honom	before deciding to displease him	grupo	alternativoj	prononco
+level	tio, kio estas utila	det, som är användbart	that, which is useful	grupo	alternativoj	prononco
+level	ofte utila dumtage	ofta användbart under dagen	often useful during the day	grupo	alternativoj	prononco
+level	malplaĉa ĝeno	en obehaglig olägenhet	an unpleasant nuisance	grupo	alternativoj	prononco
+level	per si	själv	by himself	grupo	alternativoj	prononco
+level	prezentas malplaĉan ĝenon	utgör en obehaglig olägenhet	presents an unpleasant nuisance	grupo	alternativoj	prononco
+level	prezentas per si malplaĉan ĝenon	framstår som en obehaglig olägenhet	presents itself as an unpleasant nuisance	grupo	alternativoj	prononco
+level	en loko arboplena	på en plats full av träd	in a place full of trees	grupo	alternativoj	prononco
+level	tiam, kiam oni devojiĝis	sedan, när man gick vilse	then, when one went astray	grupo	alternativoj	prononco
+level	en nehoma sovaĝejo	i en omänsklig vildmark	in an inhuman wilderness	grupo	alternativoj	prononco
+level	kaj ekstervoje iraĉas	och går av vägen i kaos	and goes off the road in chaos	grupo	alternativoj	prononco
+level	alta larĝa korpo	en lång stor kropp	a tall large body	grupo	alternativoj	prononco
+level	ne sukcesis pasi ~	misslyckades med att klara ~	failed to pass ~	grupo	alternativoj	prononco
+level	inter la arbetoj	bland buskarna	among the bushes	grupo	alternativoj	prononco
+level	krome tuŝi la naturaĵojn	förutom att röra de naturliga sakerna	in addition to touching the natural things	grupo	alternativoj	prononco
+level	ĝenerale malsekajn	allmänt våt	generally wet	grupo	alternativoj	prononco
+level	meze de malsekaj naturaĵoj	mitt i blöt natur	in the middle of wet nature	grupo	alternativoj	prononco
+level	malsekaj naturaĵoj, meze de kiuj ~	våta naturliga saker, i mitten av vilka ~	wet natural things, in the middle of which ~	grupo	alternativoj	prononco
+level	li malfacile paŝis	han gick med svårighet	he walked with difficulty	grupo	alternativoj	prononco
+level	estis travivaĵo	det var en upplevelse	it was an experience	grupo	alternativoj	prononco
+level	ne malofte	inte ovanligt	not uncommon	grupo	alternativoj	prononco
+level	doloriga kaj ĉiam malagrabla	smärtsamt och alltid obehagligt	painful and always unpleasant	grupo	alternativoj	prononco
+level	ju pli ~	ju fler ~	the more ~	grupo	alternativoj	prononco
+level	antaŭeniris en la vivo	gått framåt i livet	moved forward in life	grupo	alternativoj	prononco
+level	en la kastela arbaro	i slottsskogen	in the castle forest	grupo	alternativoj	prononco
+level	ju pli antaŭeniris des pli malŝatis ~	ju längre fram desto mer ogillade ~	the further went forward the more disliked ~	grupo	alternativoj	prononco
+level	malŝatis la noktan naturon	ogillade den nattliga naturen	disliked the nocturnal nature	grupo	alternativoj	prononco
+level	viro kun okuloj bone videblaj	en man med ögon som kan ses tydligt	a man with eyes that can be seen clearly	grupo	alternativoj	prononco
+level	okuloj, kiuj kapablis bone vidi	ögon som kunde se bra	eyes that could see well	grupo	alternativoj	prononco
+level	bone vidi en la mallumo	att se bra i mörkret	to see well in the dark	grupo	alternativoj	prononco
+level	rigardis la malfacilan iron	såg på det svåra	looked at the difficult going	grupo	alternativoj	prononco
+level	de nia industriisto	från vår industriman	from our industrialist	grupo	alternativoj	prononco
+level	li ridetis	han log	he smiled	grupo	alternativoj	prononco
+level	apud tiu viro	bredvid den mannen	next to that man	grupo	alternativoj	prononco
+level	en vestaĵo de policano	i polisens kläder	in policeman's clothing	grupo	alternativoj	prononco
+level	staris alia persono	en annan person stod	another person was standing	grupo	alternativoj	prononco
+level	en simila vestaĵo	i liknande kläder	in similar clothing	grupo	alternativoj	prononco
+level	ĉi lasta estis virino	den senare var en kvinna	the latter was a woman	grupo	alternativoj	prononco
+level	ni iru	nu går vi	let's go	grupo	alternativoj	prononco
+level	la viro diris mallaŭte	sa mannen mjukt	the man said softly	grupo	alternativoj	prononco
+level	en la orelon de sia kunulino	i örat på sin följeslagare	into the ear of his companion	grupo	alternativoj	prononco
+level	nun estas la ĝusta momento	nu är det rätta ögonblicket	now is the right moment	grupo	alternativoj	prononco
+level	ambaŭ paŝis direkte al la persono	båda steg mot personen	both stepped toward the person	grupo	alternativoj	prononco
+level	ili zorgis fari ~	de var noga med att göra ~	they were careful to do ~	grupo	alternativoj	prononco
+level	kiel eble plej ~	så möjligt som ~	as possible as ~	grupo	alternativoj	prononco
+level	kiel eble plej malmulte da bruo	så lite ljud som möjligt (kiel eble)	as little noise as possible (kiel eble)	grupo	alternativoj	prononco
+level	laŭeble plej malmulte da bruo	så lite ljud som möjligt (laŭeble)	as little noise as possible (laŭeble)	grupo	alternativoj	prononco
+level	ili preskaŭ plene sukcesis	de lyckades nästan fullt ut	they almost fully succeeded	grupo	alternativoj	prononco
+level	en ĉi tiu aĉa situacio	i denna otäcka situation	in this nasty situation	grupo	alternativoj	prononco
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	en otäck situation där träd kastade sina grenar	a nasty situation where trees threw their branches	grupo	alternativoj	prononco
+level	ĵetis siajn malsekajn branĉojn	kastade sina egna blöta grenar	threw their own wet branches	grupo	alternativoj	prononco
+level	rekte en la vizaĝojn	rakt in i ansiktena	straight into the faces	grupo	alternativoj	prononco
+level	de la industriisto	av industrimannen	of the industrialist	grupo	alternativoj	prononco
+level	multpiedaj bestetoj	mångfotade små varelser	multi-footed small creatures	grupo	alternativoj	prononco
+level	prenis liajn piedojn	tog hans fötter	took his feet	grupo	alternativoj	prononco
+level	por promenejo	för en promenadväg	for a walk road	grupo	alternativoj	prononco
+level	naturo faligis lian piedon	naturen fick hans fot att falla	nature made his foot fallen	grupo	alternativoj	prononco
+level	plej dolorige	mest smärtsamt	most painfully	grupo	alternativoj	prononco
+level	faligis lian piedon en kavon	tappade foten i en grop	dropped his foot into a pit	grupo	alternativoj	prononco
+level	kavo plena de akvo	en grop full med vatten	a pit full of water	grupo	alternativoj	prononco
+level	akvo aĉ-odora	illaluktande vatten	foul-smelling water	grupo	alternativoj	prononco
+level	rapide alvenis al la penso	kom snabbt fram till tanken	quickly arrived at the thought	grupo	alternativoj	prononco
+level	oni devas esti preta	man måste vara redo	one must be ready	grupo	alternativoj	prononco
+level	ĉi tie	här	here	grupo	alternativoj	prononco
+level	iu ajn ~	någon ~	anyone ~	grupo	alternativoj	prononco
+level	preta por iu ajn malplaĉa renkonto	redo för alla obehagliga möten	ready for any unpleasant encounter	grupo	alternativoj	prononco
+level	ion ajn	vad som helst (vad som helst)	anything (whatever)	grupo	alternativoj	prononco
+level	li atendis ion ajn	han väntade på vad som helst	he was waiting for anything	grupo	alternativoj	prononco
+level	krom homa voĉo	åt sidan mänsklig röst	aside human voice	grupo	alternativoj	prononco
+level	kiam voĉo aŭdiĝis, ~	när en röst hördes, ~	when a voice heard, ~	grupo	alternativoj	prononco
+level	aŭdiĝis tuj proksime	hördes genast nära	heard immediately close	grupo	alternativoj	prononco
+level	li faris belan surlokan salton	han gjorde ett fint hopp på plats	he made a nice on-site jump	grupo	alternativoj	prononco
+level	kiu movis lian koron	som rörde hans hjärta	who moved his heart	grupo	alternativoj	prononco
+level	supren ĝis la buŝo	uppord till munnen	upword to the mouth	grupo	alternativoj	prononco
+level	kun la provo rekapti trankvilon	med ett försök att återta lugnet	with the attempt to recapture calm	grupo	alternativoj	prononco
+level	iom da trankvilo	lite lugn	a little tranquility	grupo	alternativoj	prononco
+level	la lumo de lampeto	ljuset från en lampa	the light of a lamp	grupo	alternativoj	prononco
+level	oni direktis rekte al liaj okuloj	någon riktade sig direkt till hans ögon	someone directed directly to his eyes	grupo	alternativoj	prononco
+level	la lampo, kiun oni direktis al okuloj	lampan som någon riktade mot ögonen	the lamp which someone directed to eyes	grupo	alternativoj	prononco
+level	malhelpis repaciĝon	förhindrade försoning	prevented reconciliation	grupo	alternativoj	prononco
+level	ŝajnis al li, ke ~	det tycktes honom att ~	it seemed to him that ~	grupo	alternativoj	prononco
+level	la homformo, kiu tenis la lampon	den mänskliga formen som höll lampan	the human form that held the lamp	grupo	alternativoj	prononco
+level	surhavas vestojn policajn	bära kläder polisen	wear clothes police	grupo	alternativoj	prononco
+level	kion vi faras ĉi tie?	vad gör du här?	what are you doing here?	grupo	alternativoj	prononco
+level	sonas la aŭtorita voĉo	låter den auktoritativa rösten	sounds the authoritative voice	grupo	alternativoj	prononco
+level	bonvolu paroli ~	snälla prata ~	please talk ~	grupo	alternativoj	prononco
+level	iom klare	lite tydligt	a little clear	grupo	alternativoj	prononco
+level	la alia diris	sa den andre	the other said	grupo	alternativoj	prononco
+level	eĉ pli grav-tone	i ännu viktigare ton	in even more important-tone	grupo	alternativoj	prononco
+level	mi promenas	jag går	I'm walking	grupo	alternativoj	prononco
+level	vi promenas en la bieno	du går på gården	you walk on the farm	grupo	alternativoj	prononco
+level	de la grafino	av grevinnan	of the countess	grupo	alternativoj	prononco
+level	la bieno de la grafino	grevinnans gård	the countess's farm	grupo	alternativoj	prononco
+level	meze de la nokto	mitt i natten	in the middle of the night	grupo	alternativoj	prononco
+level	ĉu la grafino vin invitis?	bjöd grevinnan in dig?	did the countess invite you?	grupo	alternativoj	prononco
+level	ĉu ŝi scias pri ~	vet hon om ~	does she know about ~	grupo	alternativoj	prononco
+level	pri via ĉeesto	om din närvaro	about your presence	grupo	alternativoj	prononco
+level	via ĉeesto ĉi tie	din närvaro här	your presence here	grupo	alternativoj	prononco
+level	mi devas peti vin ~	Jag måste fråga dig ~	I have to ask you ~	grupo	alternativoj	prononco
+level	petas vin sekvi min	ber dig följa mig	asks you to follow me	grupo	alternativoj	prononco
+level	kaj li klarigis ~	och han förklarade ~	and he explained ~	grupo	alternativoj	prononco
+level	klarigis, ke ~	förklarade att ~	explained that ~	grupo	alternativoj	prononco
+level	ekde la fuŝa provo	sedan fel försök	since the wrong attempt	grupo	alternativoj	prononco
+level	la fuŝa provo kapti la grafinon	fel försök att fånga grevinnan	the wrong attempt to catch the countess	grupo	alternativoj	prononco
+level	fare de ~	på grund av ~	due to ~	grupo	alternativoj	prononco
+level	fare de teroristoj	på grund av terrorister	due to terrorists	grupo	alternativoj	prononco
+level	la polico kontrolas atente	polisen kontrollerar noga	the police checks carefully	grupo	alternativoj	prononco
+level	kontrolas, kio okazas	kollar vad som händer	checks what is happening	grupo	alternativoj	prononco
+level	okazas en la ĉirkaŭaĵo	förekommer i omgivningen	occurs in the surrounding	grupo	alternativoj	prononco
+level	de la kastelo	av slottet	of the castle	grupo	alternativoj	prononco
+level	la ĉirkaŭaĵo de la kastelo	omgivningen av slottet	the surrounding of the castle	grupo	alternativoj	prononco
+level	al la industriisto	till industrimannen	to the industrialist	grupo	alternativoj	prononco
+level	ŝajnis, ke ~	det verkade som ~	it seemed that ~	grupo	alternativoj	prononco
+level	lia koro ĉifoje falis	hans hjärta föll den här gången	his heart fell this time	grupo	alternativoj	prononco
+level	falis ĝis liaj piedoj	föll på fötter	fell to his feet	grupo	alternativoj	prononco
+level	li sciis, ke ~	han visste att ~	he knew that ~	grupo	alternativoj	prononco
+level	nur malfacile li provos trovi ~	bara svårt kommer han att försöka hitta	just hard he'll try to find	grupo	alternativoj	prononco
+level	trovi akcepteblan klarigon	för att hitta en acceptabel förklaring	to find an acceptable explanation	grupo	alternativoj	prononco
+level	pri sia ĉeesto	om den egna närvaron	about one's own presence	grupo	alternativoj	prononco
+level	la ideo, ke la grafino ĉion scias	tanken att grevinnan vet allt	the idea that the countess knows everything	grupo	alternativoj	prononco
+level	la ideo perdigis al li malmulton da espero	idén berövade honom lite hopp	the idea deprived him of little hope	grupo	alternativoj	prononco
+level	malmulto da espero	lite hopp	little hope	grupo	alternativoj	prononco
+level	malmulta espero, kiu restis	lite hopp som fanns kvar	little hope that remained	grupo	alternativoj	prononco
+level	post la unuaj vortoj de la policano	efter polisens första ord	after the first words of the police	grupo	alternativoj	prononco
+level	ju pli ~ des pli ~	ju fler ~ desto fler ~	the more ~ the more ~	grupo	alternativoj	prononco
+level	ju pli longe des pli bone	ju längre desto bättre	the longer the better	grupo	alternativoj	prononco
+level	kiom ajn	spelar ingen roll hur mycket	no matter how much	grupo	alternativoj	prononco
+level	antaŭ kvarona horo	för en kvart sedan	a quarter of an hour ago	grupo	alternativoj	prononco
+level	ili revenis	de kom tillbaka	they came back	grupo	alternativoj	prononco
+level	post la terura malfeliĉo	efter den fruktansvärda olyckan	after the terrible misfortune	grupo	alternativoj	prononco
+level	la homoj foriris	folket gick	the people left	grupo	alternativoj	prononco
+level	kaj la malnovaj urboj disfalis	och de gamla städerna föll sönder	and the old cities fell apart	grupo	alternativoj	prononco
+level	ni devus revidi vin	vi borde ses igen	we should see you again	grupo	alternativoj	prononco
+level	ju pli ofte	ju oftare	the more often	grupo	alternativoj	prononco
+level	mi pripensas	jag tänker	I'm thinking	grupo	alternativoj	prononco
+level	des pli mi koleras	desto argare är jag	the more angry I am	grupo	alternativoj	prononco
+level	ŝi loĝas en ~	hon bor i ~	she lives in ~	grupo	alternativoj	prononco
+level	en iu ajn domo	i vilket hus som helst	in any house	grupo	alternativoj	prononco
+level	ĉu ni revidos nin?	kommer vi ses igen?	will we see each other again?	grupo	alternativoj	prononco
+level	kie ajn kaj kiam ajn	var och när som helst	wherever and whenever	grupo	alternativoj	prononco
+level	kiam mi rericevos ~ ?	när kommer jag tillbaka ~ ?	when will I get back ~ ?	grupo	alternativoj	prononco
+level	la alian duonon de la libroj	den andra hälften av böckerna	the other half of the books	grupo	alternativoj	prononco
+level	ĉu vi bezonos ~ ?	behöver du ~ ?	will you need ~ ?	grupo	alternativoj	prononco
+level	bezonas pli ol kvaronan jaron	behöver mer än ett kvarts år	needs more than a quarter of a year	grupo	alternativoj	prononco
+level	por tiuj laboroj	för de jobben	for those jobs	grupo	alternativoj	prononco
+level	kial estas ~ ?	varför är ~ ?	why is ~ ?	grupo	alternativoj	prononco
+level	des pli malvarma	desto kallare	the colder	grupo	alternativoj	prononco
+level	ju pli longe	ju längre	the longer	grupo	alternativoj	prononco
+level	ni atendas ~	vi väntar ~	we are waiting ~	grupo	alternativoj	prononco
+level	ĉu vi kontentas kun ~ ?	är du nöjd med ~ ?	are you satisfied with ~ ?	grupo	alternativoj	prononco
+level	kun iu ajn viro	med vilken man som helst	with any man	grupo	alternativoj	prononco

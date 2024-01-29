@@ -1,0 +1,1356 @@
+A.te content.tsv
+Level	Esperanto	te	en-us	Grupo	Alternativoj	Pronoco
+level	mi, vi	నేను మీరు	I, you	grupo	alternativoj	prononco
+level	estas, estis	(ప్రస్తుతం) is, am, are (past) was, were	(present) is, am, are (past) was, were	grupo	alternativoj	prononco
+level	mi estas ~	నేను ~	I am ~	grupo	alternativoj	prononco
+level	vi estas ~	మీరు ~	you are ~	grupo	alternativoj	prononco
+level	saluton	హలో	hello	grupo	alternativoj	prononco
+level	saluton, mi estas ~	హలో, నేను ~	hello, I am ~	grupo	alternativoj	prononco
+level	mia, via	నా నీది	my, your	grupo	alternativoj	prononco
+level	nomo	ఒక పేరు	a name	grupo	alternativoj	prononco
+level	mia nomo, via nomo	నా పేరు, మీ పేరు	my name, your name	grupo	alternativoj	prononco
+level	mia nomo estas ~	నా పేరు ~	my name is ~	grupo	alternativoj	prononco
+level	via nomo estas ~	మీ పేరు ~	your name is ~	grupo	alternativoj	prononco
+level	fartas, fartis	(ప్రస్తుతం) చేస్తుంది, (గతం) చేసింది	(present) does, (past) did	grupo	alternativoj	prononco
+level	estis, estos	(ప్రస్తుతం) ఉంది, ఉన్నాయి (భవిష్యత్తు) ఉంటుంది	(present) was, were (future) will be	grupo	alternativoj	prononco
+level	nomo, nomon	ఒక పేరు, ఒక (ఆబ్జెక్టివ్) పేరు	a name, an (objective) name	grupo	alternativoj	prononco
+level	mia amo	నా ప్రియతమా	my love	grupo	alternativoj	prononco
+level	vi fartas	మీరు చేస్తున్నారు ~	you are doing ~	grupo	alternativoj	prononco
+level	kiel	ఎలా	how	grupo	alternativoj	prononco
+level	kiel vi fartas?	నువ్వు ఎలా ఉన్నావు?	how are you doing?	grupo	alternativoj	prononco
+level	kio	ఏమి	what	grupo	alternativoj	prononco
+level	kio estas via nomo?	నీ పేరు ఏమిటి?	what is your name?	grupo	alternativoj	prononco
+level	bona, bone	సత్ప్రవర్తన	good, well	grupo	alternativoj	prononco
+level	fartas bone	బాగా చేస్తున్నాడు	is doing well	grupo	alternativoj	prononco
+level	mi fartas bone	నేను బాగా ఉన్నాను	I am doing well	grupo	alternativoj	prononco
+level	kaj	మరియు	and	grupo	alternativoj	prononco
+level	bone, kaj vi?	బాగా, మరియు మీరు?	fine, and you?	grupo	alternativoj	prononco
+level	ĝis ~	~ వరకు	until ~	grupo	alternativoj	prononco
+level	vidas, vidis	(ప్రస్తుతం) చూస్తుంది, (గతం) చూసింది	(present) sees, (past) saw	grupo	alternativoj	prononco
+level	vidis, revidis	(గత) చూసింది, (గతం) మళ్ళీ చూసింది	(past) saw, (past) saw again	grupo	alternativoj	prononco
+level	revidis, revidos	మళ్ళీ చూసింది, మళ్ళీ చూస్తాను	saw again, will see again	grupo	alternativoj	prononco
+level	revido, revidon	మళ్ళీ చూడటం, మళ్ళీ చూడటం (ఆబ్జెక్టివ్)	seeing-again, seeing-again (objective)	grupo	alternativoj	prononco
+level	ĝis revido!	మళ్ళీ కలుద్దాం!	see you again!	grupo	alternativoj	prononco
+level	dankon	ధన్యవాదాలు	thank you	grupo	alternativoj	prononco
+level	dankon kaj ĝis revido!	ధన్యవాదాలు మరియు మళ్ళీ కలుద్దాం!	thank you and see you again!	grupo	alternativoj	prononco
+level	al ~	~ వరకు	to ~	grupo	alternativoj	prononco
+level	al vi, al mi	నీకు, నాకు	to you, to me	grupo	alternativoj	prononco
+level	dankas, dankis	(ప్రస్తుతం) ధన్యవాదాలు, (గతం) ధన్యవాదాలు	(present) thanks, (past) thanked	grupo	alternativoj	prononco
+level	mi dankas al vi	నేను నిన్ను అభినందిస్తున్నాను	I appreciate to you	grupo	alternativoj	prononco
+level	jes, ne	అవును కాదు	yes, no	grupo	alternativoj	prononco
+level	jes, dankon	అవును, ధన్యవాదాలు	yes, thaink you	grupo	alternativoj	prononco
+level	manĝas, manĝos	తింటుంది, తింటుంది	eats, will eat	grupo	alternativoj	prononco
+level	mi ne manĝas	నేను తినను	I don't eat	grupo	alternativoj	prononco
+level	ne, mi ne manĝas	లేదు, నేను తినను	no, I don't eat	grupo	alternativoj	prononco
+level	bela, bele	అందంగా, అందంగా	beautiful, beautifully	grupo	alternativoj	prononco
+level	-inda	విలువైనది (ముగింపు)	worthwhile (ending)	grupo	alternativoj	prononco
+level	dankinda, dankinde	మెచ్చుకోదగినది, కృతజ్ఞతతో కూడుకున్నది	appreciatable, worthwhile to thank	grupo	alternativoj	prononco
+level	tuta, tute	మొత్తం, మొత్తంగా	whole, as a whole	grupo	alternativoj	prononco
+level	tuto, tuton	అన్నీ, (ఆబ్జెక్టివ్) అన్నీ	all, (objective) all	grupo	alternativoj	prononco
+level	nedankinde	అస్సలు కాదు, మీకు స్వాగతం	not at all, you're welcome	grupo	alternativoj	prononco
+level	tute ne	పూర్తిగా లేదు	totally no	grupo	alternativoj	prononco
+level	pardoni ~, pardono	క్షమించుట, క్షమించుట	to forgive, a forgiving	grupo	alternativoj	prononco
+level	pardonon al mi	నన్ను క్షమించేవాడు	a forgiving to me	grupo	alternativoj	prononco
+level	pardonon	నన్ను క్షమించండి! (క్షమించండి)	I'm sorry! (pardon me)	grupo	alternativoj	prononco
+level	pardonon, mi petas	నన్ను క్షమించండి, దయచేసి	I'm sorry, please	grupo	alternativoj	prononco
+level	bona mateno	ఒక శుభోదయం	a good morning	grupo	alternativoj	prononco
+level	bonan matenon	శుభోదయం	good morning	grupo	alternativoj	prononco
+level	bonan nokton	శుభ రాత్రి	good night	grupo	alternativoj	prononco
+level	bonan sonĝon	తీపి కల	sweet dream	grupo	alternativoj	prononco
+level	bonan vojaĝon, al vi	మీకు మంచి ప్రయాణం	(have) a good trip, to you	grupo	alternativoj	prononco
+level	bonan tagon	మంచి రోజు!	good day!	grupo	alternativoj	prononco
+level	ĉu ~	అది ~?	is it ~ ?	grupo	alternativoj	prononco
+level	ĉu vi fartas bone?	నువ్వు బాగానే ఉన్నావా? (మీరు ఎలా ఉన్నారు?)	are you doing well? (how are you?)	grupo	alternativoj	prononco
+level	jes, mi fartas bone	అవును నేను బాగానే ఉన్నా	yes, I'm fine	grupo	alternativoj	prononco
+level	ne, tute ne	అది కానే కాదు	no, not at all	grupo	alternativoj	prononco
+level	tre, tro	చాలా, చాలా ఎక్కువ	very, too much	grupo	alternativoj	prononco
+level	granda, grande	పెద్ద, ఎక్కువగా	big, largely	grupo	alternativoj	prononco
+level	tre bona, tro granda	చాలా మంచిది, చాలా పెద్దది	very good, too big	grupo	alternativoj	prononco
+level	vi tre bone fartas	మీరు చాలా బాగా చేస్తున్నారు	you are doing very well	grupo	alternativoj	prononco
+level	ne tre bone	అంతగా బాగోలేదు	not very well	grupo	alternativoj	prononco
+level	lerni ~, lerno	నేర్చుకోవడం, ఒక అభ్యాసం	to learn, a learning	grupo	alternativoj	prononco
+level	vidanta, vidanto	చూస్తున్నాడు, ఒక ప్రేక్షకుడు	is looking, a spectator	grupo	alternativoj	prononco
+level	lernanta, lernanto	నేర్చుకుంటున్నాడు, ఒక విద్యార్థి (నేర్చుకునే వ్యక్తి)	is learning, a student (a learning person)	grupo	alternativoj	prononco
+level	-anta, -anto	-ing, చేస్తున్న వ్యక్తి	is -ing, a person who is doing	grupo	alternativoj	prononco
+level	lernanto, lerninto	ఒక విద్యార్థి, నేర్చుకున్న వ్యక్తి	a student, a person who has learned	grupo	alternativoj	prononco
+level	mi estas lernanto	నేనొక విద్యార్థిని.	I am a student.	grupo	alternativoj	prononco
+level	~ estas mia amiko	~ నా స్నేహితుడు	~ is my friend	grupo	alternativoj	prononco
+level	li, ŝi	అతడు ఆమె	he, she	grupo	alternativoj	prononco
+level	sidi, sidas	కూర్చోవడానికి, కూర్చుంటాడు	to sit, sits	grupo	alternativoj	prononco
+level	sidanta, sidinta, sidonta	కూర్చున్నాడు, కూర్చున్నాడు, కూర్చున్నాడు	is sitting, was sitting, will be sitting	grupo	alternativoj	prononco
+level	li sidas kaj ŝi lernas	అతను కూర్చున్నాడు మరియు ఆమె నేర్చుకుంటుంది	he is sitting and she is learning	grupo	alternativoj	prononco
+level	ĉambro	ఓ గది	a room	grupo	alternativoj	prononco
+level	lernas en ĉambro	ఒక గదిలో నేర్చుకుంటాడు	learns in a room	grupo	alternativoj	prononco
+level	lernanto kaj sportisto	ఒక విద్యార్థి మరియు క్రీడాకారుడు	a student and a sportsman	grupo	alternativoj	prononco
+level	sporto kaj sportisto	క్రీడ మరియు క్రీడాకారుడు	sport and a sportsman	grupo	alternativoj	prononco
+level	sportisto nun sportas	ఒక క్రీడాకారుడు ఆడుతున్నాడు	a sportsman is sporting	grupo	alternativoj	prononco
+level	li estas lernanto	అతను ఒక విద్యార్థి	he is a student	grupo	alternativoj	prononco
+level	estas lernanto kaj sportisto	అతను విద్యార్థి మరియు క్రీడాకారుడు	he is a student and a sportman	grupo	alternativoj	prononco
+level	li nun sidas	అతను ఇప్పుడు కూర్చున్నాడు	he is now sitting	grupo	alternativoj	prononco
+level	kaj nun lernas	మరియు ఇప్పుడు నేర్చుకుంటున్నాడు	and is now learning	grupo	alternativoj	prononco
+level	sidas kaj lernas	కూర్చుని నేర్చుకుంటున్నాడు	is sitting and is learning	grupo	alternativoj	prononco
+level	nun en ĉambro	ఇప్పుడు ఒక గదిలో	now in a room	grupo	alternativoj	prononco
+level	estas sur tablo	ఒక టేబుల్ మీద ఉంది	is on a table	grupo	alternativoj	prononco
+level	papero kaj paperoj	ఒక కాగితం మరియు కాగితాలు	a paper and papers	grupo	alternativoj	prononco
+level	tablo kaj tabloj	ఒక టేబుల్ మరియు పట్టికలు	a table and tables	grupo	alternativoj	prononco
+level	libro kaj libroj	ఒక పుస్తకం మరియు పుస్తకాలు	a book and books	grupo	alternativoj	prononco
+level	la paperoj kaj libroj	పేపర్లు మరియు పుస్తకాలు	the papers and books	grupo	alternativoj	prononco
+level	ĝi estas sur tablo	అది ఒక టేబుల్ మీద ఉంది.	it is on a table.	grupo	alternativoj	prononco
+level	skribas sur la skribotablo	రైటింగ్ టేబుల్ మీద వ్రాస్తున్నాడు	is writing on a writing table	grupo	alternativoj	prononco
+level	la libroj estas ~	పుస్తకాలు ~	the books are ~	grupo	alternativoj	prononco
+level	sur la tablo	బల్ల మీద	on the table	grupo	alternativoj	prononco
+level	lernolibro kaj la lernolibroj	ఒక పాఠ్యపుస్తకం మరియు పాఠ్యపుస్తకాలు	a textbook and the textbooks	grupo	alternativoj	prononco
+level	sur la tablo estas ~	టేబుల్ మీద ఉంది ~	on the table there is ~	grupo	alternativoj	prononco
+level	patro kaj patrino	ఒక తండ్రి మరియు ఒక తల్లి	a father and a mother	grupo	alternativoj	prononco
+level	la patro kaj la patrino	తండ్రి మరియు తల్లి	the father and the mother	grupo	alternativoj	prononco
+level	la patrino de mia amiko	నా స్నేహితుడి తల్లి	the mother of my friend	grupo	alternativoj	prononco
+level	en la ĉambro	గదిలో	in the room	grupo	alternativoj	prononco
+level	ne estas en la ĉambro	గదిలో లేదు	is not in the room	grupo	alternativoj	prononco
+level	ili nun laboras	వారు ఇప్పుడు పని చేస్తున్నారు	they are now working	grupo	alternativoj	prononco
+level	lia patro estas laboristo	అతని తండ్రి ఒక కార్మికుడు	his father is a worker	grupo	alternativoj	prononco
+level	li laboras en hotelo	అతను ఒక హోటల్‌లో పనిచేస్తున్నాడు	he works in a hotel	grupo	alternativoj	prononco
+level	la patrino instruas	తల్లి బోధిస్తుంది	the mother teaches	grupo	alternativoj	prononco
+level	ŝi estas instruistino	ఆమె ఒక ఉపాధ్యాయురాలు	she is a teacher	grupo	alternativoj	prononco
+level	ĉu ŝi estas patrino?	ఆమె తల్లినా?	is she a mother?	grupo	alternativoj	prononco
+level	ne, ŝi estas hotelisto	లేదు, ఆమె ఒక హోటల్ వ్యాపారి	no, she is an hotelier	grupo	alternativoj	prononco
+level	ne, mi ne laboras	లేదు, నేను పని చేయను	no, I don't work	grupo	alternativoj	prononco
+level	kio estas ŝia nomo?	ఆమె పేరు ఏమిటి?	what is her name?	grupo	alternativoj	prononco
+level	kiu nun respondas?	ఇప్పుడు ఎవరు సమాధానం ఇస్తున్నారు?	who is now answering?	grupo	alternativoj	prononco
+level	la lingvo de ilia patrino	వారి తల్లి భాష	the language of their mother	grupo	alternativoj	prononco
+level	ĉu via nomo estas ~ ?	మీ పేరు ~?	is your name ~ ?	grupo	alternativoj	prononco
+level	ni sidas kaj respondas	మేము కూర్చుని సమాధానం ఇస్తున్నాము	we are sitting and answering	grupo	alternativoj	prononco
+level	ŝia labora seĝo	ఆమె పని కుర్చీ	her working chair	grupo	alternativoj	prononco
+level	ĝia nomo ne estas ~	దాని పేరు ~ కాదు	its name is not ~	grupo	alternativoj	prononco
+level	ŝia lingvo estas ilia lingvo	ఆమె భాష వారి భాష	her language is their language	grupo	alternativoj	prononco
+level	nia patro kaj patrino	మా నాన్న మరియు తల్లి	our father and mother	grupo	alternativoj	prononco
+level	via lernanto, viaj lernantoj	మీ విద్యార్థి, మీ విద్యార్థులు	your student, your students	grupo	alternativoj	prononco
+level	ĉu ili estas viaj lernantoj?	వారు మీ విద్యార్థులా?	are they your students?	grupo	alternativoj	prononco
+level	ĉu vi estas lernanto?	నువ్వు విద్యార్థివా?	are you a student?	grupo	alternativoj	prononco
+level	ĉu vi estas en la ĉambro?	మీరు గదిలో ఉన్నారా?	are you in the room?	grupo	alternativoj	prononco
+level	mi ne estas ~	నేను కాదు ~	I'm not ~	grupo	alternativoj	prononco
+level	esperantisto kaj esperantistino	ఒక ఎస్పెరాంటిస్ట్ మరియు ఒక మహిళా ఎస్పరాంటిస్ట్	an Esperantist and a female Esperantist	grupo	alternativoj	prononco
+level	enskribis por la hotelĉambro	హోటల్ గది కోసం తనిఖీ చేసారు	checked in for the hotel room	grupo	alternativoj	prononco
+level	lingvisto kaj laboristino	ఒక భాషావేత్త మరియు ఒక మహిళా కార్మికురాలు	a linguist and a female worker	grupo	alternativoj	prononco
+level	lia amikino estas ~	అతని స్నేహితురాలు ~	his girl friend is ~	grupo	alternativoj	prononco
+level	lernantoj kaj sportistoj	విద్యార్థులు మరియు క్రీడాకారులు	students and sportsmen	grupo	alternativoj	prononco
+level	mia familia nomo estas ~	నా కుటుంబం పేరు ~	my familia name is ~	grupo	alternativoj	prononco
+level	kiu estas ŝi?	ఆమె ఎవరు? ఆమె ఎవరు?	who is she? which is she?	grupo	alternativoj	prononco
+level	estas via amikino	మీ స్నేహితురాలు	is your girl friend	grupo	alternativoj	prononco
+level	ĉu via amiko estas ~ ?	మీ స్నేహితుడు ~?	is your friend ~ ?	grupo	alternativoj	prononco
+level	skribas nun en la ĉambro	ఇప్పుడు గదిలో వ్రాస్తున్నాడు	is writing now in the room	grupo	alternativoj	prononco
+level	ĉu la amiko de via patro ~ ?	నీ తండ్రి స్నేహితుడా ~?	is the friend of you father ~ ?	grupo	alternativoj	prononco
+level	laboras en hotelo	ఒక హోటల్‌లో పని చేస్తుంది	works in a hotel	grupo	alternativoj	prononco
+level	kio estas sur la tablo?	టేబుల్ మీద ఏమిటి?	what is on the table?	grupo	alternativoj	prononco
+level	sur la tablo en nia ĉambro	మా గదిలో టేబుల్ మీద	on the table in our room	grupo	alternativoj	prononco
+level	ĉu la lernolibro de Esperanto ~ ?	ఎస్పెరాంటో పాఠ్యపుస్తకం ~?	is the Esperanto textbook ~ ?	grupo	alternativoj	prononco
+level	estas sur via tablo	మీ టేబుల్ మీద ఉంది	is on your table	grupo	alternativoj	prononco
+level	havas amikinon	ఒక స్నేహితుడు ఉన్నాడు	has a friend	grupo	alternativoj	prononco
+level	ŝia nomo estas ~	ఆమె పేరు ~	her name is ~	grupo	alternativoj	prononco
+level	juna kaj bela	యవ్వనంగా మరియు అందంగా	young and beautiful	grupo	alternativoj	prononco
+level	estas juna kaj bela	యవ్వనంగా మరియు అందంగా ఉంది	is young and beautiful	grupo	alternativoj	prononco
+level	junaj kaj belaj amikoj	యువ మరియు అందమైన స్నేహితులు	young and beautiful friends	grupo	alternativoj	prononco
+level	estas geamikoj	మగ-ఆడ స్నేహితులు	are male-and-female friends	grupo	alternativoj	prononco
+level	hejmo de ŝia instruisto	ఆమె ఉపాధ్యాయుని ఇల్లు	a home of her teacher	grupo	alternativoj	prononco
+level	venis al la hejmo	ఇంటికి వచ్చారు	came to the home	grupo	alternativoj	prononco
+level	la hejmo de ~	~ యొక్క ఇల్లు	the home of ~	grupo	alternativoj	prononco
+level	bonvolu eniri	దయచేసి లోపలికి రండి	please come in	grupo	alternativoj	prononco
+level	saluton! kion vi faras?	హలో మీరు ఏమి చేస్తున్నారు?	hello, what are you doing?	grupo	alternativoj	prononco
+level	kion vi faras?	మీరు ఏమి చేస్తారు? నువ్వేమి చేస్తున్నావు?	what do you do? what are you doing?	grupo	alternativoj	prononco
+level	sed nun mi volas ~	కానీ ఇప్పుడు నాకు కావాలి ~	but now I want ~	grupo	alternativoj	prononco
+level	mi volas paroli	నేను మాట్లాడాలనుకుంటున్నాను	I want to speak	grupo	alternativoj	prononco
+level	kun tri geamikoj	ముగ్గురు మగ-ఆడ స్నేహితులతో	with three male-and-female friends	grupo	alternativoj	prononco
+level	parolis kun vi	నీతో మాట్లాడాడు	spoke with you	grupo	alternativoj	prononco
+level	volas paroli kun vi	మీతో మాట్లాడాలనుకుంటున్నారు	wants to speak with you	grupo	alternativoj	prononco
+level	ĉu vi havas geamikojn?	మీకు మగ-ఆడ స్నేహితులు ఉన్నారా?	do you have male-and-female friends	grupo	alternativoj	prononco
+level	li havas libron	అతని దగ్గర ఒక పుస్తకం ఉంది	he has a book	grupo	alternativoj	prononco
+level	havas bonan libron	మంచి పుస్తకం ఉంది	has a good book	grupo	alternativoj	prononco
+level	jes, mi havas	అవును నా దగ్గర వుంది	yes, I have	grupo	alternativoj	prononco
+level	ili ŝatas ĝin	వారు దానిని ఇష్టపడతారు	they like it	grupo	alternativoj	prononco
+level	ŝi legis libron	ఆమె ఒక పుస్తకం చదివింది	she read a book	grupo	alternativoj	prononco
+level	ŝatas legi librojn	పుస్తకాలు చదవడం ఇష్టం	likes to read books	grupo	alternativoj	prononco
+level	nur bona libro	మంచి పుస్తకం మాత్రమే	only a good book	grupo	alternativoj	prononco
+level	multaj bonaj libroj	చాలా మంచి పుస్తకాలు	many good books	grupo	alternativoj	prononco
+level	legis nur bonajn librojn	మంచి పుస్తకాలు మాత్రమే చదవండి	read only good books	grupo	alternativoj	prononco
+level	ŝatas legi bonajn librojn	మంచి పుస్తకాలు చదవడం ఇష్టం	likes to read good books	grupo	alternativoj	prononco
+level	ĉu vi volas legi?	మీరు చదవాలనుకుంటున్నారా?	do you want to read?	grupo	alternativoj	prononco
+level	la junulo trinkis kafon	యువకుడు కాఫీ తాగాడు	the youngster drank coffee	grupo	alternativoj	prononco
+level	volas trinki akvon	నీళ్లు తాగాలనిపిస్తుంది	wants to drink water	grupo	alternativoj	prononco
+level	patro kaj patrino, gepatroj	ఒక తండ్రి మరియు ఒక తల్లి; తల్లిదండ్రులు	a father and a mother; parents	grupo	alternativoj	prononco
+level	frato kaj fratino, gefratoj	ఒక ఇబ్బంది మరియు ఒక సోదరి, తోబుట్టువులు	a bother and a sister, siblings	grupo	alternativoj	prononco
+level	viaj gepatroj kaj gefratoj	మీ తల్లిదండ్రులు మరియు తోబుట్టువులు	your parents and siblings	grupo	alternativoj	prononco
+level	estas en via hejmo	మీ ఇంట్లో ఉంది	is in your home	grupo	alternativoj	prononco
+level	jen la kafo	ఇదిగో కాఫీ	here is the coffee	grupo	alternativoj	prononco
+level	ankoraŭ ne trinkis	ఇంకా తాగలేదు	didn't drink yet	grupo	alternativoj	prononco
+level	estas ankoraŭ varma	ఇంకా వెచ్చగా ఉంది	is still warm	grupo	alternativoj	prononco
+level	hieraŭ kuiris ĝin	నిన్న వండింది	cooked it yesterday	grupo	alternativoj	prononco
+level	mi nun kuiris	ఇప్పుడు వండుకున్నాను	I now cooked	grupo	alternativoj	prononco
+level	dankon. tiel li diris	ధన్యవాదాలు. కాబట్టి అతను చెప్పాడు.	thank you. so he said.	grupo	alternativoj	prononco
+level	povas trinki kaj manĝi	త్రాగవచ్చు మరియు తినవచ్చు	can drink and eat	grupo	alternativoj	prononco
+level	trinkis malvarman kafon	కోల్డ్ కాఫీ తాగాడు	drank cold coffee	grupo	alternativoj	prononco
+level	ankaŭ varma kafo	ఇప్పటికీ వెచ్చని కాఫీ	still warm coffee	grupo	alternativoj	prononco
+level	trinkas ankaŭ malvarman kafon	కోల్డ్ కాఫీ కూడా తాగుతుంది	drinks cold coffee too	grupo	alternativoj	prononco
+level	povas trinki ankaŭ malvarman kafon	కోల్డ్ కాఫీ కూడా తాగవచ్చు	can also drink cold coffee	grupo	alternativoj	prononco
+level	rigardas ŝian okulon	ఆమె కన్ను వైపు చూస్తుంది	looks at her eye	grupo	alternativoj	prononco
+level	la plej bela okulo	అత్యంత అందమైన కన్ను	the most beautiful eye	grupo	alternativoj	prononco
+level	la belaj okuloj	అందమైన కళ్ళు	the beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la belajn okulojn	అందమైన కళ్ళు చూశారు	looked the beautiful eyes	grupo	alternativoj	prononco
+level	la belaj okuloj de ŝi	ఆమె యొక్క అందమైన కళ్ళు	the beautiful eyes of her	grupo	alternativoj	prononco
+level	vidas kaj komprenas	చూస్తాడు మరియు అర్థం చేసుకుంటాడు	sees and understands	grupo	alternativoj	prononco
+level	mi vidas, ke ~	నేను చూస్తున్నాను ~	I see that ~	grupo	alternativoj	prononco
+level	ke li amas ŝin	అతను ఆమెను ప్రేమిస్తున్నాడని	that he loves her	grupo	alternativoj	prononco
+level	ŝi sentis, ke li amas ŝin	అతను తనను ప్రేమిస్తున్నాడని ఆమె భావిస్తుంది	she feels that he loves her	grupo	alternativoj	prononco
+level	demandas, ĉu tio estis granda	అది పెద్దదా అని అడుగుతుంది	asks whether that was big	grupo	alternativoj	prononco
+level	pri facila demando	సులభమైన ప్రశ్న గురించి	about an easy question	grupo	alternativoj	prononco
+level	diris pri nova mono	కొత్త డబ్బు గురించి చెప్పాడు	said about a new money	grupo	alternativoj	prononco
+level	tre belaj okuloj	చాలా అందమైన కళ్ళు	very beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la grandan fraton	అన్నయ్య చూశాడు	looked the big brother	grupo	alternativoj	prononco
+level	malgranda fratino forgesis ĝin	ఒక చెల్లెలు అది మర్చిపోయింది	a little sister forgot it	grupo	alternativoj	prononco
+level	akuzativo	ఒక నిందారోపణ (ఆబ్జెక్టివ్)	an accusative (objective)	grupo	alternativoj	prononco
+level	ne forgesu akuzativon	నిందారోపణ ముగింపు మర్చిపోవద్దు	don't forget the accusative ending	grupo	alternativoj	prononco
+level	kiun vi vidas?	మీరు ఎవరిని చూస్తున్నారు? మీరు ఏది చూస్తారు?	whom are you seeing? which one do you see?	grupo	alternativoj	prononco
+level	mi vidas amikon	నేను ఒక స్నేహితుడిని చూస్తున్నాను	I see a friend	grupo	alternativoj	prononco
+level	havas bonajn geamikojn	మంచి మగ-ఆడ స్నేహితులు ఉన్నారు	has good male-and-female friends	grupo	alternativoj	prononco
+level	ili laboras pri la malnova domo	వారు పాత ఇంటి గురించి పని చేస్తున్నారు	they are working about the old house	grupo	alternativoj	prononco
+level	laboras, laboris, laboros	పనిచేస్తుంది, పని చేస్తుంది, పని చేస్తుంది	works, worked, will work	grupo	alternativoj	prononco
+level	vidas, ke mi manĝas	నేను తింటాను అని చూస్తుంది	sees, that I eat	grupo	alternativoj	prononco
+level	diris, ke li iros	అన్నాడు, వెళ్తాను అని	said, that he will go	grupo	alternativoj	prononco
+level	malbela kaj malbona	అగ్లీ మరియు చెడు	ugly and bad	grupo	alternativoj	prononco
+level	kion ŝi diris?	ఆమె ఏమన్నది?	what did she say?	grupo	alternativoj	prononco
+level	kion vi atendas?	దేనికోసం ఎదురు చూస్తున్నావు?	what are you waiting for?	grupo	alternativoj	prononco
+level	eniris en la ĉambron	గదిలోకి వెళ్ళాడు	went into the room	grupo	alternativoj	prononco
+level	enhavo estis tre malfacila	కంటెంట్ చాలా కష్టం	a content is very difficult	grupo	alternativoj	prononco
+level	alvenis al la kunsido	సమావేశానికి వచ్చారు	arrived at the meeting	grupo	alternativoj	prononco
+level	bonvenon, al la kunveno	సమావేశానికి స్వాగతం	welcome to the meeting	grupo	alternativoj	prononco
+level	maljuna viro donis trinkmonon	ఒక వృద్ధుడు ఒక చిట్కా ఇచ్చాడు	an old man gave a tip	grupo	alternativoj	prononco
+level	alvenis kaj estis bonvena	వచ్చి స్వాగతం పలికారు	arrived and was welcomed	grupo	alternativoj	prononco
+level	ili malamas sed kunlaboras.	వారు ద్వేషిస్తారు కానీ సహకరిస్తారు	they hate but cooperate	grupo	alternativoj	prononco
+level	iris al la hotelo	హోటల్ కి వెళ్ళాడు	went to the hotel	grupo	alternativoj	prononco
+level	havas facilajn lernolibrojn	సులభమైన పాఠ్యపుస్తకాలను కలిగి ఉంది	has easy textbooks	grupo	alternativoj	prononco
+level	kia estis via patrino?	మీ అమ్మ ఎలా ఉంది?	how was your mother?	grupo	alternativoj	prononco
+level	via malnova hejmo	మీ పాత ఇల్లు	your old home	grupo	alternativoj	prononco
+level	kiujn librojn vi legis?	మీరు ఏ పుస్తకాలు చదివారు?	which books did you read?	grupo	alternativoj	prononco
+level	ĉu ili estis bonaj?	వారు బాగున్నారా?	were they good?	grupo	alternativoj	prononco
+level	kion faris hieraŭ?	నిన్న ఏమి చేసాడు?	did what yesterday?	grupo	alternativoj	prononco
+level	en la malgranda ĉambro	చిన్న గదిలో	in the small room	grupo	alternativoj	prononco
+level	tre longe parolis	చాలా సేపు మాట్లాడారు	spoke very long while	grupo	alternativoj	prononco
+level	antaŭ la lernejo	పాఠశాల ముందు, పాఠశాల ముందు	in front of the school, before the school	grupo	alternativoj	prononco
+level	parolis antaŭ la lernejo	పాఠశాల ముందు మాట్లాడారు	spoke before the school	grupo	alternativoj	prononco
+level	poste parolis pri la libro	తర్వాత పుస్తకం గురించి మాట్లాడారు	later spoke about the book	grupo	alternativoj	prononco
+level	ĝoje iris al la lernejo	ఆనందంగా పాఠశాలకు వెళ్లాడు	gladly went to the school	grupo	alternativoj	prononco
+level	tra la strato	వీధి గుండా	through the street	grupo	alternativoj	prononco
+level	iris tra la strato	వీధి గుండా వెళ్ళింది	went through the street	grupo	alternativoj	prononco
+level	estis varma tago	ఒక వెచ్చని రోజు	was a warm day	grupo	alternativoj	prononco
+level	ili vidis kafejon	వారు ఒక కేఫ్ చూశారు	they saw a cafe'	grupo	alternativoj	prononco
+level	vidis ruĝajn kukojn	ఎరుపు కుక్కీలను చూసింది	saw red cookies	grupo	alternativoj	prononco
+level	vidis kukojn en ĝi	అందులో కుకీలను చూసింది	saw cookies in it	grupo	alternativoj	prononco
+level	vidis kafejon kaj en ĝi kukojn	ఒక కేఫ్ చూసింది' మరియు అందులో కుకీలు	saw a cafe' and in it  cookies	grupo	alternativoj	prononco
+level	eniru kaj manĝu!	లోపలికి వెళ్లి తినండి!	go in and eat!	grupo	alternativoj	prononco
+level	ni eniru kaj manĝu	లోపలికి వచ్చి తిందాం	let's come in and eat	grupo	alternativoj	prononco
+level	havas sufiĉan monon	తగినంత డబ్బు ఉంది	has sufficient money	grupo	alternativoj	prononco
+level	ĉu vi havas sufiĉan monon?	మీ దగ్గర తగినంత డబ్బు ఉందా?	do you have sufficient money?	grupo	alternativoj	prononco
+level	ĉu vi komprenas?	నీకు అర్ధమైనదా?	do you understand?	grupo	alternativoj	prononco
+level	kompreneble!	అయితే!	of course!	grupo	alternativoj	prononco
+level	tio ne sufiĉas	అది సరిపోదు	that is not enough	grupo	alternativoj	prononco
+level	cent dolaroj sufiĉas	వంద డాలర్లు సరిపోతుంది	a hundred dollars is enough	grupo	alternativoj	prononco
+level	dolaro, dolaroj, dolarojn	ఒక డాలర్, డాలర్లు, డాలర్లు (బహువచన లక్ష్యం)	a dollar, dollars, dollars (plural objective)	grupo	alternativoj	prononco
+level	havas cent dolarojn	వంద డాలర్లు ఉంది	has a hundred dollars	grupo	alternativoj	prononco
+level	kompreneble, mi havas	వాస్తవానికి, నా దగ్గర ఉంది	of course, I have	grupo	alternativoj	prononco
+level	ho! vi estas riĉa!	ఓహ్! మీరు ధనవంతులు!	oh! you are rich!	grupo	alternativoj	prononco
+level	kelnero, kelnerino	ఒక నీరు, ఒక సేవకురాలు	a water, an waitress	grupo	alternativoj	prononco
+level	kelnero portas menuon	ఒక వెయిటర్ మెనూని తీసుకువస్తాడు	a waiter brings a menu	grupo	alternativoj	prononco
+level	portis tion al ni, alportis tion	అది మాకు తెచ్చింది, తెచ్చింది	brought that to us, brought that	grupo	alternativoj	prononco
+level	kelnero alportis multajn kukojn	ఒక వెయిటర్ చాలా కుకీలను తెచ్చాడు	a waiter brought a lot of cookies	grupo	alternativoj	prononco
+level	ili manĝis iom	వారు కొంచెం తిన్నారు (కొద్దిగా)	they ate some (a little)	grupo	alternativoj	prononco
+level	post la manĝo	తిన్న తర్వాత (భోజనం)	after the eating (meal)	grupo	alternativoj	prononco
+level	nova, denove	కొత్త, మళ్ళీ	new, again	grupo	alternativoj	prononco
+level	la kelnero denove venis	వెయిటర్ మళ్ళీ వచ్చాడు	the waiter came again	grupo	alternativoj	prononco
+level	en iu loko	ఏదో ఒక చోట	in some place	grupo	alternativoj	prononco
+level	serĉis en iu loko	కొన్ని చోట్ల వెతికాడు	had searched in some place	grupo	alternativoj	prononco
+level	serĉis en alia loko	మరోచోట వెతికారు	searched in other place	grupo	alternativoj	prononco
+level	lia vizaĝo estis ĝoja	అతని ముఖం ఆనందంగా ఉంది	his face was joyous	grupo	alternativoj	prononco
+level	ŝi estis malĝoja	ఆమె విచారంగా ఉంది	she was sad	grupo	alternativoj	prononco
+level	fine kaj finfine	చివరికి మరియు చివరకు	in the end and finally at last	grupo	alternativoj	prononco
+level	via forta voĉo	మీ బలమైన స్వరం	your strong voice	grupo	alternativoj	prononco
+level	en malforta voĉo	బలహీనమైన స్వరంలో	in weak voice	grupo	alternativoj	prononco
+level	ne havas monon	డబ్బు లేదు	doesn't have money	grupo	alternativoj	prononco
+level	kio okazis tie?	అక్కడ ఏమి జరిగింది?	what did happen there?	grupo	alternativoj	prononco
+level	akcidento okazis poste	ఒక ప్రమాదం తరువాత జరిగింది	an accident happened later	grupo	alternativoj	prononco
+level	ĉu vi scias, kiam ĝi okazis?	అది ఎప్పుడు జరిగిందో తెలుసా?	do you know when did it happen?	grupo	alternativoj	prononco
+level	scias pri la afero	విషయం గురించి తెలుసు	knows about the matter	grupo	alternativoj	prononco
+level	ankoraŭ unu afero restas	ఇప్పటికీ ఒక విషయం మిగిలి ఉంది	still one thing remains	grupo	alternativoj	prononco
+level	vi aŭ ŝi, ajna homo	మీరు లేదా ఆమె, ఎవరైనా	you or she, any person	grupo	alternativoj	prononco
+level	kiel kantisto	గాయకుడిలా, సంతకం చేసేవాడిగా	like a singer, as a signer	grupo	alternativoj	prononco
+level	kantis kiel profesia kantisto	ప్రొఫెషనల్ సింగర్ లాగా పాడాడు	sang like a professional singer	grupo	alternativoj	prononco
+level	tie, kie ŝi loĝis	ఆమె నివసించిన ప్రదేశం	a the place, where she lived	grupo	alternativoj	prononco
+level	kiel vi scias pri la aŭto?	మీకు కారు గురించి ఎలా తెలుసు?	how do you know about the car?	grupo	alternativoj	prononco
+level	nu, vidu la rapidan aŭton	బాగా, వేగంగా కారు చూడండి	well, look at the fast car	grupo	alternativoj	prononco
+level	suko sen sukero	చక్కెర లేని రసం	a juice without sugar	grupo	alternativoj	prononco
+level	li havis rapidan veturilon	అతనికి వేగవంతమైన వాహనం ఉంది	he has a fast vehicle	grupo	alternativoj	prononco
+level	tro forte	చాలా బలంగా	too strongly	grupo	alternativoj	prononco
+level	li tro forte malfermis	అతను చాలా గట్టిగా తెరిచాడు	he opened too hard	grupo	alternativoj	prononco
+level	veturis tro rapide	చాలా వేగంగా (ప్రయాణం) నడిపాడు	drove (traveled) too fast	grupo	alternativoj	prononco
+level	manĝis per kulero	చెంచాతో తిన్నాడు	ate with a spoon	grupo	alternativoj	prononco
+level	ni forte dubas	మేము గట్టిగా అనుమానిస్తున్నాము	we strongly doubt	grupo	alternativoj	prononco
+level	vera letero de li	అతని నుండి నిజమైన లేఖ	a true letter from him	grupo	alternativoj	prononco
+level	amletero kun kvin fotoj	ఐదు ఫోటోలతో ప్రేమ లేఖ	a love letter with five photos	grupo	alternativoj	prononco
+level	revenis, revenintoj	తిరిగి, తిరిగి వచ్చిన ప్రజలు	returned, the people who returned	grupo	alternativoj	prononco
+level	ankaŭ ses leteroj revenis	ఆరు ఉత్తరాలు కూడా తిరిగి వచ్చాయి	also six letters returned	grupo	alternativoj	prononco
+level	volis vidi la foton	ఫోటో చూడాలనిపించింది	wanted to see the photo	grupo	alternativoj	prononco
+level	revenis el la lernejo	పాఠశాల నుండి తిరిగి వచ్చాడు	came back from the school	grupo	alternativoj	prononco
+level	kiam revenos la fratino?	సోదరి ఎప్పుడు తిరిగి వస్తుంది?	when will the sister return?	grupo	alternativoj	prononco
+level	volis legi denove	మళ్లీ చదవాలనుకున్నాడు	wanted to read again	grupo	alternativoj	prononco
+level	faris, fariĝis	చేసింది (చేసింది), అయింది	made (did), became	grupo	alternativoj	prononco
+level	rapide fariĝis ruĝa	వేగంగా ఎర్రగా మారింది	rapidly became red	grupo	alternativoj	prononco
+level	en ĉambro, en ĉambron	ఒక గదిలో, ఒక గదిలోకి	in a room, into a room	grupo	alternativoj	prononco
+level	staris kaj sidis	నిలబడి కూర్చున్నాడు	stood and sat	grupo	alternativoj	prononco
+level	tie staris antaŭ la foto	అక్కడ ఫోటో ముందు నిలబడ్డాడు	there stood in front of the photo	grupo	alternativoj	prononco
+level	mi havas tion	నా దగ్గర అది ఉంది	I have that	grupo	alternativoj	prononco
+level	kion vi havas en via mano?	నీ చేతిలో ఏమి ఉంది?	what do you have in your hand?	grupo	alternativoj	prononco
+level	antaŭ aŭ malantaŭ?	ముందు లేదా వెనుక?	in front or behind?	grupo	alternativoj	prononco
+level	antaŭ aŭ post?	ముందు లేదా తర్వాత?	before or after?	grupo	alternativoj	prononco
+level	tie malantaŭ la pordo	అక్కడ తలుపు వెనుక	there behind the door	grupo	alternativoj	prononco
+level	aliaj, aliaj homoj	ఇతరులు, ఇతర వ్యక్తులు	others, other people	grupo	alternativoj	prononco
+level	leteroj de aliaj	ఇతరుల నుండి లేఖలు	letters from others	grupo	alternativoj	prononco
+level	falis el la mano	చేతిలోంచి పడిపోయింది	fell out of the hand	grupo	alternativoj	prononco
+level	sur la tablo, sur la tablon	టేబుల్ మీద, టేబుల్ మీద	on the table, onto the table	grupo	alternativoj	prononco
+level	ĝi falis sur la tablon	అది టేబుల్ మీద పడింది	it fell on the table	grupo	alternativoj	prononco
+level	petis pardonon	క్షమాపణ కోరారు	asked for pardon	grupo	alternativoj	prononco
+level	serĉis kvin librojn	ఐదు పుస్తకాల కోసం వెతుకుతున్నాడు	was searching for five books	grupo	alternativoj	prononco
+level	pardonu, mi serĉis mian libron	క్షమించండి, నేను నా పుస్తకం కోసం వెతుకుతున్నాను.	sorry, I was looking for my book.	grupo	alternativoj	prononco
+level	sed vi bone scias	కానీ నీకు బాగా తెలుసు	but you know well	grupo	alternativoj	prononco
+level	ne estas sur mia tablo	నా టేబుల్ మీద లేదు	is not on my table	grupo	alternativoj	prononco
+level	viaj libroj ne estas sur mia tablo	మీ పుస్తకాలు నా టేబుల్ మీద లేవు	your books are not on my table	grupo	alternativoj	prononco
+level	ree donis, redonis	మళ్ళీ ఇచ్చాడు, తిరిగి ఇచ్చాడు	again gave, returned	grupo	alternativoj	prononco
+level	redonu la leteron al mi.	లేఖను నాకు తిరిగి ఇవ్వు	return the letter to me	grupo	alternativoj	prononco
+level	ricevis bonan lecionon	మంచి పాఠం అందుకుంది	received a good lesson	grupo	alternativoj	prononco
+level	plu lavis, ne plu manĝis	మరింత కడుగుతారు, ఇంకా తిన్నారు	further washed, ate any more	grupo	alternativoj	prononco
+level	ne plu legos	ఇక చదవరు	will no longer read	grupo	alternativoj	prononco
+level	ankaŭ mi ricevis	నేను కూడా అందుకున్నాను	I also received	grupo	alternativoj	prononco
+level	devas fermi	మూసివేయవలసి ఉంది	has to close	grupo	alternativoj	prononco
+level	mi devas bone fermi	నేను బాగా మూసివేయాలి	I have to close well	grupo	alternativoj	prononco
+level	bone fermis la pordon	తలుపు గట్టిగా మూసేశాడు	closed the door tightly	grupo	alternativoj	prononco
+level	trankvila, trankviliĝu	ప్రశాంతత, ప్రశాంతత	calm, calm down	grupo	alternativoj	prononco
+level	aŭdis sed ne aŭskultis	విన్నాడు కానీ వినలేదు	heard but did not listen	grupo	alternativoj	prononco
+level	aŭdis trankvilan sonon	ప్రశాంతమైన శబ్దం వినిపించింది	heard a calm sound	grupo	alternativoj	prononco
+level	ĉe mi estis kvar poŝoj	నా వద్ద, 4 పాకెట్స్ ఉన్నాయి	at me, there are 4 pockets	grupo	alternativoj	prononco
+level	dek tagoj post la lasta leciono	చివరి పాఠం పది రోజుల తర్వాత	ten days after the last lesson	grupo	alternativoj	prononco
+level	inter la du tabloj	రెండు పట్టికల మధ్య	between the two tables	grupo	alternativoj	prononco
+level	tri leteroj, ses paperoj	మూడు అక్షరాలు, ఆరు పేపర్లు	three letters, six papers	grupo	alternativoj	prononco
+level	de kapo ĝis piedo	తల నుండి పాదం వరకు	from head to foot	grupo	alternativoj	prononco
+level	kvar, kvara, kvaropo, kvarono	నాలుగు, నాల్గవ, ఒక చతుష్టయం, ఒక క్వార్టర్	four, fourth, a quartet, a quarter	grupo	alternativoj	prononco
+level	kien iris la triopo?	ముగ్గురూ ఎక్కడికి వెళ్లారు	where did the trio go	grupo	alternativoj	prononco
+level	kvin fingroj en ambaŭaj manoj	రెండు చేతుల్లో ఐదు వేళ్లు	five fingers in both hands	grupo	alternativoj	prononco
+level	si mem, sia poŝo	స్వయంగా, ఒకరి స్వంత జేబు	by oneself, one's own pocket	grupo	alternativoj	prononco
+level	meti, kunmeti, kunmetaĵo	చాలు, కలిసి, ఒక సమ్మేళనం	put, put together, a compound	grupo	alternativoj	prononco
+level	metis en sian poŝon	సొంత జేబులో పెట్టుకున్నాడు	put in one's own pocket	grupo	alternativoj	prononco
+level	du cent nacioj en la mondo	ప్రపంచంలో రెండు వందల దేశాలు	two hundred nations in the world	grupo	alternativoj	prononco
+level	prenis, forprenis	పట్టింది, తీసుకెళ్ళింది	took, took away	grupo	alternativoj	prononco
+level	prenis sep el siaj naŭ libroj	తన స్వంత తొమ్మిది పుస్తకాలలో ఏడింటిని తీసుకున్నాడు	took seven out of his own nine books	grupo	alternativoj	prononco
+level	lasi, forlasita	వదిలివేయడం, వదిలివేయడం	to leave, abandoned	grupo	alternativoj	prononco
+level	lasu min sola kaj trankvila	నన్ను ఒంటరిగా మరియు ప్రశాంతంగా వదిలేయండి	leave me alone and calm	grupo	alternativoj	prononco
+level	mil ok cent ok dek sep	వెయ్యి ఎనిమిది వందల ఎనభై ఏడు (1887)	thousand eight hundred and eighty seven (1887)	grupo	alternativoj	prononco
+level	taso da teo	ఒక కప్పు తేనీరు	a cup of tea	grupo	alternativoj	prononco
+level	oni lavis ok tasojn	ఎవరో ఎనిమిది కప్పులు కడుగుతారు	somebody washed eight cups	grupo	alternativoj	prononco
+level	du mil dek naŭ	రెండు వేల పంతొమ్మిది (2019)	two thousand nineteen (2019)	grupo	alternativoj	prononco
+level	li lavis sin	he was washed himself	he washed himself	grupo	alternativoj	prononco
+level	sia korpo, sia propra posedo	ఒకరి శరీరం, ఒకరి స్వంత స్వాధీనం	one's body, one's own possession	grupo	alternativoj	prononco
+level	sur la tablo, la kato dormis	టేబుల్ మీద, పిల్లి పడుకుంది	on the table, the cat slept	grupo	alternativoj	prononco
+level	la kato saltis sur la tablon	పిల్లి టేబుల్‌పైకి దూకింది	the cat jumped onto the table	grupo	alternativoj	prononco
+level	en la halo, en la halon	హాలులో, హాల్లోకి	in the hall, into the hall	grupo	alternativoj	prononco
+level	enfalis en lian manon	అతని చేతిలో పడింది	fell into his hand	grupo	alternativoj	prononco
+level	labori, ellabori	పని చేయడానికి, విశదీకరించడానికి	to work, to elaborate	grupo	alternativoj	prononco
+level	ellabori por tiu libro	ఆ పుస్తకం కోసం వివరించడానికి	to elaborate for that book	grupo	alternativoj	prononco
+level	scias, scivolas, scivolo	తెలుసు, తెలుసుకోవాలనుంది, ఉత్సుకత	knows, wants to know, curiosity	grupo	alternativoj	prononco
+level	dulingva, dulingveco	ద్విభాషా, ద్విభాషా	bilingual, bilingualism	grupo	alternativoj	prononco
+level	scivolas pri trilingva lernanto	త్రిభాషా అభ్యాసకుడి గురించి ఆశ్చర్యంగా ఉంది	wonders about a trilingual learner	grupo	alternativoj	prononco
+level	iris, reiris	వెళ్ళాడు, తిరిగి వచ్చాడు	went, returned	grupo	alternativoj	prononco
+level	la katoj reiris al siaj domoj	పిల్లులు తమ (సొంత) ఇళ్లకు తిరిగి వచ్చాయి	the cats returned to their (own) homes	grupo	alternativoj	prononco
+level	en la sako, en la sakon	సంచిలో, సంచిలో	in the bag, into the bag	grupo	alternativoj	prononco
+level	enmetu ĝin en vian sakon	నీ సంచిలో పెట్టు	put it into your bag	grupo	alternativoj	prononco
+level	piedo, piediras, piediranto	ఒక అడుగు, నడకలు, ఒక పాదచారి	a foot, walks, a pedestrian	grupo	alternativoj	prononco
+level	dek-tage ili piediris	పది రోజులు, వారు నడిచారు	for ten days, they walked	grupo	alternativoj	prononco
+level	preni, elpreni	తీయడానికి, తీయడానికి	to take, to take out	grupo	alternativoj	prononco
+level	belaj floroj, prenis belajn florojn	అందమైన పువ్వులు, అందమైన పువ్వులు పట్టింది	beautiful flowers, took beautiful flowers	grupo	alternativoj	prononco
+level	li elprenis nur belajn florojn	అతను అందమైన పువ్వులు మాత్రమే తీసుకున్నాడు	he took out only beautiful flowers	grupo	alternativoj	prononco
+level	malfermis, sed tuj fermis	తెరవబడింది, కానీ వెంటనే మూసివేయబడింది	opened, but immediately closed	grupo	alternativoj	prononco
+level	malfermis internacian kunvenon	అంతర్జాతీయ సమావేశాన్ని ప్రారంభించారు	opened an international meeting	grupo	alternativoj	prononco
+level	eldonis kaj disdonis	ప్రచురించబడింది మరియు పంపిణీ చేయబడింది	published and distributed	grupo	alternativoj	prononco
+level	la eldonisto eldonis dudek tri librojn	ప్రచురణకర్త ఇరవై మూడు పుస్తకాలను ప్రచురించారు	the publisher published twenty-three books	grupo	alternativoj	prononco
+level	revenis kaj revidis sian filon	తిరిగి వచ్చి ఒకరి స్వంత కొడుకును మళ్ళీ చూసాడు	returned and saw one's own son again	grupo	alternativoj	prononco
+level	en la jaro dumil dudek tri	రెండు వేల ఇరవై మూడు సంవత్సరంలో (2023)	in the year two thousand and twenty three (2023)	grupo	alternativoj	prononco
+level	sinjoro eniris la vendejon	ఒక పెద్దమనిషి దుకాణంలోకి ప్రవేశించాడు	a gentleman entered (into) the store	grupo	alternativoj	prononco
+level	la vendejo de aŭtoj	కార్ల దుకాణం	the store of cars	grupo	alternativoj	prononco
+level	tie li vidas sinjorinon	అక్కడ అతను ఒక స్త్రీని చూస్తాడు	there he sees a lady	grupo	alternativoj	prononco
+level	karaj gesinjoroj	ప్రియమైన మహిళలారా మరియు పురుషులరా	dear ladies and gentlemen	grupo	alternativoj	prononco
+level	tio plaĉis al mi	అది నాకు నచ్చింది (నాకు అది ఇష్టం)	that pleased me (I like that)	grupo	alternativoj	prononco
+level	la sinjorino plaĉis al li	లేడీ అతన్ని సంతోషపెట్టింది (అతను మహిళను ఇష్టపడ్డాడు)	the lady pleased him (he liked the lady)	grupo	alternativoj	prononco
+level	vidis la belan sinjorinon	అందమైన స్త్రీని చూసింది	saw the beautiful lady	grupo	alternativoj	prononco
+level	kiu plaĉis al li?	అతన్ని ఎవరు సంతోషపెట్టారు? (అతను ఎవరిని ఇష్టపడ్డాడు?)	who pleased him? (whom did he like?)	grupo	alternativoj	prononco
+level	la virino, kiu plaĉis al mi	నన్ను సంతోషపెట్టిన స్త్రీ	the woman, who pleased me	grupo	alternativoj	prononco
+level	tiu, kiu eniris la domon	ఇంట్లోకి ప్రవేశించినవాడు	the one who entered the house	grupo	alternativoj	prononco
+level	la viro, kiu donacis ĝin	దానిని దానం చేసిన వ్యక్తి	the man who donated it	grupo	alternativoj	prononco
+level	li donacis ringon al lia edzino	అతను తన భార్యకు ఉంగరాన్ని ఇచ్చాడు	he gave a ring to his wife	grupo	alternativoj	prononco
+level	la ringo plaĉis al ŝi	ఆమె ఉంగరాన్ని ఇష్టపడింది	she liked the ring	grupo	alternativoj	prononco
+level	la edzino, al kiu la ringo plaĉis	ఉంగరాన్ని ఇష్టపడిన భార్య	the wife who liked the ring	grupo	alternativoj	prononco
+level	vendisto laboras en la vendejo	ఒక సేల్స్ మాన్ దుకాణంలో పని చేస్తున్నాడు	a salesman works in the store	grupo	alternativoj	prononco
+level	vendisto de aŭtoj	కార్ల విక్రయదారుడు	a salesman of cars	grupo	alternativoj	prononco
+level	la sinjoro demandis al la vendisto	పెద్దమనిషి అమ్మవారిని అడిగాడు	the gentleman asked the salesman	grupo	alternativoj	prononco
+level	kiu aŭto plaĉas al vi?	మీకు ఏ కారు ఇష్టం?	which car do you like?	grupo	alternativoj	prononco
+level	kiun aŭton vi elektos?	మీరు ఏ కారును ఎంచుకుంటారు?	which car will you choose?	grupo	alternativoj	prononco
+level	mi elektis tiun aŭton	నేను ఆ కారుని ఎంచుకున్నాను	I chose that car	grupo	alternativoj	prononco
+level	ĝi estas pli bona	అది మంచిది	it is better	grupo	alternativoj	prononco
+level	pli bona ol ĉi tio	దీని కంటే మెరుగైనది	better than this	grupo	alternativoj	prononco
+level	plej bona el ili	వాటిలో ఉత్తమమైనది	best of them	grupo	alternativoj	prononco
+level	estas la plej bona	ఉత్తమమైనది	is the best	grupo	alternativoj	prononco
+level	kiu aŭto estas la plej bona?	ఏ కారు ఉత్తమమైనది?	which car is the best?	grupo	alternativoj	prononco
+level	tiu ĉi aŭto estas pli bona	ఈ కారు మంచిది	this car is better	grupo	alternativoj	prononco
+level	tiu ĉi estas la plej bona	ఇది ఉత్తమమైనది	this one is the best	grupo	alternativoj	prononco
+level	vidis ĉiujn aŭtojn	కార్లన్నీ చూసింది	saw all the cars	grupo	alternativoj	prononco
+level	la plej bona el ĉiuj	అన్నింటికంటే ఉత్తమమైనది	the best of all	grupo	alternativoj	prononco
+level	ĉu ĝi estas rapida?	ఇది వేగంగా ఉందా?	is it fast?	grupo	alternativoj	prononco
+level	pli rapida ol aliaj	ఇతరులకన్నా వేగంగా	faster than others	grupo	alternativoj	prononco
+level	estas ankaŭ forta	బలంగా కూడా ఉంది	is also strong	grupo	alternativoj	prononco
+level	ho jes, kompreneble!	అవును, అయితే!	oh yes, of course!	grupo	alternativoj	prononco
+level	estas tre forta	చాలా బలంగా ఉంది	is very strong	grupo	alternativoj	prononco
+level	certe ĝi estas forta	ఖచ్చితంగా అది బలంగా ఉంది	certainly it is strong	grupo	alternativoj	prononco
+level	estas ankaŭ multekosta	ఖరీదైనది కూడా	is also expensive	grupo	alternativoj	prononco
+level	la plej multekosta el ĉiuj	అన్నింటికంటే ఖరీదైనది	the most expensive of all	grupo	alternativoj	prononco
+level	malmultekosta sed forta	చౌకగా కానీ బలమైన	cheap but strong	grupo	alternativoj	prononco
+level	bedaŭras kaj bedaŭrindas	జాలిగా మరియు జాలిగా ఉంది (క్షమించాల్సిన విలువ)	feels sorry and is pityful (worth feeling sorry)	grupo	alternativoj	prononco
+level	bedaŭrinde mi ne aĉetos	దురదృష్టవశాత్తు నేను కొనను	unfortunately I will not buy	grupo	alternativoj	prononco
+level	estas bedaŭrinda afero	అనేది దురదృష్టకరం	is an unfortunate thing	grupo	alternativoj	prononco
+level	li aĉetis novan aŭton	అతను కొత్త కారు కొన్నాడు	he bought a new car	grupo	alternativoj	prononco
+level	ĉar mi ne havas monon	ఎందుకంటే నా దగ్గర డబ్బు లేదు	because I do not have money	grupo	alternativoj	prononco
+level	mia malnova aŭto	నా పాత కారు	my old car	grupo	alternativoj	prononco
+level	la plej malmultekosta el ĉiuj	అన్నిటికంటే చౌకైనది	the cheapest of all	grupo	alternativoj	prononco
+level	mi veturos tien	నేను అక్కడ డ్రైవ్ చేస్తాను	I'll drive there	grupo	alternativoj	prononco
+level	ankoraŭ veturos per ĝi	ఇంకా దానితోనే డ్రైవ్ చేస్తుంది	will still drive with it	grupo	alternativoj	prononco
+level	dum la tuta tago	దినమన్తా	all day long	grupo	alternativoj	prononco
+level	dum li diris tion	అని అతను చెప్పగా	while he said that	grupo	alternativoj	prononco
+level	li denove rigardis ŝin	అతను మళ్ళీ ఆమె వైపు చూశాడు	he looked at her again	grupo	alternativoj	prononco
+level	sed la vendisto diris	కానీ సేల్స్ మాన్ అన్నాడు	but the salesman said	grupo	alternativoj	prononco
+level	estus pli bone, ke ~	అది మంచిది ~	it would be better that ~	grupo	alternativoj	prononco
+level	rigardu tiun ĉi sinjorinon	ఈ స్త్రీని చూడు	look at this lady	grupo	alternativoj	prononco
+level	ankaŭ tio estas tre multekosta	అది కూడా చాలా ఖరీదైనది	that is also very expensive	grupo	alternativoj	prononco
+level	mi estas ŝia edzo	నేను ఆమె భర్తను	I am her husband	grupo	alternativoj	prononco
+level	kiom via vojaĝo kostis?	మీ ప్రయాణానికి ఎంత ఖర్చయింది?	how much did your trip cost?	grupo	alternativoj	prononco
+level	aŭskultu la kanton de via edzino	మీ భార్య పాట వినండి	listen to your wife's song	grupo	alternativoj	prononco
+level	ne forgesu, ke ĝi tre multe kostas	చాలా ఖర్చవుతుందని మర్చిపోవద్దు	don’t forget that it costs a lot	grupo	alternativoj	prononco
+level	li helpis la vendiston dum du horoj	అతను సేల్స్‌మాన్‌కి రెండు గంటలు సహాయం చేసాడు	he helped the salesman for two hours	grupo	alternativoj	prononco
+level	jam pli ol tri jaroj	మూడు సంవత్సరాలకు పైగా	for more than three years	grupo	alternativoj	prononco
+level	kovri, kovrilo, malkovri	కవర్, కవర్, అన్‌కవర్ (కనుగొనండి)	cover, cover, uncover (discover)	grupo	alternativoj	prononco
+level	la kialon li ankoraŭ ne malkovris	కారణం అతను ఇంకా కనుగొనలేదు	the reason he has not yet discovered	grupo	alternativoj	prononco
+level	kial vi komencis sendi leterojn?	మీరు ఉత్తరాలు ఎందుకు పంపడం ప్రారంభించారు?	why did you start sending letters?	grupo	alternativoj	prononco
+level	dum ok monatoj li vivis tie	ఎనిమిది నెలలు అతను అక్కడ నివసించాడు	for eight months he lived there	grupo	alternativoj	prononco
+level	ne havis tempon por aŭskulti	వినడానికి సమయం లేదు	didn't have time to listen	grupo	alternativoj	prononco
+level	la aŭto estis jam plena	కారు అప్పటికే నిండిపోయింది	the car was already full	grupo	alternativoj	prononco
+level	kion vi manĝas?	మీరు ఏమి తింటారు	what are you eating	grupo	alternativoj	prononco
+level	kia estas la vetero?	వాతావరణం ఎలా ఉంది?	what's the weather like?	grupo	alternativoj	prononco
+level	kian aŭton vi havas?	మీ దగ్గర ఎలాంటి కారు ఉంది?	what kind of car do you have?	grupo	alternativoj	prononco
+level	kiaj estis ŝiaj leteroj?	ఆమె ఉత్తరాలు ఎలా ఉన్నాయి?	what were her letters like?	grupo	alternativoj	prononco
+level	kie ni estas?	మనం ఎక్కడ ఉన్నాము?	where are we?	grupo	alternativoj	prononco
+level	kien vi iras?	నువ్వు ఎక్కడికి వెళ్ళుతున్నావు?	where are you going to?	grupo	alternativoj	prononco
+level	al kiu vi donis ĝin?	మీరు ఎవరికి ఇచ్చారు?	to whom did you give it?	grupo	alternativoj	prononco
+level	la viro, kun kiu vi vojaĝis	మీరు ప్రయాణించిన వ్యక్తి	the man whom you traveled with	grupo	alternativoj	prononco
+level	pli granda ol la aŭto	కారు కంటే పెద్దది	bigger than the car	grupo	alternativoj	prononco
+level	la plej alta el tiuj homoj	ఆ వ్యక్తులలో ఎత్తైనది	the tallest of those people	grupo	alternativoj	prononco
+level	li sidis dum la manĝo	అతను రాత్రి భోజనంలో కూర్చున్నాడు	he was sitting at dinner	grupo	alternativoj	prononco
+level	ŝi skribas dum li legas	అతను చదివేటప్పుడు ఆమె రాస్తుంది	she writes while he reads	grupo	alternativoj	prononco
+level	ĉi tie, en ĉi tiu ĉambro	ఇక్కడ, ఈ గదిలో	here, in this room	grupo	alternativoj	prononco
+level	tiu ĉi sinjoro	ఈ పెద్దమనిషి	this gentleman	grupo	alternativoj	prononco
+level	aŭskultinda novaĵo	వినవలసిన వార్త	a news worth listening	grupo	alternativoj	prononco
+level	la libro estas vere leginda	పుస్తకం నిజంగా చదవదగినది	the book is really worth reading	grupo	alternativoj	prononco
+level	bedaŭra afero	ఒక దురదృష్టకరమైన విషయం	an unfortunate thing	grupo	alternativoj	prononco
+level	bedaŭrinde, mi ne povas	దురదృష్టవశాత్తు, నేను చేయలేను	unfortunately, I can't	grupo	alternativoj	prononco
+level	nedankinde. estis mia plezuro	మీకు స్వాగతం. ఇది నా అధృష్టమ్	you are welcome. it was my pleasure	grupo	alternativoj	prononco
+level	eta belulino ege belas	చిన్న అందమైన అమ్మాయి చాలా అందంగా ఉంది	small pretty girl is very beautiful	grupo	alternativoj	prononco
+level	ĉiuj amikoj amas ŝin	స్నేహితులందరూ ఆమెను ప్రేమిస్తారు	all friends love her	grupo	alternativoj	prononco
+level	antaŭ tri monatoj	మూడు నెలల క్రితం	three months ago	grupo	alternativoj	prononco
+level	okazis malbono al ŝi	ఆమెకు ఏదో చెడు జరిగింది	something bad happened to her	grupo	alternativoj	prononco
+level	ŝi falis pro aŭto	ఆమె కారు కారణంగా పడిపోయింది	she fell because of a car	grupo	alternativoj	prononco
+level	malsaniĝis kaj temperaturo altiĝis	అనారోగ్యం మరియు ఉష్ణోగ్రత పెరిగింది	became ill and temperature rose	grupo	alternativoj	prononco
+level	patrino diris, ke ŝi devas ripozi	తల్లి విశ్రాంతి తీసుకోవాలని చెప్పింది	mother said she should rest	grupo	alternativoj	prononco
+level	ŝi devas resti hejme	ఆమె ఇంట్లోనే ఉండాలి	she has to stay home	grupo	alternativoj	prononco
+level	ŝi vokos doktoron	ఆమె వైద్యుడిని పిలుస్తుంది	she will call a doctor	grupo	alternativoj	prononco
+level	je la naŭa horo	తొమ్మిది గంటలకు	at nine o'clock	grupo	alternativoj	prononco
+level	matene venis je la oka	ఉదయం ఎనిమిది గంటలకు వచ్చింది	in the morning came at eight o'clock	grupo	alternativoj	prononco
+level	je la sepa morgaŭ vespere	రేపు సాయంత్రం ఏడు గంటలకు	at seven tomorrow evening	grupo	alternativoj	prononco
+level	montris liajn manojn	చేతులు చూపించాడు	showed his hands	grupo	alternativoj	prononco
+level	vesto, vestiĝas	దుస్తులు, దుస్తులు ధరించడం	dress, is getting dressed	grupo	alternativoj	prononco
+level	vestiĝu kaj varmigu vian korpon	దుస్తులు ధరించండి మరియు మీ శరీరాన్ని వేడి చేయండి	get dressed and warm your body	grupo	alternativoj	prononco
+level	hejme tuj malvestis kaj duŝis	ఇంట్లో వెంటనే బట్టలు విప్పేసి స్నానం చేశాడు	at home immediately undressed and showered	grupo	alternativoj	prononco
+level	doktoro rigardis ĉion	ఒక వైద్యుడు అన్నీ చూశాడు	a doctor looked at everything	grupo	alternativoj	prononco
+level	bone rigardis kaj fine diris	నిశితంగా చూసి చివరగా అన్నాడు	looked throughly and finally said	grupo	alternativoj	prononco
+level	unu semajnon restu hejme	ఒక వారం పాటు ఇంట్లో ఉండండి	stay home for a week	grupo	alternativoj	prononco
+level	deziras, ke vi estu trankvila	మీరు ప్రశాంతంగా ఉండాలని కోరుకుంటున్నాను	wants you to be calm	grupo	alternativoj	prononco
+level	post unu semajno	ఒక వారం తర్వాత	after one week	grupo	alternativoj	prononco
+level	vi fartos pli bone	మీరు మంచి అనుభూతి చెందుతారు	you will feel better	grupo	alternativoj	prononco
+level	trinku multe da teo	టీ పుష్కలంగా త్రాగడానికి	drink plenty of tea	grupo	alternativoj	prononco
+level	venos por revidi vin	మళ్లీ నిన్ను చూడడానికి వస్తాను	will come to see you again	grupo	alternativoj	prononco
+level	ankaŭ li estu trankvila	అతన్ని కూడా ప్రశాంతంగా ఉండనివ్వండి	let him be calm too	grupo	alternativoj	prononco
+level	sana homo, sanulo	ఆరోగ్యకరమైన మనిషి, ఆరోగ్యకరమైన వ్యక్తి	healthy man, healthy person	grupo	alternativoj	prononco
+level	zorgis pri si mem	తనను తాను చూసుకున్నాడు	took care of oneself	grupo	alternativoj	prononco
+level	tuta afero tuje utilis al mi	మొత్తం విషయం నాకు ఒకేసారి ఉపయోగకరంగా ఉంది	the whole thing was useful to me at once	grupo	alternativoj	prononco
+level	rimarkis, ke teruraĵo proksimas	భయంకరమైన విషయం సమీపంలో ఉందని గమనించాడు	noticed that horrible thing is near	grupo	alternativoj	prononco
+level	petis tuj rimarki ĝin	వెంటనే గమనించాలని కోరారు	asked to notice it immediately	grupo	alternativoj	prononco
+level	pensis, ke tio ne necesas	అవసరం లేదు అనుకున్నాడు	thought that was not necessary	grupo	alternativoj	prononco
+level	loĝis proksime, kaj tio utilis	సమీపంలో నివసించారు, మరియు అది ఉపయోగకరంగా ఉంది	lived nearby, and that was useful	grupo	alternativoj	prononco
+level	nia lando hodiaŭ teruriĝis	మన దేశం నేడు భయభ్రాంతులకు గురైంది	our country became terrified today	grupo	alternativoj	prononco
+level	karaj infanoj el ĉiuj familioj	అన్ని కుటుంబాల నుండి ప్రియమైన పిల్లలు	dear children from all families	grupo	alternativoj	prononco
+level	unu fojon hieraŭ, du fojojn morgaŭ	నిన్న ఒకసారి, రేపు రెండుసార్లు	once yesterday, twice tomorrow	grupo	alternativoj	prononco
+level	hodiaŭ familioj bezonas infanojn	నేడు కుటుంబాలకు పిల్లలు కావాలి	today families need children	grupo	alternativoj	prononco
+level	esperis, ke li fartos bone morgaŭ	రేపు బాగుండాలని ఆశపడ్డాడు	hoped he would be well tomorrow	grupo	alternativoj	prononco
+level	li fartis ege trankvila	అతను చాలా ప్రశాంతంగా ఉన్నాడు	he was feeling (has been) very calm	grupo	alternativoj	prononco
+level	tri etuloj altigis la monton	ముగ్గురు చిన్నారులు పర్వతాన్ని ఎత్తారు	three little ones raised the mountain	grupo	alternativoj	prononco
+level	gravuloj ne petis helpon	ముఖ్యమైన వ్యక్తులు సహాయం కోసం అడగలేదు	important people did not ask for help	grupo	alternativoj	prononco
+level	piediris tien por helpi	సహాయం చేయడానికి అక్కడికి నడిచాడు	walked there to help	grupo	alternativoj	prononco
+level	restu hejme se temperaturo altas	ఉష్ణోగ్రత ఎక్కువగా ఉంటే ఇంట్లోనే ఉండండి	stay home if temperature is high	grupo	alternativoj	prononco
+level	temperaturo restis simila hodiaŭ	ఈరోజు కూడా అదే స్థాయిలో ఉష్ణోగ్రతలు నమోదయ్యాయి	temperature remained similar today	grupo	alternativoj	prononco
+level	voku la doktoron je la naŭa	తొమ్మిదికి వైద్యుడిని పిలవండి	call the doctor at nine	grupo	alternativoj	prononco
+level	montru ĝin al via doktoro	మీ వైద్యుడికి చూపించండి	show it to your doctor	grupo	alternativoj	prononco
+level	por montri vian piedon	మీ పాదం చూపించడానికి	to show your foot	grupo	alternativoj	prononco
+level	vestu ĉi tiun ĉemizon	ఈ చొక్కా ధరించండి	wear this shirt	grupo	alternativoj	prononco
+level	semajnfine ĉio trankviliĝos	వారాంతంలో అంతా ప్రశాంతంగా ఉంటుంది	on the weekend everything will calm down	grupo	alternativoj	prononco
+level	sub la te-taso kion vi trovis?	టీ కప్పు కింద మీరు ఏమి కనుగొన్నారు?	under the tea-cup what did you find?	grupo	alternativoj	prononco
+level	mi deziras matenan teon	నాకు ఉదయం టీ కావాలి	I want morning tea	grupo	alternativoj	prononco
+level	esperis trankvilan vesperon	ప్రశాంతమైన సాయంత్రం కోసం ఆశపడ్డాడు	hoped for a quiet evening	grupo	alternativoj	prononco
+level	deziras, ke vi lernu	మీరు నేర్చుకోవాలని కోరుకుంటున్నాను	wants that you learn	grupo	alternativoj	prononco
+level	insistis, ke mi iru	నేను వెళ్ళాలని పట్టుబట్టాడు	insisted that I go	grupo	alternativoj	prononco
+level	je kioma horo?	ఏ గంటలో?	at what hour?	grupo	alternativoj	prononco
+level	je la sesa, li venos	ఆరు గంటలకు అతను వస్తాడు	at six he will come	grupo	alternativoj	prononco
+level	la libreto estis ĉarma	లిబ్రెట్టో మనోహరంగా ఉంది	the libretto was charming	grupo	alternativoj	prononco
+level	estu trankvila	నిశ్సబ్దంగా ఉండండి	be quiet	grupo	alternativoj	prononco
+level	li estu trankvila	అతను నిశ్శబ్దంగా ఉండనివ్వండి	let him be quiet	grupo	alternativoj	prononco
+level	ankaŭ li	అతను కూడా	he too	grupo	alternativoj	prononco
+level	mi deziras	నాకు కావాలి (కోరిక)	I want (desire)	grupo	alternativoj	prononco
+level	mi deziras, ke ~	నేను కోరుకుంటున్నాను (కోరిక) ~	I wish (desire) that ~	grupo	alternativoj	prononco
+level	ke vi lernu	మీరు నేర్చుకుంటారు	that you learn	grupo	alternativoj	prononco
+level	mi deziras, ke vi lernu	మీరు నేర్చుకోవాలని నేను కోరుకుంటున్నాను	I want you to learn	grupo	alternativoj	prononco
+level	patro insistas	తండ్రి నొక్కి వక్కాణించాడు	father insists	grupo	alternativoj	prononco
+level	patro insistas, ke ~	అని తండ్రి నొక్కి వక్కాణించాడు	father insists that ~	grupo	alternativoj	prononco
+level	ke mi iru	నేను వెళ్తాను అని	that I go	grupo	alternativoj	prononco
+level	patro insistas, ke mi iru	నాన్న నన్ను వెళ్ళమని పట్టుబట్టారు	father insists that I go	grupo	alternativoj	prononco
+level	je kioma horo	ఏ గంటలో	at what hour	grupo	alternativoj	prononco
+level	je kioma horo vi venos?	నువ్వు ఎప్పుడు వస్తావు?	what time do you come?	grupo	alternativoj	prononco
+level	je la kvina	ఐదు గంటలకి)	at five (o'clock)	grupo	alternativoj	prononco
+level	je la kvina horo	ఐదు గంటలకి	at five o'clock	grupo	alternativoj	prononco
+level	kiel li fartas?	అతను ఎలా చేస్తున్నాడు?	how does he doing?	grupo	alternativoj	prononco
+level	kiel vi fartis lastatempe?	మీరు ఇటీవల ఎలా ఉన్నారు?	how have you been lately?	grupo	alternativoj	prononco
+level	etaj libroj belas	చిన్న పుస్తకాలు అందంగా ఉన్నాయి	little books are beautiful	grupo	alternativoj	prononco
+level	libreto, belaj libroj	ఒక బుక్లెట్, అందమైన పుస్తకాలు	a booklet, beautiful books	grupo	alternativoj	prononco
+level	bela, beleta, belega	అందమైన, కొద్దిగా అందంగా, చాలా అందంగా	beautiful, a little pretty, very beautiful	grupo	alternativoj	prononco
+level	varma, varmeta, varmega	వెచ్చని, మోస్తరు, చాలా వేడి	warm, lukewarm, very hot	grupo	alternativoj	prononco
+level	librego, libreto	ఒక పెద్ద పుస్తకం, ఒక బుక్‌లెట్	a big book, a booklet	grupo	alternativoj	prononco
+level	bona, bonega, bonege	మంచి, గొప్ప, బాగా	good, great, well	grupo	alternativoj	prononco
+level	riĉa, riĉiĝi, riĉulo	ధనవంతుడు, ధనవంతుడు, ధనవంతుడు	rich, become rich, a rich person	grupo	alternativoj	prononco
+level	trankvila, trankviliĝi, trankviliĝu	ప్రశాంతత, ప్రశాంతత, ప్రశాంతత	calm, to calm down, calm down	grupo	alternativoj	prononco
+level	sana, resaniĝi, resaniĝis	ఆరోగ్యంగా, నయం కావడానికి, నయం అయింది	healthy, to become healed, became healed	grupo	alternativoj	prononco
+level	edzo, edziĝo, geedziĝis	ఒక భర్త, వివాహం, వివాహం	a husband, marriage, married	grupo	alternativoj	prononco
+level	leterportisto	ఒక ఉత్తరం పోస్ట్మాన్	a letter postman	grupo	alternativoj	prononco
+level	hejmlando	ఒక మాతృభూమి	a homeland	grupo	alternativoj	prononco
+level	iom, iomete	కొంత, కొద్దిగా	somewhat, a little	grupo	alternativoj	prononco
+level	ni bonege vespermanĝis	మేము గొప్ప విందు చేసాము	we had a great dinner	grupo	alternativoj	prononco
+level	espereble, prizorgu vin	ఆశాజనక, మిమ్మల్ని మీరు జాగ్రత్తగా చూసుకోండి	hopefully, take care of yourself	grupo	alternativoj	prononco
+level	mi zorgis pri la altkvalita loĝejo	నేను అధిక-నాణ్యత గృహాల గురించి శ్రద్ధ వహించాను	I cared about the high-quality housing	grupo	alternativoj	prononco
+level	pripensu dufoje, multfoje	ఒకటికి రెండు సార్లు ఆలోచించు	think twice, many times	grupo	alternativoj	prononco
+level	kiu deprenis la libreton?	బుక్‌లెట్‌ను ఎవరు తీసివేసారు?	who took down the booklet?	grupo	alternativoj	prononco
+level	kato, kiu nomiĝas Cezaro	సీజర్ అనే పిల్లి	a cat named Caesar	grupo	alternativoj	prononco
+level	kuko, kiu estas sur la tablo	టేబుల్ మీద ఉన్న కేక్	a cake which is on the table	grupo	alternativoj	prononco
+level	manĝu kukon, kiu estas sur la tablo	టేబుల్ మీద ఉన్న కేక్ తినండి	eat a cake that is on the table	grupo	alternativoj	prononco
+level	fariĝis varmega kaj ruĝiĝis	వేడిగా మరియు ఎర్రబడ్డాడు	became hot and blushed	grupo	alternativoj	prononco
+level	patro volas, ke lia infano manĝu	ఒక తండ్రి తన బిడ్డ తినాలని కోరుకుంటాడు	a father wants his child to eat	grupo	alternativoj	prononco
+level	en malgranda ĉambro	ఒక చిన్న గదిలో	in a small room	grupo	alternativoj	prononco
+level	ni loĝas en ~	మేము ~లో నివసిస్తున్నాము	we live in ~	grupo	alternativoj	prononco
+level	mi fariĝis maltrankvila	నేను ఆందోళన చెందాను	I became anxious	grupo	alternativoj	prononco
+level	tiam, kiam mi vidis vin	ఆ సమయంలో నేను నిన్ను చూసినప్పుడు	at that time when I saw you	grupo	alternativoj	prononco
+level	ĉiuj rimarkis tion	అందరూ అది గమనించారు	everyone noticed that	grupo	alternativoj	prononco
+level	tion, ke ŝi estas belega	ఆమె అందంగా ఉంది వాస్తవం	the fact that she is beautiful	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke ~ ?	మీకు అది కావాలా ~? (డెజిరి)	do you want that ~ ? (deziri)	grupo	alternativoj	prononco
+level	ke mi montru al vi	నేను మీకు చూపించగలను	that I may show you	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke mi montru?	నేను చూపించాలనుకుంటున్నారా?	do you want me to show?	grupo	alternativoj	prononco
+level	mian plej novan libron	నా సరికొత్త పుస్తకం (ఆబ్జెక్టివ్)	my newest book (objective)	grupo	alternativoj	prononco
+level	morgaŭ matene, kion vi volas?	రేపు ఉదయం, మీకు ఏమి కావాలి?	tomorrow morning, what do you want?	grupo	alternativoj	prononco
+level	matenmanĝis malfrue	ఆలస్యంగా అల్పాహారం చేశారు	had breakfast late	grupo	alternativoj	prononco
+level	kiam Marko alvenos?	మార్క్ ఎప్పుడు వస్తాడు?	when will Mark arrive?	grupo	alternativoj	prononco
+level	je la kvina aŭ je la oka horo	ఐదు లేదా ఎనిమిది గంటలకు	at five or eight o'clock	grupo	alternativoj	prononco
+level	kiam vi rimarkis, ke ~ ?	మీరు దానిని ఎప్పుడు గమనించారు ~?	when did you notice that ~ ?	grupo	alternativoj	prononco
+level	la tuta familio nomas min bonfarulo	కుటుంబం మొత్తం నన్ను శ్రేయోభిలాషి అని పిలుస్తుంది	the whole family calls me a benefactor	grupo	alternativoj	prononco
+level	utila por vi	మీకు ఉపయోగపడుతుంది	useful for you	grupo	alternativoj	prononco
+level	ĉu la libreto estis utila?	బుక్‌లెట్ ఉపయోగకరంగా ఉందా?	was the booklet useful?	grupo	alternativoj	prononco
+level	tiu libreto, kiun mi sendis	నేను పంపిన బుక్‌లెట్	the booklet, which I sent	grupo	alternativoj	prononco
+level	matene dormis tre longe	ఉదయం చాలా సేపు నిద్రపోయాడు	in the morning slept for a long time	grupo	alternativoj	prononco
+level	kiam li vidis la sunon	అతను సూర్యుడిని చూసినప్పుడు	when he saw the sun	grupo	alternativoj	prononco
+level	subite li eksaltis	అకస్మాత్తుగా అతను పైకి దూకాడు	suddenly he jumped up	grupo	alternativoj	prononco
+level	li estis ĉiam frua	అతను ఎల్లప్పుడూ ముందుగానే ఉండేవాడు	he was always early	grupo	alternativoj	prononco
+level	ĉiam li malfruas	అతను ఎప్పుడూ ఆలస్యంగా ఉంటాడు	he is always late	grupo	alternativoj	prononco
+level	tiam, kiam li devas iri	ఆ సమయంలో, అతను వెళ్ళవలసి వచ్చినప్పుడు	at that time, when he has to go	grupo	alternativoj	prononco
+level	iri al la lernejo	పాఠశాలకు వెళ్ళడానికి	to go to the school	grupo	alternativoj	prononco
+level	li scias, ke ~	అతనికి తెలుసు, అది ~	he knows, that ~	grupo	alternativoj	prononco
+level	li scias tion, ke ~	అతనికి వాస్తవం తెలుసు, ~	he knows the fact, that ~	grupo	alternativoj	prononco
+level	tion, ke la instruisto malŝatas abelon	ఉపాధ్యాయుడు తేనెటీగలను ద్వేషిస్తాడనే వాస్తవం	the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias tion, ke la instruisto malŝatas abelon	టీచర్ తేనెటీగలను ద్వేషిస్తాడనే వాస్తవం తెలుసు	knows the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias, ke la instruisto malŝatas tion	గురువు దానిని ద్వేషిస్తున్నాడని తెలుసు	knows that the teacher hates that	grupo	alternativoj	prononco
+level	sed hodiaŭ li trinkis la kafon	కానీ ఈరోజు అతను కాఫీ తాగాడు	but today he drank the coffee	grupo	alternativoj	prononco
+level	li rapide surmetas la vestaĵon	అతను త్వరగా బట్టలు వేసుకుంటాడు	he quickly puts on the clothes	grupo	alternativoj	prononco
+level	li ne volas malfrui	అతను ఆలస్యం చేయడం ఇష్టం లేదు	he doesn't want to be late	grupo	alternativoj	prononco
+level	rapidege kun la libroj en la mano	చేతిలో పుస్తకాలతో చాలా త్వరగా	very quickly with the books in hand	grupo	alternativoj	prononco
+level	poste li kuris kaj saltis	తరువాత అతను పరిగెత్తాడు మరియు దూకాడు	later he ran and jumped	grupo	alternativoj	prononco
+level	li kuris kaj saltis	అతను పరిగెత్తాడు మరియు దూకాడు	he ran and jumped	grupo	alternativoj	prononco
+level	laŭ la strato	వీధి పొడవునా	along the street	grupo	alternativoj	prononco
+level	la homoj rigardis lin	ప్రజలు అతని వైపు చూశారు	the people looked at him	grupo	alternativoj	prononco
+level	rigardis lin kaj diris	అతన్ని చూసి అన్నాడు	looked at him and said	grupo	alternativoj	prononco
+level	saĝa kaj malsaĝa	తెలివైన మరియు మూర్ఖుడు	wise and foolish	grupo	alternativoj	prononco
+level	kia malsaĝa knabo!	ఎంత తెలివితక్కువ అబ్బాయి!	what a foolish boy!	grupo	alternativoj	prononco
+level	estis antaŭ lernejo	ఒక పాఠశాల ముందు ఉంది	was in front of a school	grupo	alternativoj	prononco
+level	baldaŭ	త్వరలో	soon	grupo	alternativoj	prononco
+level	li estis antaŭ ~	అతను ముందు ఉన్నాడు ~	he was in front of ~	grupo	alternativoj	prononco
+level	iri kaj eniri	వెళ్ళడానికి మరియు ప్రవేశించడానికి	to go and to enter	grupo	alternativoj	prononco
+level	li volis eniri	అతను ప్రవేశించాలనుకున్నాడు	he wanted to enter	grupo	alternativoj	prononco
+level	eniri la lernejon	పాఠశాలలో ప్రవేశించడానికి	to enter into the school	grupo	alternativoj	prononco
+level	sed tamen	అయితే	but however	grupo	alternativoj	prononco
+level	sed li ne povis	కానీ అతను చేయలేకపోయాడు	but he couldn't	grupo	alternativoj	prononco
+level	fermi kaj fermita	మూసివేయడానికి మరియు మూసివేయడానికి	to close and closed	grupo	alternativoj	prononco
+level	ĝi estis fermita	అది మూసివేయబడింది	it was closed	grupo	alternativoj	prononco
+level	nek ~ nek ~	~ లేదా ~ కాదు	neither ~ nor ~	grupo	alternativoj	prononco
+level	nek instruisto nek gelernantoj	ఉపాధ్యాయుడు లేదా మగ-ఆడ విద్యార్థులు కాదు	neither a teacher nor male-and-female students	grupo	alternativoj	prononco
+level	vidis nek instruiston nek gelernantojn	ఉపాధ్యాయుడిని లేదా విద్యార్థులను చూడలేదు	saw neither a teacher nor students	grupo	alternativoj	prononco
+level	sidi, eksidi	కూర్చోవడం, కూర్చోవడం	to sit, to get sitted	grupo	alternativoj	prononco
+level	eksidis	కూర్చున్నాడు (కూర్చున్నాడు)	got seated (had seated)	grupo	alternativoj	prononco
+level	li eksidis	అతను కూర్చున్నాడు	he got seated	grupo	alternativoj	prononco
+level	kaj pensis	మరియు ఆలోచన	and thought	grupo	alternativoj	prononco
+level	kio okazis?	ఏమి జరిగింది?	what did happen?	grupo	alternativoj	prononco
+level	diable	భయంకర (దెయ్యం లాగా)	to the awful (like a devil)	grupo	alternativoj	prononco
+level	damne	ఆనకట్ట వేయండి	dam it	grupo	alternativoj	prononco
+level	memoras	గుర్తుకొస్తుంది	remembers	grupo	alternativoj	prononco
+level	nun mi memoras	ఇప్పుడు నాకు గుర్తుంది	now I remember	grupo	alternativoj	prononco
+level	dimanĉo	ఆదివారం	Sunday	grupo	alternativoj	prononco
+level	hodiaŭ estas ~	ఈ రోజు ~	today is ~	grupo	alternativoj	prononco
+level	hodiaŭ estas dimanĉo	ఈరోజు ఆదివారం	today is Sunday	grupo	alternativoj	prononco
+level	dormi kaj ekdormi	నిద్రించడానికి మరియు నిద్రలోకి రావడానికి	to sleep and to get into sleep	grupo	alternativoj	prononco
+level	suno kaj luno	ఒక సూర్యుడు మరియు చంద్రుడు	a sun and a moon	grupo	alternativoj	prononco
+level	subita kaj subite	ఆకస్మికంగా మరియు హఠాత్తుగా	sudden and suddenly	grupo	alternativoj	prononco
+level	ek!	ఆఫ్! (ప్రారంభించడానికి)	off! (to start)	grupo	alternativoj	prononco
+level	salti kaj eksaltis	దూకడం మరియు దూకడం	to jump and jumped 	grupo	alternativoj	prononco
+level	ĉiam frua	ఎల్లప్పుడూ ముందుగానే	always early	grupo	alternativoj	prononco
+level	hodiaŭ metis kaj kuris	నేడు చాలు మరియు నడిచింది	today put and ran	grupo	alternativoj	prononco
+level	aĵo, ne aĝo	ఒక విషయం వయస్సు కాదు	a thing not age	grupo	alternativoj	prononco
+level	kuris laŭ homoj saĝaj	తెలివైన వ్యక్తుల వెంట నడిచింది	ran along wise people	grupo	alternativoj	prononco
+level	laŭeble baldaŭ	వీలైనంత తొందరగా	soon as possible	grupo	alternativoj	prononco
+level	kia knabo, kia knabino	ఏమి అబ్బాయి, ఏమి అమ్మాయి	what a boy, what a girl	grupo	alternativoj	prononco
+level	nek pensita nek memorita	ఆలోచించలేదు లేదా కంఠస్థం చేయలేదు	neither thought nor memorized	grupo	alternativoj	prononco
+level	diablo atendis akvon dimanĉe	ఒక దెయ్యం ఆదివారం నీటి కోసం ఎదురుచూసింది	a devil waited for water on Sunday	grupo	alternativoj	prononco
+level	tiom malgranda momento	అటువంటి చిన్న క్షణం	such a small moment	grupo	alternativoj	prononco
+level	eĉ tiom malgranda momento valoras	ఇంత చిన్న క్షణం కూడా విలువైనదే	even such a small moment is worthwhile	grupo	alternativoj	prononco
+level	kriis for ĝis nokto	రాత్రి వరకు అరిచాడు	cried away until night	grupo	alternativoj	prononco
+level	lasis la poŝton de la mano	చేతి నుండి మెయిల్‌పోస్టును దూరంగా ఉంచండి	put away the mailpost from the hand	grupo	alternativoj	prononco
+level	ridis mem lasante la poŝton	మెయిల్‌పోస్ట్‌ని దూరంగా పెట్టి తనంతట తానుగా నవ్వుకున్నాడు	laughed by oneself, putting away the mailpost	grupo	alternativoj	prononco
+level	nek li nek ŝi ridis	అతను లేదా ఆమె నవ్వలేదు	neither he nor she laughed	grupo	alternativoj	prononco
+level	ŝi nek ridis nek respondis	ఆమె నవ్వలేదు లేదా సమాధానం చెప్పలేదు	she neither laughed nor answered	grupo	alternativoj	prononco
+level	li nek sidas nek rigardas	అతను కూర్చోడు లేదా చూడడు	he neither sits nor watches	grupo	alternativoj	prononco
+level	neniam mi vidis	నేనెప్పుడు చూడలేదు	I have never seen	grupo	alternativoj	prononco
+level	mi neniam diros al iu	నేనెప్పుడూ ఎవరికీ చెప్పను	I will never tell anyone	grupo	alternativoj	prononco
+level	diru al neniu	ఎవరికీ చెప్పకండి	tell no one	grupo	alternativoj	prononco
+level	mi neniam diros	నేనెప్పుడూ చెప్పను	I will never say	grupo	alternativoj	prononco
+level	mem	తనకు (తానే)	to oneself (by oneself)	grupo	alternativoj	prononco
+level	mi mem faris	నేనే చేశాను	I did it myself	grupo	alternativoj	prononco
+level	faris tion	చేసాడు (అది చేసాడు)	did it (made it)	grupo	alternativoj	prononco
+level	mem faris tion	అది నేనే చేసాడు (తానే చేసాడు)	did it oneself (made it oneself)	grupo	alternativoj	prononco
+level	ĝis la revido, ĝis revido	కలుద్దాం (మళ్ళీ), కలుద్దాం (మళ్ళీ)	see you (again), see you (again)	grupo	alternativoj	prononco
+level	ĝis!	వరకు! (వీడ్కోలు!)	until! (goodbye!)	grupo	alternativoj	prononco
+level	ekparoli	మాట్లాడటం ప్రారంభించడానికి	to start talking	grupo	alternativoj	prononco
+level	ekparolis, komencis paroli finfine	చెప్పడం మొదలుపెట్టాడు, చివరగా మాట్లాడటం మొదలుపెట్టాడు	started saying, began to speak at last	grupo	alternativoj	prononco
+level	trinkis rapidege	చాలా వేగంగా తాగాడు	drank very fast	grupo	alternativoj	prononco
+level	trinkis matenan trinkaĵon	ఉదయం పానీయం తీసుకున్నాడు	had a morning drink	grupo	alternativoj	prononco
+level	por frue veni	తొందరగా రావాలి	to come early	grupo	alternativoj	prononco
+level	veni al la lernejo	పాఠశాలకు రావాలని	to come to school	grupo	alternativoj	prononco
+level	frue veni al ~	ముందుగా రావడానికి ~	to come early to ~	grupo	alternativoj	prononco
+level	ne aŭdis novaĵon	వార్తలు వినలేదు	didn't hear news	grupo	alternativoj	prononco
+level	ankoraŭ ne aŭdis	ఇంకా వినలేదు	didn't hear yet	grupo	alternativoj	prononco
+level	mi ankoraŭ ne aŭdis	నేను ఇంకా వినలేదు	I didn't hear yet	grupo	alternativoj	prononco
+level	en tiu momento	ఆ క్షణంలో	in that moment	grupo	alternativoj	prononco
+level	en tiu momento li ekkriis	ఆ క్షణంలో అరిచాడు	in that moment he cried	grupo	alternativoj	prononco
+level	knabo, kiu ne amas	ప్రేమించని అబ్బాయి	a boy, who does not love	grupo	alternativoj	prononco
+level	geknaboj	అబ్బాయిలు మరియు అమ్మాయిలు	boys and girls	grupo	alternativoj	prononco
+level	aliaj geknaboj	ఇతర అబ్బాయిలు మరియు అమ్మాయిలు	other boys and girls	grupo	alternativoj	prononco
+level	ne amas aliajn geknabojn	ఇతర అబ్బాయిలను మరియు అమ్మాయిలను ప్రేమించడు	does not love other boys and girls	grupo	alternativoj	prononco
+level	nek amikojn, nek amikinojn	స్నేహితులు లేదా అమ్మాయి స్నేహితులు కాదు	neither friends nor girl friends	grupo	alternativoj	prononco
+level	havas nek monon, nek tempon	డబ్బు లేదా సమయం కూడా లేదు	does not have neither money nor time	grupo	alternativoj	prononco
+level	kiu havis la libron?	పుస్తకం ఎవరి దగ్గర ఉంది?	who had the book?	grupo	alternativoj	prononco
+level	la libron, kiun vi atendis	మీరు వేచి ఉన్న పుస్తకం	the book which you waited	grupo	alternativoj	prononco
+level	tiun, kiun vi atendis pli ol du jarojn	అది, మీరు 2 సంవత్సరాలకు పైగా వేచి ఉన్నారు	that, which you waited for more than 2 years	grupo	alternativoj	prononco
+level	ĉu vi volas tion?	నీకు అది కావాలా?	do you want that?	grupo	alternativoj	prononco
+level	ĉu vi volas, ke ~ ?	మీకు అది కావాలా ~?	do you want that ~ ?	grupo	alternativoj	prononco
+level	plej kara	ప్రియమైన	dearest	grupo	alternativoj	prononco
+level	plej kara foto	ప్రియమైన ఫోటో	dearest photo	grupo	alternativoj	prononco
+level	mian plej karan foton	నా ప్రియమైన ఫోటో	my dearest photo	grupo	alternativoj	prononco
+level	kie vi aĉetis ~ ?	మీరు ఎక్కడ కొనుగోలు చేసారు ~?	where did you buy ~ ?	grupo	alternativoj	prononco
+level	tiu vestaĵo	ఆ దుస్తులు	that clothing	grupo	alternativoj	prononco
+level	tiun vestaĵon	ఆ దుస్తులు (లక్ష్యం)	that clothing (objective)	grupo	alternativoj	prononco
+level	aĉetis tiun vestaĵon	ఆ దుస్తులను కొన్నాడు	bought that outfit	grupo	alternativoj	prononco
+level	vi iros tien	మీరు అక్కడికి వెళ్తారు	you will go there	grupo	alternativoj	prononco
+level	kien vi iros?	నువ్వు ఎక్కడికి వెళ్ళుతున్నావు?	where are you going to?	grupo	alternativoj	prononco
+level	suna tago	ఎండ రోజు	sunny day	grupo	alternativoj	prononco
+level	estos suna tago	అది ఎండ రోజు అవుతుంది	it will be a sunny day	grupo	alternativoj	prononco
+level	se estos suna tago	అది ఎండ రోజు అయితే	if it will be a sunny day	grupo	alternativoj	prononco
+level	via frato jam ekiris	మీ సోదరుడు ఇప్పటికే ప్రారంభించాడు	your brother has already started	grupo	alternativoj	prononco
+level	ĉu via frato jam ekiris?	మీ సోదరుడు ఇంకా ప్రారంభించాడా?	has your brother started yet?	grupo	alternativoj	prononco
+level	kie estas la akvo?	నీరు ఎక్కడ ఉంది	where is the water	grupo	alternativoj	prononco
+level	kunporti la akvon	నీరు తీసుకురావడానికి	to bring the water	grupo	alternativoj	prononco
+level	vi mem kunportis	మీరే తెచ్చారు	you yourself brought	grupo	alternativoj	prononco
+level	la akvon, kion vi mem kunportis	నీరు, మీరే తెచ్చారు	the water, that you yourself brought	grupo	alternativoj	prononco
+level	estis tre trankvila	చాలా నిశ్శబ్దంగా ఉంది	was very quiet	grupo	alternativoj	prononco
+level	hodiaŭ mia patrino estis ~	ఈ రోజు నా తల్లి ~	today my mother was ~	grupo	alternativoj	prononco
+level	mi venis el ~	నేను ~ నుండి వచ్చాను	I came from ~	grupo	alternativoj	prononco
+level	el la lernejo	పాఠశాల వెలుపల	out of the school	grupo	alternativoj	prononco
+level	raportis al ~	~కి నివేదించబడింది	reported to ~	grupo	alternativoj	prononco
+level	kaj raportis al ŝi	మరియు ఆమెకు నివేదించారు	and reported to her	grupo	alternativoj	prononco
+level	raportis, ke ~	~ అని నివేదించింది	reported that ~	grupo	alternativoj	prononco
+level	raportis, ke mi ricevos	స్వీకరిస్తానని నివేదించారు	reported that I will receive	grupo	alternativoj	prononco
+level	mi ricevos malbonan noton	నాకు చెడ్డ గ్రేడ్ వస్తుంది	I will get a bad grade	grupo	alternativoj	prononco
+level	ŝi diris, ke ~	ఆమె చెప్పింది ~	she said that ~	grupo	alternativoj	prononco
+level	vi devas laborigi ~	మీరు ~ పని చేయాలి	you have to make ~ work	grupo	alternativoj	prononco
+level	pli multe	మరింత	more	grupo	alternativoj	prononco
+level	pli multe laborigi	మరింత పని చేయడానికి	to make work more	grupo	alternativoj	prononco
+level	laborigi vian kapon	మీ తల పని చేయడానికి	to make your head work	grupo	alternativoj	prononco
+level	kiom da malbonaj notoj	ఎన్ని చెడ్డ గ్రేడ్‌లు	how many bad grades	grupo	alternativoj	prononco
+level	vi havas tiom da malbonaj notoj	మీకు చాలా చెడ్డ గ్రేడ్‌లు ఉన్నాయి	you have so many bad grades	grupo	alternativoj	prononco
+level	estis malĝoja	విచారంగా ఉంది	was sad	grupo	alternativoj	prononco
+level	en vian ĉambron	మీ గదిలోకి	into your room	grupo	alternativoj	prononco
+level	iru en vian ĉambron	నీ గదిలోకి వెళ్ళు	go into your room	grupo	alternativoj	prononco
+level	iru kaj lernu	వెళ్ళి నేర్చుకో	go and learn	grupo	alternativoj	prononco
+level	mi sidis	నేను కూర్చున్నాను	I sat	grupo	alternativoj	prononco
+level	en mia ĉambro	నా గదిలో	in my room	grupo	alternativoj	prononco
+level	sidis en mia ĉambro	నా గదిలో కూర్చున్నాడు	sat in my room	grupo	alternativoj	prononco
+level	nek lerni nek legi	నేర్చుకోలేదు, చదవకూడదు	neither learn nor read	grupo	alternativoj	prononco
+level	sed mi povis nek lerni nek legi	కానీ నేను నేర్చుకోలేకపోయాను లేదా చదవలేకపోయాను	but I could neither learn nor read	grupo	alternativoj	prononco
+level	miaj pensoj	నా ఆలోచనలు	my thoughts	grupo	alternativoj	prononco
+level	ĉe ludo	ఒక ఆటలో	at a game	grupo	alternativoj	prononco
+level	ludo kun miaj amikoj	నా స్నేహితులతో ఆట	game with my friends	grupo	alternativoj	prononco
+level	ĉe sporto	క్రీడలో	at sport	grupo	alternativoj	prononco
+level	al mi mem	నాకే	to myself	grupo	alternativoj	prononco
+level	diris al mi mem	అని నేనే అన్నాడు	said to myself	grupo	alternativoj	prononco
+level	tiom malsaĝa	చాలా తెలివితక్కువది	so stupid	grupo	alternativoj	prononco
+level	ĉu mi estas tiom malsaĝa?	నేను అంత తెలివితక్కువవాడినా?	am I that stupid?	grupo	alternativoj	prononco
+level	kvankam mi lernis multe	నేను చాలా నేర్చుకున్నప్పటికీ	although I learned a lot	grupo	alternativoj	prononco
+level	la patrino eniris	తల్లి ప్రవేశించింది	the mother entered	grupo	alternativoj	prononco
+level	miaj vortoj	నా పదాలు	my words	grupo	alternativoj	prononco
+level	kaj aŭdis miajn vortojn	మరియు నా మాటలు విన్నాను	and heard my words	grupo	alternativoj	prononco
+level	ŝi tuj respondis	ఆమె వెంటనే సమాధానం చెప్పింది	she answered immediately	grupo	alternativoj	prononco
+level	ne, mia kara	లేదు, నా ప్రియమైన	no, my dear	grupo	alternativoj	prononco
+level	vi ne estas malsaĝa	మీరు తెలివితక్కువవారు కాదు	you are not stupid	grupo	alternativoj	prononco
+level	la problemo estas, ke ~	సమస్య ఏమిటంటే ~	the problem is that ~	grupo	alternativoj	prononco
+level	ke vi devas lerni	మీరు తప్పక నేర్చుకోవాలి	that you must learn	grupo	alternativoj	prononco
+level	devas lerni multe pli	ఇంకా చాలా నేర్చుకోవాలి	must learn much more	grupo	alternativoj	prononco
+level	tiam vi ne havos	అప్పుడు నీకు ఉండదు	then you will not have	grupo	alternativoj	prononco
+level	malbonaj notoj	చెడు తరగతులు	bad grades	grupo	alternativoj	prononco
+level	havos nur malbonajn notojn	చెడ్డ గ్రేడ్‌లు మాత్రమే ఉంటాయి	will have only bad grades	grupo	alternativoj	prononco
+level	ankaŭ nun	ఇప్పుడు కూడా	also now	grupo	alternativoj	prononco
+level	mi ne havas ilin	నా దగ్గర అవి లేవు	I don't have them	grupo	alternativoj	prononco
+level	mi havas bonan noton	నాకు మంచి గ్రేడ్ ఉంది	I have a good grade	grupo	alternativoj	prononco
+level	pri muziko	సంగీతం గురించి	about music	grupo	alternativoj	prononco
+level	bonan noton pri muziko	సంగీతంపై మంచి గమనిక	a good note on music	grupo	alternativoj	prononco
+level	la patrino subite ekridis	తల్లి ఒక్కసారిగా పగలబడి నవ్వింది	the mother suddenly burst out laughing	grupo	alternativoj	prononco
+level	tio plibeligis ~	అని అందంగా ఉంది ~	that beautified ~	grupo	alternativoj	prononco
+level	mian tagon	నా రోజు	my day	grupo	alternativoj	prononco
+level	plibeligis mian tagon	నా రోజు చేసింది	made my day	grupo	alternativoj	prononco
+level	sed tamen restis	కానీ ఇంకా మిగిలిపోయింది	but still remained	grupo	alternativoj	prononco
+level	sed la problemo tamen restis	కానీ సమస్య ఇంకా అలాగే ఉండిపోయింది	but the problem still remained	grupo	alternativoj	prononco
+level	kilogramo da ~	ఒక కిలోగ్రాము ~	a kilogram of ~	grupo	alternativoj	prononco
+level	kilogramo da sukero	ఒక కిలోగ్రాము చక్కెర	a kilogram of sugar	grupo	alternativoj	prononco
+level	glaso da ~	ఒక గాజు ~	a glass of ~	grupo	alternativoj	prononco
+level	glaso da akvo	ఒక గ్లాసు నీళ్ళు	a glass of water	grupo	alternativoj	prononco
+level	multe da ~	చాలా ~	a lot of ~	grupo	alternativoj	prononco
+level	multe da ideoj	చాలా ఆలోచనలు	lots of ideas	grupo	alternativoj	prononco
+level	deteni sin	తిరిగి పట్టుకోవడానికి	to hold back	grupo	alternativoj	prononco
+level	ordigis ĉion	ప్రతిదీ క్రమబద్ధీకరించబడింది	sorted everything out	grupo	alternativoj	prononco
+level	transdonis al li	అతనికి అప్పగించారు	handed over to him	grupo	alternativoj	prononco
+level	mi petas	నేను అడుగుతున్నాను	I'm asking	grupo	alternativoj	prononco
+level	glason da kafo	ఒక గ్లాసు కాఫీ	a glass of coffee	grupo	alternativoj	prononco
+level	kaj iom da akvo	మరియు కొంత నీరు	and some water	grupo	alternativoj	prononco
+level	mi petas glason da kafo	నాకు ఒక గ్లాసు కాఫీ కావాలి	I would like a glass of coffee	grupo	alternativoj	prononco
+level	mi petas tason da teo	నాకు ఒక కప్పు టీ కావాలి	I would like a cup of tea	grupo	alternativoj	prononco
+level	doloris lin	అతన్ని బాధపెట్టింది	hurt him	grupo	alternativoj	prononco
+level	la kapo doloris lin	అతని తల గాయపడింది	his head hurt	grupo	alternativoj	prononco
+level	li malsaniĝis	అతను అనారోగ్యంతో పడిపోయాడు	he fell ill	grupo	alternativoj	prononco
+level	ŝatas esti bela	అందంగా ఉండడం ఇష్టం	likes to be beautiful	grupo	alternativoj	prononco
+level	ŝi beligis sian vizaĝon	ఆమె ముఖాన్ని అందంగా తీర్చిదిద్దుకుంది	she beautified her face	grupo	alternativoj	prononco
+level	la knabo ŝatas esti bela	అబ్బాయి అందంగా ఉండటాన్ని ఇష్టపడతాడు	the boy likes to be pretty	grupo	alternativoj	prononco
+level	pro tio ŝi beligis ĝin	అందువలన ఆమె దానిని అందంగా తీర్చిదిద్దింది	therefore she beautified it	grupo	alternativoj	prononco
+level	post la tagmanĝo	భోజనము తర్వాత	after lunch	grupo	alternativoj	prononco
+level	purigi la kuirejon	వంటగది శుభ్రం చేయడానికి	to clean the kitchen	grupo	alternativoj	prononco
+level	kiu purigos la kuirejon?	వంటగదిని ఎవరు శుభ్రం చేస్తారు?	who will clean the kitchen?	grupo	alternativoj	prononco
+level	volas trinki	తాగాలనిపిస్తుంది	wants to drink	grupo	alternativoj	prononco
+level	kion vi volas trinki?	నువ్వు ఏమి తాగాలని అనుకుంటున్నావ్	what do you want to drink	grupo	alternativoj	prononco
+level	trinki teon	టీ త్రాగడానికి	to drink tea	grupo	alternativoj	prononco
+level	iom da akvo	కొద్దిగా నీరు	a little of water	grupo	alternativoj	prononco
+level	ĉu vi volas nenion?	నీకు ఏమీ అక్కర్లేదా?	do you want nothing?	grupo	alternativoj	prononco
+level	tiel subite	కాబట్టి అకస్మాత్తుగా	so suddenly	grupo	alternativoj	prononco
+level	kial vi decidis ~ ?	మీరు ఎందుకు నిర్ణయించుకున్నారు ~?	why did you decide ~ ?	grupo	alternativoj	prononco
+level	kial vi tiel subite decidis ~ ?	మీరు ఇంత హఠాత్తుగా ఎందుకు నిర్ణయించుకున్నారు?	why did you decide ~ so suddenly?	grupo	alternativoj	prononco
+level	via ĉambro	నీ గది	your room	grupo	alternativoj	prononco
+level	via ĉambreto	మీ చిన్న గది	your little room	grupo	alternativoj	prononco
+level	vian ĉambreton	మీ చిన్న గదికి	to your little room	grupo	alternativoj	prononco
+level	renovigi vian ĉambreton	మీ చిన్న గదిని పునరుద్ధరించడానికి	to renovate your little room	grupo	alternativoj	prononco
+level	decidis renovigi vian ĉambreton	మీ చిన్న గదిని పునరుద్ధరించాలని నిర్ణయించుకున్నారు	decided to renovate your little room	grupo	alternativoj	prononco
+level	al kiu	ఎవరికి	to whom	grupo	alternativoj	prononco
+level	vi donis ~	మీరు ఇచ్చారు ~	you gave ~	grupo	alternativoj	prononco
+level	al kiu vi donis ~ ?	మీరు ఎవరికి ఇచ్చారు ~ ?	to whom did you give ~ ?	grupo	alternativoj	prononco
+level	puraj glasoj	శుభ్రమైన అద్దాలు	clean glasses	grupo	alternativoj	prononco
+level	vi donis la purajn glasojn	మీరు శుభ్రమైన అద్దాలు ఇచ్చారు	you gave the clean glasses	grupo	alternativoj	prononco
+level	la puraj glasoj por la vino	వైన్ కోసం శుభ్రమైన గ్లాసెస్	the clean glasses for the wine	grupo	alternativoj	prononco
+level	kontraŭ kiu	ఎవరికి వ్యతిరేకంగా	against whom	grupo	alternativoj	prononco
+level	via sportklubo	మీ స్పోర్ట్స్ క్లబ్	your sports club	grupo	alternativoj	prononco
+level	ludas kontraŭ ~	~ వ్యతిరేకంగా ఆడుతుంది	plays against ~	grupo	alternativoj	prononco
+level	antaŭ du semajnoj	రెండు వారాల క్రితం	two weeks ago	grupo	alternativoj	prononco
+level	kontraŭ kiu via sportklubo ludis?	మీ స్పోర్ట్స్ క్లబ్ ఎవరితో ఆడింది?	who did your sports club play against?	grupo	alternativoj	prononco
+level	ĉu vi vidas ~ ?	మీరు చూస్తున్నారా ~ ?	do you see ~ ?	grupo	alternativoj	prononco
+level	ĉu vi ofte vidas ~ ?	మీరు తరచుగా చూస్తారా ~?	do you often see ~ ?	grupo	alternativoj	prononco
+level	ofte vidas la policiston	తరచుగా పోలీసు చూడండి	often see the policeman	grupo	alternativoj	prononco
+level	tiu, kiu loĝas en ~	~లో నివసించేవాడు	the one who lives in ~	grupo	alternativoj	prononco
+level	loĝas en la loĝejo	బసలో నివసిస్తున్నారు	lives in the lodging place	grupo	alternativoj	prononco
+level	la loĝejo super vi	మీ పైన ఉన్న నివాస స్థలం	the dwelling place above you	grupo	alternativoj	prononco
+level	vidas la policiston, kiu loĝas en ~	~లో నివసించే పోలీసు అధికారిని చూస్తాడు	sees the police officer who lives in ~	grupo	alternativoj	prononco
+level	plano pri veturado	డ్రైవింగ్ ప్లాన్	driving plan	grupo	alternativoj	prononco
+level	volis vojaĝi	ప్రయాణం చేయాలనుకున్నారు	wanted to travel	grupo	alternativoj	prononco
+level	vojaĝi al alia lando	మరొక దేశానికి ప్రయాణించడానికి	to travel to another country	grupo	alternativoj	prononco
+level	en libertempo	ఖాళీ సమయంలో	in free time	grupo	alternativoj	prononco
+level	ili decidis iri	వారు వెళ్లాలని నిర్ణయించుకున్నారు	they decided to go	grupo	alternativoj	prononco
+level	decidis iri al Italio	ఇటలీ వెళ్లాలని నిర్ణయించుకున్నారు	decided to go to Italy	grupo	alternativoj	prononco
+level	malnovaj urboj	పాత నగరాలు	old cities	grupo	alternativoj	prononco
+level	lando kun malnovaj urboj	పాత నగరాలతో కూడిన దేశం	a country with old cities	grupo	alternativoj	prononco
+level	aliaj belaĵoj	ఇతర అందాలు	other beauties	grupo	alternativoj	prononco
+level	kaj aliaj belaĵoj	మరియు ఇతర అందాలు	and other beauties	grupo	alternativoj	prononco
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	పాత నగరాలు మరియు ఇతర అందాలతో కూడిన అందమైన దేశం	a beautiful country with old cities and other beauties	grupo	alternativoj	prononco
+level	ili estis feliĉaj	వారు సంతోషంగా ఉన్నారు	they were happy	grupo	alternativoj	prononco
+level	kie estas ~ ?	ఎక్కడ ఉంది ~?	where is ~ ?	grupo	alternativoj	prononco
+level	kie estas mia vestaĵo?	నా బట్టలు ఎక్కడ ఉన్నాయి	where are my clothes	grupo	alternativoj	prononco
+level	ŝi demandis ~	ఆమె అడిగింది ~	she asked ~	grupo	alternativoj	prononco
+level	ni ne forgesu kunporti ~	~ తీసుకురావడం మర్చిపోవద్దు	let's not forget to bring ~	grupo	alternativoj	prononco
+level	kunporti la libron	మీతో పుస్తకాన్ని తీసుకెళ్లడానికి	to take the book with you	grupo	alternativoj	prononco
+level	libro por lerni Esperanton	ఎస్పెరాంటో నేర్చుకోవడానికి ఒక పుస్తకం	a book to learn Esperanto	grupo	alternativoj	prononco
+level	kunporti libron por lerni	నేర్చుకోవడానికి ఒక పుస్తకాన్ని తీసుకువెళ్లడానికి	to carry a book to learn	grupo	alternativoj	prononco
+level	ni povas komenci ~	మేము ప్రారంభించవచ్చు ~	we can start ~	grupo	alternativoj	prononco
+level	en la vagonaro	రైలులో	in the train	grupo	alternativoj	prononco
+level	jam en la vagonaro	అప్పటికే రైలులో ఉంది	already in the train	grupo	alternativoj	prononco
+level	ni nenion faros	మేము ఏమీ చేయము	we won't do anything	grupo	alternativoj	prononco
+level	per aŭto	కారులో	by car	grupo	alternativoj	prononco
+level	ni veturos per ~	మేము ~ ద్వారా డ్రైవ్ చేస్తాము	we will drive by ~	grupo	alternativoj	prononco
+level	veturos per aŭto	కారు డ్రైవ్ చేస్తుంది	will drive a car	grupo	alternativoj	prononco
+level	mi havas sekreton	నా దగ్గర ఒక రహస్యం ఉంది	I have a secret	grupo	alternativoj	prononco
+level	mia riĉa onklo	నా ధనవంతుడు	my rich uncle	grupo	alternativoj	prononco
+level	mia deziro	నా కోరిక	my wish	grupo	alternativoj	prononco
+level	plenumis mian deziron	నా కోరికను నెరవేర్చాడు	fulfilled my wish	grupo	alternativoj	prononco
+level	donis al ni	మాకు ఇచ్చారు	gave us	grupo	alternativoj	prononco
+level	sian aŭton	అతని కారు	his car	grupo	alternativoj	prononco
+level	kaj donis al ni sian aŭton	మరియు అతని కారుని మాకు ఇచ్చాడు	and gave us his car	grupo	alternativoj	prononco
+level	por uzo	వాడేందుకు	for use	grupo	alternativoj	prononco
+level	ĝi staras antaŭ ~	ఇది ముందు నిలుస్తుంది ~	it stands before ~	grupo	alternativoj	prononco
+level	staras antaŭ la domo	ఇంటి ముందు నిల్చున్నాడు	stands in front of the house	grupo	alternativoj	prononco
+level	mi devas diri ~	నేను చెప్పాలి ~	I have to say ~	grupo	alternativoj	prononco
+level	nenion diru	ఏమీ అనకండి	don't say anything	grupo	alternativoj	prononco
+level	ni eksidu	కూర్చుందాము	let's sit down	grupo	alternativoj	prononco
+level	eksidu en la aŭton	కారు ఎక్కండి	get in the car	grupo	alternativoj	prononco
+level	veturi al ~	డ్రైవ్ చేయడానికి ~	to drive to ~	grupo	alternativoj	prononco
+level	kaj veturu al Italio	మరియు ఇటలీకి డ్రైవ్ చేయండి	and drive to Italy	grupo	alternativoj	prononco
+level	sidis en la aŭto	కారులో కూర్చున్నాడు	sat in the car	grupo	alternativoj	prononco
+level	ankaŭ la vestaĵoj	బట్టలు కూడా	also the clothes	grupo	alternativoj	prononco
+level	~ estis en la aŭto	~ కారులో ఉన్నాడు	~ was in the car	grupo	alternativoj	prononco
+level	ankoraŭ sidadis kaj atendis	ఇంకా కూర్చుని వేచి ఉన్నాడు	still sat and waited	grupo	alternativoj	prononco
+level	sed li atendis	కానీ అతను వేచి ఉన్నాడు	but he waited	grupo	alternativoj	prononco
+level	kial ni ne ~ ?	ఎందుకు మేము కాదు ~ ?	why don't we ~ ?	grupo	alternativoj	prononco
+level	kial ni ne ekveturas?	మనం డ్రైవింగ్ ఎందుకు ప్రారంభించకూడదు?	why don't we start driving?	grupo	alternativoj	prononco
+level	ankaŭ mi havas ~	నా దగ్గర ~ కూడా ఉంది	I have ~ too	grupo	alternativoj	prononco
+level	veturigus la aŭton	కారు నడిపేవాడు	would drive the car	grupo	alternativoj	prononco
+level	sed mi ne scias ~	కానీ నాకు తెలియదు ~	but I don't know ~	grupo	alternativoj	prononco
+level	mi neniam lernis tion	నేను దానిని ఎప్పుడూ నేర్చుకోలేదు	I never learned that	grupo	alternativoj	prononco
+level	mi kredus ~	నేను నమ్ముతాను ~	I would believe ~	grupo	alternativoj	prononco
+level	se mi estus sana	నేను ఆరోగ్యంగా ఉంటే	if I were healthy	grupo	alternativoj	prononco
+level	mi estus tre feliĉa	నేను చాలా సంతోషిస్తాను	I would be very happy	grupo	alternativoj	prononco
+level	kvazaŭ vi estus riĉulo	నువ్వు ధనవంతుడివి అయినట్లే	as if you were rich	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ vi estus riĉulo	నువ్వు ధనవంతుడిలా కూర్చున్నావు	you sit there as if you were a rich man	grupo	alternativoj	prononco
+level	kvazaŭa lernejo	ఆరోపించిన పాఠశాల	alleged school	grupo	alternativoj	prononco
+level	kvazaŭ riĉulo	ధనవంతుడిలా	like a rich man	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ riĉulo	నువ్వు ధనవంతుడిలా కూర్చున్నావు	you sit there like a rich man	grupo	alternativoj	prononco
+level	tiom da mono	చాలా డబ్బు	so much money	grupo	alternativoj	prononco
+level	tiom da mono kiom da ideoj	ఆలోచనలు అంత డబ్బు	as much money as ideas	grupo	alternativoj	prononco
+level	se mi havus tiom da mono	నా దగ్గర అంత డబ్బు ఉంటే	if I had that much money	grupo	alternativoj	prononco
+level	mi vojaĝadus	నేను ప్రయాణం చేస్తాను	I would travel	grupo	alternativoj	prononco
+level	ĉirkaŭ la mondo	ప్రపంచమంతటా	around the world	grupo	alternativoj	prononco
+level	en ĉiu vortaro	ప్రతి నిఘంటువులో	in every dictionary	grupo	alternativoj	prononco
+level	mankas io	ఏదో లేదు	something is missing	grupo	alternativoj	prononco
+level	mankas kelkaj vortoj	కొన్ని పదాలు లేవు	some words are missing	grupo	alternativoj	prononco
+level	homo, kiu longe parolis	సుదీర్ఘంగా మాట్లాడిన వ్యక్తి	a man who spoke at length	grupo	alternativoj	prononco
+level	ĉe la manĝotablo	డైనింగ్ టేబుల్ వద్ద	at the dining table	grupo	alternativoj	prononco
+level	homo, kiu rakontas, restos malsata	చెప్పే వ్యక్తి ఆకలితో ఉంటాడు	a person who tells will remain hungry	grupo	alternativoj	prononco
+level	rakontadas ĉe la manĝo tablo	డైనింగ్ టేబుల్ దగ్గర చెబుతూనే ఉన్నాడు	keeps telling at the dining table	grupo	alternativoj	prononco
+level	li devis atenti ~	అతను దృష్టి పెట్టవలసి వచ్చింది ~	he had to pay attention to ~	grupo	alternativoj	prononco
+level	ne rajtis ~	~కి అనుమతించబడలేదు	was not allowed to ~	grupo	alternativoj	prononco
+level	rajtis resti	ఉండేందుకు అనుమతించారు	was allowed to stay	grupo	alternativoj	prononco
+level	ne rajtis longe resti	ఎక్కువసేపు ఉండడానికి అనుమతించలేదు	was not allowed to stay long	grupo	alternativoj	prononco
+level	resti ekstere en pluvo	వర్షంలో ఉండడానికి	to stay out in the rain	grupo	alternativoj	prononco
+level	tial li malvarmumis	అందుకే అతనికి జలుబు వచ్చింది	that's why he caught a cold	grupo	alternativoj	prononco
+level	li havas sian klaran ideon	అతనికి తన స్వంత స్పష్టమైన ఆలోచన ఉంది	he has his own clear idea	grupo	alternativoj	prononco
+level	sed li kredos ĉion	కానీ అతను ప్రతిదీ నమ్ముతాడు	but he will believe everything	grupo	alternativoj	prononco
+level	ĉion, kion vi diros	మీరు ఏమి చెప్పినప్పటికీ	whatever you say	grupo	alternativoj	prononco
+level	kvazaŭ vi estus lia edzino	నువ్వు అతని భార్యవంటివి	as if you were his wife	grupo	alternativoj	prononco
+level	viaj gepatroj	మీ తల్లిదండ్రులు	your parents	grupo	alternativoj	prononco
+level	ĝojigi viajn gepatrojn	మీ తల్లిదండ్రులను సంతోషపెట్టడానికి	to make your parents happy	grupo	alternativoj	prononco
+level	kio povus ĝojigi ~ ?	ఏమి దయచేసి ~?	what could please ~ ?	grupo	alternativoj	prononco
+level	kio povus plej ĝojigi viajn gepatrojn?	మీ తల్లిదండ్రులను ఏది ఎక్కువ సంతోషపెట్టగలదు?	what could make your parents the most happy?	grupo	alternativoj	prononco
+level	post la lernado	అభ్యాసం తరువాత	after the learning	grupo	alternativoj	prononco
+level	almenaŭ post la lernado	కనీసం నేర్చుకున్న తర్వాత	at least after the learning	grupo	alternativoj	prononco
+level	en la urbocentron	సిటీ సెంటర్ లోకి	into the city center	grupo	alternativoj	prononco
+level	se vi irus kun mi	మీరు నాతో వెళితే	if you would go with me	grupo	alternativoj	prononco
+level	se vi irus kun mi en la urbocentron	మీరు నాతో డౌన్‌టౌన్‌కి వెళితే	if you would go downtown with me	grupo	alternativoj	prononco
+level	kien vi dezirus vojaĝi?	మీరు ఎక్కడ ప్రయాణం చేయాలనుకుంటున్నారు?	where would you like to travel?	grupo	alternativoj	prononco
+level	se vi havus ~	మీరు కలిగి ఉంటే ~	if you had ~	grupo	alternativoj	prononco
+level	sufiĉe da mono	తగినంత డబ్బు	enough money	grupo	alternativoj	prononco
+level	se vi havus sufiĉe da mono kaj tempo	మీకు తగినంత డబ్బు మరియు ఉష్ణోగ్రత ఉంటే	if you had enough money and temp	grupo	alternativoj	prononco
+level	ĉu vi planas ~ ?	మీరు ప్లాన్ చేస్తున్నారా ~?	are you planning to ~ ?	grupo	alternativoj	prononco
+level	planas veturi al Parizo	పారిస్ వెళ్లాలని యోచిస్తోంది	plans to travel to Paris	grupo	alternativoj	prononco
+level	veturi per aŭto	axuto తో డ్రైవ్ చేయడానికి	to drive with an axuto	grupo	alternativoj	prononco
+level	multe pli bone	మెరుగైన	much better	grupo	alternativoj	prononco
+level	ŝajnas multe pli bone	చాలా బాగా అనిపిస్తుంది	seems much better	grupo	alternativoj	prononco
+level	per vagonaro	రైలులో	by train	grupo	alternativoj	prononco
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	లేదా అది చాలా మెరుగ్గా అనిపించలేదా?	or doesn't it seem to be much better?	grupo	alternativoj	prononco
+level	diversaj homoj	వివిధ వ్యక్తులు	various people	grupo	alternativoj	prononco
+level	kial homoj klarigas diversmaniere?	ప్రజలు ఎందుకు వివిధ మార్గాల్లో వివరిస్తారు?	why do people explain in different ways?	grupo	alternativoj	prononco
+level	samaj ideoj	అదే ఆలోచనలు	same ideas	grupo	alternativoj	prononco
+level	klarigas samajn ideojn	అదే ఆలోచనలను వివరిస్తుంది	explains the same ideas	grupo	alternativoj	prononco
+level	familianoj kunvenas	కుటుంబ సభ్యులు కలిసిపోతారు	family members get together	grupo	alternativoj	prononco
+level	kiel rapide	ఎంత త్వరగా	how quickly	grupo	alternativoj	prononco
+level	tagoj pasas	రోజులు గడుస్తున్నాయి	days pass	grupo	alternativoj	prononco
+level	kiel rapide pasas tagoj!	రోజులు ఎంత త్వరగా గడిచిపోతున్నాయి!	how quickly the days pass!	grupo	alternativoj	prononco
+level	morgaŭ estos ~	రేపు ~ అవుతుంది	tomorrow will be ~	grupo	alternativoj	prononco
+level	la naskiĝtago de via patro	మీ తండ్రి పుట్టినరోజు	your father's birthday	grupo	alternativoj	prononco
+level	kelkaj familianoj	అనేక మంది కుటుంబ సభ్యులు	several family members	grupo	alternativoj	prononco
+level	alvenos kelkaj familianoj	చాలా మంది కుటుంబ సభ్యులు వస్తారు	several family members will come	grupo	alternativoj	prononco
+level	kaj geamikoj	మరియు స్నేహితులు	and friends	grupo	alternativoj	prononco
+level	ĉu vi bonvolus ~ ?	మీరు దయచేసి ~?	would you please ~ ?	grupo	alternativoj	prononco
+level	ĉu vi bonvolus iom helpi?	దయచేసి కొంచెం సహాయం చేయగలరా?	could you please help a little?	grupo	alternativoj	prononco
+level	iomete da tempo	కొద్దిసేపట్లో	a little while	grupo	alternativoj	prononco
+level	trovu iomete da tempo	కొంచెం సమయం కనుగొనండి	find a little time	grupo	alternativoj	prononco
+level	por ordigi vian ĉambron	మీ గదిని చక్కబెట్టుకోవడానికి	to tidy your room	grupo	alternativoj	prononco
+level	almenaŭ por ordigi vian ĉambron	కనీసం మీ గదిని చక్కబెట్టుకోవడానికి	at least to tidy your room	grupo	alternativoj	prononco
+level	mi ŝatus ~	నేను కోరుకుంటున్నాను ~	I would like ~	grupo	alternativoj	prononco
+level	mi ŝatus kuiri ion	నేను ఏదైనా ఉడికించాలనుకుంటున్నాను	I would like to cook something	grupo	alternativoj	prononco
+level	ion bonan	ఏదో మంచి	something good	grupo	alternativoj	prononco
+level	kuiri ion bonan	ఏదైనా మంచి వంట చేయండి	cook something good	grupo	alternativoj	prononco
+level	por la naskiĝ-taga kuko	పుట్టినరోజు కేక్ కోసం	for the birthday cake	grupo	alternativoj	prononco
+level	mankas lakto	పాలు కొరత ఉంది	is lacking of milk	grupo	alternativoj	prononco
+level	en la hejmo	ఇంట్లో	in the home	grupo	alternativoj	prononco
+level	necesas havigi ~	~ సేకరించడం అవసరం	it is necessary to procure ~	grupo	alternativoj	prononco
+level	iom da manĝaĵo	కొంత ఆహారం	some food	grupo	alternativoj	prononco
+level	el vendejo	ఒక దుకాణం నుండి	from a store	grupo	alternativoj	prononco
+level	havigi iom da manĝaĵo el vendejo	దాగి ఉన్న ప్రదేశం నుండి కొంత ఆహారాన్ని పొందడానికి	to get some food from a hideout	grupo	alternativoj	prononco
+level	mi aĉetumos	నేను షాపింగ్ చేస్తాను	I will do shopping	grupo	alternativoj	prononco
+level	por la naskiĝtago	పుట్టినరోజు కోసం	for the birthday	grupo	alternativoj	prononco
+level	anstataŭ sidi kaj manĝegi	కూర్చొని తినే బదులు	instead of sitting and eating	grupo	alternativoj	prononco
+level	interesaj homoj	ఆసక్తికరమైన వ్యక్తులు	interesting people	grupo	alternativoj	prononco
+level	kun neinteresaj familianoj	ఆసక్తి లేని కుటుంబ సభ్యులతో	with uninteresting family members	grupo	alternativoj	prononco
+level	mi ŝatus ekskursi	నేను విహారయాత్రకు వెళ్లాలనుకుంటున్నాను	I would like to go on a picnic	grupo	alternativoj	prononco
+level	kun klubanoj	క్లబ్ సభ్యులతో	with club members	grupo	alternativoj	prononco
+level	kun kiuj klubanoj?	ఏ క్లబ్ సభ్యులతో?	with which club members?	grupo	alternativoj	prononco
+level	diris la patro	అన్నాడు తండ్రి	said the father	grupo	alternativoj	prononco
+level	ia papero, iaj paperoj	కొన్ని రకాల కాగితం, కొన్ని రకాల కాగితాలు	some kind of paper, some kind of papers	grupo	alternativoj	prononco
+level	en paperujo	బ్రీఫ్‌కేస్‌లో	in a briefcase	grupo	alternativoj	prononco
+level	en paperujon	ఒక కాగితపు డబ్బాలో	into a paper bin	grupo	alternativoj	prononco
+level	ĵetis paperojn en paperujon	కాగితపు డబ్బాలో కాగితాలు విసిరాడు	threw papers into a paper bin	grupo	alternativoj	prononco
+level	ĵetis iajn paperojn en paperujon	కాగితపు డబ్బాలో కొన్ని కాగితాలు విసిరాడు	threw some papers into a paper bin	grupo	alternativoj	prononco
+level	morgaŭ frue	రేపు తొందరగా	early tomorrow	grupo	alternativoj	prononco
+level	anoj de mia sporta klubo	నా స్పోర్ట్స్ క్లబ్ సభ్యులు	members of my sports club	grupo	alternativoj	prononco
+level	kara mia	నా ప్రియమైన	my dear	grupo	alternativoj	prononco
+level	ĉu ĝuste ~ ?	అది సరియైనదేనా?	is that right?	grupo	alternativoj	prononco
+level	vi devas foresti	మీరు తప్పక గైర్హాజరై ఉండాలి	you must be absent	grupo	alternativoj	prononco
+level	ĉu vi ne ~ ?	మీరు కాదు ~ ?	don't you ~ ?	grupo	alternativoj	prononco
+level	viaj samklubanoj	మీ తోటి క్లబ్ సభ్యులు	your fellow club members	grupo	alternativoj	prononco
+level	intervidiĝas kun viaj samklubanoj	మీ తోటి క్లబ్ సభ్యులతో ఒకరినొకరు చూస్తారు	sees each other with your fellow club members	grupo	alternativoj	prononco
+level	trifoje semajne	వారానికి మూడు సార్లు	three times a week	grupo	alternativoj	prononco
+level	ĉu mi rajtas ~ ?	నేను ~ ?	may I ~ ?	grupo	alternativoj	prononco
+level	rajtas ion proponi	ఏదైనా ప్రతిపాదించే హక్కు ఉంది	has the right to propose something	grupo	alternativoj	prononco
+level	mi kunmanĝos kun la familianoj	కుటుంబ సభ్యులతో కలిసి భోజనం చేస్తాను	I will eat with the family members	grupo	alternativoj	prononco
+level	sed en la dua parto	కానీ రెండవ భాగంలో	but in the second part	grupo	alternativoj	prononco
+level	mi foriros kun miaj geamikoj	నేను నా స్నేహితులతో వెళ్తాను	I will go with my friends	grupo	alternativoj	prononco
+level	parolos pri ~	~ గురించి మాట్లాడతారు	will talk about ~	grupo	alternativoj	prononco
+level	malsukcesa veturado	ఒక విఫలమైన డ్రైవ్	a failed drive	grupo	alternativoj	prononco
+level	certe parolos pri la malsukcesa veturado	విఫలమైన డ్రైవ్ గురించి ఖచ్చితంగా మాట్లాడతారు	will definitely talk about the failed drive	grupo	alternativoj	prononco
+level	post la kuko	కేక్ తర్వాత	after the cake	grupo	alternativoj	prononco
+level	mi ne plu volas tion	నాకు అది ఇక వద్దు	I don't want that anymore	grupo	alternativoj	prononco
+level	volas tion aŭdi	అని వినాలనుకుంటోంది	wants to hear that	grupo	alternativoj	prononco
+level	kial ni ne havas ~ ?	మన దగ్గర ఎందుకు లేదు ~ ?	why don't we have ~ ?	grupo	alternativoj	prononco
+level	ideoriĉa onklo	ఆలోచనలున్న మామ	an idea-rich uncle	grupo	alternativoj	prononco
+level	havas iun ideoriĉan onklon	కొంత ఆలోచన ఉంది శ్రీమంతుడు మామయ్య	has some idea rich uncle	grupo	alternativoj	prononco
+level	en mia familio	నా కుటుంబంలో	in my family	grupo	alternativoj	prononco
+level	la patrino ridetis	తల్లి నవ్వింది	the mother smiled	grupo	alternativoj	prononco
+level	je liaj vortoj	అతని మాటల వద్ద	at his words	grupo	alternativoj	prononco
+level	ŝi scias, ke ~	ఆమెకు అది తెలుసు ~	she knows that ~	grupo	alternativoj	prononco
+level	iom tro parolas	కొంచెం ఎక్కువగా మాట్లాడతాడు	talks a little too much	grupo	alternativoj	prononco
+level	ne sufiĉas nur ~	ఇది సరిపోదు ~	it's not enough just ~	grupo	alternativoj	prononco
+level	riĉeco de la ideoj	ఆలోచనల సంపద	wealth of ideas	grupo	alternativoj	prononco
+level	necesas ankaŭ ~	~ కూడా అవసరం	~ is also needed	grupo	alternativoj	prononco
+level	plena monujo por realigi ĝin	అది జరిగేలా పూర్తి వాలెట్	a full wallet to make it happen	grupo	alternativoj	prononco
+level	la patrino daŭrigis ~	తల్లి కొనసాగించింది ~	the mother continued ~	grupo	alternativoj	prononco
+level	post iom da silento	కొంచెం నిశ్శబ్దం తర్వాత	after a little silence	grupo	alternativoj	prononco
+level	antaŭ kelkaj minutoj	కొన్ని నిమిషాల క్రితం	a few minutes ago	grupo	alternativoj	prononco
+level	Ana telefonis, ke ŝi ~	అనా ఆమె ~ అని పిలిచింది	Ana called that she ~	grupo	alternativoj	prononco
+level	ankaŭ ŝi vizitos nin	ఆమె కూడా మమ్మల్ని సందర్శిస్తుంది	she will also visit us	grupo	alternativoj	prononco
+level	dolĉa kuko	ఒక తీపి కేక్	a sweet cake	grupo	alternativoj	prononco
+level	ŝi tre ŝatas dolĉan kukon	ఆమెకు నిజంగా స్వీట్ కేక్ అంటే ఇష్టం	she really likes sweet cake	grupo	alternativoj	prononco
+level	atentas por ne dikiĝi	లావు అవ్వకుండా జాగ్రత్త పడతాడు	is careful not to get fat	grupo	alternativoj	prononco
+level	kvankam ŝi atentos	అయినప్పటికీ ఆమె శ్రద్ధ చూపుతుంది	although she will pay attention	grupo	alternativoj	prononco
+level	tuj ŝanĝis la opinion	వెంటనే మనసు మార్చుకున్నాడు	immediately changed the mind	grupo	alternativoj	prononco
+level	dum la ekskurso	విహారయాత్ర సమయంలో	during the excursion	grupo	alternativoj	prononco
+level	sen ŝi	ఆమె లేకుండా	without her	grupo	alternativoj	prononco
+level	li estus tre soleca	అతను చాలా ఒంటరిగా ఉంటాడు	he would be very lonely	grupo	alternativoj	prononco
+level	mi tamen pasigos	అయినా పాస్ అవుతాను	I will pass though	grupo	alternativoj	prononco
+level	mi tamen pasigos la morgaŭan tagon hejme	అయినా రేపు ఇంట్లోనే గడుపుతాను	I will spend tomorrow at home though	grupo	alternativoj	prononco
+level	en juneco	యవ్వనంలో	in youth	grupo	alternativoj	prononco
+level	oni havas	ఒకరికి ఉంది	one has	grupo	alternativoj	prononco
+level	havas ankaŭ belecon	అందం కూడా ఉంది	also has beauty	grupo	alternativoj	prononco
+level	malsimplaj laboroj	సంక్లిష్టమైన ఉద్యోగాలు	complicated jobs	grupo	alternativoj	prononco
+level	malsimplajn laborojn	సంక్లిష్ట ఉద్యోగాలు (ఆబ్జెక్టివ్)	complicated jobs (objective)	grupo	alternativoj	prononco
+level	devus plisimpligi	సరళీకృతం చేయాలి	should simplify	grupo	alternativoj	prononco
+level	en tiu aĝo	ఆ వయసులో	at that age	grupo	alternativoj	prononco
+level	li jam fariĝis ~	అతను ఇప్పటికే ~ అయ్యాడు	he has already become ~	grupo	alternativoj	prononco
+level	estro de la sporta klubo	స్పోర్ట్స్ క్లబ్ యొక్క అధిపతి	head of the sports club	grupo	alternativoj	prononco
+level	monon oni metas	ఒకడు డబ్బు పెడతాడు	one puts money	grupo	alternativoj	prononco
+level	en monujon	ఒక వాలెట్ లోకి	into a wallet	grupo	alternativoj	prononco
+level	metas en monujon	పర్సులో పెట్టుకుంటాడు	puts in a purse	grupo	alternativoj	prononco
+level	sekvu la ekzemplojn	ఉదాహరణలను అనుసరించండి	follow the examples	grupo	alternativoj	prononco
+level	de la bonaj familianoj	మంచి కుటుంబ సభ్యుల నుండి	from the good family members	grupo	alternativoj	prononco
+level	ĉu amikeco pli feliĉigas?	స్నేహం మిమ్మల్ని సంతోషపరుస్తుందా?	does friendship make you happier?	grupo	alternativoj	prononco
+level	feliĉigas vin	మిమ్మల్ని సంతోషపరుస్తుంది	makes you happy	grupo	alternativoj	prononco
+level	ol la amo	ప్రేమ కంటే	than the love	grupo	alternativoj	prononco
+level	kiel ofte vi ~ ?	మీరు ఎంత తరచుగా ~?	how often do you ~ ?	grupo	alternativoj	prononco
+level	vi skribas leterojn al ~	మీరు ~కి ఉత్తరాలు వ్రాస్తారు	you write letters to ~	grupo	alternativoj	prononco
+level	skrivas leterojn al viaj amikinoj	మీ స్నేహితురాళ్లకు ఉత్తరాలు రాస్తుంది	writes letters to your girl friends	grupo	alternativoj	prononco
+level	viaj amikinoj en Italio	ఇటలీలో మీ స్నేహితురాలు	your girl friends in Italy	grupo	alternativoj	prononco
+level	la rilato inter vi kaj via instruisto	మీకు మరియు మీ గురువుకు మధ్య ఉన్న సంబంధం	the relation between you and your teacher	grupo	alternativoj	prononco
+level	ĉu la rilato ŝanĝiĝis?	సంబంధం మారిందా?	has the relationship changed?	grupo	alternativoj	prononco
+level	ĉu vi jam scias ~ ?	మీకు ఇప్పటికే తెలుసా ~?	do you already know ~ ?	grupo	alternativoj	prononco
+level	sufiĉe bone	చాలా బాగా	quite well	grupo	alternativoj	prononco
+level	estis vespero en ~	~లో సాయంత్రం అయింది	it was evening in ~	grupo	alternativoj	prononco
+level	centoj da homoj	వందల మంది ప్రజలు	hundreds of people	grupo	alternativoj	prononco
+level	plenigas la placon	చతురస్రాన్ని నింపుతుంది	fills the square	grupo	alternativoj	prononco
+level	junuloj kaj militistoj	యువకులు మరియు సైనికులు	young men and soldiers	grupo	alternativoj	prononco
+level	maristoj de sur la ŝipoj	ఓడల నుండి నావికులు	sailors from the ships	grupo	alternativoj	prononco
+level	elstara sinjorino	అత్యుత్తమ మహిళ	outstanding lady	grupo	alternativoj	prononco
+level	elstaraj sinjorinoj	అత్యుత్తమ మహిళలు	outstanding ladies	grupo	alternativoj	prononco
+level	alilandaj vojaĝantoj	విదేశీ యాత్రికులు	foreign travelers	grupo	alternativoj	prononco
+level	ĉiuj moviĝas al urbomezo	అందరూ సిటీ సెంటర్‌కి తరలిస్తున్నారు	everyone is moving to the city center	grupo	alternativoj	prononco
+level	iom plue	కొంచెం ముందుకు	a little further	grupo	alternativoj	prononco
+level	ne malproksime de la maro	సముద్రం నుండి చాలా దూరంలో లేదు	not far from the sea	grupo	alternativoj	prononco
+level	troviĝis malgranda placo	అక్కడ ఒక చిన్న చతురస్రం ఉండేది	there was a small square	grupo	alternativoj	prononco
+level	iom plue sed ne malproksime	కొంచెం ముందుకు కానీ దూరం కాదు	a little further but not far	grupo	alternativoj	prononco
+level	fine de ĝi	దాని చివర	at the end of it	grupo	alternativoj	prononco
+level	proksime de la maro	సముద్రం దగ్గర	near the sea	grupo	alternativoj	prononco
+level	proksime staris homo	సమీపంలో ఒక వ్యక్తి నిలబడి ఉన్నాడు	a man stood nearby	grupo	alternativoj	prononco
+level	laŭ la vestaĵo	దుస్తులు ప్రకారం	according to the clothing	grupo	alternativoj	prononco
+level	oni facile scii ~	ఎవరైనా సులభంగా తెలుసుకోవచ్చు ~	one may know easily ~	grupo	alternativoj	prononco
+level	oni povis ekscii, ke ~	~ అని తెలుసుకోవడం సాధ్యమైంది	it was possible to find out that ~	grupo	alternativoj	prononco
+level	gondolisto de iu riĉulo	ఒక ధనవంతుని గోండోలియర్	a rich man's gondolier	grupo	alternativoj	prononco
+level	povis ekscii, ke li estas gondolisto	అతను గోండోలియర్ అని తెలుసుకోగలిగాడు	could find out that he was a gondolier	grupo	alternativoj	prononco
+level	li rigardis ~	అతను చూసాడు ~	he looked ~	grupo	alternativoj	prononco
+level	rigardis la ĝojan hommulton	ఆనందంగా ఉన్న గుంపు వైపు చూశాడు	looked at the joyful crowd	grupo	alternativoj	prononco
+level	rideto lumigis lian vizaĝon	ఒక చిరునవ్వు అతని ముఖాన్ని వెలిగించింది	a smile lit up his face	grupo	alternativoj	prononco
+level	kiam li ekvidis mariston	అతను నావికుడిని చూసినప్పుడు	when he saw a sailor	grupo	alternativoj	prononco
+level	la mariston, kiu alvenis	వచ్చిన నావికుడు	the sailor who arrived	grupo	alternativoj	prononco
+level	la flanko de la maro	సముద్రం వైపు	the side of the sea	grupo	alternativoj	prononco
+level	alvenis el la flanko de la maro	సముద్రం వైపు నుండి వచ్చారు	arrived from the side of the sea	grupo	alternativoj	prononco
+level	ĉu tio estas vi, Stefano?	అది నువ్వేనా, స్టీఫెన్?	is that you, Stephen?	grupo	alternativoj	prononco
+level	ekkriis la gondolisto	అని అరిచాడు గొండోలియర్	exclaimed the gondolier	grupo	alternativoj	prononco
+level	ĉiuj diras, ke ~	అని అందరూ అంటారు ~	everyone says that ~	grupo	alternativoj	prononco
+level	en la manojn de la Turkoj	తురుష్కుల చేతుల్లోకి	into the hands of the Turks	grupo	alternativoj	prononco
+level	ke vi falis en la manojn de la Turkoj	నువ్వు తురుష్కుల చేతిలో పడ్డావని	that you fell into the hands of the Turks	grupo	alternativoj	prononco
+level	ni renkontis unu	మేము ఒకరిని కలిశాము	we met one	grupo	alternativoj	prononco
+level	el niaj ŝipoj	మా ఓడల నుండి	from our ships	grupo	alternativoj	prononco
+level	ĝi sekvis nin	అది మమ్మల్ని అనుసరించింది	it followed us	grupo	alternativoj	prononco
+level	dum pli ol unu horo	ఒక గంటకు పైగా	for more than an hour	grupo	alternativoj	prononco
+level	sed ne estas facile iri ~	కానీ వెళ్ళడం సులభం కాదు ~	but it is not easy to go ~	grupo	alternativoj	prononco
+level	iri pli rapide ol nia ŝipo	మా ఓడ కంటే వేగంగా వెళ్లడానికి	to go faster than our ship	grupo	alternativoj	prononco
+level	kiaj novaĵoj estas tie ĉi?	ఇక్కడ వార్తలు ఏమిటి?	what news is here?	grupo	alternativoj	prononco
+level	tie ĉi en Venecio	ఇక్కడ వెనిస్‌లో	here in Venice	grupo	alternativoj	prononco
+level	nenio interesa	ఏ ది నచ్చలేదు	nothing interesting	grupo	alternativoj	prononco
+level	nur granda malfeliĉo	కేవలం ఒక పెద్ద దురదృష్టం	just a big misfortune	grupo	alternativoj	prononco
+level	ĉu vi konas Pietron?	నీకు పియట్రో తెలుసా?	do you know Pietro?	grupo	alternativoj	prononco
+level	mi konas lin	నాకు అతను తెలుసు	I know him	grupo	alternativoj	prononco
+level	granda ŝipo subakvigis lian gondolon	ఒక పెద్ద ఓడ అతని గొండోలాలో మునిగిపోయింది	a large ship submerged his gondola	grupo	alternativoj	prononco
+level	kaj kio pri li?	మరియు అతని గురించి ఏమిటి?	and what about him?	grupo	alternativoj	prononco
+level	la gondolo subakviĝis	గొండోలా మునిగిపోయింది	the gondola sank	grupo	alternativoj	prononco
+level	okazis, ke ~	అది జరిగింది ~	it happened that ~	grupo	alternativoj	prononco
+level	ni troviĝis proksime	మేము దగ్గరగా ఉన్నాము	we were close	grupo	alternativoj	prononco
+level	ni prenis lin en nian gondolon	మేము అతనిని మా గొండోలాలో తీసుకున్నాము	we took him in our gondola	grupo	alternativoj	prononco
+level	en la sama tempo	అదే సమయంలో	at the same time	grupo	alternativoj	prononco
+level	mia estro subakviĝis	నా యజమాని మునిగిపోయాడు	my boss drowned	grupo	alternativoj	prononco
+level	por helpi junulinon	ఒక యువతికి సహాయం చేయడానికి	to help a young woman	grupo	alternativoj	prononco
+level	junulinon, kiu preskaŭ mortis	దాదాపు మరణించిన యువతి	a young woman who almost died	grupo	alternativoj	prononco
+level	kun sia onklo	తన మామతో	with his uncle	grupo	alternativoj	prononco
+level	preskaŭ mortis kun sia onklo	దాదాపు తన మామతో చనిపోయాడు	almost died with his uncle	grupo	alternativoj	prononco
+level	tie estis junulino	ఒక యువతి ఉంది	there was a young woman	grupo	alternativoj	prononco
+level	lin ni ne povis helpi	మేము అతనికి సహాయం చేయలేకపోయాము	we could not help him	grupo	alternativoj	prononco
+level	estis grava homo	ఒక ముఖ్యమైన వ్యక్తి	was an important person	grupo	alternativoj	prononco
+level	kio alvenigis vin en Venecion?	మిమ్మల్ని వెనిస్‌కి ఏది తీసుకొచ్చింది?	what brought you to Venice?	grupo	alternativoj	prononco
+level	amiko mia	నా స్నేహితుడు	my friend	grupo	alternativoj	prononco
+level	la maristo ekrigardis	నావికుడు చూసాడు	the sailor looked up	grupo	alternativoj	prononco
+level	rapide ekrigardis sian amikon	వెంటనే తన స్నేహితుడి వైపు చూశాడు	quickly glanced at his friend	grupo	alternativoj	prononco
+level	kaj komencis diri	మరియు చెప్పడం ప్రారంభించాడు	and began to say	grupo	alternativoj	prononco
+level	do vi scias ~	కాబట్టి మీకు తెలుసు ~	so you know ~	grupo	alternativoj	prononco
+level	mi alportis ~	నేను ~ తెచ్చాను	I brought ~	grupo	alternativoj	prononco
+level	la gondolisto subite haltigis lin	గొండోలియర్ అకస్మాత్తుగా అతన్ని ఆపాడు	the gondolier suddenly stopped him	grupo	alternativoj	prononco
+level	li diris	అతను \ వాడు చెప్పాడు	he said	grupo	alternativoj	prononco
+level	tiam iu homo pasis	అప్పుడు ఒక వ్యక్తి దాటి వెళ్ళాడు	then a man passed by	grupo	alternativoj	prononco
+level	iu homo pasis apud li	ఒక వ్యక్తి అతనిని దాటి వెళ్ళాడు	a man passed by him	grupo	alternativoj	prononco
+level	li ankoraŭ ne estis tridekjara	అతనికి ఇంకా ముప్ఫై సంవత్సరాలు కాలేదు	he was not yet thirty	grupo	alternativoj	prononco
+level	kaj lia vizaĝo estis senkolora	మరియు అతని ముఖం రంగులేనిది	and his face was colorless	grupo	alternativoj	prononco
+level	lia iro estis certa kaj facila	అతని ప్రయాణం ఖచ్చితంగా మరియు సులభంగా ఉంది	his going was sure and easy	grupo	alternativoj	prononco
+level	lia vizaĝo estis malĝoja	అతని ముఖం విచారంగా ఉంది	his face was sad	grupo	alternativoj	prononco
+level	kiam li ekvidis la homon, ~	అతను మనిషిని చూసినప్పుడు, ~	when he saw the man, ~	grupo	alternativoj	prononco
+level	oni diras, ke ~	~ అని చెప్పబడింది	it is said that ~	grupo	alternativoj	prononco
+level	multaj gravuloj donas ~	చాలా ముఖ్యమైన వ్యక్తులు ఇస్తారు ~	many important people give ~	grupo	alternativoj	prononco
+level	sekreta laboro	రహస్య పని	secret work	grupo	alternativoj	prononco
+level	sekretaj laboroj	రహస్య ఉద్యోగాలు	secret jobs	grupo	alternativoj	prononco
+level	donas sekretajn laborojn al li	అతనికి రహస్య ఉద్యోగాలు ఇస్తాడు	gives secret jobs to him	grupo	alternativoj	prononco
+level	tro da sekretoj	చాలా రహస్యాలు	too many secrets	grupo	alternativoj	prononco
+level	li scias tro da sekretoj	అతనికి చాలా రహస్యాలు తెలుసు	he knows too many secrets	grupo	alternativoj	prononco
+level	tial ili timas	అందుచేత వారు భయపడుతున్నారు	therefore they are afraid	grupo	alternativoj	prononco
+level	sendi lin en malliberejon	అతన్ని జైలుకు పంపడానికి	to send him to prison	grupo	alternativoj	prononco
+level	diris la maristo	అన్నాడు నావికుడు	said the sailor	grupo	alternativoj	prononco
+level	kaj dum li parolis	మరియు అతను మాట్లాడినట్లు	and as he spoke	grupo	alternativoj	prononco
+level	li montris la domegon	అతను భవనం వైపు చూపించాడు	he pointed to the mansion	grupo	alternativoj	prononco
+level	la domego de Doĝoj	కుక్కల భవనం	the mansion of Doges	grupo	alternativoj	prononco
+level	multaj gravuloj bezonas lian helpon	చాలా ముఖ్యమైన వ్యక్తులకు అతని సహాయం కావాలి	many important people need his help	grupo	alternativoj	prononco
+level	kiom ili pagas?	వారు ఎంత చెల్లిస్తారు?	how much they pay?	grupo	alternativoj	prononco
+level	pagas al li	అతనికి చెల్లిస్తుంది	pays him	grupo	alternativoj	prononco
+level	pagas por unu mortigo	ఒక హత్యకు చెల్లిస్తుంది	pays for one kill	grupo	alternativoj	prononco
+level	certe ne malpli ol ~	ఖచ్చితంగా ~ కంటే తక్కువ కాదు	certainly not less than ~	grupo	alternativoj	prononco
+level	ol cent moneroj	వంద నాణేల కంటే	than a hundred coins	grupo	alternativoj	prononco
+level	ne forgesu, ke ~	అది మర్చిపోవద్దు ~	don't forget that ~	grupo	alternativoj	prononco
+level	ke li laboras por tiuj	అతను వారి కోసం పనిచేస్తాడని	that he works for them	grupo	alternativoj	prononco
+level	por tiuj, kiuj havas sufiĉe da mono	తగినంత డబ్బు ఉన్నవారికి	for those who have enough money	grupo	alternativoj	prononco
+level	por pagi al li	అతనికి చెల్లించడానికి	to pay him	grupo	alternativoj	prononco
+level	en Venecio estas ~	వెనిస్లో ~ ఉంది	in Venice there is ~	grupo	alternativoj	prononco
+level	tiuj aferoj	ఆ విషయాలు	those things	grupo	alternativoj	prononco
+level	forgesi tiujn aferojn	ఆ విషయాలను మరచిపోవడానికి	to forget those things	grupo	alternativoj	prononco
+level	aferoj, kiujn estas pli bone forgesi	మరచిపోవడమే మంచిది	things that are better forgotten	grupo	alternativoj	prononco
+level	se vi volas trankvile manĝi	మీరు ప్రశాంతంగా తినాలనుకుంటే	if you want to eat in peace	grupo	alternativoj	prononco
+level	trankvile manĝi vian panon	శాంతితో మీ రొట్టె తినడానికి	to eat your bread in peace	grupo	alternativoj	prononco
+level	estis iom da silento	అక్కడ కొంత నిశ్శబ్దం	there was some silence	grupo	alternativoj	prononco
+level	kaj poste	మరియు తరువాత	and later	grupo	alternativoj	prononco
+level	la gondolisto denove ekparolis	గొండోలియర్ మళ్ళీ మాట్లాడాడు	the gondolier spoke again	grupo	alternativoj	prononco
+level	vi venis ĝustatempe	మీరు సమయానికి వచ్చారు	you came just in time	grupo	alternativoj	prononco
+level	por vidi ŝipkuron	బోట్ రేస్ చూడటానికి	to see a boat race	grupo	alternativoj	prononco
+level	iu diris malforte	ఎవరో బలహీనంగా అన్నారు	someone said weakly	grupo	alternativoj	prononco
+level	proksime de la gondolisto	గొండోలియర్ దగ్గర	near the gondolier	grupo	alternativoj	prononco
+level	la estro de la urbo	నగరం యొక్క మేయర్	the mayor of the city	grupo	alternativoj	prononco
+level	senvorte montris al la gondolo	మాటలేకుండా గొండోలా వైపు చూపించాడు	wordlessly pointed to the gondola	grupo	alternativoj	prononco
+level	diris la gondolisto	అన్నాడు గొండోలియర్	said the gondolier	grupo	alternativoj	prononco
+level	kaj prenis la manon de sia amiko	మరియు అతని స్నేహితుడి చేతిని తీసుకున్నాడు	and took his friend's hand	grupo	alternativoj	prononco
+level	ĵetas la paperon	కాగితం విసిరాడు	throws the paper	grupo	alternativoj	prononco
+level	en la paperujon	పేపర్ బిన్ లోకి	into the paper bin	grupo	alternativoj	prononco
+level	la knabinoj ĵetis la paperojn	అమ్మాయిలు పేపర్లు విసిరారు	the girls threw the papers	grupo	alternativoj	prononco
+level	kie estas mia skribilo?	నా పెన్ ఎక్కడ ఉంది	where is my pen	grupo	alternativoj	prononco
+level	mi volas respondi al li	నేను అతనికి సమాధానం చెప్పాలనుకుంటున్నాను	I want to answer him	grupo	alternativoj	prononco
+level	la suno malaperis	సూర్యుడు అదృశ్యమయ్యాడు	the sun disappeared	grupo	alternativoj	prononco
+level	kaj nun estas preskaŭ malhele	మరియు ఇప్పుడు దాదాపు చీకటిగా ఉంది	and now it is almost dark	grupo	alternativoj	prononco
+level	bonvolu manĝi	దయచేసి తినండి	please eat	grupo	alternativoj	prononco
+level	bonvolu manĝi la panon	దయచేసి రొట్టె తినండి	please eat the bread	grupo	alternativoj	prononco
+level	per manĝiloj	కత్తిపీటతో	with cutlery	grupo	alternativoj	prononco
+level	pardonu min	క్షమించండి	excuse me	grupo	alternativoj	prononco
+level	rajtas resti	ఉండడానికి అనుమతి ఉంది	is allowed to stay	grupo	alternativoj	prononco
+level	mi ne rajtas resti	ఉండడానికి నాకు హక్కు లేదు	I have no right to stay	grupo	alternativoj	prononco
+level	ĉu vi povas kunporti ~ ?	మీరు తీసుకురాగలరా ~?	can you bring ~ ?	grupo	alternativoj	prononco
+level	de mia fratino	నా సోదరి నుండి	from my sister	grupo	alternativoj	prononco
+level	kiam vi aĉetis ~ ?	మీరు ఎప్పుడు కొనుగోలు చేసారు ~?	when did you buy ~ ?	grupo	alternativoj	prononco
+level	aĉetis tiun muzikilon	ఆ సంగీత వాయిద్యాన్ని కొన్నాడు	bought that musical instrument	grupo	alternativoj	prononco
+level	kiu laste uzis ?	ఎవరు చివరిగా ఉపయోగించారు?	who used last?	grupo	alternativoj	prononco
+level	uzis mian ŝlosilon	నా కీని ఉపయోగించాను	used my key	grupo	alternativoj	prononco
+level	ĉu vi veturis?	నువ్వు డ్రైవ్ చేశావా?	did you drive?	grupo	alternativoj	prononco
+level	en Venecio	వెనిస్ లో	in Venice	grupo	alternativoj	prononco
+level	ankaŭ per gondolo	గొండోలా ద్వారా కూడా	also by gondola	grupo	alternativoj	prononco
+level	ĉu vi povos ekdormi?	మీరు నిద్రపోగలరా?	will you be able to fall asleep?	grupo	alternativoj	prononco
+level	tiam, kiam silentiĝis	అప్పుడు, నిశ్శబ్దం ఉన్నప్పుడు	then, when there was silence	grupo	alternativoj	prononco
+level	la sinjoro estis alta	పెద్దమనిషి పొడవుగా ఉన్నాడు	the gentleman was tall	grupo	alternativoj	prononco
+level	alta, dika	పొడుగు, లావు	tall, fat	grupo	alternativoj	prononco
+level	dika, peza	మందపాటి, భారీ	thick, heavy	grupo	alternativoj	prononco
+level	peza kaj larĝa	భారీ మరియు పెద్ద	heavy and large	grupo	alternativoj	prononco
+level	estis alta, dika, peza, kaj larĝa	పొడవుగా, మందంగా, బరువైనదిగా మరియు పెద్దదిగా ఉండేది	was tall, thick, heavy, and large	grupo	alternativoj	prononco
+level	donis forton	బలం ఇచ్చింది	gave strength	grupo	alternativoj	prononco
+level	havinda forto	కలిగి విలువైన శక్తి	a force worth having	grupo	alternativoj	prononco
+level	havinda korpoforto	విలువైన శారీరక బలం	physical strength worth having	grupo	alternativoj	prononco
+level	tio donis	అని ఇచ్చింది	that gave	grupo	alternativoj	prononco
+level	donis al li	అతనికి ఇచ్చింది	gave him	grupo	alternativoj	prononco
+level	tio donis forton	అని బలం ఇచ్చింది	that gave strength	grupo	alternativoj	prononco
+level	donis havindan korpoforton	విలువైన శరీర బలాన్ని ఇచ్చింది	gave body strength worth having	grupo	alternativoj	prononco
+level	lia aspekto	అతని ప్రదర్శన	his appearance	grupo	alternativoj	prononco
+level	grandula aspekto	ఒక పొడవైన వ్యక్తి యొక్క ప్రదర్శన	appearance of a tall person	grupo	alternativoj	prononco
+level	eta rolo	ఒక చిన్న పాత్ర	a small role	grupo	alternativoj	prononco
+level	ludis rolon	పాత్రను పోషించాడు	played a role	grupo	alternativoj	prononco
+level	ne eta rolo	చిన్న పాత్ర కాదు	not a small role	grupo	alternativoj	prononco
+level	ludis etan rolon	చిన్న పాత్ర పోషించాడు	played a small role	grupo	alternativoj	prononco
+level	ludis ne etan rolon	ఏ చిన్న పాత్ర పోషించలేదు	played no small role	grupo	alternativoj	prononco
+level	en la fakto, ke ~	నిజానికి ~	in the fact that ~	grupo	alternativoj	prononco
+level	la plimulto el la homoj	మెజారిటీ ప్రజలు	the majority of the people	grupo	alternativoj	prononco
+level	se ne timis	భయపడకపోతే	if not afraid	grupo	alternativoj	prononco
+level	lin timis	అతనికి భయపడింది	was afraid of him	grupo	alternativoj	prononco
+level	se lin timis	అతను భయపడితే	if he was afraid	grupo	alternativoj	prononco
+level	se ne lin timis	అతనికి భయపడకపోతే	if not afraid of him	grupo	alternativoj	prononco
+level	certe respektis	ఖచ్చితంగా గౌరవించబడింది	certainly respected	grupo	alternativoj	prononco
+level	almenaŭ pripensis ~	కనీసం ~ గురించి ఆలోచించాను	at least thought about ~	grupo	alternativoj	prononco
+level	antaŭ ol ~	ముందు ~	before ~	grupo	alternativoj	prononco
+level	kontentigi lin	అతన్ని సంతృప్తి పరచడానికి	to satisfy him	grupo	alternativoj	prononco
+level	malkontentigi lin	అతనికి అసంతృప్తి కలిగించడానికి	to displease him	grupo	alternativoj	prononco
+level	antaŭ ol malkontentigi ~	అసంతృప్తికి ముందు ~	before dissatisfying ~	grupo	alternativoj	prononco
+level	antaŭ ol decidi ~	నిర్ణయించే ముందు ~	before deciding ~	grupo	alternativoj	prononco
+level	decidi malkontentigi ~	అసంతృప్తిని నిర్ణయించడానికి ~	to decide to displease ~	grupo	alternativoj	prononco
+level	decidi kontentigi lin	అతనిని సంతృప్తి పరచాలని నిర్ణయించుకోవాలి	to decide to satisfy him	grupo	alternativoj	prononco
+level	antaŭ ol decidi malkontentigi lin	అతనిని అసంతృప్తికి గురిచేయాలని నిర్ణయించుకునే ముందు	before deciding to displease him	grupo	alternativoj	prononco
+level	tio, kio estas utila	అది, ఉపయోగకరమైనది	that, which is useful	grupo	alternativoj	prononco
+level	ofte utila dumtage	తరచుగా రోజులో ఉపయోగకరంగా ఉంటుంది	often useful during the day	grupo	alternativoj	prononco
+level	malplaĉa ĝeno	ఒక అసహ్యకరమైన ఉపద్రవం	an unpleasant nuisance	grupo	alternativoj	prononco
+level	per si	తనకు తానే	by himself	grupo	alternativoj	prononco
+level	prezentas malplaĉan ĝenon	అసహ్యకరమైన విసుగును అందిస్తుంది	presents an unpleasant nuisance	grupo	alternativoj	prononco
+level	prezentas per si malplaĉan ĝenon	తనను తాను అసహ్యకరమైన విసుగుగా చూపుతుంది	presents itself as an unpleasant nuisance	grupo	alternativoj	prononco
+level	en loko arboplena	చెట్లతో నిండిన ప్రదేశంలో	in a place full of trees	grupo	alternativoj	prononco
+level	tiam, kiam oni devojiĝis	అప్పుడు, ఒకరు దారితప్పినప్పుడు	then, when one went astray	grupo	alternativoj	prononco
+level	en nehoma sovaĝejo	అమానవీయ అరణ్యంలో	in an inhuman wilderness	grupo	alternativoj	prononco
+level	kaj ekstervoje iraĉas	మరియు గందరగోళంలో రోడ్డుపైకి వెళుతుంది	and goes off the road in chaos	grupo	alternativoj	prononco
+level	alta larĝa korpo	ఒక పొడవైన పెద్ద శరీరం	a tall large body	grupo	alternativoj	prononco
+level	ne sukcesis pasi ~	పాస్ చేయడంలో విఫలమైంది ~	failed to pass ~	grupo	alternativoj	prononco
+level	inter la arbetoj	పొదల మధ్య	among the bushes	grupo	alternativoj	prononco
+level	krome tuŝi la naturaĵojn	సహజమైన వస్తువులను తాకడంతో పాటు	in addition to touching the natural things	grupo	alternativoj	prononco
+level	ĝenerale malsekajn	సాధారణంగా తడి	generally wet	grupo	alternativoj	prononco
+level	meze de malsekaj naturaĵoj	తడి ప్రకృతి మధ్యలో	in the middle of wet nature	grupo	alternativoj	prononco
+level	malsekaj naturaĵoj, meze de kiuj ~	తడి సహజ విషయాలు, మధ్యలో ~	wet natural things, in the middle of which ~	grupo	alternativoj	prononco
+level	li malfacile paŝis	అతను కష్టంతో నడిచాడు	he walked with difficulty	grupo	alternativoj	prononco
+level	estis travivaĵo	అది ఒక అనుభవం	it was an experience	grupo	alternativoj	prononco
+level	ne malofte	అసాధారణం కాదు	not uncommon	grupo	alternativoj	prononco
+level	doloriga kaj ĉiam malagrabla	బాధాకరమైన మరియు ఎల్లప్పుడూ అసహ్యకరమైన	painful and always unpleasant	grupo	alternativoj	prononco
+level	ju pli ~	మరింత ~	the more ~	grupo	alternativoj	prononco
+level	antaŭeniris en la vivo	జీవితంలో ముందుకు సాగాడు	moved forward in life	grupo	alternativoj	prononco
+level	en la kastela arbaro	కోట అడవిలో	in the castle forest	grupo	alternativoj	prononco
+level	ju pli antaŭeniris des pli malŝatis ~	మరింత ఇష్టపడని ~	the further went forward the more disliked ~	grupo	alternativoj	prononco
+level	malŝatis la noktan naturon	రాత్రిపూట స్వభావాన్ని ఇష్టపడలేదు	disliked the nocturnal nature	grupo	alternativoj	prononco
+level	viro kun okuloj bone videblaj	స్పష్టంగా చూడగలిగే కళ్ళు ఉన్న మనిషి	a man with eyes that can be seen clearly	grupo	alternativoj	prononco
+level	okuloj, kiuj kapablis bone vidi	బాగా చూడగలిగే కళ్ళు	eyes that could see well	grupo	alternativoj	prononco
+level	bone vidi en la mallumo	చీకటిలో బాగా చూడటానికి	to see well in the dark	grupo	alternativoj	prononco
+level	rigardis la malfacilan iron	వెళుతున్న కష్టం వైపు చూశాడు	looked at the difficult going	grupo	alternativoj	prononco
+level	de nia industriisto	మన పారిశ్రామికవేత్త నుండి	from our industrialist	grupo	alternativoj	prononco
+level	li ridetis	అతను నవ్వాడు	he smiled	grupo	alternativoj	prononco
+level	apud tiu viro	ఆ మనిషి పక్కన	next to that man	grupo	alternativoj	prononco
+level	en vestaĵo de policano	పోలీసు దుస్తులలో	in policeman's clothing	grupo	alternativoj	prononco
+level	staris alia persono	మరొక వ్యక్తి నిలబడి ఉన్నాడు	another person was standing	grupo	alternativoj	prononco
+level	en simila vestaĵo	సారూప్య దుస్తులలో	in similar clothing	grupo	alternativoj	prononco
+level	ĉi lasta estis virino	రెండోది ఒక మహిళ	the latter was a woman	grupo	alternativoj	prononco
+level	ni iru	వెళ్దాం	let's go	grupo	alternativoj	prononco
+level	la viro diris mallaŭte	మనిషి మెల్లగా అన్నాడు	the man said softly	grupo	alternativoj	prononco
+level	en la orelon de sia kunulino	తన సహచరుడి చెవిలోకి	into the ear of his companion	grupo	alternativoj	prononco
+level	nun estas la ĝusta momento	ఇప్పుడు సరైన క్షణం	now is the right moment	grupo	alternativoj	prononco
+level	ambaŭ paŝis direkte al la persono	ఇద్దరూ ఆ వ్యక్తి వైపు అడుగులు వేశారు	both stepped toward the person	grupo	alternativoj	prononco
+level	ili zorgis fari ~	వారు జాగ్రత్త వహించారు ~	they were careful to do ~	grupo	alternativoj	prononco
+level	kiel eble plej ~	వీలైనంత ~	as possible as ~	grupo	alternativoj	prononco
+level	kiel eble plej malmulte da bruo	వీలైనంత తక్కువ శబ్దం (కీల్ ఎబుల్)	as little noise as possible (kiel eble)	grupo	alternativoj	prononco
+level	laŭeble plej malmulte da bruo	వీలైనంత తక్కువ శబ్దం (laŭeble)	as little noise as possible (laŭeble)	grupo	alternativoj	prononco
+level	ili preskaŭ plene sukcesis	వారు దాదాపు పూర్తిగా విజయం సాధించారు	they almost fully succeeded	grupo	alternativoj	prononco
+level	en ĉi tiu aĉa situacio	ఈ దుష్ట పరిస్థితిలో	in this nasty situation	grupo	alternativoj	prononco
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	చెట్లు తమ కొమ్మలను విసిరిన దుష్ట పరిస్థితి	a nasty situation where trees threw their branches	grupo	alternativoj	prononco
+level	ĵetis siajn malsekajn branĉojn	వారి స్వంత తడి శాఖలను విసిరారు	threw their own wet branches	grupo	alternativoj	prononco
+level	rekte en la vizaĝojn	నేరుగా ముఖాల్లోకి	straight into the faces	grupo	alternativoj	prononco
+level	de la industriisto	పారిశ్రామికవేత్త యొక్క	of the industrialist	grupo	alternativoj	prononco
+level	multpiedaj bestetoj	బహుళ పాదాల చిన్న జీవులు	multi-footed small creatures	grupo	alternativoj	prononco
+level	prenis liajn piedojn	తన పాదాలను తీసుకున్నాడు	took his feet	grupo	alternativoj	prononco
+level	por promenejo	నడక రహదారి కోసం	for a walk road	grupo	alternativoj	prononco
+level	naturo faligis lian piedon	ప్రకృతి అతని పాదం పడిపోయింది	nature made his foot fallen	grupo	alternativoj	prononco
+level	plej dolorige	అత్యంత బాధాకరంగా	most painfully	grupo	alternativoj	prononco
+level	faligis lian piedon en kavon	తన పాదాన్ని ఒక గోతిలో పడేశాడు	dropped his foot into a pit	grupo	alternativoj	prononco
+level	kavo plena de akvo	నీటితో నిండిన గొయ్యి	a pit full of water	grupo	alternativoj	prononco
+level	akvo aĉ-odora	దుర్వాసనతో కూడిన నీరు	foul-smelling water	grupo	alternativoj	prononco
+level	rapide alvenis al la penso	త్వరగా ఆలోచన వచ్చింది	quickly arrived at the thought	grupo	alternativoj	prononco
+level	oni devas esti preta	ఒకటి సిద్ధంగా ఉండాలి	one must be ready	grupo	alternativoj	prononco
+level	ĉi tie	ఇక్కడ	here	grupo	alternativoj	prononco
+level	iu ajn ~	ఎవరైనా ~	anyone ~	grupo	alternativoj	prononco
+level	preta por iu ajn malplaĉa renkonto	ఏదైనా అసహ్యకరమైన ఎన్‌కౌంటర్‌కు సిద్ధంగా ఉంది	ready for any unpleasant encounter	grupo	alternativoj	prononco
+level	ion ajn	ఏదైనా (ఏదైనా)	anything (whatever)	grupo	alternativoj	prononco
+level	li atendis ion ajn	అతను ఏదైనా కోసం వేచి ఉన్నాడు	he was waiting for anything	grupo	alternativoj	prononco
+level	krom homa voĉo	ప్రక్కన మానవ స్వరం	aside human voice	grupo	alternativoj	prononco
+level	kiam voĉo aŭdiĝis, ~	ఒక స్వరం వినిపించినప్పుడు, ~	when a voice heard, ~	grupo	alternativoj	prononco
+level	aŭdiĝis tuj proksime	వెంటనే దగ్గరగా వినిపించింది	heard immediately close	grupo	alternativoj	prononco
+level	li faris belan surlokan salton	అతను చక్కగా ఆన్-సైట్ జంప్ చేసాడు	he made a nice on-site jump	grupo	alternativoj	prononco
+level	kiu movis lian koron	అతని హృదయాన్ని కదిలించినవాడు	who moved his heart	grupo	alternativoj	prononco
+level	supren ĝis la buŝo	నోటికి పైకి	upword to the mouth	grupo	alternativoj	prononco
+level	kun la provo rekapti trankvilon	ప్రశాంతతను తిరిగి పొందే ప్రయత్నంతో	with the attempt to recapture calm	grupo	alternativoj	prononco
+level	iom da trankvilo	కొద్దిగా ప్రశాంతత	a little tranquility	grupo	alternativoj	prononco
+level	la lumo de lampeto	ఒక దీపం యొక్క కాంతి	the light of a lamp	grupo	alternativoj	prononco
+level	oni direktis rekte al liaj okuloj	ఎవరైనా అతని కళ్ళకు నేరుగా దర్శకత్వం వహించారు	someone directed directly to his eyes	grupo	alternativoj	prononco
+level	la lampo, kiun oni direktis al okuloj	ఎవరో కళ్ళకు దర్శకత్వం వహించిన దీపం	the lamp which someone directed to eyes	grupo	alternativoj	prononco
+level	malhelpis repaciĝon	సయోధ్యను అడ్డుకున్నారు	prevented reconciliation	grupo	alternativoj	prononco
+level	ŝajnis al li, ke ~	~ అని అతనికి అనిపించింది	it seemed to him that ~	grupo	alternativoj	prononco
+level	la homformo, kiu tenis la lampon	దీపాన్ని పట్టుకున్న మానవ రూపం	the human form that held the lamp	grupo	alternativoj	prononco
+level	surhavas vestojn policajn	దుస్తులు పోలీసు	wear clothes police	grupo	alternativoj	prononco
+level	kion vi faras ĉi tie?	మీరు ఇక్కడ ఏమి చేస్తున్నారు?	what are you doing here?	grupo	alternativoj	prononco
+level	sonas la aŭtorita voĉo	అధికార స్వరం వినిపిస్తుంది	sounds the authoritative voice	grupo	alternativoj	prononco
+level	bonvolu paroli ~	దయచేసి మాట్లాడండి ~	please talk ~	grupo	alternativoj	prononco
+level	iom klare	కొంచెం స్పష్టంగా	a little clear	grupo	alternativoj	prononco
+level	la alia diris	మరొకరు చెప్పారు	the other said	grupo	alternativoj	prononco
+level	eĉ pli grav-tone	మరింత ముఖ్యమైన స్వరంలో	in even more important-tone	grupo	alternativoj	prononco
+level	mi promenas	నేను నడుస్తున్నాను	I'm walking	grupo	alternativoj	prononco
+level	vi promenas en la bieno	మీరు పొలంలో నడుస్తారు	you walk on the farm	grupo	alternativoj	prononco
+level	de la grafino	కౌంటెస్ యొక్క	of the countess	grupo	alternativoj	prononco
+level	la bieno de la grafino	కౌంటెస్ పొలం	the countess's farm	grupo	alternativoj	prononco
+level	meze de la nokto	అర్ధ రాత్రి లో	in the middle of the night	grupo	alternativoj	prononco
+level	ĉu la grafino vin invitis?	కౌంటెస్ మిమ్మల్ని ఆహ్వానించారా?	did the countess invite you?	grupo	alternativoj	prononco
+level	ĉu ŝi scias pri ~	~ గురించి ఆమెకు తెలుసా	does she know about ~	grupo	alternativoj	prononco
+level	pri via ĉeesto	మీ ఉనికి గురించి	about your presence	grupo	alternativoj	prononco
+level	via ĉeesto ĉi tie	ఇక్కడ మీ ఉనికి	your presence here	grupo	alternativoj	prononco
+level	mi devas peti vin ~	నేను నిన్ను అడగాలి ~	I have to ask you ~	grupo	alternativoj	prononco
+level	petas vin sekvi min	నన్ను అనుసరించమని అడుగుతుంది	asks you to follow me	grupo	alternativoj	prononco
+level	kaj li klarigis ~	మరియు అతను వివరించాడు ~	and he explained ~	grupo	alternativoj	prononco
+level	klarigis, ke ~	~ అని వివరించారు	explained that ~	grupo	alternativoj	prononco
+level	ekde la fuŝa provo	తప్పు ప్రయత్నం నుండి	since the wrong attempt	grupo	alternativoj	prononco
+level	la fuŝa provo kapti la grafinon	కౌంటెస్‌ను పట్టుకోవడానికి చేసిన తప్పు ప్రయత్నం	the wrong attempt to catch the countess	grupo	alternativoj	prononco
+level	fare de ~	~ కారణంగా	due to ~	grupo	alternativoj	prononco
+level	fare de teroristoj	ఉగ్రవాదుల కారణంగా	due to terrorists	grupo	alternativoj	prononco
+level	la polico kontrolas atente	పోలీసులు జాగ్రత్తగా తనిఖీలు చేస్తున్నారు	the police checks carefully	grupo	alternativoj	prononco
+level	kontrolas, kio okazas	ఏమి జరుగుతుందో తనిఖీ చేస్తుంది	checks what is happening	grupo	alternativoj	prononco
+level	okazas en la ĉirkaŭaĵo	చుట్టుపక్కల సంభవిస్తుంది	occurs in the surrounding	grupo	alternativoj	prononco
+level	de la kastelo	కోట యొక్క	of the castle	grupo	alternativoj	prononco
+level	la ĉirkaŭaĵo de la kastelo	కోట చుట్టుపక్కల	the surrounding of the castle	grupo	alternativoj	prononco
+level	al la industriisto	పారిశ్రామికవేత్తకు	to the industrialist	grupo	alternativoj	prononco
+level	ŝajnis, ke ~	~ అని అనిపించింది	it seemed that ~	grupo	alternativoj	prononco
+level	lia koro ĉifoje falis	అతని గుండె ఈసారి పడిపోయింది	his heart fell this time	grupo	alternativoj	prononco
+level	falis ĝis liaj piedoj	కాళ్ళ మీద పడ్డాడు	fell to his feet	grupo	alternativoj	prononco
+level	li sciis, ke ~	అతనికి తెలుసు ~	he knew that ~	grupo	alternativoj	prononco
+level	nur malfacile li provos trovi ~	అతను కనుగొనడానికి ప్రయత్నిస్తాడు	just hard he'll try to find	grupo	alternativoj	prononco
+level	trovi akcepteblan klarigon	ఆమోదయోగ్యమైన వివరణను కనుగొనడానికి	to find an acceptable explanation	grupo	alternativoj	prononco
+level	pri sia ĉeesto	ఒకరి స్వంత ఉనికి గురించి	about one's own presence	grupo	alternativoj	prononco
+level	la ideo, ke la grafino ĉion scias	కౌంటెస్‌కి ప్రతిదీ తెలుసు అనే ఆలోచన	the idea that the countess knows everything	grupo	alternativoj	prononco
+level	la ideo perdigis al li malmulton da espero	ఆలోచన అతనికి చిన్న ఆశను దూరం చేసింది	the idea deprived him of little hope	grupo	alternativoj	prononco
+level	malmulto da espero	చిన్న ఆశ	little hope	grupo	alternativoj	prononco
+level	malmulta espero, kiu restis	చిన్న ఆశ మిగిలింది	little hope that remained	grupo	alternativoj	prononco
+level	post la unuaj vortoj de la policano	పోలీసుల మొదటి మాటల తర్వాత	after the first words of the police	grupo	alternativoj	prononco
+level	ju pli ~ des pli ~	మరింత ~ మరింత ~	the more ~ the more ~	grupo	alternativoj	prononco
+level	ju pli longe des pli bone	ఇక మంచిది	the longer the better	grupo	alternativoj	prononco
+level	kiom ajn	ఎంత ఉన్నా	no matter how much	grupo	alternativoj	prononco
+level	antaŭ kvarona horo	పావుగంట క్రితం	a quarter of an hour ago	grupo	alternativoj	prononco
+level	ili revenis	వారు తిరిగి వచ్చారు	they came back	grupo	alternativoj	prononco
+level	post la terura malfeliĉo	భయంకరమైన దురదృష్టం తరువాత	after the terrible misfortune	grupo	alternativoj	prononco
+level	la homoj foriris	ప్రజలు వెళ్లిపోయారు	the people left	grupo	alternativoj	prononco
+level	kaj la malnovaj urboj disfalis	మరియు పాత నగరాలు విడిపోయాయి	and the old cities fell apart	grupo	alternativoj	prononco
+level	ni devus revidi vin	మేము మిమ్మల్ని మళ్ళీ చూడాలి	we should see you again	grupo	alternativoj	prononco
+level	ju pli ofte	మరింత తరచుగా	the more often	grupo	alternativoj	prononco
+level	mi pripensas	నేను ఆలోచిస్తున్నాను	I'm thinking	grupo	alternativoj	prononco
+level	des pli mi koleras	నాకు కోపం ఎక్కువ	the more angry I am	grupo	alternativoj	prononco
+level	ŝi loĝas en ~	ఆమె ~లో నివసిస్తుంది	she lives in ~	grupo	alternativoj	prononco
+level	en iu ajn domo	ఏదైనా ఇంట్లో	in any house	grupo	alternativoj	prononco
+level	ĉu ni revidos nin?	మనం మళ్ళీ ఒకరినొకరు చూస్తామా?	will we see each other again?	grupo	alternativoj	prononco
+level	kie ajn kaj kiam ajn	ఎక్కడ మరియు ఎప్పుడు	wherever and whenever	grupo	alternativoj	prononco
+level	kiam mi rericevos ~ ?	నేను ఎప్పుడు తిరిగి వస్తాను ~?	when will I get back ~ ?	grupo	alternativoj	prononco
+level	la alian duonon de la libroj	మిగిలిన సగం పుస్తకాలు	the other half of the books	grupo	alternativoj	prononco
+level	ĉu vi bezonos ~ ?	మీకు కావాలా ~?	will you need ~ ?	grupo	alternativoj	prononco
+level	bezonas pli ol kvaronan jaron	ఒక సంవత్సరం కంటే ఎక్కువ పావు వంతు అవసరం	needs more than a quarter of a year	grupo	alternativoj	prononco
+level	por tiuj laboroj	ఆ ఉద్యోగాల కోసం	for those jobs	grupo	alternativoj	prononco
+level	kial estas ~ ?	ఎందుకు ~?	why is ~ ?	grupo	alternativoj	prononco
+level	des pli malvarma	చల్లని	the colder	grupo	alternativoj	prononco
+level	ju pli longe	ఇక	the longer	grupo	alternativoj	prononco
+level	ni atendas ~	మేము వేచి ఉన్నాము ~	we are waiting ~	grupo	alternativoj	prononco
+level	ĉu vi kontentas kun ~ ?	మీరు సంతృప్తి చెందారా ~ ?	are you satisfied with ~ ?	grupo	alternativoj	prononco
+level	kun iu ajn viro	ఏ మనిషితోనైనా	with any man	grupo	alternativoj	prononco
