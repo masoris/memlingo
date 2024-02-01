@@ -1,0 +1,1354 @@
+level	mi, vi	Εγώ εσύ	I, you	grupo	1    	2024-02-01 16:48:16
+level	estas, estis	(παρόν) είναι, είμαι, είναι (παρελθόν) ήταν, ήταν	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	είμαι ~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	είσαι ~	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	Γειά σου	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	γεια, είμαι ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	μου, σου	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	ένα όνομα	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	το όνομά μου, το όνομά σου	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	το όνομά μου είναι ~	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	το όνομά σου είναι ~	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(παρόν) κάνει, (παρελθόν) έκανε	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(παρόν) ήταν, ήταν (μέλλον) θα είναι	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	ένα όνομα, ένα (αντικειμενικό) όνομα	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	αγάπη μου	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	κάνεις ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	πως	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	πώς είσαι?	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	τι	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	πως σε λένε?	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	καλά, καλά	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	κάνει καλά	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	Είμαι καλά	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	και	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	καλα και εσυ?	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	μέχρι ~	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(παρόν) βλέπει, (παρελθόν) είδε	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(παρελθόν) είδε, (παρελθόν) ξαναείδε	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	είδα ξανά, θα ξαναδώ	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	ξαναβλέπω, ξαναβλέπω (αντικειμενικός)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	τα λέμε!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	ευχαριστώ	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	ευχαριστώ και τα ξαναλέμε!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	να ~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	σε σένα, σε μένα	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(παρόν) ευχαριστώ, (παρελθόν) ευχαρίστησε	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	Σας εκτιμώ	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	ναι όχι	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	ναι, σε ευχαριστώ	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	τρώει, θα φάει	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	δεν τρώω	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	όχι, δεν τρώω	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	όμορφα, όμορφα	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	αξίζει τον κόπο (τέλειωμα)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	αξιόλογο, αξίζει να ευχαριστήσω	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	ολόκληρο, ως σύνολο	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	όλα, (αντικειμενικά) όλα	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	καθόλου, καλώς ήρθες	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	εντελώς όχι	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	συγχωρώ, συγχωρώ	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	με συγχωρεί	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	Συγγνώμη! (με συγχωρείτε)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	Λυπάμαι, παρακαλώ	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	καλημέρα	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	Καλημέρα	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	καληνυχτα	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	όνειρα γλυκά	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	(Καλό ταξίδι) σε σένα	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	καλή μέρα!	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	είναι ~ ;	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	τα πας καλα? (Πώς είσαι?)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	ναι είμαι καλά	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	όχι, καθόλου	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	πολύ, πάρα πολύ	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	μεγάλο, σε μεγάλο βαθμό	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	πολύ καλό, πολύ μεγάλο	very good, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	τα πας πολυ καλα	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	όχι πολύ καλά	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	να μάθεις, μια μάθηση	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	κοιτάζει, θεατής	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	μαθαίνει, μαθητής (μαθητής)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	is -ing, πρόσωπο που κάνει	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	ένας μαθητής, ένας άνθρωπος που έχει μάθει	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	Είμαι μαθητής.	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~ είναι φίλος μου	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	αυτός αυτή	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	να κάθεται, κάθεται	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	κάθεται, καθόταν, θα κάθεται	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	αυτός κάθεται και αυτή μαθαίνει	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	ένα δωμάτιο	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	μαθαίνει σε ένα δωμάτιο	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	μαθητής και αθλητής	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	αθλητισμός και αθλητής	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	ένας αθλητής αθλείται	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	είναι μαθητής	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	είναι μαθητής και αθλητής	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	τώρα κάθεται	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	και τώρα μαθαίνει	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	κάθεται και μαθαίνει	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	τώρα σε ένα δωμάτιο	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	είναι σε ένα τραπέζι	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	ένα χαρτί και χαρτιά	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	ένα τραπέζι και τραπέζια	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	ένα βιβλίο και βιβλία	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	τα χαρτιά και τα βιβλία	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	είναι σε ένα τραπέζι.	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	γράφει σε ένα τραπέζι γραφής	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	τα βιβλία είναι ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	πάνω στο τραπέζι	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	ένα σχολικό βιβλίο και τα σχολικά βιβλία	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	στο τραπέζι υπάρχει ~	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	ένας πατέρας και μια μητέρα	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	ο πατέρας και η μητέρα	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	η μητέρα του φίλου μου	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	στο δωμάτιο	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	δεν είναι στο δωμάτιο	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	τώρα εργάζονται	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	ο πατέρας του είναι εργάτης	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	εργάζεται σε ξενοδοχείο	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	διδάσκει η μητέρα	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	είναι δασκάλα	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	είναι μάνα;	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	όχι, είναι ξενοδόχος	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	όχι, δεν δουλεύω	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	ποιο είναι το όνομά της?	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	ποιος απανταει τωρα	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	τη γλώσσα της μητέρας τους	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	είναι το όνομά σου ~ ;	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	καθόμαστε και απαντάμε	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	την καρέκλα εργασίας της	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	το όνομά του δεν είναι ~	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	η γλώσσα της είναι η γλώσσα τους	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	ο πατέρας και η μητέρα μας	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	ο μαθητής σου, οι μαθητές σου	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	είναι μαθητές σου;	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	είσαι μαθητής?	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	είσαι στο δωμάτιο;	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	δεν είμαι ~	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	μια Εσπεραντίστρια και μια γυναίκα Εσπεραντίστρια	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	έκανε check in για το δωμάτιο του ξενοδοχείου	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	μια γλωσσολόγος και μια εργάτρια	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	η φίλη του είναι ~	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	μαθητές και αθλητές	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	το όνομα της οικογένειάς μου είναι ~	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	ποιά είναι αυτή? ποια είναι αυτή;	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	είναι το κορίτσι σου	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	είναι φίλος σου ~ ;	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	γράφει τώρα στο δωμάτιο	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	είναι ο φίλος σου πατέρας ~ ;	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	δουλεύει σε ξενοδοχείο	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	τι είναι στο τραπέζι;	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	στο τραπέζι του δωματίου μας	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	είναι το εγχειρίδιο της Εσπεράντο ~ ;	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	είναι στο τραπέζι σας	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	έχει φίλο	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	το όνομά της είναι ~	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	νέος και ωραίος	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	είναι νέος και όμορφος	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	νέους και όμορφους φίλους	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	είναι φίλοι άνδρες και γυναίκες	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	ένα σπίτι του δασκάλου της	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	ήρθε στο σπίτι	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	το σπίτι του ~	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	ΠΑΡΑΚΑΛΩ ΠΕΡΑΣΤΕ	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	Γειά σου τι κάνεις?	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	τι κάνεις? τι κάνεις?	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	αλλά τώρα θέλω ~	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	θέλω να μιλήσω	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	με τρεις άντρες-γυναίκες φίλους	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	μίλησε μαζί σου	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	θέλει να μιλήσει μαζί σου	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	έχεις φίλους άντρες-γυναίκες	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	έχει ένα βιβλίο	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	έχει καλό βιβλίο	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	ναι έχω	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	τους αρέσει	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	αυτή διάβασε ένα βιβλίο	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	του αρέσει να διαβάζει βιβλία	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	μόνο ένα καλό βιβλίο	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	πολλά καλά βιβλία	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	διαβάστε μόνο καλά βιβλία	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	του αρέσει να διαβάζει καλά βιβλία	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	θες να διαβάσεις;	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	ο νεαρός ήπιε καφέ	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	θέλει να πιει νερό	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	ένας πατέρας και μια μητέρα? γονείς	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	ένας ενοχλητής και μια αδερφή, αδέρφια	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	τους γονείς και τα αδέρφια σου	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	είναι στο σπίτι σας	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	εδώ είναι ο καφές	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	δεν ήπιε ακόμα	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	είναι ακόμα ζεστό	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	το μαγείρεψε χθες	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	Τώρα μαγείρεψα	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	ευχαριστώ. έτσι είπε.	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	μπορεί να πιει και να φάει	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	ήπιε κρύο καφέ	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	ακόμα ζεστός καφές	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	πίνει και κρύο καφέ	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	μπορεί επίσης να πιει κρύο καφέ	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	κοιτάζει το μάτι της	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	το πιο όμορφο μάτι	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	τα όμορφα μάτια	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	κοίταξε τα όμορφα μάτια	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	τα όμορφα μάτια της	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	βλέπει και καταλαβαίνει	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	βλέπω ότι ~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	ότι την αγαπά	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	νιώθει ότι την αγαπάει	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	ρωτά αν ήταν μεγάλο	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	για μια εύκολη ερώτηση	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	είπε για νέα χρήματα	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	πολύ όμορφα μάτια	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	φαινόταν ο μεγάλος αδερφός	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	μια μικρή αδερφή το ξέχασε	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	ένα κατηγορούμενο (αντικειμενικό)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	μην ξεχνάτε την αιτιατική κατάληξη	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	ποιον βλεπεις ποιο βλεπεις	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	Βλέπω έναν φίλο	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	έχει καλούς άντρες-γυναίκες φίλους	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	δουλεύουν για το παλιό σπίτι	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	λειτουργεί, δούλεψε, θα λειτουργήσει	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	βλέπει, ότι τρώω	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	είπε, ότι θα πάει	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	άσχημο και κακό	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	τι είπε?	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	Τι περιμένεις?	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	πήγε στο δωμάτιο	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	ένα περιεχόμενο είναι πολύ δύσκολο	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	έφτασε στη συνάντηση	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	καλώς ήρθατε στη συνάντηση	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	ένας γέρος έδωσε μια συμβουλή	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	έφτασε και έγινε δεκτός	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	μισούν αλλά συνεργάζονται	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	πήγε στο ξενοδοχείο	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	έχει εύκολα σχολικά βιβλία	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	πώς ήταν η μητέρα σου;	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	το παλιό σου σπίτι	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	ποια βιβλία διάβασες;	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	ήταν καλοί;	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	τι εκανε χθες?	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	στο μικρό δωμάτιο	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	μίλησε πολύ καιρό	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	μπροστά στο σχολείο, πριν το σχολείο	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	μίλησε ενώπιον του σχολείου	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	αργότερα μίλησε για το βιβλίο	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	πήγε με χαρά στο σχολείο	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	μέσα από το δρόμο	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	πέρασε από το δρόμο	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	ήταν μια ζεστή μέρα	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	είδαν ένα καφέ	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	είδα κόκκινα μπισκότα	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	είδε μπισκότα σε αυτό	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	είδε ένα καφέ και μέσα σε αυτό μπισκότα	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	μπες και φας!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	ας μπούμε να φάμε	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	έχει αρκετά χρήματα	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	έχεις αρκετά χρήματα;	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	καταλαβαίνεις?	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	φυσικά!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	αυτό δεν είναι αρκετό	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	εκατό δολάρια είναι αρκετά	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	ένα δολάριο, δολάρια, δολάρια (πληθυντικός στόχος)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	έχει εκατό δολάρια	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	φυσικά και έχω	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	ω! εισαι πλουσιος!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	ένα νερό, μια σερβιτόρα	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	ένας σερβιτόρος φέρνει ένα μενού	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	έφερε αυτό σε εμάς, έφερε αυτό	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	ένας σερβιτόρος έφερε πολλά μπισκότα	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	έφαγαν λίγο (λίγο)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	μετά το φαγητό (γεύμα)	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	νέο, πάλι	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	ήρθε πάλι ο σερβιτόρος	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	σε κάποιο μέρος	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	είχε ψάξει σε κάποιο μέρος	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	έψαξε σε άλλο μέρος	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	το πρόσωπό του ήταν χαρούμενο	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	ήταν λυπημένη	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	στο τέλος και τελικά στο τέλος	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	η δυνατή φωνή σου	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	με αδύναμη φωνή	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	δεν έχει λεφτά	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	τι εγινε εκει	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	ατύχημα έγινε αργότερα	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	ξερεις ποτε εγινε?	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	γνωρίζει το θέμα	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	ακόμα ένα πράγμα μένει	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	εσείς ή αυτή, οποιοδήποτε άτομο	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	σαν τραγουδιστής, σαν υπογράφων	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	τραγούδησε σαν επαγγελματίας τραγουδιστής	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	ο τόπος όπου ζούσε	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	πώς ξέρεις για το αυτοκίνητο;	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	Λοιπόν, κοίτα το γρήγορο αυτοκίνητο	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	ένα χυμό χωρίς ζάχαρη	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	έχει ένα γρήγορο όχημα	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	πολύ έντονα	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	άνοιξε πολύ δυνατά	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	οδήγησε (ταξίδεψε) πολύ γρήγορα	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	έφαγε με ένα κουτάλι	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	αμφιβάλλουμε έντονα	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	ένα αληθινό γράμμα από αυτόν	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	ένα γράμμα αγάπης με πέντε φωτογραφίες	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	επέστρεψαν, οι άνθρωποι που επέστρεψαν	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	επέστρεψαν επίσης έξι γράμματα	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	ήθελε να δει τη φωτογραφία	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	γύρισε από το σχολείο	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	πότε θα επιστρέψει η αδερφή;	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	ήθελε να διαβάσει ξανά	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	έκανε (έκανε), έγινε	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	έγινε γρήγορα κόκκινο	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	σε ένα δωμάτιο, σε ένα δωμάτιο	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	στάθηκε και κάθισε	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	στάθηκε μπροστά στη φωτογραφία	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	το έχω αυτό	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	τι εχεις στα χερια σου	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	μπροστά ή πίσω;	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	πριν ή μετά?	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	εκεί πίσω από την πόρτα	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	άλλοι, άλλοι άνθρωποι	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	επιστολές από άλλους	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	έπεσε από το χέρι	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	στο τραπέζι, πάνω στο τραπέζι	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	έπεσε στο τραπέζι	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	ζήτησε χάρη	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	έψαχνε για πέντε βιβλία	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	συγγνώμη, έψαχνα το βιβλίο μου.	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	αλλά ξέρεις καλά	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	δεν είναι στο τραπέζι μου	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	τα βιβλία σου δεν είναι στο τραπέζι μου	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	πάλι έδωσε, επέστρεψε	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	επιστρέψτε μου το γράμμα	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	πήρε ένα καλό μάθημα	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	πλύθηκε περαιτέρω, έφαγε άλλο	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	δεν θα διαβάζει πλέον	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	έλαβα κι εγώ	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	πρέπει να κλείσει	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	Πρέπει να κλείσω καλά	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	έκλεισε ερμητικά την πόρτα	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	ηρέμησε, ηρέμησε	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	άκουσε αλλά δεν άκουσε	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	άκουσε έναν ήρεμο ήχο	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	σε μένα, υπάρχουν 4 τσέπες	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	δέκα μέρες μετά το τελευταίο μάθημα	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	ανάμεσα στα δύο τραπέζια	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	τρία γράμματα, έξι χαρτιά	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	από το κεφάλι μέχρι τα πόδια	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	τέσσερα, τέταρτα, ένα κουαρτέτο, ένα τέταρτο	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	πού πήγε η τριάδα	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	πέντε δάχτυλα και στα δύο χέρια	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	από μόνος του, την τσέπη του	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	βάζω, βάζω μαζί, ένα σύνθετο	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	βάζει κανείς στην τσέπη του	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	διακόσια έθνη στον κόσμο	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	πήρε, αφαίρεσε	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	πήρε επτά από τα εννιά δικά του βιβλία	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	να φύγει, εγκαταλελειμμένος	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	άσε με ήσυχο και ήσυχο	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	χίλια οκτακόσια ογδόντα επτά (1887)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	ένα φλιτζάνι του τσαγιού	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	κάποιος έπλυνε οκτώ φλιτζάνια	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	δύο χιλιάδες δεκαεννέα (2019)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	πλύθηκε	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	το σώμα κάποιου, την ιδιοκτησία του	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	στο τραπέζι, η γάτα κοιμήθηκε	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	η γάτα πήδηξε στο τραπέζι	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	στην αίθουσα, στην αίθουσα	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	έπεσε στο χέρι του	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	να δουλέψει, να επεξεργαστεί	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	για να επεξεργαστούμε αυτό το βιβλίο	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	ξέρει, θέλει να μάθει, περιέργεια	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	διγλωσσία, διγλωσσία	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	αναρωτιέται για έναν τρίγλωσσο μαθητή	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	πήγε, επέστρεψε	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	οι γάτες επέστρεψαν στα (δικά τους) σπίτια	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	στην τσάντα, στην τσάντα	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	βάλτε το στην τσάντα σας	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	ένα πόδι, βόλτες, ένας πεζός	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	για δέκα μέρες περπατούσαν	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	παίρνω, βγάζω	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	όμορφα λουλούδια, πήρε όμορφα λουλούδια	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	έβγαλε μόνο όμορφα λουλούδια	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	άνοιξε, αλλά έκλεισε αμέσως	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	άνοιξε μια διεθνή συνάντηση	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	δημοσιεύεται και διανέμεται	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	ο εκδότης εξέδωσε είκοσι τρία βιβλία	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	γύρισε και ξαναείδε τον δικό του γιο	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	το έτος δύο χιλιάδες είκοσι τρία (2023)	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	ένας κύριος μπήκε (στο) μαγαζί	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	το κατάστημα των αυτοκινήτων	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	εκεί βλέπει μια κυρία	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	αγαπητές κυρίες και κύριοι	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	που με ευχαριστησε (μου αρεσει)	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	η κυρία τον ευχαριστούσε (του άρεσε η κυρία)	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	είδε την όμορφη κυρία	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	ποιος τον ευχαριστησε (ποιος του άρεσε;)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	η γυναίκα, που με ευχαριστούσε	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	αυτός που μπήκε στο σπίτι	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	ο άνθρωπος που το δώρισε	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	έδωσε ένα δαχτυλίδι στη γυναίκα του	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	της άρεσε το δαχτυλίδι	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	η γυναίκα που της άρεσε το δαχτυλίδι	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	ένας πωλητής εργάζεται στο κατάστημα	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	ένας πωλητής αυτοκινήτων	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	ρώτησε ο κύριος τον πωλητή	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	ποιο αυτοκίνητο σου αρέσει;	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	ποιο αυτοκίνητο θα διαλέξεις;	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	Διάλεξα αυτό το αυτοκίνητο	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	είναι καλύτερα	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	καλύτερο από αυτό	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	το καλύτερο από αυτά	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	ειναι το καλυτερο	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	ποιο αυτοκίνητο είναι το καλύτερο;	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	αυτό το αυτοκίνητο είναι καλύτερο	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	αυτό είναι το καλύτερο	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	είδε όλα τα αυτοκίνητα	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	το καλύτερο απ 'όλα	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	είναι γρήγορο;	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	πιο γρήγορα από άλλα	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	είναι επίσης ισχυρή	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	ω, ναι, φυσικά!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	είναι πολύ δυνατό	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	σίγουρα είναι δυνατό	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	είναι επίσης ακριβό	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	το πιο ακριβό από όλα	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	φθηνό αλλά δυνατό	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	λυπάται και λυπάται (αξίζει να λυπηθείς)	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	δυστυχώς δεν θα αγοράσω	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	είναι ατυχές πράγμα	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	αγόρασε ένα καινούργιο αυτοκίνητο	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	γιατί δεν έχω λεφτά	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	το παλιό μου αυτοκίνητο	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	το φθηνότερο όλων	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	Θα οδηγήσω εκεί	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	θα εξακολουθεί να οδηγεί μαζί του	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	όλη μέρα	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	ενώ είπε ότι	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	την κοίταξε ξανά	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	αλλά είπε ο πωλητής	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	θα ήταν καλύτερα που ~	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	κοίτα αυτή την κυρία	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	που είναι επίσης πολύ ακριβό	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	Είμαι ο άντρας της	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	πόσο κόστισε το ταξίδι σας;	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	ακούστε το τραγούδι της γυναίκας σας	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	μην ξεχνάτε ότι κοστίζει πολύ	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	βοήθησε τον πωλητή για δύο ώρες	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	για περισσότερα από τρία χρόνια	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	καλύπτω, καλύπτω, αποκαλύπτω (ανακαλύπτω)	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	τον λόγο που δεν έχει ανακαλύψει ακόμα	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	γιατί άρχισες να στέλνεις γράμματα;	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	οκτώ μήνες έζησε εκεί	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	δεν είχα χρόνο να ακούσω	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	το αυτοκίνητο ήταν ήδη γεμάτο	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	τι τρως	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	πώς είναι ο καιρός?	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	τι είδους αυτοκίνητο έχεις;	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	πώς ήταν τα γράμματά της;	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	που είμαστε?	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	που πας?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	σε ποιον το εδωσες	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	ο άντρας με τον οποίο ταξίδεψες	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	μεγαλύτερο από το αυτοκίνητο	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	ο ψηλότερος από αυτούς τους ανθρώπους	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	καθόταν στο δείπνο	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	εκείνη γράφει ενώ εκείνος διαβάζει	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	εδώ, σε αυτό το δωμάτιο	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	αυτός ο κύριος	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	μια είδηση που αξίζει να ακούσετε	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	το βιβλίο αξίζει πραγματικά να διαβαστεί	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	ένα ατυχές πράγμα	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	δυστυχώς, δεν μπορώ	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	Παρακαλώ. ήταν χαρά μου	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	μικρό όμορφο κορίτσι είναι πολύ όμορφο	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	όλοι οι φίλοι την αγαπούν	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	τρεις μήνες πριν	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	κάτι κακό της συνέβη	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	έπεσε εξαιτίας ενός αυτοκινήτου	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	αρρώστησε και η θερμοκρασία ανέβηκε	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	η μητέρα είπε ότι πρέπει να ξεκουραστεί	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	πρέπει να μείνει σπίτι	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	θα καλέσει γιατρό	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	στις εννεα ακριβως	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	το πρωί ήρθε στις οκτώ	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	στις επτά αύριο το απόγευμα	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	έδειξε τα χέρια του	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	φόρεμα, ντύνεται	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	ντύσου και ζέστανε το σώμα σου	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	στο σπίτι αμέσως γδύθηκε και έκανε ντους	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	ένας γιατρός κοίταξε τα πάντα	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	κοίταξε καλά και είπε τελικά	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	μείνε σπίτι για μια εβδομάδα	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	θέλει να είσαι ήρεμος	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	μετά από μία εβδομάδα	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	θα αισθανθείτε καλύτερα	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	πίνετε άφθονο τσάι	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	θα έρθω να σε ξαναδώ	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	ας είναι και αυτός ήρεμος	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	υγιής άνθρωπος, υγιής άνθρωπος	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	φρόντισε τον εαυτό του	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	το όλο πράγμα μου ήταν χρήσιμο αμέσως	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	παρατήρησε ότι το φρικτό πράγμα είναι κοντά	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	ζήτησε να το παρατηρήσει αμέσως	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	σκέφτηκε ότι δεν ήταν απαραίτητο	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	ζούσε κοντά, και αυτό ήταν χρήσιμο	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	η χώρα μας τρομοκρατήθηκε σήμερα	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	αγαπητά παιδιά από όλες τις οικογένειες	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	μια φορά χθες, δύο φορές αύριο	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	σήμερα οι οικογένειες χρειάζονται παιδιά	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	ήλπιζε ότι θα ήταν καλά αύριο	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	ένιωθε (ήταν) πολύ ήρεμος	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	τρία πιτσιρίκια σήκωσαν το βουνό	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	σημαντικοί άνθρωποι δεν ζήτησαν βοήθεια	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	περπάτησε εκεί για να βοηθήσει	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	μείνετε σπίτι εάν η θερμοκρασία είναι υψηλή	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	Η θερμοκρασία παρέμεινε παρόμοια και σήμερα	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	τηλεφώνησε στο γιατρό στις εννιά	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	δείξτε το στον γιατρό σας	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	να δείξεις το πόδι σου	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	φορέστε αυτό το πουκάμισο	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	το Σαββατοκύριακο όλα θα ηρεμήσουν	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	κάτω από το φλιτζάνι του τσαγιού τι βρήκατε;	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	Θέλω πρωινό τσάι	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	ήλπιζε για ένα ήσυχο βράδυ	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	θέλει να μάθεις	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	επέμενε να πάω	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	σε ποια ώρα;	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	στις έξι θα έρθει	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	το λιμπρέτο ήταν γοητευτικό	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	Κάνε ησυχία	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	ας είναι ήσυχος	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	αυτός επίσης	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	θέλω (επιθυμώ)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	εύχομαι (επιθυμώ) ότι ~	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	που μαθαίνεις	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	Θέλω να μάθεις	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	επιμένει ο πατέρας	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	πατέρας επιμένει ότι ~	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	που πάω	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	ο πατέρας επιμένει να πάω	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	σε ποια ώρα	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	τι ώρα έρχεσαι;	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	στις πέντε)	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	στις πέντε	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	πως τα παει?	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	πως είσαι τελευταία?	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	τα μικρά βιβλία είναι όμορφα	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	ένα βιβλιαράκι, όμορφα βιβλία	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	όμορφο, λίγο όμορφο, πολύ όμορφο	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	ζεστό, χλιαρό, πολύ ζεστό	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	ένα μεγάλο βιβλίο, ένα φυλλάδιο	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	καλό, υπέροχο, καλά	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	πλούσιος, γίνε πλούσιος, πλούσιος άνθρωπος	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	ηρεμία, να ηρεμήσει, να ηρεμήσει	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	υγιής, να γίνει γιατρεύτηκε, έγινε θεραπεύτηκε	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	σύζυγος, γάμος, παντρεμένος	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	ένας ταχυδρόμος επιστολών	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	μια πατρίδα	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	κάπως, λίγο	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	είχαμε ένα υπέροχο δείπνο	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	ελπίζω να προσέχεις τον εαυτό σου	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	Με ένοιαζε η στέγαση υψηλής ποιότητας	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	σκεφτείτε δύο φορές, πολλές φορές	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	ποιος κατέβασε το βιβλιαράκι;	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	μια γάτα που ονομάζεται Καίσαρ	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	ένα κέικ που βρίσκεται στο τραπέζι	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	φάτε ένα κέικ που είναι στο τραπέζι	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	έγινε καυτή και κοκκίνισε	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	ένας πατέρας θέλει το παιδί του να φάει	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	σε ένα μικρό δωμάτιο	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	ζούμε σε ~	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	έγινα ανήσυχος	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	εκείνη την ώρα που σε είδα	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	όλοι το παρατήρησαν	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	το γεγονός ότι είναι όμορφη	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	το θες ~ ? (ντεζίρι)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	για να σου δείξω	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	θες να δείξω;	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	το νέο μου βιβλίο (στόχος)	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	αύριο το πρωί τι θέλεις;	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	είχε πρωινό αργά	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	πότε θα έρθει ο Μαρκ;	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	στις πέντε ή οκτώ η ώρα	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	πότε το προσέξατε ~;	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	όλη η οικογένεια με αποκαλεί ευεργέτη	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	χρήσιμο για εσάς	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	ήταν χρήσιμο το βιβλιαράκι;	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	το βιβλιαράκι που έστειλα	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	το πρωί κοιμήθηκε για πολλή ώρα	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	όταν είδε τον ήλιο	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	ξαφνικά πετάχτηκε επάνω	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	ήταν πάντα νωρίς	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	αργεί πάντα	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	εκείνη την ώρα που πρέπει να φύγει	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	να πάει στο σχολείο	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	ξέρει, ότι ~	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	γνωρίζει το γεγονός, ότι ~	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	το γεγονός ότι ο δάσκαλος μισεί τις μέλισσες	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	γνωρίζει το γεγονός ότι ο δάσκαλος μισεί τις μέλισσες	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	ξέρει ότι ο δάσκαλος το μισεί αυτό	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	αλλά σήμερα ήπιε τον καφέ	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	φοράει γρήγορα τα ρούχα	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	δεν θέλει να αργήσει	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	πολύ γρήγορα με τα βιβλία στο χέρι	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	αργότερα έτρεξε και πήδηξε	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	έτρεξε και πήδηξε	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	κατά μήκος του δρόμου	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	ο κόσμος τον κοίταξε	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	τον κοίταξε και είπε	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	σοφός και ανόητος	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	τι ανόητο αγόρι!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	ήταν μπροστά σε ένα σχολείο	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	σύντομα	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	ήταν μπροστά στο ~	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	να πας και να μπεις	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	ήθελε να μπει	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	να μπουν στο σχολείο	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	αλλά όμως	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	αλλά δεν μπορούσε	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	να κλείσει και να κλείσει	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	ήταν κλειστό	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	ούτε ~ ούτε ~	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	ούτε δάσκαλος ούτε μαθήτριες	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	δεν είδε ούτε δάσκαλο ούτε μαθητές	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	να καθίσει, να καθίσει	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	κάθισα (είχε καθίσει)	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	κάθισε	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	και σκέφτηκε	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	τι έγινε?	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	στο απαίσιο (σαν διάβολος)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	φράγμα το	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	θυμάται	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	τώρα θυμάμαι	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	Κυριακή	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	σήμερα είναι ~	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	σήμερα είναι Κυριακή	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	να κοιμηθώ και να κοιμηθώ	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	έναν ήλιο και ένα φεγγάρι	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	ξαφνικά και ξαφνικά	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	μακριά από! (να ξεκινήσω)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	να πηδήξει και πήδηξε	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	πάντα νωρίς	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	σήμερα έβαλε και έτρεξε	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	πράγμα όχι ηλικία	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	έτρεξε μαζί με σοφούς ανθρώπους	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	το συντομότερο δυνατό	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	τι αγόρι, τι κορίτσι	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	ούτε σκέφτηκε ούτε απομνημόνευσε	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	ένας διάβολος περίμενε νερό την Κυριακή	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	μια τόσο μικρή στιγμή	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	ακόμα και μια τόσο μικρή στιγμή αξίζει τον κόπο	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	έκλαιγε μέχρι το βράδυ	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	αφήστε μακριά το ταχυδρομείο από το χέρι	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	γέλασε μόνος του, αφήνοντας μακριά το ταχυδρομείο	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	ούτε εκείνος ούτε εκείνη γέλασαν	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	ούτε γέλασε ούτε απάντησε	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	ούτε κάθεται ούτε παρακολουθεί	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	δεν έχω δει ποτέ μου	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	Δεν θα το πω ποτέ σε κανέναν	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	μην πεις σε κανέναν	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	Δεν θα πω ποτέ	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	στον εαυτό του (από τον εαυτό του)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	Το έκανα μόνος μου	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	τα κατάφερα (τα κατάφερα)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	το έκανε μόνος του (το έφτιαξε μόνος του)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	τα λέμε (ξανά), τα λέμε (ξανά)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	μέχρι! (αντιο σας!)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	να αρχίσουμε να μιλάμε	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	άρχισε να λέει, άρχισε να μιλάει επιτέλους	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	ήπιε πολύ γρήγορα	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	ήπια ένα πρωινό ποτό	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	να έρθει νωρίς	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	να έρθει στο σχολείο	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	να έρθει νωρίς στο ~	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	δεν άκουσε νέα	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	δεν άκουσα ακόμα	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	Δεν άκουσα ακόμα	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	εκείνη τη στιγμή	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	εκείνη τη στιγμή έκλαψε	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	ένα αγόρι, που δεν αγαπά	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	αγόρια και κορίτσια	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	άλλα αγόρια και κορίτσια	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	δεν αγαπά άλλα αγόρια και κορίτσια	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	ούτε φίλες ούτε φίλες	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	δεν έχει ούτε χρήματα ούτε χρόνο	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	ποιος είχε το βιβλίο;	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	το βιβλίο που περίμενες	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	αυτό, που περιμένατε για περισσότερα από 2 χρόνια	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	το θέλεις αυτό?	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	το θες ~ ?	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	φίλτατος	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	η πιο αγαπητή φωτογραφία	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	αγαπημένη μου φωτογραφία	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	που αγόρασες ~	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	αυτό το ρούχο	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	αυτό το ρούχο (αντικείμενο)	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	αγόρασε αυτή τη στολή	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	θα πας εκεί	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	που πας?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	ηλιόλουστη μέρα	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	θα είναι μια ηλιόλουστη μέρα	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	αν θα είναι μια ηλιόλουστη μέρα	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	ο αδερφός σου έχει ήδη ξεκινήσει	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	ο αδερφός σου έχει ξεκινήσει ακόμα;	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	που είναι το νερό	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	να φέρει το νερό	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	εσύ ο ίδιος έφερες	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	το νερό, που εσύ ο ίδιος έφερες	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	ήταν πολύ ήσυχο	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	σήμερα η μητέρα μου ήταν ~	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	ήρθα από ~	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	έξω από το σχολείο	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	αναφέρθηκε στο ~	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	και της ανέφερε	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	ανέφερε ότι ~	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	ανέφερε ότι θα λάβω	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	Θα πάρω κακό βαθμό	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	είπε ότι ~	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	πρέπει να κάνεις ~ δουλειά	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	περισσότερο	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	για να δουλέψει περισσότερο	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	για να δουλέψει το κεφάλι σου	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	πόσους κακούς βαθμούς	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	έχεις τόσους κακούς βαθμούς	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	ήταν θλιβερό	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	στο δωμάτιό σας	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	πήγαινε στο δωμάτιό σου	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	πήγαινε και μάθε	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	κάθισα	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	στο δωμάτιο μου	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	κάθισε στο δωμάτιό μου	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	ούτε να μαθαίνεις ούτε να διαβάζεις	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	αλλά δεν μπορούσα ούτε να μάθω ούτε να διαβάσω	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	σκέψεις μου	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	σε ένα παιχνίδι	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	παιχνίδι με τους φίλους μου	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	στον αθλητισμό	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	στον εαυτο μου	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	είπε στον εαυτό μου	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	τόσο βλάκας	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	είμαι τόσο ανόητος;	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	αν και έμαθα πολλά	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	μπήκε η μάνα	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	τα λόγια μου	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	και άκουσε τα λόγια μου	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	απάντησε αμέσως εκείνη	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	όχι αγαπητή μου	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	δεν είσαι ηλίθιος	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	το πρόβλημα είναι ότι ~	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	που πρέπει να μάθεις	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	πρέπει να μάθει πολλά περισσότερα	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	τότε δεν θα έχετε	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	κακοί βαθμοί	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	θα έχει μόνο κακούς βαθμούς	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	επίσης τώρα	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	Δεν τα έχω	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	Έχω καλό βαθμό	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	σχετικά με τη μουσική	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	μια καλή νότα για τη μουσική	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	η μητέρα ξέσπασε ξαφνικά σε γέλια	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	που ωραιοποιούσε ~	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	ημέρα μου	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	μου έφτιαξε τη μέρα	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	αλλά παρέμεινε ακόμα	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	αλλά το πρόβλημα παρέμενε	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	ένα κιλό ~	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	ένα κιλό ζάχαρη	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	ένα ποτήρι ~	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	ένα ποτήρι νερό	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	πολλά ~	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	πολλές ιδέες	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	να συγκρατηθεί	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	τακτοποίησε τα πάντα	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	του παραδόθηκε	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	ρωτάω	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	ένα ποτήρι καφέ	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	και λίγο νερό	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	Θα ήθελα ένα ποτήρι καφέ	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	Θα ήθελα ένα φλιτζάνι τσάι	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	πλήγωσε τον	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	πονούσε το κεφάλι του	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	αρρώστησε	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	του αρέσει να είναι όμορφη	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	ομόρφυνε το πρόσωπό της	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	στο αγόρι αρέσει να είναι όμορφο	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	γι' αυτό το ομόρφυνε	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	μετά το μεσημεριανό	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	για να καθαρίσετε την κουζίνα	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	ποιος θα καθαρίσει την κουζίνα;	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	θέλει να πιει	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	Τι θέλετε να πιείτε	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	να πιεις τσάι	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	λίγο νερό	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	δεν θέλεις τίποτα;	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	τόσο ξαφνικά	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	γιατί το αποφάσισες ~;	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	γιατί το αποφάσισες ~ τόσο ξαφνικά;	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	το δωμάτιό σου	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	το δωμάτιό σας	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	στο δωμάτιό σας	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	για να ανακαινίσετε το δωμάτιό σας	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	αποφάσισε να ανακαινίσει το δωμάτιό σας	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	σε ποιον	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	έδωσες ~	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	σε ποιον εδωσες ~ ;	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	καθαρά ποτήρια	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	έδωσες τα καθαρά ποτήρια	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	τα καθαρά ποτήρια για το κρασί	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	εναντίον ποιών	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	τον αθλητικό σας σύλλογο	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	παίζει εναντίον ~	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	πριν από δύο εβδομάδες	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	με ποιον έπαιξε ο αθλητικός σου σύλλογος;	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	βλέπεις ~ ;	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	βλέπεις συχνά ~ ;	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	βλέπουν συχνά τον αστυνομικό	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	αυτός που ζει σε ~	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	μένει στο κατάλυμα	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	την κατοικία από πάνω σου	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	βλέπει τον αστυνομικό που μένει στο ~	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	σχέδιο οδήγησης	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	ήθελε να ταξιδέψει	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	να ταξιδέψει σε άλλη χώρα	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	στον ΕΛΕΥΘΕΡΟ χρονο	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	αποφάσισαν να πάνε	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	αποφάσισε να πάει στην Ιταλία	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	παλιές πόλεις	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	μια χώρα με παλιές πόλεις	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	άλλες ομορφιές	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	και άλλες ομορφιές	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	μια όμορφη χώρα με παλιές πόλεις και άλλες ομορφιές	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	ήταν χαρούμενοι	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	που είναι ~;	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	που είναι τα ρούχα μου	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	ρώτησε αυτή ~	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	μην ξεχάσουμε να φέρουμε ~	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	να πάρεις το βιβλίο μαζί σου	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	ένα βιβλίο για να μάθεις Εσπεράντο	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	να κουβαλάς ένα βιβλίο για να μαθαίνεις	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	μπορούμε να ξεκινήσουμε ~	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	στο τρένο	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	ήδη στο τρένο	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	δεν θα κάνουμε τίποτα	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	με το αυτοκίνητο	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	θα οδηγήσουμε ~	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	θα οδηγήσει αυτοκίνητο	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	έχω ένα μυστικό	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	ο πλούσιος θείος μου	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	επιθυμία μου	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	εκπλήρωσε την επιθυμία μου	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	μας έδωσε	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	το αυτοκίνητό του	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	και μας έδωσε το αυτοκίνητό του	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	για χρήση	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	στέκεται πριν από ~	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	στέκεται μπροστά στο σπίτι	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	έχω να πω ~	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	μην πεις τίποτα	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	ας καθίσουμε	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	Μπες στο αυτοκίνητο	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	οδηγώ στο ~	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	και οδηγήστε στην Ιταλία	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	κάθισε στο αυτοκίνητο	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	επίσης τα ρούχα	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~ ήταν στο αυτοκίνητο	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	καθόταν ακόμα και περίμενε	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	αλλά περίμενε	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	γιατί δεν ~ ;	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	γιατι δεν αρχιζουμε να οδηγουμε?	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	έχω ~ κι εγώ	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	θα οδηγούσε το αυτοκίνητο	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	αλλά δεν ξέρω ~	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	Δεν το έμαθα ποτέ αυτό	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	θα πίστευα ~	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	αν ήμουν υγιής	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	Θα ήμουν πολύ χαρούμενος	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	σαν να ήσουν πλούσιος	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	κάθεσαι εκεί σαν να είσαι πλούσιος	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	υποτιθέμενο σχολείο	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	σαν πλούσιος	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	κάθεσαι εκεί σαν πλούσιος	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	τόσα πολλά λεφτά	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	τόσα χρήματα όσες ιδέες	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	αν είχα τόσα χρήματα	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	θα ταξίδευα	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	σε όλο τον κόσμο	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	σε κάθε λεξικό	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	κάτι λείπει	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	λείπουν κάποιες λέξεις	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	ένας άνθρωπος που μιλούσε εκτενώς	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	στο τραπέζι της τραπεζαρίας	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	ένα άτομο που λέει θα παραμείνει πεινασμένο	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	συνεχίζει να λέει στο τραπέζι	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	έπρεπε να προσέξει ~	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	δεν επιτρεπόταν να ~	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	επιτράπηκε να μείνει	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	δεν επιτρεπόταν να μείνει πολύ	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	να μείνει έξω στη βροχή	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	γι' αυτό κρυολόγησε	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	έχει τη δική του ξεκάθαρη ιδέα	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	αλλά θα πιστέψει τα πάντα	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	ό, τι πεις	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	σαν να ήσουν η γυναίκα του	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	Οι γονείς σας	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	να κάνεις τους γονείς σου ευτυχισμένους	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	τι θα μπορούσε παρακαλώ ~ ;	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	τι θα μπορούσε να κάνει τους γονείς σου πιο ευτυχισμένους;	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	μετά τη μάθηση	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	τουλάχιστον μετά τη μάθηση	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	στο κέντρο της πόλης	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	αν θα πήγαινες μαζί μου	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	αν θα πήγαινες μαζί μου στο κέντρο της πόλης	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	πού θα ήθελες να ταξιδέψεις?	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	αν είχες ~	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	αρκετά χρήματα	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	αν είχατε αρκετά χρήματα και θερμοκρασία	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	σκοπεύεις να ~ ?	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	σχεδιάζει να ταξιδέψει στο Παρίσι	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	να οδηγείς με axuto	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	πολύ καλύτερα	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	φαίνεται πολύ καλύτερο	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	με το τρένο	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	ή δεν φαίνεται να είναι πολύ καλύτερο;	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	διάφορα άτομα	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	γιατί οι άνθρωποι εξηγούν με διαφορετικούς τρόπους;	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	ίδιες ιδέες	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	εξηγεί τις ίδιες ιδέες	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	μέλη της οικογένειας μαζεύονται	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	πόσο γρήγορα	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	περνούν οι μέρες	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	πόσο γρήγορα περνούν οι μέρες!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	αύριο θα είναι ~	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	τα γενέθλια του πατέρα σου	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	πολλά μέλη της οικογένειας	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	θα έρθουν αρκετά μέλη της οικογένειας	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	και φίλοι	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	σε παρακαλώ ~ ?	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	μπορεις να βοηθησεις λιγο	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	λιγο ακομα	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	βρείτε λίγο χρόνο	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	να τακτοποιήσεις το δωμάτιό σου	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	τουλάχιστον για να τακτοποιήσεις το δωμάτιό σου	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	θα ήθελα ~	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	Θα ήθελα να μαγειρέψω κάτι	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	κάτι καλό	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	μαγειρέψτε κάτι καλό	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	για την τούρτα γενεθλίων	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	έχει έλλειψη γάλακτος	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	στο σπίτι	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	είναι απαραίτητο να προμηθευτείς ~	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	λίγο φαγητό	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	από κατάστημα	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	να πάρει λίγο φαγητό από ένα κρησφύγετο	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	θα κάνω ψώνια	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	για τα γενέθλια	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	αντί να κάθεσαι και να φας	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	ενδιαφέροντες άνθρωποι	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	με μη ενδιαφέροντα μέλη της οικογένειας	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	Θα ήθελα να πάω για πικνίκ	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	με μέλη του συλλόγου	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	με ποια μέλη του συλλόγου;	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	είπε ο πατέρας	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	κάποιο είδος χαρτιού, κάποιο είδος χαρτιού	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	σε ένα χαρτοφύλακα	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	σε έναν χάρτινο κάδο	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	πέταξε χαρτιά σε έναν κάδο από χαρτί	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	πέταξε μερικά χαρτιά σε έναν κάδο από χαρτί	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	νωρίς αύριο	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	μέλη του αθλητικού μου συλλόγου	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	Αγαπητέ μου	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	είναι σωστό?	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	πρέπει να απουσιάζεις	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	δεν ~ ;	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	τους συναδέλφους σου	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	βλέπει ο ένας τον άλλον με τους συναδέλφους σας	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	τρεις φορές την εβδομάδα	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	μπορώ ~ ;	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	έχει το δικαίωμα να προτείνει κάτι	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	Θα φάω με τα μέλη της οικογένειας	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	αλλά στο δεύτερο μέρος	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	Θα πάω με τους φίλους μου	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	θα μιλήσει για ~	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	μια αποτυχημένη μονάδα δίσκου	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	σίγουρα θα μιλήσει για την αποτυχημένη μονάδα δίσκου	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	μετά την τούρτα	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	Δεν το θέλω πια	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	θέλει να το ακούσει	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	γιατί δεν έχουμε ~ ;	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	ένας πλούσιος σε ιδέες θείος	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	έχει κάποια ιδέα πλούσιος θείος	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	στην οικογένειά μου	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	η μητέρα χαμογέλασε	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	στα λόγια του	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	ξέρει ότι ~	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	μιλάει λίγο πολύ	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	δεν φτάνει μόνο ~	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	πλούτο ιδεών	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~ χρειάζεται επίσης	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	ένα γεμάτο πορτοφόλι για να το πραγματοποιήσετε	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	συνέχισε η μάνα ~	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	μετά από λίγη σιωπή	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	πριν λίγα λεπτά	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	Η Ana αποκάλεσε ότι αυτή ~	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	θα μας επισκεφτεί και αυτή	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	ένα γλυκό κέικ	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	της αρέσει πολύ το γλυκό κέικ	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	προσέχει να μην παχύνει	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	αν και θα προσέξει	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	άλλαξε αμέσως γνώμη	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	κατά τη διάρκεια της εκδρομής	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	χωρίς αυτήν	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	θα ήταν πολύ μόνος	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	θα περάσω όμως	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	Θα περάσω αύριο στο σπίτι όμως	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	στη νεολαία	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	Ενας εχει	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	έχει και ομορφιά	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	περίπλοκες δουλειές	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	περίπλοκες εργασίες (αντικειμενικός)	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	πρέπει να απλοποιηθεί	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	σε αυτή την ηλικία	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	έχει γίνει ήδη ~	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	επικεφαλής του αθλητικού συλλόγου	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	κάποιος βάζει λεφτά	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	σε ένα πορτοφόλι	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	βάζει σε ένα πορτοφόλι	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	ακολουθήστε τα παραδείγματα	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	από τα καλά μέλη της οικογένειας	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	η φιλία σε κάνει πιο ευτυχισμένο;	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	σέ κάνει ευτυχισμένο	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	παρά η αγάπη	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	πόσο συχνά ~ ;	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	γράφεις γράμματα στον ~	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	γράφει γράμματα στις φίλες σου	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	τα κορίτσια σου στην Ιταλία	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	τη σχέση ανάμεσα σε εσάς και τον δάσκαλό σας	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	έχει αλλάξει η σχέση;	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	ξέρεις ήδη ~ ;	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	αρκετά καλά	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	ήταν βράδυ στο ~	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	εκατοντάδες άνθρωποι	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	γεμίζει την πλατεία	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	νεαροί άνδρες και στρατιώτες	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	ναύτες από τα πλοία	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	εξαιρετική κυρία	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	εξαιρετικές κυρίες	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	ξένους ταξιδιώτες	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	όλοι μετακινούνται προς το κέντρο της πόλης	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	λίγο πιο πέρα	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	όχι μακριά από τη θάλασσα	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	υπήρχε μια μικρή πλατεία	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	λίγο πιο πέρα αλλά όχι μακριά	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	στο τέλος του	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	κοντά στη θάλασσα	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	ένας άντρας στεκόταν κοντά	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	σύμφωνα με τα ρούχα	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	μπορεί κανείς να ξέρει εύκολα ~	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	ήταν δυνατό να διαπιστωθεί ότι ~	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	γονδολιέρης ενός πλούσιου	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	μπορούσε να ανακαλύψει ότι ήταν γονδολιέρης	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	κοίταξε ~	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	κοίταξε το χαρούμενο πλήθος	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	ένα χαμόγελο φώτισε το πρόσωπό του	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	όταν είδε έναν ναύτη	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	ο ναύτης που έφτασε	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	την πλευρά της θάλασσας	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	έφτασε από την πλευρά της θάλασσας	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	είσαι εσύ, Στέφανε;	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	αναφώνησε ο γονδολιέρης	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	όλοι λένε ότι ~	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	στα χέρια των Τούρκων	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	ότι έπεσες στα χέρια των Τούρκων	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	γνωρίσαμε έναν	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	από τα πλοία μας	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	μας ακολούθησε	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	για περισσότερο από μία ώρα	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	αλλά δεν είναι εύκολο να πας ~	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	να πάει πιο γρήγορα από το πλοίο μας	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	τι νέα είναι εδώ;	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	εδώ στη Βενετία	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	τίποτα ενδιαφέρον	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	απλά μια μεγάλη ατυχία	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	ξέρεις τον Πιέτρο;	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	τον ξέρω	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	ένα μεγάλο πλοίο βύθισε τη γόνδολα του	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	και τι γίνεται με αυτόν;	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	η γόνδολα βυθίστηκε	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	συνέβη ότι ~	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	ήμασταν κοντά	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	τον πήραμε στη γόνδολα μας	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	Την ίδια στιγμή	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	το αφεντικό μου πνίγηκε	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	για να βοηθήσει μια νεαρή γυναίκα	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	μια νεαρή γυναίκα που παραλίγο να πεθάνει	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	με τον θείο του	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	παραλίγο να πεθάνει με τον θείο του	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	ήταν μια νεαρή γυναίκα	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	δεν μπορούσαμε να τον βοηθήσουμε	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	ήταν σημαντικό πρόσωπο	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	τι σας έφερε στη Βενετία;	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	ο φίλος μου	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	ο ναύτης σήκωσε τα μάτια	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	έριξε γρήγορα μια ματιά στον φίλο του	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	και άρχισε να λέει	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	έτσι ξέρεις ~	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	έφερα ~	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	ο γονδολιέρης τον σταμάτησε ξαφνικά	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	αυτός είπε	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	τότε πέρασε ένας άντρας	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	ένας άντρας πέρασε από δίπλα του	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	δεν ήταν ακόμα τριάντα	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	και το πρόσωπό του ήταν άχρωμο	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	η μετάβασή του ήταν σίγουρη και εύκολη	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	το πρόσωπό του ήταν λυπημένο	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	όταν είδε τον άντρα, ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	λέγεται ότι ~	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	πολλοί σημαντικοί άνθρωποι δίνουν ~	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	μυστική δουλειά	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	μυστικές δουλειές	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	του δίνει μυστικές δουλειές	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	πάρα πολλά μυστικά	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	ξέρει πάρα πολλά μυστικά	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	επομένως φοβούνται	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	να τον στείλουν φυλακή	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	είπε ο ναύτης	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	και καθώς μιλούσε	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	έδειξε προς την έπαυλη	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	το αρχοντικό των Δόγηδων	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	πολλοί σημαντικοί άνθρωποι χρειάζονται τη βοήθειά του	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	ποσα πληρωνουν?	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	τον πληρώνει	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	πληρώνει για ένα φόνο	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	σίγουρα όχι λιγότερο από ~	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	από εκατό νομίσματα	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	μην ξεχνάτε ότι ~	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	ότι δουλεύει για αυτούς	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	για όσους έχουν αρκετά χρήματα	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	να τον πληρώσει	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	στη Βενετία υπάρχει ~	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	αυτά τα πράγματα	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	να ξεχάσω αυτά τα πράγματα	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	πράγματα που είναι καλύτερα να ξεχαστούν	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	αν θέλετε να φάτε με την ησυχία σας	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	να φας το ψωμί σου με την ησυχία σου	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	επικράτησε κάποια σιωπή	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	και αργότερα	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	ο γονδολιέρης μίλησε ξανά	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	ήρθες στην ώρα σου	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	για να δείτε έναν αγώνα σκαφών	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	είπε κάποιος αδύναμα	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	κοντά στον γονδολιέρη	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	ο δήμαρχος της πόλης	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	έδειξε χωρίς λόγια τη γόνδολα	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	είπε ο γονδολιέρης	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	και έπιασε το χέρι του φίλου του	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	πετάει το χαρτί	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	στον κάδο χαρτιού	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	τα κορίτσια πέταξαν τα χαρτιά	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	που είναι το στυλό μου	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	Θέλω να του απαντήσω	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	ο ήλιος χάθηκε	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	και τώρα είναι σχεδόν σκοτεινά	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	παρακαλώ φάε	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	παρακαλώ φάε το ψωμί	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	με μαχαιροπίρουνα	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	Με συγχωρείς	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	επιτρέπεται να μείνει	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	Δεν έχω δικαίωμα να μείνω	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	μπορείς να φέρεις ~ ;	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	από την αδερφή μου	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	πότε αγόρασες ~;	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	αγόρασε αυτό το μουσικό όργανο	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	ποιος χρησιμοποίησε τελευταίος;	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	χρησιμοποίησα το κλειδί μου	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	οδήγησες;	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	στη Βενετία	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	επίσης με γόνδολα	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	θα καταφέρεις να κοιμηθείς;	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	τότε, όταν επικράτησε σιωπή	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	ο κύριος ήταν ψηλός	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	ψηλός, χοντρός	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	χοντρό, βαρύ	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	βαρύ και μεγάλο	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	ήταν ψηλός, χοντρός, βαρύς και μεγάλος	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	έδωσε δύναμη	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	μια δύναμη που αξίζει να έχεις	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	σωματική δύναμη που αξίζει να έχεις	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	που έδωσε	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	του έδωσε	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	που έδινε δύναμη	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	έδωσε δύναμη στο σώμα που αξίζει	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	την εμφάνισή του	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	εμφάνιση ενός ψηλού ανθρώπου	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	μικρό ρόλο	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	έπαιξε ρόλο	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	όχι μικρός ρόλος	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	έπαιξε μικρό ρόλο	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	έπαιξε καθόλου μικρό ρόλο	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	στο γεγονός ότι ~	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	η πλειοψηφία του λαού	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	αν όχι φοβούνται	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	τον φοβόταν	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	αν φοβόταν	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	αν όχι τον φοβάται	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	σίγουρα σεβαστή	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	τουλάχιστον σκέφτηκε ~	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	πριν από ~	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	για να τον ικανοποιήσει	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	να τον δυσαρεστήσει	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	πριν δυσαρεστήσω ~	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	πριν αποφασίσει ~	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	να αποφασίσει να δυσαρεστήσει ~	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	να αποφασίσει να τον ικανοποιήσει	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	πριν αποφασίσει να τον δυσαρεστήσει	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	αυτό, που είναι χρήσιμο	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	συχνά χρήσιμο κατά τη διάρκεια της ημέρας	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	μια δυσάρεστη ενόχληση	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	ο ίδιος	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	παρουσιάζει μια δυσάρεστη ενόχληση	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	παρουσιάζεται ως δυσάρεστη ενόχληση	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	σε ένα μέρος γεμάτο δέντρα	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	τότε, όταν κάποιος παρεκτράπηκε	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	σε μια απάνθρωπη ερημιά	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	και φεύγει από το δρόμο μέσα στο χάος	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	ένα ψηλό μεγάλο σώμα	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	απέτυχε να περάσει ~	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	ανάμεσα στους θάμνους	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	εκτός από το να αγγίζει τα φυσικά πράγματα	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	γενικά υγρό	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	στη μέση της υγρής φύσης	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	υγρά φυσικά πράγματα, στη μέση των οποίων ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	περπάτησε με δυσκολία	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	ήταν μια εμπειρία	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	δεν είναι ασυνήθιστο	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	επώδυνη και πάντα δυσάρεστη	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	τόσο περισσότερο ~	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	προχώρησε στη ζωή	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	στο δάσος του κάστρου	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	όσο πιο πολύ προχωρούσε τόσο πιο αντιπαθής ~	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	αντιπαθούσε τη νυχτερινή φύση	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	ένας άντρας με μάτια που φαίνονται καθαρά	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	μάτια που έβλεπαν καλά	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	να βλέπεις καλά στο σκοτάδι	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	κοίταξε τη δύσκολη πορεία	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	από τον βιομήχανό μας	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	αυτός χαμογέλασε	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	δίπλα σε αυτόν τον άντρα	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	με ρούχα αστυνομικού	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	στεκόταν ένα άλλο άτομο	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	με παρόμοια ρούχα	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	η τελευταία ήταν γυναίκα	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	πάμε	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	είπε χαμηλόφωνα ο άντρας	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	στο αυτί του συντρόφου του	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	τώρα είναι η κατάλληλη στιγμή	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	και οι δύο πήγαν προς το πρόσωπο	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	πρόσεχαν να κάνουν ~	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	όσο το δυνατόν όσο ~	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	όσο το δυνατόν λιγότερο θόρυβο (kiel eble)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	όσο το δυνατόν λιγότερο θόρυβο (laŭeble)	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	τα κατάφεραν σχεδόν πλήρως	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	σε αυτή τη δυσάρεστη κατάσταση	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	μια άσχημη κατάσταση όπου τα δέντρα πέταξαν τα κλαδιά τους	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	πέταξαν τα δικά τους βρεγμένα κλαδιά	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	κατευθείαν στα πρόσωπα	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	του βιομήχανου	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	πολύποδα μικρά πλάσματα	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	πήρε τα πόδια του	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	για περπάτημα	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	η φύση έκανε το πόδι του να πέσει	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	το πιο οδυνηρό	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	έριξε το πόδι του σε ένα λάκκο	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	ένα λάκκο γεμάτο νερό	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	δύσοσμο νερό	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	έφτασε γρήγορα στη σκέψη	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	κάποιος πρέπει να είναι έτοιμος	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	εδώ	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	οποιοσδήποτε ~	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	έτοιμος για κάθε δυσάρεστη συνάντηση	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	οτιδήποτε (οτιδήποτε)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	περίμενε οτιδήποτε	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	στην άκρη ανθρώπινη φωνή	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	όταν ακούστηκε μια φωνή, ~	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	ακούστηκε αμέσως κοντά	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	έκανε ένα ωραίο άλμα επί τόπου	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	που συγκίνησε την καρδιά του	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	προφορά στο στόμα	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	με την προσπάθεια να ανακτήσει την ηρεμία	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	λίγη ηρεμία	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	το φως μιας λάμπας	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	κάποιος κατευθύνεται κατευθείαν στα μάτια του	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	η λάμπα που κάποιος έστρεψε στα μάτια	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	εμπόδισε τη συμφιλίωση	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	του φαινόταν ότι ~	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	την ανθρώπινη μορφή που κρατούσε το λυχνάρι	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	φορέστε ρούχα αστυνομίας	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	Τι κάνεις εδώ?	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	ακούγεται η έγκυρη φωνή	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	παρακαλώ μιλήστε ~	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	λίγο ξεκάθαρο	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	είπε ο άλλος	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	σε ακόμα πιο σημαντικό τόνο	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	περπατάω	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	περπατάς στο αγρόκτημα	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	της κόμισσας	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	το αγρόκτημα της κόμισσας	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	στη μέση της νύχτας	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	σε κάλεσε η κόμισσα;	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	ξέρει για ~	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	για την παρουσία σου	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	την παρουσία σας εδώ	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	Πρέπει να σε ρωτήσω ~	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	σας ζητά να με ακολουθήσετε	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	και εξήγησε ~	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	εξήγησε ότι ~	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	από τη λάθος προσπάθεια	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	η λάθος προσπάθεια να πιάσει την κόμισσα	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	λόγω ~	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	λόγω τρομοκρατών	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	η αστυνομία ελέγχει προσεκτικά	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	ελέγχει τι συμβαίνει	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	εμφανίζεται στον περιβάλλοντα χώρο	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	του κάστρου	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	τον περιβάλλοντα χώρο του κάστρου	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	στον βιομήχανο	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	φαινόταν ότι ~	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	έπεσε η καρδιά του αυτή τη φορά	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	έπεσε στα πόδια του	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	ήξερε ότι ~	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	απλά θα προσπαθήσει να βρει	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	για να βρει μια αποδεκτή εξήγηση	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	για τη δική του παρουσία	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	η ιδέα ότι η κόμισσα τα ξέρει όλα	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	η ιδέα του στέρησε λίγη ελπίδα	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	λίγη ελπίδα	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	λίγη ελπίδα που έμεινε	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	μετά τα πρώτα λόγια της αστυνομίας	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	όσο περισσότερο ~ τόσο περισσότερο ~	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	όσο περισσότερο τόσο το καλύτερο	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	Οσο και αν	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	πριν από ένα τέταρτο	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	επέστρεψαν	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	μετά τη φοβερή ατυχία	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	ο κόσμος έφυγε	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	και οι παλιές πόλεις διαλύθηκαν	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	πρέπει να σε δούμε ξανά	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	τόσο πιο συχνά	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	Σκέφτομαι	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	τόσο πιο θυμωμένος είμαι	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	ζει σε ~	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	σε οποιοδήποτε σπίτι	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	θα τα ξαναπούμε;	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	οπουδήποτε και όποτε	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	πότε θα επιστρέψω ~;	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	το άλλο μισό των βιβλίων	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	θα χρειαστείς ~ ;	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	χρειάζεται περισσότερο από ένα τέταρτο του έτους	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	για αυτές τις δουλειές	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	γιατί είναι ~;	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	τόσο πιο κρύο	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	το μακρύτερο	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	περιμένουμε ~	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	είσαι ικανοποιημένος με το ~ ;	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	με οποιονδήποτε άντρα	with any man	grupo	0    	0000-00-00 00:00:00

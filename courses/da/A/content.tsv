@@ -1,0 +1,1356 @@
+A.da content.tsv
+Level	Esperanto	da	en-us	Grupo	Alternativoj	Pronoco
+level	mi, vi	jeg, dig	I, you	grupo	alternativoj	prononco
+level	estas, estis	(nutid) er, er, er (fortid) var, var	(present) is, am, are (past) was, were	grupo	alternativoj	prononco
+level	mi estas ~	jeg er ~	I am ~	grupo	alternativoj	prononco
+level	vi estas ~	du er ~	you are ~	grupo	alternativoj	prononco
+level	saluton	Hej	hello	grupo	alternativoj	prononco
+level	saluton, mi estas ~	hej, jeg er ~	hello, I am ~	grupo	alternativoj	prononco
+level	mia, via	min din	my, your	grupo	alternativoj	prononco
+level	nomo	et navn	a name	grupo	alternativoj	prononco
+level	mia nomo, via nomo	mit navn, dit navn	my name, your name	grupo	alternativoj	prononco
+level	mia nomo estas ~	mit navn er ~	my name is ~	grupo	alternativoj	prononco
+level	via nomo estas ~	dit navn er ~	your name is ~	grupo	alternativoj	prononco
+level	fartas, fartis	(nutid) gør, (fortid) gjorde	(present) does, (past) did	grupo	alternativoj	prononco
+level	estis, estos	(nuværende) var, var (fremtiden) vil være	(present) was, were (future) will be	grupo	alternativoj	prononco
+level	nomo, nomon	et navn, et (objektivt) navn	a name, an (objective) name	grupo	alternativoj	prononco
+level	mia amo	min elskede	my love	grupo	alternativoj	prononco
+level	vi fartas	du laver ~	you are doing ~	grupo	alternativoj	prononco
+level	kiel	hvordan	how	grupo	alternativoj	prononco
+level	kiel vi fartas?	hvordan har du det?	how are you doing?	grupo	alternativoj	prononco
+level	kio	hvad	what	grupo	alternativoj	prononco
+level	kio estas via nomo?	Hvad hedder du?	what is your name?	grupo	alternativoj	prononco
+level	bona, bone	godt så	good, well	grupo	alternativoj	prononco
+level	fartas bone	har det godt	is doing well	grupo	alternativoj	prononco
+level	mi fartas bone	jeg har det godt	I am doing well	grupo	alternativoj	prononco
+level	kaj	og	and	grupo	alternativoj	prononco
+level	bone, kaj vi?	fint, og dig?	fine, and you?	grupo	alternativoj	prononco
+level	ĝis ~	indtil ~	until ~	grupo	alternativoj	prononco
+level	vidas, vidis	(nutid) ser, (fortid) så	(present) sees, (past) saw	grupo	alternativoj	prononco
+level	vidis, revidis	(fortid) så, (fortid) så igen	(past) saw, (past) saw again	grupo	alternativoj	prononco
+level	revidis, revidos	så igen, vil se igen	saw again, will see again	grupo	alternativoj	prononco
+level	revido, revidon	se-igen, se-igen (objektiv)	seeing-again, seeing-again (objective)	grupo	alternativoj	prononco
+level	ĝis revido!	vi ses!	see you again!	grupo	alternativoj	prononco
+level	dankon	tak skal du have	thank you	grupo	alternativoj	prononco
+level	dankon kaj ĝis revido!	tak og på gensyn!	thank you and see you again!	grupo	alternativoj	prononco
+level	al ~	til ~	to ~	grupo	alternativoj	prononco
+level	al vi, al mi	til dig, til mig	to you, to me	grupo	alternativoj	prononco
+level	dankas, dankis	(nuværende) tak, (fortid) takkede	(present) thanks, (past) thanked	grupo	alternativoj	prononco
+level	mi dankas al vi	Jeg sætter pris på dig	I appreciate to you	grupo	alternativoj	prononco
+level	jes, ne	Ja Nej	yes, no	grupo	alternativoj	prononco
+level	jes, dankon	ja tak	yes, thaink you	grupo	alternativoj	prononco
+level	manĝas, manĝos	spiser, vil spise	eats, will eat	grupo	alternativoj	prononco
+level	mi ne manĝas	Jeg spiser ikke	I don't eat	grupo	alternativoj	prononco
+level	ne, mi ne manĝas	nej, jeg spiser ikke	no, I don't eat	grupo	alternativoj	prononco
+level	bela, bele	smuk, smuk	beautiful, beautifully	grupo	alternativoj	prononco
+level	-inda	værd (afslutning)	worthwhile (ending)	grupo	alternativoj	prononco
+level	dankinda, dankinde	værdsat, værd at takke	appreciatable, worthwhile to thank	grupo	alternativoj	prononco
+level	tuta, tute	helhed, som helhed	whole, as a whole	grupo	alternativoj	prononco
+level	tuto, tuton	alle, (objektive) alle	all, (objective) all	grupo	alternativoj	prononco
+level	nedankinde	slet ikke, du er velkommen	not at all, you're welcome	grupo	alternativoj	prononco
+level	tute ne	helt nej	totally no	grupo	alternativoj	prononco
+level	pardoni ~, pardono	at tilgive, en tilgivende	to forgive, a forgiving	grupo	alternativoj	prononco
+level	pardonon al mi	en tilgivelse for mig	a forgiving to me	grupo	alternativoj	prononco
+level	pardonon	Undskyld! (undskyld mig)	I'm sorry! (pardon me)	grupo	alternativoj	prononco
+level	pardonon, mi petas	Jeg er ked af det	I'm sorry, please	grupo	alternativoj	prononco
+level	bona mateno	en god morgen	a good morning	grupo	alternativoj	prononco
+level	bonan matenon	god morgen	good morning	grupo	alternativoj	prononco
+level	bonan nokton	godnat	good night	grupo	alternativoj	prononco
+level	bonan sonĝon	drøm sødt	sweet dream	grupo	alternativoj	prononco
+level	bonan vojaĝon, al vi	(hav) en god tur til dig	(have) a good trip, to you	grupo	alternativoj	prononco
+level	bonan tagon	god dag!	good day!	grupo	alternativoj	prononco
+level	ĉu ~	er det ~?	is it ~ ?	grupo	alternativoj	prononco
+level	ĉu vi fartas bone?	har du det godt? (Hvordan har du det?)	are you doing well? (how are you?)	grupo	alternativoj	prononco
+level	jes, mi fartas bone	Ja jeg har det fint	yes, I'm fine	grupo	alternativoj	prononco
+level	ne, tute ne	Nej slet ikke	no, not at all	grupo	alternativoj	prononco
+level	tre, tro	meget, for meget	very, too much	grupo	alternativoj	prononco
+level	granda, grande	stort, stort set	big, largely	grupo	alternativoj	prononco
+level	tre bona, tro granda	meget god, for stor	very good, too big	grupo	alternativoj	prononco
+level	vi tre bone fartas	du har det meget godt	you are doing very well	grupo	alternativoj	prononco
+level	ne tre bone	ikke særlig godt	not very well	grupo	alternativoj	prononco
+level	lerni ~, lerno	at lære, en læring	to learn, a learning	grupo	alternativoj	prononco
+level	vidanta, vidanto	kigger, en tilskuer	is looking, a spectator	grupo	alternativoj	prononco
+level	lernanta, lernanto	er at lære, en studerende (en lærende person)	is learning, a student (a learning person)	grupo	alternativoj	prononco
+level	-anta, -anto	er -ing, en person, der gør	is -ing, a person who is doing	grupo	alternativoj	prononco
+level	lernanto, lerninto	en elev, en person, der har lært	a student, a person who has learned	grupo	alternativoj	prononco
+level	mi estas lernanto	Jeg er studerende.	I am a student.	grupo	alternativoj	prononco
+level	~ estas mia amiko	~ er min ven	~ is my friend	grupo	alternativoj	prononco
+level	li, ŝi	han hun	he, she	grupo	alternativoj	prononco
+level	sidi, sidas	at sidde, sidder	to sit, sits	grupo	alternativoj	prononco
+level	sidanta, sidinta, sidonta	sidder, sad, vil sidde	is sitting, was sitting, will be sitting	grupo	alternativoj	prononco
+level	li sidas kaj ŝi lernas	han sidder og hun lærer	he is sitting and she is learning	grupo	alternativoj	prononco
+level	ĉambro	et værelse	a room	grupo	alternativoj	prononco
+level	lernas en ĉambro	lærer i et rum	learns in a room	grupo	alternativoj	prononco
+level	lernanto kaj sportisto	en studerende og en sportsmand	a student and a sportsman	grupo	alternativoj	prononco
+level	sporto kaj sportisto	sport og en sportsmand	sport and a sportsman	grupo	alternativoj	prononco
+level	sportisto nun sportas	en sportsmand dyrker sport	a sportsman is sporting	grupo	alternativoj	prononco
+level	li estas lernanto	Han er studerende	he is a student	grupo	alternativoj	prononco
+level	estas lernanto kaj sportisto	han er studerende og sportsmand	he is a student and a sportman	grupo	alternativoj	prononco
+level	li nun sidas	han sidder nu	he is now sitting	grupo	alternativoj	prononco
+level	kaj nun lernas	og lærer nu	and is now learning	grupo	alternativoj	prononco
+level	sidas kaj lernas	sidder og lærer	is sitting and is learning	grupo	alternativoj	prononco
+level	nun en ĉambro	nu i et værelse	now in a room	grupo	alternativoj	prononco
+level	estas sur tablo	er på et bord	is on a table	grupo	alternativoj	prononco
+level	papero kaj paperoj	et papir og papirer	a paper and papers	grupo	alternativoj	prononco
+level	tablo kaj tabloj	et bord og borde	a table and tables	grupo	alternativoj	prononco
+level	libro kaj libroj	en bog og bøger	a book and books	grupo	alternativoj	prononco
+level	la paperoj kaj libroj	papirerne og bøgerne	the papers and books	grupo	alternativoj	prononco
+level	ĝi estas sur tablo	den står på et bord.	it is on a table.	grupo	alternativoj	prononco
+level	skribas sur la skribotablo	skriver på et skrivebord	is writing on a writing table	grupo	alternativoj	prononco
+level	la libroj estas ~	bøgerne er ~	the books are ~	grupo	alternativoj	prononco
+level	sur la tablo	på bordet	on the table	grupo	alternativoj	prononco
+level	lernolibro kaj la lernolibroj	en lærebog og lærebøgerne	a textbook and the textbooks	grupo	alternativoj	prononco
+level	sur la tablo estas ~	på bordet er der ~	on the table there is ~	grupo	alternativoj	prononco
+level	patro kaj patrino	en far og en mor	a father and a mother	grupo	alternativoj	prononco
+level	la patro kaj la patrino	faderen og moderen	the father and the mother	grupo	alternativoj	prononco
+level	la patrino de mia amiko	min vens mor	the mother of my friend	grupo	alternativoj	prononco
+level	en la ĉambro	på værelset	in the room	grupo	alternativoj	prononco
+level	ne estas en la ĉambro	er ikke i rummet	is not in the room	grupo	alternativoj	prononco
+level	ili nun laboras	de arbejder nu	they are now working	grupo	alternativoj	prononco
+level	lia patro estas laboristo	hans far er arbejder	his father is a worker	grupo	alternativoj	prononco
+level	li laboras en hotelo	han arbejder på et hotel	he works in a hotel	grupo	alternativoj	prononco
+level	la patrino instruas	moderen underviser	the mother teaches	grupo	alternativoj	prononco
+level	ŝi estas instruistino	Hun er lærer	she is a teacher	grupo	alternativoj	prononco
+level	ĉu ŝi estas patrino?	er hun mor?	is she a mother?	grupo	alternativoj	prononco
+level	ne, ŝi estas hotelisto	nej, hun er hotelejer	no, she is an hotelier	grupo	alternativoj	prononco
+level	ne, mi ne laboras	nej, jeg arbejder ikke	no, I don't work	grupo	alternativoj	prononco
+level	kio estas ŝia nomo?	hvad er hendes navn?	what is her name?	grupo	alternativoj	prononco
+level	kiu nun respondas?	hvem svarer nu?	who is now answering?	grupo	alternativoj	prononco
+level	la lingvo de ilia patrino	deres mors sprog	the language of their mother	grupo	alternativoj	prononco
+level	ĉu via nomo estas ~ ?	er dit navn ~?	is your name ~ ?	grupo	alternativoj	prononco
+level	ni sidas kaj respondas	vi sidder og svarer	we are sitting and answering	grupo	alternativoj	prononco
+level	ŝia labora seĝo	hendes arbejdsstol	her working chair	grupo	alternativoj	prononco
+level	ĝia nomo ne estas ~	dens navn er ikke ~	its name is not ~	grupo	alternativoj	prononco
+level	ŝia lingvo estas ilia lingvo	hendes sprog er deres sprog	her language is their language	grupo	alternativoj	prononco
+level	nia patro kaj patrino	vores far og mor	our father and mother	grupo	alternativoj	prononco
+level	via lernanto, viaj lernantoj	din elev, dine elever	your student, your students	grupo	alternativoj	prononco
+level	ĉu ili estas viaj lernantoj?	er de dine elever?	are they your students?	grupo	alternativoj	prononco
+level	ĉu vi estas lernanto?	er du studerende?	are you a student?	grupo	alternativoj	prononco
+level	ĉu vi estas en la ĉambro?	er du på værelset?	are you in the room?	grupo	alternativoj	prononco
+level	mi ne estas ~	Jeg er ikke ~	I'm not ~	grupo	alternativoj	prononco
+level	esperantisto kaj esperantistino	en esperantist og en kvindelig esperantist	an Esperantist and a female Esperantist	grupo	alternativoj	prononco
+level	enskribis por la hotelĉambro	tjekket ind på hotelværelset	checked in for the hotel room	grupo	alternativoj	prononco
+level	lingvisto kaj laboristino	en sprogforsker og en kvindelig arbejder	a linguist and a female worker	grupo	alternativoj	prononco
+level	lia amikino estas ~	hans kæreste er ~	his girl friend is ~	grupo	alternativoj	prononco
+level	lernantoj kaj sportistoj	studerende og sportsudøvere	students and sportsmen	grupo	alternativoj	prononco
+level	mia familia nomo estas ~	mit familienavn er ~	my familia name is ~	grupo	alternativoj	prononco
+level	kiu estas ŝi?	hvem er hun? hvilken er hun?	who is she? which is she?	grupo	alternativoj	prononco
+level	estas via amikino	er din kæreste	is your girl friend	grupo	alternativoj	prononco
+level	ĉu via amiko estas ~ ?	er din ven ~ ?	is your friend ~ ?	grupo	alternativoj	prononco
+level	skribas nun en la ĉambro	skriver nu i rummet	is writing now in the room	grupo	alternativoj	prononco
+level	ĉu la amiko de via patro ~ ?	er din ven far ~ ?	is the friend of you father ~ ?	grupo	alternativoj	prononco
+level	laboras en hotelo	arbejder på et hotel	works in a hotel	grupo	alternativoj	prononco
+level	kio estas sur la tablo?	hvad er der på bordet?	what is on the table?	grupo	alternativoj	prononco
+level	sur la tablo en nia ĉambro	på bordet på vores værelse	on the table in our room	grupo	alternativoj	prononco
+level	ĉu la lernolibro de Esperanto ~ ?	er lærebogen i esperanto ~ ?	is the Esperanto textbook ~ ?	grupo	alternativoj	prononco
+level	estas sur via tablo	er på dit bord	is on your table	grupo	alternativoj	prononco
+level	havas amikinon	har en ven	has a friend	grupo	alternativoj	prononco
+level	ŝia nomo estas ~	hun hedder ~	her name is ~	grupo	alternativoj	prononco
+level	juna kaj bela	ung og smuk	young and beautiful	grupo	alternativoj	prononco
+level	estas juna kaj bela	er ung og smuk	is young and beautiful	grupo	alternativoj	prononco
+level	junaj kaj belaj amikoj	unge og smukke venner	young and beautiful friends	grupo	alternativoj	prononco
+level	estas geamikoj	er mandlige og kvindelige venner	are male-and-female friends	grupo	alternativoj	prononco
+level	hejmo de ŝia instruisto	et hjem for hendes lærer	a home of her teacher	grupo	alternativoj	prononco
+level	venis al la hejmo	kom til hjemmet	came to the home	grupo	alternativoj	prononco
+level	la hejmo de ~	hjemmet til ~	the home of ~	grupo	alternativoj	prononco
+level	bonvolu eniri	kom endelig ind	please come in	grupo	alternativoj	prononco
+level	saluton! kion vi faras?	Hej hvad laver du?	hello, what are you doing?	grupo	alternativoj	prononco
+level	kion vi faras?	hvad laver du? hvad laver du?	what do you do? what are you doing?	grupo	alternativoj	prononco
+level	sed nun mi volas ~	men nu vil jeg ~	but now I want ~	grupo	alternativoj	prononco
+level	mi volas paroli	Jeg vil gerne tale	I want to speak	grupo	alternativoj	prononco
+level	kun tri geamikoj	med tre mandlige og kvindelige venner	with three male-and-female friends	grupo	alternativoj	prononco
+level	parolis kun vi	talte med dig	spoke with you	grupo	alternativoj	prononco
+level	volas paroli kun vi	ønsker at tale med dig	wants to speak with you	grupo	alternativoj	prononco
+level	ĉu vi havas geamikojn?	har du mandlige og kvindelige venner	do you have male-and-female friends	grupo	alternativoj	prononco
+level	li havas libron	han har en bog	he has a book	grupo	alternativoj	prononco
+level	havas bonan libron	har en god bog	has a good book	grupo	alternativoj	prononco
+level	jes, mi havas	Ja jeg har	yes, I have	grupo	alternativoj	prononco
+level	ili ŝatas ĝin	de kan lide det	they like it	grupo	alternativoj	prononco
+level	ŝi legis libron	hun læste en bog	she read a book	grupo	alternativoj	prononco
+level	ŝatas legi librojn	kan lide at læse bøger	likes to read books	grupo	alternativoj	prononco
+level	nur bona libro	kun en god bog	only a good book	grupo	alternativoj	prononco
+level	multaj bonaj libroj	mange gode bøger	many good books	grupo	alternativoj	prononco
+level	legis nur bonajn librojn	læs kun gode bøger	read only good books	grupo	alternativoj	prononco
+level	ŝatas legi bonajn librojn	kan lide at læse gode bøger	likes to read good books	grupo	alternativoj	prononco
+level	ĉu vi volas legi?	vil du læse?	do you want to read?	grupo	alternativoj	prononco
+level	la junulo trinkis kafon	den unge drak kaffe	the youngster drank coffee	grupo	alternativoj	prononco
+level	volas trinki akvon	ønsker at drikke vand	wants to drink water	grupo	alternativoj	prononco
+level	patro kaj patrino, gepatroj	en far og en mor; forældre	a father and a mother; parents	grupo	alternativoj	prononco
+level	frato kaj fratino, gefratoj	en plage og en søster, søskende	a bother and a sister, siblings	grupo	alternativoj	prononco
+level	viaj gepatroj kaj gefratoj	dine forældre og søskende	your parents and siblings	grupo	alternativoj	prononco
+level	estas en via hejmo	er i dit hjem	is in your home	grupo	alternativoj	prononco
+level	jen la kafo	her er kaffen	here is the coffee	grupo	alternativoj	prononco
+level	ankoraŭ ne trinkis	ikke drukket endnu	didn't drink yet	grupo	alternativoj	prononco
+level	estas ankoraŭ varma	er stadig varm	is still warm	grupo	alternativoj	prononco
+level	hieraŭ kuiris ĝin	kogte den i går	cooked it yesterday	grupo	alternativoj	prononco
+level	mi nun kuiris	Jeg har nu lavet mad	I now cooked	grupo	alternativoj	prononco
+level	dankon. tiel li diris	tak skal du have. så sagde han.	thank you. so he said.	grupo	alternativoj	prononco
+level	povas trinki kaj manĝi	kan drikke og spise	can drink and eat	grupo	alternativoj	prononco
+level	trinkis malvarman kafon	drak kold kaffe	drank cold coffee	grupo	alternativoj	prononco
+level	ankaŭ varma kafo	stadig varm kaffe	still warm coffee	grupo	alternativoj	prononco
+level	trinkas ankaŭ malvarman kafon	drikker også kold kaffe	drinks cold coffee too	grupo	alternativoj	prononco
+level	povas trinki ankaŭ malvarman kafon	kan også drikke kold kaffe	can also drink cold coffee	grupo	alternativoj	prononco
+level	rigardas ŝian okulon	ser på hendes øje	looks at her eye	grupo	alternativoj	prononco
+level	la plej bela okulo	det smukkeste øje	the most beautiful eye	grupo	alternativoj	prononco
+level	la belaj okuloj	de smukke øjne	the beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la belajn okulojn	så de smukke øjne	looked the beautiful eyes	grupo	alternativoj	prononco
+level	la belaj okuloj de ŝi	hendes smukke øjne	the beautiful eyes of her	grupo	alternativoj	prononco
+level	vidas kaj komprenas	ser og forstår	sees and understands	grupo	alternativoj	prononco
+level	mi vidas, ke ~	Jeg kan se at ~	I see that ~	grupo	alternativoj	prononco
+level	ke li amas ŝin	at han elsker hende	that he loves her	grupo	alternativoj	prononco
+level	ŝi sentis, ke li amas ŝin	hun føler, at han elsker hende	she feels that he loves her	grupo	alternativoj	prononco
+level	demandas, ĉu tio estis granda	spørger, om det var stort	asks whether that was big	grupo	alternativoj	prononco
+level	pri facila demando	om et let spørgsmål	about an easy question	grupo	alternativoj	prononco
+level	diris pri nova mono	sagde om en ny penge	said about a new money	grupo	alternativoj	prononco
+level	tre belaj okuloj	meget smukke øjne	very beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la grandan fraton	så storebroren ud	looked the big brother	grupo	alternativoj	prononco
+level	malgranda fratino forgesis ĝin	en lillesøster glemte det	a little sister forgot it	grupo	alternativoj	prononco
+level	akuzativo	en akkusativ (objektiv)	an accusative (objective)	grupo	alternativoj	prononco
+level	ne forgesu akuzativon	glem ikke den akkusative slutning	don't forget the accusative ending	grupo	alternativoj	prononco
+level	kiun vi vidas?	hvem ser du? hvilken ser du?	whom are you seeing? which one do you see?	grupo	alternativoj	prononco
+level	mi vidas amikon	Jeg ser en ven	I see a friend	grupo	alternativoj	prononco
+level	havas bonajn geamikojn	har gode mandlige og kvindelige venner	has good male-and-female friends	grupo	alternativoj	prononco
+level	ili laboras pri la malnova domo	de arbejder på det gamle hus	they are working about the old house	grupo	alternativoj	prononco
+level	laboras, laboris, laboros	virker, virkede, vil virke	works, worked, will work	grupo	alternativoj	prononco
+level	vidas, ke mi manĝas	ser, at jeg spiser	sees, that I eat	grupo	alternativoj	prononco
+level	diris, ke li iros	sagde, at han vil gå	said, that he will go	grupo	alternativoj	prononco
+level	malbela kaj malbona	grimt og dårligt	ugly and bad	grupo	alternativoj	prononco
+level	kion ŝi diris?	Hvad sagde hun?	what did she say?	grupo	alternativoj	prononco
+level	kion vi atendas?	hvad venter du på?	what are you waiting for?	grupo	alternativoj	prononco
+level	eniris en la ĉambron	gik ind i rummet	went into the room	grupo	alternativoj	prononco
+level	enhavo estis tre malfacila	et indhold er meget svært	a content is very difficult	grupo	alternativoj	prononco
+level	alvenis al la kunsido	ankom til mødet	arrived at the meeting	grupo	alternativoj	prononco
+level	bonvenon, al la kunveno	velkommen til mødet	welcome to the meeting	grupo	alternativoj	prononco
+level	maljuna viro donis trinkmonon	en gammel mand gav et tip	an old man gave a tip	grupo	alternativoj	prononco
+level	alvenis kaj estis bonvena	ankom og blev budt velkommen	arrived and was welcomed	grupo	alternativoj	prononco
+level	ili malamas sed kunlaboras.	de hader, men samarbejder	they hate but cooperate	grupo	alternativoj	prononco
+level	iris al la hotelo	gik til hotellet	went to the hotel	grupo	alternativoj	prononco
+level	havas facilajn lernolibrojn	har nemme lærebøger	has easy textbooks	grupo	alternativoj	prononco
+level	kia estis via patrino?	hvordan var din mor?	how was your mother?	grupo	alternativoj	prononco
+level	via malnova hejmo	dit gamle hjem	your old home	grupo	alternativoj	prononco
+level	kiujn librojn vi legis?	hvilke bøger læste du?	which books did you read?	grupo	alternativoj	prononco
+level	ĉu ili estis bonaj?	var de gode?	were they good?	grupo	alternativoj	prononco
+level	kion faris hieraŭ?	gjorde hvad i går?	did what yesterday?	grupo	alternativoj	prononco
+level	en la malgranda ĉambro	i det lille rum	in the small room	grupo	alternativoj	prononco
+level	tre longe parolis	talte meget længe	spoke very long while	grupo	alternativoj	prononco
+level	antaŭ la lernejo	foran skolen, før skolen	in front of the school, before the school	grupo	alternativoj	prononco
+level	parolis antaŭ la lernejo	talte før skolen	spoke before the school	grupo	alternativoj	prononco
+level	poste parolis pri la libro	senere talte om bogen	later spoke about the book	grupo	alternativoj	prononco
+level	ĝoje iris al la lernejo	gik gerne i skolen	gladly went to the school	grupo	alternativoj	prononco
+level	tra la strato	gennem gaden	through the street	grupo	alternativoj	prononco
+level	iris tra la strato	gik gennem gaden	went through the street	grupo	alternativoj	prononco
+level	estis varma tago	var en varm dag	was a warm day	grupo	alternativoj	prononco
+level	ili vidis kafejon	de så en cafe'	they saw a cafe'	grupo	alternativoj	prononco
+level	vidis ruĝajn kukojn	så røde småkager	saw red cookies	grupo	alternativoj	prononco
+level	vidis kukojn en ĝi	så småkager i den	saw cookies in it	grupo	alternativoj	prononco
+level	vidis kafejon kaj en ĝi kukojn	så en cafe' og i den småkager	saw a cafe' and in it  cookies	grupo	alternativoj	prononco
+level	eniru kaj manĝu!	gå ind og spis!	go in and eat!	grupo	alternativoj	prononco
+level	ni eniru kaj manĝu	lad os komme ind og spise	let's come in and eat	grupo	alternativoj	prononco
+level	havas sufiĉan monon	har penge nok	has sufficient money	grupo	alternativoj	prononco
+level	ĉu vi havas sufiĉan monon?	har du penge nok?	do you have sufficient money?	grupo	alternativoj	prononco
+level	ĉu vi komprenas?	forstår du?	do you understand?	grupo	alternativoj	prononco
+level	kompreneble!	selvfølgelig!	of course!	grupo	alternativoj	prononco
+level	tio ne sufiĉas	det er ikke nok	that is not enough	grupo	alternativoj	prononco
+level	cent dolaroj sufiĉas	hundrede dollars er nok	a hundred dollars is enough	grupo	alternativoj	prononco
+level	dolaro, dolaroj, dolarojn	en dollar, dollars, dollars (flertalsmål)	a dollar, dollars, dollars (plural objective)	grupo	alternativoj	prononco
+level	havas cent dolarojn	har hundrede dollars	has a hundred dollars	grupo	alternativoj	prononco
+level	kompreneble, mi havas	selvfølgelig har jeg	of course, I have	grupo	alternativoj	prononco
+level	ho! vi estas riĉa!	åh! du er rig!	oh! you are rich!	grupo	alternativoj	prononco
+level	kelnero, kelnerino	et vand, en servitrice	a water, an waitress	grupo	alternativoj	prononco
+level	kelnero portas menuon	en tjener medbringer en menu	a waiter brings a menu	grupo	alternativoj	prononco
+level	portis tion al ni, alportis tion	bragte det til os, bragte det	brought that to us, brought that	grupo	alternativoj	prononco
+level	kelnero alportis multajn kukojn	en tjener bragte en masse småkager	a waiter brought a lot of cookies	grupo	alternativoj	prononco
+level	ili manĝis iom	de spiste lidt (lidt)	they ate some (a little)	grupo	alternativoj	prononco
+level	post la manĝo	efter spisning (måltid)	after the eating (meal)	grupo	alternativoj	prononco
+level	nova, denove	nyt, igen	new, again	grupo	alternativoj	prononco
+level	la kelnero denove venis	tjeneren kom igen	the waiter came again	grupo	alternativoj	prononco
+level	en iu loko	et eller andet sted	in some place	grupo	alternativoj	prononco
+level	serĉis en iu loko	havde søgt et sted	had searched in some place	grupo	alternativoj	prononco
+level	serĉis en alia loko	søgt et andet sted	searched in other place	grupo	alternativoj	prononco
+level	lia vizaĝo estis ĝoja	hans ansigt var glad	his face was joyous	grupo	alternativoj	prononco
+level	ŝi estis malĝoja	hun var ked af det	she was sad	grupo	alternativoj	prononco
+level	fine kaj finfine	til sidst og til sidst	in the end and finally at last	grupo	alternativoj	prononco
+level	via forta voĉo	din stærke stemme	your strong voice	grupo	alternativoj	prononco
+level	en malforta voĉo	med svag stemme	in weak voice	grupo	alternativoj	prononco
+level	ne havas monon	ikke har penge	doesn't have money	grupo	alternativoj	prononco
+level	kio okazis tie?	hvad skete der der?	what did happen there?	grupo	alternativoj	prononco
+level	akcidento okazis poste	en ulykke skete senere	an accident happened later	grupo	alternativoj	prononco
+level	ĉu vi scias, kiam ĝi okazis?	ved du hvornår det skete?	do you know when did it happen?	grupo	alternativoj	prononco
+level	scias pri la afero	kender til sagen	knows about the matter	grupo	alternativoj	prononco
+level	ankoraŭ unu afero restas	stadig én ting er tilbage	still one thing remains	grupo	alternativoj	prononco
+level	vi aŭ ŝi, ajna homo	dig eller hun, enhver person	you or she, any person	grupo	alternativoj	prononco
+level	kiel kantisto	som en sanger, som en underskriver	like a singer, as a signer	grupo	alternativoj	prononco
+level	kantis kiel profesia kantisto	sang som en professionel sanger	sang like a professional singer	grupo	alternativoj	prononco
+level	tie, kie ŝi loĝis	et sted, hvor hun boede	a the place, where she lived	grupo	alternativoj	prononco
+level	kiel vi scias pri la aŭto?	hvordan ved du om bilen?	how do you know about the car?	grupo	alternativoj	prononco
+level	nu, vidu la rapidan aŭton	godt, se på den hurtige bil	well, look at the fast car	grupo	alternativoj	prononco
+level	suko sen sukero	en juice uden sukker	a juice without sugar	grupo	alternativoj	prononco
+level	li havis rapidan veturilon	han har et hurtigt køretøj	he has a fast vehicle	grupo	alternativoj	prononco
+level	tro forte	for stærkt	too strongly	grupo	alternativoj	prononco
+level	li tro forte malfermis	han åbnede for hårdt	he opened too hard	grupo	alternativoj	prononco
+level	veturis tro rapide	kørte (rejste) for stærkt	drove (traveled) too fast	grupo	alternativoj	prononco
+level	manĝis per kulero	spiste med en ske	ate with a spoon	grupo	alternativoj	prononco
+level	ni forte dubas	tvivler vi stærkt på	we strongly doubt	grupo	alternativoj	prononco
+level	vera letero de li	et rigtigt brev fra ham	a true letter from him	grupo	alternativoj	prononco
+level	amletero kun kvin fotoj	et kærlighedsbrev med fem billeder	a love letter with five photos	grupo	alternativoj	prononco
+level	revenis, revenintoj	vendte tilbage, de mennesker, der vendte tilbage	returned, the people who returned	grupo	alternativoj	prononco
+level	ankaŭ ses leteroj revenis	også seks breve returneret	also six letters returned	grupo	alternativoj	prononco
+level	volis vidi la foton	ville se billedet	wanted to see the photo	grupo	alternativoj	prononco
+level	revenis el la lernejo	kom tilbage fra skolen	came back from the school	grupo	alternativoj	prononco
+level	kiam revenos la fratino?	hvornår vender søsteren tilbage?	when will the sister return?	grupo	alternativoj	prononco
+level	volis legi denove	ville læse igen	wanted to read again	grupo	alternativoj	prononco
+level	faris, fariĝis	gjorde (gjorde), blev	made (did), became	grupo	alternativoj	prononco
+level	rapide fariĝis ruĝa	blev hurtigt rød	rapidly became red	grupo	alternativoj	prononco
+level	en ĉambro, en ĉambron	i et rum, ind i et rum	in a room, into a room	grupo	alternativoj	prononco
+level	staris kaj sidis	stod og sad	stood and sat	grupo	alternativoj	prononco
+level	tie staris antaŭ la foto	der stod foran billedet	there stood in front of the photo	grupo	alternativoj	prononco
+level	mi havas tion	Det har jeg	I have that	grupo	alternativoj	prononco
+level	kion vi havas en via mano?	hvad har du i hånden?	what do you have in your hand?	grupo	alternativoj	prononco
+level	antaŭ aŭ malantaŭ?	foran eller bagved?	in front or behind?	grupo	alternativoj	prononco
+level	antaŭ aŭ post?	før eller efter?	before or after?	grupo	alternativoj	prononco
+level	tie malantaŭ la pordo	der bag døren	there behind the door	grupo	alternativoj	prononco
+level	aliaj, aliaj homoj	andre, andre mennesker	others, other people	grupo	alternativoj	prononco
+level	leteroj de aliaj	breve fra andre	letters from others	grupo	alternativoj	prononco
+level	falis el la mano	faldt ud af hånden	fell out of the hand	grupo	alternativoj	prononco
+level	sur la tablo, sur la tablon	på bordet, på bordet	on the table, onto the table	grupo	alternativoj	prononco
+level	ĝi falis sur la tablon	den faldt på bordet	it fell on the table	grupo	alternativoj	prononco
+level	petis pardonon	bad om undskyldning	asked for pardon	grupo	alternativoj	prononco
+level	serĉis kvin librojn	ledte efter fem bøger	was searching for five books	grupo	alternativoj	prononco
+level	pardonu, mi serĉis mian libron	undskyld, jeg ledte efter min bog.	sorry, I was looking for my book.	grupo	alternativoj	prononco
+level	sed vi bone scias	men du ved godt	but you know well	grupo	alternativoj	prononco
+level	ne estas sur mia tablo	er ikke på mit bord	is not on my table	grupo	alternativoj	prononco
+level	viaj libroj ne estas sur mia tablo	dine bøger er ikke på mit bord	your books are not on my table	grupo	alternativoj	prononco
+level	ree donis, redonis	atter gav, vendte tilbage	again gave, returned	grupo	alternativoj	prononco
+level	redonu la leteron al mi.	returnere brevet til mig	return the letter to me	grupo	alternativoj	prononco
+level	ricevis bonan lecionon	fik en god lektion	received a good lesson	grupo	alternativoj	prononco
+level	plu lavis, ne plu manĝis	yderligere vasket, spiste mere	further washed, ate any more	grupo	alternativoj	prononco
+level	ne plu legos	vil ikke længere læse	will no longer read	grupo	alternativoj	prononco
+level	ankaŭ mi ricevis	jeg fik også	I also received	grupo	alternativoj	prononco
+level	devas fermi	skal lukke	has to close	grupo	alternativoj	prononco
+level	mi devas bone fermi	Jeg skal lukke godt	I have to close well	grupo	alternativoj	prononco
+level	bone fermis la pordon	lukkede døren tæt	closed the door tightly	grupo	alternativoj	prononco
+level	trankvila, trankviliĝu	rolig, rolig	calm, calm down	grupo	alternativoj	prononco
+level	aŭdis sed ne aŭskultis	hørte, men lyttede ikke	heard but did not listen	grupo	alternativoj	prononco
+level	aŭdis trankvilan sonon	hørte en rolig lyd	heard a calm sound	grupo	alternativoj	prononco
+level	ĉe mi estis kvar poŝoj	hos mig er der 4 lommer	at me, there are 4 pockets	grupo	alternativoj	prononco
+level	dek tagoj post la lasta leciono	ti dage efter sidste lektion	ten days after the last lesson	grupo	alternativoj	prononco
+level	inter la du tabloj	mellem de to borde	between the two tables	grupo	alternativoj	prononco
+level	tri leteroj, ses paperoj	tre breve, seks papirer	three letters, six papers	grupo	alternativoj	prononco
+level	de kapo ĝis piedo	fra top til fod	from head to foot	grupo	alternativoj	prononco
+level	kvar, kvara, kvaropo, kvarono	fire, fjerde, en kvartet, en kvart	four, fourth, a quartet, a quarter	grupo	alternativoj	prononco
+level	kien iris la triopo?	hvor blev trioen af	where did the trio go	grupo	alternativoj	prononco
+level	kvin fingroj en ambaŭaj manoj	fem fingre i begge hænder	five fingers in both hands	grupo	alternativoj	prononco
+level	si mem, sia poŝo	af sig selv, sin egen lomme	by oneself, one's own pocket	grupo	alternativoj	prononco
+level	meti, kunmeti, kunmetaĵo	sætte, sammensætte, en forbindelse	put, put together, a compound	grupo	alternativoj	prononco
+level	metis en sian poŝon	puttet i egen lomme	put in one's own pocket	grupo	alternativoj	prononco
+level	du cent nacioj en la mondo	to hundrede nationer i verden	two hundred nations in the world	grupo	alternativoj	prononco
+level	prenis, forprenis	tog, tog bort	took, took away	grupo	alternativoj	prononco
+level	prenis sep el siaj naŭ libroj	tog syv ud af sine egne ni bøger	took seven out of his own nine books	grupo	alternativoj	prononco
+level	lasi, forlasita	at forlade, forladt	to leave, abandoned	grupo	alternativoj	prononco
+level	lasu min sola kaj trankvila	lad mig være i fred	leave me alone and calm	grupo	alternativoj	prononco
+level	mil ok cent ok dek sep	tusind otte hundrede og syv og firs (1887)	thousand eight hundred and eighty seven (1887)	grupo	alternativoj	prononco
+level	taso da teo	en kop te	a cup of tea	grupo	alternativoj	prononco
+level	oni lavis ok tasojn	nogen vaskede otte kopper	somebody washed eight cups	grupo	alternativoj	prononco
+level	du mil dek naŭ	to tusind nitten (2019)	two thousand nineteen (2019)	grupo	alternativoj	prononco
+level	li lavis sin	han vaskede sig	he washed himself	grupo	alternativoj	prononco
+level	sia korpo, sia propra posedo	ens krop, ens egen besiddelse	one's body, one's own possession	grupo	alternativoj	prononco
+level	sur la tablo, la kato dormis	på bordet sov katten	on the table, the cat slept	grupo	alternativoj	prononco
+level	la kato saltis sur la tablon	katten sprang op på bordet	the cat jumped onto the table	grupo	alternativoj	prononco
+level	en la halo, en la halon	i hallen, ind i hallen	in the hall, into the hall	grupo	alternativoj	prononco
+level	enfalis en lian manon	faldt i hans hånd	fell into his hand	grupo	alternativoj	prononco
+level	labori, ellabori	at arbejde, at uddybe	to work, to elaborate	grupo	alternativoj	prononco
+level	ellabori por tiu libro	at uddybe for den bog	to elaborate for that book	grupo	alternativoj	prononco
+level	scias, scivolas, scivolo	ved, vil vide, nysgerrighed	knows, wants to know, curiosity	grupo	alternativoj	prononco
+level	dulingva, dulingveco	tosproget, tosprogethed	bilingual, bilingualism	grupo	alternativoj	prononco
+level	scivolas pri trilingva lernanto	undrer sig over en tresproget elev	wonders about a trilingual learner	grupo	alternativoj	prononco
+level	iris, reiris	gik, vendte tilbage	went, returned	grupo	alternativoj	prononco
+level	la katoj reiris al siaj domoj	kattene vendte tilbage til deres (egne) hjem	the cats returned to their (own) homes	grupo	alternativoj	prononco
+level	en la sako, en la sakon	i posen, ind i posen	in the bag, into the bag	grupo	alternativoj	prononco
+level	enmetu ĝin en vian sakon	læg den i din taske	put it into your bag	grupo	alternativoj	prononco
+level	piedo, piediras, piediranto	en fod, gåture, en fodgænger	a foot, walks, a pedestrian	grupo	alternativoj	prononco
+level	dek-tage ili piediris	i ti dage gik de	for ten days, they walked	grupo	alternativoj	prononco
+level	preni, elpreni	at tage, at tage ud	to take, to take out	grupo	alternativoj	prononco
+level	belaj floroj, prenis belajn florojn	smukke blomster, tog smukke blomster	beautiful flowers, took beautiful flowers	grupo	alternativoj	prononco
+level	li elprenis nur belajn florojn	han tog kun smukke blomster frem	he took out only beautiful flowers	grupo	alternativoj	prononco
+level	malfermis, sed tuj fermis	åbnet, men straks lukket	opened, but immediately closed	grupo	alternativoj	prononco
+level	malfermis internacian kunvenon	åbnede et internationalt møde	opened an international meeting	grupo	alternativoj	prononco
+level	eldonis kaj disdonis	udgivet og distribueret	published and distributed	grupo	alternativoj	prononco
+level	la eldonisto eldonis dudek tri librojn	forlaget udgav treogtyve bøger	the publisher published twenty-three books	grupo	alternativoj	prononco
+level	revenis kaj revidis sian filon	vendte tilbage og så sin egen søn igen	returned and saw one's own son again	grupo	alternativoj	prononco
+level	en la jaro dumil dudek tri	i året to tusinde og treogtyve (2023)	in the year two thousand and twenty three (2023)	grupo	alternativoj	prononco
+level	sinjoro eniris la vendejon	en herre trådte (ind i) butikken	a gentleman entered (into) the store	grupo	alternativoj	prononco
+level	la vendejo de aŭtoj	butikken af biler	the store of cars	grupo	alternativoj	prononco
+level	tie li vidas sinjorinon	der ser han en dame	there he sees a lady	grupo	alternativoj	prononco
+level	karaj gesinjoroj	Kære damer og herrer	dear ladies and gentlemen	grupo	alternativoj	prononco
+level	tio plaĉis al mi	det glædede mig (det kan jeg godt lide)	that pleased me (I like that)	grupo	alternativoj	prononco
+level	la sinjorino plaĉis al li	damen glædede ham (han kunne lide damen)	the lady pleased him (he liked the lady)	grupo	alternativoj	prononco
+level	vidis la belan sinjorinon	så den smukke dame	saw the beautiful lady	grupo	alternativoj	prononco
+level	kiu plaĉis al li?	hvem glædede ham? (hvem kunne han lide?)	who pleased him? (whom did he like?)	grupo	alternativoj	prononco
+level	la virino, kiu plaĉis al mi	kvinden, som glædede mig	the woman, who pleased me	grupo	alternativoj	prononco
+level	tiu, kiu eniris la domon	den, der kom ind i huset	the one who entered the house	grupo	alternativoj	prononco
+level	la viro, kiu donacis ĝin	manden, der donerede det	the man who donated it	grupo	alternativoj	prononco
+level	li donacis ringon al lia edzino	han gav en ring til sin kone	he gave a ring to his wife	grupo	alternativoj	prononco
+level	la ringo plaĉis al ŝi	hun kunne lide ringen	she liked the ring	grupo	alternativoj	prononco
+level	la edzino, al kiu la ringo plaĉis	konen, der kunne lide ringen	the wife who liked the ring	grupo	alternativoj	prononco
+level	vendisto laboras en la vendejo	en sælger arbejder i butikken	a salesman works in the store	grupo	alternativoj	prononco
+level	vendisto de aŭtoj	en sælger af biler	a salesman of cars	grupo	alternativoj	prononco
+level	la sinjoro demandis al la vendisto	spurgte herren sælgeren	the gentleman asked the salesman	grupo	alternativoj	prononco
+level	kiu aŭto plaĉas al vi?	hvilken bil kan du lide?	which car do you like?	grupo	alternativoj	prononco
+level	kiun aŭton vi elektos?	hvilken bil vil du vælge?	which car will you choose?	grupo	alternativoj	prononco
+level	mi elektis tiun aŭton	Jeg valgte den bil	I chose that car	grupo	alternativoj	prononco
+level	ĝi estas pli bona	det er bedre	it is better	grupo	alternativoj	prononco
+level	pli bona ol ĉi tio	bedre end dette	better than this	grupo	alternativoj	prononco
+level	plej bona el ili	bedste af dem	best of them	grupo	alternativoj	prononco
+level	estas la plej bona	er det bedste	is the best	grupo	alternativoj	prononco
+level	kiu aŭto estas la plej bona?	hvilken bil er den bedste?	which car is the best?	grupo	alternativoj	prononco
+level	tiu ĉi aŭto estas pli bona	denne bil er bedre	this car is better	grupo	alternativoj	prononco
+level	tiu ĉi estas la plej bona	denne er den bedste	this one is the best	grupo	alternativoj	prononco
+level	vidis ĉiujn aŭtojn	så alle bilerne	saw all the cars	grupo	alternativoj	prononco
+level	la plej bona el ĉiuj	det bedste af det hele	the best of all	grupo	alternativoj	prononco
+level	ĉu ĝi estas rapida?	er det hurtigt?	is it fast?	grupo	alternativoj	prononco
+level	pli rapida ol aliaj	hurtigere end andre	faster than others	grupo	alternativoj	prononco
+level	estas ankaŭ forta	er også stærk	is also strong	grupo	alternativoj	prononco
+level	ho jes, kompreneble!	åh ja, selvfølgelig!	oh yes, of course!	grupo	alternativoj	prononco
+level	estas tre forta	er meget stærk	is very strong	grupo	alternativoj	prononco
+level	certe ĝi estas forta	bestemt er den stærk	certainly it is strong	grupo	alternativoj	prononco
+level	estas ankaŭ multekosta	er også dyrt	is also expensive	grupo	alternativoj	prononco
+level	la plej multekosta el ĉiuj	den dyreste af alle	the most expensive of all	grupo	alternativoj	prononco
+level	malmultekosta sed forta	billigt men stærkt	cheap but strong	grupo	alternativoj	prononco
+level	bedaŭras kaj bedaŭrindas	har ondt af og er medlidende (værd at være ked af det)	feels sorry and is pityful (worth feeling sorry)	grupo	alternativoj	prononco
+level	bedaŭrinde mi ne aĉetos	jeg vil desværre ikke købe	unfortunately I will not buy	grupo	alternativoj	prononco
+level	estas bedaŭrinda afero	er en uheldig ting	is an unfortunate thing	grupo	alternativoj	prononco
+level	li aĉetis novan aŭton	han købte en ny bil	he bought a new car	grupo	alternativoj	prononco
+level	ĉar mi ne havas monon	fordi jeg ikke har penge	because I do not have money	grupo	alternativoj	prononco
+level	mia malnova aŭto	min gamle bil	my old car	grupo	alternativoj	prononco
+level	la plej malmultekosta el ĉiuj	den billigste af alle	the cheapest of all	grupo	alternativoj	prononco
+level	mi veturos tien	Jeg kører derhen	I'll drive there	grupo	alternativoj	prononco
+level	ankoraŭ veturos per ĝi	vil stadig køre med den	will still drive with it	grupo	alternativoj	prononco
+level	dum la tuta tago	hele dagen lang	all day long	grupo	alternativoj	prononco
+level	dum li diris tion	mens han sagde det	while he said that	grupo	alternativoj	prononco
+level	li denove rigardis ŝin	han så på hende igen	he looked at her again	grupo	alternativoj	prononco
+level	sed la vendisto diris	men sælgeren sagde	but the salesman said	grupo	alternativoj	prononco
+level	estus pli bone, ke ~	det ville være bedre at ~	it would be better that ~	grupo	alternativoj	prononco
+level	rigardu tiun ĉi sinjorinon	se på denne dame	look at this lady	grupo	alternativoj	prononco
+level	ankaŭ tio estas tre multekosta	det er også meget dyrt	that is also very expensive	grupo	alternativoj	prononco
+level	mi estas ŝia edzo	Jeg er hendes mand	I am her husband	grupo	alternativoj	prononco
+level	kiom via vojaĝo kostis?	hvor meget kostede din rejse?	how much did your trip cost?	grupo	alternativoj	prononco
+level	aŭskultu la kanton de via edzino	lyt til din kones sang	listen to your wife's song	grupo	alternativoj	prononco
+level	ne forgesu, ke ĝi tre multe kostas	glem ikke at det koster meget	don’t forget that it costs a lot	grupo	alternativoj	prononco
+level	li helpis la vendiston dum du horoj	han hjalp sælgeren i to timer	he helped the salesman for two hours	grupo	alternativoj	prononco
+level	jam pli ol tri jaroj	i mere end tre år	for more than three years	grupo	alternativoj	prononco
+level	kovri, kovrilo, malkovri	dække, dække, afdække (opdage)	cover, cover, uncover (discover)	grupo	alternativoj	prononco
+level	la kialon li ankoraŭ ne malkovris	årsagen har han endnu ikke opdaget	the reason he has not yet discovered	grupo	alternativoj	prononco
+level	kial vi komencis sendi leterojn?	hvorfor begyndte du at sende breve?	why did you start sending letters?	grupo	alternativoj	prononco
+level	dum ok monatoj li vivis tie	i otte måneder boede han der	for eight months he lived there	grupo	alternativoj	prononco
+level	ne havis tempon por aŭskulti	havde ikke tid til at lytte	didn't have time to listen	grupo	alternativoj	prononco
+level	la aŭto estis jam plena	bilen var allerede fuld	the car was already full	grupo	alternativoj	prononco
+level	kion vi manĝas?	hvad spiser du	what are you eating	grupo	alternativoj	prononco
+level	kia estas la vetero?	hvordan er vejret?	what's the weather like?	grupo	alternativoj	prononco
+level	kian aŭton vi havas?	hvad er det for en bil du har?	what kind of car do you have?	grupo	alternativoj	prononco
+level	kiaj estis ŝiaj leteroj?	hvordan var hendes breve?	what were her letters like?	grupo	alternativoj	prononco
+level	kie ni estas?	hvor er vi?	where are we?	grupo	alternativoj	prononco
+level	kien vi iras?	hvor skal du hen?	where are you going to?	grupo	alternativoj	prononco
+level	al kiu vi donis ĝin?	hvem gav du det til?	to whom did you give it?	grupo	alternativoj	prononco
+level	la viro, kun kiu vi vojaĝis	manden, som du rejste med	the man whom you traveled with	grupo	alternativoj	prononco
+level	pli granda ol la aŭto	større end bilen	bigger than the car	grupo	alternativoj	prononco
+level	la plej alta el tiuj homoj	den højeste af disse mennesker	the tallest of those people	grupo	alternativoj	prononco
+level	li sidis dum la manĝo	han sad til middag	he was sitting at dinner	grupo	alternativoj	prononco
+level	ŝi skribas dum li legas	hun skriver, mens han læser	she writes while he reads	grupo	alternativoj	prononco
+level	ĉi tie, en ĉi tiu ĉambro	her i dette rum	here, in this room	grupo	alternativoj	prononco
+level	tiu ĉi sinjoro	denne herre	this gentleman	grupo	alternativoj	prononco
+level	aŭskultinda novaĵo	en nyhed der er værd at lytte til	a news worth listening	grupo	alternativoj	prononco
+level	la libro estas vere leginda	bogen er virkelig værd at læse	the book is really worth reading	grupo	alternativoj	prononco
+level	bedaŭra afero	en uheldig ting	an unfortunate thing	grupo	alternativoj	prononco
+level	bedaŭrinde, mi ne povas	det kan jeg desværre ikke	unfortunately, I can't	grupo	alternativoj	prononco
+level	nedankinde. estis mia plezuro	det var så lidt. det var min fornøjelse	you are welcome. it was my pleasure	grupo	alternativoj	prononco
+level	eta belulino ege belas	lille smuk pige er meget smuk	small pretty girl is very beautiful	grupo	alternativoj	prononco
+level	ĉiuj amikoj amas ŝin	alle venner elsker hende	all friends love her	grupo	alternativoj	prononco
+level	antaŭ tri monatoj	for tre måneder siden	three months ago	grupo	alternativoj	prononco
+level	okazis malbono al ŝi	noget slemt skete med hende	something bad happened to her	grupo	alternativoj	prononco
+level	ŝi falis pro aŭto	hun faldt på grund af en bil	she fell because of a car	grupo	alternativoj	prononco
+level	malsaniĝis kaj temperaturo altiĝis	blev syg og temperaturen steg	became ill and temperature rose	grupo	alternativoj	prononco
+level	patrino diris, ke ŝi devas ripozi	mor sagde hun skulle hvile sig	mother said she should rest	grupo	alternativoj	prononco
+level	ŝi devas resti hejme	hun skal blive hjemme	she has to stay home	grupo	alternativoj	prononco
+level	ŝi vokos doktoron	hun vil ringe til en læge	she will call a doctor	grupo	alternativoj	prononco
+level	je la naŭa horo	klokken ni	at nine o'clock	grupo	alternativoj	prononco
+level	matene venis je la oka	om morgenen kom klokken otte	in the morning came at eight o'clock	grupo	alternativoj	prononco
+level	je la sepa morgaŭ vespere	klokken syv i morgen aften	at seven tomorrow evening	grupo	alternativoj	prononco
+level	montris liajn manojn	viste sine hænder	showed his hands	grupo	alternativoj	prononco
+level	vesto, vestiĝas	kjole, bliver klædt på	dress, is getting dressed	grupo	alternativoj	prononco
+level	vestiĝu kaj varmigu vian korpon	tag tøj på og varm din krop	get dressed and warm your body	grupo	alternativoj	prononco
+level	hejme tuj malvestis kaj duŝis	hjemme straks klædt af og badet	at home immediately undressed and showered	grupo	alternativoj	prononco
+level	doktoro rigardis ĉion	en læge kiggede på alt	a doctor looked at everything	grupo	alternativoj	prononco
+level	bone rigardis kaj fine diris	kiggede grundigt og sagde til sidst	looked throughly and finally said	grupo	alternativoj	prononco
+level	unu semajnon restu hejme	blive hjemme i en uge	stay home for a week	grupo	alternativoj	prononco
+level	deziras, ke vi estu trankvila	vil have dig til at være rolig	wants you to be calm	grupo	alternativoj	prononco
+level	post unu semajno	efter en uge	after one week	grupo	alternativoj	prononco
+level	vi fartos pli bone	du vil føle dig bedre	you will feel better	grupo	alternativoj	prononco
+level	trinku multe da teo	drik masser af te	drink plenty of tea	grupo	alternativoj	prononco
+level	venos por revidi vin	vil komme for at se dig igen	will come to see you again	grupo	alternativoj	prononco
+level	ankaŭ li estu trankvila	lad ham også være rolig	let him be calm too	grupo	alternativoj	prononco
+level	sana homo, sanulo	sund mand, sund person	healthy man, healthy person	grupo	alternativoj	prononco
+level	zorgis pri si mem	tog sig af sig selv	took care of oneself	grupo	alternativoj	prononco
+level	tuta afero tuje utilis al mi	det hele var nyttigt for mig på én gang	the whole thing was useful to me at once	grupo	alternativoj	prononco
+level	rimarkis, ke teruraĵo proksimas	bemærket, at den forfærdelige ting er nær	noticed that horrible thing is near	grupo	alternativoj	prononco
+level	petis tuj rimarki ĝin	bedt om at bemærke det med det samme	asked to notice it immediately	grupo	alternativoj	prononco
+level	pensis, ke tio ne necesas	mente det ikke var nødvendigt	thought that was not necessary	grupo	alternativoj	prononco
+level	loĝis proksime, kaj tio utilis	boede i nærheden, og det var nyttigt	lived nearby, and that was useful	grupo	alternativoj	prononco
+level	nia lando hodiaŭ teruriĝis	vores land blev rædselsslagen i dag	our country became terrified today	grupo	alternativoj	prononco
+level	karaj infanoj el ĉiuj familioj	kære børn fra alle familier	dear children from all families	grupo	alternativoj	prononco
+level	unu fojon hieraŭ, du fojojn morgaŭ	en gang i går, to gange i morgen	once yesterday, twice tomorrow	grupo	alternativoj	prononco
+level	hodiaŭ familioj bezonas infanojn	i dag har familier brug for børn	today families need children	grupo	alternativoj	prononco
+level	esperis, ke li fartos bone morgaŭ	håbede han ville have det godt i morgen	hoped he would be well tomorrow	grupo	alternativoj	prononco
+level	li fartis ege trankvila	han følte sig (har været) meget rolig	he was feeling (has been) very calm	grupo	alternativoj	prononco
+level	tri etuloj altigis la monton	tre små rejste bjerget	three little ones raised the mountain	grupo	alternativoj	prononco
+level	gravuloj ne petis helpon	vigtige mennesker bad ikke om hjælp	important people did not ask for help	grupo	alternativoj	prononco
+level	piediris tien por helpi	gik der for at hjælpe	walked there to help	grupo	alternativoj	prononco
+level	restu hejme se temperaturo altas	bliv hjemme, hvis temperaturen er høj	stay home if temperature is high	grupo	alternativoj	prononco
+level	temperaturo restis simila hodiaŭ	temperaturen forblev den samme i dag	temperature remained similar today	grupo	alternativoj	prononco
+level	voku la doktoron je la naŭa	ringe til lægen klokken ni	call the doctor at nine	grupo	alternativoj	prononco
+level	montru ĝin al via doktoro	vis det til din læge	show it to your doctor	grupo	alternativoj	prononco
+level	por montri vian piedon	at vise din fod	to show your foot	grupo	alternativoj	prononco
+level	vestu ĉi tiun ĉemizon	bære denne skjorte	wear this shirt	grupo	alternativoj	prononco
+level	semajnfine ĉio trankviliĝos	i weekenden vil alt falde til ro	on the weekend everything will calm down	grupo	alternativoj	prononco
+level	sub la te-taso kion vi trovis?	hvad fandt du under tekoppen?	under the tea-cup what did you find?	grupo	alternativoj	prononco
+level	mi deziras matenan teon	Jeg vil have morgen te	I want morning tea	grupo	alternativoj	prononco
+level	esperis trankvilan vesperon	håbede på en rolig aften	hoped for a quiet evening	grupo	alternativoj	prononco
+level	deziras, ke vi lernu	ønsker, at du lærer	wants that you learn	grupo	alternativoj	prononco
+level	insistis, ke mi iru	insisterede på, at jeg gik	insisted that I go	grupo	alternativoj	prononco
+level	je kioma horo?	på hvilket tidspunkt?	at what hour?	grupo	alternativoj	prononco
+level	je la sesa, li venos	klokken seks kommer han	at six he will come	grupo	alternativoj	prononco
+level	la libreto estis ĉarma	librettoen var charmerende	the libretto was charming	grupo	alternativoj	prononco
+level	estu trankvila	Vær stille	be quiet	grupo	alternativoj	prononco
+level	li estu trankvila	lad ham være stille	let him be quiet	grupo	alternativoj	prononco
+level	ankaŭ li	også han	he too	grupo	alternativoj	prononco
+level	mi deziras	jeg vil (ønske)	I want (desire)	grupo	alternativoj	prononco
+level	mi deziras, ke ~	Jeg ønsker (ønsker) at ~	I wish (desire) that ~	grupo	alternativoj	prononco
+level	ke vi lernu	at du lærer	that you learn	grupo	alternativoj	prononco
+level	mi deziras, ke vi lernu	Jeg vil have dig til at lære	I want you to learn	grupo	alternativoj	prononco
+level	patro insistas	insisterer far	father insists	grupo	alternativoj	prononco
+level	patro insistas, ke ~	far insisterer på, at ~	father insists that ~	grupo	alternativoj	prononco
+level	ke mi iru	at jeg går	that I go	grupo	alternativoj	prononco
+level	patro insistas, ke mi iru	far insisterer på, at jeg går	father insists that I go	grupo	alternativoj	prononco
+level	je kioma horo	på hvilket tidspunkt	at what hour	grupo	alternativoj	prononco
+level	je kioma horo vi venos?	hvad tid kommer du?	what time do you come?	grupo	alternativoj	prononco
+level	je la kvina	klokken fem (kl.)	at five (o'clock)	grupo	alternativoj	prononco
+level	je la kvina horo	klokken fem	at five o'clock	grupo	alternativoj	prononco
+level	kiel li fartas?	hvordan har han det?	how does he doing?	grupo	alternativoj	prononco
+level	kiel vi fartis lastatempe?	hvordan har du haft det på det sidste?	how have you been lately?	grupo	alternativoj	prononco
+level	etaj libroj belas	små bøger er smukke	little books are beautiful	grupo	alternativoj	prononco
+level	libreto, belaj libroj	et hæfte, smukke bøger	a booklet, beautiful books	grupo	alternativoj	prononco
+level	bela, beleta, belega	smuk, lidt smuk, meget smuk	beautiful, a little pretty, very beautiful	grupo	alternativoj	prononco
+level	varma, varmeta, varmega	varm, lunken, meget varm	warm, lukewarm, very hot	grupo	alternativoj	prononco
+level	librego, libreto	en stor bog, et hæfte	a big book, a booklet	grupo	alternativoj	prononco
+level	bona, bonega, bonege	godt, godt, godt	good, great, well	grupo	alternativoj	prononco
+level	riĉa, riĉiĝi, riĉulo	rig, bliv rig, en rig person	rich, become rich, a rich person	grupo	alternativoj	prononco
+level	trankvila, trankviliĝi, trankviliĝu	rolig, at berolige, rolig	calm, to calm down, calm down	grupo	alternativoj	prononco
+level	sana, resaniĝi, resaniĝis	sund, at blive helbredt, blev helbredt	healthy, to become healed, became healed	grupo	alternativoj	prononco
+level	edzo, edziĝo, geedziĝis	en mand, ægteskab, gift	a husband, marriage, married	grupo	alternativoj	prononco
+level	leterportisto	et brevpostbud	a letter postman	grupo	alternativoj	prononco
+level	hejmlando	et hjemland	a homeland	grupo	alternativoj	prononco
+level	iom, iomete	noget, lidt	somewhat, a little	grupo	alternativoj	prononco
+level	ni bonege vespermanĝis	vi havde en god middag	we had a great dinner	grupo	alternativoj	prononco
+level	espereble, prizorgu vin	forhåbentlig, pas på dig selv	hopefully, take care of yourself	grupo	alternativoj	prononco
+level	mi zorgis pri la altkvalita loĝejo	Jeg bekymrede mig om boliger af høj kvalitet	I cared about the high-quality housing	grupo	alternativoj	prononco
+level	pripensu dufoje, multfoje	tænk to gange, mange gange	think twice, many times	grupo	alternativoj	prononco
+level	kiu deprenis la libreton?	hvem tog hæftet ned?	who took down the booklet?	grupo	alternativoj	prononco
+level	kato, kiu nomiĝas Cezaro	en kat ved navn Cæsar	a cat named Caesar	grupo	alternativoj	prononco
+level	kuko, kiu estas sur la tablo	en kage som står på bordet	a cake which is on the table	grupo	alternativoj	prononco
+level	manĝu kukon, kiu estas sur la tablo	spise en kage, der står på bordet	eat a cake that is on the table	grupo	alternativoj	prononco
+level	fariĝis varmega kaj ruĝiĝis	blev varm og rødmende	became hot and blushed	grupo	alternativoj	prononco
+level	patro volas, ke lia infano manĝu	en far vil have sit barn til at spise	a father wants his child to eat	grupo	alternativoj	prononco
+level	en malgranda ĉambro	i et lille rum	in a small room	grupo	alternativoj	prononco
+level	ni loĝas en ~	vi bor i ~	we live in ~	grupo	alternativoj	prononco
+level	mi fariĝis maltrankvila	Jeg blev angst	I became anxious	grupo	alternativoj	prononco
+level	tiam, kiam mi vidis vin	på det tidspunkt, hvor jeg så dig	at that time when I saw you	grupo	alternativoj	prononco
+level	ĉiuj rimarkis tion	det lagde alle mærke til	everyone noticed that	grupo	alternativoj	prononco
+level	tion, ke ŝi estas belega	det faktum, at hun er smuk	the fact that she is beautiful	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke ~ ?	vil du have det ~? (deziri)	do you want that ~ ? (deziri)	grupo	alternativoj	prononco
+level	ke mi montru al vi	at jeg kan vise dig	that I may show you	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke mi montru?	vil du have mig til at vise?	do you want me to show?	grupo	alternativoj	prononco
+level	mian plej novan libron	min nyeste bog (mål)	my newest book (objective)	grupo	alternativoj	prononco
+level	morgaŭ matene, kion vi volas?	i morgen, hvad vil du?	tomorrow morning, what do you want?	grupo	alternativoj	prononco
+level	matenmanĝis malfrue	spiste morgenmad sent	had breakfast late	grupo	alternativoj	prononco
+level	kiam Marko alvenos?	hvornår kommer Mark?	when will Mark arrive?	grupo	alternativoj	prononco
+level	je la kvina aŭ je la oka horo	klokken fem eller otte	at five or eight o'clock	grupo	alternativoj	prononco
+level	kiam vi rimarkis, ke ~ ?	hvornår lagde du mærke til det ~ ?	when did you notice that ~ ?	grupo	alternativoj	prononco
+level	la tuta familio nomas min bonfarulo	hele familien kalder mig en velgører	the whole family calls me a benefactor	grupo	alternativoj	prononco
+level	utila por vi	nyttigt for dig	useful for you	grupo	alternativoj	prononco
+level	ĉu la libreto estis utila?	var hæftet brugbart?	was the booklet useful?	grupo	alternativoj	prononco
+level	tiu libreto, kiun mi sendis	hæftet, som jeg sendte	the booklet, which I sent	grupo	alternativoj	prononco
+level	matene dormis tre longe	om morgenen sov længe	in the morning slept for a long time	grupo	alternativoj	prononco
+level	kiam li vidis la sunon	da han så solen	when he saw the sun	grupo	alternativoj	prononco
+level	subite li eksaltis	pludselig sprang han op	suddenly he jumped up	grupo	alternativoj	prononco
+level	li estis ĉiam frua	han var altid tidligt	he was always early	grupo	alternativoj	prononco
+level	ĉiam li malfruas	han kommer altid for sent	he is always late	grupo	alternativoj	prononco
+level	tiam, kiam li devas iri	på det tidspunkt, hvor han skal gå	at that time, when he has to go	grupo	alternativoj	prononco
+level	iri al la lernejo	at gå i skolen	to go to the school	grupo	alternativoj	prononco
+level	li scias, ke ~	han ved, at ~	he knows, that ~	grupo	alternativoj	prononco
+level	li scias tion, ke ~	han ved det faktum, at ~	he knows the fact, that ~	grupo	alternativoj	prononco
+level	tion, ke la instruisto malŝatas abelon	det faktum, at læreren hader bier	the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias tion, ke la instruisto malŝatas abelon	ved, at læreren hader bier	knows the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias, ke la instruisto malŝatas tion	ved, at læreren hader det	knows that the teacher hates that	grupo	alternativoj	prononco
+level	sed hodiaŭ li trinkis la kafon	men i dag drak han kaffen	but today he drank the coffee	grupo	alternativoj	prononco
+level	li rapide surmetas la vestaĵon	han tager hurtigt tøjet på	he quickly puts on the clothes	grupo	alternativoj	prononco
+level	li ne volas malfrui	han vil ikke komme for sent	he doesn't want to be late	grupo	alternativoj	prononco
+level	rapidege kun la libroj en la mano	meget hurtigt med bøgerne i hånden	very quickly with the books in hand	grupo	alternativoj	prononco
+level	poste li kuris kaj saltis	senere løb han og sprang	later he ran and jumped	grupo	alternativoj	prononco
+level	li kuris kaj saltis	han løb og sprang	he ran and jumped	grupo	alternativoj	prononco
+level	laŭ la strato	langs gaden	along the street	grupo	alternativoj	prononco
+level	la homoj rigardis lin	folkene så på ham	the people looked at him	grupo	alternativoj	prononco
+level	rigardis lin kaj diris	kiggede på ham og sagde	looked at him and said	grupo	alternativoj	prononco
+level	saĝa kaj malsaĝa	klog og tåbelig	wise and foolish	grupo	alternativoj	prononco
+level	kia malsaĝa knabo!	hvilken tåbelig dreng!	what a foolish boy!	grupo	alternativoj	prononco
+level	estis antaŭ lernejo	var foran en skole	was in front of a school	grupo	alternativoj	prononco
+level	baldaŭ	snart	soon	grupo	alternativoj	prononco
+level	li estis antaŭ ~	han var foran ~	he was in front of ~	grupo	alternativoj	prononco
+level	iri kaj eniri	at gå og komme ind	to go and to enter	grupo	alternativoj	prononco
+level	li volis eniri	han ville ind	he wanted to enter	grupo	alternativoj	prononco
+level	eniri la lernejon	at komme ind på skolen	to enter into the school	grupo	alternativoj	prononco
+level	sed tamen	men dog	but however	grupo	alternativoj	prononco
+level	sed li ne povis	men det kunne han ikke	but he couldn't	grupo	alternativoj	prononco
+level	fermi kaj fermita	at lukke og lukke	to close and closed	grupo	alternativoj	prononco
+level	ĝi estis fermita	den var lukket	it was closed	grupo	alternativoj	prononco
+level	nek ~ nek ~	hverken ~ eller ~	neither ~ nor ~	grupo	alternativoj	prononco
+level	nek instruisto nek gelernantoj	hverken lærer eller mandlige og kvindelige elever	neither a teacher nor male-and-female students	grupo	alternativoj	prononco
+level	vidis nek instruiston nek gelernantojn	så hverken lærer eller elever	saw neither a teacher nor students	grupo	alternativoj	prononco
+level	sidi, eksidi	at sidde, at blive siddende	to sit, to get sitted	grupo	alternativoj	prononco
+level	eksidis	fik siddende (havde siddet)	got seated (had seated)	grupo	alternativoj	prononco
+level	li eksidis	han satte sig	he got seated	grupo	alternativoj	prononco
+level	kaj pensis	og tænkte	and thought	grupo	alternativoj	prononco
+level	kio okazis?	hvad skete der?	what did happen?	grupo	alternativoj	prononco
+level	diable	til det forfærdelige (som en djævel)	to the awful (like a devil)	grupo	alternativoj	prononco
+level	damne	dæm det op	dam it	grupo	alternativoj	prononco
+level	memoras	husker	remembers	grupo	alternativoj	prononco
+level	nun mi memoras	nu husker jeg	now I remember	grupo	alternativoj	prononco
+level	dimanĉo	Søndag	Sunday	grupo	alternativoj	prononco
+level	hodiaŭ estas ~	i dag er ~	today is ~	grupo	alternativoj	prononco
+level	hodiaŭ estas dimanĉo	i dag er det søndag	today is Sunday	grupo	alternativoj	prononco
+level	dormi kaj ekdormi	at sove og at falde i søvn	to sleep and to get into sleep	grupo	alternativoj	prononco
+level	suno kaj luno	en sol og en måne	a sun and a moon	grupo	alternativoj	prononco
+level	subita kaj subite	pludselig og pludselig	sudden and suddenly	grupo	alternativoj	prononco
+level	ek!	af! (at begynde)	off! (to start)	grupo	alternativoj	prononco
+level	salti kaj eksaltis	at hoppe og hoppe	to jump and jumped 	grupo	alternativoj	prononco
+level	ĉiam frua	altid tidligt	always early	grupo	alternativoj	prononco
+level	hodiaŭ metis kaj kuris	i dag sat og løb	today put and ran	grupo	alternativoj	prononco
+level	aĵo, ne aĝo	en ting ikke alder	a thing not age	grupo	alternativoj	prononco
+level	kuris laŭ homoj saĝaj	løb med kloge mennesker	ran along wise people	grupo	alternativoj	prononco
+level	laŭeble baldaŭ	hurtigst muligt	soon as possible	grupo	alternativoj	prononco
+level	kia knabo, kia knabino	hvilken dreng, hvilken pige	what a boy, what a girl	grupo	alternativoj	prononco
+level	nek pensita nek memorita	hverken tænkt eller udenad	neither thought nor memorized	grupo	alternativoj	prononco
+level	diablo atendis akvon dimanĉe	en djævel ventede på vand i søndags	a devil waited for water on Sunday	grupo	alternativoj	prononco
+level	tiom malgranda momento	sådan et lille øjeblik	such a small moment	grupo	alternativoj	prononco
+level	eĉ tiom malgranda momento valoras	selv et så lille øjeblik er umagen værd	even such a small moment is worthwhile	grupo	alternativoj	prononco
+level	kriis for ĝis nokto	græd væk til nat	cried away until night	grupo	alternativoj	prononco
+level	lasis la poŝton de la mano	læg postposten fra hånden	put away the mailpost from the hand	grupo	alternativoj	prononco
+level	ridis mem lasante la poŝton	grinede af sig selv og lagde postposten væk	laughed by oneself, putting away the mailpost	grupo	alternativoj	prononco
+level	nek li nek ŝi ridis	hverken han eller hun lo	neither he nor she laughed	grupo	alternativoj	prononco
+level	ŝi nek ridis nek respondis	hun hverken lo eller svarede	she neither laughed nor answered	grupo	alternativoj	prononco
+level	li nek sidas nek rigardas	han hverken sidder eller ser på	he neither sits nor watches	grupo	alternativoj	prononco
+level	neniam mi vidis	jeg har aldrig set	I have never seen	grupo	alternativoj	prononco
+level	mi neniam diros al iu	Jeg vil aldrig fortælle det til nogen	I will never tell anyone	grupo	alternativoj	prononco
+level	diru al neniu	fortælle ingen	tell no one	grupo	alternativoj	prononco
+level	mi neniam diros	Jeg vil aldrig sige	I will never say	grupo	alternativoj	prononco
+level	mem	til sig selv (af sig selv)	to oneself (by oneself)	grupo	alternativoj	prononco
+level	mi mem faris	Jeg gjorde det selv	I did it myself	grupo	alternativoj	prononco
+level	faris tion	gjorde det (lavede det)	did it (made it)	grupo	alternativoj	prononco
+level	mem faris tion	gjorde det selv (lavede det selv)	did it oneself (made it oneself)	grupo	alternativoj	prononco
+level	ĝis la revido, ĝis revido	vi ses (igen), vi ses (igen)	see you (again), see you (again)	grupo	alternativoj	prononco
+level	ĝis!	indtil! (farvel!)	until! (goodbye!)	grupo	alternativoj	prononco
+level	ekparoli	at begynde at tale	to start talking	grupo	alternativoj	prononco
+level	ekparolis, komencis paroli finfine	begyndte at sige, begyndte til sidst at tale	started saying, began to speak at last	grupo	alternativoj	prononco
+level	trinkis rapidege	drak meget hurtigt	drank very fast	grupo	alternativoj	prononco
+level	trinkis matenan trinkaĵon	havde en morgendrink	had a morning drink	grupo	alternativoj	prononco
+level	por frue veni	at komme tidligt	to come early	grupo	alternativoj	prononco
+level	veni al la lernejo	at komme i skole	to come to school	grupo	alternativoj	prononco
+level	frue veni al ~	at komme tidligt til ~	to come early to ~	grupo	alternativoj	prononco
+level	ne aŭdis novaĵon	hørte ikke nyheder	didn't hear news	grupo	alternativoj	prononco
+level	ankoraŭ ne aŭdis	ikke hørt endnu	didn't hear yet	grupo	alternativoj	prononco
+level	mi ankoraŭ ne aŭdis	Jeg har ikke hørt endnu	I didn't hear yet	grupo	alternativoj	prononco
+level	en tiu momento	i det øjeblik	in that moment	grupo	alternativoj	prononco
+level	en tiu momento li ekkriis	i det øjeblik græd han	in that moment he cried	grupo	alternativoj	prononco
+level	knabo, kiu ne amas	en dreng, der ikke elsker	a boy, who does not love	grupo	alternativoj	prononco
+level	geknaboj	drenge og piger	boys and girls	grupo	alternativoj	prononco
+level	aliaj geknaboj	andre drenge og piger	other boys and girls	grupo	alternativoj	prononco
+level	ne amas aliajn geknabojn	elsker ikke andre drenge og piger	does not love other boys and girls	grupo	alternativoj	prononco
+level	nek amikojn, nek amikinojn	hverken venner eller pigevenner	neither friends nor girl friends	grupo	alternativoj	prononco
+level	havas nek monon, nek tempon	har hverken penge eller tid	does not have neither money nor time	grupo	alternativoj	prononco
+level	kiu havis la libron?	hvem havde bogen?	who had the book?	grupo	alternativoj	prononco
+level	la libron, kiun vi atendis	bogen, du ventede på	the book which you waited	grupo	alternativoj	prononco
+level	tiun, kiun vi atendis pli ol du jarojn	det, som du ventede i mere end 2 år	that, which you waited for more than 2 years	grupo	alternativoj	prononco
+level	ĉu vi volas tion?	vil du have det?	do you want that?	grupo	alternativoj	prononco
+level	ĉu vi volas, ke ~ ?	vil du have det ~?	do you want that ~ ?	grupo	alternativoj	prononco
+level	plej kara	kæreste	dearest	grupo	alternativoj	prononco
+level	plej kara foto	kæreste foto	dearest photo	grupo	alternativoj	prononco
+level	mian plej karan foton	mit kæreste foto	my dearest photo	grupo	alternativoj	prononco
+level	kie vi aĉetis ~ ?	hvor har du købt ~?	where did you buy ~ ?	grupo	alternativoj	prononco
+level	tiu vestaĵo	det tøj	that clothing	grupo	alternativoj	prononco
+level	tiun vestaĵon	det tøj (objektiv)	that clothing (objective)	grupo	alternativoj	prononco
+level	aĉetis tiun vestaĵon	købte det outfit	bought that outfit	grupo	alternativoj	prononco
+level	vi iros tien	du vil gå derhen	you will go there	grupo	alternativoj	prononco
+level	kien vi iros?	hvor skal du hen?	where are you going to?	grupo	alternativoj	prononco
+level	suna tago	solskinsdag	sunny day	grupo	alternativoj	prononco
+level	estos suna tago	det bliver en solskinsdag	it will be a sunny day	grupo	alternativoj	prononco
+level	se estos suna tago	hvis det bliver en solskinsdag	if it will be a sunny day	grupo	alternativoj	prononco
+level	via frato jam ekiris	din bror er allerede begyndt	your brother has already started	grupo	alternativoj	prononco
+level	ĉu via frato jam ekiris?	er din bror begyndt endnu?	has your brother started yet?	grupo	alternativoj	prononco
+level	kie estas la akvo?	hvor er vandet	where is the water	grupo	alternativoj	prononco
+level	kunporti la akvon	at bringe vandet	to bring the water	grupo	alternativoj	prononco
+level	vi mem kunportis	du selv bragte	you yourself brought	grupo	alternativoj	prononco
+level	la akvon, kion vi mem kunportis	vandet, som du selv bragte	the water, that you yourself brought	grupo	alternativoj	prononco
+level	estis tre trankvila	var meget stille	was very quiet	grupo	alternativoj	prononco
+level	hodiaŭ mia patrino estis ~	i dag var min mor ~	today my mother was ~	grupo	alternativoj	prononco
+level	mi venis el ~	Jeg kom fra ~	I came from ~	grupo	alternativoj	prononco
+level	el la lernejo	ud af skolen	out of the school	grupo	alternativoj	prononco
+level	raportis al ~	indberettet til ~	reported to ~	grupo	alternativoj	prononco
+level	kaj raportis al ŝi	og rapporterede til hende	and reported to her	grupo	alternativoj	prononco
+level	raportis, ke ~	rapporterede, at ~	reported that ~	grupo	alternativoj	prononco
+level	raportis, ke mi ricevos	meldt at jeg vil modtage	reported that I will receive	grupo	alternativoj	prononco
+level	mi ricevos malbonan noton	Jeg får en dårlig karakter	I will get a bad grade	grupo	alternativoj	prononco
+level	ŝi diris, ke ~	hun sagde, at ~	she said that ~	grupo	alternativoj	prononco
+level	vi devas laborigi ~	du skal få ~ til at fungere	you have to make ~ work	grupo	alternativoj	prononco
+level	pli multe	mere	more	grupo	alternativoj	prononco
+level	pli multe laborigi	at få arbejdet mere	to make work more	grupo	alternativoj	prononco
+level	laborigi vian kapon	at få dit hoved til at arbejde	to make your head work	grupo	alternativoj	prononco
+level	kiom da malbonaj notoj	hvor mange dårlige karakterer	how many bad grades	grupo	alternativoj	prononco
+level	vi havas tiom da malbonaj notoj	du har så mange dårlige karakterer	you have so many bad grades	grupo	alternativoj	prononco
+level	estis malĝoja	var trist	was sad	grupo	alternativoj	prononco
+level	en vian ĉambron	ind på dit værelse	into your room	grupo	alternativoj	prononco
+level	iru en vian ĉambron	gå ind på dit værelse	go into your room	grupo	alternativoj	prononco
+level	iru kaj lernu	gå og lær	go and learn	grupo	alternativoj	prononco
+level	mi sidis	Jeg sad	I sat	grupo	alternativoj	prononco
+level	en mia ĉambro	i mit værelse	in my room	grupo	alternativoj	prononco
+level	sidis en mia ĉambro	sad på mit værelse	sat in my room	grupo	alternativoj	prononco
+level	nek lerni nek legi	hverken lære eller læse	neither learn nor read	grupo	alternativoj	prononco
+level	sed mi povis nek lerni nek legi	men jeg kunne hverken lære eller læse	but I could neither learn nor read	grupo	alternativoj	prononco
+level	miaj pensoj	mine tanker	my thoughts	grupo	alternativoj	prononco
+level	ĉe ludo	ved et spil	at a game	grupo	alternativoj	prononco
+level	ludo kun miaj amikoj	spil med mine venner	game with my friends	grupo	alternativoj	prononco
+level	ĉe sporto	ved sport	at sport	grupo	alternativoj	prononco
+level	al mi mem	for mig selv	to myself	grupo	alternativoj	prononco
+level	diris al mi mem	sagde til mig selv	said to myself	grupo	alternativoj	prononco
+level	tiom malsaĝa	så dum	so stupid	grupo	alternativoj	prononco
+level	ĉu mi estas tiom malsaĝa?	er jeg så dum?	am I that stupid?	grupo	alternativoj	prononco
+level	kvankam mi lernis multe	selvom jeg lærte meget	although I learned a lot	grupo	alternativoj	prononco
+level	la patrino eniris	moderen kom ind	the mother entered	grupo	alternativoj	prononco
+level	miaj vortoj	mine ord	my words	grupo	alternativoj	prononco
+level	kaj aŭdis miajn vortojn	og hørte mine ord	and heard my words	grupo	alternativoj	prononco
+level	ŝi tuj respondis	svarede hun straks	she answered immediately	grupo	alternativoj	prononco
+level	ne, mia kara	Nej min skat	no, my dear	grupo	alternativoj	prononco
+level	vi ne estas malsaĝa	du er ikke dum	you are not stupid	grupo	alternativoj	prononco
+level	la problemo estas, ke ~	problemet er, at ~	the problem is that ~	grupo	alternativoj	prononco
+level	ke vi devas lerni	at du skal lære	that you must learn	grupo	alternativoj	prononco
+level	devas lerni multe pli	skal lære meget mere	must learn much more	grupo	alternativoj	prononco
+level	tiam vi ne havos	så vil du ikke have	then you will not have	grupo	alternativoj	prononco
+level	malbonaj notoj	Dårlige karakterer	bad grades	grupo	alternativoj	prononco
+level	havos nur malbonajn notojn	vil kun have dårlige karakterer	will have only bad grades	grupo	alternativoj	prononco
+level	ankaŭ nun	også nu	also now	grupo	alternativoj	prononco
+level	mi ne havas ilin	Jeg har dem ikke	I don't have them	grupo	alternativoj	prononco
+level	mi havas bonan noton	Jeg har en god karakter	I have a good grade	grupo	alternativoj	prononco
+level	pri muziko	om musik	about music	grupo	alternativoj	prononco
+level	bonan noton pri muziko	en god note om musik	a good note on music	grupo	alternativoj	prononco
+level	la patrino subite ekridis	moderen brød pludselig ud i latter	the mother suddenly burst out laughing	grupo	alternativoj	prononco
+level	tio plibeligis ~	der forskønnede ~	that beautified ~	grupo	alternativoj	prononco
+level	mian tagon	min dag	my day	grupo	alternativoj	prononco
+level	plibeligis mian tagon	reddede min dag	made my day	grupo	alternativoj	prononco
+level	sed tamen restis	men blev stadig	but still remained	grupo	alternativoj	prononco
+level	sed la problemo tamen restis	men problemet forblev stadig	but the problem still remained	grupo	alternativoj	prononco
+level	kilogramo da ~	et kilogram ~	a kilogram of ~	grupo	alternativoj	prononco
+level	kilogramo da sukero	et kilo sukker	a kilogram of sugar	grupo	alternativoj	prononco
+level	glaso da ~	et glas ~	a glass of ~	grupo	alternativoj	prononco
+level	glaso da akvo	et glas vand	a glass of water	grupo	alternativoj	prononco
+level	multe da ~	en masse ~	a lot of ~	grupo	alternativoj	prononco
+level	multe da ideoj	masser af ideer	lots of ideas	grupo	alternativoj	prononco
+level	deteni sin	at holde tilbage	to hold back	grupo	alternativoj	prononco
+level	ordigis ĉion	ordnede alt	sorted everything out	grupo	alternativoj	prononco
+level	transdonis al li	overgivet til ham	handed over to him	grupo	alternativoj	prononco
+level	mi petas	jeg spørger	I'm asking	grupo	alternativoj	prononco
+level	glason da kafo	et glas kaffe	a glass of coffee	grupo	alternativoj	prononco
+level	kaj iom da akvo	og lidt vand	and some water	grupo	alternativoj	prononco
+level	mi petas glason da kafo	Jeg vil gerne have et glas kaffe	I would like a glass of coffee	grupo	alternativoj	prononco
+level	mi petas tason da teo	Jeg vil gerne have en kop te	I would like a cup of tea	grupo	alternativoj	prononco
+level	doloris lin	såre ham	hurt him	grupo	alternativoj	prononco
+level	la kapo doloris lin	hans hoved gjorde ondt	his head hurt	grupo	alternativoj	prononco
+level	li malsaniĝis	han blev syg	he fell ill	grupo	alternativoj	prononco
+level	ŝatas esti bela	kan lide at være smuk	likes to be beautiful	grupo	alternativoj	prononco
+level	ŝi beligis sian vizaĝon	hun forskønnede sit ansigt	she beautified her face	grupo	alternativoj	prononco
+level	la knabo ŝatas esti bela	drengen kan lide at være smuk	the boy likes to be pretty	grupo	alternativoj	prononco
+level	pro tio ŝi beligis ĝin	derfor forskønnede hun den	therefore she beautified it	grupo	alternativoj	prononco
+level	post la tagmanĝo	efter frokost	after lunch	grupo	alternativoj	prononco
+level	purigi la kuirejon	at gøre køkkenet rent	to clean the kitchen	grupo	alternativoj	prononco
+level	kiu purigos la kuirejon?	hvem skal gøre køkkenet rent?	who will clean the kitchen?	grupo	alternativoj	prononco
+level	volas trinki	ønsker at drikke	wants to drink	grupo	alternativoj	prononco
+level	kion vi volas trinki?	hvad vil du drikke	what do you want to drink	grupo	alternativoj	prononco
+level	trinki teon	at drikke te	to drink tea	grupo	alternativoj	prononco
+level	iom da akvo	lidt vand	a little of water	grupo	alternativoj	prononco
+level	ĉu vi volas nenion?	vil du ingenting?	do you want nothing?	grupo	alternativoj	prononco
+level	tiel subite	så pludselig	so suddenly	grupo	alternativoj	prononco
+level	kial vi decidis ~ ?	hvorfor besluttede du dig ~ ?	why did you decide ~ ?	grupo	alternativoj	prononco
+level	kial vi tiel subite decidis ~ ?	hvorfor besluttede du dig ~ så pludselig?	why did you decide ~ so suddenly?	grupo	alternativoj	prononco
+level	via ĉambro	dit værelse	your room	grupo	alternativoj	prononco
+level	via ĉambreto	dit lille værelse	your little room	grupo	alternativoj	prononco
+level	vian ĉambreton	til dit lille værelse	to your little room	grupo	alternativoj	prononco
+level	renovigi vian ĉambreton	at renovere dit lille værelse	to renovate your little room	grupo	alternativoj	prononco
+level	decidis renovigi vian ĉambreton	besluttede at renovere dit lille værelse	decided to renovate your little room	grupo	alternativoj	prononco
+level	al kiu	til hvem	to whom	grupo	alternativoj	prononco
+level	vi donis ~	du gav ~	you gave ~	grupo	alternativoj	prononco
+level	al kiu vi donis ~ ?	til hvem gav du ~ ?	to whom did you give ~ ?	grupo	alternativoj	prononco
+level	puraj glasoj	rene glas	clean glasses	grupo	alternativoj	prononco
+level	vi donis la purajn glasojn	du gav de rene glas	you gave the clean glasses	grupo	alternativoj	prononco
+level	la puraj glasoj por la vino	de rene glas til vinen	the clean glasses for the wine	grupo	alternativoj	prononco
+level	kontraŭ kiu	mod hvem	against whom	grupo	alternativoj	prononco
+level	via sportklubo	din sportsklub	your sports club	grupo	alternativoj	prononco
+level	ludas kontraŭ ~	spiller mod ~	plays against ~	grupo	alternativoj	prononco
+level	antaŭ du semajnoj	to uger siden	two weeks ago	grupo	alternativoj	prononco
+level	kontraŭ kiu via sportklubo ludis?	hvem spillede din sportsklub imod?	who did your sports club play against?	grupo	alternativoj	prononco
+level	ĉu vi vidas ~ ?	ser du ~ ?	do you see ~ ?	grupo	alternativoj	prononco
+level	ĉu vi ofte vidas ~ ?	ser du ofte ~ ?	do you often see ~ ?	grupo	alternativoj	prononco
+level	ofte vidas la policiston	ser ofte politimanden	often see the policeman	grupo	alternativoj	prononco
+level	tiu, kiu loĝas en ~	den, der bor i ~	the one who lives in ~	grupo	alternativoj	prononco
+level	loĝas en la loĝejo	bor på overnatningsstedet	lives in the lodging place	grupo	alternativoj	prononco
+level	la loĝejo super vi	boligen over dig	the dwelling place above you	grupo	alternativoj	prononco
+level	vidas la policiston, kiu loĝas en ~	ser politibetjenten, der bor i ~	sees the police officer who lives in ~	grupo	alternativoj	prononco
+level	plano pri veturado	køreplan	driving plan	grupo	alternativoj	prononco
+level	volis vojaĝi	ville rejse	wanted to travel	grupo	alternativoj	prononco
+level	vojaĝi al alia lando	at rejse til et andet land	to travel to another country	grupo	alternativoj	prononco
+level	en libertempo	i fritiden	in free time	grupo	alternativoj	prononco
+level	ili decidis iri	de besluttede at gå	they decided to go	grupo	alternativoj	prononco
+level	decidis iri al Italio	besluttede at tage til Italien	decided to go to Italy	grupo	alternativoj	prononco
+level	malnovaj urboj	gamle byer	old cities	grupo	alternativoj	prononco
+level	lando kun malnovaj urboj	et land med gamle byer	a country with old cities	grupo	alternativoj	prononco
+level	aliaj belaĵoj	andre skønheder	other beauties	grupo	alternativoj	prononco
+level	kaj aliaj belaĵoj	og andre skønheder	and other beauties	grupo	alternativoj	prononco
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	et smukt land med gamle byer og andre skønheder	a beautiful country with old cities and other beauties	grupo	alternativoj	prononco
+level	ili estis feliĉaj	de var glade	they were happy	grupo	alternativoj	prononco
+level	kie estas ~ ?	hvor er ~?	where is ~ ?	grupo	alternativoj	prononco
+level	kie estas mia vestaĵo?	hvor er mit tøj	where are my clothes	grupo	alternativoj	prononco
+level	ŝi demandis ~	spurgte hun ~	she asked ~	grupo	alternativoj	prononco
+level	ni ne forgesu kunporti ~	lad os ikke glemme at bringe ~	let's not forget to bring ~	grupo	alternativoj	prononco
+level	kunporti la libron	at tage bogen med	to take the book with you	grupo	alternativoj	prononco
+level	libro por lerni Esperanton	en bog om at lære esperanto	a book to learn Esperanto	grupo	alternativoj	prononco
+level	kunporti libron por lerni	at bære en bog for at lære	to carry a book to learn	grupo	alternativoj	prononco
+level	ni povas komenci ~	vi kan starte ~	we can start ~	grupo	alternativoj	prononco
+level	en la vagonaro	i toget	in the train	grupo	alternativoj	prononco
+level	jam en la vagonaro	allerede i toget	already in the train	grupo	alternativoj	prononco
+level	ni nenion faros	vi vil ikke gøre noget	we won't do anything	grupo	alternativoj	prononco
+level	per aŭto	med bil	by car	grupo	alternativoj	prononco
+level	ni veturos per ~	vi kører forbi ~	we will drive by ~	grupo	alternativoj	prononco
+level	veturos per aŭto	vil køre bil	will drive a car	grupo	alternativoj	prononco
+level	mi havas sekreton	Jeg har en hemmelighed	I have a secret	grupo	alternativoj	prononco
+level	mia riĉa onklo	min rige onkel	my rich uncle	grupo	alternativoj	prononco
+level	mia deziro	mit ønske	my wish	grupo	alternativoj	prononco
+level	plenumis mian deziron	opfyldte mit ønske	fulfilled my wish	grupo	alternativoj	prononco
+level	donis al ni	gav os	gave us	grupo	alternativoj	prononco
+level	sian aŭton	hans bil	his car	grupo	alternativoj	prononco
+level	kaj donis al ni sian aŭton	og gav os sin bil	and gave us his car	grupo	alternativoj	prononco
+level	por uzo	til brug	for use	grupo	alternativoj	prononco
+level	ĝi staras antaŭ ~	det står foran ~	it stands before ~	grupo	alternativoj	prononco
+level	staras antaŭ la domo	står foran huset	stands in front of the house	grupo	alternativoj	prononco
+level	mi devas diri ~	Jeg må sige ~	I have to say ~	grupo	alternativoj	prononco
+level	nenion diru	ikke sige noget	don't say anything	grupo	alternativoj	prononco
+level	ni eksidu	lad os sætte os ned	let's sit down	grupo	alternativoj	prononco
+level	eksidu en la aŭton	gå ind i bilen	get in the car	grupo	alternativoj	prononco
+level	veturi al ~	at køre til ~	to drive to ~	grupo	alternativoj	prononco
+level	kaj veturu al Italio	og køre til Italien	and drive to Italy	grupo	alternativoj	prononco
+level	sidis en la aŭto	sad i bilen	sat in the car	grupo	alternativoj	prononco
+level	ankaŭ la vestaĵoj	også tøjet	also the clothes	grupo	alternativoj	prononco
+level	~ estis en la aŭto	~ var i bilen	~ was in the car	grupo	alternativoj	prononco
+level	ankoraŭ sidadis kaj atendis	sad stadig og ventede	still sat and waited	grupo	alternativoj	prononco
+level	sed li atendis	men han ventede	but he waited	grupo	alternativoj	prononco
+level	kial ni ne ~ ?	hvorfor gør vi ikke ~ ?	why don't we ~ ?	grupo	alternativoj	prononco
+level	kial ni ne ekveturas?	hvorfor begynder vi ikke at køre?	why don't we start driving?	grupo	alternativoj	prononco
+level	ankaŭ mi havas ~	Jeg har også ~	I have ~ too	grupo	alternativoj	prononco
+level	veturigus la aŭton	ville køre bilen	would drive the car	grupo	alternativoj	prononco
+level	sed mi ne scias ~	men jeg ved det ikke ~	but I don't know ~	grupo	alternativoj	prononco
+level	mi neniam lernis tion	Det har jeg aldrig lært	I never learned that	grupo	alternativoj	prononco
+level	mi kredus ~	Jeg vil tro ~	I would believe ~	grupo	alternativoj	prononco
+level	se mi estus sana	hvis jeg var rask	if I were healthy	grupo	alternativoj	prononco
+level	mi estus tre feliĉa	Jeg ville blive meget glad	I would be very happy	grupo	alternativoj	prononco
+level	kvazaŭ vi estus riĉulo	som om du var rig	as if you were rich	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ vi estus riĉulo	du sidder der, som om du var en rig mand	you sit there as if you were a rich man	grupo	alternativoj	prononco
+level	kvazaŭa lernejo	påstået skole	alleged school	grupo	alternativoj	prononco
+level	kvazaŭ riĉulo	som en rig mand	like a rich man	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ riĉulo	du sidder der som en rig mand	you sit there like a rich man	grupo	alternativoj	prononco
+level	tiom da mono	så mange penge	so much money	grupo	alternativoj	prononco
+level	tiom da mono kiom da ideoj	lige så mange penge som ideer	as much money as ideas	grupo	alternativoj	prononco
+level	se mi havus tiom da mono	hvis jeg havde så mange penge	if I had that much money	grupo	alternativoj	prononco
+level	mi vojaĝadus	Jeg ville rejse	I would travel	grupo	alternativoj	prononco
+level	ĉirkaŭ la mondo	jorden rundt	around the world	grupo	alternativoj	prononco
+level	en ĉiu vortaro	i enhver ordbog	in every dictionary	grupo	alternativoj	prononco
+level	mankas io	noget mangler	something is missing	grupo	alternativoj	prononco
+level	mankas kelkaj vortoj	nogle ord mangler	some words are missing	grupo	alternativoj	prononco
+level	homo, kiu longe parolis	en mand, der talte længe	a man who spoke at length	grupo	alternativoj	prononco
+level	ĉe la manĝotablo	ved spisebordet	at the dining table	grupo	alternativoj	prononco
+level	homo, kiu rakontas, restos malsata	en person, der fortæller, vil forblive sulten	a person who tells will remain hungry	grupo	alternativoj	prononco
+level	rakontadas ĉe la manĝo tablo	bliver ved med at fortælle ved spisebordet	keeps telling at the dining table	grupo	alternativoj	prononco
+level	li devis atenti ~	han måtte være opmærksom på ~	he had to pay attention to ~	grupo	alternativoj	prononco
+level	ne rajtis ~	fik ikke lov til ~	was not allowed to ~	grupo	alternativoj	prononco
+level	rajtis resti	fik lov til at blive	was allowed to stay	grupo	alternativoj	prononco
+level	ne rajtis longe resti	fik ikke lov til at blive længe	was not allowed to stay long	grupo	alternativoj	prononco
+level	resti ekstere en pluvo	at blive ude i regnen	to stay out in the rain	grupo	alternativoj	prononco
+level	tial li malvarmumis	det var derfor han blev forkølet	that's why he caught a cold	grupo	alternativoj	prononco
+level	li havas sian klaran ideon	han har sin egen klare idé	he has his own clear idea	grupo	alternativoj	prononco
+level	sed li kredos ĉion	men han vil tro alt	but he will believe everything	grupo	alternativoj	prononco
+level	ĉion, kion vi diros	hvad end du siger	whatever you say	grupo	alternativoj	prononco
+level	kvazaŭ vi estus lia edzino	som om du var hans kone	as if you were his wife	grupo	alternativoj	prononco
+level	viaj gepatroj	dine forældre	your parents	grupo	alternativoj	prononco
+level	ĝojigi viajn gepatrojn	at gøre dine forældre glade	to make your parents happy	grupo	alternativoj	prononco
+level	kio povus ĝojigi ~ ?	hvad kunne behage ~ ?	what could please ~ ?	grupo	alternativoj	prononco
+level	kio povus plej ĝojigi viajn gepatrojn?	hvad kunne gøre dine forældre mest glade?	what could make your parents the most happy?	grupo	alternativoj	prononco
+level	post la lernado	efter læringen	after the learning	grupo	alternativoj	prononco
+level	almenaŭ post la lernado	i hvert fald efter læringen	at least after the learning	grupo	alternativoj	prononco
+level	en la urbocentron	ind til byens centrum	into the city center	grupo	alternativoj	prononco
+level	se vi irus kun mi	hvis du vil gå med mig	if you would go with me	grupo	alternativoj	prononco
+level	se vi irus kun mi en la urbocentron	hvis du vil gå i byen med mig	if you would go downtown with me	grupo	alternativoj	prononco
+level	kien vi dezirus vojaĝi?	hvor vil du gerne rejse?	where would you like to travel?	grupo	alternativoj	prononco
+level	se vi havus ~	hvis du havde ~	if you had ~	grupo	alternativoj	prononco
+level	sufiĉe da mono	penge nok	enough money	grupo	alternativoj	prononco
+level	se vi havus sufiĉe da mono kaj tempo	hvis du havde penge nok og vikar	if you had enough money and temp	grupo	alternativoj	prononco
+level	ĉu vi planas ~ ?	planlægger du at ~ ?	are you planning to ~ ?	grupo	alternativoj	prononco
+level	planas veturi al Parizo	planlægger at rejse til Paris	plans to travel to Paris	grupo	alternativoj	prononco
+level	veturi per aŭto	at køre med en axuto	to drive with an axuto	grupo	alternativoj	prononco
+level	multe pli bone	meget bedre	much better	grupo	alternativoj	prononco
+level	ŝajnas multe pli bone	virker meget bedre	seems much better	grupo	alternativoj	prononco
+level	per vagonaro	med tog	by train	grupo	alternativoj	prononco
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	eller ser det ikke ud til at være meget bedre?	or doesn't it seem to be much better?	grupo	alternativoj	prononco
+level	diversaj homoj	forskellige mennesker	various people	grupo	alternativoj	prononco
+level	kial homoj klarigas diversmaniere?	hvorfor forklarer folk på forskellige måder?	why do people explain in different ways?	grupo	alternativoj	prononco
+level	samaj ideoj	samme ideer	same ideas	grupo	alternativoj	prononco
+level	klarigas samajn ideojn	forklarer de samme ideer	explains the same ideas	grupo	alternativoj	prononco
+level	familianoj kunvenas	familiemedlemmer mødes	family members get together	grupo	alternativoj	prononco
+level	kiel rapide	hvor hurtigt	how quickly	grupo	alternativoj	prononco
+level	tagoj pasas	dage går	days pass	grupo	alternativoj	prononco
+level	kiel rapide pasas tagoj!	hvor går dagene hurtigt!	how quickly the days pass!	grupo	alternativoj	prononco
+level	morgaŭ estos ~	i morgen vil være ~	tomorrow will be ~	grupo	alternativoj	prononco
+level	la naskiĝtago de via patro	din fars fødselsdag	your father's birthday	grupo	alternativoj	prononco
+level	kelkaj familianoj	flere familiemedlemmer	several family members	grupo	alternativoj	prononco
+level	alvenos kelkaj familianoj	flere familiemedlemmer kommer	several family members will come	grupo	alternativoj	prononco
+level	kaj geamikoj	og venner	and friends	grupo	alternativoj	prononco
+level	ĉu vi bonvolus ~ ?	vil du venligst ~ ?	would you please ~ ?	grupo	alternativoj	prononco
+level	ĉu vi bonvolus iom helpi?	kan du hjælpe lidt?	could you please help a little?	grupo	alternativoj	prononco
+level	iomete da tempo	et kort øjeblik	a little while	grupo	alternativoj	prononco
+level	trovu iomete da tempo	finde lidt tid	find a little time	grupo	alternativoj	prononco
+level	por ordigi vian ĉambron	at rydde op på dit værelse	to tidy your room	grupo	alternativoj	prononco
+level	almenaŭ por ordigi vian ĉambron	i det mindste for at rydde op på dit værelse	at least to tidy your room	grupo	alternativoj	prononco
+level	mi ŝatus ~	Jeg vil gerne ~	I would like ~	grupo	alternativoj	prononco
+level	mi ŝatus kuiri ion	Jeg vil gerne lave noget	I would like to cook something	grupo	alternativoj	prononco
+level	ion bonan	noget godt	something good	grupo	alternativoj	prononco
+level	kuiri ion bonan	lave noget godt	cook something good	grupo	alternativoj	prononco
+level	por la naskiĝ-taga kuko	til fødselsdagskagen	for the birthday cake	grupo	alternativoj	prononco
+level	mankas lakto	mangler mælk	is lacking of milk	grupo	alternativoj	prononco
+level	en la hejmo	i hjemmet	in the home	grupo	alternativoj	prononco
+level	necesas havigi ~	det er nødvendigt at anskaffe ~	it is necessary to procure ~	grupo	alternativoj	prononco
+level	iom da manĝaĵo	noget mad	some food	grupo	alternativoj	prononco
+level	el vendejo	fra en butik	from a store	grupo	alternativoj	prononco
+level	havigi iom da manĝaĵo el vendejo	at få noget mad fra et gemmested	to get some food from a hideout	grupo	alternativoj	prononco
+level	mi aĉetumos	Jeg vil shoppe	I will do shopping	grupo	alternativoj	prononco
+level	por la naskiĝtago	til fødselsdagen	for the birthday	grupo	alternativoj	prononco
+level	anstataŭ sidi kaj manĝegi	i stedet for at sidde og spise	instead of sitting and eating	grupo	alternativoj	prononco
+level	interesaj homoj	interessante mennesker	interesting people	grupo	alternativoj	prononco
+level	kun neinteresaj familianoj	med uinteressante familiemedlemmer	with uninteresting family members	grupo	alternativoj	prononco
+level	mi ŝatus ekskursi	Jeg vil gerne på picnic	I would like to go on a picnic	grupo	alternativoj	prononco
+level	kun klubanoj	med klubbens medlemmer	with club members	grupo	alternativoj	prononco
+level	kun kiuj klubanoj?	med hvilke klubmedlemmer?	with which club members?	grupo	alternativoj	prononco
+level	diris la patro	sagde faderen	said the father	grupo	alternativoj	prononco
+level	ia papero, iaj paperoj	en slags papir, en slags papirer	some kind of paper, some kind of papers	grupo	alternativoj	prononco
+level	en paperujo	i en mappe	in a briefcase	grupo	alternativoj	prononco
+level	en paperujon	i en papirspand	into a paper bin	grupo	alternativoj	prononco
+level	ĵetis paperojn en paperujon	smed papirer i en papirspand	threw papers into a paper bin	grupo	alternativoj	prononco
+level	ĵetis iajn paperojn en paperujon	smed nogle papirer i en papirspand	threw some papers into a paper bin	grupo	alternativoj	prononco
+level	morgaŭ frue	tidligt i morgen	early tomorrow	grupo	alternativoj	prononco
+level	anoj de mia sporta klubo	medlemmer af min sportsklub	members of my sports club	grupo	alternativoj	prononco
+level	kara mia	min kære	my dear	grupo	alternativoj	prononco
+level	ĉu ĝuste ~ ?	er det rigtigt?	is that right?	grupo	alternativoj	prononco
+level	vi devas foresti	du skal være fraværende	you must be absent	grupo	alternativoj	prononco
+level	ĉu vi ne ~ ?	gør du ikke ~ ?	don't you ~ ?	grupo	alternativoj	prononco
+level	viaj samklubanoj	dine medklubmedlemmer	your fellow club members	grupo	alternativoj	prononco
+level	intervidiĝas kun viaj samklubanoj	ser hinanden med dine medklubmedlemmer	sees each other with your fellow club members	grupo	alternativoj	prononco
+level	trifoje semajne	tre gange om ugen	three times a week	grupo	alternativoj	prononco
+level	ĉu mi rajtas ~ ?	må jeg ~ ?	may I ~ ?	grupo	alternativoj	prononco
+level	rajtas ion proponi	har ret til at foreslå noget	has the right to propose something	grupo	alternativoj	prononco
+level	mi kunmanĝos kun la familianoj	Jeg spiser sammen med familiemedlemmerne	I will eat with the family members	grupo	alternativoj	prononco
+level	sed en la dua parto	men i anden del	but in the second part	grupo	alternativoj	prononco
+level	mi foriros kun miaj geamikoj	Jeg vil gå med mine venner	I will go with my friends	grupo	alternativoj	prononco
+level	parolos pri ~	vil tale om ~	will talk about ~	grupo	alternativoj	prononco
+level	malsukcesa veturado	et mislykket drev	a failed drive	grupo	alternativoj	prononco
+level	certe parolos pri la malsukcesa veturado	vil helt sikkert tale om det fejlslagne drev	will definitely talk about the failed drive	grupo	alternativoj	prononco
+level	post la kuko	efter kagen	after the cake	grupo	alternativoj	prononco
+level	mi ne plu volas tion	Det gider jeg ikke længere	I don't want that anymore	grupo	alternativoj	prononco
+level	volas tion aŭdi	ønsker at høre det	wants to hear that	grupo	alternativoj	prononco
+level	kial ni ne havas ~ ?	hvorfor har vi ikke ~ ?	why don't we have ~ ?	grupo	alternativoj	prononco
+level	ideoriĉa onklo	en idérig onkel	an idea-rich uncle	grupo	alternativoj	prononco
+level	havas iun ideoriĉan onklon	har en idérig onkel	has some idea rich uncle	grupo	alternativoj	prononco
+level	en mia familio	i min familie	in my family	grupo	alternativoj	prononco
+level	la patrino ridetis	moren smilede	the mother smiled	grupo	alternativoj	prononco
+level	je liaj vortoj	ved hans ord	at his words	grupo	alternativoj	prononco
+level	ŝi scias, ke ~	hun ved det ~	she knows that ~	grupo	alternativoj	prononco
+level	iom tro parolas	taler lidt for meget	talks a little too much	grupo	alternativoj	prononco
+level	ne sufiĉas nur ~	det er ikke nok bare ~	it's not enough just ~	grupo	alternativoj	prononco
+level	riĉeco de la ideoj	rigdom af ideer	wealth of ideas	grupo	alternativoj	prononco
+level	necesas ankaŭ ~	~ er også nødvendig	~ is also needed	grupo	alternativoj	prononco
+level	plena monujo por realigi ĝin	en fuld tegnebog for at få det til at ske	a full wallet to make it happen	grupo	alternativoj	prononco
+level	la patrino daŭrigis ~	moderen fortsatte ~	the mother continued ~	grupo	alternativoj	prononco
+level	post iom da silento	efter lidt stilhed	after a little silence	grupo	alternativoj	prononco
+level	antaŭ kelkaj minutoj	et par minutter siden	a few minutes ago	grupo	alternativoj	prononco
+level	Ana telefonis, ke ŝi ~	Ana kaldte det hun ~	Ana called that she ~	grupo	alternativoj	prononco
+level	ankaŭ ŝi vizitos nin	hun vil også besøge os	she will also visit us	grupo	alternativoj	prononco
+level	dolĉa kuko	en sød kage	a sweet cake	grupo	alternativoj	prononco
+level	ŝi tre ŝatas dolĉan kukon	hun kan virkelig godt lide sød kage	she really likes sweet cake	grupo	alternativoj	prononco
+level	atentas por ne dikiĝi	er opmærksom på ikke at blive tyk	is careful not to get fat	grupo	alternativoj	prononco
+level	kvankam ŝi atentos	selvom hun vil være opmærksom	although she will pay attention	grupo	alternativoj	prononco
+level	tuj ŝanĝis la opinion	ombestemte sig straks	immediately changed the mind	grupo	alternativoj	prononco
+level	dum la ekskurso	under udflugten	during the excursion	grupo	alternativoj	prononco
+level	sen ŝi	uden hende	without her	grupo	alternativoj	prononco
+level	li estus tre soleca	han ville være meget ensom	he would be very lonely	grupo	alternativoj	prononco
+level	mi tamen pasigos	Jeg vil dog bestå	I will pass though	grupo	alternativoj	prononco
+level	mi tamen pasigos la morgaŭan tagon hejme	Jeg vil dog tilbringe i morgen hjemme	I will spend tomorrow at home though	grupo	alternativoj	prononco
+level	en juneco	i ungdommen	in youth	grupo	alternativoj	prononco
+level	oni havas	man har	one has	grupo	alternativoj	prononco
+level	havas ankaŭ belecon	har også skønhed	also has beauty	grupo	alternativoj	prononco
+level	malsimplaj laboroj	komplicerede jobs	complicated jobs	grupo	alternativoj	prononco
+level	malsimplajn laborojn	komplicerede job (mål)	complicated jobs (objective)	grupo	alternativoj	prononco
+level	devus plisimpligi	bør forenkle	should simplify	grupo	alternativoj	prononco
+level	en tiu aĝo	i den alder	at that age	grupo	alternativoj	prononco
+level	li jam fariĝis ~	han er allerede blevet ~	he has already become ~	grupo	alternativoj	prononco
+level	estro de la sporta klubo	leder af sportsklubben	head of the sports club	grupo	alternativoj	prononco
+level	monon oni metas	man sætter penge	one puts money	grupo	alternativoj	prononco
+level	en monujon	ind i en tegnebog	into a wallet	grupo	alternativoj	prononco
+level	metas en monujon	lægger i en pung	puts in a purse	grupo	alternativoj	prononco
+level	sekvu la ekzemplojn	følg eksemplerne	follow the examples	grupo	alternativoj	prononco
+level	de la bonaj familianoj	fra de gode familiemedlemmer	from the good family members	grupo	alternativoj	prononco
+level	ĉu amikeco pli feliĉigas?	gør venskab dig gladere?	does friendship make you happier?	grupo	alternativoj	prononco
+level	feliĉigas vin	gør dig glad	makes you happy	grupo	alternativoj	prononco
+level	ol la amo	end kærligheden	than the love	grupo	alternativoj	prononco
+level	kiel ofte vi ~ ?	hvor ofte gør du ~ ?	how often do you ~ ?	grupo	alternativoj	prononco
+level	vi skribas leterojn al ~	du skriver breve til ~	you write letters to ~	grupo	alternativoj	prononco
+level	skrivas leterojn al viaj amikinoj	skriver breve til dine veninder	writes letters to your girl friends	grupo	alternativoj	prononco
+level	viaj amikinoj en Italio	dine veninder i Italien	your girl friends in Italy	grupo	alternativoj	prononco
+level	la rilato inter vi kaj via instruisto	forholdet mellem dig og din lærer	the relation between you and your teacher	grupo	alternativoj	prononco
+level	ĉu la rilato ŝanĝiĝis?	har forholdet ændret sig?	has the relationship changed?	grupo	alternativoj	prononco
+level	ĉu vi jam scias ~ ?	ved du allerede ~ ?	do you already know ~ ?	grupo	alternativoj	prononco
+level	sufiĉe bone	ret godt	quite well	grupo	alternativoj	prononco
+level	estis vespero en ~	det var aften i ~	it was evening in ~	grupo	alternativoj	prononco
+level	centoj da homoj	hundredvis af mennesker	hundreds of people	grupo	alternativoj	prononco
+level	plenigas la placon	fylder firkanten	fills the square	grupo	alternativoj	prononco
+level	junuloj kaj militistoj	unge mænd og soldater	young men and soldiers	grupo	alternativoj	prononco
+level	maristoj de sur la ŝipoj	søfolk fra skibene	sailors from the ships	grupo	alternativoj	prononco
+level	elstara sinjorino	fremragende dame	outstanding lady	grupo	alternativoj	prononco
+level	elstaraj sinjorinoj	fremragende damer	outstanding ladies	grupo	alternativoj	prononco
+level	alilandaj vojaĝantoj	udenlandske rejsende	foreign travelers	grupo	alternativoj	prononco
+level	ĉiuj moviĝas al urbomezo	alle flytter til bymidten	everyone is moving to the city center	grupo	alternativoj	prononco
+level	iom plue	lidt længere	a little further	grupo	alternativoj	prononco
+level	ne malproksime de la maro	ikke langt fra havet	not far from the sea	grupo	alternativoj	prononco
+level	troviĝis malgranda placo	der var en lille plads	there was a small square	grupo	alternativoj	prononco
+level	iom plue sed ne malproksime	lidt længere, men ikke langt	a little further but not far	grupo	alternativoj	prononco
+level	fine de ĝi	i slutningen af det	at the end of it	grupo	alternativoj	prononco
+level	proksime de la maro	nær havet	near the sea	grupo	alternativoj	prononco
+level	proksime staris homo	en mand stod i nærheden	a man stood nearby	grupo	alternativoj	prononco
+level	laŭ la vestaĵo	ifølge tøjet	according to the clothing	grupo	alternativoj	prononco
+level	oni facile scii ~	man kan let vide ~	one may know easily ~	grupo	alternativoj	prononco
+level	oni povis ekscii, ke ~	det var muligt at finde ud af, at ~	it was possible to find out that ~	grupo	alternativoj	prononco
+level	gondolisto de iu riĉulo	en rigmands gondolier	a rich man's gondolier	grupo	alternativoj	prononco
+level	povis ekscii, ke li estas gondolisto	kunne finde ud af, at han var en gondolier	could find out that he was a gondolier	grupo	alternativoj	prononco
+level	li rigardis ~	han så ~	he looked ~	grupo	alternativoj	prononco
+level	rigardis la ĝojan hommulton	så på den glade skare	looked at the joyful crowd	grupo	alternativoj	prononco
+level	rideto lumigis lian vizaĝon	et smil lyste op på hans ansigt	a smile lit up his face	grupo	alternativoj	prononco
+level	kiam li ekvidis mariston	da han så en sømand	when he saw a sailor	grupo	alternativoj	prononco
+level	la mariston, kiu alvenis	sømanden, der ankom	the sailor who arrived	grupo	alternativoj	prononco
+level	la flanko de la maro	siden af havet	the side of the sea	grupo	alternativoj	prononco
+level	alvenis el la flanko de la maro	ankommet fra siden af havet	arrived from the side of the sea	grupo	alternativoj	prononco
+level	ĉu tio estas vi, Stefano?	er det dig, Stephen?	is that you, Stephen?	grupo	alternativoj	prononco
+level	ekkriis la gondolisto	udbrød gondolieren	exclaimed the gondolier	grupo	alternativoj	prononco
+level	ĉiuj diras, ke ~	alle siger det ~	everyone says that ~	grupo	alternativoj	prononco
+level	en la manojn de la Turkoj	i hænderne på tyrkerne	into the hands of the Turks	grupo	alternativoj	prononco
+level	ke vi falis en la manojn de la Turkoj	at du faldt i tyrkernes hænder	that you fell into the hands of the Turks	grupo	alternativoj	prononco
+level	ni renkontis unu	vi mødte en	we met one	grupo	alternativoj	prononco
+level	el niaj ŝipoj	fra vores skibe	from our ships	grupo	alternativoj	prononco
+level	ĝi sekvis nin	den fulgte os	it followed us	grupo	alternativoj	prononco
+level	dum pli ol unu horo	i mere end en time	for more than an hour	grupo	alternativoj	prononco
+level	sed ne estas facile iri ~	men det er ikke let at gå ~	but it is not easy to go ~	grupo	alternativoj	prononco
+level	iri pli rapide ol nia ŝipo	at gå hurtigere end vores skib	to go faster than our ship	grupo	alternativoj	prononco
+level	kiaj novaĵoj estas tie ĉi?	hvilke nyheder er her?	what news is here?	grupo	alternativoj	prononco
+level	tie ĉi en Venecio	her i Venedig	here in Venice	grupo	alternativoj	prononco
+level	nenio interesa	intet interessant	nothing interesting	grupo	alternativoj	prononco
+level	nur granda malfeliĉo	bare en stor ulykke	just a big misfortune	grupo	alternativoj	prononco
+level	ĉu vi konas Pietron?	kender du Pietro?	do you know Pietro?	grupo	alternativoj	prononco
+level	mi konas lin	Jeg kender ham	I know him	grupo	alternativoj	prononco
+level	granda ŝipo subakvigis lian gondolon	et stort skib nedsænkede hans gondol	a large ship submerged his gondola	grupo	alternativoj	prononco
+level	kaj kio pri li?	og hvad med ham?	and what about him?	grupo	alternativoj	prononco
+level	la gondolo subakviĝis	gondolen sank	the gondola sank	grupo	alternativoj	prononco
+level	okazis, ke ~	det skete, at ~	it happened that ~	grupo	alternativoj	prononco
+level	ni troviĝis proksime	vi var tæt på	we were close	grupo	alternativoj	prononco
+level	ni prenis lin en nian gondolon	vi tog ham i vores gondol	we took him in our gondola	grupo	alternativoj	prononco
+level	en la sama tempo	på samme tid	at the same time	grupo	alternativoj	prononco
+level	mia estro subakviĝis	min chef druknede	my boss drowned	grupo	alternativoj	prononco
+level	por helpi junulinon	at hjælpe en ung kvinde	to help a young woman	grupo	alternativoj	prononco
+level	junulinon, kiu preskaŭ mortis	en ung kvinde, der næsten døde	a young woman who almost died	grupo	alternativoj	prononco
+level	kun sia onklo	med sin onkel	with his uncle	grupo	alternativoj	prononco
+level	preskaŭ mortis kun sia onklo	døde næsten sammen med sin onkel	almost died with his uncle	grupo	alternativoj	prononco
+level	tie estis junulino	der var en ung kvinde	there was a young woman	grupo	alternativoj	prononco
+level	lin ni ne povis helpi	vi kunne ikke hjælpe ham	we could not help him	grupo	alternativoj	prononco
+level	estis grava homo	var en vigtig person	was an important person	grupo	alternativoj	prononco
+level	kio alvenigis vin en Venecion?	hvad bragte dig til Venedig?	what brought you to Venice?	grupo	alternativoj	prononco
+level	amiko mia	min ven	my friend	grupo	alternativoj	prononco
+level	la maristo ekrigardis	sømanden så op	the sailor looked up	grupo	alternativoj	prononco
+level	rapide ekrigardis sian amikon	kiggede hurtigt på sin ven	quickly glanced at his friend	grupo	alternativoj	prononco
+level	kaj komencis diri	og begyndte at sige	and began to say	grupo	alternativoj	prononco
+level	do vi scias ~	så du ved ~	so you know ~	grupo	alternativoj	prononco
+level	mi alportis ~	Jeg bragte ~	I brought ~	grupo	alternativoj	prononco
+level	la gondolisto subite haltigis lin	gondolieren stoppede ham pludselig	the gondolier suddenly stopped him	grupo	alternativoj	prononco
+level	li diris	han sagde	he said	grupo	alternativoj	prononco
+level	tiam iu homo pasis	så gik en mand forbi	then a man passed by	grupo	alternativoj	prononco
+level	iu homo pasis apud li	en mand gik forbi ham	a man passed by him	grupo	alternativoj	prononco
+level	li ankoraŭ ne estis tridekjara	han var endnu ikke tredive	he was not yet thirty	grupo	alternativoj	prononco
+level	kaj lia vizaĝo estis senkolora	og hans ansigt var farveløst	and his face was colorless	grupo	alternativoj	prononco
+level	lia iro estis certa kaj facila	hans gang var sikker og let	his going was sure and easy	grupo	alternativoj	prononco
+level	lia vizaĝo estis malĝoja	hans ansigt var trist	his face was sad	grupo	alternativoj	prononco
+level	kiam li ekvidis la homon, ~	da han så manden, ~	when he saw the man, ~	grupo	alternativoj	prononco
+level	oni diras, ke ~	det siges, at ~	it is said that ~	grupo	alternativoj	prononco
+level	multaj gravuloj donas ~	mange vigtige mennesker giver ~	many important people give ~	grupo	alternativoj	prononco
+level	sekreta laboro	hemmeligt arbejde	secret work	grupo	alternativoj	prononco
+level	sekretaj laboroj	hemmelige job	secret jobs	grupo	alternativoj	prononco
+level	donas sekretajn laborojn al li	giver ham hemmelige job	gives secret jobs to him	grupo	alternativoj	prononco
+level	tro da sekretoj	for mange hemmeligheder	too many secrets	grupo	alternativoj	prononco
+level	li scias tro da sekretoj	han kender for mange hemmeligheder	he knows too many secrets	grupo	alternativoj	prononco
+level	tial ili timas	derfor er de bange	therefore they are afraid	grupo	alternativoj	prononco
+level	sendi lin en malliberejon	at sende ham i fængsel	to send him to prison	grupo	alternativoj	prononco
+level	diris la maristo	sagde sømanden	said the sailor	grupo	alternativoj	prononco
+level	kaj dum li parolis	og som han talte	and as he spoke	grupo	alternativoj	prononco
+level	li montris la domegon	han pegede på palæet	he pointed to the mansion	grupo	alternativoj	prononco
+level	la domego de Doĝoj	Doges palæ	the mansion of Doges	grupo	alternativoj	prononco
+level	multaj gravuloj bezonas lian helpon	mange vigtige mennesker har brug for hans hjælp	many important people need his help	grupo	alternativoj	prononco
+level	kiom ili pagas?	hvor meget betaler de?	how much they pay?	grupo	alternativoj	prononco
+level	pagas al li	betaler ham	pays him	grupo	alternativoj	prononco
+level	pagas por unu mortigo	betaler for et drab	pays for one kill	grupo	alternativoj	prononco
+level	certe ne malpli ol ~	bestemt ikke mindre end ~	certainly not less than ~	grupo	alternativoj	prononco
+level	ol cent moneroj	end hundrede mønter	than a hundred coins	grupo	alternativoj	prononco
+level	ne forgesu, ke ~	glem ikke at ~	don't forget that ~	grupo	alternativoj	prononco
+level	ke li laboras por tiuj	at han arbejder for dem	that he works for them	grupo	alternativoj	prononco
+level	por tiuj, kiuj havas sufiĉe da mono	for dem, der har penge nok	for those who have enough money	grupo	alternativoj	prononco
+level	por pagi al li	at betale ham	to pay him	grupo	alternativoj	prononco
+level	en Venecio estas ~	i Venedig er der ~	in Venice there is ~	grupo	alternativoj	prononco
+level	tiuj aferoj	disse ting	those things	grupo	alternativoj	prononco
+level	forgesi tiujn aferojn	at glemme de ting	to forget those things	grupo	alternativoj	prononco
+level	aferoj, kiujn estas pli bone forgesi	ting, der er bedre at glemme	things that are better forgotten	grupo	alternativoj	prononco
+level	se vi volas trankvile manĝi	hvis du vil spise i fred	if you want to eat in peace	grupo	alternativoj	prononco
+level	trankvile manĝi vian panon	at spise dit brød i fred	to eat your bread in peace	grupo	alternativoj	prononco
+level	estis iom da silento	der var en vis stilhed	there was some silence	grupo	alternativoj	prononco
+level	kaj poste	og senere	and later	grupo	alternativoj	prononco
+level	la gondolisto denove ekparolis	gondolieren talte igen	the gondolier spoke again	grupo	alternativoj	prononco
+level	vi venis ĝustatempe	du kom lige i tide	you came just in time	grupo	alternativoj	prononco
+level	por vidi ŝipkuron	at se et bådkapløb	to see a boat race	grupo	alternativoj	prononco
+level	iu diris malforte	sagde nogen svagt	someone said weakly	grupo	alternativoj	prononco
+level	proksime de la gondolisto	tæt på gondolieren	near the gondolier	grupo	alternativoj	prononco
+level	la estro de la urbo	byens borgmester	the mayor of the city	grupo	alternativoj	prononco
+level	senvorte montris al la gondolo	ordløst pegede på gondolen	wordlessly pointed to the gondola	grupo	alternativoj	prononco
+level	diris la gondolisto	sagde gondolieren	said the gondolier	grupo	alternativoj	prononco
+level	kaj prenis la manon de sia amiko	og tog sin vens hånd	and took his friend's hand	grupo	alternativoj	prononco
+level	ĵetas la paperon	smider papiret	throws the paper	grupo	alternativoj	prononco
+level	en la paperujon	i papirbakken	into the paper bin	grupo	alternativoj	prononco
+level	la knabinoj ĵetis la paperojn	pigerne smed papirerne	the girls threw the papers	grupo	alternativoj	prononco
+level	kie estas mia skribilo?	hvor er min pen	where is my pen	grupo	alternativoj	prononco
+level	mi volas respondi al li	Jeg vil gerne svare ham	I want to answer him	grupo	alternativoj	prononco
+level	la suno malaperis	solen forsvandt	the sun disappeared	grupo	alternativoj	prononco
+level	kaj nun estas preskaŭ malhele	og nu er det næsten mørkt	and now it is almost dark	grupo	alternativoj	prononco
+level	bonvolu manĝi	spis venligst	please eat	grupo	alternativoj	prononco
+level	bonvolu manĝi la panon	spis venligst brødet	please eat the bread	grupo	alternativoj	prononco
+level	per manĝiloj	med bestik	with cutlery	grupo	alternativoj	prononco
+level	pardonu min	undskyld mig	excuse me	grupo	alternativoj	prononco
+level	rajtas resti	får lov at blive	is allowed to stay	grupo	alternativoj	prononco
+level	mi ne rajtas resti	Jeg har ikke ret til at blive	I have no right to stay	grupo	alternativoj	prononco
+level	ĉu vi povas kunporti ~ ?	kan du medbringe ~ ?	can you bring ~ ?	grupo	alternativoj	prononco
+level	de mia fratino	fra min søster	from my sister	grupo	alternativoj	prononco
+level	kiam vi aĉetis ~ ?	hvornår købte du ~ ?	when did you buy ~ ?	grupo	alternativoj	prononco
+level	aĉetis tiun muzikilon	købte det musikinstrument	bought that musical instrument	grupo	alternativoj	prononco
+level	kiu laste uzis ?	hvem brugte sidst?	who used last?	grupo	alternativoj	prononco
+level	uzis mian ŝlosilon	brugte min nøgle	used my key	grupo	alternativoj	prononco
+level	ĉu vi veturis?	kørte du?	did you drive?	grupo	alternativoj	prononco
+level	en Venecio	i Venedig	in Venice	grupo	alternativoj	prononco
+level	ankaŭ per gondolo	også med gondol	also by gondola	grupo	alternativoj	prononco
+level	ĉu vi povos ekdormi?	vil du være i stand til at falde i søvn?	will you be able to fall asleep?	grupo	alternativoj	prononco
+level	tiam, kiam silentiĝis	derefter, når der var stille	then, when there was silence	grupo	alternativoj	prononco
+level	la sinjoro estis alta	herren var høj	the gentleman was tall	grupo	alternativoj	prononco
+level	alta, dika	høj, fed	tall, fat	grupo	alternativoj	prononco
+level	dika, peza	tyk, tung	thick, heavy	grupo	alternativoj	prononco
+level	peza kaj larĝa	tunge og store	heavy and large	grupo	alternativoj	prononco
+level	estis alta, dika, peza, kaj larĝa	var høj, tyk, tung og stor	was tall, thick, heavy, and large	grupo	alternativoj	prononco
+level	donis forton	gav styrke	gave strength	grupo	alternativoj	prononco
+level	havinda forto	en kraft, der er værd at have	a force worth having	grupo	alternativoj	prononco
+level	havinda korpoforto	fysisk styrke værd at have	physical strength worth having	grupo	alternativoj	prononco
+level	tio donis	der gav	that gave	grupo	alternativoj	prononco
+level	donis al li	gav ham	gave him	grupo	alternativoj	prononco
+level	tio donis forton	det gav styrke	that gave strength	grupo	alternativoj	prononco
+level	donis havindan korpoforton	gav kropsstyrke værd at have	gave body strength worth having	grupo	alternativoj	prononco
+level	lia aspekto	hans udseende	his appearance	grupo	alternativoj	prononco
+level	grandula aspekto	en høj persons udseende	appearance of a tall person	grupo	alternativoj	prononco
+level	eta rolo	en lille rolle	a small role	grupo	alternativoj	prononco
+level	ludis rolon	spillede en rolle	played a role	grupo	alternativoj	prononco
+level	ne eta rolo	ikke en lille rolle	not a small role	grupo	alternativoj	prononco
+level	ludis etan rolon	spillede en lille rolle	played a small role	grupo	alternativoj	prononco
+level	ludis ne etan rolon	spillede ikke ringe rolle	played no small role	grupo	alternativoj	prononco
+level	en la fakto, ke ~	i det faktum, at ~	in the fact that ~	grupo	alternativoj	prononco
+level	la plimulto el la homoj	flertallet af folket	the majority of the people	grupo	alternativoj	prononco
+level	se ne timis	hvis ikke bange	if not afraid	grupo	alternativoj	prononco
+level	lin timis	var bange for ham	was afraid of him	grupo	alternativoj	prononco
+level	se lin timis	hvis han var bange	if he was afraid	grupo	alternativoj	prononco
+level	se ne lin timis	hvis ikke er bange for ham	if not afraid of him	grupo	alternativoj	prononco
+level	certe respektis	bestemt respekteret	certainly respected	grupo	alternativoj	prononco
+level	almenaŭ pripensis ~	i det mindste tænkt på ~	at least thought about ~	grupo	alternativoj	prononco
+level	antaŭ ol ~	før ~	before ~	grupo	alternativoj	prononco
+level	kontentigi lin	at tilfredsstille ham	to satisfy him	grupo	alternativoj	prononco
+level	malkontentigi lin	at mishage ham	to displease him	grupo	alternativoj	prononco
+level	antaŭ ol malkontentigi ~	før utilfredsstillende ~	before dissatisfying ~	grupo	alternativoj	prononco
+level	antaŭ ol decidi ~	før du beslutter ~	before deciding ~	grupo	alternativoj	prononco
+level	decidi malkontentigi ~	at beslutte at mishage ~	to decide to displease ~	grupo	alternativoj	prononco
+level	decidi kontentigi lin	at beslutte at tilfredsstille ham	to decide to satisfy him	grupo	alternativoj	prononco
+level	antaŭ ol decidi malkontentigi lin	før han beslutter sig for at mishage ham	before deciding to displease him	grupo	alternativoj	prononco
+level	tio, kio estas utila	det, som er nyttigt	that, which is useful	grupo	alternativoj	prononco
+level	ofte utila dumtage	ofte nyttige i løbet af dagen	often useful during the day	grupo	alternativoj	prononco
+level	malplaĉa ĝeno	en ubehagelig gene	an unpleasant nuisance	grupo	alternativoj	prononco
+level	per si	af ham selv	by himself	grupo	alternativoj	prononco
+level	prezentas malplaĉan ĝenon	frembyder en ubehagelig gene	presents an unpleasant nuisance	grupo	alternativoj	prononco
+level	prezentas per si malplaĉan ĝenon	præsenterer sig selv som en ubehagelig gene	presents itself as an unpleasant nuisance	grupo	alternativoj	prononco
+level	en loko arboplena	på et sted fyldt med træer	in a place full of trees	grupo	alternativoj	prononco
+level	tiam, kiam oni devojiĝis	da, naar man gik vild	then, when one went astray	grupo	alternativoj	prononco
+level	en nehoma sovaĝejo	i en umenneskelig vildmark	in an inhuman wilderness	grupo	alternativoj	prononco
+level	kaj ekstervoje iraĉas	og går af vejen i kaos	and goes off the road in chaos	grupo	alternativoj	prononco
+level	alta larĝa korpo	en høj stor krop	a tall large body	grupo	alternativoj	prononco
+level	ne sukcesis pasi ~	undlod at bestå ~	failed to pass ~	grupo	alternativoj	prononco
+level	inter la arbetoj	blandt buskene	among the bushes	grupo	alternativoj	prononco
+level	krome tuŝi la naturaĵojn	ud over at røre ved de naturlige ting	in addition to touching the natural things	grupo	alternativoj	prononco
+level	ĝenerale malsekajn	generelt våde	generally wet	grupo	alternativoj	prononco
+level	meze de malsekaj naturaĵoj	midt i den våde natur	in the middle of wet nature	grupo	alternativoj	prononco
+level	malsekaj naturaĵoj, meze de kiuj ~	våde naturlige ting, i midten af hvilke ~	wet natural things, in the middle of which ~	grupo	alternativoj	prononco
+level	li malfacile paŝis	han gik med besvær	he walked with difficulty	grupo	alternativoj	prononco
+level	estis travivaĵo	det var en oplevelse	it was an experience	grupo	alternativoj	prononco
+level	ne malofte	ikke ualmindeligt	not uncommon	grupo	alternativoj	prononco
+level	doloriga kaj ĉiam malagrabla	smertefuldt og altid ubehageligt	painful and always unpleasant	grupo	alternativoj	prononco
+level	ju pli ~	jo flere ~	the more ~	grupo	alternativoj	prononco
+level	antaŭeniris en la vivo	kommet videre i livet	moved forward in life	grupo	alternativoj	prononco
+level	en la kastela arbaro	i slotsskoven	in the castle forest	grupo	alternativoj	prononco
+level	ju pli antaŭeniris des pli malŝatis ~	jo længere frem, jo mere mislikede ~	the further went forward the more disliked ~	grupo	alternativoj	prononco
+level	malŝatis la noktan naturon	kunne ikke lide den natlige natur	disliked the nocturnal nature	grupo	alternativoj	prononco
+level	viro kun okuloj bone videblaj	en mand med øjne, der kan ses klart	a man with eyes that can be seen clearly	grupo	alternativoj	prononco
+level	okuloj, kiuj kapablis bone vidi	øjne, der godt kunne se	eyes that could see well	grupo	alternativoj	prononco
+level	bone vidi en la mallumo	at se godt i mørket	to see well in the dark	grupo	alternativoj	prononco
+level	rigardis la malfacilan iron	så på det svære	looked at the difficult going	grupo	alternativoj	prononco
+level	de nia industriisto	fra vores industrimand	from our industrialist	grupo	alternativoj	prononco
+level	li ridetis	han smilede	he smiled	grupo	alternativoj	prononco
+level	apud tiu viro	ved siden af den mand	next to that man	grupo	alternativoj	prononco
+level	en vestaĵo de policano	i politimandstøj	in policeman's clothing	grupo	alternativoj	prononco
+level	staris alia persono	en anden person stod	another person was standing	grupo	alternativoj	prononco
+level	en simila vestaĵo	i lignende tøj	in similar clothing	grupo	alternativoj	prononco
+level	ĉi lasta estis virino	sidstnævnte var en kvinde	the latter was a woman	grupo	alternativoj	prononco
+level	ni iru	Lad os gå	let's go	grupo	alternativoj	prononco
+level	la viro diris mallaŭte	sagde manden sagte	the man said softly	grupo	alternativoj	prononco
+level	en la orelon de sia kunulino	i øret på sin ledsager	into the ear of his companion	grupo	alternativoj	prononco
+level	nun estas la ĝusta momento	nu er det rigtige tidspunkt	now is the right moment	grupo	alternativoj	prononco
+level	ambaŭ paŝis direkte al la persono	begge trådte hen til personen	both stepped toward the person	grupo	alternativoj	prononco
+level	ili zorgis fari ~	de var omhyggelige med at gøre ~	they were careful to do ~	grupo	alternativoj	prononco
+level	kiel eble plej ~	så muligt som ~	as possible as ~	grupo	alternativoj	prononco
+level	kiel eble plej malmulte da bruo	så lidt støj som muligt (kiel eble)	as little noise as possible (kiel eble)	grupo	alternativoj	prononco
+level	laŭeble plej malmulte da bruo	så lidt støj som muligt (laŭeble)	as little noise as possible (laŭeble)	grupo	alternativoj	prononco
+level	ili preskaŭ plene sukcesis	det lykkedes næsten fuldt ud	they almost fully succeeded	grupo	alternativoj	prononco
+level	en ĉi tiu aĉa situacio	i denne grimme situation	in this nasty situation	grupo	alternativoj	prononco
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	en grim situation, hvor træer kastede deres grene	a nasty situation where trees threw their branches	grupo	alternativoj	prononco
+level	ĵetis siajn malsekajn branĉojn	kastede deres egne våde grene	threw their own wet branches	grupo	alternativoj	prononco
+level	rekte en la vizaĝojn	lige ind i ansigterne	straight into the faces	grupo	alternativoj	prononco
+level	de la industriisto	af industrimanden	of the industrialist	grupo	alternativoj	prononco
+level	multpiedaj bestetoj	flerfodede små væsner	multi-footed small creatures	grupo	alternativoj	prononco
+level	prenis liajn piedojn	tog hans fødder	took his feet	grupo	alternativoj	prononco
+level	por promenejo	til en vandrevej	for a walk road	grupo	alternativoj	prononco
+level	naturo faligis lian piedon	naturen fik hans fod til at falde	nature made his foot fallen	grupo	alternativoj	prononco
+level	plej dolorige	mest smertefuldt	most painfully	grupo	alternativoj	prononco
+level	faligis lian piedon en kavon	faldt sin fod ned i et hul	dropped his foot into a pit	grupo	alternativoj	prononco
+level	kavo plena de akvo	en grube fuld af vand	a pit full of water	grupo	alternativoj	prononco
+level	akvo aĉ-odora	ildelugtende vand	foul-smelling water	grupo	alternativoj	prononco
+level	rapide alvenis al la penso	kom hurtigt til tanken	quickly arrived at the thought	grupo	alternativoj	prononco
+level	oni devas esti preta	man skal være klar	one must be ready	grupo	alternativoj	prononco
+level	ĉi tie	her	here	grupo	alternativoj	prononco
+level	iu ajn ~	nogen ~	anyone ~	grupo	alternativoj	prononco
+level	preta por iu ajn malplaĉa renkonto	klar til ethvert ubehageligt møde	ready for any unpleasant encounter	grupo	alternativoj	prononco
+level	ion ajn	hvad som helst (hvad som helst)	anything (whatever)	grupo	alternativoj	prononco
+level	li atendis ion ajn	han ventede på noget	he was waiting for anything	grupo	alternativoj	prononco
+level	krom homa voĉo	bort fra den menneskelige stemme	aside human voice	grupo	alternativoj	prononco
+level	kiam voĉo aŭdiĝis, ~	når en stemme hørte, ~	when a voice heard, ~	grupo	alternativoj	prononco
+level	aŭdiĝis tuj proksime	høres straks tæt på	heard immediately close	grupo	alternativoj	prononco
+level	li faris belan surlokan salton	han lavede et flot spring på stedet	he made a nice on-site jump	grupo	alternativoj	prononco
+level	kiu movis lian koron	der rørte hans hjerte	who moved his heart	grupo	alternativoj	prononco
+level	supren ĝis la buŝo	opord til munden	upword to the mouth	grupo	alternativoj	prononco
+level	kun la provo rekapti trankvilon	med forsøget på at genvinde roen	with the attempt to recapture calm	grupo	alternativoj	prononco
+level	iom da trankvilo	lidt ro	a little tranquility	grupo	alternativoj	prononco
+level	la lumo de lampeto	lyset fra en lampe	the light of a lamp	grupo	alternativoj	prononco
+level	oni direktis rekte al liaj okuloj	nogen rettet direkte mod hans øjne	someone directed directly to his eyes	grupo	alternativoj	prononco
+level	la lampo, kiun oni direktis al okuloj	lampen, som nogen rettede mod øjnene	the lamp which someone directed to eyes	grupo	alternativoj	prononco
+level	malhelpis repaciĝon	forhindret forsoning	prevented reconciliation	grupo	alternativoj	prononco
+level	ŝajnis al li, ke ~	det forekom ham, at ~	it seemed to him that ~	grupo	alternativoj	prononco
+level	la homformo, kiu tenis la lampon	den menneskelige form, der holdt lampen	the human form that held the lamp	grupo	alternativoj	prononco
+level	surhavas vestojn policajn	bære tøj politiet	wear clothes police	grupo	alternativoj	prononco
+level	kion vi faras ĉi tie?	hvad laver du her?	what are you doing here?	grupo	alternativoj	prononco
+level	sonas la aŭtorita voĉo	lyder den autoritative stemme	sounds the authoritative voice	grupo	alternativoj	prononco
+level	bonvolu paroli ~	tal venligst ~	please talk ~	grupo	alternativoj	prononco
+level	iom klare	lidt klart	a little clear	grupo	alternativoj	prononco
+level	la alia diris	sagde den anden	the other said	grupo	alternativoj	prononco
+level	eĉ pli grav-tone	i endnu vigtigere tone	in even more important-tone	grupo	alternativoj	prononco
+level	mi promenas	Jeg går	I'm walking	grupo	alternativoj	prononco
+level	vi promenas en la bieno	du går på gården	you walk on the farm	grupo	alternativoj	prononco
+level	de la grafino	af grevinden	of the countess	grupo	alternativoj	prononco
+level	la bieno de la grafino	grevindens gård	the countess's farm	grupo	alternativoj	prononco
+level	meze de la nokto	midt om natten	in the middle of the night	grupo	alternativoj	prononco
+level	ĉu la grafino vin invitis?	inviterede grevinden dig?	did the countess invite you?	grupo	alternativoj	prononco
+level	ĉu ŝi scias pri ~	kender hun til ~	does she know about ~	grupo	alternativoj	prononco
+level	pri via ĉeesto	om din tilstedeværelse	about your presence	grupo	alternativoj	prononco
+level	via ĉeesto ĉi tie	din tilstedeværelse her	your presence here	grupo	alternativoj	prononco
+level	mi devas peti vin ~	Jeg er nødt til at spørge dig ~	I have to ask you ~	grupo	alternativoj	prononco
+level	petas vin sekvi min	beder dig følge mig	asks you to follow me	grupo	alternativoj	prononco
+level	kaj li klarigis ~	og han forklarede ~	and he explained ~	grupo	alternativoj	prononco
+level	klarigis, ke ~	forklarede, at ~	explained that ~	grupo	alternativoj	prononco
+level	ekde la fuŝa provo	siden det forkerte forsøg	since the wrong attempt	grupo	alternativoj	prononco
+level	la fuŝa provo kapti la grafinon	det forkerte forsøg på at fange grevinden	the wrong attempt to catch the countess	grupo	alternativoj	prononco
+level	fare de ~	på grund af ~	due to ~	grupo	alternativoj	prononco
+level	fare de teroristoj	på grund af terrorister	due to terrorists	grupo	alternativoj	prononco
+level	la polico kontrolas atente	politiet tjekker nøje	the police checks carefully	grupo	alternativoj	prononco
+level	kontrolas, kio okazas	tjekker hvad der sker	checks what is happening	grupo	alternativoj	prononco
+level	okazas en la ĉirkaŭaĵo	forekommer i omgivelserne	occurs in the surrounding	grupo	alternativoj	prononco
+level	de la kastelo	af slottet	of the castle	grupo	alternativoj	prononco
+level	la ĉirkaŭaĵo de la kastelo	slottets omgivelser	the surrounding of the castle	grupo	alternativoj	prononco
+level	al la industriisto	til industrimanden	to the industrialist	grupo	alternativoj	prononco
+level	ŝajnis, ke ~	det så ud til, at ~	it seemed that ~	grupo	alternativoj	prononco
+level	lia koro ĉifoje falis	hans hjerte faldt denne gang	his heart fell this time	grupo	alternativoj	prononco
+level	falis ĝis liaj piedoj	faldt på fødderne	fell to his feet	grupo	alternativoj	prononco
+level	li sciis, ke ~	han vidste, at ~	he knew that ~	grupo	alternativoj	prononco
+level	nur malfacile li provos trovi ~	bare svært vil han prøve at finde	just hard he'll try to find	grupo	alternativoj	prononco
+level	trovi akcepteblan klarigon	at finde en acceptabel forklaring	to find an acceptable explanation	grupo	alternativoj	prononco
+level	pri sia ĉeesto	om ens egen tilstedeværelse	about one's own presence	grupo	alternativoj	prononco
+level	la ideo, ke la grafino ĉion scias	tanken om, at grevinden ved alt	the idea that the countess knows everything	grupo	alternativoj	prononco
+level	la ideo perdigis al li malmulton da espero	ideen fratog ham kun lidt håb	the idea deprived him of little hope	grupo	alternativoj	prononco
+level	malmulto da espero	lidt håb	little hope	grupo	alternativoj	prononco
+level	malmulta espero, kiu restis	lidt håb, der var tilbage	little hope that remained	grupo	alternativoj	prononco
+level	post la unuaj vortoj de la policano	efter politiets første ord	after the first words of the police	grupo	alternativoj	prononco
+level	ju pli ~ des pli ~	jo flere ~ jo flere ~	the more ~ the more ~	grupo	alternativoj	prononco
+level	ju pli longe des pli bone	jo længere jo bedre	the longer the better	grupo	alternativoj	prononco
+level	kiom ajn	lige meget hvor meget	no matter how much	grupo	alternativoj	prononco
+level	antaŭ kvarona horo	et kvarter siden	a quarter of an hour ago	grupo	alternativoj	prononco
+level	ili revenis	de kom tilbage	they came back	grupo	alternativoj	prononco
+level	post la terura malfeliĉo	efter den frygtelige ulykke	after the terrible misfortune	grupo	alternativoj	prononco
+level	la homoj foriris	folket gik	the people left	grupo	alternativoj	prononco
+level	kaj la malnovaj urboj disfalis	og de gamle byer faldt fra hinanden	and the old cities fell apart	grupo	alternativoj	prononco
+level	ni devus revidi vin	vi burde se dig igen	we should see you again	grupo	alternativoj	prononco
+level	ju pli ofte	jo oftere	the more often	grupo	alternativoj	prononco
+level	mi pripensas	Jeg tænker	I'm thinking	grupo	alternativoj	prononco
+level	des pli mi koleras	jo mere vred er jeg	the more angry I am	grupo	alternativoj	prononco
+level	ŝi loĝas en ~	hun bor i ~	she lives in ~	grupo	alternativoj	prononco
+level	en iu ajn domo	i ethvert hus	in any house	grupo	alternativoj	prononco
+level	ĉu ni revidos nin?	ses vi igen?	will we see each other again?	grupo	alternativoj	prononco
+level	kie ajn kaj kiam ajn	hvor som helst og når som helst	wherever and whenever	grupo	alternativoj	prononco
+level	kiam mi rericevos ~ ?	hvornår kommer jeg tilbage ~ ?	when will I get back ~ ?	grupo	alternativoj	prononco
+level	la alian duonon de la libroj	den anden halvdel af bøgerne	the other half of the books	grupo	alternativoj	prononco
+level	ĉu vi bezonos ~ ?	får du brug for ~ ?	will you need ~ ?	grupo	alternativoj	prononco
+level	bezonas pli ol kvaronan jaron	har brug for mere end et kvart år	needs more than a quarter of a year	grupo	alternativoj	prononco
+level	por tiuj laboroj	til de jobs	for those jobs	grupo	alternativoj	prononco
+level	kial estas ~ ?	hvorfor er ~?	why is ~ ?	grupo	alternativoj	prononco
+level	des pli malvarma	jo koldere	the colder	grupo	alternativoj	prononco
+level	ju pli longe	jo længere	the longer	grupo	alternativoj	prononco
+level	ni atendas ~	vi venter ~	we are waiting ~	grupo	alternativoj	prononco
+level	ĉu vi kontentas kun ~ ?	er du tilfreds med ~ ?	are you satisfied with ~ ?	grupo	alternativoj	prononco
+level	kun iu ajn viro	med enhver mand	with any man	grupo	alternativoj	prononco

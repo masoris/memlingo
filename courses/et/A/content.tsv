@@ -1,0 +1,1356 @@
+A.et content.tsv
+Level	Esperanto	et	en-us	Grupo	Alternativoj	Pronoco
+level	mi, vi	mina, sina	I, you	grupo	alternativoj	prononco
+level	estas, estis	(olevik) on, olen, on (minevik) oli, olid	(present) is, am, are (past) was, were	grupo	alternativoj	prononco
+level	mi estas ~	Olen ~	I am ~	grupo	alternativoj	prononco
+level	vi estas ~	sa oled ~	you are ~	grupo	alternativoj	prononco
+level	saluton	Tere	hello	grupo	alternativoj	prononco
+level	saluton, mi estas ~	tere, ma olen ~	hello, I am ~	grupo	alternativoj	prononco
+level	mia, via	minu sinu	my, your	grupo	alternativoj	prononco
+level	nomo	nimi	a name	grupo	alternativoj	prononco
+level	mia nomo, via nomo	minu nimi, sinu nimi	my name, your name	grupo	alternativoj	prononco
+level	mia nomo estas ~	minu nimi on ~	my name is ~	grupo	alternativoj	prononco
+level	via nomo estas ~	sinu nimi on ~	your name is ~	grupo	alternativoj	prononco
+level	fartas, fartis	(olevik) teeb, (minevik) tegi	(present) does, (past) did	grupo	alternativoj	prononco
+level	estis, estos	(olevik) oli, olid (tulevik) on	(present) was, were (future) will be	grupo	alternativoj	prononco
+level	nomo, nomon	nimi, (objektiivne) nimi	a name, an (objective) name	grupo	alternativoj	prononco
+level	mia amo	mu armastus	my love	grupo	alternativoj	prononco
+level	vi fartas	sa teed ~	you are doing ~	grupo	alternativoj	prononco
+level	kiel	kuidas	how	grupo	alternativoj	prononco
+level	kiel vi fartas?	kuidas sul läheb?	how are you doing?	grupo	alternativoj	prononco
+level	kio	mida	what	grupo	alternativoj	prononco
+level	kio estas via nomo?	mis su nimi on?	what is your name?	grupo	alternativoj	prononco
+level	bona, bone	hästi, hästi	good, well	grupo	alternativoj	prononco
+level	fartas bone	läheb hästi	is doing well	grupo	alternativoj	prononco
+level	mi fartas bone	mul läheb hästi	I am doing well	grupo	alternativoj	prononco
+level	kaj	ja	and	grupo	alternativoj	prononco
+level	bone, kaj vi?	hästi, aga sul?	fine, and you?	grupo	alternativoj	prononco
+level	ĝis ~	kuni ~	until ~	grupo	alternativoj	prononco
+level	vidas, vidis	(olevik) näeb, (minevik) nägi	(present) sees, (past) saw	grupo	alternativoj	prononco
+level	vidis, revidis	(minevik) nägi, (minevik) nägi uuesti	(past) saw, (past) saw again	grupo	alternativoj	prononco
+level	revidis, revidos	nägin veel, näen veel	saw again, will see again	grupo	alternativoj	prononco
+level	revido, revidon	uuesti nägemine, uuesti nägemine (eesmärk)	seeing-again, seeing-again (objective)	grupo	alternativoj	prononco
+level	ĝis revido!	näeme jälle!	see you again!	grupo	alternativoj	prononco
+level	dankon	aitäh	thank you	grupo	alternativoj	prononco
+level	dankon kaj ĝis revido!	tänan ja näeme jälle!	thank you and see you again!	grupo	alternativoj	prononco
+level	al ~	kuni ~	to ~	grupo	alternativoj	prononco
+level	al vi, al mi	sulle, mulle	to you, to me	grupo	alternativoj	prononco
+level	dankas, dankis	(olevik) tänas, (minevik) tänas	(present) thanks, (past) thanked	grupo	alternativoj	prononco
+level	mi dankas al vi	Ma hindan sind	I appreciate to you	grupo	alternativoj	prononco
+level	jes, ne	jah ei	yes, no	grupo	alternativoj	prononco
+level	jes, dankon	jah, tänan sind	yes, thaink you	grupo	alternativoj	prononco
+level	manĝas, manĝos	sööb, sööb	eats, will eat	grupo	alternativoj	prononco
+level	mi ne manĝas	Ma ei söö	I don't eat	grupo	alternativoj	prononco
+level	ne, mi ne manĝas	ei, ma ei söö	no, I don't eat	grupo	alternativoj	prononco
+level	bela, bele	ilus, ilus	beautiful, beautifully	grupo	alternativoj	prononco
+level	-inda	väärt (lõpp)	worthwhile (ending)	grupo	alternativoj	prononco
+level	dankinda, dankinde	tänuväärne, tänamist väärt	appreciatable, worthwhile to thank	grupo	alternativoj	prononco
+level	tuta, tute	tervikuna, tervikuna	whole, as a whole	grupo	alternativoj	prononco
+level	tuto, tuton	kõik, (objektiivne) kõik	all, (objective) all	grupo	alternativoj	prononco
+level	nedankinde	üldse mitte, teretulnud	not at all, you're welcome	grupo	alternativoj	prononco
+level	tute ne	täiesti ei	totally no	grupo	alternativoj	prononco
+level	pardoni ~, pardono	andeks andma, andestav	to forgive, a forgiving	grupo	alternativoj	prononco
+level	pardonon al mi	mulle andestav	a forgiving to me	grupo	alternativoj	prononco
+level	pardonon	Mul on kahju! (vabandust)	I'm sorry! (pardon me)	grupo	alternativoj	prononco
+level	pardonon, mi petas	Palun vabandust	I'm sorry, please	grupo	alternativoj	prononco
+level	bona mateno	tere hommikust	a good morning	grupo	alternativoj	prononco
+level	bonan matenon	Tere hommikust	good morning	grupo	alternativoj	prononco
+level	bonan nokton	head ööd	good night	grupo	alternativoj	prononco
+level	bonan sonĝon	magus uni	sweet dream	grupo	alternativoj	prononco
+level	bonan vojaĝon, al vi	() head reisi teile	(have) a good trip, to you	grupo	alternativoj	prononco
+level	bonan tagon	head päeva!	good day!	grupo	alternativoj	prononco
+level	ĉu ~	kas see on ~?	is it ~ ?	grupo	alternativoj	prononco
+level	ĉu vi fartas bone?	Kas sul läheb hästi? (kuidas sul läheb?)	are you doing well? (how are you?)	grupo	alternativoj	prononco
+level	jes, mi fartas bone	jah, mul on kõik korras	yes, I'm fine	grupo	alternativoj	prononco
+level	ne, tute ne	ei, üldse mitte	no, not at all	grupo	alternativoj	prononco
+level	tre, tro	väga, liiga palju	very, too much	grupo	alternativoj	prononco
+level	granda, grande	suur, suures osas	big, largely	grupo	alternativoj	prononco
+level	tre bona, tro granda	väga hea, liiga suur	very good, too big	grupo	alternativoj	prononco
+level	vi tre bone fartas	sul läheb väga hästi	you are doing very well	grupo	alternativoj	prononco
+level	ne tre bone	mitte eriti hästi	not very well	grupo	alternativoj	prononco
+level	lerni ~, lerno	õppida, õppimine	to learn, a learning	grupo	alternativoj	prononco
+level	vidanta, vidanto	vaatab, vaataja	is looking, a spectator	grupo	alternativoj	prononco
+level	lernanta, lernanto	õpib, õpilane (õppiv inimene)	is learning, a student (a learning person)	grupo	alternativoj	prononco
+level	-anta, -anto	is -ing, isik, kes teeb	is -ing, a person who is doing	grupo	alternativoj	prononco
+level	lernanto, lerninto	õpilane, inimene, kes on õppinud	a student, a person who has learned	grupo	alternativoj	prononco
+level	mi estas lernanto	Ma olen õpilane.	I am a student.	grupo	alternativoj	prononco
+level	~ estas mia amiko	~ on mu sõber	~ is my friend	grupo	alternativoj	prononco
+level	li, ŝi	ta ta	he, she	grupo	alternativoj	prononco
+level	sidi, sidas	istuma, istub	to sit, sits	grupo	alternativoj	prononco
+level	sidanta, sidinta, sidonta	istub, istus, istub	is sitting, was sitting, will be sitting	grupo	alternativoj	prononco
+level	li sidas kaj ŝi lernas	ta istub ja ta õpib	he is sitting and she is learning	grupo	alternativoj	prononco
+level	ĉambro	tuba	a room	grupo	alternativoj	prononco
+level	lernas en ĉambro	õpib toas	learns in a room	grupo	alternativoj	prononco
+level	lernanto kaj sportisto	üliõpilane ja sportlane	a student and a sportsman	grupo	alternativoj	prononco
+level	sporto kaj sportisto	sportlane ja sportlane	sport and a sportsman	grupo	alternativoj	prononco
+level	sportisto nun sportas	sportlane tegeleb spordiga	a sportsman is sporting	grupo	alternativoj	prononco
+level	li estas lernanto	ta on üliõpilane	he is a student	grupo	alternativoj	prononco
+level	estas lernanto kaj sportisto	ta on üliõpilane ja sportlane	he is a student and a sportman	grupo	alternativoj	prononco
+level	li nun sidas	ta istub nüüd	he is now sitting	grupo	alternativoj	prononco
+level	kaj nun lernas	ja nüüd õpib	and is now learning	grupo	alternativoj	prononco
+level	sidas kaj lernas	istub ja õpib	is sitting and is learning	grupo	alternativoj	prononco
+level	nun en ĉambro	nüüd toas	now in a room	grupo	alternativoj	prononco
+level	estas sur tablo	on laua peal	is on a table	grupo	alternativoj	prononco
+level	papero kaj paperoj	paber ja paberid	a paper and papers	grupo	alternativoj	prononco
+level	tablo kaj tabloj	laud ja lauad	a table and tables	grupo	alternativoj	prononco
+level	libro kaj libroj	raamat ja raamatud	a book and books	grupo	alternativoj	prononco
+level	la paperoj kaj libroj	paberid ja raamatud	the papers and books	grupo	alternativoj	prononco
+level	ĝi estas sur tablo	see on laua peal.	it is on a table.	grupo	alternativoj	prononco
+level	skribas sur la skribotablo	kirjutab kirjutuslauale	is writing on a writing table	grupo	alternativoj	prononco
+level	la libroj estas ~	raamatud on ~	the books are ~	grupo	alternativoj	prononco
+level	sur la tablo	laua peal	on the table	grupo	alternativoj	prononco
+level	lernolibro kaj la lernolibroj	õpik ja õpikud	a textbook and the textbooks	grupo	alternativoj	prononco
+level	sur la tablo estas ~	laual on ~	on the table there is ~	grupo	alternativoj	prononco
+level	patro kaj patrino	isa ja ema	a father and a mother	grupo	alternativoj	prononco
+level	la patro kaj la patrino	isa ja ema	the father and the mother	grupo	alternativoj	prononco
+level	la patrino de mia amiko	mu sõbra ema	the mother of my friend	grupo	alternativoj	prononco
+level	en la ĉambro	toas	in the room	grupo	alternativoj	prononco
+level	ne estas en la ĉambro	ei ole toas	is not in the room	grupo	alternativoj	prononco
+level	ili nun laboras	nad nüüd töötavad	they are now working	grupo	alternativoj	prononco
+level	lia patro estas laboristo	tema isa on tööline	his father is a worker	grupo	alternativoj	prononco
+level	li laboras en hotelo	ta töötab hotellis	he works in a hotel	grupo	alternativoj	prononco
+level	la patrino instruas	ema õpetab	the mother teaches	grupo	alternativoj	prononco
+level	ŝi estas instruistino	ta on õpetaja	she is a teacher	grupo	alternativoj	prononco
+level	ĉu ŝi estas patrino?	kas ta on ema?	is she a mother?	grupo	alternativoj	prononco
+level	ne, ŝi estas hotelisto	ei, ta on hotellipidaja	no, she is an hotelier	grupo	alternativoj	prononco
+level	ne, mi ne laboras	ei, ma ei tööta	no, I don't work	grupo	alternativoj	prononco
+level	kio estas ŝia nomo?	mis on tema nimi?	what is her name?	grupo	alternativoj	prononco
+level	kiu nun respondas?	kes nüüd vastab?	who is now answering?	grupo	alternativoj	prononco
+level	la lingvo de ilia patrino	nende ema keel	the language of their mother	grupo	alternativoj	prononco
+level	ĉu via nomo estas ~ ?	kas su nimi on ~?	is your name ~ ?	grupo	alternativoj	prononco
+level	ni sidas kaj respondas	istume ja vastame	we are sitting and answering	grupo	alternativoj	prononco
+level	ŝia labora seĝo	tema töötool	her working chair	grupo	alternativoj	prononco
+level	ĝia nomo ne estas ~	selle nimi ei ole ~	its name is not ~	grupo	alternativoj	prononco
+level	ŝia lingvo estas ilia lingvo	tema keel on nende keel	her language is their language	grupo	alternativoj	prononco
+level	nia patro kaj patrino	meie isa ja ema	our father and mother	grupo	alternativoj	prononco
+level	via lernanto, viaj lernantoj	teie õpilane, teie õpilased	your student, your students	grupo	alternativoj	prononco
+level	ĉu ili estas viaj lernantoj?	kas nad on sinu õpilased?	are they your students?	grupo	alternativoj	prononco
+level	ĉu vi estas lernanto?	Kas sa oled õpilane?	are you a student?	grupo	alternativoj	prononco
+level	ĉu vi estas en la ĉambro?	kas sa oled toas?	are you in the room?	grupo	alternativoj	prononco
+level	mi ne estas ~	Ma ei ole ~	I'm not ~	grupo	alternativoj	prononco
+level	esperantisto kaj esperantistino	esperantist ja naissoost esperantist	an Esperantist and a female Esperantist	grupo	alternativoj	prononco
+level	enskribis por la hotelĉambro	hotellituppa registreerunud	checked in for the hotel room	grupo	alternativoj	prononco
+level	lingvisto kaj laboristino	keeleteadlane ja naistöötaja	a linguist and a female worker	grupo	alternativoj	prononco
+level	lia amikino estas ~	tema sõbranna on ~	his girl friend is ~	grupo	alternativoj	prononco
+level	lernantoj kaj sportistoj	õpilased ja sportlased	students and sportsmen	grupo	alternativoj	prononco
+level	mia familia nomo estas ~	minu perekonnanimi on ~	my familia name is ~	grupo	alternativoj	prononco
+level	kiu estas ŝi?	kes ta on? kumb ta on?	who is she? which is she?	grupo	alternativoj	prononco
+level	estas via amikino	on su sõbranna	is your girl friend	grupo	alternativoj	prononco
+level	ĉu via amiko estas ~ ?	kas su sõber on ~?	is your friend ~ ?	grupo	alternativoj	prononco
+level	skribas nun en la ĉambro	kirjutab praegu toas	is writing now in the room	grupo	alternativoj	prononco
+level	ĉu la amiko de via patro ~ ?	kas su sõber on isa ~ ?	is the friend of you father ~ ?	grupo	alternativoj	prononco
+level	laboras en hotelo	töötab hotellis	works in a hotel	grupo	alternativoj	prononco
+level	kio estas sur la tablo?	mis on laual?	what is on the table?	grupo	alternativoj	prononco
+level	sur la tablo en nia ĉambro	meie toas laua peal	on the table in our room	grupo	alternativoj	prononco
+level	ĉu la lernolibro de Esperanto ~ ?	kas esperanto õpik on ~ ?	is the Esperanto textbook ~ ?	grupo	alternativoj	prononco
+level	estas sur via tablo	on teie laual	is on your table	grupo	alternativoj	prononco
+level	havas amikinon	on sõber	has a friend	grupo	alternativoj	prononco
+level	ŝia nomo estas ~	tema nimi on ~	her name is ~	grupo	alternativoj	prononco
+level	juna kaj bela	noor ja ilus	young and beautiful	grupo	alternativoj	prononco
+level	estas juna kaj bela	on noor ja ilus	is young and beautiful	grupo	alternativoj	prononco
+level	junaj kaj belaj amikoj	noored ja ilusad sõbrad	young and beautiful friends	grupo	alternativoj	prononco
+level	estas geamikoj	on mees- ja naissoost sõbrad	are male-and-female friends	grupo	alternativoj	prononco
+level	hejmo de ŝia instruisto	tema õpetaja kodu	a home of her teacher	grupo	alternativoj	prononco
+level	venis al la hejmo	tuli koju	came to the home	grupo	alternativoj	prononco
+level	la hejmo de ~	~ kodu	the home of ~	grupo	alternativoj	prononco
+level	bonvolu eniri	Palun tule sisse	please come in	grupo	alternativoj	prononco
+level	saluton! kion vi faras?	Tere Mida sa teed?	hello, what are you doing?	grupo	alternativoj	prononco
+level	kion vi faras?	mida sa teed? mida sa teed?	what do you do? what are you doing?	grupo	alternativoj	prononco
+level	sed nun mi volas ~	aga nüüd tahan ~	but now I want ~	grupo	alternativoj	prononco
+level	mi volas paroli	Ma tahan rääkida	I want to speak	grupo	alternativoj	prononco
+level	kun tri geamikoj	kolme mees- ja naissõbraga	with three male-and-female friends	grupo	alternativoj	prononco
+level	parolis kun vi	rääkis sinuga	spoke with you	grupo	alternativoj	prononco
+level	volas paroli kun vi	tahab sinuga rääkida	wants to speak with you	grupo	alternativoj	prononco
+level	ĉu vi havas geamikojn?	kas sul on mees- ja naissoost sõpru	do you have male-and-female friends	grupo	alternativoj	prononco
+level	li havas libron	tal on raamat	he has a book	grupo	alternativoj	prononco
+level	havas bonan libron	on hea raamat	has a good book	grupo	alternativoj	prononco
+level	jes, mi havas	jah mul on	yes, I have	grupo	alternativoj	prononco
+level	ili ŝatas ĝin	neile meeldib	they like it	grupo	alternativoj	prononco
+level	ŝi legis libron	ta luges raamatut	she read a book	grupo	alternativoj	prononco
+level	ŝatas legi librojn	meeldib raamatuid lugeda	likes to read books	grupo	alternativoj	prononco
+level	nur bona libro	ainult hea raamat	only a good book	grupo	alternativoj	prononco
+level	multaj bonaj libroj	palju häid raamatuid	many good books	grupo	alternativoj	prononco
+level	legis nur bonajn librojn	loe ainult häid raamatuid	read only good books	grupo	alternativoj	prononco
+level	ŝatas legi bonajn librojn	meeldib lugeda häid raamatuid	likes to read good books	grupo	alternativoj	prononco
+level	ĉu vi volas legi?	tahad lugeda?	do you want to read?	grupo	alternativoj	prononco
+level	la junulo trinkis kafon	noormees jõi kohvi	the youngster drank coffee	grupo	alternativoj	prononco
+level	volas trinki akvon	tahab vett juua	wants to drink water	grupo	alternativoj	prononco
+level	patro kaj patrino, gepatroj	isa ja ema; vanemad	a father and a mother; parents	grupo	alternativoj	prononco
+level	frato kaj fratino, gefratoj	tüli ja õde, õed-vennad	a bother and a sister, siblings	grupo	alternativoj	prononco
+level	viaj gepatroj kaj gefratoj	teie vanemad ja õed-vennad	your parents and siblings	grupo	alternativoj	prononco
+level	estas en via hejmo	on sinu kodus	is in your home	grupo	alternativoj	prononco
+level	jen la kafo	siin on kohv	here is the coffee	grupo	alternativoj	prononco
+level	ankoraŭ ne trinkis	ei joonud veel	didn't drink yet	grupo	alternativoj	prononco
+level	estas ankoraŭ varma	on veel soe	is still warm	grupo	alternativoj	prononco
+level	hieraŭ kuiris ĝin	küpsetasin seda eile	cooked it yesterday	grupo	alternativoj	prononco
+level	mi nun kuiris	Nüüd tegin süüa	I now cooked	grupo	alternativoj	prononco
+level	dankon. tiel li diris	aitäh. nii ta ütles.	thank you. so he said.	grupo	alternativoj	prononco
+level	povas trinki kaj manĝi	saab juua ja süüa	can drink and eat	grupo	alternativoj	prononco
+level	trinkis malvarman kafon	jõi külma kohvi	drank cold coffee	grupo	alternativoj	prononco
+level	ankaŭ varma kafo	veel soe kohv	still warm coffee	grupo	alternativoj	prononco
+level	trinkas ankaŭ malvarman kafon	joob ka külma kohvi	drinks cold coffee too	grupo	alternativoj	prononco
+level	povas trinki ankaŭ malvarman kafon	võib juua ka külma kohvi	can also drink cold coffee	grupo	alternativoj	prononco
+level	rigardas ŝian okulon	vaatab talle silma	looks at her eye	grupo	alternativoj	prononco
+level	la plej bela okulo	kõige ilusam silm	the most beautiful eye	grupo	alternativoj	prononco
+level	la belaj okuloj	ilusad silmad	the beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la belajn okulojn	vaatas ilusaid silmi	looked the beautiful eyes	grupo	alternativoj	prononco
+level	la belaj okuloj de ŝi	tema ilusad silmad	the beautiful eyes of her	grupo	alternativoj	prononco
+level	vidas kaj komprenas	näeb ja mõistab	sees and understands	grupo	alternativoj	prononco
+level	mi vidas, ke ~	Ma näen, et ~	I see that ~	grupo	alternativoj	prononco
+level	ke li amas ŝin	et ta armastab teda	that he loves her	grupo	alternativoj	prononco
+level	ŝi sentis, ke li amas ŝin	ta tunneb, et ta armastab teda	she feels that he loves her	grupo	alternativoj	prononco
+level	demandas, ĉu tio estis granda	küsib, kas see oli suur	asks whether that was big	grupo	alternativoj	prononco
+level	pri facila demando	lihtsa küsimuse kohta	about an easy question	grupo	alternativoj	prononco
+level	diris pri nova mono	ütles uue raha kohta	said about a new money	grupo	alternativoj	prononco
+level	tre belaj okuloj	väga ilusad silmad	very beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la grandan fraton	vaatas suur vend	looked the big brother	grupo	alternativoj	prononco
+level	malgranda fratino forgesis ĝin	väike õde unustas selle	a little sister forgot it	grupo	alternativoj	prononco
+level	akuzativo	akusatiiv (objektiiv)	an accusative (objective)	grupo	alternativoj	prononco
+level	ne forgesu akuzativon	ärge unustage akusatiivi lõppu	don't forget the accusative ending	grupo	alternativoj	prononco
+level	kiun vi vidas?	keda sa näed? kumba sa näed?	whom are you seeing? which one do you see?	grupo	alternativoj	prononco
+level	mi vidas amikon	Ma näen sõpra	I see a friend	grupo	alternativoj	prononco
+level	havas bonajn geamikojn	tal on head mees- ja naissõbrad	has good male-and-female friends	grupo	alternativoj	prononco
+level	ili laboras pri la malnova domo	nad tegelevad vana majaga	they are working about the old house	grupo	alternativoj	prononco
+level	laboras, laboris, laboros	töötab, töötas, töötab	works, worked, will work	grupo	alternativoj	prononco
+level	vidas, ke mi manĝas	näeb, et ma söön	sees, that I eat	grupo	alternativoj	prononco
+level	diris, ke li iros	ütles, et ta läheb	said, that he will go	grupo	alternativoj	prononco
+level	malbela kaj malbona	kole ja halb	ugly and bad	grupo	alternativoj	prononco
+level	kion ŝi diris?	mida ta ütles?	what did she say?	grupo	alternativoj	prononco
+level	kion vi atendas?	mida sa ootad?	what are you waiting for?	grupo	alternativoj	prononco
+level	eniris en la ĉambron	läks tuppa	went into the room	grupo	alternativoj	prononco
+level	enhavo estis tre malfacila	sisu on väga raske	a content is very difficult	grupo	alternativoj	prononco
+level	alvenis al la kunsido	saabus koosolekule	arrived at the meeting	grupo	alternativoj	prononco
+level	bonvenon, al la kunveno	tere tulemast kohtumisele	welcome to the meeting	grupo	alternativoj	prononco
+level	maljuna viro donis trinkmonon	andis üks vanamees vihje	an old man gave a tip	grupo	alternativoj	prononco
+level	alvenis kaj estis bonvena	saabus ja võeti vastu	arrived and was welcomed	grupo	alternativoj	prononco
+level	ili malamas sed kunlaboras.	nad vihkavad, kuid teevad koostööd	they hate but cooperate	grupo	alternativoj	prononco
+level	iris al la hotelo	läks hotelli	went to the hotel	grupo	alternativoj	prononco
+level	havas facilajn lernolibrojn	on lihtsad õpikud	has easy textbooks	grupo	alternativoj	prononco
+level	kia estis via patrino?	kuidas su emal läks?	how was your mother?	grupo	alternativoj	prononco
+level	via malnova hejmo	oma vana kodu	your old home	grupo	alternativoj	prononco
+level	kiujn librojn vi legis?	mis raamatuid sa lugesid?	which books did you read?	grupo	alternativoj	prononco
+level	ĉu ili estis bonaj?	kas need olid head?	were they good?	grupo	alternativoj	prononco
+level	kion faris hieraŭ?	mida eile tegid?	did what yesterday?	grupo	alternativoj	prononco
+level	en la malgranda ĉambro	väikeses toas	in the small room	grupo	alternativoj	prononco
+level	tre longe parolis	rääkis väga kaua	spoke very long while	grupo	alternativoj	prononco
+level	antaŭ la lernejo	kooli ees, kooli ees	in front of the school, before the school	grupo	alternativoj	prononco
+level	parolis antaŭ la lernejo	rääkis enne kooli	spoke before the school	grupo	alternativoj	prononco
+level	poste parolis pri la libro	hiljem rääkis raamatust	later spoke about the book	grupo	alternativoj	prononco
+level	ĝoje iris al la lernejo	läks hea meelega kooli	gladly went to the school	grupo	alternativoj	prononco
+level	tra la strato	läbi tänava	through the street	grupo	alternativoj	prononco
+level	iris tra la strato	läks läbi tänava	went through the street	grupo	alternativoj	prononco
+level	estis varma tago	oli soe päev	was a warm day	grupo	alternativoj	prononco
+level	ili vidis kafejon	nad nägid kohvikut'	they saw a cafe'	grupo	alternativoj	prononco
+level	vidis ruĝajn kukojn	nägin punaseid küpsiseid	saw red cookies	grupo	alternativoj	prononco
+level	vidis kukojn en ĝi	nägi selles küpsiseid	saw cookies in it	grupo	alternativoj	prononco
+level	vidis kafejon kaj en ĝi kukojn	nägin kohvikut ja selles küpsiseid	saw a cafe' and in it  cookies	grupo	alternativoj	prononco
+level	eniru kaj manĝu!	mine sisse ja söö!	go in and eat!	grupo	alternativoj	prononco
+level	ni eniru kaj manĝu	tuleme sisse ja sööme	let's come in and eat	grupo	alternativoj	prononco
+level	havas sufiĉan monon	on piisavalt raha	has sufficient money	grupo	alternativoj	prononco
+level	ĉu vi havas sufiĉan monon?	kas sul on piisavalt raha?	do you have sufficient money?	grupo	alternativoj	prononco
+level	ĉu vi komprenas?	Kas sa saad aru?	do you understand?	grupo	alternativoj	prononco
+level	kompreneble!	muidugi!	of course!	grupo	alternativoj	prononco
+level	tio ne sufiĉas	sellest ei piisa	that is not enough	grupo	alternativoj	prononco
+level	cent dolaroj sufiĉas	sajast dollarist piisab	a hundred dollars is enough	grupo	alternativoj	prononco
+level	dolaro, dolaroj, dolarojn	dollar, dollar, dollar (mitmuse eesmärk)	a dollar, dollars, dollars (plural objective)	grupo	alternativoj	prononco
+level	havas cent dolarojn	tal on sada dollarit	has a hundred dollars	grupo	alternativoj	prononco
+level	kompreneble, mi havas	muidugi, mul on	of course, I have	grupo	alternativoj	prononco
+level	ho! vi estas riĉa!	oh! sa oled rikas!	oh! you are rich!	grupo	alternativoj	prononco
+level	kelnero, kelnerino	vesi, ettekandja	a water, an waitress	grupo	alternativoj	prononco
+level	kelnero portas menuon	kelner toob menüü	a waiter brings a menu	grupo	alternativoj	prononco
+level	portis tion al ni, alportis tion	tõi selle meile, tõi selle	brought that to us, brought that	grupo	alternativoj	prononco
+level	kelnero alportis multajn kukojn	kelner tõi palju küpsiseid	a waiter brought a lot of cookies	grupo	alternativoj	prononco
+level	ili manĝis iom	nad sõid natuke (natuke)	they ate some (a little)	grupo	alternativoj	prononco
+level	post la manĝo	pärast söömist (sööki)	after the eating (meal)	grupo	alternativoj	prononco
+level	nova, denove	uus, jälle	new, again	grupo	alternativoj	prononco
+level	la kelnero denove venis	kelner tuli uuesti	the waiter came again	grupo	alternativoj	prononco
+level	en iu loko	mõnes kohas	in some place	grupo	alternativoj	prononco
+level	serĉis en iu loko	oli kuskilt otsinud	had searched in some place	grupo	alternativoj	prononco
+level	serĉis en alia loko	otsiti teisest kohast	searched in other place	grupo	alternativoj	prononco
+level	lia vizaĝo estis ĝoja	ta nägu oli rõõmus	his face was joyous	grupo	alternativoj	prononco
+level	ŝi estis malĝoja	ta oli kurb	she was sad	grupo	alternativoj	prononco
+level	fine kaj finfine	lõpuks ja lõpuks	in the end and finally at last	grupo	alternativoj	prononco
+level	via forta voĉo	su tugev hääl	your strong voice	grupo	alternativoj	prononco
+level	en malforta voĉo	nõrga häälega	in weak voice	grupo	alternativoj	prononco
+level	ne havas monon	pole raha	doesn't have money	grupo	alternativoj	prononco
+level	kio okazis tie?	mis seal juhtus?	what did happen there?	grupo	alternativoj	prononco
+level	akcidento okazis poste	hiljem juhtus õnnetus	an accident happened later	grupo	alternativoj	prononco
+level	ĉu vi scias, kiam ĝi okazis?	kas sa tead millal see juhtus?	do you know when did it happen?	grupo	alternativoj	prononco
+level	scias pri la afero	teab asjast	knows about the matter	grupo	alternativoj	prononco
+level	ankoraŭ unu afero restas	üks asi jääb siiski alles	still one thing remains	grupo	alternativoj	prononco
+level	vi aŭ ŝi, ajna homo	sina või ta, ükskõik milline inimene	you or she, any person	grupo	alternativoj	prononco
+level	kiel kantisto	nagu laulja, kui signeerija	like a singer, as a signer	grupo	alternativoj	prononco
+level	kantis kiel profesia kantisto	laulis nagu professionaalne laulja	sang like a professional singer	grupo	alternativoj	prononco
+level	tie, kie ŝi loĝis	koht, kus ta elas	a the place, where she lived	grupo	alternativoj	prononco
+level	kiel vi scias pri la aŭto?	kuidas sa autost tead?	how do you know about the car?	grupo	alternativoj	prononco
+level	nu, vidu la rapidan aŭton	no vaadake kiiret autot	well, look at the fast car	grupo	alternativoj	prononco
+level	suko sen sukero	mahl ilma suhkruta	a juice without sugar	grupo	alternativoj	prononco
+level	li havis rapidan veturilon	tal on kiire sõiduk	he has a fast vehicle	grupo	alternativoj	prononco
+level	tro forte	liiga tugevalt	too strongly	grupo	alternativoj	prononco
+level	li tro forte malfermis	ta avas liiga kõvasti	he opened too hard	grupo	alternativoj	prononco
+level	veturis tro rapide	sõitis (reisinud) liiga kiiresti	drove (traveled) too fast	grupo	alternativoj	prononco
+level	manĝis per kulero	sõi lusikaga	ate with a spoon	grupo	alternativoj	prononco
+level	ni forte dubas	kahtleme tugevalt	we strongly doubt	grupo	alternativoj	prononco
+level	vera letero de li	tõeline kiri temalt	a true letter from him	grupo	alternativoj	prononco
+level	amletero kun kvin fotoj	viie fotoga armastuskiri	a love letter with five photos	grupo	alternativoj	prononco
+level	revenis, revenintoj	tagasi pöördunud inimesed	returned, the people who returned	grupo	alternativoj	prononco
+level	ankaŭ ses leteroj revenis	ka kuus kirja tuli tagasi	also six letters returned	grupo	alternativoj	prononco
+level	volis vidi la foton	tahtis pilti näha	wanted to see the photo	grupo	alternativoj	prononco
+level	revenis el la lernejo	tuli koolist tagasi	came back from the school	grupo	alternativoj	prononco
+level	kiam revenos la fratino?	millal õde tagasi tuleb?	when will the sister return?	grupo	alternativoj	prononco
+level	volis legi denove	tahtis uuesti lugeda	wanted to read again	grupo	alternativoj	prononco
+level	faris, fariĝis	tegi (tegi), sai	made (did), became	grupo	alternativoj	prononco
+level	rapide fariĝis ruĝa	muutus kiiresti punaseks	rapidly became red	grupo	alternativoj	prononco
+level	en ĉambro, en ĉambron	tuppa, tuppa	in a room, into a room	grupo	alternativoj	prononco
+level	staris kaj sidis	seisis ja istus	stood and sat	grupo	alternativoj	prononco
+level	tie staris antaŭ la foto	seal seisis foto ees	there stood in front of the photo	grupo	alternativoj	prononco
+level	mi havas tion	Mul on see	I have that	grupo	alternativoj	prononco
+level	kion vi havas en via mano?	mis sul käes on?	what do you have in your hand?	grupo	alternativoj	prononco
+level	antaŭ aŭ malantaŭ?	ees või taga?	in front or behind?	grupo	alternativoj	prononco
+level	antaŭ aŭ post?	enne või pärast?	before or after?	grupo	alternativoj	prononco
+level	tie malantaŭ la pordo	seal ukse taga	there behind the door	grupo	alternativoj	prononco
+level	aliaj, aliaj homoj	teised, teised inimesed	others, other people	grupo	alternativoj	prononco
+level	leteroj de aliaj	kirjad teistelt	letters from others	grupo	alternativoj	prononco
+level	falis el la mano	kukkus käest	fell out of the hand	grupo	alternativoj	prononco
+level	sur la tablo, sur la tablon	lauale, lauale	on the table, onto the table	grupo	alternativoj	prononco
+level	ĝi falis sur la tablon	see kukkus lauale	it fell on the table	grupo	alternativoj	prononco
+level	petis pardonon	palus vabandust	asked for pardon	grupo	alternativoj	prononco
+level	serĉis kvin librojn	otsis viit raamatut	was searching for five books	grupo	alternativoj	prononco
+level	pardonu, mi serĉis mian libron	vabandust, ma otsisin oma raamatut.	sorry, I was looking for my book.	grupo	alternativoj	prononco
+level	sed vi bone scias	aga sa tead hästi	but you know well	grupo	alternativoj	prononco
+level	ne estas sur mia tablo	pole minu laual	is not on my table	grupo	alternativoj	prononco
+level	viaj libroj ne estas sur mia tablo	sinu raamatuid pole minu laual	your books are not on my table	grupo	alternativoj	prononco
+level	ree donis, redonis	jälle andis, tagastas	again gave, returned	grupo	alternativoj	prononco
+level	redonu la leteron al mi.	tagastage kiri mulle	return the letter to me	grupo	alternativoj	prononco
+level	ricevis bonan lecionon	sai hea õppetunni	received a good lesson	grupo	alternativoj	prononco
+level	plu lavis, ne plu manĝis	edasi pesi, sõi enam	further washed, ate any more	grupo	alternativoj	prononco
+level	ne plu legos	enam ei loe	will no longer read	grupo	alternativoj	prononco
+level	ankaŭ mi ricevis	sain ka	I also received	grupo	alternativoj	prononco
+level	devas fermi	peab sulgema	has to close	grupo	alternativoj	prononco
+level	mi devas bone fermi	Pean hästi sulgema	I have to close well	grupo	alternativoj	prononco
+level	bone fermis la pordon	sulges ukse tihedalt	closed the door tightly	grupo	alternativoj	prononco
+level	trankvila, trankviliĝu	rahune, rahune maha	calm, calm down	grupo	alternativoj	prononco
+level	aŭdis sed ne aŭskultis	kuulnud, aga ei kuulanud	heard but did not listen	grupo	alternativoj	prononco
+level	aŭdis trankvilan sonon	kuulis rahulikku häält	heard a calm sound	grupo	alternativoj	prononco
+level	ĉe mi estis kvar poŝoj	minul on 4 taskut	at me, there are 4 pockets	grupo	alternativoj	prononco
+level	dek tagoj post la lasta leciono	kümme päeva pärast viimast õppetundi	ten days after the last lesson	grupo	alternativoj	prononco
+level	inter la du tabloj	kahe laua vahele	between the two tables	grupo	alternativoj	prononco
+level	tri leteroj, ses paperoj	kolm tähte, kuus paberit	three letters, six papers	grupo	alternativoj	prononco
+level	de kapo ĝis piedo	pealaest jalani	from head to foot	grupo	alternativoj	prononco
+level	kvar, kvara, kvaropo, kvarono	neli, neljas, kvartett, veerand	four, fourth, a quartet, a quarter	grupo	alternativoj	prononco
+level	kien iris la triopo?	kuhu kolmik läks	where did the trio go	grupo	alternativoj	prononco
+level	kvin fingroj en ambaŭaj manoj	viis sõrme mõlemas käes	five fingers in both hands	grupo	alternativoj	prononco
+level	si mem, sia poŝo	ise, oma tasku	by oneself, one's own pocket	grupo	alternativoj	prononco
+level	meti, kunmeti, kunmetaĵo	panema, kokku panema, ühend	put, put together, a compound	grupo	alternativoj	prononco
+level	metis en sian poŝon	oma taskusse pista	put in one's own pocket	grupo	alternativoj	prononco
+level	du cent nacioj en la mondo	kakssada riiki maailmas	two hundred nations in the world	grupo	alternativoj	prononco
+level	prenis, forprenis	võttis, võttis ära	took, took away	grupo	alternativoj	prononco
+level	prenis sep el siaj naŭ libroj	võttis enda üheksast raamatust välja seitse	took seven out of his own nine books	grupo	alternativoj	prononco
+level	lasi, forlasita	lahkuma, mahajäetud	to leave, abandoned	grupo	alternativoj	prononco
+level	lasu min sola kaj trankvila	jäta mind rahule ja rahu	leave me alone and calm	grupo	alternativoj	prononco
+level	mil ok cent ok dek sep	tuhat kaheksasada kaheksakümmend seitse (1887)	thousand eight hundred and eighty seven (1887)	grupo	alternativoj	prononco
+level	taso da teo	tass teed	a cup of tea	grupo	alternativoj	prononco
+level	oni lavis ok tasojn	keegi pesi kaheksa tassi ära	somebody washed eight cups	grupo	alternativoj	prononco
+level	du mil dek naŭ	kaks tuhat üheksateist (2019)	two thousand nineteen (2019)	grupo	alternativoj	prononco
+level	li lavis sin	ta pesi ennast	he washed himself	grupo	alternativoj	prononco
+level	sia korpo, sia propra posedo	oma keha, enda omand	one's body, one's own possession	grupo	alternativoj	prononco
+level	sur la tablo, la kato dormis	laua peal, kass magas	on the table, the cat slept	grupo	alternativoj	prononco
+level	la kato saltis sur la tablon	kass hüppas lauale	the cat jumped onto the table	grupo	alternativoj	prononco
+level	en la halo, en la halon	saalis, saali	in the hall, into the hall	grupo	alternativoj	prononco
+level	enfalis en lian manon	sattus tema kätte	fell into his hand	grupo	alternativoj	prononco
+level	labori, ellabori	töötada, täpsustada	to work, to elaborate	grupo	alternativoj	prononco
+level	ellabori por tiu libro	et seda raamatut täpsustada	to elaborate for that book	grupo	alternativoj	prononco
+level	scias, scivolas, scivolo	teab, tahab teada, uudishimu	knows, wants to know, curiosity	grupo	alternativoj	prononco
+level	dulingva, dulingveco	kakskeelsus, kakskeelsus	bilingual, bilingualism	grupo	alternativoj	prononco
+level	scivolas pri trilingva lernanto	imestab kolmkeelset õppijat	wonders about a trilingual learner	grupo	alternativoj	prononco
+level	iris, reiris	läks, tuli tagasi	went, returned	grupo	alternativoj	prononco
+level	la katoj reiris al siaj domoj	kassid pöördusid tagasi oma (oma)kodudesse	the cats returned to their (own) homes	grupo	alternativoj	prononco
+level	en la sako, en la sakon	kotti, kotti	in the bag, into the bag	grupo	alternativoj	prononco
+level	enmetu ĝin en vian sakon	pane see oma kotti	put it into your bag	grupo	alternativoj	prononco
+level	piedo, piediras, piediranto	jalg, kõnnib, jalakäija	a foot, walks, a pedestrian	grupo	alternativoj	prononco
+level	dek-tage ili piediris	kümme päeva nad kõndisid	for ten days, they walked	grupo	alternativoj	prononco
+level	preni, elpreni	võtma, välja võtma	to take, to take out	grupo	alternativoj	prononco
+level	belaj floroj, prenis belajn florojn	ilusad lilled, võttis ilusad lilled	beautiful flowers, took beautiful flowers	grupo	alternativoj	prononco
+level	li elprenis nur belajn florojn	ta võttis välja ainult ilusad lilled	he took out only beautiful flowers	grupo	alternativoj	prononco
+level	malfermis, sed tuj fermis	lahti, aga kohe kinni	opened, but immediately closed	grupo	alternativoj	prononco
+level	malfermis internacian kunvenon	avas rahvusvahelise kohtumise	opened an international meeting	grupo	alternativoj	prononco
+level	eldonis kaj disdonis	avaldatud ja levitatud	published and distributed	grupo	alternativoj	prononco
+level	la eldonisto eldonis dudek tri librojn	kirjastus andis välja kakskümmend kolm raamatut	the publisher published twenty-three books	grupo	alternativoj	prononco
+level	revenis kaj revidis sian filon	tuli tagasi ja nägi jälle oma poega	returned and saw one's own son again	grupo	alternativoj	prononco
+level	en la jaro dumil dudek tri	aastal kaks tuhat kakskümmend kolm (2023)	in the year two thousand and twenty three (2023)	grupo	alternativoj	prononco
+level	sinjoro eniris la vendejon	poodi sisenes (sisse) härrasmees	a gentleman entered (into) the store	grupo	alternativoj	prononco
+level	la vendejo de aŭtoj	autode pood	the store of cars	grupo	alternativoj	prononco
+level	tie li vidas sinjorinon	seal näeb ta naist	there he sees a lady	grupo	alternativoj	prononco
+level	karaj gesinjoroj	kallid daamid ja härrad	dear ladies and gentlemen	grupo	alternativoj	prononco
+level	tio plaĉis al mi	see meeldis mulle (see meeldib mulle)	that pleased me (I like that)	grupo	alternativoj	prononco
+level	la sinjorino plaĉis al li	daam meeldis talle (talle meeldis see daam)	the lady pleased him (he liked the lady)	grupo	alternativoj	prononco
+level	vidis la belan sinjorinon	nägi ilusat naist	saw the beautiful lady	grupo	alternativoj	prononco
+level	kiu plaĉis al li?	kes talle meeldis? (kes talle meeldis?)	who pleased him? (whom did he like?)	grupo	alternativoj	prononco
+level	la virino, kiu plaĉis al mi	naine, kes mulle meeldis	the woman, who pleased me	grupo	alternativoj	prononco
+level	tiu, kiu eniris la domon	see, kes majja sisenes	the one who entered the house	grupo	alternativoj	prononco
+level	la viro, kiu donacis ĝin	mees, kes selle annetas	the man who donated it	grupo	alternativoj	prononco
+level	li donacis ringon al lia edzino	ta kinkis oma naisele sõrmuse	he gave a ring to his wife	grupo	alternativoj	prononco
+level	la ringo plaĉis al ŝi	talle meeldis sõrmus	she liked the ring	grupo	alternativoj	prononco
+level	la edzino, al kiu la ringo plaĉis	naine, kellele sõrmus meeldis	the wife who liked the ring	grupo	alternativoj	prononco
+level	vendisto laboras en la vendejo	kaupluses töötab müüja	a salesman works in the store	grupo	alternativoj	prononco
+level	vendisto de aŭtoj	autode müüja	a salesman of cars	grupo	alternativoj	prononco
+level	la sinjoro demandis al la vendisto	küsis härra müüjalt	the gentleman asked the salesman	grupo	alternativoj	prononco
+level	kiu aŭto plaĉas al vi?	milline auto sulle meeldib?	which car do you like?	grupo	alternativoj	prononco
+level	kiun aŭton vi elektos?	millise auto sa valiksid?	which car will you choose?	grupo	alternativoj	prononco
+level	mi elektis tiun aŭton	Valisin selle auto	I chose that car	grupo	alternativoj	prononco
+level	ĝi estas pli bona	see on parem	it is better	grupo	alternativoj	prononco
+level	pli bona ol ĉi tio	parem kui see	better than this	grupo	alternativoj	prononco
+level	plej bona el ili	parim neist	best of them	grupo	alternativoj	prononco
+level	estas la plej bona	on parim	is the best	grupo	alternativoj	prononco
+level	kiu aŭto estas la plej bona?	milline auto on parim?	which car is the best?	grupo	alternativoj	prononco
+level	tiu ĉi aŭto estas pli bona	see auto on parem	this car is better	grupo	alternativoj	prononco
+level	tiu ĉi estas la plej bona	see üks on parim	this one is the best	grupo	alternativoj	prononco
+level	vidis ĉiujn aŭtojn	nägin kõiki autosid	saw all the cars	grupo	alternativoj	prononco
+level	la plej bona el ĉiuj	parim kõigist	the best of all	grupo	alternativoj	prononco
+level	ĉu ĝi estas rapida?	kas see on kiire?	is it fast?	grupo	alternativoj	prononco
+level	pli rapida ol aliaj	kiiremini kui teised	faster than others	grupo	alternativoj	prononco
+level	estas ankaŭ forta	on ka tugev	is also strong	grupo	alternativoj	prononco
+level	ho jes, kompreneble!	oh jah, muidugi!	oh yes, of course!	grupo	alternativoj	prononco
+level	estas tre forta	on väga tugev	is very strong	grupo	alternativoj	prononco
+level	certe ĝi estas forta	kindlasti on see tugev	certainly it is strong	grupo	alternativoj	prononco
+level	estas ankaŭ multekosta	on ka kallis	is also expensive	grupo	alternativoj	prononco
+level	la plej multekosta el ĉiuj	kõige kallim üldse	the most expensive of all	grupo	alternativoj	prononco
+level	malmultekosta sed forta	odav, kuid tugev	cheap but strong	grupo	alternativoj	prononco
+level	bedaŭras kaj bedaŭrindas	kahetseb ja haletseb (tasub kahetseda)	feels sorry and is pityful (worth feeling sorry)	grupo	alternativoj	prononco
+level	bedaŭrinde mi ne aĉetos	kahjuks ei osta	unfortunately I will not buy	grupo	alternativoj	prononco
+level	estas bedaŭrinda afero	on kahetsusväärne asi	is an unfortunate thing	grupo	alternativoj	prononco
+level	li aĉetis novan aŭton	ta ostis uue auto	he bought a new car	grupo	alternativoj	prononco
+level	ĉar mi ne havas monon	sest mul pole raha	because I do not have money	grupo	alternativoj	prononco
+level	mia malnova aŭto	minu vana auto	my old car	grupo	alternativoj	prononco
+level	la plej malmultekosta el ĉiuj	kõige odavam	the cheapest of all	grupo	alternativoj	prononco
+level	mi veturos tien	Ma sõidan sinna	I'll drive there	grupo	alternativoj	prononco
+level	ankoraŭ veturos per ĝi	sõidab ikka sellega	will still drive with it	grupo	alternativoj	prononco
+level	dum la tuta tago	terve päeva	all day long	grupo	alternativoj	prononco
+level	dum li diris tion	kui ta seda ütles	while he said that	grupo	alternativoj	prononco
+level	li denove rigardis ŝin	ta vaatas teda uuesti	he looked at her again	grupo	alternativoj	prononco
+level	sed la vendisto diris	aga müüja ütles	but the salesman said	grupo	alternativoj	prononco
+level	estus pli bone, ke ~	oleks parem, kui ~	it would be better that ~	grupo	alternativoj	prononco
+level	rigardu tiun ĉi sinjorinon	vaata seda daami	look at this lady	grupo	alternativoj	prononco
+level	ankaŭ tio estas tre multekosta	see on ka väga kallis	that is also very expensive	grupo	alternativoj	prononco
+level	mi estas ŝia edzo	Olen tema abikaasa	I am her husband	grupo	alternativoj	prononco
+level	kiom via vojaĝo kostis?	palju su reis maksma läks?	how much did your trip cost?	grupo	alternativoj	prononco
+level	aŭskultu la kanton de via edzino	kuula oma naise laulu	listen to your wife's song	grupo	alternativoj	prononco
+level	ne forgesu, ke ĝi tre multe kostas	ärge unustage, et see maksab palju	don’t forget that it costs a lot	grupo	alternativoj	prononco
+level	li helpis la vendiston dum du horoj	ta aitas müüjat kaks tundi	he helped the salesman for two hours	grupo	alternativoj	prononco
+level	jam pli ol tri jaroj	rohkem kui kolm aastat	for more than three years	grupo	alternativoj	prononco
+level	kovri, kovrilo, malkovri	katta, katta, paljastada (avastada)	cover, cover, uncover (discover)	grupo	alternativoj	prononco
+level	la kialon li ankoraŭ ne malkovris	põhjust pole ta veel avastanud	the reason he has not yet discovered	grupo	alternativoj	prononco
+level	kial vi komencis sendi leterojn?	miks sa kirju saatma hakkasid?	why did you start sending letters?	grupo	alternativoj	prononco
+level	dum ok monatoj li vivis tie	kaheksa kuud elas ta seal	for eight months he lived there	grupo	alternativoj	prononco
+level	ne havis tempon por aŭskulti	polnud aega kuulata	didn't have time to listen	grupo	alternativoj	prononco
+level	la aŭto estis jam plena	auto oli juba täis	the car was already full	grupo	alternativoj	prononco
+level	kion vi manĝas?	mida sa sööd	what are you eating	grupo	alternativoj	prononco
+level	kia estas la vetero?	kuidas ilm on?	what's the weather like?	grupo	alternativoj	prononco
+level	kian aŭton vi havas?	mis auto sul on?	what kind of car do you have?	grupo	alternativoj	prononco
+level	kiaj estis ŝiaj leteroj?	millised olid tema kirjad?	what were her letters like?	grupo	alternativoj	prononco
+level	kie ni estas?	kus me oleme?	where are we?	grupo	alternativoj	prononco
+level	kien vi iras?	kuhu sa lähed?	where are you going to?	grupo	alternativoj	prononco
+level	al kiu vi donis ĝin?	kellele sa selle kinkisid?	to whom did you give it?	grupo	alternativoj	prononco
+level	la viro, kun kiu vi vojaĝis	mees, kellega sa reisisid	the man whom you traveled with	grupo	alternativoj	prononco
+level	pli granda ol la aŭto	suurem kui auto	bigger than the car	grupo	alternativoj	prononco
+level	la plej alta el tiuj homoj	kõige pikem neist inimestest	the tallest of those people	grupo	alternativoj	prononco
+level	li sidis dum la manĝo	ta istus õhtusöögil	he was sitting at dinner	grupo	alternativoj	prononco
+level	ŝi skribas dum li legas	ta kirjutab, kui ta loeb	she writes while he reads	grupo	alternativoj	prononco
+level	ĉi tie, en ĉi tiu ĉambro	siin, selles toas	here, in this room	grupo	alternativoj	prononco
+level	tiu ĉi sinjoro	see härrasmees	this gentleman	grupo	alternativoj	prononco
+level	aŭskultinda novaĵo	kuulamist väärt uudis	a news worth listening	grupo	alternativoj	prononco
+level	la libro estas vere leginda	raamat on tõesti lugemist väärt	the book is really worth reading	grupo	alternativoj	prononco
+level	bedaŭra afero	õnnetu asi	an unfortunate thing	grupo	alternativoj	prononco
+level	bedaŭrinde, mi ne povas	kahjuks ma ei saa	unfortunately, I can't	grupo	alternativoj	prononco
+level	nedankinde. estis mia plezuro	Palun. see oli minu rõõm	you are welcome. it was my pleasure	grupo	alternativoj	prononco
+level	eta belulino ege belas	väike ilus tüdruk on väga ilus	small pretty girl is very beautiful	grupo	alternativoj	prononco
+level	ĉiuj amikoj amas ŝin	kõik sõbrad armastavad teda	all friends love her	grupo	alternativoj	prononco
+level	antaŭ tri monatoj	kolm kuud tagasi	three months ago	grupo	alternativoj	prononco
+level	okazis malbono al ŝi	temaga juhtus midagi halba	something bad happened to her	grupo	alternativoj	prononco
+level	ŝi falis pro aŭto	ta kukkus auto tõttu	she fell because of a car	grupo	alternativoj	prononco
+level	malsaniĝis kaj temperaturo altiĝis	jäi haigeks ja temperatuur tõusis	became ill and temperature rose	grupo	alternativoj	prononco
+level	patrino diris, ke ŝi devas ripozi	ema ütles, et peaks puhkama	mother said she should rest	grupo	alternativoj	prononco
+level	ŝi devas resti hejme	ta peab koju jääma	she has to stay home	grupo	alternativoj	prononco
+level	ŝi vokos doktoron	ta helistab arstile	she will call a doctor	grupo	alternativoj	prononco
+level	je la naŭa horo	kell üheksa	at nine o'clock	grupo	alternativoj	prononco
+level	matene venis je la oka	hommikul tuli kell kaheksa	in the morning came at eight o'clock	grupo	alternativoj	prononco
+level	je la sepa morgaŭ vespere	homme õhtul kell seitse	at seven tomorrow evening	grupo	alternativoj	prononco
+level	montris liajn manojn	näitas oma käsi	showed his hands	grupo	alternativoj	prononco
+level	vesto, vestiĝas	kleit, läheb riidesse	dress, is getting dressed	grupo	alternativoj	prononco
+level	vestiĝu kaj varmigu vian korpon	pane riidesse ja soojenda oma keha	get dressed and warm your body	grupo	alternativoj	prononco
+level	hejme tuj malvestis kaj duŝis	kodus kohe riidest lahti ja duši all	at home immediately undressed and showered	grupo	alternativoj	prononco
+level	doktoro rigardis ĉion	arst vaatas kõike	a doctor looked at everything	grupo	alternativoj	prononco
+level	bone rigardis kaj fine diris	vaatas põhjalikult ja ütles lõpuks	looked throughly and finally said	grupo	alternativoj	prononco
+level	unu semajnon restu hejme	jääda nädalaks koju	stay home for a week	grupo	alternativoj	prononco
+level	deziras, ke vi estu trankvila	tahab, et sa oleksid rahulik	wants you to be calm	grupo	alternativoj	prononco
+level	post unu semajno	ühe nädala pärast	after one week	grupo	alternativoj	prononco
+level	vi fartos pli bone	tunned end paremini	you will feel better	grupo	alternativoj	prononco
+level	trinku multe da teo	juua palju teed	drink plenty of tea	grupo	alternativoj	prononco
+level	venos por revidi vin	tuleb sind uuesti vaatama	will come to see you again	grupo	alternativoj	prononco
+level	ankaŭ li estu trankvila	las ta olla ka rahulik	let him be calm too	grupo	alternativoj	prononco
+level	sana homo, sanulo	terve mees, terve inimene	healthy man, healthy person	grupo	alternativoj	prononco
+level	zorgis pri si mem	hoolitses enda eest	took care of oneself	grupo	alternativoj	prononco
+level	tuta afero tuje utilis al mi	kogu asi oli mulle korraga kasulik	the whole thing was useful to me at once	grupo	alternativoj	prononco
+level	rimarkis, ke teruraĵo proksimas	märkasin, et lähedal on kohutav asi	noticed that horrible thing is near	grupo	alternativoj	prononco
+level	petis tuj rimarki ĝin	palus seda kohe tähele panna	asked to notice it immediately	grupo	alternativoj	prononco
+level	pensis, ke tio ne necesas	arvas, et see pole vajalik	thought that was not necessary	grupo	alternativoj	prononco
+level	loĝis proksime, kaj tio utilis	elas lähedal ja see oli kasulik	lived nearby, and that was useful	grupo	alternativoj	prononco
+level	nia lando hodiaŭ teruriĝis	meie riik on täna hirmunud	our country became terrified today	grupo	alternativoj	prononco
+level	karaj infanoj el ĉiuj familioj	kallid lapsed kõigist peredest	dear children from all families	grupo	alternativoj	prononco
+level	unu fojon hieraŭ, du fojojn morgaŭ	üks kord eile, kaks korda homme	once yesterday, twice tomorrow	grupo	alternativoj	prononco
+level	hodiaŭ familioj bezonas infanojn	tänapäeval vajavad pered lapsi	today families need children	grupo	alternativoj	prononco
+level	esperis, ke li fartos bone morgaŭ	lootis, et ta saab homme terveks	hoped he would be well tomorrow	grupo	alternativoj	prononco
+level	li fartis ege trankvila	ta tundis (on olnud) väga rahulik	he was feeling (has been) very calm	grupo	alternativoj	prononco
+level	tri etuloj altigis la monton	kolm väikest tõstsid mäe üles	three little ones raised the mountain	grupo	alternativoj	prononco
+level	gravuloj ne petis helpon	tähtsad inimesed abi ei palunud	important people did not ask for help	grupo	alternativoj	prononco
+level	piediris tien por helpi	kõndis sinna appi	walked there to help	grupo	alternativoj	prononco
+level	restu hejme se temperaturo altas	jääge koju, kui temperatuur on kõrge	stay home if temperature is high	grupo	alternativoj	prononco
+level	temperaturo restis simila hodiaŭ	temperatuur püsis täna sarnane	temperature remained similar today	grupo	alternativoj	prononco
+level	voku la doktoron je la naŭa	helista arstile kell üheksa	call the doctor at nine	grupo	alternativoj	prononco
+level	montru ĝin al via doktoro	näidake seda oma arstile	show it to your doctor	grupo	alternativoj	prononco
+level	por montri vian piedon	oma jalga näidata	to show your foot	grupo	alternativoj	prononco
+level	vestu ĉi tiun ĉemizon	kanna seda särki	wear this shirt	grupo	alternativoj	prononco
+level	semajnfine ĉio trankviliĝos	nädalavahetusel rahuneb kõik maha	on the weekend everything will calm down	grupo	alternativoj	prononco
+level	sub la te-taso kion vi trovis?	mida sa leidsid teetassi alt?	under the tea-cup what did you find?	grupo	alternativoj	prononco
+level	mi deziras matenan teon	Ma tahan hommikuteed	I want morning tea	grupo	alternativoj	prononco
+level	esperis trankvilan vesperon	lootis rahulikku õhtut	hoped for a quiet evening	grupo	alternativoj	prononco
+level	deziras, ke vi lernu	tahab, et sa õpiksid	wants that you learn	grupo	alternativoj	prononco
+level	insistis, ke mi iru	nõudis, et ma läheksin	insisted that I go	grupo	alternativoj	prononco
+level	je kioma horo?	mis kell?	at what hour?	grupo	alternativoj	prononco
+level	je la sesa, li venos	kell kuus ta tuleb	at six he will come	grupo	alternativoj	prononco
+level	la libreto estis ĉarma	libreto oli võluv	the libretto was charming	grupo	alternativoj	prononco
+level	estu trankvila	ole vaikselt	be quiet	grupo	alternativoj	prononco
+level	li estu trankvila	las ta vaikib	let him be quiet	grupo	alternativoj	prononco
+level	ankaŭ li	tema ka	he too	grupo	alternativoj	prononco
+level	mi deziras	ma tahan (soov)	I want (desire)	grupo	alternativoj	prononco
+level	mi deziras, ke ~	Soovin (soovin), et ~	I wish (desire) that ~	grupo	alternativoj	prononco
+level	ke vi lernu	et sa õpid	that you learn	grupo	alternativoj	prononco
+level	mi deziras, ke vi lernu	Ma tahan, et sa õpiksid	I want you to learn	grupo	alternativoj	prononco
+level	patro insistas	isa nõuab	father insists	grupo	alternativoj	prononco
+level	patro insistas, ke ~	isa nõuab, et ~	father insists that ~	grupo	alternativoj	prononco
+level	ke mi iru	et ma lähen	that I go	grupo	alternativoj	prononco
+level	patro insistas, ke mi iru	isa nõuab, et ma läheksin	father insists that I go	grupo	alternativoj	prononco
+level	je kioma horo	mis kell	at what hour	grupo	alternativoj	prononco
+level	je kioma horo vi venos?	mis kell sa tuled?	what time do you come?	grupo	alternativoj	prononco
+level	je la kvina	kell viis)	at five (o'clock)	grupo	alternativoj	prononco
+level	je la kvina horo	kell viis	at five o'clock	grupo	alternativoj	prononco
+level	kiel li fartas?	kuidas tal läheb?	how does he doing?	grupo	alternativoj	prononco
+level	kiel vi fartis lastatempe?	kuidas sul viimasel ajal läinud on?	how have you been lately?	grupo	alternativoj	prononco
+level	etaj libroj belas	väikesed raamatud on ilusad	little books are beautiful	grupo	alternativoj	prononco
+level	libreto, belaj libroj	vihik, ilusad raamatud	a booklet, beautiful books	grupo	alternativoj	prononco
+level	bela, beleta, belega	ilus, natuke ilus, väga ilus	beautiful, a little pretty, very beautiful	grupo	alternativoj	prononco
+level	varma, varmeta, varmega	soe, leige, väga kuum	warm, lukewarm, very hot	grupo	alternativoj	prononco
+level	librego, libreto	suur raamat, vihik	a big book, a booklet	grupo	alternativoj	prononco
+level	bona, bonega, bonege	hea, suurepärane, hästi	good, great, well	grupo	alternativoj	prononco
+level	riĉa, riĉiĝi, riĉulo	rikas, saa rikkaks, rikas inimene	rich, become rich, a rich person	grupo	alternativoj	prononco
+level	trankvila, trankviliĝi, trankviliĝu	rahunema, rahunema, rahunema	calm, to calm down, calm down	grupo	alternativoj	prononco
+level	sana, resaniĝi, resaniĝis	terve, terveks saama, terveks saanud	healthy, to become healed, became healed	grupo	alternativoj	prononco
+level	edzo, edziĝo, geedziĝis	abikaasa, abielu, abielus	a husband, marriage, married	grupo	alternativoj	prononco
+level	leterportisto	kirjapostiljon	a letter postman	grupo	alternativoj	prononco
+level	hejmlando	kodumaa	a homeland	grupo	alternativoj	prononco
+level	iom, iomete	natuke, natuke	somewhat, a little	grupo	alternativoj	prononco
+level	ni bonege vespermanĝis	meil oli suurepärane õhtusöök	we had a great dinner	grupo	alternativoj	prononco
+level	espereble, prizorgu vin	loodetavasti hoolitsege enda eest	hopefully, take care of yourself	grupo	alternativoj	prononco
+level	mi zorgis pri la altkvalita loĝejo	Mulle meeldis kvaliteetne eluase	I cared about the high-quality housing	grupo	alternativoj	prononco
+level	pripensu dufoje, multfoje	mõtle kaks korda, mitu korda	think twice, many times	grupo	alternativoj	prononco
+level	kiu deprenis la libreton?	kes vihiku maha võttis?	who took down the booklet?	grupo	alternativoj	prononco
+level	kato, kiu nomiĝas Cezaro	kass nimega Caesar	a cat named Caesar	grupo	alternativoj	prononco
+level	kuko, kiu estas sur la tablo	kook, mis on laual	a cake which is on the table	grupo	alternativoj	prononco
+level	manĝu kukon, kiu estas sur la tablo	süüa kooki, mis on laual	eat a cake that is on the table	grupo	alternativoj	prononco
+level	fariĝis varmega kaj ruĝiĝis	muutus kuumaks ja punastas	became hot and blushed	grupo	alternativoj	prononco
+level	patro volas, ke lia infano manĝu	isa tahab, et tema laps sööks	a father wants his child to eat	grupo	alternativoj	prononco
+level	en malgranda ĉambro	väikeses toas	in a small room	grupo	alternativoj	prononco
+level	ni loĝas en ~	me elame ~	we live in ~	grupo	alternativoj	prononco
+level	mi fariĝis maltrankvila	Muutusin ärevaks	I became anxious	grupo	alternativoj	prononco
+level	tiam, kiam mi vidis vin	sel ajal, kui ma sind nägin	at that time when I saw you	grupo	alternativoj	prononco
+level	ĉiuj rimarkis tion	kõik märkasid seda	everyone noticed that	grupo	alternativoj	prononco
+level	tion, ke ŝi estas belega	see, et ta on ilus	the fact that she is beautiful	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke ~ ?	kas sa tahad seda ~? (deziri)	do you want that ~ ? (deziri)	grupo	alternativoj	prononco
+level	ke mi montru al vi	et ma võin teile näidata	that I may show you	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke mi montru?	tahad ma näitan?	do you want me to show?	grupo	alternativoj	prononco
+level	mian plej novan libron	minu uusim raamat (eesmärk)	my newest book (objective)	grupo	alternativoj	prononco
+level	morgaŭ matene, kion vi volas?	homme hommikul, mida sa tahad?	tomorrow morning, what do you want?	grupo	alternativoj	prononco
+level	matenmanĝis malfrue	hommikusöök oli hilja	had breakfast late	grupo	alternativoj	prononco
+level	kiam Marko alvenos?	millal Mark tuleb?	when will Mark arrive?	grupo	alternativoj	prononco
+level	je la kvina aŭ je la oka horo	kell viis või kaheksa	at five or eight o'clock	grupo	alternativoj	prononco
+level	kiam vi rimarkis, ke ~ ?	millal sa seda märkasid ~ ?	when did you notice that ~ ?	grupo	alternativoj	prononco
+level	la tuta familio nomas min bonfarulo	kogu pere kutsub mind heategijaks	the whole family calls me a benefactor	grupo	alternativoj	prononco
+level	utila por vi	teile kasulik	useful for you	grupo	alternativoj	prononco
+level	ĉu la libreto estis utila?	kas brošüürist oli kasu?	was the booklet useful?	grupo	alternativoj	prononco
+level	tiu libreto, kiun mi sendis	brošüüri, mille saatsin	the booklet, which I sent	grupo	alternativoj	prononco
+level	matene dormis tre longe	hommikul magas kaua	in the morning slept for a long time	grupo	alternativoj	prononco
+level	kiam li vidis la sunon	kui ta päikest nägi	when he saw the sun	grupo	alternativoj	prononco
+level	subite li eksaltis	järsku hüppas ta püsti	suddenly he jumped up	grupo	alternativoj	prononco
+level	li estis ĉiam frua	ta oli alati vara	he was always early	grupo	alternativoj	prononco
+level	ĉiam li malfruas	ta jääb alati hiljaks	he is always late	grupo	alternativoj	prononco
+level	tiam, kiam li devas iri	sel ajal, kui ta peab minema	at that time, when he has to go	grupo	alternativoj	prononco
+level	iri al la lernejo	kooli minna	to go to the school	grupo	alternativoj	prononco
+level	li scias, ke ~	ta teab, et ~	he knows, that ~	grupo	alternativoj	prononco
+level	li scias tion, ke ~	ta teab tõsiasja, et ~	he knows the fact, that ~	grupo	alternativoj	prononco
+level	tion, ke la instruisto malŝatas abelon	see, et õpetaja vihkab mesilasi	the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias tion, ke la instruisto malŝatas abelon	teab tõsiasja, et õpetaja vihkab mesilasi	knows the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias, ke la instruisto malŝatas tion	teab, et õpetaja vihkab seda	knows that the teacher hates that	grupo	alternativoj	prononco
+level	sed hodiaŭ li trinkis la kafon	aga täna jõi ta kohvi	but today he drank the coffee	grupo	alternativoj	prononco
+level	li rapide surmetas la vestaĵon	ta paneb ruttu riided selga	he quickly puts on the clothes	grupo	alternativoj	prononco
+level	li ne volas malfrui	ta ei taha hiljaks jääda	he doesn't want to be late	grupo	alternativoj	prononco
+level	rapidege kun la libroj en la mano	väga kiiresti, kui raamatud käes	very quickly with the books in hand	grupo	alternativoj	prononco
+level	poste li kuris kaj saltis	hiljem ta jooksis ja hüppas	later he ran and jumped	grupo	alternativoj	prononco
+level	li kuris kaj saltis	ta jooksis ja hüppas	he ran and jumped	grupo	alternativoj	prononco
+level	laŭ la strato	mööda tänavat	along the street	grupo	alternativoj	prononco
+level	la homoj rigardis lin	inimesed vaatasid teda	the people looked at him	grupo	alternativoj	prononco
+level	rigardis lin kaj diris	vaatas talle otsa ja ütles	looked at him and said	grupo	alternativoj	prononco
+level	saĝa kaj malsaĝa	tark ja rumal	wise and foolish	grupo	alternativoj	prononco
+level	kia malsaĝa knabo!	milline rumal poiss!	what a foolish boy!	grupo	alternativoj	prononco
+level	estis antaŭ lernejo	oli kooli ees	was in front of a school	grupo	alternativoj	prononco
+level	baldaŭ	varsti	soon	grupo	alternativoj	prononco
+level	li estis antaŭ ~	ta oli ~ ees	he was in front of ~	grupo	alternativoj	prononco
+level	iri kaj eniri	minna ja siseneda	to go and to enter	grupo	alternativoj	prononco
+level	li volis eniri	ta tahtis siseneda	he wanted to enter	grupo	alternativoj	prononco
+level	eniri la lernejon	kooli sisse astuda	to enter into the school	grupo	alternativoj	prononco
+level	sed tamen	aga siiski	but however	grupo	alternativoj	prononco
+level	sed li ne povis	aga ta ei saanud	but he couldn't	grupo	alternativoj	prononco
+level	fermi kaj fermita	sulgeda ja sulgeda	to close and closed	grupo	alternativoj	prononco
+level	ĝi estis fermita	see oli suletud	it was closed	grupo	alternativoj	prononco
+level	nek ~ nek ~	ei ~ ega ~	neither ~ nor ~	grupo	alternativoj	prononco
+level	nek instruisto nek gelernantoj	ei õpetaja ega mees- ja naisõpilased	neither a teacher nor male-and-female students	grupo	alternativoj	prononco
+level	vidis nek instruiston nek gelernantojn	ei näinud ei õpetajat ega õpilasi	saw neither a teacher nor students	grupo	alternativoj	prononco
+level	sidi, eksidi	istuma, istuma	to sit, to get sitted	grupo	alternativoj	prononco
+level	eksidis	sai istuma (oli istunud)	got seated (had seated)	grupo	alternativoj	prononco
+level	li eksidis	ta istus istuma	he got seated	grupo	alternativoj	prononco
+level	kaj pensis	ja mõtles	and thought	grupo	alternativoj	prononco
+level	kio okazis?	mis juhtus?	what did happen?	grupo	alternativoj	prononco
+level	diable	kohutavale (nagu kurat)	to the awful (like a devil)	grupo	alternativoj	prononco
+level	damne	tammi seda	dam it	grupo	alternativoj	prononco
+level	memoras	mäletab	remembers	grupo	alternativoj	prononco
+level	nun mi memoras	nüüd tuleb meelde	now I remember	grupo	alternativoj	prononco
+level	dimanĉo	pühapäev	Sunday	grupo	alternativoj	prononco
+level	hodiaŭ estas ~	täna on ~	today is ~	grupo	alternativoj	prononco
+level	hodiaŭ estas dimanĉo	täna on pühapäev	today is Sunday	grupo	alternativoj	prononco
+level	dormi kaj ekdormi	magama ja magama jääda	to sleep and to get into sleep	grupo	alternativoj	prononco
+level	suno kaj luno	päike ja kuu	a sun and a moon	grupo	alternativoj	prononco
+level	subita kaj subite	äkiliselt ja ootamatult	sudden and suddenly	grupo	alternativoj	prononco
+level	ek!	väljas! (alustama)	off! (to start)	grupo	alternativoj	prononco
+level	salti kaj eksaltis	hüppama ja hüppama	to jump and jumped 	grupo	alternativoj	prononco
+level	ĉiam frua	alati vara	always early	grupo	alternativoj	prononco
+level	hodiaŭ metis kaj kuris	täna pani ja jooksis	today put and ran	grupo	alternativoj	prononco
+level	aĵo, ne aĝo	asi, mitte vanus	a thing not age	grupo	alternativoj	prononco
+level	kuris laŭ homoj saĝaj	jooksis koos tarkade inimestega	ran along wise people	grupo	alternativoj	prononco
+level	laŭeble baldaŭ	niipea kui võimalik	soon as possible	grupo	alternativoj	prononco
+level	kia knabo, kia knabino	mis poiss, milline tüdruk	what a boy, what a girl	grupo	alternativoj	prononco
+level	nek pensita nek memorita	ei mõelnud ega pähe õppinud	neither thought nor memorized	grupo	alternativoj	prononco
+level	diablo atendis akvon dimanĉe	saatan ootas pühapäeval vett	a devil waited for water on Sunday	grupo	alternativoj	prononco
+level	tiom malgranda momento	selline väike hetk	such a small moment	grupo	alternativoj	prononco
+level	eĉ tiom malgranda momento valoras	isegi nii väike hetk tasub end ära	even such a small moment is worthwhile	grupo	alternativoj	prononco
+level	kriis for ĝis nokto	nuttis ööni	cried away until night	grupo	alternativoj	prononco
+level	lasis la poŝton de la mano	pane post käest ära	put away the mailpost from the hand	grupo	alternativoj	prononco
+level	ridis mem lasante la poŝton	naeris omaette, posti käest pannes	laughed by oneself, putting away the mailpost	grupo	alternativoj	prononco
+level	nek li nek ŝi ridis	ei tema ega tema naernud	neither he nor she laughed	grupo	alternativoj	prononco
+level	ŝi nek ridis nek respondis	ta ei naernud ega vastanud	she neither laughed nor answered	grupo	alternativoj	prononco
+level	li nek sidas nek rigardas	ta ei istu ega vaata	he neither sits nor watches	grupo	alternativoj	prononco
+level	neniam mi vidis	ma ei ole kunagi näinud	I have never seen	grupo	alternativoj	prononco
+level	mi neniam diros al iu	Ma ei räägi kunagi kellelegi	I will never tell anyone	grupo	alternativoj	prononco
+level	diru al neniu	ära ütle kellelegi	tell no one	grupo	alternativoj	prononco
+level	mi neniam diros	Ma ei ütle kunagi	I will never say	grupo	alternativoj	prononco
+level	mem	iseendale (iseendast)	to oneself (by oneself)	grupo	alternativoj	prononco
+level	mi mem faris	Ma tegin seda ise	I did it myself	grupo	alternativoj	prononco
+level	faris tion	tegi seda (sai)	did it (made it)	grupo	alternativoj	prononco
+level	mem faris tion	tegi seda ise (tegi ise)	did it oneself (made it oneself)	grupo	alternativoj	prononco
+level	ĝis la revido, ĝis revido	näeme (jälle), näeme (jälle)	see you (again), see you (again)	grupo	alternativoj	prononco
+level	ĝis!	kuni! (hüvasti!)	until! (goodbye!)	grupo	alternativoj	prononco
+level	ekparoli	rääkima hakata	to start talking	grupo	alternativoj	prononco
+level	ekparolis, komencis paroli finfine	hakkas rääkima, hakkas lõpuks rääkima	started saying, began to speak at last	grupo	alternativoj	prononco
+level	trinkis rapidege	jõi väga kiiresti	drank very fast	grupo	alternativoj	prononco
+level	trinkis matenan trinkaĵon	jõi hommikust jooki	had a morning drink	grupo	alternativoj	prononco
+level	por frue veni	varakult tulema	to come early	grupo	alternativoj	prononco
+level	veni al la lernejo	kooli tulema	to come to school	grupo	alternativoj	prononco
+level	frue veni al ~	~ varakult tulema	to come early to ~	grupo	alternativoj	prononco
+level	ne aŭdis novaĵon	uudiseid ei kuulnud	didn't hear news	grupo	alternativoj	prononco
+level	ankoraŭ ne aŭdis	ei kuulnud veel	didn't hear yet	grupo	alternativoj	prononco
+level	mi ankoraŭ ne aŭdis	Ma ei kuulnud veel	I didn't hear yet	grupo	alternativoj	prononco
+level	en tiu momento	sel hetkel	in that moment	grupo	alternativoj	prononco
+level	en tiu momento li ekkriis	sel hetkel ta nuttis	in that moment he cried	grupo	alternativoj	prononco
+level	knabo, kiu ne amas	poiss, kes ei armasta	a boy, who does not love	grupo	alternativoj	prononco
+level	geknaboj	poisid ja tüdrukud	boys and girls	grupo	alternativoj	prononco
+level	aliaj geknaboj	teised poisid ja tüdrukud	other boys and girls	grupo	alternativoj	prononco
+level	ne amas aliajn geknabojn	ei armasta teisi poisse ja tüdrukuid	does not love other boys and girls	grupo	alternativoj	prononco
+level	nek amikojn, nek amikinojn	ei sõbrad ega sõbrannad	neither friends nor girl friends	grupo	alternativoj	prononco
+level	havas nek monon, nek tempon	tal pole ei raha ega aega	does not have neither money nor time	grupo	alternativoj	prononco
+level	kiu havis la libron?	kelle käes oli raamat?	who had the book?	grupo	alternativoj	prononco
+level	la libron, kiun vi atendis	raamat, mida sa ootasid	the book which you waited	grupo	alternativoj	prononco
+level	tiun, kiun vi atendis pli ol du jarojn	mida sa ootasid rohkem kui 2 aastat	that, which you waited for more than 2 years	grupo	alternativoj	prononco
+level	ĉu vi volas tion?	kas sa tahad seda?	do you want that?	grupo	alternativoj	prononco
+level	ĉu vi volas, ke ~ ?	kas sa tahad seda ~?	do you want that ~ ?	grupo	alternativoj	prononco
+level	plej kara	kallim	dearest	grupo	alternativoj	prononco
+level	plej kara foto	kõige kallim foto	dearest photo	grupo	alternativoj	prononco
+level	mian plej karan foton	minu kõige kallim foto	my dearest photo	grupo	alternativoj	prononco
+level	kie vi aĉetis ~ ?	kust sa ~ ostsid?	where did you buy ~ ?	grupo	alternativoj	prononco
+level	tiu vestaĵo	see riietus	that clothing	grupo	alternativoj	prononco
+level	tiun vestaĵon	see riietus (eesmärk)	that clothing (objective)	grupo	alternativoj	prononco
+level	aĉetis tiun vestaĵon	ostis selle riide	bought that outfit	grupo	alternativoj	prononco
+level	vi iros tien	sa lähed sinna	you will go there	grupo	alternativoj	prononco
+level	kien vi iros?	kuhu sa lähed?	where are you going to?	grupo	alternativoj	prononco
+level	suna tago	päikeseline päev	sunny day	grupo	alternativoj	prononco
+level	estos suna tago	tuleb päikesepaisteline päev	it will be a sunny day	grupo	alternativoj	prononco
+level	se estos suna tago	kui tuleb päikesepaisteline päev	if it will be a sunny day	grupo	alternativoj	prononco
+level	via frato jam ekiris	su vend on juba alustanud	your brother has already started	grupo	alternativoj	prononco
+level	ĉu via frato jam ekiris?	kas su vend on juba alustanud?	has your brother started yet?	grupo	alternativoj	prononco
+level	kie estas la akvo?	kus on vesi	where is the water	grupo	alternativoj	prononco
+level	kunporti la akvon	vett tuua	to bring the water	grupo	alternativoj	prononco
+level	vi mem kunportis	sa ise tõid	you yourself brought	grupo	alternativoj	prononco
+level	la akvon, kion vi mem kunportis	vesi, mille sa ise tõid	the water, that you yourself brought	grupo	alternativoj	prononco
+level	estis tre trankvila	oli väga vaikne	was very quiet	grupo	alternativoj	prononco
+level	hodiaŭ mia patrino estis ~	täna oli mu ema ~	today my mother was ~	grupo	alternativoj	prononco
+level	mi venis el ~	Ma tulin ~	I came from ~	grupo	alternativoj	prononco
+level	el la lernejo	koolist välja	out of the school	grupo	alternativoj	prononco
+level	raportis al ~	teatas ~	reported to ~	grupo	alternativoj	prononco
+level	kaj raportis al ŝi	ja teatas talle	and reported to her	grupo	alternativoj	prononco
+level	raportis, ke ~	teatas, et ~	reported that ~	grupo	alternativoj	prononco
+level	raportis, ke mi ricevos	teatas, et saan kätte	reported that I will receive	grupo	alternativoj	prononco
+level	mi ricevos malbonan noton	Ma saan halva hinde	I will get a bad grade	grupo	alternativoj	prononco
+level	ŝi diris, ke ~	ta ütles, et ~	she said that ~	grupo	alternativoj	prononco
+level	vi devas laborigi ~	pead ~ tööle panema	you have to make ~ work	grupo	alternativoj	prononco
+level	pli multe	rohkem	more	grupo	alternativoj	prononco
+level	pli multe laborigi	et tööd rohkem teha	to make work more	grupo	alternativoj	prononco
+level	laborigi vian kapon	et su pea tööle hakkaks	to make your head work	grupo	alternativoj	prononco
+level	kiom da malbonaj notoj	kui palju halbu hindeid	how many bad grades	grupo	alternativoj	prononco
+level	vi havas tiom da malbonaj notoj	sul on nii palju halbu hindeid	you have so many bad grades	grupo	alternativoj	prononco
+level	estis malĝoja	oli kurb	was sad	grupo	alternativoj	prononco
+level	en vian ĉambron	oma tuppa	into your room	grupo	alternativoj	prononco
+level	iru en vian ĉambron	mine oma tuppa	go into your room	grupo	alternativoj	prononco
+level	iru kaj lernu	mine ja õpi	go and learn	grupo	alternativoj	prononco
+level	mi sidis	Istusin	I sat	grupo	alternativoj	prononco
+level	en mia ĉambro	minu toas	in my room	grupo	alternativoj	prononco
+level	sidis en mia ĉambro	istus minu toas	sat in my room	grupo	alternativoj	prononco
+level	nek lerni nek legi	ei õpi ega loe	neither learn nor read	grupo	alternativoj	prononco
+level	sed mi povis nek lerni nek legi	aga ma ei osanud õppida ega lugeda	but I could neither learn nor read	grupo	alternativoj	prononco
+level	miaj pensoj	minu mõtted	my thoughts	grupo	alternativoj	prononco
+level	ĉe ludo	mängul	at a game	grupo	alternativoj	prononco
+level	ludo kun miaj amikoj	mäng oma sõpradega	game with my friends	grupo	alternativoj	prononco
+level	ĉe sporto	spordis	at sport	grupo	alternativoj	prononco
+level	al mi mem	iseendale	to myself	grupo	alternativoj	prononco
+level	diris al mi mem	ütlesin endale	said to myself	grupo	alternativoj	prononco
+level	tiom malsaĝa	nii rumal	so stupid	grupo	alternativoj	prononco
+level	ĉu mi estas tiom malsaĝa?	kas ma olen nii loll?	am I that stupid?	grupo	alternativoj	prononco
+level	kvankam mi lernis multe	kuigi õppisin palju	although I learned a lot	grupo	alternativoj	prononco
+level	la patrino eniris	ema sisenes	the mother entered	grupo	alternativoj	prononco
+level	miaj vortoj	minu sõnad	my words	grupo	alternativoj	prononco
+level	kaj aŭdis miajn vortojn	ja kuulis mu sõnu	and heard my words	grupo	alternativoj	prononco
+level	ŝi tuj respondis	vastas ta kohe	she answered immediately	grupo	alternativoj	prononco
+level	ne, mia kara	ei, mu kallis	no, my dear	grupo	alternativoj	prononco
+level	vi ne estas malsaĝa	sa ei ole loll	you are not stupid	grupo	alternativoj	prononco
+level	la problemo estas, ke ~	probleem on selles, et ~	the problem is that ~	grupo	alternativoj	prononco
+level	ke vi devas lerni	et sa pead õppima	that you must learn	grupo	alternativoj	prononco
+level	devas lerni multe pli	peab palju rohkem õppima	must learn much more	grupo	alternativoj	prononco
+level	tiam vi ne havos	siis sul ei ole	then you will not have	grupo	alternativoj	prononco
+level	malbonaj notoj	halvad hinded	bad grades	grupo	alternativoj	prononco
+level	havos nur malbonajn notojn	saavad ainult halvad hinded	will have only bad grades	grupo	alternativoj	prononco
+level	ankaŭ nun	ka nüüd	also now	grupo	alternativoj	prononco
+level	mi ne havas ilin	Mul pole neid	I don't have them	grupo	alternativoj	prononco
+level	mi havas bonan noton	Mul on hea hinne	I have a good grade	grupo	alternativoj	prononco
+level	pri muziko	muusika kohta	about music	grupo	alternativoj	prononco
+level	bonan noton pri muziko	hea noot muusika kohta	a good note on music	grupo	alternativoj	prononco
+level	la patrino subite ekridis	ema puhkes järsku naerma	the mother suddenly burst out laughing	grupo	alternativoj	prononco
+level	tio plibeligis ~	et kaunistatud ~	that beautified ~	grupo	alternativoj	prononco
+level	mian tagon	minu päev	my day	grupo	alternativoj	prononco
+level	plibeligis mian tagon	tegi mu päeva paremaks	made my day	grupo	alternativoj	prononco
+level	sed tamen restis	aga jäi ikkagi	but still remained	grupo	alternativoj	prononco
+level	sed la problemo tamen restis	aga probleem jäi ikkagi alles	but the problem still remained	grupo	alternativoj	prononco
+level	kilogramo da ~	kilogramm ~	a kilogram of ~	grupo	alternativoj	prononco
+level	kilogramo da sukero	kilogramm suhkrut	a kilogram of sugar	grupo	alternativoj	prononco
+level	glaso da ~	klaas ~	a glass of ~	grupo	alternativoj	prononco
+level	glaso da akvo	klaas vett	a glass of water	grupo	alternativoj	prononco
+level	multe da ~	palju ~	a lot of ~	grupo	alternativoj	prononco
+level	multe da ideoj	palju ideid	lots of ideas	grupo	alternativoj	prononco
+level	deteni sin	tagasi hoidma	to hold back	grupo	alternativoj	prononco
+level	ordigis ĉion	kõik korda ajanud	sorted everything out	grupo	alternativoj	prononco
+level	transdonis al li	talle üle antud	handed over to him	grupo	alternativoj	prononco
+level	mi petas	ma küsin	I'm asking	grupo	alternativoj	prononco
+level	glason da kafo	klaasi kohvi	a glass of coffee	grupo	alternativoj	prononco
+level	kaj iom da akvo	ja natuke vett	and some water	grupo	alternativoj	prononco
+level	mi petas glason da kafo	Tahaks klaasi kohvi	I would like a glass of coffee	grupo	alternativoj	prononco
+level	mi petas tason da teo	Tahaks tassi teed	I would like a cup of tea	grupo	alternativoj	prononco
+level	doloris lin	talle haiget teha	hurt him	grupo	alternativoj	prononco
+level	la kapo doloris lin	pea valutas	his head hurt	grupo	alternativoj	prononco
+level	li malsaniĝis	ta jäi haigeks	he fell ill	grupo	alternativoj	prononco
+level	ŝatas esti bela	meeldib ilus olla	likes to be beautiful	grupo	alternativoj	prononco
+level	ŝi beligis sian vizaĝon	ta kaunistas oma nägu	she beautified her face	grupo	alternativoj	prononco
+level	la knabo ŝatas esti bela	poisile meeldib ilus olla	the boy likes to be pretty	grupo	alternativoj	prononco
+level	pro tio ŝi beligis ĝin	seetõttu ta kaunistas seda	therefore she beautified it	grupo	alternativoj	prononco
+level	post la tagmanĝo	peale lõunat	after lunch	grupo	alternativoj	prononco
+level	purigi la kuirejon	kööki koristama	to clean the kitchen	grupo	alternativoj	prononco
+level	kiu purigos la kuirejon?	kes kööki koristab?	who will clean the kitchen?	grupo	alternativoj	prononco
+level	volas trinki	tahab juua	wants to drink	grupo	alternativoj	prononco
+level	kion vi volas trinki?	mida sa tahad juua	what do you want to drink	grupo	alternativoj	prononco
+level	trinki teon	teed juua	to drink tea	grupo	alternativoj	prononco
+level	iom da akvo	natuke vett	a little of water	grupo	alternativoj	prononco
+level	ĉu vi volas nenion?	kas sa ei taha midagi?	do you want nothing?	grupo	alternativoj	prononco
+level	tiel subite	nii äkki	so suddenly	grupo	alternativoj	prononco
+level	kial vi decidis ~ ?	miks sa otsustasid ~ ?	why did you decide ~ ?	grupo	alternativoj	prononco
+level	kial vi tiel subite decidis ~ ?	miks sa otsustasid ~ nii äkki?	why did you decide ~ so suddenly?	grupo	alternativoj	prononco
+level	via ĉambro	sinu tuba	your room	grupo	alternativoj	prononco
+level	via ĉambreto	teie väike tuba	your little room	grupo	alternativoj	prononco
+level	vian ĉambreton	oma väikesesse tuppa	to your little room	grupo	alternativoj	prononco
+level	renovigi vian ĉambreton	oma väikese toa renoveerimiseks	to renovate your little room	grupo	alternativoj	prononco
+level	decidis renovigi vian ĉambreton	otsustasin oma väikese toa renoveerida	decided to renovate your little room	grupo	alternativoj	prononco
+level	al kiu	kellele	to whom	grupo	alternativoj	prononco
+level	vi donis ~	sa andsid ~	you gave ~	grupo	alternativoj	prononco
+level	al kiu vi donis ~ ?	kellele sa ~ kinkisid?	to whom did you give ~ ?	grupo	alternativoj	prononco
+level	puraj glasoj	puhtad prillid	clean glasses	grupo	alternativoj	prononco
+level	vi donis la purajn glasojn	sa andsid puhtad prillid	you gave the clean glasses	grupo	alternativoj	prononco
+level	la puraj glasoj por la vino	puhtad klaasid veini jaoks	the clean glasses for the wine	grupo	alternativoj	prononco
+level	kontraŭ kiu	kelle vastu	against whom	grupo	alternativoj	prononco
+level	via sportklubo	teie spordiklubi	your sports club	grupo	alternativoj	prononco
+level	ludas kontraŭ ~	mängib ~ vastu	plays against ~	grupo	alternativoj	prononco
+level	antaŭ du semajnoj	Kaks nädalat tagasi	two weeks ago	grupo	alternativoj	prononco
+level	kontraŭ kiu via sportklubo ludis?	kelle vastu su spordiklubi mängis?	who did your sports club play against?	grupo	alternativoj	prononco
+level	ĉu vi vidas ~ ?	kas sa näed ~ ?	do you see ~ ?	grupo	alternativoj	prononco
+level	ĉu vi ofte vidas ~ ?	kas sa näed sageli ~ ?	do you often see ~ ?	grupo	alternativoj	prononco
+level	ofte vidas la policiston	sageli politseinikku näha	often see the policeman	grupo	alternativoj	prononco
+level	tiu, kiu loĝas en ~	see, kes elab ~-s	the one who lives in ~	grupo	alternativoj	prononco
+level	loĝas en la loĝejo	elab ööbimiskohas	lives in the lodging place	grupo	alternativoj	prononco
+level	la loĝejo super vi	eluase sinu kohal	the dwelling place above you	grupo	alternativoj	prononco
+level	vidas la policiston, kiu loĝas en ~	näeb politseiametnikku, kes elab ~	sees the police officer who lives in ~	grupo	alternativoj	prononco
+level	plano pri veturado	sõiduplaan	driving plan	grupo	alternativoj	prononco
+level	volis vojaĝi	tahtis reisida	wanted to travel	grupo	alternativoj	prononco
+level	vojaĝi al alia lando	teise riiki reisima	to travel to another country	grupo	alternativoj	prononco
+level	en libertempo	vabal ajal	in free time	grupo	alternativoj	prononco
+level	ili decidis iri	nad otsustasid minna	they decided to go	grupo	alternativoj	prononco
+level	decidis iri al Italio	otsustas Itaaliasse minna	decided to go to Italy	grupo	alternativoj	prononco
+level	malnovaj urboj	vanad linnad	old cities	grupo	alternativoj	prononco
+level	lando kun malnovaj urboj	vanade linnadega riik	a country with old cities	grupo	alternativoj	prononco
+level	aliaj belaĵoj	muud kaunitarid	other beauties	grupo	alternativoj	prononco
+level	kaj aliaj belaĵoj	ja muud kaunitarid	and other beauties	grupo	alternativoj	prononco
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	ilus maa vanade linnade ja muude iludustega	a beautiful country with old cities and other beauties	grupo	alternativoj	prononco
+level	ili estis feliĉaj	nad olid õnnelikud	they were happy	grupo	alternativoj	prononco
+level	kie estas ~ ?	kus on ~?	where is ~ ?	grupo	alternativoj	prononco
+level	kie estas mia vestaĵo?	kus mu riided on	where are my clothes	grupo	alternativoj	prononco
+level	ŝi demandis ~	küsis ta ~	she asked ~	grupo	alternativoj	prononco
+level	ni ne forgesu kunporti ~	ärgem unustagem kaasa võtta ~	let's not forget to bring ~	grupo	alternativoj	prononco
+level	kunporti la libron	et raamat endaga kaasa võtta	to take the book with you	grupo	alternativoj	prononco
+level	libro por lerni Esperanton	raamat esperanto õppimiseks	a book to learn Esperanto	grupo	alternativoj	prononco
+level	kunporti libron por lerni	raamatut kaasas kandma, et õppida	to carry a book to learn	grupo	alternativoj	prononco
+level	ni povas komenci ~	saame alustada ~	we can start ~	grupo	alternativoj	prononco
+level	en la vagonaro	rongis	in the train	grupo	alternativoj	prononco
+level	jam en la vagonaro	juba rongis	already in the train	grupo	alternativoj	prononco
+level	ni nenion faros	me ei tee midagi	we won't do anything	grupo	alternativoj	prononco
+level	per aŭto	autoga	by car	grupo	alternativoj	prononco
+level	ni veturos per ~	sõidame ~ mööda	we will drive by ~	grupo	alternativoj	prononco
+level	veturos per aŭto	hakkab autot juhtima	will drive a car	grupo	alternativoj	prononco
+level	mi havas sekreton	Mul on saladus	I have a secret	grupo	alternativoj	prononco
+level	mia riĉa onklo	mu rikas onu	my rich uncle	grupo	alternativoj	prononco
+level	mia deziro	minu soov	my wish	grupo	alternativoj	prononco
+level	plenumis mian deziron	täitis mu soovi	fulfilled my wish	grupo	alternativoj	prononco
+level	donis al ni	andis meile	gave us	grupo	alternativoj	prononco
+level	sian aŭton	tema auto	his car	grupo	alternativoj	prononco
+level	kaj donis al ni sian aŭton	ja andis meile oma auto	and gave us his car	grupo	alternativoj	prononco
+level	por uzo	kasutamiseks	for use	grupo	alternativoj	prononco
+level	ĝi staras antaŭ ~	see seisab ~ ees	it stands before ~	grupo	alternativoj	prononco
+level	staras antaŭ la domo	seisab maja ees	stands in front of the house	grupo	alternativoj	prononco
+level	mi devas diri ~	Pean ütlema ~	I have to say ~	grupo	alternativoj	prononco
+level	nenion diru	ära ütle midagi	don't say anything	grupo	alternativoj	prononco
+level	ni eksidu	istume maha	let's sit down	grupo	alternativoj	prononco
+level	eksidu en la aŭton	autosse astuda	get in the car	grupo	alternativoj	prononco
+level	veturi al ~	~ juurde sõitma	to drive to ~	grupo	alternativoj	prononco
+level	kaj veturu al Italio	ja sõida Itaaliasse	and drive to Italy	grupo	alternativoj	prononco
+level	sidis en la aŭto	istus autosse	sat in the car	grupo	alternativoj	prononco
+level	ankaŭ la vestaĵoj	ka riided	also the clothes	grupo	alternativoj	prononco
+level	~ estis en la aŭto	~ oli autos	~ was in the car	grupo	alternativoj	prononco
+level	ankoraŭ sidadis kaj atendis	ikka istus ja ootas	still sat and waited	grupo	alternativoj	prononco
+level	sed li atendis	aga ta ootas	but he waited	grupo	alternativoj	prononco
+level	kial ni ne ~ ?	miks me ei ~ ?	why don't we ~ ?	grupo	alternativoj	prononco
+level	kial ni ne ekveturas?	miks me ei hakka sõitma?	why don't we start driving?	grupo	alternativoj	prononco
+level	ankaŭ mi havas ~	Mul on ka ~	I have ~ too	grupo	alternativoj	prononco
+level	veturigus la aŭton	juhiks autot	would drive the car	grupo	alternativoj	prononco
+level	sed mi ne scias ~	aga ma ei tea ~	but I don't know ~	grupo	alternativoj	prononco
+level	mi neniam lernis tion	Ma ei õppinud seda kunagi	I never learned that	grupo	alternativoj	prononco
+level	mi kredus ~	Ma usuks ~	I would believe ~	grupo	alternativoj	prononco
+level	se mi estus sana	kui ma terve oleksin	if I were healthy	grupo	alternativoj	prononco
+level	mi estus tre feliĉa	ma oleksin väga õnnelik	I would be very happy	grupo	alternativoj	prononco
+level	kvazaŭ vi estus riĉulo	nagu sa oleksid rikas	as if you were rich	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ vi estus riĉulo	sa istud seal, nagu oleksid rikas mees	you sit there as if you were a rich man	grupo	alternativoj	prononco
+level	kvazaŭa lernejo	väidetav kool	alleged school	grupo	alternativoj	prononco
+level	kvazaŭ riĉulo	nagu rikas mees	like a rich man	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ riĉulo	sa istud seal nagu rikas mees	you sit there like a rich man	grupo	alternativoj	prononco
+level	tiom da mono	nii palju raha	so much money	grupo	alternativoj	prononco
+level	tiom da mono kiom da ideoj	nii palju raha kui ideid	as much money as ideas	grupo	alternativoj	prononco
+level	se mi havus tiom da mono	kui mul oleks nii palju raha	if I had that much money	grupo	alternativoj	prononco
+level	mi vojaĝadus	ma reisiks	I would travel	grupo	alternativoj	prononco
+level	ĉirkaŭ la mondo	ümber maailma	around the world	grupo	alternativoj	prononco
+level	en ĉiu vortaro	igas sõnastikus	in every dictionary	grupo	alternativoj	prononco
+level	mankas io	midagi on puudu	something is missing	grupo	alternativoj	prononco
+level	mankas kelkaj vortoj	mõned sõnad on puudu	some words are missing	grupo	alternativoj	prononco
+level	homo, kiu longe parolis	mees, kes rääkis pikalt	a man who spoke at length	grupo	alternativoj	prononco
+level	ĉe la manĝotablo	söögilauas	at the dining table	grupo	alternativoj	prononco
+level	homo, kiu rakontas, restos malsata	inimene, kes räägib, jääb näljaseks	a person who tells will remain hungry	grupo	alternativoj	prononco
+level	rakontadas ĉe la manĝo tablo	jutustab muudkui söögilauas	keeps telling at the dining table	grupo	alternativoj	prononco
+level	li devis atenti ~	ta pidi ~-le tähelepanu pöörama	he had to pay attention to ~	grupo	alternativoj	prononco
+level	ne rajtis ~	ei tohtinud ~	was not allowed to ~	grupo	alternativoj	prononco
+level	rajtis resti	lubati jääda	was allowed to stay	grupo	alternativoj	prononco
+level	ne rajtis longe resti	ei tohtinud kauaks jääda	was not allowed to stay long	grupo	alternativoj	prononco
+level	resti ekstere en pluvo	vihma käes väljas püsima	to stay out in the rain	grupo	alternativoj	prononco
+level	tial li malvarmumis	sellepärast ta külmetus	that's why he caught a cold	grupo	alternativoj	prononco
+level	li havas sian klaran ideon	tal on oma selge ettekujutus	he has his own clear idea	grupo	alternativoj	prononco
+level	sed li kredos ĉion	aga ta usub kõike	but he will believe everything	grupo	alternativoj	prononco
+level	ĉion, kion vi diros	midaiganes sa ütled	whatever you say	grupo	alternativoj	prononco
+level	kvazaŭ vi estus lia edzino	nagu oleksid sa tema naine	as if you were his wife	grupo	alternativoj	prononco
+level	viaj gepatroj	su vanemad	your parents	grupo	alternativoj	prononco
+level	ĝojigi viajn gepatrojn	et oma vanemaid õnnelikuks teha	to make your parents happy	grupo	alternativoj	prononco
+level	kio povus ĝojigi ~ ?	mis võiks palun ~ ?	what could please ~ ?	grupo	alternativoj	prononco
+level	kio povus plej ĝojigi viajn gepatrojn?	mis võiks su vanemaid kõige rohkem õnnelikuks teha?	what could make your parents the most happy?	grupo	alternativoj	prononco
+level	post la lernado	peale õppimist	after the learning	grupo	alternativoj	prononco
+level	almenaŭ post la lernado	vähemalt pärast õppimist	at least after the learning	grupo	alternativoj	prononco
+level	en la urbocentron	kesklinna sisse	into the city center	grupo	alternativoj	prononco
+level	se vi irus kun mi	kui sa minuga kaasa läheksid	if you would go with me	grupo	alternativoj	prononco
+level	se vi irus kun mi en la urbocentron	kui sa läheksid minuga kesklinna	if you would go downtown with me	grupo	alternativoj	prononco
+level	kien vi dezirus vojaĝi?	kuhu sa reisida tahaksid?	where would you like to travel?	grupo	alternativoj	prononco
+level	se vi havus ~	kui sul oleks ~	if you had ~	grupo	alternativoj	prononco
+level	sufiĉe da mono	piisavalt raha	enough money	grupo	alternativoj	prononco
+level	se vi havus sufiĉe da mono kaj tempo	kui sul oleks piisavalt raha ja temp	if you had enough money and temp	grupo	alternativoj	prononco
+level	ĉu vi planas ~ ?	kas sa plaanid ~ ?	are you planning to ~ ?	grupo	alternativoj	prononco
+level	planas veturi al Parizo	plaanib reisida Pariisi	plans to travel to Paris	grupo	alternativoj	prononco
+level	veturi per aŭto	axautoga sõitma	to drive with an axuto	grupo	alternativoj	prononco
+level	multe pli bone	palju parem	much better	grupo	alternativoj	prononco
+level	ŝajnas multe pli bone	tundub palju parem	seems much better	grupo	alternativoj	prononco
+level	per vagonaro	rongiga	by train	grupo	alternativoj	prononco
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	või ei tundu see palju parem olevat?	or doesn't it seem to be much better?	grupo	alternativoj	prononco
+level	diversaj homoj	erinevaid inimesi	various people	grupo	alternativoj	prononco
+level	kial homoj klarigas diversmaniere?	miks inimesed seletavad erinevalt?	why do people explain in different ways?	grupo	alternativoj	prononco
+level	samaj ideoj	samad ideed	same ideas	grupo	alternativoj	prononco
+level	klarigas samajn ideojn	selgitab samu ideid	explains the same ideas	grupo	alternativoj	prononco
+level	familianoj kunvenas	pereliikmed saavad kokku	family members get together	grupo	alternativoj	prononco
+level	kiel rapide	kui kiiresti	how quickly	grupo	alternativoj	prononco
+level	tagoj pasas	päevad mööduvad	days pass	grupo	alternativoj	prononco
+level	kiel rapide pasas tagoj!	kui kiiresti päevad mööduvad!	how quickly the days pass!	grupo	alternativoj	prononco
+level	morgaŭ estos ~	homme on ~	tomorrow will be ~	grupo	alternativoj	prononco
+level	la naskiĝtago de via patro	su isa sünnipäev	your father's birthday	grupo	alternativoj	prononco
+level	kelkaj familianoj	mitu pereliiget	several family members	grupo	alternativoj	prononco
+level	alvenos kelkaj familianoj	tulevad mitu pereliiget	several family members will come	grupo	alternativoj	prononco
+level	kaj geamikoj	ja sõbrad	and friends	grupo	alternativoj	prononco
+level	ĉu vi bonvolus ~ ?	kas sa palun ~?	would you please ~ ?	grupo	alternativoj	prononco
+level	ĉu vi bonvolus iom helpi?	kas saaksite palun natuke aidata?	could you please help a little?	grupo	alternativoj	prononco
+level	iomete da tempo	natuke aega	a little while	grupo	alternativoj	prononco
+level	trovu iomete da tempo	leia veidi aega	find a little time	grupo	alternativoj	prononco
+level	por ordigi vian ĉambron	oma tuba korda teha	to tidy your room	grupo	alternativoj	prononco
+level	almenaŭ por ordigi vian ĉambron	vähemalt oma tuba korda teha	at least to tidy your room	grupo	alternativoj	prononco
+level	mi ŝatus ~	Tahaks ~	I would like ~	grupo	alternativoj	prononco
+level	mi ŝatus kuiri ion	Tahaks midagi süüa teha	I would like to cook something	grupo	alternativoj	prononco
+level	ion bonan	midagi head	something good	grupo	alternativoj	prononco
+level	kuiri ion bonan	küpseta midagi head	cook something good	grupo	alternativoj	prononco
+level	por la naskiĝ-taga kuko	sünnipäeva tordi jaoks	for the birthday cake	grupo	alternativoj	prononco
+level	mankas lakto	on piimapuudus	is lacking of milk	grupo	alternativoj	prononco
+level	en la hejmo	kodus	in the home	grupo	alternativoj	prononco
+level	necesas havigi ~	on vaja hankida ~	it is necessary to procure ~	grupo	alternativoj	prononco
+level	iom da manĝaĵo	natuke toitu	some food	grupo	alternativoj	prononco
+level	el vendejo	poest	from a store	grupo	alternativoj	prononco
+level	havigi iom da manĝaĵo el vendejo	peidupaigast süüa saada	to get some food from a hideout	grupo	alternativoj	prononco
+level	mi aĉetumos	Ma teen sisseoste	I will do shopping	grupo	alternativoj	prononco
+level	por la naskiĝtago	sünnipäevaks	for the birthday	grupo	alternativoj	prononco
+level	anstataŭ sidi kaj manĝegi	istumise ja söömise asemel	instead of sitting and eating	grupo	alternativoj	prononco
+level	interesaj homoj	huvitavad inimesed	interesting people	grupo	alternativoj	prononco
+level	kun neinteresaj familianoj	ebahuvitavate pereliikmetega	with uninteresting family members	grupo	alternativoj	prononco
+level	mi ŝatus ekskursi	Tahaks piknikule minna	I would like to go on a picnic	grupo	alternativoj	prononco
+level	kun klubanoj	klubiliikmetega	with club members	grupo	alternativoj	prononco
+level	kun kiuj klubanoj?	milliste klubiliikmetega?	with which club members?	grupo	alternativoj	prononco
+level	diris la patro	ütles isa	said the father	grupo	alternativoj	prononco
+level	ia papero, iaj paperoj	mingi paber, mingisugune paber	some kind of paper, some kind of papers	grupo	alternativoj	prononco
+level	en paperujo	portfellis	in a briefcase	grupo	alternativoj	prononco
+level	en paperujon	paberikasti	into a paper bin	grupo	alternativoj	prononco
+level	ĵetis paperojn en paperujon	viskas paberid paberikasti	threw papers into a paper bin	grupo	alternativoj	prononco
+level	ĵetis iajn paperojn en paperujon	viskas mõned paberid paberikasti	threw some papers into a paper bin	grupo	alternativoj	prononco
+level	morgaŭ frue	homme varakult	early tomorrow	grupo	alternativoj	prononco
+level	anoj de mia sporta klubo	minu spordiklubi liikmed	members of my sports club	grupo	alternativoj	prononco
+level	kara mia	mu kallis	my dear	grupo	alternativoj	prononco
+level	ĉu ĝuste ~ ?	on see õige?	is that right?	grupo	alternativoj	prononco
+level	vi devas foresti	sa pead puuduma	you must be absent	grupo	alternativoj	prononco
+level	ĉu vi ne ~ ?	kas pole ~?	don't you ~ ?	grupo	alternativoj	prononco
+level	viaj samklubanoj	teie kaasklubiliikmed	your fellow club members	grupo	alternativoj	prononco
+level	intervidiĝas kun viaj samklubanoj	näeb üksteist oma kaasklubiliikmetega	sees each other with your fellow club members	grupo	alternativoj	prononco
+level	trifoje semajne	kolm korda nädalas	three times a week	grupo	alternativoj	prononco
+level	ĉu mi rajtas ~ ?	kas ma võin ~?	may I ~ ?	grupo	alternativoj	prononco
+level	rajtas ion proponi	on õigus midagi välja pakkuda	has the right to propose something	grupo	alternativoj	prononco
+level	mi kunmanĝos kun la familianoj	Ma söön koos pereliikmetega	I will eat with the family members	grupo	alternativoj	prononco
+level	sed en la dua parto	aga teises osas	but in the second part	grupo	alternativoj	prononco
+level	mi foriros kun miaj geamikoj	Ma lähen oma sõpradega	I will go with my friends	grupo	alternativoj	prononco
+level	parolos pri ~	hakkab rääkima ~	will talk about ~	grupo	alternativoj	prononco
+level	malsukcesa veturado	ebaõnnestunud draiv	a failed drive	grupo	alternativoj	prononco
+level	certe parolos pri la malsukcesa veturado	kindlasti räägib ebaõnnestunud sõidust	will definitely talk about the failed drive	grupo	alternativoj	prononco
+level	post la kuko	peale kooki	after the cake	grupo	alternativoj	prononco
+level	mi ne plu volas tion	Ma ei taha seda enam	I don't want that anymore	grupo	alternativoj	prononco
+level	volas tion aŭdi	tahab seda kuulda	wants to hear that	grupo	alternativoj	prononco
+level	kial ni ne havas ~ ?	miks meil pole ~ ?	why don't we have ~ ?	grupo	alternativoj	prononco
+level	ideoriĉa onklo	ideerikas onu	an idea-rich uncle	grupo	alternativoj	prononco
+level	havas iun ideoriĉan onklon	on mingi idee rikas onu	has some idea rich uncle	grupo	alternativoj	prononco
+level	en mia familio	minu peres	in my family	grupo	alternativoj	prononco
+level	la patrino ridetis	ema naeratas	the mother smiled	grupo	alternativoj	prononco
+level	je liaj vortoj	tema sõnade järgi	at his words	grupo	alternativoj	prononco
+level	ŝi scias, ke ~	ta teab, et ~	she knows that ~	grupo	alternativoj	prononco
+level	iom tro parolas	räägib natuke liiga palju	talks a little too much	grupo	alternativoj	prononco
+level	ne sufiĉas nur ~	sellest ei piisa ainult ~	it's not enough just ~	grupo	alternativoj	prononco
+level	riĉeco de la ideoj	ideede rohkus	wealth of ideas	grupo	alternativoj	prononco
+level	necesas ankaŭ ~	~ on ka vaja	~ is also needed	grupo	alternativoj	prononco
+level	plena monujo por realigi ĝin	rahakott täis, et see teoks saaks	a full wallet to make it happen	grupo	alternativoj	prononco
+level	la patrino daŭrigis ~	jätkas ema ~	the mother continued ~	grupo	alternativoj	prononco
+level	post iom da silento	pärast väikest vaikust	after a little silence	grupo	alternativoj	prononco
+level	antaŭ kelkaj minutoj	mõned minutid tagasi	a few minutes ago	grupo	alternativoj	prononco
+level	Ana telefonis, ke ŝi ~	Ana kutsus seda ~	Ana called that she ~	grupo	alternativoj	prononco
+level	ankaŭ ŝi vizitos nin	ta tuleb ka meile külla	she will also visit us	grupo	alternativoj	prononco
+level	dolĉa kuko	magus kook	a sweet cake	grupo	alternativoj	prononco
+level	ŝi tre ŝatas dolĉan kukon	talle meeldib väga magus kook	she really likes sweet cake	grupo	alternativoj	prononco
+level	atentas por ne dikiĝi	on ettevaatlik, et mitte paksuks minna	is careful not to get fat	grupo	alternativoj	prononco
+level	kvankam ŝi atentos	kuigi ta pöörab tähelepanu	although she will pay attention	grupo	alternativoj	prononco
+level	tuj ŝanĝis la opinion	muutis kohe meelt	immediately changed the mind	grupo	alternativoj	prononco
+level	dum la ekskurso	ekskursiooni ajal	during the excursion	grupo	alternativoj	prononco
+level	sen ŝi	ilma temata	without her	grupo	alternativoj	prononco
+level	li estus tre soleca	ta oleks väga üksildane	he would be very lonely	grupo	alternativoj	prononco
+level	mi tamen pasigos	Ma lähen siiski mööda	I will pass though	grupo	alternativoj	prononco
+level	mi tamen pasigos la morgaŭan tagon hejme	Homme veedan siiski kodus	I will spend tomorrow at home though	grupo	alternativoj	prononco
+level	en juneco	nooruses	in youth	grupo	alternativoj	prononco
+level	oni havas	ühel on	one has	grupo	alternativoj	prononco
+level	havas ankaŭ belecon	on ka ilu	also has beauty	grupo	alternativoj	prononco
+level	malsimplaj laboroj	keerulised tööd	complicated jobs	grupo	alternativoj	prononco
+level	malsimplajn laborojn	keerulised tööd (eesmärk)	complicated jobs (objective)	grupo	alternativoj	prononco
+level	devus plisimpligi	peaks lihtsustama	should simplify	grupo	alternativoj	prononco
+level	en tiu aĝo	selles vanuses	at that age	grupo	alternativoj	prononco
+level	li jam fariĝis ~	temast on juba saanud ~	he has already become ~	grupo	alternativoj	prononco
+level	estro de la sporta klubo	spordiklubi juhataja	head of the sports club	grupo	alternativoj	prononco
+level	monon oni metas	üks paneb raha	one puts money	grupo	alternativoj	prononco
+level	en monujon	rahakotti	into a wallet	grupo	alternativoj	prononco
+level	metas en monujon	paneb rahakotti	puts in a purse	grupo	alternativoj	prononco
+level	sekvu la ekzemplojn	järgige näiteid	follow the examples	grupo	alternativoj	prononco
+level	de la bonaj familianoj	headest pereliikmetest	from the good family members	grupo	alternativoj	prononco
+level	ĉu amikeco pli feliĉigas?	kas sõprus teeb sind õnnelikumaks?	does friendship make you happier?	grupo	alternativoj	prononco
+level	feliĉigas vin	teeb sind õnnelikuks	makes you happy	grupo	alternativoj	prononco
+level	ol la amo	kui armastus	than the love	grupo	alternativoj	prononco
+level	kiel ofte vi ~ ?	kui tihti sa ~ ?	how often do you ~ ?	grupo	alternativoj	prononco
+level	vi skribas leterojn al ~	kirjutad ~-le kirju	you write letters to ~	grupo	alternativoj	prononco
+level	skrivas leterojn al viaj amikinoj	kirjutab oma sõbrannadele kirju	writes letters to your girl friends	grupo	alternativoj	prononco
+level	viaj amikinoj en Italio	teie sõbrannad Itaalias	your girl friends in Italy	grupo	alternativoj	prononco
+level	la rilato inter vi kaj via instruisto	teie ja teie õpetaja vaheline suhe	the relation between you and your teacher	grupo	alternativoj	prononco
+level	ĉu la rilato ŝanĝiĝis?	kas suhe on muutunud?	has the relationship changed?	grupo	alternativoj	prononco
+level	ĉu vi jam scias ~ ?	kas sa juba tead ~ ?	do you already know ~ ?	grupo	alternativoj	prononco
+level	sufiĉe bone	üsna hästi	quite well	grupo	alternativoj	prononco
+level	estis vespero en ~	oli õhtu ~	it was evening in ~	grupo	alternativoj	prononco
+level	centoj da homoj	sadu inimesi	hundreds of people	grupo	alternativoj	prononco
+level	plenigas la placon	täidab väljaku	fills the square	grupo	alternativoj	prononco
+level	junuloj kaj militistoj	noormehed ja sõdurid	young men and soldiers	grupo	alternativoj	prononco
+level	maristoj de sur la ŝipoj	meremehed laevadelt	sailors from the ships	grupo	alternativoj	prononco
+level	elstara sinjorino	silmapaistev daam	outstanding lady	grupo	alternativoj	prononco
+level	elstaraj sinjorinoj	silmapaistvad daamid	outstanding ladies	grupo	alternativoj	prononco
+level	alilandaj vojaĝantoj	välismaa reisijad	foreign travelers	grupo	alternativoj	prononco
+level	ĉiuj moviĝas al urbomezo	kõik kolivad kesklinna	everyone is moving to the city center	grupo	alternativoj	prononco
+level	iom plue	natuke edasi	a little further	grupo	alternativoj	prononco
+level	ne malproksime de la maro	mitte kaugel merest	not far from the sea	grupo	alternativoj	prononco
+level	troviĝis malgranda placo	seal oli väike plats	there was a small square	grupo	alternativoj	prononco
+level	iom plue sed ne malproksime	natuke kaugemal aga mitte kaugel	a little further but not far	grupo	alternativoj	prononco
+level	fine de ĝi	selle lõpus	at the end of it	grupo	alternativoj	prononco
+level	proksime de la maro	mere lähedal	near the sea	grupo	alternativoj	prononco
+level	proksime staris homo	lähedal seisis mees	a man stood nearby	grupo	alternativoj	prononco
+level	laŭ la vestaĵo	riietuse järgi	according to the clothing	grupo	alternativoj	prononco
+level	oni facile scii ~	võib kergesti teada ~	one may know easily ~	grupo	alternativoj	prononco
+level	oni povis ekscii, ke ~	oli võimalik teada saada, et ~	it was possible to find out that ~	grupo	alternativoj	prononco
+level	gondolisto de iu riĉulo	rikka mehe gondoljeer	a rich man's gondolier	grupo	alternativoj	prononco
+level	povis ekscii, ke li estas gondolisto	võis teada saada, et ta oli gondoljeer	could find out that he was a gondolier	grupo	alternativoj	prononco
+level	li rigardis ~	ta vaatas ~	he looked ~	grupo	alternativoj	prononco
+level	rigardis la ĝojan hommulton	vaatas rõõmsat rahvahulka	looked at the joyful crowd	grupo	alternativoj	prononco
+level	rideto lumigis lian vizaĝon	naeratus säras ta näol	a smile lit up his face	grupo	alternativoj	prononco
+level	kiam li ekvidis mariston	kui ta nägi meremeest	when he saw a sailor	grupo	alternativoj	prononco
+level	la mariston, kiu alvenis	saabunud meremees	the sailor who arrived	grupo	alternativoj	prononco
+level	la flanko de la maro	mere pool	the side of the sea	grupo	alternativoj	prononco
+level	alvenis el la flanko de la maro	saabus mere äärest	arrived from the side of the sea	grupo	alternativoj	prononco
+level	ĉu tio estas vi, Stefano?	kas see oled sina, Stephen?	is that you, Stephen?	grupo	alternativoj	prononco
+level	ekkriis la gondolisto	hüüatas gondoljeer	exclaimed the gondolier	grupo	alternativoj	prononco
+level	ĉiuj diras, ke ~	kõik ütlevad, et ~	everyone says that ~	grupo	alternativoj	prononco
+level	en la manojn de la Turkoj	türklaste kätte	into the hands of the Turks	grupo	alternativoj	prononco
+level	ke vi falis en la manojn de la Turkoj	et sattusid türklaste kätte	that you fell into the hands of the Turks	grupo	alternativoj	prononco
+level	ni renkontis unu	me kohtusime ühega	we met one	grupo	alternativoj	prononco
+level	el niaj ŝipoj	meie laevadelt	from our ships	grupo	alternativoj	prononco
+level	ĝi sekvis nin	see järgnes meile	it followed us	grupo	alternativoj	prononco
+level	dum pli ol unu horo	rohkem kui tund aega	for more than an hour	grupo	alternativoj	prononco
+level	sed ne estas facile iri ~	kuid see ei ole lihtne minna ~	but it is not easy to go ~	grupo	alternativoj	prononco
+level	iri pli rapide ol nia ŝipo	et minna kiiremini kui meie laev	to go faster than our ship	grupo	alternativoj	prononco
+level	kiaj novaĵoj estas tie ĉi?	mis uudis siin on?	what news is here?	grupo	alternativoj	prononco
+level	tie ĉi en Venecio	siin Veneetsias	here in Venice	grupo	alternativoj	prononco
+level	nenio interesa	ei midagi huvitavat	nothing interesting	grupo	alternativoj	prononco
+level	nur granda malfeliĉo	lihtsalt suur õnnetus	just a big misfortune	grupo	alternativoj	prononco
+level	ĉu vi konas Pietron?	kas sa tead Pietrot?	do you know Pietro?	grupo	alternativoj	prononco
+level	mi konas lin	ma tean teda	I know him	grupo	alternativoj	prononco
+level	granda ŝipo subakvigis lian gondolon	suur laev uputas tema gondli	a large ship submerged his gondola	grupo	alternativoj	prononco
+level	kaj kio pri li?	ja kuidas temaga on?	and what about him?	grupo	alternativoj	prononco
+level	la gondolo subakviĝis	gondel uppus	the gondola sank	grupo	alternativoj	prononco
+level	okazis, ke ~	juhtus, et ~	it happened that ~	grupo	alternativoj	prononco
+level	ni troviĝis proksime	olime lähedased	we were close	grupo	alternativoj	prononco
+level	ni prenis lin en nian gondolon	võtsime ta oma gondlisse	we took him in our gondola	grupo	alternativoj	prononco
+level	en la sama tempo	samal ajal	at the same time	grupo	alternativoj	prononco
+level	mia estro subakviĝis	mu ülemus uppus	my boss drowned	grupo	alternativoj	prononco
+level	por helpi junulinon	noort naist aidata	to help a young woman	grupo	alternativoj	prononco
+level	junulinon, kiu preskaŭ mortis	noor naine, kes peaaegu suri	a young woman who almost died	grupo	alternativoj	prononco
+level	kun sia onklo	oma onuga	with his uncle	grupo	alternativoj	prononco
+level	preskaŭ mortis kun sia onklo	peaaegu suri koos onuga	almost died with his uncle	grupo	alternativoj	prononco
+level	tie estis junulino	seal oli noor naine	there was a young woman	grupo	alternativoj	prononco
+level	lin ni ne povis helpi	me ei saanud teda aidata	we could not help him	grupo	alternativoj	prononco
+level	estis grava homo	oli tähtis inimene	was an important person	grupo	alternativoj	prononco
+level	kio alvenigis vin en Venecion?	mis sind Veneetsiasse tõi?	what brought you to Venice?	grupo	alternativoj	prononco
+level	amiko mia	minu sõber	my friend	grupo	alternativoj	prononco
+level	la maristo ekrigardis	meremees vaatas üles	the sailor looked up	grupo	alternativoj	prononco
+level	rapide ekrigardis sian amikon	heitis kiiresti pilgu oma sõbrale	quickly glanced at his friend	grupo	alternativoj	prononco
+level	kaj komencis diri	ja hakkas rääkima	and began to say	grupo	alternativoj	prononco
+level	do vi scias ~	nii et sa tead ~	so you know ~	grupo	alternativoj	prononco
+level	mi alportis ~	Ma tõin ~	I brought ~	grupo	alternativoj	prononco
+level	la gondolisto subite haltigis lin	gondoljeer peatas ta äkki	the gondolier suddenly stopped him	grupo	alternativoj	prononco
+level	li diris	ta ütles	he said	grupo	alternativoj	prononco
+level	tiam iu homo pasis	siis läks üks mees mööda	then a man passed by	grupo	alternativoj	prononco
+level	iu homo pasis apud li	temast möödus mees	a man passed by him	grupo	alternativoj	prononco
+level	li ankoraŭ ne estis tridekjara	ta polnud veel kolmkümmend	he was not yet thirty	grupo	alternativoj	prononco
+level	kaj lia vizaĝo estis senkolora	ja ta nägu oli värvitu	and his face was colorless	grupo	alternativoj	prononco
+level	lia iro estis certa kaj facila	tema minek oli kindel ja lihtne	his going was sure and easy	grupo	alternativoj	prononco
+level	lia vizaĝo estis malĝoja	ta nägu oli kurb	his face was sad	grupo	alternativoj	prononco
+level	kiam li ekvidis la homon, ~	kui ta meest nägi, ~	when he saw the man, ~	grupo	alternativoj	prononco
+level	oni diras, ke ~	öeldakse, et ~	it is said that ~	grupo	alternativoj	prononco
+level	multaj gravuloj donas ~	paljud tähtsad inimesed annavad ~	many important people give ~	grupo	alternativoj	prononco
+level	sekreta laboro	salatöö	secret work	grupo	alternativoj	prononco
+level	sekretaj laboroj	salatööd	secret jobs	grupo	alternativoj	prononco
+level	donas sekretajn laborojn al li	annab talle salatööd	gives secret jobs to him	grupo	alternativoj	prononco
+level	tro da sekretoj	liiga palju saladusi	too many secrets	grupo	alternativoj	prononco
+level	li scias tro da sekretoj	ta teab liiga palju saladusi	he knows too many secrets	grupo	alternativoj	prononco
+level	tial ili timas	seetõttu nad kardavad	therefore they are afraid	grupo	alternativoj	prononco
+level	sendi lin en malliberejon	teda vanglasse saata	to send him to prison	grupo	alternativoj	prononco
+level	diris la maristo	ütles meremees	said the sailor	grupo	alternativoj	prononco
+level	kaj dum li parolis	ja kui ta rääkis	and as he spoke	grupo	alternativoj	prononco
+level	li montris la domegon	ta osutas häärberile	he pointed to the mansion	grupo	alternativoj	prononco
+level	la domego de Doĝoj	Doogede mõis	the mansion of Doges	grupo	alternativoj	prononco
+level	multaj gravuloj bezonas lian helpon	paljud tähtsad inimesed vajavad tema abi	many important people need his help	grupo	alternativoj	prononco
+level	kiom ili pagas?	palju nad maksavad?	how much they pay?	grupo	alternativoj	prononco
+level	pagas al li	maksab talle	pays him	grupo	alternativoj	prononco
+level	pagas por unu mortigo	maksab ühe tapmise eest	pays for one kill	grupo	alternativoj	prononco
+level	certe ne malpli ol ~	kindlasti mitte vähem kui ~	certainly not less than ~	grupo	alternativoj	prononco
+level	ol cent moneroj	kui sada münti	than a hundred coins	grupo	alternativoj	prononco
+level	ne forgesu, ke ~	ära unusta, et ~	don't forget that ~	grupo	alternativoj	prononco
+level	ke li laboras por tiuj	et ta töötab nende heaks	that he works for them	grupo	alternativoj	prononco
+level	por tiuj, kiuj havas sufiĉe da mono	neile, kellel on piisavalt raha	for those who have enough money	grupo	alternativoj	prononco
+level	por pagi al li	talle maksma	to pay him	grupo	alternativoj	prononco
+level	en Venecio estas ~	Veneetsias on ~	in Venice there is ~	grupo	alternativoj	prononco
+level	tiuj aferoj	need asjad	those things	grupo	alternativoj	prononco
+level	forgesi tiujn aferojn	neid asju unustada	to forget those things	grupo	alternativoj	prononco
+level	aferoj, kiujn estas pli bone forgesi	asjad, mis on parem unustada	things that are better forgotten	grupo	alternativoj	prononco
+level	se vi volas trankvile manĝi	kui tahad rahus süüa	if you want to eat in peace	grupo	alternativoj	prononco
+level	trankvile manĝi vian panon	rahus oma leiba süüa	to eat your bread in peace	grupo	alternativoj	prononco
+level	estis iom da silento	oli mingi vaikus	there was some silence	grupo	alternativoj	prononco
+level	kaj poste	ja hiljem	and later	grupo	alternativoj	prononco
+level	la gondolisto denove ekparolis	rääkis gondoljeer uuesti	the gondolier spoke again	grupo	alternativoj	prononco
+level	vi venis ĝustatempe	sa tulid õigel ajal	you came just in time	grupo	alternativoj	prononco
+level	por vidi ŝipkuron	paadivõistlust vaatama	to see a boat race	grupo	alternativoj	prononco
+level	iu diris malforte	ütles keegi nõrgalt	someone said weakly	grupo	alternativoj	prononco
+level	proksime de la gondolisto	gondolieri lähedal	near the gondolier	grupo	alternativoj	prononco
+level	la estro de la urbo	linnapea	the mayor of the city	grupo	alternativoj	prononco
+level	senvorte montris al la gondolo	osutas sõnatult gondlile	wordlessly pointed to the gondola	grupo	alternativoj	prononco
+level	diris la gondolisto	ütles gondoljeer	said the gondolier	grupo	alternativoj	prononco
+level	kaj prenis la manon de sia amiko	ja võttis sõbra käest kinni	and took his friend's hand	grupo	alternativoj	prononco
+level	ĵetas la paperon	viskab paberit	throws the paper	grupo	alternativoj	prononco
+level	en la paperujon	paberikasti	into the paper bin	grupo	alternativoj	prononco
+level	la knabinoj ĵetis la paperojn	tüdrukud viskasid pabereid	the girls threw the papers	grupo	alternativoj	prononco
+level	kie estas mia skribilo?	kus on mu pastakas	where is my pen	grupo	alternativoj	prononco
+level	mi volas respondi al li	Ma tahan talle vastata	I want to answer him	grupo	alternativoj	prononco
+level	la suno malaperis	päike kadus	the sun disappeared	grupo	alternativoj	prononco
+level	kaj nun estas preskaŭ malhele	ja nüüd on peaaegu pime	and now it is almost dark	grupo	alternativoj	prononco
+level	bonvolu manĝi	palun söö	please eat	grupo	alternativoj	prononco
+level	bonvolu manĝi la panon	palun söö leiba	please eat the bread	grupo	alternativoj	prononco
+level	per manĝiloj	söögiriistadega	with cutlery	grupo	alternativoj	prononco
+level	pardonu min	Vabandage mind	excuse me	grupo	alternativoj	prononco
+level	rajtas resti	on lubatud jääda	is allowed to stay	grupo	alternativoj	prononco
+level	mi ne rajtas resti	Mul pole õigust jääda	I have no right to stay	grupo	alternativoj	prononco
+level	ĉu vi povas kunporti ~ ?	kas sa saad ~ tuua?	can you bring ~ ?	grupo	alternativoj	prononco
+level	de mia fratino	mu õe käest	from my sister	grupo	alternativoj	prononco
+level	kiam vi aĉetis ~ ?	millal sa ~ ostsid?	when did you buy ~ ?	grupo	alternativoj	prononco
+level	aĉetis tiun muzikilon	ostis selle muusikariista	bought that musical instrument	grupo	alternativoj	prononco
+level	kiu laste uzis ?	kes kasutas viimati?	who used last?	grupo	alternativoj	prononco
+level	uzis mian ŝlosilon	kasutasin minu võtit	used my key	grupo	alternativoj	prononco
+level	ĉu vi veturis?	sõitsid?	did you drive?	grupo	alternativoj	prononco
+level	en Venecio	Veneetsias	in Venice	grupo	alternativoj	prononco
+level	ankaŭ per gondolo	ka gondliga	also by gondola	grupo	alternativoj	prononco
+level	ĉu vi povos ekdormi?	kas sa saad magama jääda?	will you be able to fall asleep?	grupo	alternativoj	prononco
+level	tiam, kiam silentiĝis	siis, kui oli vaikus	then, when there was silence	grupo	alternativoj	prononco
+level	la sinjoro estis alta	härra oli pikk	the gentleman was tall	grupo	alternativoj	prononco
+level	alta, dika	pikk, paks	tall, fat	grupo	alternativoj	prononco
+level	dika, peza	paks, raske	thick, heavy	grupo	alternativoj	prononco
+level	peza kaj larĝa	rasked ja suured	heavy and large	grupo	alternativoj	prononco
+level	estis alta, dika, peza, kaj larĝa	oli pikk, paks, raske ja suur	was tall, thick, heavy, and large	grupo	alternativoj	prononco
+level	donis forton	andis jõudu	gave strength	grupo	alternativoj	prononco
+level	havinda forto	jõud, mida tasub omada	a force worth having	grupo	alternativoj	prononco
+level	havinda korpoforto	füüsiline jõud, mida tasub omada	physical strength worth having	grupo	alternativoj	prononco
+level	tio donis	see andis	that gave	grupo	alternativoj	prononco
+level	donis al li	andis talle	gave him	grupo	alternativoj	prononco
+level	tio donis forton	mis andis jõudu	that gave strength	grupo	alternativoj	prononco
+level	donis havindan korpoforton	andis kehale jõudu, mida tasub omada	gave body strength worth having	grupo	alternativoj	prononco
+level	lia aspekto	tema välimus	his appearance	grupo	alternativoj	prononco
+level	grandula aspekto	pika inimese välimus	appearance of a tall person	grupo	alternativoj	prononco
+level	eta rolo	väike roll	a small role	grupo	alternativoj	prononco
+level	ludis rolon	mängis rolli	played a role	grupo	alternativoj	prononco
+level	ne eta rolo	mitte väike roll	not a small role	grupo	alternativoj	prononco
+level	ludis etan rolon	mängis väikest rolli	played a small role	grupo	alternativoj	prononco
+level	ludis ne etan rolon	ei mänginud väikest rolli	played no small role	grupo	alternativoj	prononco
+level	en la fakto, ke ~	selles, et ~	in the fact that ~	grupo	alternativoj	prononco
+level	la plimulto el la homoj	suurem osa rahvast	the majority of the people	grupo	alternativoj	prononco
+level	se ne timis	kui ei karda	if not afraid	grupo	alternativoj	prononco
+level	lin timis	kartis teda	was afraid of him	grupo	alternativoj	prononco
+level	se lin timis	kui ta kartis	if he was afraid	grupo	alternativoj	prononco
+level	se ne lin timis	kui teda ei karda	if not afraid of him	grupo	alternativoj	prononco
+level	certe respektis	kindlasti austatud	certainly respected	grupo	alternativoj	prononco
+level	almenaŭ pripensis ~	vähemalt mõelnud ~ peale	at least thought about ~	grupo	alternativoj	prononco
+level	antaŭ ol ~	enne ~	before ~	grupo	alternativoj	prononco
+level	kontentigi lin	et teda rahuldada	to satisfy him	grupo	alternativoj	prononco
+level	malkontentigi lin	talle pahaks panna	to displease him	grupo	alternativoj	prononco
+level	antaŭ ol malkontentigi ~	enne rahulolematust ~	before dissatisfying ~	grupo	alternativoj	prononco
+level	antaŭ ol decidi ~	enne ~ otsustamist	before deciding ~	grupo	alternativoj	prononco
+level	decidi malkontentigi ~	otsustada, et ~ ei meeldi	to decide to displease ~	grupo	alternativoj	prononco
+level	decidi kontentigi lin	otsustada teda rahuldada	to decide to satisfy him	grupo	alternativoj	prononco
+level	antaŭ ol decidi malkontentigi lin	enne kui otsustate talle ebameeldivaks teha	before deciding to displease him	grupo	alternativoj	prononco
+level	tio, kio estas utila	see, mis on kasulik	that, which is useful	grupo	alternativoj	prononco
+level	ofte utila dumtage	sageli kasulik päeva jooksul	often useful during the day	grupo	alternativoj	prononco
+level	malplaĉa ĝeno	ebameeldiv ebameeldivus	an unpleasant nuisance	grupo	alternativoj	prononco
+level	per si	omaette	by himself	grupo	alternativoj	prononco
+level	prezentas malplaĉan ĝenon	tekitab ebameeldivat ebamugavust	presents an unpleasant nuisance	grupo	alternativoj	prononco
+level	prezentas per si malplaĉan ĝenon	kujutab endast ebameeldivat ebameeldivust	presents itself as an unpleasant nuisance	grupo	alternativoj	prononco
+level	en loko arboplena	kohas, mis on täis puid	in a place full of trees	grupo	alternativoj	prononco
+level	tiam, kiam oni devojiĝis	siis, kui üks eksis	then, when one went astray	grupo	alternativoj	prononco
+level	en nehoma sovaĝejo	ebainimlikus kõrbes	in an inhuman wilderness	grupo	alternativoj	prononco
+level	kaj ekstervoje iraĉas	ja läheb kaoses teelt välja	and goes off the road in chaos	grupo	alternativoj	prononco
+level	alta larĝa korpo	pikk suur keha	a tall large body	grupo	alternativoj	prononco
+level	ne sukcesis pasi ~	~ läbida ei õnnestunud	failed to pass ~	grupo	alternativoj	prononco
+level	inter la arbetoj	põõsaste vahel	among the bushes	grupo	alternativoj	prononco
+level	krome tuŝi la naturaĵojn	lisaks loomulike asjade puudutamisele	in addition to touching the natural things	grupo	alternativoj	prononco
+level	ĝenerale malsekajn	üldiselt märg	generally wet	grupo	alternativoj	prononco
+level	meze de malsekaj naturaĵoj	keset märga loodust	in the middle of wet nature	grupo	alternativoj	prononco
+level	malsekaj naturaĵoj, meze de kiuj ~	märjad looduslikud asjad, mille keskel ~	wet natural things, in the middle of which ~	grupo	alternativoj	prononco
+level	li malfacile paŝis	ta kõndis vaevaliselt	he walked with difficulty	grupo	alternativoj	prononco
+level	estis travivaĵo	see oli kogemus	it was an experience	grupo	alternativoj	prononco
+level	ne malofte	pole haruldane	not uncommon	grupo	alternativoj	prononco
+level	doloriga kaj ĉiam malagrabla	valus ja alati ebameeldiv	painful and always unpleasant	grupo	alternativoj	prononco
+level	ju pli ~	seda rohkem ~	the more ~	grupo	alternativoj	prononco
+level	antaŭeniris en la vivo	elus edasi liikunud	moved forward in life	grupo	alternativoj	prononco
+level	en la kastela arbaro	lossimetsas	in the castle forest	grupo	alternativoj	prononco
+level	ju pli antaŭeniris des pli malŝatis ~	mida edasi, seda enam ei meeldinud ~	the further went forward the more disliked ~	grupo	alternativoj	prononco
+level	malŝatis la noktan naturon	ei meeldinud öine loomus	disliked the nocturnal nature	grupo	alternativoj	prononco
+level	viro kun okuloj bone videblaj	mees, kelle silmad on selgelt näha	a man with eyes that can be seen clearly	grupo	alternativoj	prononco
+level	okuloj, kiuj kapablis bone vidi	silmad, mis nägid hästi	eyes that could see well	grupo	alternativoj	prononco
+level	bone vidi en la mallumo	pimedas hästi näha	to see well in the dark	grupo	alternativoj	prononco
+level	rigardis la malfacilan iron	vaatas rasket minekut	looked at the difficult going	grupo	alternativoj	prononco
+level	de nia industriisto	meie töösturilt	from our industrialist	grupo	alternativoj	prononco
+level	li ridetis	ta naeratas	he smiled	grupo	alternativoj	prononco
+level	apud tiu viro	selle mehe kõrval	next to that man	grupo	alternativoj	prononco
+level	en vestaĵo de policano	politseiniku riietes	in policeman's clothing	grupo	alternativoj	prononco
+level	staris alia persono	teine inimene seisis	another person was standing	grupo	alternativoj	prononco
+level	en simila vestaĵo	sarnastes riietes	in similar clothing	grupo	alternativoj	prononco
+level	ĉi lasta estis virino	viimane oli naine	the latter was a woman	grupo	alternativoj	prononco
+level	ni iru	lähme	let's go	grupo	alternativoj	prononco
+level	la viro diris mallaŭte	ütles mees vaikselt	the man said softly	grupo	alternativoj	prononco
+level	en la orelon de sia kunulino	oma kaaslase kõrva	into the ear of his companion	grupo	alternativoj	prononco
+level	nun estas la ĝusta momento	praegu on õige hetk	now is the right moment	grupo	alternativoj	prononco
+level	ambaŭ paŝis direkte al la persono	mõlemad astusid inimese poole	both stepped toward the person	grupo	alternativoj	prononco
+level	ili zorgis fari ~	nad olid ettevaatlikud, et teha ~	they were careful to do ~	grupo	alternativoj	prononco
+level	kiel eble plej ~	võimalikult ~	as possible as ~	grupo	alternativoj	prononco
+level	kiel eble plej malmulte da bruo	võimalikult vähe müra (kiel eble)	as little noise as possible (kiel eble)	grupo	alternativoj	prononco
+level	laŭeble plej malmulte da bruo	võimalikult vähe müra (laŭeble)	as little noise as possible (laŭeble)	grupo	alternativoj	prononco
+level	ili preskaŭ plene sukcesis	see õnnestus neil peaaegu täielikult	they almost fully succeeded	grupo	alternativoj	prononco
+level	en ĉi tiu aĉa situacio	selles ebameeldivas olukorras	in this nasty situation	grupo	alternativoj	prononco
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	vastik olukord, kus puud viskasid oma oksi	a nasty situation where trees threw their branches	grupo	alternativoj	prononco
+level	ĵetis siajn malsekajn branĉojn	viskasid omad märjad oksad	threw their own wet branches	grupo	alternativoj	prononco
+level	rekte en la vizaĝojn	otse näkku	straight into the faces	grupo	alternativoj	prononco
+level	de la industriisto	töösturist	of the industrialist	grupo	alternativoj	prononco
+level	multpiedaj bestetoj	mitmejalgsed väikesed olendid	multi-footed small creatures	grupo	alternativoj	prononco
+level	prenis liajn piedojn	võttis jalad alla	took his feet	grupo	alternativoj	prononco
+level	por promenejo	jalutuskäigu jaoks	for a walk road	grupo	alternativoj	prononco
+level	naturo faligis lian piedon	loodus ajas jala alla	nature made his foot fallen	grupo	alternativoj	prononco
+level	plej dolorige	kõige valusamalt	most painfully	grupo	alternativoj	prononco
+level	faligis lian piedon en kavon	kukkus jala auku	dropped his foot into a pit	grupo	alternativoj	prononco
+level	kavo plena de akvo	kaev vett täis	a pit full of water	grupo	alternativoj	prononco
+level	akvo aĉ-odora	ebameeldiva lõhnaga vesi	foul-smelling water	grupo	alternativoj	prononco
+level	rapide alvenis al la penso	jõudis kiiresti selle mõtteni	quickly arrived at the thought	grupo	alternativoj	prononco
+level	oni devas esti preta	üks peab valmis olema	one must be ready	grupo	alternativoj	prononco
+level	ĉi tie	siin	here	grupo	alternativoj	prononco
+level	iu ajn ~	keegi ~	anyone ~	grupo	alternativoj	prononco
+level	preta por iu ajn malplaĉa renkonto	valmis igaks ebameeldivaks kohtumiseks	ready for any unpleasant encounter	grupo	alternativoj	prononco
+level	ion ajn	midagi (mis iganes)	anything (whatever)	grupo	alternativoj	prononco
+level	li atendis ion ajn	ta ootas kõike	he was waiting for anything	grupo	alternativoj	prononco
+level	krom homa voĉo	inimhääl kõrvale	aside human voice	grupo	alternativoj	prononco
+level	kiam voĉo aŭdiĝis, ~	kui hääl kuulis, ~	when a voice heard, ~	grupo	alternativoj	prononco
+level	aŭdiĝis tuj proksime	kuulis kohe lähedalt	heard immediately close	grupo	alternativoj	prononco
+level	li faris belan surlokan salton	ta tegi kohapeal kena hüppe	he made a nice on-site jump	grupo	alternativoj	prononco
+level	kiu movis lian koron	kes liigutas ta südant	who moved his heart	grupo	alternativoj	prononco
+level	supren ĝis la buŝo	ülessõna suhu	upword to the mouth	grupo	alternativoj	prononco
+level	kun la provo rekapti trankvilon	katsega taastada rahu	with the attempt to recapture calm	grupo	alternativoj	prononco
+level	iom da trankvilo	natuke rahu	a little tranquility	grupo	alternativoj	prononco
+level	la lumo de lampeto	lambi valgus	the light of a lamp	grupo	alternativoj	prononco
+level	oni direktis rekte al liaj okuloj	keegi otse tema silmadesse	someone directed directly to his eyes	grupo	alternativoj	prononco
+level	la lampo, kiun oni direktis al okuloj	lamp, mille keegi suunas silmadesse	the lamp which someone directed to eyes	grupo	alternativoj	prononco
+level	malhelpis repaciĝon	takistas leppimist	prevented reconciliation	grupo	alternativoj	prononco
+level	ŝajnis al li, ke ~	talle tundus, et ~	it seemed to him that ~	grupo	alternativoj	prononco
+level	la homformo, kiu tenis la lampon	lampi hoidnud inimkuju	the human form that held the lamp	grupo	alternativoj	prononco
+level	surhavas vestojn policajn	politsei riided selga	wear clothes police	grupo	alternativoj	prononco
+level	kion vi faras ĉi tie?	mida sa siin teed?	what are you doing here?	grupo	alternativoj	prononco
+level	sonas la aŭtorita voĉo	kõlab autoriteetne hääl	sounds the authoritative voice	grupo	alternativoj	prononco
+level	bonvolu paroli ~	palun räägi ~	please talk ~	grupo	alternativoj	prononco
+level	iom klare	natuke selge	a little clear	grupo	alternativoj	prononco
+level	la alia diris	ütles teine	the other said	grupo	alternativoj	prononco
+level	eĉ pli grav-tone	veelgi olulisemal toonil	in even more important-tone	grupo	alternativoj	prononco
+level	mi promenas	ma kõnnin	I'm walking	grupo	alternativoj	prononco
+level	vi promenas en la bieno	sa kõnnid talus	you walk on the farm	grupo	alternativoj	prononco
+level	de la grafino	krahvinnast	of the countess	grupo	alternativoj	prononco
+level	la bieno de la grafino	krahvinna talu	the countess's farm	grupo	alternativoj	prononco
+level	meze de la nokto	keset ööd	in the middle of the night	grupo	alternativoj	prononco
+level	ĉu la grafino vin invitis?	kas krahvinna kutsus sind?	did the countess invite you?	grupo	alternativoj	prononco
+level	ĉu ŝi scias pri ~	kas ta teab ~ kohta	does she know about ~	grupo	alternativoj	prononco
+level	pri via ĉeesto	teie kohaloleku kohta	about your presence	grupo	alternativoj	prononco
+level	via ĉeesto ĉi tie	teie kohalolek siin	your presence here	grupo	alternativoj	prononco
+level	mi devas peti vin ~	Ma pean sinult küsima ~	I have to ask you ~	grupo	alternativoj	prononco
+level	petas vin sekvi min	palub sul mulle järgneda	asks you to follow me	grupo	alternativoj	prononco
+level	kaj li klarigis ~	ja ta selgitas ~	and he explained ~	grupo	alternativoj	prononco
+level	klarigis, ke ~	selgitas, et ~	explained that ~	grupo	alternativoj	prononco
+level	ekde la fuŝa provo	sest vale katse	since the wrong attempt	grupo	alternativoj	prononco
+level	la fuŝa provo kapti la grafinon	vale katse krahvinnat tabada	the wrong attempt to catch the countess	grupo	alternativoj	prononco
+level	fare de ~	~ tõttu	due to ~	grupo	alternativoj	prononco
+level	fare de teroristoj	terroristide tõttu	due to terrorists	grupo	alternativoj	prononco
+level	la polico kontrolas atente	politsei kontrollib hoolikalt	the police checks carefully	grupo	alternativoj	prononco
+level	kontrolas, kio okazas	kontrollib, mis toimub	checks what is happening	grupo	alternativoj	prononco
+level	okazas en la ĉirkaŭaĵo	esineb ümbruskonnas	occurs in the surrounding	grupo	alternativoj	prononco
+level	de la kastelo	lossist	of the castle	grupo	alternativoj	prononco
+level	la ĉirkaŭaĵo de la kastelo	lossi ümbrus	the surrounding of the castle	grupo	alternativoj	prononco
+level	al la industriisto	töösturile	to the industrialist	grupo	alternativoj	prononco
+level	ŝajnis, ke ~	tundus, et ~	it seemed that ~	grupo	alternativoj	prononco
+level	lia koro ĉifoje falis	ta süda langes seekord	his heart fell this time	grupo	alternativoj	prononco
+level	falis ĝis liaj piedoj	kukkus jalule	fell to his feet	grupo	alternativoj	prononco
+level	li sciis, ke ~	ta teadis, et ~	he knew that ~	grupo	alternativoj	prononco
+level	nur malfacile li provos trovi ~	ta püüab lihtsalt leida	just hard he'll try to find	grupo	alternativoj	prononco
+level	trovi akcepteblan klarigon	vastuvõetava seletuse leidmiseks	to find an acceptable explanation	grupo	alternativoj	prononco
+level	pri sia ĉeesto	enda kohaloleku kohta	about one's own presence	grupo	alternativoj	prononco
+level	la ideo, ke la grafino ĉion scias	mõte, et krahvinna teab kõike	the idea that the countess knows everything	grupo	alternativoj	prononco
+level	la ideo perdigis al li malmulton da espero	see idee võttis talt vähese lootuse	the idea deprived him of little hope	grupo	alternativoj	prononco
+level	malmulto da espero	vähe lootust	little hope	grupo	alternativoj	prononco
+level	malmulta espero, kiu restis	vähe lootust jäi	little hope that remained	grupo	alternativoj	prononco
+level	post la unuaj vortoj de la policano	peale politsei esimesi sõnu	after the first words of the police	grupo	alternativoj	prononco
+level	ju pli ~ des pli ~	mida rohkem ~ seda rohkem ~	the more ~ the more ~	grupo	alternativoj	prononco
+level	ju pli longe des pli bone	mida kauem seda parem	the longer the better	grupo	alternativoj	prononco
+level	kiom ajn	ükskõik kui palju	no matter how much	grupo	alternativoj	prononco
+level	antaŭ kvarona horo	veerand tundi tagasi	a quarter of an hour ago	grupo	alternativoj	prononco
+level	ili revenis	nad tulid tagasi	they came back	grupo	alternativoj	prononco
+level	post la terura malfeliĉo	pärast kohutavat õnnetust	after the terrible misfortune	grupo	alternativoj	prononco
+level	la homoj foriris	rahvas lahkus	the people left	grupo	alternativoj	prononco
+level	kaj la malnovaj urboj disfalis	ja vanad linnad lagunesid	and the old cities fell apart	grupo	alternativoj	prononco
+level	ni devus revidi vin	peaksime sind uuesti nägema	we should see you again	grupo	alternativoj	prononco
+level	ju pli ofte	seda sagedamini	the more often	grupo	alternativoj	prononco
+level	mi pripensas	Ma mõtlesin	I'm thinking	grupo	alternativoj	prononco
+level	des pli mi koleras	seda vihasem ma olen	the more angry I am	grupo	alternativoj	prononco
+level	ŝi loĝas en ~	ta elab ~	she lives in ~	grupo	alternativoj	prononco
+level	en iu ajn domo	igas majas	in any house	grupo	alternativoj	prononco
+level	ĉu ni revidos nin?	kas me näeme teineteist veel?	will we see each other again?	grupo	alternativoj	prononco
+level	kie ajn kaj kiam ajn	kus iganes ja millal iganes	wherever and whenever	grupo	alternativoj	prononco
+level	kiam mi rericevos ~ ?	millal ma tagasi tulen ~ ?	when will I get back ~ ?	grupo	alternativoj	prononco
+level	la alian duonon de la libroj	teine pool raamatutest	the other half of the books	grupo	alternativoj	prononco
+level	ĉu vi bezonos ~ ?	kas sa vajad ~ ?	will you need ~ ?	grupo	alternativoj	prononco
+level	bezonas pli ol kvaronan jaron	vajab rohkem kui veerand aastat	needs more than a quarter of a year	grupo	alternativoj	prononco
+level	por tiuj laboroj	nende töökohtade jaoks	for those jobs	grupo	alternativoj	prononco
+level	kial estas ~ ?	miks on ~?	why is ~ ?	grupo	alternativoj	prononco
+level	des pli malvarma	seda külmem	the colder	grupo	alternativoj	prononco
+level	ju pli longe	seda kauem	the longer	grupo	alternativoj	prononco
+level	ni atendas ~	me ootame ~	we are waiting ~	grupo	alternativoj	prononco
+level	ĉu vi kontentas kun ~ ?	kas oled ~ga rahul?	are you satisfied with ~ ?	grupo	alternativoj	prononco
+level	kun iu ajn viro	ükskõik millise mehega	with any man	grupo	alternativoj	prononco

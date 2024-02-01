@@ -1,0 +1,13 @@
+2024-02-01 16:46:08	/api/login.api	a@a.com	a@a.com	el
+2024-02-01 16:46:08	/api/get_course_info.api	a@a.com	el
+2024-02-01 16:46:11	/api/get_course_info.api	a@a.com	el
+2024-02-01 16:46:13	/api/session-start.api	a@a.com	el	A
+2024-02-01 16:46:13	/api/card-next.api	a@a.com	A	el	mi, vi	0	./quizF.html	female1
+2024-02-01 16:46:14	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-02-01 16:46:16	/api/card-next.api	a@a.com	A	el	estas, estis	0	./quizI.html	male2
+2024-02-01 16:46:16	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-02-01 16:46:17	/api/similar-words-jk.api	a@a.com	A	el	estis	
+2024-02-01 16:46:19	/api/get_course_info.api	a@a.com	el
+2024-02-01 16:46:22	/api/get_course_info.api	a@a.com	el
+2024-02-01 16:46:44	/api/jump-level.api	a@a.com	A	el	NaN
+2024-02-01 16:46:45	/api/get_course_info.api	a@a.com	el

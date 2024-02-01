@@ -1,0 +1,1356 @@
+A.sl content.tsv
+Level	Esperanto	sl	en-us	Grupo	Alternativoj	Pronoco
+level	mi, vi	Jaz ti	I, you	grupo	alternativoj	prononco
+level	estas, estis	(sedanjost) je, sem, so (preteklost) was, were	(present) is, am, are (past) was, were	grupo	alternativoj	prononco
+level	mi estas ~	jaz sem ~	I am ~	grupo	alternativoj	prononco
+level	vi estas ~	ti si ~	you are ~	grupo	alternativoj	prononco
+level	saluton	zdravo	hello	grupo	alternativoj	prononco
+level	saluton, mi estas ~	zdravo, jaz sem ~	hello, I am ~	grupo	alternativoj	prononco
+level	mia, via	moj, tvoj	my, your	grupo	alternativoj	prononco
+level	nomo	ime	a name	grupo	alternativoj	prononco
+level	mia nomo, via nomo	moje ime, tvoje ime	my name, your name	grupo	alternativoj	prononco
+level	mia nomo estas ~	moje ime je ~	my name is ~	grupo	alternativoj	prononco
+level	via nomo estas ~	tvoje ime je ~	your name is ~	grupo	alternativoj	prononco
+level	fartas, fartis	(sedanjost) naredi, (preteklost) naredil	(present) does, (past) did	grupo	alternativoj	prononco
+level	estis, estos	(sedanjost) je bil, bili (prihodnost) bodo	(present) was, were (future) will be	grupo	alternativoj	prononco
+level	nomo, nomon	ime, (objektivno) ime	a name, an (objective) name	grupo	alternativoj	prononco
+level	mia amo	moja ljubezen	my love	grupo	alternativoj	prononco
+level	vi fartas	delaš ~	you are doing ~	grupo	alternativoj	prononco
+level	kiel	kako	how	grupo	alternativoj	prononco
+level	kiel vi fartas?	kako si kaj	how are you doing?	grupo	alternativoj	prononco
+level	kio	kaj	what	grupo	alternativoj	prononco
+level	kio estas via nomo?	kako ti je ime	what is your name?	grupo	alternativoj	prononco
+level	bona, bone	dobro, dobro	good, well	grupo	alternativoj	prononco
+level	fartas bone	gre dobro	is doing well	grupo	alternativoj	prononco
+level	mi fartas bone	dobro mi gre	I am doing well	grupo	alternativoj	prononco
+level	kaj	in	and	grupo	alternativoj	prononco
+level	bone, kaj vi?	dobro in ti?	fine, and you?	grupo	alternativoj	prononco
+level	ĝis ~	dokler ~	until ~	grupo	alternativoj	prononco
+level	vidas, vidis	(sedanjost) vidi, (preteklost) videl	(present) sees, (past) saw	grupo	alternativoj	prononco
+level	vidis, revidis	(past) saw, (past) saw again	(past) saw, (past) saw again	grupo	alternativoj	prononco
+level	revidis, revidos	spet videl, spet bom videl	saw again, will see again	grupo	alternativoj	prononco
+level	revido, revidon	spet videti, spet videti (objektivno)	seeing-again, seeing-again (objective)	grupo	alternativoj	prononco
+level	ĝis revido!	se vidiva!	see you again!	grupo	alternativoj	prononco
+level	dankon	Hvala vam	thank you	grupo	alternativoj	prononco
+level	dankon kaj ĝis revido!	hvala in se vidimo spet!	thank you and see you again!	grupo	alternativoj	prononco
+level	al ~	do ~	to ~	grupo	alternativoj	prononco
+level	al vi, al mi	tebi, meni	to you, to me	grupo	alternativoj	prononco
+level	dankas, dankis	(sedanja) hvala, (pretekla) zahvala	(present) thanks, (past) thanked	grupo	alternativoj	prononco
+level	mi dankas al vi	cenim te	I appreciate to you	grupo	alternativoj	prononco
+level	jes, ne	da, ne	yes, no	grupo	alternativoj	prononco
+level	jes, dankon	ja, hvala	yes, thaink you	grupo	alternativoj	prononco
+level	manĝas, manĝos	poje, bo jedel	eats, will eat	grupo	alternativoj	prononco
+level	mi ne manĝas	ne jem	I don't eat	grupo	alternativoj	prononco
+level	ne, mi ne manĝas	ne, ne jem	no, I don't eat	grupo	alternativoj	prononco
+level	bela, bele	lepo, lepo	beautiful, beautifully	grupo	alternativoj	prononco
+level	-inda	vredno (konec)	worthwhile (ending)	grupo	alternativoj	prononco
+level	dankinda, dankinde	cenjen, vreden zahvale	appreciatable, worthwhile to thank	grupo	alternativoj	prononco
+level	tuta, tute	whole, kot celota	whole, as a whole	grupo	alternativoj	prononco
+level	tuto, tuton	vse, (objektivno) vse	all, (objective) all	grupo	alternativoj	prononco
+level	nedankinde	sploh ne, ni za kaj	not at all, you're welcome	grupo	alternativoj	prononco
+level	tute ne	popolnoma ne	totally no	grupo	alternativoj	prononco
+level	pardoni ~, pardono	odpuščati, odpuščanje	to forgive, a forgiving	grupo	alternativoj	prononco
+level	pardonon al mi	odpuščanje zame	a forgiving to me	grupo	alternativoj	prononco
+level	pardonon	Žal mi je! (Oprostite)	I'm sorry! (pardon me)	grupo	alternativoj	prononco
+level	pardonon, mi petas	Oprostite, prosim	I'm sorry, please	grupo	alternativoj	prononco
+level	bona mateno	dobro jutro	a good morning	grupo	alternativoj	prononco
+level	bonan matenon	dobro jutro	good morning	grupo	alternativoj	prononco
+level	bonan nokton	lahko noč	good night	grupo	alternativoj	prononco
+level	bonan sonĝon	sladke sanje	sweet dream	grupo	alternativoj	prononco
+level	bonan vojaĝon, al vi	(ime) srečno pot, tebi	(have) a good trip, to you	grupo	alternativoj	prononco
+level	bonan tagon	dober dan!	good day!	grupo	alternativoj	prononco
+level	ĉu ~	je ~?	is it ~ ?	grupo	alternativoj	prononco
+level	ĉu vi fartas bone?	ti gre dobro? (kako si?)	are you doing well? (how are you?)	grupo	alternativoj	prononco
+level	jes, mi fartas bone	da, v redu sem	yes, I'm fine	grupo	alternativoj	prononco
+level	ne, tute ne	ne, sploh ne	no, not at all	grupo	alternativoj	prononco
+level	tre, tro	zelo, preveč	very, too much	grupo	alternativoj	prononco
+level	granda, grande	veliko, v veliki meri	big, largely	grupo	alternativoj	prononco
+level	tre bona, tro granda	zelo dobro, preveliko	very good, too big	grupo	alternativoj	prononco
+level	vi tre bone fartas	zelo dobro ti gre	you are doing very well	grupo	alternativoj	prononco
+level	ne tre bone	ne preveč dobro	not very well	grupo	alternativoj	prononco
+level	lerni ~, lerno	učiti se, učenje	to learn, a learning	grupo	alternativoj	prononco
+level	vidanta, vidanto	išče, gledalec	is looking, a spectator	grupo	alternativoj	prononco
+level	lernanta, lernanto	se uči, študent (učeča se oseba)	is learning, a student (a learning person)	grupo	alternativoj	prononco
+level	-anta, -anto	je -ing, oseba, ki dela	is -ing, a person who is doing	grupo	alternativoj	prononco
+level	lernanto, lerninto	študent, oseba, ki se je naučila	a student, a person who has learned	grupo	alternativoj	prononco
+level	mi estas lernanto	Jaz sem študent.	I am a student.	grupo	alternativoj	prononco
+level	~ estas mia amiko	~ je moj prijatelj	~ is my friend	grupo	alternativoj	prononco
+level	li, ŝi	on, ona	he, she	grupo	alternativoj	prononco
+level	sidi, sidas	sedeti, sedi	to sit, sits	grupo	alternativoj	prononco
+level	sidanta, sidinta, sidonta	je sedel, je sedel, bo sedel	is sitting, was sitting, will be sitting	grupo	alternativoj	prononco
+level	li sidas kaj ŝi lernas	on sedi, ona pa se uči	he is sitting and she is learning	grupo	alternativoj	prononco
+level	ĉambro	soba	a room	grupo	alternativoj	prononco
+level	lernas en ĉambro	uči v sobi	learns in a room	grupo	alternativoj	prononco
+level	lernanto kaj sportisto	študent in športnik	a student and a sportsman	grupo	alternativoj	prononco
+level	sporto kaj sportisto	šport in športnik	sport and a sportsman	grupo	alternativoj	prononco
+level	sportisto nun sportas	športnik je športen	a sportsman is sporting	grupo	alternativoj	prononco
+level	li estas lernanto	on je študent	he is a student	grupo	alternativoj	prononco
+level	estas lernanto kaj sportisto	je študent in športnik	he is a student and a sportman	grupo	alternativoj	prononco
+level	li nun sidas	zdaj sedi	he is now sitting	grupo	alternativoj	prononco
+level	kaj nun lernas	in se zdaj uči	and is now learning	grupo	alternativoj	prononco
+level	sidas kaj lernas	sedi in se uči	is sitting and is learning	grupo	alternativoj	prononco
+level	nun en ĉambro	zdaj v sobi	now in a room	grupo	alternativoj	prononco
+level	estas sur tablo	je na mizi	is on a table	grupo	alternativoj	prononco
+level	papero kaj paperoj	papir in papirji	a paper and papers	grupo	alternativoj	prononco
+level	tablo kaj tabloj	miza in mize	a table and tables	grupo	alternativoj	prononco
+level	libro kaj libroj	knjiga in knjige	a book and books	grupo	alternativoj	prononco
+level	la paperoj kaj libroj	papirji in knjige	the papers and books	grupo	alternativoj	prononco
+level	ĝi estas sur tablo	je na mizi.	it is on a table.	grupo	alternativoj	prononco
+level	skribas sur la skribotablo	piše na pisalno mizo	is writing on a writing table	grupo	alternativoj	prononco
+level	la libroj estas ~	knjige so ~	the books are ~	grupo	alternativoj	prononco
+level	sur la tablo	na mizi	on the table	grupo	alternativoj	prononco
+level	lernolibro kaj la lernolibroj	učbenik in učbeniki	a textbook and the textbooks	grupo	alternativoj	prononco
+level	sur la tablo estas ~	na mizi je ~	on the table there is ~	grupo	alternativoj	prononco
+level	patro kaj patrino	oče in mati	a father and a mother	grupo	alternativoj	prononco
+level	la patro kaj la patrino	oče in mati	the father and the mother	grupo	alternativoj	prononco
+level	la patrino de mia amiko	mati mojega prijatelja	the mother of my friend	grupo	alternativoj	prononco
+level	en la ĉambro	V sobi	in the room	grupo	alternativoj	prononco
+level	ne estas en la ĉambro	ni v sobi	is not in the room	grupo	alternativoj	prononco
+level	ili nun laboras	zdaj delajo	they are now working	grupo	alternativoj	prononco
+level	lia patro estas laboristo	njegov oče je delavec	his father is a worker	grupo	alternativoj	prononco
+level	li laboras en hotelo	dela v hotelu	he works in a hotel	grupo	alternativoj	prononco
+level	la patrino instruas	mati uči	the mother teaches	grupo	alternativoj	prononco
+level	ŝi estas instruistino	ona je učiteljica	she is a teacher	grupo	alternativoj	prononco
+level	ĉu ŝi estas patrino?	je mama?	is she a mother?	grupo	alternativoj	prononco
+level	ne, ŝi estas hotelisto	ne, ona je hotelirka	no, she is an hotelier	grupo	alternativoj	prononco
+level	ne, mi ne laboras	ne, ne delam	no, I don't work	grupo	alternativoj	prononco
+level	kio estas ŝia nomo?	kako ji je ime?	what is her name?	grupo	alternativoj	prononco
+level	kiu nun respondas?	kdo zdaj odgovarja?	who is now answering?	grupo	alternativoj	prononco
+level	la lingvo de ilia patrino	jezik njihove matere	the language of their mother	grupo	alternativoj	prononco
+level	ĉu via nomo estas ~ ?	je tvoje ime ~?	is your name ~ ?	grupo	alternativoj	prononco
+level	ni sidas kaj respondas	sedimo in odgovarjamo	we are sitting and answering	grupo	alternativoj	prononco
+level	ŝia labora seĝo	njen delovni stol	her working chair	grupo	alternativoj	prononco
+level	ĝia nomo ne estas ~	njegovo ime ni ~	its name is not ~	grupo	alternativoj	prononco
+level	ŝia lingvo estas ilia lingvo	njen jezik je njihov jezik	her language is their language	grupo	alternativoj	prononco
+level	nia patro kaj patrino	naš oče in mati	our father and mother	grupo	alternativoj	prononco
+level	via lernanto, viaj lernantoj	vaš študent, vaši učenci	your student, your students	grupo	alternativoj	prononco
+level	ĉu ili estas viaj lernantoj?	so tvoji učenci?	are they your students?	grupo	alternativoj	prononco
+level	ĉu vi estas lernanto?	ali si študent?	are you a student?	grupo	alternativoj	prononco
+level	ĉu vi estas en la ĉambro?	si v sobi?	are you in the room?	grupo	alternativoj	prononco
+level	mi ne estas ~	Nisem ~	I'm not ~	grupo	alternativoj	prononco
+level	esperantisto kaj esperantistino	esperantist in esperantistka	an Esperantist and a female Esperantist	grupo	alternativoj	prononco
+level	enskribis por la hotelĉambro	prijavil v hotelsko sobo	checked in for the hotel room	grupo	alternativoj	prononco
+level	lingvisto kaj laboristino	jezikoslovec in delavka	a linguist and a female worker	grupo	alternativoj	prononco
+level	lia amikino estas ~	njegova prijateljica je ~	his girl friend is ~	grupo	alternativoj	prononco
+level	lernantoj kaj sportistoj	študenti in športniki	students and sportsmen	grupo	alternativoj	prononco
+level	mia familia nomo estas ~	moje družinsko ime je ~	my familia name is ~	grupo	alternativoj	prononco
+level	kiu estas ŝi?	kdo je ona? katera je ona?	who is she? which is she?	grupo	alternativoj	prononco
+level	estas via amikino	je tvoja prijateljica	is your girl friend	grupo	alternativoj	prononco
+level	ĉu via amiko estas ~ ?	je tvoj prijatelj ~?	is your friend ~ ?	grupo	alternativoj	prononco
+level	skribas nun en la ĉambro	piše zdaj v sobi	is writing now in the room	grupo	alternativoj	prononco
+level	ĉu la amiko de via patro ~ ?	je prijatelj tvojega očeta ~?	is the friend of you father ~ ?	grupo	alternativoj	prononco
+level	laboras en hotelo	dela v hotelu	works in a hotel	grupo	alternativoj	prononco
+level	kio estas sur la tablo?	kaj je na mizi?	what is on the table?	grupo	alternativoj	prononco
+level	sur la tablo en nia ĉambro	na mizi v naši sobi	on the table in our room	grupo	alternativoj	prononco
+level	ĉu la lernolibro de Esperanto ~ ?	je učbenik za esperanto ~?	is the Esperanto textbook ~ ?	grupo	alternativoj	prononco
+level	estas sur via tablo	je na vaši mizi	is on your table	grupo	alternativoj	prononco
+level	havas amikinon	ima prijatelja	has a friend	grupo	alternativoj	prononco
+level	ŝia nomo estas ~	njeno ime je ~	her name is ~	grupo	alternativoj	prononco
+level	juna kaj bela	mlad in lep	young and beautiful	grupo	alternativoj	prononco
+level	estas juna kaj bela	je mlada in lepa	is young and beautiful	grupo	alternativoj	prononco
+level	junaj kaj belaj amikoj	mlade in lepe prijateljice	young and beautiful friends	grupo	alternativoj	prononco
+level	estas geamikoj	sta prijatelja moški in ženska	are male-and-female friends	grupo	alternativoj	prononco
+level	hejmo de ŝia instruisto	dom njenega učitelja	a home of her teacher	grupo	alternativoj	prononco
+level	venis al la hejmo	prišel na dom	came to the home	grupo	alternativoj	prononco
+level	la hejmo de ~	dom ~	the home of ~	grupo	alternativoj	prononco
+level	bonvolu eniri	naprej, prosim	please come in	grupo	alternativoj	prononco
+level	saluton! kion vi faras?	Živjo, kaj počneš?	hello, what are you doing?	grupo	alternativoj	prononco
+level	kion vi faras?	kaj počneš? kaj delaš?	what do you do? what are you doing?	grupo	alternativoj	prononco
+level	sed nun mi volas ~	zdaj pa hočem ~	but now I want ~	grupo	alternativoj	prononco
+level	mi volas paroli	Hočem govoriti	I want to speak	grupo	alternativoj	prononco
+level	kun tri geamikoj	s tremi prijateljicami in prijateljicami	with three male-and-female friends	grupo	alternativoj	prononco
+level	parolis kun vi	govoril s teboj	spoke with you	grupo	alternativoj	prononco
+level	volas paroli kun vi	želi govoriti s teboj	wants to speak with you	grupo	alternativoj	prononco
+level	ĉu vi havas geamikojn?	ali imaš prijatelje in prijateljice	do you have male-and-female friends	grupo	alternativoj	prononco
+level	li havas libron	ima knjigo	he has a book	grupo	alternativoj	prononco
+level	havas bonan libron	ima dobro knjigo	has a good book	grupo	alternativoj	prononco
+level	jes, mi havas	Ja, jaz imam	yes, I have	grupo	alternativoj	prononco
+level	ili ŝatas ĝin	všeč jim je	they like it	grupo	alternativoj	prononco
+level	ŝi legis libron	prebrala je knjigo	she read a book	grupo	alternativoj	prononco
+level	ŝatas legi librojn	rad bere knjige	likes to read books	grupo	alternativoj	prononco
+level	nur bona libro	samo dobra knjiga	only a good book	grupo	alternativoj	prononco
+level	multaj bonaj libroj	veliko dobrih knjig	many good books	grupo	alternativoj	prononco
+level	legis nur bonajn librojn	berite samo dobre knjige	read only good books	grupo	alternativoj	prononco
+level	ŝatas legi bonajn librojn	rad bere dobre knjige	likes to read good books	grupo	alternativoj	prononco
+level	ĉu vi volas legi?	hočeš brati?	do you want to read?	grupo	alternativoj	prononco
+level	la junulo trinkis kafon	mladenič je pil kavo	the youngster drank coffee	grupo	alternativoj	prononco
+level	volas trinki akvon	hoče piti vodo	wants to drink water	grupo	alternativoj	prononco
+level	patro kaj patrino, gepatroj	oče in mati; starši	a father and a mother; parents	grupo	alternativoj	prononco
+level	frato kaj fratino, gefratoj	nadloga in sestra, bratje in sestre	a bother and a sister, siblings	grupo	alternativoj	prononco
+level	viaj gepatroj kaj gefratoj	tvoji starši in bratje in sestre	your parents and siblings	grupo	alternativoj	prononco
+level	estas en via hejmo	je v vašem domu	is in your home	grupo	alternativoj	prononco
+level	jen la kafo	tukaj je kava	here is the coffee	grupo	alternativoj	prononco
+level	ankoraŭ ne trinkis	še ni pil	didn't drink yet	grupo	alternativoj	prononco
+level	estas ankoraŭ varma	je še toplo	is still warm	grupo	alternativoj	prononco
+level	hieraŭ kuiris ĝin	skuhala včeraj	cooked it yesterday	grupo	alternativoj	prononco
+level	mi nun kuiris	Zdaj sem kuhala	I now cooked	grupo	alternativoj	prononco
+level	dankon. tiel li diris	Hvala vam. tako je rekel.	thank you. so he said.	grupo	alternativoj	prononco
+level	povas trinki kaj manĝi	lahko pije in je	can drink and eat	grupo	alternativoj	prononco
+level	trinkis malvarman kafon	spil hladno kavo	drank cold coffee	grupo	alternativoj	prononco
+level	ankaŭ varma kafo	še toplo kavo	still warm coffee	grupo	alternativoj	prononco
+level	trinkas ankaŭ malvarman kafon	pije tudi hladno kavo	drinks cold coffee too	grupo	alternativoj	prononco
+level	povas trinki ankaŭ malvarman kafon	lahko pije tudi hladno kavo	can also drink cold coffee	grupo	alternativoj	prononco
+level	rigardas ŝian okulon	pogleda njeno oko	looks at her eye	grupo	alternativoj	prononco
+level	la plej bela okulo	najlepše oko	the most beautiful eye	grupo	alternativoj	prononco
+level	la belaj okuloj	lepe oči	the beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la belajn okulojn	pogledal lepe oči	looked the beautiful eyes	grupo	alternativoj	prononco
+level	la belaj okuloj de ŝi	njene lepe oči	the beautiful eyes of her	grupo	alternativoj	prononco
+level	vidas kaj komprenas	vidi in razume	sees and understands	grupo	alternativoj	prononco
+level	mi vidas, ke ~	Vidim, da ~	I see that ~	grupo	alternativoj	prononco
+level	ke li amas ŝin	da jo ljubi	that he loves her	grupo	alternativoj	prononco
+level	ŝi sentis, ke li amas ŝin	čuti, da jo ljubi	she feels that he loves her	grupo	alternativoj	prononco
+level	demandas, ĉu tio estis granda	vpraša, ali je bilo to veliko	asks whether that was big	grupo	alternativoj	prononco
+level	pri facila demando	o lahkem vprašanju	about an easy question	grupo	alternativoj	prononco
+level	diris pri nova mono	rekel o novem denarju	said about a new money	grupo	alternativoj	prononco
+level	tre belaj okuloj	zelo lepe oči	very beautiful eyes	grupo	alternativoj	prononco
+level	rigardis la grandan fraton	je pogledal velikega brata	looked the big brother	grupo	alternativoj	prononco
+level	malgranda fratino forgesis ĝin	mala sestrica ga je pozabila	a little sister forgot it	grupo	alternativoj	prononco
+level	akuzativo	tožilnik (objekt)	an accusative (objective)	grupo	alternativoj	prononco
+level	ne forgesu akuzativon	ne pozabite na tožilniško končnico	don't forget the accusative ending	grupo	alternativoj	prononco
+level	kiun vi vidas?	s kom se videvaš? katerega vidiš?	whom are you seeing? which one do you see?	grupo	alternativoj	prononco
+level	mi vidas amikon	vidim prijatelja	I see a friend	grupo	alternativoj	prononco
+level	havas bonajn geamikojn	ima dobre prijatelje in prijateljice	has good male-and-female friends	grupo	alternativoj	prononco
+level	ili laboras pri la malnova domo	delajo okoli stare hiše	they are working about the old house	grupo	alternativoj	prononco
+level	laboras, laboris, laboros	dela, delal, bo delal	works, worked, will work	grupo	alternativoj	prononco
+level	vidas, ke mi manĝas	vidi, da jem	sees, that I eat	grupo	alternativoj	prononco
+level	diris, ke li iros	rekel, da bo šel	said, that he will go	grupo	alternativoj	prononco
+level	malbela kaj malbona	grdo in slabo	ugly and bad	grupo	alternativoj	prononco
+level	kion ŝi diris?	kaj je rekla?	what did she say?	grupo	alternativoj	prononco
+level	kion vi atendas?	kaj čakaš?	what are you waiting for?	grupo	alternativoj	prononco
+level	eniris en la ĉambron	šel v sobo	went into the room	grupo	alternativoj	prononco
+level	enhavo estis tre malfacila	vsebina je zelo težka	a content is very difficult	grupo	alternativoj	prononco
+level	alvenis al la kunsido	prišel na sestanek	arrived at the meeting	grupo	alternativoj	prononco
+level	bonvenon, al la kunveno	dobrodošli na srečanju	welcome to the meeting	grupo	alternativoj	prononco
+level	maljuna viro donis trinkmonon	starec je dal namig	an old man gave a tip	grupo	alternativoj	prononco
+level	alvenis kaj estis bonvena	prišel in bil dobrodošel	arrived and was welcomed	grupo	alternativoj	prononco
+level	ili malamas sed kunlaboras.	sovražijo, a sodelujejo	they hate but cooperate	grupo	alternativoj	prononco
+level	iris al la hotelo	šel v hotel	went to the hotel	grupo	alternativoj	prononco
+level	havas facilajn lernolibrojn	ima enostavne učbenike	has easy textbooks	grupo	alternativoj	prononco
+level	kia estis via patrino?	kako je bila tvoja mama?	how was your mother?	grupo	alternativoj	prononco
+level	via malnova hejmo	vaš stari dom	your old home	grupo	alternativoj	prononco
+level	kiujn librojn vi legis?	katere knjige si prebral?	which books did you read?	grupo	alternativoj	prononco
+level	ĉu ili estis bonaj?	so bili dobri?	were they good?	grupo	alternativoj	prononco
+level	kion faris hieraŭ?	naredil kaj včeraj?	did what yesterday?	grupo	alternativoj	prononco
+level	en la malgranda ĉambro	v majhni sobi	in the small room	grupo	alternativoj	prononco
+level	tre longe parolis	govoril zelo dolgo	spoke very long while	grupo	alternativoj	prononco
+level	antaŭ la lernejo	pred šolo, pred šolo	in front of the school, before the school	grupo	alternativoj	prononco
+level	parolis antaŭ la lernejo	spregovoril pred šolo	spoke before the school	grupo	alternativoj	prononco
+level	poste parolis pri la libro	pozneje spregovoril o knjigi	later spoke about the book	grupo	alternativoj	prononco
+level	ĝoje iris al la lernejo	z veseljem hodil v šolo	gladly went to the school	grupo	alternativoj	prononco
+level	tra la strato	skozi ulico	through the street	grupo	alternativoj	prononco
+level	iris tra la strato	šel skozi ulico	went through the street	grupo	alternativoj	prononco
+level	estis varma tago	bil je topel dan	was a warm day	grupo	alternativoj	prononco
+level	ili vidis kafejon	videli so kavarno'	they saw a cafe'	grupo	alternativoj	prononco
+level	vidis ruĝajn kukojn	videl rdeče piškote	saw red cookies	grupo	alternativoj	prononco
+level	vidis kukojn en ĝi	v njem videl piškote	saw cookies in it	grupo	alternativoj	prononco
+level	vidis kafejon kaj en ĝi kukojn	videl kavarno' in v njej piškote	saw a cafe' and in it  cookies	grupo	alternativoj	prononco
+level	eniru kaj manĝu!	pojdi noter in jej!	go in and eat!	grupo	alternativoj	prononco
+level	ni eniru kaj manĝu	vstopimo in jejmo	let's come in and eat	grupo	alternativoj	prononco
+level	havas sufiĉan monon	ima dovolj denarja	has sufficient money	grupo	alternativoj	prononco
+level	ĉu vi havas sufiĉan monon?	imaš dovolj denarja?	do you have sufficient money?	grupo	alternativoj	prononco
+level	ĉu vi komprenas?	ali razumeš?	do you understand?	grupo	alternativoj	prononco
+level	kompreneble!	seveda!	of course!	grupo	alternativoj	prononco
+level	tio ne sufiĉas	to ni dovolj	that is not enough	grupo	alternativoj	prononco
+level	cent dolaroj sufiĉas	sto dolarjev je dovolj	a hundred dollars is enough	grupo	alternativoj	prononco
+level	dolaro, dolaroj, dolarojn	dolar, dolarji, dolarji (množinski cilj)	a dollar, dollars, dollars (plural objective)	grupo	alternativoj	prononco
+level	havas cent dolarojn	ima sto dolarjev	has a hundred dollars	grupo	alternativoj	prononco
+level	kompreneble, mi havas	seveda imam	of course, I have	grupo	alternativoj	prononco
+level	ho! vi estas riĉa!	oh! ti si bogat!	oh! you are rich!	grupo	alternativoj	prononco
+level	kelnero, kelnerino	voda, natakarica	a water, an waitress	grupo	alternativoj	prononco
+level	kelnero portas menuon	natakar prinese meni	a waiter brings a menu	grupo	alternativoj	prononco
+level	portis tion al ni, alportis tion	prinesel to k nam, prinesel to	brought that to us, brought that	grupo	alternativoj	prononco
+level	kelnero alportis multajn kukojn	natakar je prinesel veliko piškotov	a waiter brought a lot of cookies	grupo	alternativoj	prononco
+level	ili manĝis iom	nekaj so pojedli (malo)	they ate some (a little)	grupo	alternativoj	prononco
+level	post la manĝo	po jedi (obroku)	after the eating (meal)	grupo	alternativoj	prononco
+level	nova, denove	novo, spet	new, again	grupo	alternativoj	prononco
+level	la kelnero denove venis	spet je prišel natakar	the waiter came again	grupo	alternativoj	prononco
+level	en iu loko	na nekem mestu	in some place	grupo	alternativoj	prononco
+level	serĉis en iu loko	nekje iskal	had searched in some place	grupo	alternativoj	prononco
+level	serĉis en alia loko	iskal na drugem mestu	searched in other place	grupo	alternativoj	prononco
+level	lia vizaĝo estis ĝoja	njegov obraz je bil vesel	his face was joyous	grupo	alternativoj	prononco
+level	ŝi estis malĝoja	bila je žalostna	she was sad	grupo	alternativoj	prononco
+level	fine kaj finfine	na koncu in končno končno	in the end and finally at last	grupo	alternativoj	prononco
+level	via forta voĉo	tvoj močan glas	your strong voice	grupo	alternativoj	prononco
+level	en malforta voĉo	s šibkim glasom	in weak voice	grupo	alternativoj	prononco
+level	ne havas monon	nima denarja	doesn't have money	grupo	alternativoj	prononco
+level	kio okazis tie?	kaj se je tam zgodilo?	what did happen there?	grupo	alternativoj	prononco
+level	akcidento okazis poste	pozneje se je zgodila nesreča	an accident happened later	grupo	alternativoj	prononco
+level	ĉu vi scias, kiam ĝi okazis?	veš kdaj se je to zgodilo?	do you know when did it happen?	grupo	alternativoj	prononco
+level	scias pri la afero	ve za zadevo	knows about the matter	grupo	alternativoj	prononco
+level	ankoraŭ unu afero restas	še ena stvar ostane	still one thing remains	grupo	alternativoj	prononco
+level	vi aŭ ŝi, ajna homo	ti ali ona, katera koli oseba	you or she, any person	grupo	alternativoj	prononco
+level	kiel kantisto	kot pevka, kot podpisnica	like a singer, as a signer	grupo	alternativoj	prononco
+level	kantis kiel profesia kantisto	pela kot profesionalna pevka	sang like a professional singer	grupo	alternativoj	prononco
+level	tie, kie ŝi loĝis	mestu, kjer je živela	a the place, where she lived	grupo	alternativoj	prononco
+level	kiel vi scias pri la aŭto?	kako veš za avto?	how do you know about the car?	grupo	alternativoj	prononco
+level	nu, vidu la rapidan aŭton	no, poglej hiter avto	well, look at the fast car	grupo	alternativoj	prononco
+level	suko sen sukero	sok brez sladkorja	a juice without sugar	grupo	alternativoj	prononco
+level	li havis rapidan veturilon	ima hitro vozilo	he has a fast vehicle	grupo	alternativoj	prononco
+level	tro forte	premočno	too strongly	grupo	alternativoj	prononco
+level	li tro forte malfermis	premočno je odprl	he opened too hard	grupo	alternativoj	prononco
+level	veturis tro rapide	vozil (potoval) prehitro	drove (traveled) too fast	grupo	alternativoj	prononco
+level	manĝis per kulero	jedel z žlico	ate with a spoon	grupo	alternativoj	prononco
+level	ni forte dubas	močno dvomimo	we strongly doubt	grupo	alternativoj	prononco
+level	vera letero de li	pravo pismo od njega	a true letter from him	grupo	alternativoj	prononco
+level	amletero kun kvin fotoj	ljubezensko pismo s petimi fotografijami	a love letter with five photos	grupo	alternativoj	prononco
+level	revenis, revenintoj	vrnili, ljudje, ki so se vrnili	returned, the people who returned	grupo	alternativoj	prononco
+level	ankaŭ ses leteroj revenis	tudi šest vrnjenih pisem	also six letters returned	grupo	alternativoj	prononco
+level	volis vidi la foton	želel videti fotografijo	wanted to see the photo	grupo	alternativoj	prononco
+level	revenis el la lernejo	vrnil iz šole	came back from the school	grupo	alternativoj	prononco
+level	kiam revenos la fratino?	kdaj se vrne sestra?	when will the sister return?	grupo	alternativoj	prononco
+level	volis legi denove	želel brati še enkrat	wanted to read again	grupo	alternativoj	prononco
+level	faris, fariĝis	made (naredil), postal	made (did), became	grupo	alternativoj	prononco
+level	rapide fariĝis ruĝa	hitro postala rdeča	rapidly became red	grupo	alternativoj	prononco
+level	en ĉambro, en ĉambron	v sobi, v sobo	in a room, into a room	grupo	alternativoj	prononco
+level	staris kaj sidis	stala in sedela	stood and sat	grupo	alternativoj	prononco
+level	tie staris antaŭ la foto	je stal pred fotografijo	there stood in front of the photo	grupo	alternativoj	prononco
+level	mi havas tion	To imam	I have that	grupo	alternativoj	prononco
+level	kion vi havas en via mano?	kaj imaš v roki?	what do you have in your hand?	grupo	alternativoj	prononco
+level	antaŭ aŭ malantaŭ?	spredaj ali zadaj?	in front or behind?	grupo	alternativoj	prononco
+level	antaŭ aŭ post?	prej ali potem?	before or after?	grupo	alternativoj	prononco
+level	tie malantaŭ la pordo	tam za vrati	there behind the door	grupo	alternativoj	prononco
+level	aliaj, aliaj homoj	drugi, drugi ljudje	others, other people	grupo	alternativoj	prononco
+level	leteroj de aliaj	pisma drugih	letters from others	grupo	alternativoj	prononco
+level	falis el la mano	padel iz roke	fell out of the hand	grupo	alternativoj	prononco
+level	sur la tablo, sur la tablon	na mizo, na mizo	on the table, onto the table	grupo	alternativoj	prononco
+level	ĝi falis sur la tablon	padlo je na mizo	it fell on the table	grupo	alternativoj	prononco
+level	petis pardonon	prosil za pomilostitev	asked for pardon	grupo	alternativoj	prononco
+level	serĉis kvin librojn	je iskal pet knjig	was searching for five books	grupo	alternativoj	prononco
+level	pardonu, mi serĉis mian libron	oprosti, iskal sem svojo knjigo.	sorry, I was looking for my book.	grupo	alternativoj	prononco
+level	sed vi bone scias	ampak dobro veš	but you know well	grupo	alternativoj	prononco
+level	ne estas sur mia tablo	ni na moji mizi	is not on my table	grupo	alternativoj	prononco
+level	viaj libroj ne estas sur mia tablo	tvojih knjig ni na moji mizi	your books are not on my table	grupo	alternativoj	prononco
+level	ree donis, redonis	znova dal, vrnil	again gave, returned	grupo	alternativoj	prononco
+level	redonu la leteron al mi.	vrni mi pismo	return the letter to me	grupo	alternativoj	prononco
+level	ricevis bonan lecionon	dobil dobro lekcijo	received a good lesson	grupo	alternativoj	prononco
+level	plu lavis, ne plu manĝis	dalje opral, jedel več	further washed, ate any more	grupo	alternativoj	prononco
+level	ne plu legos	ne bo več bral	will no longer read	grupo	alternativoj	prononco
+level	ankaŭ mi ricevis	Tudi jaz sem prejel	I also received	grupo	alternativoj	prononco
+level	devas fermi	se mora zapreti	has to close	grupo	alternativoj	prononco
+level	mi devas bone fermi	Moram dobro zapreti	I have to close well	grupo	alternativoj	prononco
+level	bone fermis la pordon	tesno zaprl vrata	closed the door tightly	grupo	alternativoj	prononco
+level	trankvila, trankviliĝu	pomiri se, umiri se	calm, calm down	grupo	alternativoj	prononco
+level	aŭdis sed ne aŭskultis	slišal, a ni poslušal	heard but did not listen	grupo	alternativoj	prononco
+level	aŭdis trankvilan sonon	zaslišal miren zvok	heard a calm sound	grupo	alternativoj	prononco
+level	ĉe mi estis kvar poŝoj	pri meni so 4 žepi	at me, there are 4 pockets	grupo	alternativoj	prononco
+level	dek tagoj post la lasta leciono	deset dni po zadnjem pouku	ten days after the last lesson	grupo	alternativoj	prononco
+level	inter la du tabloj	med obema mizama	between the two tables	grupo	alternativoj	prononco
+level	tri leteroj, ses paperoj	tri pisma, šest listov	three letters, six papers	grupo	alternativoj	prononco
+level	de kapo ĝis piedo	od glave do pete	from head to foot	grupo	alternativoj	prononco
+level	kvar, kvara, kvaropo, kvarono	štiri, četrtina, kvartet, četrtina	four, fourth, a quartet, a quarter	grupo	alternativoj	prononco
+level	kien iris la triopo?	kam je šla trojica	where did the trio go	grupo	alternativoj	prononco
+level	kvin fingroj en ambaŭaj manoj	pet prstov v obeh rokah	five fingers in both hands	grupo	alternativoj	prononco
+level	si mem, sia poŝo	sam, lasten žep	by oneself, one's own pocket	grupo	alternativoj	prononco
+level	meti, kunmeti, kunmetaĵo	put, sestaviti, spojina	put, put together, a compound	grupo	alternativoj	prononco
+level	metis en sian poŝon	dati v lasten žep	put in one's own pocket	grupo	alternativoj	prononco
+level	du cent nacioj en la mondo	dvesto narodov na svetu	two hundred nations in the world	grupo	alternativoj	prononco
+level	prenis, forprenis	vzel, vzel	took, took away	grupo	alternativoj	prononco
+level	prenis sep el siaj naŭ libroj	vzel sedem od svojih devetih knjig	took seven out of his own nine books	grupo	alternativoj	prononco
+level	lasi, forlasita	zapustiti, zapuščeno	to leave, abandoned	grupo	alternativoj	prononco
+level	lasu min sola kaj trankvila	pusti me pri miru in miru	leave me alone and calm	grupo	alternativoj	prononco
+level	mil ok cent ok dek sep	tisoč osemsto sedeminosemdeset (1887)	thousand eight hundred and eighty seven (1887)	grupo	alternativoj	prononco
+level	taso da teo	skodelica čaja	a cup of tea	grupo	alternativoj	prononco
+level	oni lavis ok tasojn	nekdo je pomil osem skodelic	somebody washed eight cups	grupo	alternativoj	prononco
+level	du mil dek naŭ	dva tisoč devetnajst (2019)	two thousand nineteen (2019)	grupo	alternativoj	prononco
+level	li lavis sin	se je umil	he washed himself	grupo	alternativoj	prononco
+level	sia korpo, sia propra posedo	lastno telo, lastna posest	one's body, one's own possession	grupo	alternativoj	prononco
+level	sur la tablo, la kato dormis	na mizi je mačka spala	on the table, the cat slept	grupo	alternativoj	prononco
+level	la kato saltis sur la tablon	mačka je skočila na mizo	the cat jumped onto the table	grupo	alternativoj	prononco
+level	en la halo, en la halon	v dvorani, v dvorano	in the hall, into the hall	grupo	alternativoj	prononco
+level	enfalis en lian manon	padel v njegovo roko	fell into his hand	grupo	alternativoj	prononco
+level	labori, ellabori	delati, izdelati	to work, to elaborate	grupo	alternativoj	prononco
+level	ellabori por tiu libro	razložiti za to knjigo	to elaborate for that book	grupo	alternativoj	prononco
+level	scias, scivolas, scivolo	ve, želi vedeti, radovednost	knows, wants to know, curiosity	grupo	alternativoj	prononco
+level	dulingva, dulingveco	dvojezičnost, dvojezičnost	bilingual, bilingualism	grupo	alternativoj	prononco
+level	scivolas pri trilingva lernanto	se sprašuje o trijezičnem učencu	wonders about a trilingual learner	grupo	alternativoj	prononco
+level	iris, reiris	odšel, vrnil se	went, returned	grupo	alternativoj	prononco
+level	la katoj reiris al siaj domoj	mačke so se vrnile na (lastne) domove	the cats returned to their (own) homes	grupo	alternativoj	prononco
+level	en la sako, en la sakon	v vrečko, v vrečko	in the bag, into the bag	grupo	alternativoj	prononco
+level	enmetu ĝin en vian sakon	daj v torbo	put it into your bag	grupo	alternativoj	prononco
+level	piedo, piediras, piediranto	noga, sprehodi, pešec	a foot, walks, a pedestrian	grupo	alternativoj	prononco
+level	dek-tage ili piediris	deset dni sta hodila	for ten days, they walked	grupo	alternativoj	prononco
+level	preni, elpreni	to take, to take out	to take, to take out	grupo	alternativoj	prononco
+level	belaj floroj, prenis belajn florojn	lepe rože, vzela lepe rože	beautiful flowers, took beautiful flowers	grupo	alternativoj	prononco
+level	li elprenis nur belajn florojn	ven je vzel samo lepe rože	he took out only beautiful flowers	grupo	alternativoj	prononco
+level	malfermis, sed tuj fermis	odprli, a takoj zaprli	opened, but immediately closed	grupo	alternativoj	prononco
+level	malfermis internacian kunvenon	odprl mednarodno srečanje	opened an international meeting	grupo	alternativoj	prononco
+level	eldonis kaj disdonis	objavljeno in distribuirano	published and distributed	grupo	alternativoj	prononco
+level	la eldonisto eldonis dudek tri librojn	založba je izdala triindvajset knjig	the publisher published twenty-three books	grupo	alternativoj	prononco
+level	revenis kaj revidis sian filon	vrnil in spet videl lastnega sina	returned and saw one's own son again	grupo	alternativoj	prononco
+level	en la jaro dumil dudek tri	leta dva tisoč triindvajset (2023)	in the year two thousand and twenty three (2023)	grupo	alternativoj	prononco
+level	sinjoro eniris la vendejon	(v) trgovino je vstopil gospod	a gentleman entered (into) the store	grupo	alternativoj	prononco
+level	la vendejo de aŭtoj	trgovina z avtomobili	the store of cars	grupo	alternativoj	prononco
+level	tie li vidas sinjorinon	tam zagleda gospo	there he sees a lady	grupo	alternativoj	prononco
+level	karaj gesinjoroj	drage dame in gospodje	dear ladies and gentlemen	grupo	alternativoj	prononco
+level	tio plaĉis al mi	to mi je bilo všeč (to mi je všeč)	that pleased me (I like that)	grupo	alternativoj	prononco
+level	la sinjorino plaĉis al li	gospa mu je ugajala (gospa mu je bila všeč)	the lady pleased him (he liked the lady)	grupo	alternativoj	prononco
+level	vidis la belan sinjorinon	videl lepo damo	saw the beautiful lady	grupo	alternativoj	prononco
+level	kiu plaĉis al li?	kdo ga je zadovoljil? (koga je imel rad?)	who pleased him? (whom did he like?)	grupo	alternativoj	prononco
+level	la virino, kiu plaĉis al mi	ženska, ki me je zadovoljila	the woman, who pleased me	grupo	alternativoj	prononco
+level	tiu, kiu eniris la domon	tisti, ki je vstopil v hišo	the one who entered the house	grupo	alternativoj	prononco
+level	la viro, kiu donacis ĝin	človek, ki ga je podaril	the man who donated it	grupo	alternativoj	prononco
+level	li donacis ringon al lia edzino	svoji ženi je dal prstan	he gave a ring to his wife	grupo	alternativoj	prononco
+level	la ringo plaĉis al ŝi	prstan ji je bil všeč	she liked the ring	grupo	alternativoj	prononco
+level	la edzino, al kiu la ringo plaĉis	žena, ki ji je bil prstan všeč	the wife who liked the ring	grupo	alternativoj	prononco
+level	vendisto laboras en la vendejo	prodajalec dela v trgovini	a salesman works in the store	grupo	alternativoj	prononco
+level	vendisto de aŭtoj	prodajalec avtomobilov	a salesman of cars	grupo	alternativoj	prononco
+level	la sinjoro demandis al la vendisto	je gospod vprašal prodajalca	the gentleman asked the salesman	grupo	alternativoj	prononco
+level	kiu aŭto plaĉas al vi?	kateri avto ti je všeč?	which car do you like?	grupo	alternativoj	prononco
+level	kiun aŭton vi elektos?	kateri avto boš izbrala?	which car will you choose?	grupo	alternativoj	prononco
+level	mi elektis tiun aŭton	Izbral sem ta avto	I chose that car	grupo	alternativoj	prononco
+level	ĝi estas pli bona	boljše je	it is better	grupo	alternativoj	prononco
+level	pli bona ol ĉi tio	boljše od tega	better than this	grupo	alternativoj	prononco
+level	plej bona el ili	najboljši med njimi	best of them	grupo	alternativoj	prononco
+level	estas la plej bona	je najboljši	is the best	grupo	alternativoj	prononco
+level	kiu aŭto estas la plej bona?	kateri avto je najboljši?	which car is the best?	grupo	alternativoj	prononco
+level	tiu ĉi aŭto estas pli bona	ta avto je boljši	this car is better	grupo	alternativoj	prononco
+level	tiu ĉi estas la plej bona	ta je najboljši	this one is the best	grupo	alternativoj	prononco
+level	vidis ĉiujn aŭtojn	videl vse avtomobile	saw all the cars	grupo	alternativoj	prononco
+level	la plej bona el ĉiuj	najboljši od vseh	the best of all	grupo	alternativoj	prononco
+level	ĉu ĝi estas rapida?	je hitro?	is it fast?	grupo	alternativoj	prononco
+level	pli rapida ol aliaj	hitreje kot drugi	faster than others	grupo	alternativoj	prononco
+level	estas ankaŭ forta	je tudi močan	is also strong	grupo	alternativoj	prononco
+level	ho jes, kompreneble!	o ja, seveda!	oh yes, of course!	grupo	alternativoj	prononco
+level	estas tre forta	je zelo močan	is very strong	grupo	alternativoj	prononco
+level	certe ĝi estas forta	vsekakor je močan	certainly it is strong	grupo	alternativoj	prononco
+level	estas ankaŭ multekosta	je tudi drago	is also expensive	grupo	alternativoj	prononco
+level	la plej multekosta el ĉiuj	najdražja od vseh	the most expensive of all	grupo	alternativoj	prononco
+level	malmultekosta sed forta	poceni, a močan	cheap but strong	grupo	alternativoj	prononco
+level	bedaŭras kaj bedaŭrindas	obžaluje in je usmiljen (vredno se je obžalovati)	feels sorry and is pityful (worth feeling sorry)	grupo	alternativoj	prononco
+level	bedaŭrinde mi ne aĉetos	na žalost ne bom kupila	unfortunately I will not buy	grupo	alternativoj	prononco
+level	estas bedaŭrinda afero	je nesrečna stvar	is an unfortunate thing	grupo	alternativoj	prononco
+level	li aĉetis novan aŭton	kupil je nov avto	he bought a new car	grupo	alternativoj	prononco
+level	ĉar mi ne havas monon	ker nimam denarja	because I do not have money	grupo	alternativoj	prononco
+level	mia malnova aŭto	moj stari avto	my old car	grupo	alternativoj	prononco
+level	la plej malmultekosta el ĉiuj	najcenejši od vseh	the cheapest of all	grupo	alternativoj	prononco
+level	mi veturos tien	Jaz se bom odpeljal tja	I'll drive there	grupo	alternativoj	prononco
+level	ankoraŭ veturos per ĝi	se bo še vozil z njim	will still drive with it	grupo	alternativoj	prononco
+level	dum la tuta tago	ves dan	all day long	grupo	alternativoj	prononco
+level	dum li diris tion	medtem ko je to rekel	while he said that	grupo	alternativoj	prononco
+level	li denove rigardis ŝin	jo je spet pogledal	he looked at her again	grupo	alternativoj	prononco
+level	sed la vendisto diris	ampak prodajalec je rekel	but the salesman said	grupo	alternativoj	prononco
+level	estus pli bone, ke ~	bolje bi bilo, da ~	it would be better that ~	grupo	alternativoj	prononco
+level	rigardu tiun ĉi sinjorinon	poglej to damo	look at this lady	grupo	alternativoj	prononco
+level	ankaŭ tio estas tre multekosta	to je tudi zelo drago	that is also very expensive	grupo	alternativoj	prononco
+level	mi estas ŝia edzo	Jaz sem njen mož	I am her husband	grupo	alternativoj	prononco
+level	kiom via vojaĝo kostis?	koliko je stalo tvoje potovanje?	how much did your trip cost?	grupo	alternativoj	prononco
+level	aŭskultu la kanton de via edzino	poslušaj pesem svoje žene	listen to your wife's song	grupo	alternativoj	prononco
+level	ne forgesu, ke ĝi tre multe kostas	ne pozabite, da veliko stane	don’t forget that it costs a lot	grupo	alternativoj	prononco
+level	li helpis la vendiston dum du horoj	dve uri je pomagal prodajalcu	he helped the salesman for two hours	grupo	alternativoj	prononco
+level	jam pli ol tri jaroj	več kot tri leta	for more than three years	grupo	alternativoj	prononco
+level	kovri, kovrilo, malkovri	pokriti, pokriti, odkriti (odkriti)	cover, cover, uncover (discover)	grupo	alternativoj	prononco
+level	la kialon li ankoraŭ ne malkovris	vzroka še ni odkril	the reason he has not yet discovered	grupo	alternativoj	prononco
+level	kial vi komencis sendi leterojn?	zakaj si začel pošiljati pisma?	why did you start sending letters?	grupo	alternativoj	prononco
+level	dum ok monatoj li vivis tie	tam je živel osem mesecev	for eight months he lived there	grupo	alternativoj	prononco
+level	ne havis tempon por aŭskulti	ni imel časa poslušati	didn't have time to listen	grupo	alternativoj	prononco
+level	la aŭto estis jam plena	avto je bil že poln	the car was already full	grupo	alternativoj	prononco
+level	kion vi manĝas?	kaj ješ	what are you eating	grupo	alternativoj	prononco
+level	kia estas la vetero?	kakšno je vreme?	what's the weather like?	grupo	alternativoj	prononco
+level	kian aŭton vi havas?	kakšen avto imaš?	what kind of car do you have?	grupo	alternativoj	prononco
+level	kiaj estis ŝiaj leteroj?	kakšna so bila njena pisma?	what were her letters like?	grupo	alternativoj	prononco
+level	kie ni estas?	kje smo?	where are we?	grupo	alternativoj	prononco
+level	kien vi iras?	kam greš?	where are you going to?	grupo	alternativoj	prononco
+level	al kiu vi donis ĝin?	komu si ga dal?	to whom did you give it?	grupo	alternativoj	prononco
+level	la viro, kun kiu vi vojaĝis	moški, s katerim ste potovali	the man whom you traveled with	grupo	alternativoj	prononco
+level	pli granda ol la aŭto	večji od avta	bigger than the car	grupo	alternativoj	prononco
+level	la plej alta el tiuj homoj	najvišji od teh ljudi	the tallest of those people	grupo	alternativoj	prononco
+level	li sidis dum la manĝo	je sedel pri večerji	he was sitting at dinner	grupo	alternativoj	prononco
+level	ŝi skribas dum li legas	ona piše medtem ko on bere	she writes while he reads	grupo	alternativoj	prononco
+level	ĉi tie, en ĉi tiu ĉambro	tukaj, v tej sobi	here, in this room	grupo	alternativoj	prononco
+level	tiu ĉi sinjoro	ta gospod	this gentleman	grupo	alternativoj	prononco
+level	aŭskultinda novaĵo	novica vredna poslušanja	a news worth listening	grupo	alternativoj	prononco
+level	la libro estas vere leginda	knjiga je res vredna branja	the book is really worth reading	grupo	alternativoj	prononco
+level	bedaŭra afero	nesrečna stvar	an unfortunate thing	grupo	alternativoj	prononco
+level	bedaŭrinde, mi ne povas	na žalost ne morem	unfortunately, I can't	grupo	alternativoj	prononco
+level	nedankinde. estis mia plezuro	ni za kaj. bilo mi je v veselje	you are welcome. it was my pleasure	grupo	alternativoj	prononco
+level	eta belulino ege belas	majhna lepa deklica je zelo lepa	small pretty girl is very beautiful	grupo	alternativoj	prononco
+level	ĉiuj amikoj amas ŝin	vsi prijatelji jo imajo radi	all friends love her	grupo	alternativoj	prononco
+level	antaŭ tri monatoj	pred tremi meseci	three months ago	grupo	alternativoj	prononco
+level	okazis malbono al ŝi	zgodilo se ji je nekaj hudega	something bad happened to her	grupo	alternativoj	prononco
+level	ŝi falis pro aŭto	padla je zaradi avta	she fell because of a car	grupo	alternativoj	prononco
+level	malsaniĝis kaj temperaturo altiĝis	zbolel in temperatura se je dvignila	became ill and temperature rose	grupo	alternativoj	prononco
+level	patrino diris, ke ŝi devas ripozi	mama je rekla, naj počiva	mother said she should rest	grupo	alternativoj	prononco
+level	ŝi devas resti hejme	ona mora ostati doma	she has to stay home	grupo	alternativoj	prononco
+level	ŝi vokos doktoron	poklicala bo zdravnika	she will call a doctor	grupo	alternativoj	prononco
+level	je la naŭa horo	ob devetih	at nine o'clock	grupo	alternativoj	prononco
+level	matene venis je la oka	zjutraj prišel ob osmih	in the morning came at eight o'clock	grupo	alternativoj	prononco
+level	je la sepa morgaŭ vespere	jutri ob sedmih zvečer	at seven tomorrow evening	grupo	alternativoj	prononco
+level	montris liajn manojn	pokazal roke	showed his hands	grupo	alternativoj	prononco
+level	vesto, vestiĝas	obleka, se oblači	dress, is getting dressed	grupo	alternativoj	prononco
+level	vestiĝu kaj varmigu vian korpon	oblecite se in ogrejte telo	get dressed and warm your body	grupo	alternativoj	prononco
+level	hejme tuj malvestis kaj duŝis	doma se takoj slekel in stuširal	at home immediately undressed and showered	grupo	alternativoj	prononco
+level	doktoro rigardis ĉion	zdravnik je vse pogledal	a doctor looked at everything	grupo	alternativoj	prononco
+level	bone rigardis kaj fine diris	pozorno pogledal in končno rekel	looked throughly and finally said	grupo	alternativoj	prononco
+level	unu semajnon restu hejme	ostani en teden doma	stay home for a week	grupo	alternativoj	prononco
+level	deziras, ke vi estu trankvila	želi, da si miren	wants you to be calm	grupo	alternativoj	prononco
+level	post unu semajno	po enem tednu	after one week	grupo	alternativoj	prononco
+level	vi fartos pli bone	počutili se boste bolje	you will feel better	grupo	alternativoj	prononco
+level	trinku multe da teo	pijte veliko čaja	drink plenty of tea	grupo	alternativoj	prononco
+level	venos por revidi vin	te bom spet prišel pogledat	will come to see you again	grupo	alternativoj	prononco
+level	ankaŭ li estu trankvila	naj bo tudi on miren	let him be calm too	grupo	alternativoj	prononco
+level	sana homo, sanulo	zdrav človek, zdrav človek	healthy man, healthy person	grupo	alternativoj	prononco
+level	zorgis pri si mem	skrbel zase	took care of oneself	grupo	alternativoj	prononco
+level	tuta afero tuje utilis al mi	vse mi je bilo naenkrat uporabno	the whole thing was useful to me at once	grupo	alternativoj	prononco
+level	rimarkis, ke teruraĵo proksimas	opazil, da je grozljiva stvar blizu	noticed that horrible thing is near	grupo	alternativoj	prononco
+level	petis tuj rimarki ĝin	prosil, naj to takoj opazi	asked to notice it immediately	grupo	alternativoj	prononco
+level	pensis, ke tio ne necesas	mislil, da to ni potrebno	thought that was not necessary	grupo	alternativoj	prononco
+level	loĝis proksime, kaj tio utilis	živel v bližini, in to je bilo koristno	lived nearby, and that was useful	grupo	alternativoj	prononco
+level	nia lando hodiaŭ teruriĝis	naša država je danes postala prestrašena	our country became terrified today	grupo	alternativoj	prononco
+level	karaj infanoj el ĉiuj familioj	dragi otroci iz vseh družin	dear children from all families	grupo	alternativoj	prononco
+level	unu fojon hieraŭ, du fojojn morgaŭ	včeraj enkrat, jutri dvakrat	once yesterday, twice tomorrow	grupo	alternativoj	prononco
+level	hodiaŭ familioj bezonas infanojn	danes družine potrebujejo otroke	today families need children	grupo	alternativoj	prononco
+level	esperis, ke li fartos bone morgaŭ	upal, da bo jutri dobro	hoped he would be well tomorrow	grupo	alternativoj	prononco
+level	li fartis ege trankvila	počutil se je (je bil) zelo miren	he was feeling (has been) very calm	grupo	alternativoj	prononco
+level	tri etuloj altigis la monton	trije malčki goro dvignili	three little ones raised the mountain	grupo	alternativoj	prononco
+level	gravuloj ne petis helpon	pomembni ljudje niso prosili za pomoč	important people did not ask for help	grupo	alternativoj	prononco
+level	piediris tien por helpi	hodil tja pomagat	walked there to help	grupo	alternativoj	prononco
+level	restu hejme se temperaturo altas	ostanite doma, če je temperatura visoka	stay home if temperature is high	grupo	alternativoj	prononco
+level	temperaturo restis simila hodiaŭ	temperatura je danes ostala podobna	temperature remained similar today	grupo	alternativoj	prononco
+level	voku la doktoron je la naŭa	pokličite zdravnika ob devetih	call the doctor at nine	grupo	alternativoj	prononco
+level	montru ĝin al via doktoro	pokažite zdravniku	show it to your doctor	grupo	alternativoj	prononco
+level	por montri vian piedon	da pokažeš svojo nogo	to show your foot	grupo	alternativoj	prononco
+level	vestu ĉi tiun ĉemizon	nosi to majico	wear this shirt	grupo	alternativoj	prononco
+level	semajnfine ĉio trankviliĝos	čez vikend se bo vse umirilo	on the weekend everything will calm down	grupo	alternativoj	prononco
+level	sub la te-taso kion vi trovis?	kaj si našel pod skodelico za čaj?	under the tea-cup what did you find?	grupo	alternativoj	prononco
+level	mi deziras matenan teon	Hočem jutranji čaj	I want morning tea	grupo	alternativoj	prononco
+level	esperis trankvilan vesperon	upali na miren večer	hoped for a quiet evening	grupo	alternativoj	prononco
+level	deziras, ke vi lernu	želi, da se naučiš	wants that you learn	grupo	alternativoj	prononco
+level	insistis, ke mi iru	vztrajal, da grem	insisted that I go	grupo	alternativoj	prononco
+level	je kioma horo?	ob kateri uri?	at what hour?	grupo	alternativoj	prononco
+level	je la sesa, li venos	ob šestih bo prišel	at six he will come	grupo	alternativoj	prononco
+level	la libreto estis ĉarma	libreto je bil očarljiv	the libretto was charming	grupo	alternativoj	prononco
+level	estu trankvila	Bodi tiho	be quiet	grupo	alternativoj	prononco
+level	li estu trankvila	naj bo tiho	let him be quiet	grupo	alternativoj	prononco
+level	ankaŭ li	on tudi	he too	grupo	alternativoj	prononco
+level	mi deziras	želim (želja)	I want (desire)	grupo	alternativoj	prononco
+level	mi deziras, ke ~	Želim (želim), da ~	I wish (desire) that ~	grupo	alternativoj	prononco
+level	ke vi lernu	da se naučiš	that you learn	grupo	alternativoj	prononco
+level	mi deziras, ke vi lernu	Želim, da se naučiš	I want you to learn	grupo	alternativoj	prononco
+level	patro insistas	oče vztraja	father insists	grupo	alternativoj	prononco
+level	patro insistas, ke ~	oče vztraja, da ~	father insists that ~	grupo	alternativoj	prononco
+level	ke mi iru	da grem	that I go	grupo	alternativoj	prononco
+level	patro insistas, ke mi iru	oče vztraja, da grem	father insists that I go	grupo	alternativoj	prononco
+level	je kioma horo	ob kateri uri	at what hour	grupo	alternativoj	prononco
+level	je kioma horo vi venos?	kdaj prideš	what time do you come?	grupo	alternativoj	prononco
+level	je la kvina	ob petih (uri)	at five (o'clock)	grupo	alternativoj	prononco
+level	je la kvina horo	ob petih	at five o'clock	grupo	alternativoj	prononco
+level	kiel li fartas?	kako mu gre?	how does he doing?	grupo	alternativoj	prononco
+level	kiel vi fartis lastatempe?	kako si zadnje čase?	how have you been lately?	grupo	alternativoj	prononco
+level	etaj libroj belas	knjigice so lepe	little books are beautiful	grupo	alternativoj	prononco
+level	libreto, belaj libroj	knjižica, lepe knjige	a booklet, beautiful books	grupo	alternativoj	prononco
+level	bela, beleta, belega	lepa, malo lepa, zelo lepa	beautiful, a little pretty, very beautiful	grupo	alternativoj	prononco
+level	varma, varmeta, varmega	toplo, mlačno, zelo vroče	warm, lukewarm, very hot	grupo	alternativoj	prononco
+level	librego, libreto	velika knjiga, knjižica	a big book, a booklet	grupo	alternativoj	prononco
+level	bona, bonega, bonege	dobro, super, dobro	good, great, well	grupo	alternativoj	prononco
+level	riĉa, riĉiĝi, riĉulo	bogat, postati bogat, bogata oseba	rich, become rich, a rich person	grupo	alternativoj	prononco
+level	trankvila, trankviliĝi, trankviliĝu	calm, to calm down, pomiriti se	calm, to calm down, calm down	grupo	alternativoj	prononco
+level	sana, resaniĝi, resaniĝis	zdrav, postati ozdravljen, postal ozdravljen	healthy, to become healed, became healed	grupo	alternativoj	prononco
+level	edzo, edziĝo, geedziĝis	mož, zakon, poročen	a husband, marriage, married	grupo	alternativoj	prononco
+level	leterportisto	pismonoša	a letter postman	grupo	alternativoj	prononco
+level	hejmlando	domovino	a homeland	grupo	alternativoj	prononco
+level	iom, iomete	nekoliko, malo	somewhat, a little	grupo	alternativoj	prononco
+level	ni bonege vespermanĝis	imeli smo odlično večerjo	we had a great dinner	grupo	alternativoj	prononco
+level	espereble, prizorgu vin	upajmo, poskrbi zase	hopefully, take care of yourself	grupo	alternativoj	prononco
+level	mi zorgis pri la altkvalita loĝejo	Skrbel sem za kakovostno stanovanje	I cared about the high-quality housing	grupo	alternativoj	prononco
+level	pripensu dufoje, multfoje	premisli dvakrat, večkrat	think twice, many times	grupo	alternativoj	prononco
+level	kiu deprenis la libreton?	kdo je vzel knjižico?	who took down the booklet?	grupo	alternativoj	prononco
+level	kato, kiu nomiĝas Cezaro	mačka po imenu Cezar	a cat named Caesar	grupo	alternativoj	prononco
+level	kuko, kiu estas sur la tablo	torta, ki je na mizi	a cake which is on the table	grupo	alternativoj	prononco
+level	manĝu kukon, kiu estas sur la tablo	jesti torto, ki je na mizi	eat a cake that is on the table	grupo	alternativoj	prononco
+level	fariĝis varmega kaj ruĝiĝis	postal vroč in zardel	became hot and blushed	grupo	alternativoj	prononco
+level	patro volas, ke lia infano manĝu	oče želi, da njegov otrok jedo	a father wants his child to eat	grupo	alternativoj	prononco
+level	en malgranda ĉambro	v majhni sobi	in a small room	grupo	alternativoj	prononco
+level	ni loĝas en ~	živimo v ~	we live in ~	grupo	alternativoj	prononco
+level	mi fariĝis maltrankvila	Postala sem zaskrbljena	I became anxious	grupo	alternativoj	prononco
+level	tiam, kiam mi vidis vin	takrat, ko sem te videl	at that time when I saw you	grupo	alternativoj	prononco
+level	ĉiuj rimarkis tion	vsi so to opazili	everyone noticed that	grupo	alternativoj	prononco
+level	tion, ke ŝi estas belega	dejstvo, da je lepa	the fact that she is beautiful	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke ~ ?	hočeš to ~? (deziri)	do you want that ~ ? (deziri)	grupo	alternativoj	prononco
+level	ke mi montru al vi	da vam lahko pokažem	that I may show you	grupo	alternativoj	prononco
+level	ĉu vi deziras, ke mi montru?	hočeš da pokažem?	do you want me to show?	grupo	alternativoj	prononco
+level	mian plej novan libron	moja najnovejša knjiga (cilj)	my newest book (objective)	grupo	alternativoj	prononco
+level	morgaŭ matene, kion vi volas?	jutri zjutraj, kaj hočeš?	tomorrow morning, what do you want?	grupo	alternativoj	prononco
+level	matenmanĝis malfrue	zajtrkoval pozno	had breakfast late	grupo	alternativoj	prononco
+level	kiam Marko alvenos?	kdaj pride Mark?	when will Mark arrive?	grupo	alternativoj	prononco
+level	je la kvina aŭ je la oka horo	ob peti ali osmi uri	at five or eight o'clock	grupo	alternativoj	prononco
+level	kiam vi rimarkis, ke ~ ?	kdaj si to opazil ~?	when did you notice that ~ ?	grupo	alternativoj	prononco
+level	la tuta familio nomas min bonfarulo	cela družina me kliče dobrotnik	the whole family calls me a benefactor	grupo	alternativoj	prononco
+level	utila por vi	koristno za vas	useful for you	grupo	alternativoj	prononco
+level	ĉu la libreto estis utila?	je bila knjižica uporabna?	was the booklet useful?	grupo	alternativoj	prononco
+level	tiu libreto, kiun mi sendis	knjižica, ki sem jo poslal	the booklet, which I sent	grupo	alternativoj	prononco
+level	matene dormis tre longe	zjutraj je dolgo spal	in the morning slept for a long time	grupo	alternativoj	prononco
+level	kiam li vidis la sunon	ko je zagledal sonce	when he saw the sun	grupo	alternativoj	prononco
+level	subite li eksaltis	nenadoma je poskočil	suddenly he jumped up	grupo	alternativoj	prononco
+level	li estis ĉiam frua	vedno je bil zgodnji	he was always early	grupo	alternativoj	prononco
+level	ĉiam li malfruas	vedno zamuja	he is always late	grupo	alternativoj	prononco
+level	tiam, kiam li devas iri	takrat, ko mora iti	at that time, when he has to go	grupo	alternativoj	prononco
+level	iri al la lernejo	iti v šolo	to go to the school	grupo	alternativoj	prononco
+level	li scias, ke ~	ve, da ~	he knows, that ~	grupo	alternativoj	prononco
+level	li scias tion, ke ~	pozna dejstvo, da ~	he knows the fact, that ~	grupo	alternativoj	prononco
+level	tion, ke la instruisto malŝatas abelon	dejstvo, da učitelj sovraži čebele	the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias tion, ke la instruisto malŝatas abelon	pozna dejstvo, da učitelj sovraži čebele	knows the fact that the teacher hates bees	grupo	alternativoj	prononco
+level	scias, ke la instruisto malŝatas tion	ve, da učitelj to sovraži	knows that the teacher hates that	grupo	alternativoj	prononco
+level	sed hodiaŭ li trinkis la kafon	danes pa je spil kavo	but today he drank the coffee	grupo	alternativoj	prononco
+level	li rapide surmetas la vestaĵon	hitro se obleče	he quickly puts on the clothes	grupo	alternativoj	prononco
+level	li ne volas malfrui	noče zamujati	he doesn't want to be late	grupo	alternativoj	prononco
+level	rapidege kun la libroj en la mano	zelo hitro s knjigami v roki	very quickly with the books in hand	grupo	alternativoj	prononco
+level	poste li kuris kaj saltis	pozneje je tekel in skakal	later he ran and jumped	grupo	alternativoj	prononco
+level	li kuris kaj saltis	tekel je in skakal	he ran and jumped	grupo	alternativoj	prononco
+level	laŭ la strato	vzdolž ulice	along the street	grupo	alternativoj	prononco
+level	la homoj rigardis lin	ljudje so ga gledali	the people looked at him	grupo	alternativoj	prononco
+level	rigardis lin kaj diris	pogledal ga je in rekel	looked at him and said	grupo	alternativoj	prononco
+level	saĝa kaj malsaĝa	modro in neumno	wise and foolish	grupo	alternativoj	prononco
+level	kia malsaĝa knabo!	kakšen neumen fant!	what a foolish boy!	grupo	alternativoj	prononco
+level	estis antaŭ lernejo	je bil pred šolo	was in front of a school	grupo	alternativoj	prononco
+level	baldaŭ	kmalu	soon	grupo	alternativoj	prononco
+level	li estis antaŭ ~	bil je pred ~	he was in front of ~	grupo	alternativoj	prononco
+level	iri kaj eniri	iti in vstopati	to go and to enter	grupo	alternativoj	prononco
+level	li volis eniri	je hotel vstopiti	he wanted to enter	grupo	alternativoj	prononco
+level	eniri la lernejon	za vstop v šolo	to enter into the school	grupo	alternativoj	prononco
+level	sed tamen	ampak vendarle	but however	grupo	alternativoj	prononco
+level	sed li ne povis	ampak ni mogel	but he couldn't	grupo	alternativoj	prononco
+level	fermi kaj fermita	zapreti in zaprto	to close and closed	grupo	alternativoj	prononco
+level	ĝi estis fermita	bilo je zaprto	it was closed	grupo	alternativoj	prononco
+level	nek ~ nek ~	niti ~ niti ~	neither ~ nor ~	grupo	alternativoj	prononco
+level	nek instruisto nek gelernantoj	niti učiteljica niti učenke in učenci	neither a teacher nor male-and-female students	grupo	alternativoj	prononco
+level	vidis nek instruiston nek gelernantojn	ni videl ne učitelja ne učencev	saw neither a teacher nor students	grupo	alternativoj	prononco
+level	sidi, eksidi	sedeti, sedeti	to sit, to get sitted	grupo	alternativoj	prononco
+level	eksidis	sedel (sedel)	got seated (had seated)	grupo	alternativoj	prononco
+level	li eksidis	sedel je	he got seated	grupo	alternativoj	prononco
+level	kaj pensis	in mislil	and thought	grupo	alternativoj	prononco
+level	kio okazis?	kaj se je zgodilo?	what did happen?	grupo	alternativoj	prononco
+level	diable	do groznega (kot hudič)	to the awful (like a devil)	grupo	alternativoj	prononco
+level	damne	zajezi ga	dam it	grupo	alternativoj	prononco
+level	memoras	spominja	remembers	grupo	alternativoj	prononco
+level	nun mi memoras	zdaj se spomnim	now I remember	grupo	alternativoj	prononco
+level	dimanĉo	nedelja	Sunday	grupo	alternativoj	prononco
+level	hodiaŭ estas ~	danes je ~	today is ~	grupo	alternativoj	prononco
+level	hodiaŭ estas dimanĉo	danes je nedelja	today is Sunday	grupo	alternativoj	prononco
+level	dormi kaj ekdormi	spati in zaspati	to sleep and to get into sleep	grupo	alternativoj	prononco
+level	suno kaj luno	sonce in luna	a sun and a moon	grupo	alternativoj	prononco
+level	subita kaj subite	nenadoma in nenadoma	sudden and suddenly	grupo	alternativoj	prononco
+level	ek!	off! (začeti)	off! (to start)	grupo	alternativoj	prononco
+level	salti kaj eksaltis	skakati in skakati	to jump and jumped 	grupo	alternativoj	prononco
+level	ĉiam frua	vedno zgodaj	always early	grupo	alternativoj	prononco
+level	hodiaŭ metis kaj kuris	danes postavil in tekel	today put and ran	grupo	alternativoj	prononco
+level	aĵo, ne aĝo	stvar, ki ni starost	a thing not age	grupo	alternativoj	prononco
+level	kuris laŭ homoj saĝaj	tekel z modrimi ljudmi	ran along wise people	grupo	alternativoj	prononco
+level	laŭeble baldaŭ	čimprej	soon as possible	grupo	alternativoj	prononco
+level	kia knabo, kia knabino	kakšen fant, kakšna punca	what a boy, what a girl	grupo	alternativoj	prononco
+level	nek pensita nek memorita	niti pomislil niti zapomnil	neither thought nor memorized	grupo	alternativoj	prononco
+level	diablo atendis akvon dimanĉe	hudič je v nedeljo čakal na vodo	a devil waited for water on Sunday	grupo	alternativoj	prononco
+level	tiom malgranda momento	tako majhen trenutek	such a small moment	grupo	alternativoj	prononco
+level	eĉ tiom malgranda momento valoras	še tako majhen trenutek je vreden	even such a small moment is worthwhile	grupo	alternativoj	prononco
+level	kriis for ĝis nokto	jokal do noči	cried away until night	grupo	alternativoj	prononco
+level	lasis la poŝton de la mano	spraviti pošto iz rok	put away the mailpost from the hand	grupo	alternativoj	prononco
+level	ridis mem lasante la poŝton	se smejal sam, pospravljal pošto	laughed by oneself, putting away the mailpost	grupo	alternativoj	prononco
+level	nek li nek ŝi ridis	ne on ne ona se nista smejala	neither he nor she laughed	grupo	alternativoj	prononco
+level	ŝi nek ridis nek respondis	ni se niti zasmejala niti odgovorila	she neither laughed nor answered	grupo	alternativoj	prononco
+level	li nek sidas nek rigardas	ne sedi in ne gleda	he neither sits nor watches	grupo	alternativoj	prononco
+level	neniam mi vidis	Nikoli nisem videl	I have never seen	grupo	alternativoj	prononco
+level	mi neniam diros al iu	Nikomur ne bom povedal	I will never tell anyone	grupo	alternativoj	prononco
+level	diru al neniu	nikomur ne povej	tell no one	grupo	alternativoj	prononco
+level	mi neniam diros	Nikoli ne bom rekel	I will never say	grupo	alternativoj	prononco
+level	mem	k sebi (sam pri sebi)	to oneself (by oneself)	grupo	alternativoj	prononco
+level	mi mem faris	Sam sem to naredil	I did it myself	grupo	alternativoj	prononco
+level	faris tion	uspelo (uspelo)	did it (made it)	grupo	alternativoj	prononco
+level	mem faris tion	naredil sam (naredil sam)	did it oneself (made it oneself)	grupo	alternativoj	prononco
+level	ĝis la revido, ĝis revido	se vidimo (spet), se vidimo (spet)	see you (again), see you (again)	grupo	alternativoj	prononco
+level	ĝis!	dokler! (adijo!)	until! (goodbye!)	grupo	alternativoj	prononco
+level	ekparoli	da začnem govoriti	to start talking	grupo	alternativoj	prononco
+level	ekparolis, komencis paroli finfine	začel govoriti, končno začel govoriti	started saying, began to speak at last	grupo	alternativoj	prononco
+level	trinkis rapidege	pil zelo hitro	drank very fast	grupo	alternativoj	prononco
+level	trinkis matenan trinkaĵon	spili jutranjo pijačo	had a morning drink	grupo	alternativoj	prononco
+level	por frue veni	priti zgodaj	to come early	grupo	alternativoj	prononco
+level	veni al la lernejo	priti v šolo	to come to school	grupo	alternativoj	prononco
+level	frue veni al ~	priti zgodaj k ~	to come early to ~	grupo	alternativoj	prononco
+level	ne aŭdis novaĵon	nisem slišal novic	didn't hear news	grupo	alternativoj	prononco
+level	ankoraŭ ne aŭdis	še nisem slišal	didn't hear yet	grupo	alternativoj	prononco
+level	mi ankoraŭ ne aŭdis	Nisem še slišal	I didn't hear yet	grupo	alternativoj	prononco
+level	en tiu momento	v tistem trenutku	in that moment	grupo	alternativoj	prononco
+level	en tiu momento li ekkriis	v tistem trenutku je jokal	in that moment he cried	grupo	alternativoj	prononco
+level	knabo, kiu ne amas	fant, ki ne ljubi	a boy, who does not love	grupo	alternativoj	prononco
+level	geknaboj	fantje in dekleta	boys and girls	grupo	alternativoj	prononco
+level	aliaj geknaboj	drugi fantje in dekleta	other boys and girls	grupo	alternativoj	prononco
+level	ne amas aliajn geknabojn	ne mara drugih fantov in deklet	does not love other boys and girls	grupo	alternativoj	prononco
+level	nek amikojn, nek amikinojn	niti prijatelji niti prijateljice	neither friends nor girl friends	grupo	alternativoj	prononco
+level	havas nek monon, nek tempon	nima ne denarja ne časa	does not have neither money nor time	grupo	alternativoj	prononco
+level	kiu havis la libron?	kdo je imel knjigo?	who had the book?	grupo	alternativoj	prononco
+level	la libron, kiun vi atendis	knjigo, ki si jo čakal	the book which you waited	grupo	alternativoj	prononco
+level	tiun, kiun vi atendis pli ol du jarojn	tisto, na kar ste čakali več kot 2 leti	that, which you waited for more than 2 years	grupo	alternativoj	prononco
+level	ĉu vi volas tion?	hočeš to	do you want that?	grupo	alternativoj	prononco
+level	ĉu vi volas, ke ~ ?	hočeš to ~?	do you want that ~ ?	grupo	alternativoj	prononco
+level	plej kara	najdražja	dearest	grupo	alternativoj	prononco
+level	plej kara foto	najdražja fotografija	dearest photo	grupo	alternativoj	prononco
+level	mian plej karan foton	moja najdražja fotografija	my dearest photo	grupo	alternativoj	prononco
+level	kie vi aĉetis ~ ?	kje si kupil ~?	where did you buy ~ ?	grupo	alternativoj	prononco
+level	tiu vestaĵo	to oblačilo	that clothing	grupo	alternativoj	prononco
+level	tiun vestaĵon	ta oblačila (objektivno)	that clothing (objective)	grupo	alternativoj	prononco
+level	aĉetis tiun vestaĵon	kupil to obleko	bought that outfit	grupo	alternativoj	prononco
+level	vi iros tien	tja boš šel	you will go there	grupo	alternativoj	prononco
+level	kien vi iros?	kam greš?	where are you going to?	grupo	alternativoj	prononco
+level	suna tago	sončen dan	sunny day	grupo	alternativoj	prononco
+level	estos suna tago	bo sončen dan	it will be a sunny day	grupo	alternativoj	prononco
+level	se estos suna tago	če bo sončen dan	if it will be a sunny day	grupo	alternativoj	prononco
+level	via frato jam ekiris	tvoj brat je že začel	your brother has already started	grupo	alternativoj	prononco
+level	ĉu via frato jam ekiris?	je tvoj brat že začel?	has your brother started yet?	grupo	alternativoj	prononco
+level	kie estas la akvo?	kje je voda	where is the water	grupo	alternativoj	prononco
+level	kunporti la akvon	prinesti vodo	to bring the water	grupo	alternativoj	prononco
+level	vi mem kunportis	si sam prinesel	you yourself brought	grupo	alternativoj	prononco
+level	la akvon, kion vi mem kunportis	vodo, ki si jo sam prinesel	the water, that you yourself brought	grupo	alternativoj	prononco
+level	estis tre trankvila	je bil zelo tih	was very quiet	grupo	alternativoj	prononco
+level	hodiaŭ mia patrino estis ~	danes je bila moja mama ~	today my mother was ~	grupo	alternativoj	prononco
+level	mi venis el ~	Prišel sem iz ~	I came from ~	grupo	alternativoj	prononco
+level	el la lernejo	iz šole	out of the school	grupo	alternativoj	prononco
+level	raportis al ~	poroča ~	reported to ~	grupo	alternativoj	prononco
+level	kaj raportis al ŝi	in ji poročal	and reported to her	grupo	alternativoj	prononco
+level	raportis, ke ~	je poročal, da ~	reported that ~	grupo	alternativoj	prononco
+level	raportis, ke mi ricevos	poročal, da bom prejel	reported that I will receive	grupo	alternativoj	prononco
+level	mi ricevos malbonan noton	Dobil bom slabo oceno	I will get a bad grade	grupo	alternativoj	prononco
+level	ŝi diris, ke ~	je rekla, da ~	she said that ~	grupo	alternativoj	prononco
+level	vi devas laborigi ~	moraš narediti ~ delo	you have to make ~ work	grupo	alternativoj	prononco
+level	pli multe	več	more	grupo	alternativoj	prononco
+level	pli multe laborigi	da bo dela več	to make work more	grupo	alternativoj	prononco
+level	laborigi vian kapon	da ti glava dela	to make your head work	grupo	alternativoj	prononco
+level	kiom da malbonaj notoj	koliko slabih ocen	how many bad grades	grupo	alternativoj	prononco
+level	vi havas tiom da malbonaj notoj	imaš toliko slabih ocen	you have so many bad grades	grupo	alternativoj	prononco
+level	estis malĝoja	bil žalosten	was sad	grupo	alternativoj	prononco
+level	en vian ĉambron	v svojo sobo	into your room	grupo	alternativoj	prononco
+level	iru en vian ĉambron	pojdi v svojo sobo	go into your room	grupo	alternativoj	prononco
+level	iru kaj lernu	pojdi in se uči	go and learn	grupo	alternativoj	prononco
+level	mi sidis	sedel sem	I sat	grupo	alternativoj	prononco
+level	en mia ĉambro	v moji sobi	in my room	grupo	alternativoj	prononco
+level	sidis en mia ĉambro	sedel v moji sobi	sat in my room	grupo	alternativoj	prononco
+level	nek lerni nek legi	niti učiti niti brati	neither learn nor read	grupo	alternativoj	prononco
+level	sed mi povis nek lerni nek legi	vendar se nisem mogel ne učiti ne brati	but I could neither learn nor read	grupo	alternativoj	prononco
+level	miaj pensoj	moje misli	my thoughts	grupo	alternativoj	prononco
+level	ĉe ludo	pri igri	at a game	grupo	alternativoj	prononco
+level	ludo kun miaj amikoj	igro s prijatelji	game with my friends	grupo	alternativoj	prononco
+level	ĉe sporto	pri športu	at sport	grupo	alternativoj	prononco
+level	al mi mem	sebi	to myself	grupo	alternativoj	prononco
+level	diris al mi mem	rekel sam sebi	said to myself	grupo	alternativoj	prononco
+level	tiom malsaĝa	tako neumno	so stupid	grupo	alternativoj	prononco
+level	ĉu mi estas tiom malsaĝa?	sem tako neumen?	am I that stupid?	grupo	alternativoj	prononco
+level	kvankam mi lernis multe	čeprav sem se veliko naučil	although I learned a lot	grupo	alternativoj	prononco
+level	la patrino eniris	je vstopila mati	the mother entered	grupo	alternativoj	prononco
+level	miaj vortoj	moje besede	my words	grupo	alternativoj	prononco
+level	kaj aŭdis miajn vortojn	in slišal moje besede	and heard my words	grupo	alternativoj	prononco
+level	ŝi tuj respondis	je takoj odgovorila	she answered immediately	grupo	alternativoj	prononco
+level	ne, mia kara	ne, draga moja	no, my dear	grupo	alternativoj	prononco
+level	vi ne estas malsaĝa	nisi neumen	you are not stupid	grupo	alternativoj	prononco
+level	la problemo estas, ke ~	problem je, da ~	the problem is that ~	grupo	alternativoj	prononco
+level	ke vi devas lerni	da se moraš naučiti	that you must learn	grupo	alternativoj	prononco
+level	devas lerni multe pli	naučiti se mora veliko več	must learn much more	grupo	alternativoj	prononco
+level	tiam vi ne havos	potem ne boš imel	then you will not have	grupo	alternativoj	prononco
+level	malbonaj notoj	slabe ocene	bad grades	grupo	alternativoj	prononco
+level	havos nur malbonajn notojn	bo imel samo slabe ocene	will have only bad grades	grupo	alternativoj	prononco
+level	ankaŭ nun	tudi zdaj	also now	grupo	alternativoj	prononco
+level	mi ne havas ilin	jaz jih nimam	I don't have them	grupo	alternativoj	prononco
+level	mi havas bonan noton	Imam dobro oceno	I have a good grade	grupo	alternativoj	prononco
+level	pri muziko	o glasbi	about music	grupo	alternativoj	prononco
+level	bonan noton pri muziko	dober zapis o glasbi	a good note on music	grupo	alternativoj	prononco
+level	la patrino subite ekridis	mati je nenadoma planila v smeh	the mother suddenly burst out laughing	grupo	alternativoj	prononco
+level	tio plibeligis ~	ki je polepšal ~	that beautified ~	grupo	alternativoj	prononco
+level	mian tagon	moj dan	my day	grupo	alternativoj	prononco
+level	plibeligis mian tagon	polepšalo mi je dan	made my day	grupo	alternativoj	prononco
+level	sed tamen restis	a vseeno ostal	but still remained	grupo	alternativoj	prononco
+level	sed la problemo tamen restis	a problem je še vedno ostal	but the problem still remained	grupo	alternativoj	prononco
+level	kilogramo da ~	kilogram ~	a kilogram of ~	grupo	alternativoj	prononco
+level	kilogramo da sukero	kilogram sladkorja	a kilogram of sugar	grupo	alternativoj	prononco
+level	glaso da ~	kozarec ~	a glass of ~	grupo	alternativoj	prononco
+level	glaso da akvo	kozarec vode	a glass of water	grupo	alternativoj	prononco
+level	multe da ~	veliko ~	a lot of ~	grupo	alternativoj	prononco
+level	multe da ideoj	veliko idej	lots of ideas	grupo	alternativoj	prononco
+level	deteni sin	zadržati se	to hold back	grupo	alternativoj	prononco
+level	ordigis ĉion	vse uredil	sorted everything out	grupo	alternativoj	prononco
+level	transdonis al li	mu izročil	handed over to him	grupo	alternativoj	prononco
+level	mi petas	sprašujem	I'm asking	grupo	alternativoj	prononco
+level	glason da kafo	kozarec kave	a glass of coffee	grupo	alternativoj	prononco
+level	kaj iom da akvo	in nekaj vode	and some water	grupo	alternativoj	prononco
+level	mi petas glason da kafo	Rad bi kozarec kave	I would like a glass of coffee	grupo	alternativoj	prononco
+level	mi petas tason da teo	Rad bi skodelico čaja	I would like a cup of tea	grupo	alternativoj	prononco
+level	doloris lin	poškoduj ga	hurt him	grupo	alternativoj	prononco
+level	la kapo doloris lin	glava ga je bolela	his head hurt	grupo	alternativoj	prononco
+level	li malsaniĝis	je zbolel	he fell ill	grupo	alternativoj	prononco
+level	ŝatas esti bela	rada je lepa	likes to be beautiful	grupo	alternativoj	prononco
+level	ŝi beligis sian vizaĝon	polepšala si je obraz	she beautified her face	grupo	alternativoj	prononco
+level	la knabo ŝatas esti bela	fant je rad lep	the boy likes to be pretty	grupo	alternativoj	prononco
+level	pro tio ŝi beligis ĝin	zato ga je polepšala	therefore she beautified it	grupo	alternativoj	prononco
+level	post la tagmanĝo	po kosilu	after lunch	grupo	alternativoj	prononco
+level	purigi la kuirejon	za čiščenje kuhinje	to clean the kitchen	grupo	alternativoj	prononco
+level	kiu purigos la kuirejon?	kdo bo čistil kuhinjo?	who will clean the kitchen?	grupo	alternativoj	prononco
+level	volas trinki	želi piti	wants to drink	grupo	alternativoj	prononco
+level	kion vi volas trinki?	kaj hočeš piti	what do you want to drink	grupo	alternativoj	prononco
+level	trinki teon	piti čaj	to drink tea	grupo	alternativoj	prononco
+level	iom da akvo	malo vode	a little of water	grupo	alternativoj	prononco
+level	ĉu vi volas nenion?	nočeš nič?	do you want nothing?	grupo	alternativoj	prononco
+level	tiel subite	tako nenadoma	so suddenly	grupo	alternativoj	prononco
+level	kial vi decidis ~ ?	zakaj si se odločil ~?	why did you decide ~ ?	grupo	alternativoj	prononco
+level	kial vi tiel subite decidis ~ ?	zakaj si se odločil ~ tako nenadoma?	why did you decide ~ so suddenly?	grupo	alternativoj	prononco
+level	via ĉambro	tvoja soba	your room	grupo	alternativoj	prononco
+level	via ĉambreto	svojo sobico	your little room	grupo	alternativoj	prononco
+level	vian ĉambreton	v svojo sobico	to your little room	grupo	alternativoj	prononco
+level	renovigi vian ĉambreton	za prenovo vaše sobice	to renovate your little room	grupo	alternativoj	prononco
+level	decidis renovigi vian ĉambreton	odločili prenoviti svojo sobico	decided to renovate your little room	grupo	alternativoj	prononco
+level	al kiu	komu	to whom	grupo	alternativoj	prononco
+level	vi donis ~	dal si ~	you gave ~	grupo	alternativoj	prononco
+level	al kiu vi donis ~ ?	komu si dal ~?	to whom did you give ~ ?	grupo	alternativoj	prononco
+level	puraj glasoj	čista očala	clean glasses	grupo	alternativoj	prononco
+level	vi donis la purajn glasojn	dal si čista očala	you gave the clean glasses	grupo	alternativoj	prononco
+level	la puraj glasoj por la vino	čiste kozarce za vino	the clean glasses for the wine	grupo	alternativoj	prononco
+level	kontraŭ kiu	proti komu	against whom	grupo	alternativoj	prononco
+level	via sportklubo	vaš športni klub	your sports club	grupo	alternativoj	prononco
+level	ludas kontraŭ ~	igra proti ~	plays against ~	grupo	alternativoj	prononco
+level	antaŭ du semajnoj	pred dvema tednoma	two weeks ago	grupo	alternativoj	prononco
+level	kontraŭ kiu via sportklubo ludis?	proti komu je igral tvoj športni klub?	who did your sports club play against?	grupo	alternativoj	prononco
+level	ĉu vi vidas ~ ?	ali vidiš ~?	do you see ~ ?	grupo	alternativoj	prononco
+level	ĉu vi ofte vidas ~ ?	se pogosto vidiš ~?	do you often see ~ ?	grupo	alternativoj	prononco
+level	ofte vidas la policiston	pogosto vidijo policista	often see the policeman	grupo	alternativoj	prononco
+level	tiu, kiu loĝas en ~	tisti, ki živi v ~	the one who lives in ~	grupo	alternativoj	prononco
+level	loĝas en la loĝejo	živi v prenočišču	lives in the lodging place	grupo	alternativoj	prononco
+level	la loĝejo super vi	stanovanje nad vami	the dwelling place above you	grupo	alternativoj	prononco
+level	vidas la policiston, kiu loĝas en ~	vidi policista, ki živi v ~	sees the police officer who lives in ~	grupo	alternativoj	prononco
+level	plano pri veturado	načrt vožnje	driving plan	grupo	alternativoj	prononco
+level	volis vojaĝi	želel potovati	wanted to travel	grupo	alternativoj	prononco
+level	vojaĝi al alia lando	odpotovati v drugo državo	to travel to another country	grupo	alternativoj	prononco
+level	en libertempo	v prostem času	in free time	grupo	alternativoj	prononco
+level	ili decidis iri	so se odločili, da gredo	they decided to go	grupo	alternativoj	prononco
+level	decidis iri al Italio	odločila za odhod v Italijo	decided to go to Italy	grupo	alternativoj	prononco
+level	malnovaj urboj	stara mesta	old cities	grupo	alternativoj	prononco
+level	lando kun malnovaj urboj	dežela s starimi mesti	a country with old cities	grupo	alternativoj	prononco
+level	aliaj belaĵoj	druge lepote	other beauties	grupo	alternativoj	prononco
+level	kaj aliaj belaĵoj	in druge lepote	and other beauties	grupo	alternativoj	prononco
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	lepa dežela s starimi mesti in drugimi lepotami	a beautiful country with old cities and other beauties	grupo	alternativoj	prononco
+level	ili estis feliĉaj	bili so srečni	they were happy	grupo	alternativoj	prononco
+level	kie estas ~ ?	kje je ~?	where is ~ ?	grupo	alternativoj	prononco
+level	kie estas mia vestaĵo?	kje so moja oblačila	where are my clothes	grupo	alternativoj	prononco
+level	ŝi demandis ~	je vprašala ~	she asked ~	grupo	alternativoj	prononco
+level	ni ne forgesu kunporti ~	ne pozabimo prinesti ~	let's not forget to bring ~	grupo	alternativoj	prononco
+level	kunporti la libron	vzeti knjigo s seboj	to take the book with you	grupo	alternativoj	prononco
+level	libro por lerni Esperanton	knjiga za učenje esperanta	a book to learn Esperanto	grupo	alternativoj	prononco
+level	kunporti libron por lerni	nositi knjigo za učenje	to carry a book to learn	grupo	alternativoj	prononco
+level	ni povas komenci ~	lahko začnemo ~	we can start ~	grupo	alternativoj	prononco
+level	en la vagonaro	v vlaku	in the train	grupo	alternativoj	prononco
+level	jam en la vagonaro	že v vlaku	already in the train	grupo	alternativoj	prononco
+level	ni nenion faros	nič ne bomo naredili	we won't do anything	grupo	alternativoj	prononco
+level	per aŭto	z avtom	by car	grupo	alternativoj	prononco
+level	ni veturos per ~	vozili se bomo mimo ~	we will drive by ~	grupo	alternativoj	prononco
+level	veturos per aŭto	bo vozil avto	will drive a car	grupo	alternativoj	prononco
+level	mi havas sekreton	Imam skrivnost	I have a secret	grupo	alternativoj	prononco
+level	mia riĉa onklo	moj bogati stric	my rich uncle	grupo	alternativoj	prononco
+level	mia deziro	Moja želja	my wish	grupo	alternativoj	prononco
+level	plenumis mian deziron	izpolnil mojo željo	fulfilled my wish	grupo	alternativoj	prononco
+level	donis al ni	nam je dal	gave us	grupo	alternativoj	prononco
+level	sian aŭton	njegov avto	his car	grupo	alternativoj	prononco
+level	kaj donis al ni sian aŭton	in nam dal svoj avto	and gave us his car	grupo	alternativoj	prononco
+level	por uzo	za uporabo	for use	grupo	alternativoj	prononco
+level	ĝi staras antaŭ ~	stoji pred ~	it stands before ~	grupo	alternativoj	prononco
+level	staras antaŭ la domo	stoji pred hišo	stands in front of the house	grupo	alternativoj	prononco
+level	mi devas diri ~	Moram reči ~	I have to say ~	grupo	alternativoj	prononco
+level	nenion diru	ne reci ničesar	don't say anything	grupo	alternativoj	prononco
+level	ni eksidu	usedimo se	let's sit down	grupo	alternativoj	prononco
+level	eksidu en la aŭton	Pojdi v avto	get in the car	grupo	alternativoj	prononco
+level	veturi al ~	voziti se do ~	to drive to ~	grupo	alternativoj	prononco
+level	kaj veturu al Italio	in se odpeljite v Italijo	and drive to Italy	grupo	alternativoj	prononco
+level	sidis en la aŭto	sedel v avto	sat in the car	grupo	alternativoj	prononco
+level	ankaŭ la vestaĵoj	tudi oblačila	also the clothes	grupo	alternativoj	prononco
+level	~ estis en la aŭto	~ bil v avtu	~ was in the car	grupo	alternativoj	prononco
+level	ankoraŭ sidadis kaj atendis	še vedno sedel in čakal	still sat and waited	grupo	alternativoj	prononco
+level	sed li atendis	vendar je čakal	but he waited	grupo	alternativoj	prononco
+level	kial ni ne ~ ?	zakaj ne ~?	why don't we ~ ?	grupo	alternativoj	prononco
+level	kial ni ne ekveturas?	zakaj ne začnemo voziti?	why don't we start driving?	grupo	alternativoj	prononco
+level	ankaŭ mi havas ~	Imam tudi ~	I have ~ too	grupo	alternativoj	prononco
+level	veturigus la aŭton	bi vozil avto	would drive the car	grupo	alternativoj	prononco
+level	sed mi ne scias ~	ampak ne vem ~	but I don't know ~	grupo	alternativoj	prononco
+level	mi neniam lernis tion	Tega se nisem nikoli naučil	I never learned that	grupo	alternativoj	prononco
+level	mi kredus ~	Verjel bi ~	I would believe ~	grupo	alternativoj	prononco
+level	se mi estus sana	če bi bil zdrav	if I were healthy	grupo	alternativoj	prononco
+level	mi estus tre feliĉa	Bil bi zelo vesel	I would be very happy	grupo	alternativoj	prononco
+level	kvazaŭ vi estus riĉulo	kot da bi bil bogat	as if you were rich	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ vi estus riĉulo	sediš tam, kot da si bogat človek	you sit there as if you were a rich man	grupo	alternativoj	prononco
+level	kvazaŭa lernejo	domnevna šola	alleged school	grupo	alternativoj	prononco
+level	kvazaŭ riĉulo	kot bogataš	like a rich man	grupo	alternativoj	prononco
+level	vi sidas tie kvazaŭ riĉulo	sediš tam kot bogat človek	you sit there like a rich man	grupo	alternativoj	prononco
+level	tiom da mono	toliko denarja	so much money	grupo	alternativoj	prononco
+level	tiom da mono kiom da ideoj	toliko denarja kot idej	as much money as ideas	grupo	alternativoj	prononco
+level	se mi havus tiom da mono	če bi imel toliko denarja	if I had that much money	grupo	alternativoj	prononco
+level	mi vojaĝadus	Potoval bi	I would travel	grupo	alternativoj	prononco
+level	ĉirkaŭ la mondo	okoli sveta	around the world	grupo	alternativoj	prononco
+level	en ĉiu vortaro	v vsakem slovarju	in every dictionary	grupo	alternativoj	prononco
+level	mankas io	nekaj manjka	something is missing	grupo	alternativoj	prononco
+level	mankas kelkaj vortoj	nekaj besed manjka	some words are missing	grupo	alternativoj	prononco
+level	homo, kiu longe parolis	človek, ki je dolgo govoril	a man who spoke at length	grupo	alternativoj	prononco
+level	ĉe la manĝotablo	za jedilno mizo	at the dining table	grupo	alternativoj	prononco
+level	homo, kiu rakontas, restos malsata	kdor pove, bo ostal lačen	a person who tells will remain hungry	grupo	alternativoj	prononco
+level	rakontadas ĉe la manĝo tablo	pripoveduje za jedilno mizo	keeps telling at the dining table	grupo	alternativoj	prononco
+level	li devis atenti ~	je moral biti pozoren na ~	he had to pay attention to ~	grupo	alternativoj	prononco
+level	ne rajtis ~	ni smel ~	was not allowed to ~	grupo	alternativoj	prononco
+level	rajtis resti	smel ostati	was allowed to stay	grupo	alternativoj	prononco
+level	ne rajtis longe resti	ni smel ostati dolgo	was not allowed to stay long	grupo	alternativoj	prononco
+level	resti ekstere en pluvo	ostati zunaj na dežju	to stay out in the rain	grupo	alternativoj	prononco
+level	tial li malvarmumis	zato se je prehladil	that's why he caught a cold	grupo	alternativoj	prononco
+level	li havas sian klaran ideon	ima svojo jasno predstavo	he has his own clear idea	grupo	alternativoj	prononco
+level	sed li kredos ĉion	pa bo vse verjel	but he will believe everything	grupo	alternativoj	prononco
+level	ĉion, kion vi diros	karkoli rečeš	whatever you say	grupo	alternativoj	prononco
+level	kvazaŭ vi estus lia edzino	kot bi bila njegova žena	as if you were his wife	grupo	alternativoj	prononco
+level	viaj gepatroj	tvoji starši	your parents	grupo	alternativoj	prononco
+level	ĝojigi viajn gepatrojn	osrečiti svoje starše	to make your parents happy	grupo	alternativoj	prononco
+level	kio povus ĝojigi ~ ?	kaj bi lahko prosim ~?	what could please ~ ?	grupo	alternativoj	prononco
+level	kio povus plej ĝojigi viajn gepatrojn?	kaj bi lahko najbolj osrečilo tvoje starše?	what could make your parents the most happy?	grupo	alternativoj	prononco
+level	post la lernado	po učenju	after the learning	grupo	alternativoj	prononco
+level	almenaŭ post la lernado	vsaj po učenju	at least after the learning	grupo	alternativoj	prononco
+level	en la urbocentron	v center mesta	into the city center	grupo	alternativoj	prononco
+level	se vi irus kun mi	če bi šel z mano	if you would go with me	grupo	alternativoj	prononco
+level	se vi irus kun mi en la urbocentron	če bi šel z mano v mesto	if you would go downtown with me	grupo	alternativoj	prononco
+level	kien vi dezirus vojaĝi?	kam bi rad potoval?	where would you like to travel?	grupo	alternativoj	prononco
+level	se vi havus ~	če bi imel ~	if you had ~	grupo	alternativoj	prononco
+level	sufiĉe da mono	dovolj denarja	enough money	grupo	alternativoj	prononco
+level	se vi havus sufiĉe da mono kaj tempo	če bi imel dovolj denarja in temp	if you had enough money and temp	grupo	alternativoj	prononco
+level	ĉu vi planas ~ ?	ali nameravaš ~?	are you planning to ~ ?	grupo	alternativoj	prononco
+level	planas veturi al Parizo	načrtuje potovanje v Pariz	plans to travel to Paris	grupo	alternativoj	prononco
+level	veturi per aŭto	voziti z axuto	to drive with an axuto	grupo	alternativoj	prononco
+level	multe pli bone	precej bolje	much better	grupo	alternativoj	prononco
+level	ŝajnas multe pli bone	zdi veliko bolje	seems much better	grupo	alternativoj	prononco
+level	per vagonaro	z vlakom	by train	grupo	alternativoj	prononco
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	ali se zdi, da ni veliko bolje?	or doesn't it seem to be much better?	grupo	alternativoj	prononco
+level	diversaj homoj	razni ljudje	various people	grupo	alternativoj	prononco
+level	kial homoj klarigas diversmaniere?	zakaj ljudje razlagajo na različne načine?	why do people explain in different ways?	grupo	alternativoj	prononco
+level	samaj ideoj	iste ideje	same ideas	grupo	alternativoj	prononco
+level	klarigas samajn ideojn	razlaga iste ideje	explains the same ideas	grupo	alternativoj	prononco
+level	familianoj kunvenas	družinski člani se zberejo	family members get together	grupo	alternativoj	prononco
+level	kiel rapide	kako hitro	how quickly	grupo	alternativoj	prononco
+level	tagoj pasas	dnevi minevajo	days pass	grupo	alternativoj	prononco
+level	kiel rapide pasas tagoj!	kako hitro minevajo dnevi!	how quickly the days pass!	grupo	alternativoj	prononco
+level	morgaŭ estos ~	jutri bo ~	tomorrow will be ~	grupo	alternativoj	prononco
+level	la naskiĝtago de via patro	rojstni dan tvojega očeta	your father's birthday	grupo	alternativoj	prononco
+level	kelkaj familianoj	več družinskih članov	several family members	grupo	alternativoj	prononco
+level	alvenos kelkaj familianoj	bo prišlo več družinskih članov	several family members will come	grupo	alternativoj	prononco
+level	kaj geamikoj	in prijatelji	and friends	grupo	alternativoj	prononco
+level	ĉu vi bonvolus ~ ?	bi prosim ~?	would you please ~ ?	grupo	alternativoj	prononco
+level	ĉu vi bonvolus iom helpi?	lahko prosim malo pomagaš?	could you please help a little?	grupo	alternativoj	prononco
+level	iomete da tempo	kratek čas	a little while	grupo	alternativoj	prononco
+level	trovu iomete da tempo	najdi malo časa	find a little time	grupo	alternativoj	prononco
+level	por ordigi vian ĉambron	pospraviti svojo sobo	to tidy your room	grupo	alternativoj	prononco
+level	almenaŭ por ordigi vian ĉambron	vsaj za pospravljanje sobe	at least to tidy your room	grupo	alternativoj	prononco
+level	mi ŝatus ~	Rad bi ~	I would like ~	grupo	alternativoj	prononco
+level	mi ŝatus kuiri ion	Rada bi nekaj skuhala	I would like to cook something	grupo	alternativoj	prononco
+level	ion bonan	nekaj dobrega	something good	grupo	alternativoj	prononco
+level	kuiri ion bonan	skuhaj kaj dobrega	cook something good	grupo	alternativoj	prononco
+level	por la naskiĝ-taga kuko	za rojstnodnevno torto	for the birthday cake	grupo	alternativoj	prononco
+level	mankas lakto	primanjkuje mleka	is lacking of milk	grupo	alternativoj	prononco
+level	en la hejmo	v domu	in the home	grupo	alternativoj	prononco
+level	necesas havigi ~	treba je priskrbeti ~	it is necessary to procure ~	grupo	alternativoj	prononco
+level	iom da manĝaĵo	nekaj hrane	some food	grupo	alternativoj	prononco
+level	el vendejo	iz trgovine	from a store	grupo	alternativoj	prononco
+level	havigi iom da manĝaĵo el vendejo	po nekaj hrane iz skrivališča	to get some food from a hideout	grupo	alternativoj	prononco
+level	mi aĉetumos	Nakupoval bom	I will do shopping	grupo	alternativoj	prononco
+level	por la naskiĝtago	za rojstni dan	for the birthday	grupo	alternativoj	prononco
+level	anstataŭ sidi kaj manĝegi	namesto da bi sedel in jedel	instead of sitting and eating	grupo	alternativoj	prononco
+level	interesaj homoj	zanimivi ljudje	interesting people	grupo	alternativoj	prononco
+level	kun neinteresaj familianoj	z nezanimivimi družinskimi člani	with uninteresting family members	grupo	alternativoj	prononco
+level	mi ŝatus ekskursi	Rada bi šla na piknik	I would like to go on a picnic	grupo	alternativoj	prononco
+level	kun klubanoj	s člani kluba	with club members	grupo	alternativoj	prononco
+level	kun kiuj klubanoj?	s katerimi člani kluba?	with which club members?	grupo	alternativoj	prononco
+level	diris la patro	je rekel oče	said the father	grupo	alternativoj	prononco
+level	ia papero, iaj paperoj	nekakšen papir, neke vrste papirji	some kind of paper, some kind of papers	grupo	alternativoj	prononco
+level	en paperujo	v aktovki	in a briefcase	grupo	alternativoj	prononco
+level	en paperujon	v koš za papir	into a paper bin	grupo	alternativoj	prononco
+level	ĵetis paperojn en paperujon	vrgla papirje v koš za papir	threw papers into a paper bin	grupo	alternativoj	prononco
+level	ĵetis iajn paperojn en paperujon	nekaj papirjev vrgla v koš za papir	threw some papers into a paper bin	grupo	alternativoj	prononco
+level	morgaŭ frue	jutri zgodaj	early tomorrow	grupo	alternativoj	prononco
+level	anoj de mia sporta klubo	člani mojega športnega kluba	members of my sports club	grupo	alternativoj	prononco
+level	kara mia	dragi moj	my dear	grupo	alternativoj	prononco
+level	ĉu ĝuste ~ ?	je to prav?	is that right?	grupo	alternativoj	prononco
+level	vi devas foresti	moraš biti odsoten	you must be absent	grupo	alternativoj	prononco
+level	ĉu vi ne ~ ?	kajne ~?	don't you ~ ?	grupo	alternativoj	prononco
+level	viaj samklubanoj	vaši sočlani kluba	your fellow club members	grupo	alternativoj	prononco
+level	intervidiĝas kun viaj samklubanoj	se srečate s svojimi kolegi iz kluba	sees each other with your fellow club members	grupo	alternativoj	prononco
+level	trifoje semajne	trikrat na teden	three times a week	grupo	alternativoj	prononco
+level	ĉu mi rajtas ~ ?	lahko ~?	may I ~ ?	grupo	alternativoj	prononco
+level	rajtas ion proponi	ima pravico nekaj predlagati	has the right to propose something	grupo	alternativoj	prononco
+level	mi kunmanĝos kun la familianoj	Jedel bom z družinskimi člani	I will eat with the family members	grupo	alternativoj	prononco
+level	sed en la dua parto	ampak v drugem delu	but in the second part	grupo	alternativoj	prononco
+level	mi foriros kun miaj geamikoj	Šla bom s prijatelji	I will go with my friends	grupo	alternativoj	prononco
+level	parolos pri ~	bo govoril o ~	will talk about ~	grupo	alternativoj	prononco
+level	malsukcesa veturado	neuspešen pogon	a failed drive	grupo	alternativoj	prononco
+level	certe parolos pri la malsukcesa veturado	bo zagotovo govoril o neuspelem pogonu	will definitely talk about the failed drive	grupo	alternativoj	prononco
+level	post la kuko	po torti	after the cake	grupo	alternativoj	prononco
+level	mi ne plu volas tion	Tega nočem več	I don't want that anymore	grupo	alternativoj	prononco
+level	volas tion aŭdi	hoče to slišati	wants to hear that	grupo	alternativoj	prononco
+level	kial ni ne havas ~ ?	zakaj nimamo ~?	why don't we have ~ ?	grupo	alternativoj	prononco
+level	ideoriĉa onklo	idejno bogat stric	an idea-rich uncle	grupo	alternativoj	prononco
+level	havas iun ideoriĉan onklon	ima nekaj idej bogati stric	has some idea rich uncle	grupo	alternativoj	prononco
+level	en mia familio	v moji družini	in my family	grupo	alternativoj	prononco
+level	la patrino ridetis	se je nasmehnila mati	the mother smiled	grupo	alternativoj	prononco
+level	je liaj vortoj	na njegove besede	at his words	grupo	alternativoj	prononco
+level	ŝi scias, ke ~	ona to ve ~	she knows that ~	grupo	alternativoj	prononco
+level	iom tro parolas	malo preveč govori	talks a little too much	grupo	alternativoj	prononco
+level	ne sufiĉas nur ~	ni dovolj samo ~	it's not enough just ~	grupo	alternativoj	prononco
+level	riĉeco de la ideoj	bogastvo idej	wealth of ideas	grupo	alternativoj	prononco
+level	necesas ankaŭ ~	~ je tudi potrebno	~ is also needed	grupo	alternativoj	prononco
+level	plena monujo por realigi ĝin	polno denarnico, da se to zgodi	a full wallet to make it happen	grupo	alternativoj	prononco
+level	la patrino daŭrigis ~	je nadaljevala mati ~	the mother continued ~	grupo	alternativoj	prononco
+level	post iom da silento	po kratkem molku	after a little silence	grupo	alternativoj	prononco
+level	antaŭ kelkaj minutoj	pred nekaj minutami	a few minutes ago	grupo	alternativoj	prononco
+level	Ana telefonis, ke ŝi ~	Ana je poklicala, da je ~	Ana called that she ~	grupo	alternativoj	prononco
+level	ankaŭ ŝi vizitos nin	nas bo tudi obiskala	she will also visit us	grupo	alternativoj	prononco
+level	dolĉa kuko	sladka torta	a sweet cake	grupo	alternativoj	prononco
+level	ŝi tre ŝatas dolĉan kukon	zelo rada ima sladke torte	she really likes sweet cake	grupo	alternativoj	prononco
+level	atentas por ne dikiĝi	pazi, da se ne zredi	is careful not to get fat	grupo	alternativoj	prononco
+level	kvankam ŝi atentos	čeprav bo pozorna	although she will pay attention	grupo	alternativoj	prononco
+level	tuj ŝanĝis la opinion	takoj premislil	immediately changed the mind	grupo	alternativoj	prononco
+level	dum la ekskurso	med ekskurzijo	during the excursion	grupo	alternativoj	prononco
+level	sen ŝi	brez nje	without her	grupo	alternativoj	prononco
+level	li estus tre soleca	bil bi zelo osamljen	he would be very lonely	grupo	alternativoj	prononco
+level	mi tamen pasigos	Bom pa mimo	I will pass though	grupo	alternativoj	prononco
+level	mi tamen pasigos la morgaŭan tagon hejme	Bom pa jutrišnji dan preživel doma	I will spend tomorrow at home though	grupo	alternativoj	prononco
+level	en juneco	v mladosti	in youth	grupo	alternativoj	prononco
+level	oni havas	eden ima	one has	grupo	alternativoj	prononco
+level	havas ankaŭ belecon	ima tudi lepoto	also has beauty	grupo	alternativoj	prononco
+level	malsimplaj laboroj	zapletena dela	complicated jobs	grupo	alternativoj	prononco
+level	malsimplajn laborojn	zapletena dela (objektivno)	complicated jobs (objective)	grupo	alternativoj	prononco
+level	devus plisimpligi	bi morali poenostaviti	should simplify	grupo	alternativoj	prononco
+level	en tiu aĝo	pri tej starosti	at that age	grupo	alternativoj	prononco
+level	li jam fariĝis ~	je že postal ~	he has already become ~	grupo	alternativoj	prononco
+level	estro de la sporta klubo	vodja športnega društva	head of the sports club	grupo	alternativoj	prononco
+level	monon oni metas	eden vloži denar	one puts money	grupo	alternativoj	prononco
+level	en monujon	v denarnico	into a wallet	grupo	alternativoj	prononco
+level	metas en monujon	pospravi v torbico	puts in a purse	grupo	alternativoj	prononco
+level	sekvu la ekzemplojn	sledite zgledom	follow the examples	grupo	alternativoj	prononco
+level	de la bonaj familianoj	od dobrih družinskih članov	from the good family members	grupo	alternativoj	prononco
+level	ĉu amikeco pli feliĉigas?	te prijateljstvo osrečuje?	does friendship make you happier?	grupo	alternativoj	prononco
+level	feliĉigas vin	osrečuje te	makes you happy	grupo	alternativoj	prononco
+level	ol la amo	kot ljubezen	than the love	grupo	alternativoj	prononco
+level	kiel ofte vi ~ ?	kako pogosto ~?	how often do you ~ ?	grupo	alternativoj	prononco
+level	vi skribas leterojn al ~	pišete pisma ~	you write letters to ~	grupo	alternativoj	prononco
+level	skrivas leterojn al viaj amikinoj	piše pisma tvojim dekletom	writes letters to your girl friends	grupo	alternativoj	prononco
+level	viaj amikinoj en Italio	tvoje prijateljice v Italiji	your girl friends in Italy	grupo	alternativoj	prononco
+level	la rilato inter vi kaj via instruisto	odnos med vami in vašim učiteljem	the relation between you and your teacher	grupo	alternativoj	prononco
+level	ĉu la rilato ŝanĝiĝis?	se je odnos spremenil?	has the relationship changed?	grupo	alternativoj	prononco
+level	ĉu vi jam scias ~ ?	že veš ~?	do you already know ~ ?	grupo	alternativoj	prononco
+level	sufiĉe bone	kar dobro	quite well	grupo	alternativoj	prononco
+level	estis vespero en ~	bil je večer v ~	it was evening in ~	grupo	alternativoj	prononco
+level	centoj da homoj	na stotine ljudi	hundreds of people	grupo	alternativoj	prononco
+level	plenigas la placon	napolni kvadrat	fills the square	grupo	alternativoj	prononco
+level	junuloj kaj militistoj	mladeniči in vojaki	young men and soldiers	grupo	alternativoj	prononco
+level	maristoj de sur la ŝipoj	mornarji z ladij	sailors from the ships	grupo	alternativoj	prononco
+level	elstara sinjorino	izjemna dama	outstanding lady	grupo	alternativoj	prononco
+level	elstaraj sinjorinoj	izjemne dame	outstanding ladies	grupo	alternativoj	prononco
+level	alilandaj vojaĝantoj	tuji popotniki	foreign travelers	grupo	alternativoj	prononco
+level	ĉiuj moviĝas al urbomezo	vsi se selijo v center mesta	everyone is moving to the city center	grupo	alternativoj	prononco
+level	iom plue	malo naprej	a little further	grupo	alternativoj	prononco
+level	ne malproksime de la maro	nedaleč od morja	not far from the sea	grupo	alternativoj	prononco
+level	troviĝis malgranda placo	tam je bil majhen trg	there was a small square	grupo	alternativoj	prononco
+level	iom plue sed ne malproksime	malo naprej pa ne daleč	a little further but not far	grupo	alternativoj	prononco
+level	fine de ĝi	na koncu tega	at the end of it	grupo	alternativoj	prononco
+level	proksime de la maro	blizu morja	near the sea	grupo	alternativoj	prononco
+level	proksime staris homo	v bližini je stal moški	a man stood nearby	grupo	alternativoj	prononco
+level	laŭ la vestaĵo	glede na obleko	according to the clothing	grupo	alternativoj	prononco
+level	oni facile scii ~	človek zlahka ve ~	one may know easily ~	grupo	alternativoj	prononco
+level	oni povis ekscii, ke ~	je bilo mogoče ugotoviti, da ~	it was possible to find out that ~	grupo	alternativoj	prononco
+level	gondolisto de iu riĉulo	gondoljer bogataša	a rich man's gondolier	grupo	alternativoj	prononco
+level	povis ekscii, ke li estas gondolisto	lahko ugotovili, da je gondoljer	could find out that he was a gondolier	grupo	alternativoj	prononco
+level	li rigardis ~	pogledal je ~	he looked ~	grupo	alternativoj	prononco
+level	rigardis la ĝojan hommulton	pogledal veselo množico	looked at the joyful crowd	grupo	alternativoj	prononco
+level	rideto lumigis lian vizaĝon	nasmeh mu je razsvetlil obraz	a smile lit up his face	grupo	alternativoj	prononco
+level	kiam li ekvidis mariston	ko je zagledal mornarja	when he saw a sailor	grupo	alternativoj	prononco
+level	la mariston, kiu alvenis	mornar, ki je prispel	the sailor who arrived	grupo	alternativoj	prononco
+level	la flanko de la maro	stran morja	the side of the sea	grupo	alternativoj	prononco
+level	alvenis el la flanko de la maro	prispel s strani morja	arrived from the side of the sea	grupo	alternativoj	prononco
+level	ĉu tio estas vi, Stefano?	si to ti, Stephen?	is that you, Stephen?	grupo	alternativoj	prononco
+level	ekkriis la gondolisto	je vzkliknil gondoljer	exclaimed the gondolier	grupo	alternativoj	prononco
+level	ĉiuj diras, ke ~	vsi pravijo, da ~	everyone says that ~	grupo	alternativoj	prononco
+level	en la manojn de la Turkoj	v roke Turkov	into the hands of the Turks	grupo	alternativoj	prononco
+level	ke vi falis en la manojn de la Turkoj	da si padel Turkom v roke	that you fell into the hands of the Turks	grupo	alternativoj	prononco
+level	ni renkontis unu	enega smo srečali	we met one	grupo	alternativoj	prononco
+level	el niaj ŝipoj	z naših ladij	from our ships	grupo	alternativoj	prononco
+level	ĝi sekvis nin	sledilo nam je	it followed us	grupo	alternativoj	prononco
+level	dum pli ol unu horo	več kot eno uro	for more than an hour	grupo	alternativoj	prononco
+level	sed ne estas facile iri ~	vendar ni lahko iti ~	but it is not easy to go ~	grupo	alternativoj	prononco
+level	iri pli rapide ol nia ŝipo	iti hitreje od naše ladje	to go faster than our ship	grupo	alternativoj	prononco
+level	kiaj novaĵoj estas tie ĉi?	kakšne novice so tukaj?	what news is here?	grupo	alternativoj	prononco
+level	tie ĉi en Venecio	tukaj v Benetkah	here in Venice	grupo	alternativoj	prononco
+level	nenio interesa	nič zanimivega	nothing interesting	grupo	alternativoj	prononco
+level	nur granda malfeliĉo	le velika nesreča	just a big misfortune	grupo	alternativoj	prononco
+level	ĉu vi konas Pietron?	ali poznaš Pietra?	do you know Pietro?	grupo	alternativoj	prononco
+level	mi konas lin	Poznam ga	I know him	grupo	alternativoj	prononco
+level	granda ŝipo subakvigis lian gondolon	velika ladja je potopila njegovo gondolo	a large ship submerged his gondola	grupo	alternativoj	prononco
+level	kaj kio pri li?	kaj pa on?	and what about him?	grupo	alternativoj	prononco
+level	la gondolo subakviĝis	gondola je potonila	the gondola sank	grupo	alternativoj	prononco
+level	okazis, ke ~	zgodilo se je, da ~	it happened that ~	grupo	alternativoj	prononco
+level	ni troviĝis proksime	blizu sva bila	we were close	grupo	alternativoj	prononco
+level	ni prenis lin en nian gondolon	peljali smo ga z našo gondolo	we took him in our gondola	grupo	alternativoj	prononco
+level	en la sama tempo	ob istem času	at the same time	grupo	alternativoj	prononco
+level	mia estro subakviĝis	moj šef se je utopil	my boss drowned	grupo	alternativoj	prononco
+level	por helpi junulinon	pomagati mladi ženski	to help a young woman	grupo	alternativoj	prononco
+level	junulinon, kiu preskaŭ mortis	mlada ženska, ki je skoraj umrla	a young woman who almost died	grupo	alternativoj	prononco
+level	kun sia onklo	s svojim stricem	with his uncle	grupo	alternativoj	prononco
+level	preskaŭ mortis kun sia onklo	skoraj umrl s stricem	almost died with his uncle	grupo	alternativoj	prononco
+level	tie estis junulino	tam je bila mlada ženska	there was a young woman	grupo	alternativoj	prononco
+level	lin ni ne povis helpi	nismo mu mogli pomagati	we could not help him	grupo	alternativoj	prononco
+level	estis grava homo	je bil pomembna oseba	was an important person	grupo	alternativoj	prononco
+level	kio alvenigis vin en Venecion?	kaj te je pripeljalo v Benetke?	what brought you to Venice?	grupo	alternativoj	prononco
+level	amiko mia	moj prijatelj	my friend	grupo	alternativoj	prononco
+level	la maristo ekrigardis	je mornar pogledal	the sailor looked up	grupo	alternativoj	prononco
+level	rapide ekrigardis sian amikon	hitro pogledal prijatelja	quickly glanced at his friend	grupo	alternativoj	prononco
+level	kaj komencis diri	in začel govoriti	and began to say	grupo	alternativoj	prononco
+level	do vi scias ~	tako da veš ~	so you know ~	grupo	alternativoj	prononco
+level	mi alportis ~	Prinesel sem ~	I brought ~	grupo	alternativoj	prononco
+level	la gondolisto subite haltigis lin	ga je nenadoma ustavil gondoljer	the gondolier suddenly stopped him	grupo	alternativoj	prononco
+level	li diris	rekel je	he said	grupo	alternativoj	prononco
+level	tiam iu homo pasis	nato je mimo šel moški	then a man passed by	grupo	alternativoj	prononco
+level	iu homo pasis apud li	mimo njega je šel človek	a man passed by him	grupo	alternativoj	prononco
+level	li ankoraŭ ne estis tridekjara	še ni imel trideset let	he was not yet thirty	grupo	alternativoj	prononco
+level	kaj lia vizaĝo estis senkolora	in njegov obraz je bil brezbarven	and his face was colorless	grupo	alternativoj	prononco
+level	lia iro estis certa kaj facila	njegova pot je bila zanesljiva in lahka	his going was sure and easy	grupo	alternativoj	prononco
+level	lia vizaĝo estis malĝoja	njegov obraz je bil žalosten	his face was sad	grupo	alternativoj	prononco
+level	kiam li ekvidis la homon, ~	ko je zagledal človeka, ~	when he saw the man, ~	grupo	alternativoj	prononco
+level	oni diras, ke ~	rečeno je, da ~	it is said that ~	grupo	alternativoj	prononco
+level	multaj gravuloj donas ~	veliko pomembnih ljudi daje ~	many important people give ~	grupo	alternativoj	prononco
+level	sekreta laboro	tajno delo	secret work	grupo	alternativoj	prononco
+level	sekretaj laboroj	tajne službe	secret jobs	grupo	alternativoj	prononco
+level	donas sekretajn laborojn al li	mu daje tajne naloge	gives secret jobs to him	grupo	alternativoj	prononco
+level	tro da sekretoj	preveč skrivnosti	too many secrets	grupo	alternativoj	prononco
+level	li scias tro da sekretoj	pozna preveč skrivnosti	he knows too many secrets	grupo	alternativoj	prononco
+level	tial ili timas	zato jih je strah	therefore they are afraid	grupo	alternativoj	prononco
+level	sendi lin en malliberejon	da ga pošljejo v zapor	to send him to prison	grupo	alternativoj	prononco
+level	diris la maristo	je rekel mornar	said the sailor	grupo	alternativoj	prononco
+level	kaj dum li parolis	in kot je govoril	and as he spoke	grupo	alternativoj	prononco
+level	li montris la domegon	je pokazal na dvorec	he pointed to the mansion	grupo	alternativoj	prononco
+level	la domego de Doĝoj	dožev dvorec	the mansion of Doges	grupo	alternativoj	prononco
+level	multaj gravuloj bezonas lian helpon	mnogi pomembni ljudje potrebujejo njegovo pomoč	many important people need his help	grupo	alternativoj	prononco
+level	kiom ili pagas?	koliko plačajo?	how much they pay?	grupo	alternativoj	prononco
+level	pagas al li	ga plača	pays him	grupo	alternativoj	prononco
+level	pagas por unu mortigo	plača za en uboj	pays for one kill	grupo	alternativoj	prononco
+level	certe ne malpli ol ~	vsekakor ne manj kot ~	certainly not less than ~	grupo	alternativoj	prononco
+level	ol cent moneroj	kot sto kovancev	than a hundred coins	grupo	alternativoj	prononco
+level	ne forgesu, ke ~	tega ne pozabi ~	don't forget that ~	grupo	alternativoj	prononco
+level	ke li laboras por tiuj	da dela za njih	that he works for them	grupo	alternativoj	prononco
+level	por tiuj, kiuj havas sufiĉe da mono	za tiste, ki imajo dovolj denarja	for those who have enough money	grupo	alternativoj	prononco
+level	por pagi al li	da mu plačam	to pay him	grupo	alternativoj	prononco
+level	en Venecio estas ~	v Benetkah je ~	in Venice there is ~	grupo	alternativoj	prononco
+level	tiuj aferoj	tiste stvari	those things	grupo	alternativoj	prononco
+level	forgesi tiujn aferojn	pozabiti na te stvari	to forget those things	grupo	alternativoj	prononco
+level	aferoj, kiujn estas pli bone forgesi	stvari, ki jih je bolje pozabiti	things that are better forgotten	grupo	alternativoj	prononco
+level	se vi volas trankvile manĝi	če hočeš v miru jesti	if you want to eat in peace	grupo	alternativoj	prononco
+level	trankvile manĝi vian panon	da v miru poješ svoj kruh	to eat your bread in peace	grupo	alternativoj	prononco
+level	estis iom da silento	bilo je nekaj tišine	there was some silence	grupo	alternativoj	prononco
+level	kaj poste	in kasneje	and later	grupo	alternativoj	prononco
+level	la gondolisto denove ekparolis	je spet spregovoril gondoljer	the gondolier spoke again	grupo	alternativoj	prononco
+level	vi venis ĝustatempe	prišel si ravno pravi čas	you came just in time	grupo	alternativoj	prononco
+level	por vidi ŝipkuron	videti dirko čolnov	to see a boat race	grupo	alternativoj	prononco
+level	iu diris malforte	je nekdo slabotno rekel	someone said weakly	grupo	alternativoj	prononco
+level	proksime de la gondolisto	blizu gondoljerja	near the gondolier	grupo	alternativoj	prononco
+level	la estro de la urbo	župan mesta	the mayor of the city	grupo	alternativoj	prononco
+level	senvorte montris al la gondolo	brez besed pokazal na gondolo	wordlessly pointed to the gondola	grupo	alternativoj	prononco
+level	diris la gondolisto	je rekel gondoljer	said the gondolier	grupo	alternativoj	prononco
+level	kaj prenis la manon de sia amiko	in prijel prijatelja za roko	and took his friend's hand	grupo	alternativoj	prononco
+level	ĵetas la paperon	vrže papir	throws the paper	grupo	alternativoj	prononco
+level	en la paperujon	v koš za papir	into the paper bin	grupo	alternativoj	prononco
+level	la knabinoj ĵetis la paperojn	dekleta so vrgla papirje	the girls threw the papers	grupo	alternativoj	prononco
+level	kie estas mia skribilo?	kje je moje pero	where is my pen	grupo	alternativoj	prononco
+level	mi volas respondi al li	Želim mu odgovoriti	I want to answer him	grupo	alternativoj	prononco
+level	la suno malaperis	sonce je izginilo	the sun disappeared	grupo	alternativoj	prononco
+level	kaj nun estas preskaŭ malhele	in zdaj je skoraj temno	and now it is almost dark	grupo	alternativoj	prononco
+level	bonvolu manĝi	prosim jej	please eat	grupo	alternativoj	prononco
+level	bonvolu manĝi la panon	prosim pojejte kruh	please eat the bread	grupo	alternativoj	prononco
+level	per manĝiloj	z jedilnim priborom	with cutlery	grupo	alternativoj	prononco
+level	pardonu min	Oprostite	excuse me	grupo	alternativoj	prononco
+level	rajtas resti	je dovoljeno ostati	is allowed to stay	grupo	alternativoj	prononco
+level	mi ne rajtas resti	Nimam pravice ostati	I have no right to stay	grupo	alternativoj	prononco
+level	ĉu vi povas kunporti ~ ?	lahko prineseš ~?	can you bring ~ ?	grupo	alternativoj	prononco
+level	de mia fratino	od moje sestre	from my sister	grupo	alternativoj	prononco
+level	kiam vi aĉetis ~ ?	kdaj si kupil ~?	when did you buy ~ ?	grupo	alternativoj	prononco
+level	aĉetis tiun muzikilon	kupil to glasbilo	bought that musical instrument	grupo	alternativoj	prononco
+level	kiu laste uzis ?	kdo je nazadnje uporabil?	who used last?	grupo	alternativoj	prononco
+level	uzis mian ŝlosilon	uporabil moj ključ	used my key	grupo	alternativoj	prononco
+level	ĉu vi veturis?	si vozil?	did you drive?	grupo	alternativoj	prononco
+level	en Venecio	v Benetkah	in Venice	grupo	alternativoj	prononco
+level	ankaŭ per gondolo	tudi z gondolo	also by gondola	grupo	alternativoj	prononco
+level	ĉu vi povos ekdormi?	boš lahko zaspal?	will you be able to fall asleep?	grupo	alternativoj	prononco
+level	tiam, kiam silentiĝis	takrat, ko je bila tišina	then, when there was silence	grupo	alternativoj	prononco
+level	la sinjoro estis alta	gospod je bil visok	the gentleman was tall	grupo	alternativoj	prononco
+level	alta, dika	visok, debel	tall, fat	grupo	alternativoj	prononco
+level	dika, peza	debel, težak	thick, heavy	grupo	alternativoj	prononco
+level	peza kaj larĝa	težka in velika	heavy and large	grupo	alternativoj	prononco
+level	estis alta, dika, peza, kaj larĝa	bil je visok, debel, težak in velik	was tall, thick, heavy, and large	grupo	alternativoj	prononco
+level	donis forton	dajal moč	gave strength	grupo	alternativoj	prononco
+level	havinda forto	sila, ki jo je vredno imeti	a force worth having	grupo	alternativoj	prononco
+level	havinda korpoforto	fizično moč, ki jo je vredno imeti	physical strength worth having	grupo	alternativoj	prononco
+level	tio donis	ki je dal	that gave	grupo	alternativoj	prononco
+level	donis al li	mu je dal	gave him	grupo	alternativoj	prononco
+level	tio donis forton	ki je dajalo moč	that gave strength	grupo	alternativoj	prononco
+level	donis havindan korpoforton	dal telesu moč, ki jo je vredno imeti	gave body strength worth having	grupo	alternativoj	prononco
+level	lia aspekto	njegov videz	his appearance	grupo	alternativoj	prononco
+level	grandula aspekto	videz visoke osebe	appearance of a tall person	grupo	alternativoj	prononco
+level	eta rolo	majhna vloga	a small role	grupo	alternativoj	prononco
+level	ludis rolon	igral vlogo	played a role	grupo	alternativoj	prononco
+level	ne eta rolo	ne majhna vloga	not a small role	grupo	alternativoj	prononco
+level	ludis etan rolon	odigral majhno vlogo	played a small role	grupo	alternativoj	prononco
+level	ludis ne etan rolon	igrala nemalo vlogo	played no small role	grupo	alternativoj	prononco
+level	en la fakto, ke ~	v tem, da ~	in the fact that ~	grupo	alternativoj	prononco
+level	la plimulto el la homoj	večina ljudi	the majority of the people	grupo	alternativoj	prononco
+level	se ne timis	če ne strah	if not afraid	grupo	alternativoj	prononco
+level	lin timis	se ga je bal	was afraid of him	grupo	alternativoj	prononco
+level	se lin timis	če ga je bilo strah	if he was afraid	grupo	alternativoj	prononco
+level	se ne lin timis	če se ga ne bojiš	if not afraid of him	grupo	alternativoj	prononco
+level	certe respektis	vsekakor spoštovana	certainly respected	grupo	alternativoj	prononco
+level	almenaŭ pripensis ~	vsaj pomislil na ~	at least thought about ~	grupo	alternativoj	prononco
+level	antaŭ ol ~	pred ~	before ~	grupo	alternativoj	prononco
+level	kontentigi lin	da ga zadovoljim	to satisfy him	grupo	alternativoj	prononco
+level	malkontentigi lin	da mu ne bo všeč	to displease him	grupo	alternativoj	prononco
+level	antaŭ ol malkontentigi ~	pred nezadovoljstvom ~	before dissatisfying ~	grupo	alternativoj	prononco
+level	antaŭ ol decidi ~	pred odločitvijo ~	before deciding ~	grupo	alternativoj	prononco
+level	decidi malkontentigi ~	odločiti se neugajati ~	to decide to displease ~	grupo	alternativoj	prononco
+level	decidi kontentigi lin	da se odloči, da ga bo zadovoljil	to decide to satisfy him	grupo	alternativoj	prononco
+level	antaŭ ol decidi malkontentigi lin	preden se odloči, da mu ne bo všeč	before deciding to displease him	grupo	alternativoj	prononco
+level	tio, kio estas utila	tisto, kar je koristno	that, which is useful	grupo	alternativoj	prononco
+level	ofte utila dumtage	pogosto uporaben čez dan	often useful during the day	grupo	alternativoj	prononco
+level	malplaĉa ĝeno	neprijetna nadloga	an unpleasant nuisance	grupo	alternativoj	prononco
+level	per si	sam	by himself	grupo	alternativoj	prononco
+level	prezentas malplaĉan ĝenon	predstavlja neprijetno nadlogo	presents an unpleasant nuisance	grupo	alternativoj	prononco
+level	prezentas per si malplaĉan ĝenon	se predstavlja kot neprijetna nadloga	presents itself as an unpleasant nuisance	grupo	alternativoj	prononco
+level	en loko arboplena	na mestu, polnem dreves	in a place full of trees	grupo	alternativoj	prononco
+level	tiam, kiam oni devojiĝis	takrat, ko je nekdo zašel	then, when one went astray	grupo	alternativoj	prononco
+level	en nehoma sovaĝejo	v nečloveški divjini	in an inhuman wilderness	grupo	alternativoj	prononco
+level	kaj ekstervoje iraĉas	in v kaosu zapelje s ceste	and goes off the road in chaos	grupo	alternativoj	prononco
+level	alta larĝa korpo	visoko veliko telo	a tall large body	grupo	alternativoj	prononco
+level	ne sukcesis pasi ~	ni uspelo prenesti ~	failed to pass ~	grupo	alternativoj	prononco
+level	inter la arbetoj	med grmovjem	among the bushes	grupo	alternativoj	prononco
+level	krome tuŝi la naturaĵojn	poleg dotikanja naravnih stvari	in addition to touching the natural things	grupo	alternativoj	prononco
+level	ĝenerale malsekajn	na splošno mokro	generally wet	grupo	alternativoj	prononco
+level	meze de malsekaj naturaĵoj	sredi mokre narave	in the middle of wet nature	grupo	alternativoj	prononco
+level	malsekaj naturaĵoj, meze de kiuj ~	mokre naravne stvari, sredi katerih ~	wet natural things, in the middle of which ~	grupo	alternativoj	prononco
+level	li malfacile paŝis	s težavo je hodil	he walked with difficulty	grupo	alternativoj	prononco
+level	estis travivaĵo	to je bila izkušnja	it was an experience	grupo	alternativoj	prononco
+level	ne malofte	ni neobičajno	not uncommon	grupo	alternativoj	prononco
+level	doloriga kaj ĉiam malagrabla	boleče in vedno neprijetno	painful and always unpleasant	grupo	alternativoj	prononco
+level	ju pli ~	bolj ~	the more ~	grupo	alternativoj	prononco
+level	antaŭeniris en la vivo	napredoval v življenju	moved forward in life	grupo	alternativoj	prononco
+level	en la kastela arbaro	v grajskem gozdu	in the castle forest	grupo	alternativoj	prononco
+level	ju pli antaŭeniris des pli malŝatis ~	bolj kot je šlo naprej, bolj mu ni bilo všeč ~	the further went forward the more disliked ~	grupo	alternativoj	prononco
+level	malŝatis la noktan naturon	ni maral nočne narave	disliked the nocturnal nature	grupo	alternativoj	prononco
+level	viro kun okuloj bone videblaj	človek z očmi, ki se jasno vidijo	a man with eyes that can be seen clearly	grupo	alternativoj	prononco
+level	okuloj, kiuj kapablis bone vidi	oči, ki so dobro videle	eyes that could see well	grupo	alternativoj	prononco
+level	bone vidi en la mallumo	dobro videti v temi	to see well in the dark	grupo	alternativoj	prononco
+level	rigardis la malfacilan iron	pogledal težko dogajanje	looked at the difficult going	grupo	alternativoj	prononco
+level	de nia industriisto	od našega industrialca	from our industrialist	grupo	alternativoj	prononco
+level	li ridetis	se je nasmehnil	he smiled	grupo	alternativoj	prononco
+level	apud tiu viro	poleg tega človeka	next to that man	grupo	alternativoj	prononco
+level	en vestaĵo de policano	v obleki policista	in policeman's clothing	grupo	alternativoj	prononco
+level	staris alia persono	stala je druga oseba	another person was standing	grupo	alternativoj	prononco
+level	en simila vestaĵo	v podobnih oblačilih	in similar clothing	grupo	alternativoj	prononco
+level	ĉi lasta estis virino	slednja je bila ženska	the latter was a woman	grupo	alternativoj	prononco
+level	ni iru	pojdimo	let's go	grupo	alternativoj	prononco
+level	la viro diris mallaŭte	je tiho rekel moški	the man said softly	grupo	alternativoj	prononco
+level	en la orelon de sia kunulino	v uho njegovega spremljevalca	into the ear of his companion	grupo	alternativoj	prononco
+level	nun estas la ĝusta momento	zdaj je pravi trenutek	now is the right moment	grupo	alternativoj	prononco
+level	ambaŭ paŝis direkte al la persono	oba sta stopila proti osebi	both stepped toward the person	grupo	alternativoj	prononco
+level	ili zorgis fari ~	pazili so narediti ~	they were careful to do ~	grupo	alternativoj	prononco
+level	kiel eble plej ~	kolikor mogoče ~	as possible as ~	grupo	alternativoj	prononco
+level	kiel eble plej malmulte da bruo	čim manj hrupa (kiel eble)	as little noise as possible (kiel eble)	grupo	alternativoj	prononco
+level	laŭeble plej malmulte da bruo	čim manj hrupa (laŭeble)	as little noise as possible (laŭeble)	grupo	alternativoj	prononco
+level	ili preskaŭ plene sukcesis	jim je skoraj v celoti uspelo	they almost fully succeeded	grupo	alternativoj	prononco
+level	en ĉi tiu aĉa situacio	v tej grdi situaciji	in this nasty situation	grupo	alternativoj	prononco
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	neprijetna situacija, ko so drevesa vrgla svoje veje	a nasty situation where trees threw their branches	grupo	alternativoj	prononco
+level	ĵetis siajn malsekajn branĉojn	metali lastne mokre veje	threw their own wet branches	grupo	alternativoj	prononco
+level	rekte en la vizaĝojn	naravnost v obraze	straight into the faces	grupo	alternativoj	prononco
+level	de la industriisto	industrialca	of the industrialist	grupo	alternativoj	prononco
+level	multpiedaj bestetoj	večnožna majhna bitja	multi-footed small creatures	grupo	alternativoj	prononco
+level	prenis liajn piedojn	prijel za noge	took his feet	grupo	alternativoj	prononco
+level	por promenejo	za sprehajalno pot	for a walk road	grupo	alternativoj	prononco
+level	naturo faligis lian piedon	narava mu je padla noga	nature made his foot fallen	grupo	alternativoj	prononco
+level	plej dolorige	najbolj boleče	most painfully	grupo	alternativoj	prononco
+level	faligis lian piedon en kavon	spustil nogo v jamo	dropped his foot into a pit	grupo	alternativoj	prononco
+level	kavo plena de akvo	jama polna vode	a pit full of water	grupo	alternativoj	prononco
+level	akvo aĉ-odora	smrdljivo vodo	foul-smelling water	grupo	alternativoj	prononco
+level	rapide alvenis al la penso	hitro prišel na misel	quickly arrived at the thought	grupo	alternativoj	prononco
+level	oni devas esti preta	eden mora biti pripravljen	one must be ready	grupo	alternativoj	prononco
+level	ĉi tie	tukaj	here	grupo	alternativoj	prononco
+level	iu ajn ~	kdorkoli ~	anyone ~	grupo	alternativoj	prononco
+level	preta por iu ajn malplaĉa renkonto	pripravljeni na vsako neprijetno srečanje	ready for any unpleasant encounter	grupo	alternativoj	prononco
+level	ion ajn	karkoli (karkoli)	anything (whatever)	grupo	alternativoj	prononco
+level	li atendis ion ajn	karkoli je čakal	he was waiting for anything	grupo	alternativoj	prononco
+level	krom homa voĉo	poleg človeškega glasu	aside human voice	grupo	alternativoj	prononco
+level	kiam voĉo aŭdiĝis, ~	ko se zasliši glas, ~	when a voice heard, ~	grupo	alternativoj	prononco
+level	aŭdiĝis tuj proksime	slišal takoj blizu	heard immediately close	grupo	alternativoj	prononco
+level	li faris belan surlokan salton	naredil je lep skok na mestu	he made a nice on-site jump	grupo	alternativoj	prononco
+level	kiu movis lian koron	ki je ganil njegovo srce	who moved his heart	grupo	alternativoj	prononco
+level	supren ĝis la buŝo	upword do ust	upword to the mouth	grupo	alternativoj	prononco
+level	kun la provo rekapti trankvilon	s poskusom ponovne umiritve	with the attempt to recapture calm	grupo	alternativoj	prononco
+level	iom da trankvilo	malo miru	a little tranquility	grupo	alternativoj	prononco
+level	la lumo de lampeto	svetloba svetilke	the light of a lamp	grupo	alternativoj	prononco
+level	oni direktis rekte al liaj okuloj	nekdo usmeril neposredno v njegove oči	someone directed directly to his eyes	grupo	alternativoj	prononco
+level	la lampo, kiun oni direktis al okuloj	svetilka, ki jo je nekdo usmeril v oči	the lamp which someone directed to eyes	grupo	alternativoj	prononco
+level	malhelpis repaciĝon	preprečil spravo	prevented reconciliation	grupo	alternativoj	prononco
+level	ŝajnis al li, ke ~	zdelo se mu je, da ~	it seemed to him that ~	grupo	alternativoj	prononco
+level	la homformo, kiu tenis la lampon	človeška oblika, ki je držala svetilko	the human form that held the lamp	grupo	alternativoj	prononco
+level	surhavas vestojn policajn	nositi oblačila policija	wear clothes police	grupo	alternativoj	prononco
+level	kion vi faras ĉi tie?	kaj počneš tukaj?	what are you doing here?	grupo	alternativoj	prononco
+level	sonas la aŭtorita voĉo	se sliši avtoritativni glas	sounds the authoritative voice	grupo	alternativoj	prononco
+level	bonvolu paroli ~	prosim govori ~	please talk ~	grupo	alternativoj	prononco
+level	iom klare	malo jasno	a little clear	grupo	alternativoj	prononco
+level	la alia diris	je rekel drugi	the other said	grupo	alternativoj	prononco
+level	eĉ pli grav-tone	v še bolj pomembnem tonu	in even more important-tone	grupo	alternativoj	prononco
+level	mi promenas	hodim	I'm walking	grupo	alternativoj	prononco
+level	vi promenas en la bieno	hodiš po kmetiji	you walk on the farm	grupo	alternativoj	prononco
+level	de la grafino	od grofice	of the countess	grupo	alternativoj	prononco
+level	la bieno de la grafino	grofičina kmetija	the countess's farm	grupo	alternativoj	prononco
+level	meze de la nokto	sredi noči	in the middle of the night	grupo	alternativoj	prononco
+level	ĉu la grafino vin invitis?	te je grofica povabila?	did the countess invite you?	grupo	alternativoj	prononco
+level	ĉu ŝi scias pri ~	ali ve za ~	does she know about ~	grupo	alternativoj	prononco
+level	pri via ĉeesto	o vaši prisotnosti	about your presence	grupo	alternativoj	prononco
+level	via ĉeesto ĉi tie	tvoja prisotnost tukaj	your presence here	grupo	alternativoj	prononco
+level	mi devas peti vin ~	Moram te vprašati ~	I have to ask you ~	grupo	alternativoj	prononco
+level	petas vin sekvi min	te prosi, da mi slediš	asks you to follow me	grupo	alternativoj	prononco
+level	kaj li klarigis ~	in je pojasnil ~	and he explained ~	grupo	alternativoj	prononco
+level	klarigis, ke ~	pojasnil, da ~	explained that ~	grupo	alternativoj	prononco
+level	ekde la fuŝa provo	od napačnega poskusa	since the wrong attempt	grupo	alternativoj	prononco
+level	la fuŝa provo kapti la grafinon	napačen poskus ujeti grofico	the wrong attempt to catch the countess	grupo	alternativoj	prononco
+level	fare de ~	zaradi ~	due to ~	grupo	alternativoj	prononco
+level	fare de teroristoj	zaradi teroristov	due to terrorists	grupo	alternativoj	prononco
+level	la polico kontrolas atente	policija skrbno preverja	the police checks carefully	grupo	alternativoj	prononco
+level	kontrolas, kio okazas	preverja, kaj se dogaja	checks what is happening	grupo	alternativoj	prononco
+level	okazas en la ĉirkaŭaĵo	pojavlja v okolici	occurs in the surrounding	grupo	alternativoj	prononco
+level	de la kastelo	gradu	of the castle	grupo	alternativoj	prononco
+level	la ĉirkaŭaĵo de la kastelo	okolici gradu	the surrounding of the castle	grupo	alternativoj	prononco
+level	al la industriisto	industrialcu	to the industrialist	grupo	alternativoj	prononco
+level	ŝajnis, ke ~	zdelo se je, da ~	it seemed that ~	grupo	alternativoj	prononco
+level	lia koro ĉifoje falis	tokrat mu je padlo srce	his heart fell this time	grupo	alternativoj	prononco
+level	falis ĝis liaj piedoj	padel na noge	fell to his feet	grupo	alternativoj	prononco
+level	li sciis, ke ~	vedel je, da ~	he knew that ~	grupo	alternativoj	prononco
+level	nur malfacile li provos trovi ~	samo težko bo poskušal najti	just hard he'll try to find	grupo	alternativoj	prononco
+level	trovi akcepteblan klarigon	najti sprejemljivo razlago	to find an acceptable explanation	grupo	alternativoj	prononco
+level	pri sia ĉeesto	o lastni prisotnosti	about one's own presence	grupo	alternativoj	prononco
+level	la ideo, ke la grafino ĉion scias	ideja, da grofica ve vse	the idea that the countess knows everything	grupo	alternativoj	prononco
+level	la ideo perdigis al li malmulton da espero	ideja mu je vzela malo upanja	the idea deprived him of little hope	grupo	alternativoj	prononco
+level	malmulto da espero	malo upanja	little hope	grupo	alternativoj	prononco
+level	malmulta espero, kiu restis	malo upanja je ostalo	little hope that remained	grupo	alternativoj	prononco
+level	post la unuaj vortoj de la policano	po prvih besedah policistov	after the first words of the police	grupo	alternativoj	prononco
+level	ju pli ~ des pli ~	več ~ več ~	the more ~ the more ~	grupo	alternativoj	prononco
+level	ju pli longe des pli bone	čim dlje tem bolje	the longer the better	grupo	alternativoj	prononco
+level	kiom ajn	ne glede na to, koliko	no matter how much	grupo	alternativoj	prononco
+level	antaŭ kvarona horo	pred četrt ure	a quarter of an hour ago	grupo	alternativoj	prononco
+level	ili revenis	vrnili so se	they came back	grupo	alternativoj	prononco
+level	post la terura malfeliĉo	po strašni nesreči	after the terrible misfortune	grupo	alternativoj	prononco
+level	la homoj foriris	ljudje so odšli	the people left	grupo	alternativoj	prononco
+level	kaj la malnovaj urboj disfalis	in stara mesta so razpadla	and the old cities fell apart	grupo	alternativoj	prononco
+level	ni devus revidi vin	morali bi te spet videti	we should see you again	grupo	alternativoj	prononco
+level	ju pli ofte	pogosteje	the more often	grupo	alternativoj	prononco
+level	mi pripensas	Premišljujem	I'm thinking	grupo	alternativoj	prononco
+level	des pli mi koleras	bolj sem jezna	the more angry I am	grupo	alternativoj	prononco
+level	ŝi loĝas en ~	živi v ~	she lives in ~	grupo	alternativoj	prononco
+level	en iu ajn domo	v kateri koli hiši	in any house	grupo	alternativoj	prononco
+level	ĉu ni revidos nin?	se bova še videla?	will we see each other again?	grupo	alternativoj	prononco
+level	kie ajn kaj kiam ajn	kjerkoli in kadarkoli	wherever and whenever	grupo	alternativoj	prononco
+level	kiam mi rericevos ~ ?	kdaj pridem nazaj ~?	when will I get back ~ ?	grupo	alternativoj	prononco
+level	la alian duonon de la libroj	drugo polovico knjig	the other half of the books	grupo	alternativoj	prononco
+level	ĉu vi bezonos ~ ?	boste potrebovali ~?	will you need ~ ?	grupo	alternativoj	prononco
+level	bezonas pli ol kvaronan jaron	potrebuje več kot četrt leta	needs more than a quarter of a year	grupo	alternativoj	prononco
+level	por tiuj laboroj	za ta delovna mesta	for those jobs	grupo	alternativoj	prononco
+level	kial estas ~ ?	zakaj je ~?	why is ~ ?	grupo	alternativoj	prononco
+level	des pli malvarma	hladnejše	the colder	grupo	alternativoj	prononco
+level	ju pli longe	čim dlje	the longer	grupo	alternativoj	prononco
+level	ni atendas ~	čakamo ~	we are waiting ~	grupo	alternativoj	prononco
+level	ĉu vi kontentas kun ~ ?	ste zadovoljni z ~?	are you satisfied with ~ ?	grupo	alternativoj	prononco
+level	kun iu ajn viro	s katerimkoli moškim	with any man	grupo	alternativoj	prononco
