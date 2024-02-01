@@ -13,89 +13,89 @@ level	fartas, fartis	(ปัจจุบัน) มีสุขภาพ, (อ�
 level	estis, estos	(ปัจจุบัน) เคยเป็น, (อนาคต) จะเป็น	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
 level	nomo, nomon	ชื่อ, ชื่อ (กรรม)	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
 level	mia amo	ความรักของฉัน	my love	grupo	0    	0000-00-00 00:00:00
-level	vi fartas	คุณกำลังทำ ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
-level	kiel	ยังไง	how	grupo	0    	0000-00-00 00:00:00
-level	kiel vi fartas?	เป็นอย่างไรบ้าง	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	คุณมี ~ (สุขภาพ)	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	อย่างไร	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	คุณเป็นอย่างไรบ้าง	how are you doing?	grupo	0    	0000-00-00 00:00:00
 level	kio	อะไร	what	grupo	0    	0000-00-00 00:00:00
 level	kio estas via nomo?	คุณชื่ออะไร	what is your name?	grupo	0    	0000-00-00 00:00:00
-level	bona, bone	ดี	good, well	grupo	0    	0000-00-00 00:00:00
-level	fartas bone	กำลังทำได้ดี	is doing well	grupo	0    	0000-00-00 00:00:00
-level	mi fartas bone	ฉันทำดีแล้ว	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	ดี, อย่างดี	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	มีสุขภาพดี	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	ฉันสบายดี	I am doing well	grupo	0    	0000-00-00 00:00:00
 level	kaj	และ	and	grupo	0    	0000-00-00 00:00:00
-level	bone, kaj vi?	สบายดีแล้วคุณล่ะ?	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	ดี, แล้วคุณล่ะ?	fine, and you?	grupo	0    	0000-00-00 00:00:00
 level	ĝis ~	จนกระทั่ง ~	until ~	grupo	0    	0000-00-00 00:00:00
-level	vidas, vidis	(ปัจจุบัน) เห็น (อดีต) เห็น	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
-level	vidis, revidis	(อดีต) เห็นแล้ว (อดีต) เห็นอีก	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
-level	revidis, revidos	เห็นอีกแล้วจะได้เห็นอีก	saw again, will see again	grupo	0    	0000-00-00 00:00:00
-level	revido, revidon	เห็นอีกครั้งเห็นอีกครั้ง (วัตถุประสงค์)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(ปัจจุบัน) เห็น, (อดีต) เห็นแล้ว	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(อดีต) เห็นแล้ว, (อดีต) เห็นอีก	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	เห็นอีกแล้ว, จะได้เห็นอีก	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	เห็นอีกครั้ง, เห็นอีกครั้ง (กรรม)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
 level	ĝis revido!	แล้วพบกันอีก!	see you again!	grupo	0    	0000-00-00 00:00:00
 level	dankon	ขอบคุณ	thank you	grupo	0    	0000-00-00 00:00:00
 level	dankon kaj ĝis revido!	ขอบคุณและพบกันใหม่!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
 level	al ~	ถึง ~	to ~	grupo	0    	0000-00-00 00:00:00
-level	al vi, al mi	สำหรับคุณสำหรับฉัน	to you, to me	grupo	0    	0000-00-00 00:00:00
-level	dankas, dankis	(ปัจจุบัน) ขอบคุณ (อดีต) ขอบคุณ	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	ไปยังคุณ, ไปยังฉัน	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(ปัจจุบัน) ขอบคุณ, (อดีต) ขอบคุณ	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
 level	mi dankas al vi	ฉันขอขอบคุณคุณ	I appreciate to you	grupo	0    	0000-00-00 00:00:00
-level	jes, ne	ใช่ไม่ใช่	yes, no	grupo	0    	0000-00-00 00:00:00
-level	jes, dankon	ใช่ ขอบคุณ	yes, thaink you	grupo	0    	0000-00-00 00:00:00
-level	manĝas, manĝos	กินก็จะกิน	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	ใช่, ไม่ใช่	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	ใช่, ขอบคุณ	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	กำลังกิน, จะกิน	eats, will eat	grupo	0    	0000-00-00 00:00:00
 level	mi ne manĝas	ฉันไม่กิน	I don't eat	grupo	0    	0000-00-00 00:00:00
-level	ne, mi ne manĝas	ไม่ ฉันไม่กิน	no, I don't eat	grupo	0    	0000-00-00 00:00:00
-level	bela, bele	สวยงามสวยงาม	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
-level	-inda	คุ้มค่า (จบ)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	ไม่, ฉันไม่กิน	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	สวยงาม, อย่างสวยงาม	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	คุ้มค่า (ตัวลงท้าย)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
 level	dankinda, dankinde	น่าชื่นชมและคุ้มค่าที่จะขอบคุณ	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
-level	tuta, tute	ทั้งหมดโดยรวม	whole, as a whole	grupo	0    	0000-00-00 00:00:00
-level	tuto, tuton	ทั้งหมด (วัตถุประสงค์) ทั้งหมด	all, (objective) all	grupo	0    	0000-00-00 00:00:00
-level	nedankinde	ไม่เลย ยินดีด้วย	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	ทั้งหมด, โดยรวม	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	ทั้งหมด, (กรรม) ทั้งหมด	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	ไม่เป็นไร	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
 level	tute ne	ไม่เลย	totally no	grupo	0    	0000-00-00 00:00:00
-level	pardoni ~, pardono	การให้อภัย การให้อภัย	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	ให้อภัย, การให้อภัย	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
 level	pardonon al mi	การให้อภัยแก่ฉัน	a forgiving to me	grupo	0    	0000-00-00 00:00:00
-level	pardonon	ฉันเสียใจ! (ยกโทษให้ฉัน)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
-level	pardonon, mi petas	ฉันขอโทษ ได้โปรด	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	pardonon	ขอโทษ	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	(ฉัน)ขอโทษ, ได้โปรด	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
 level	bona mateno	สวัสดีตอนเช้า	a good morning	grupo	0    	0000-00-00 00:00:00
-level	bonan matenon	สวัสดีตอนเช้า	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	สวัสดีตอนเช้า (กรรม)	good morning	grupo	0    	0000-00-00 00:00:00
 level	bonan nokton	ราตรีสวัสดิ์	good night	grupo	0    	0000-00-00 00:00:00
-level	bonan sonĝon	ฝันหวาน	sweet dream	grupo	0    	0000-00-00 00:00:00
-level	bonan vojaĝon, al vi	(มี) การเดินทางที่ดีกับคุณ	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	ฝันดีนะ	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	(ขอให้)เดินทางโดยสวัสดิภาพ	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
 level	bonan tagon	ขอให้เป็นวันที่ดี!	good day!	grupo	0    	0000-00-00 00:00:00
-level	ĉu ~	มันคือ ~ ?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	~ หรือไม่?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
 level	ĉu vi fartas bone?	คุณสบายดีไหม? (คุณเป็นอย่างไร?)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
-level	jes, mi fartas bone	ใช่ฉันสบายดี	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
-level	ne, tute ne	ไม่เลย	no, not at all	grupo	0    	0000-00-00 00:00:00
-level	tre, tro	มาก มากเกินไป	very, too much	grupo	0    	0000-00-00 00:00:00
-level	granda, grande	ใหญ่, ส่วนใหญ่	big, largely	grupo	0    	0000-00-00 00:00:00
-level	tre bona, tro granda	ใหญ่มาก ใหญ่เกินไป	very big, too big	grupo	0    	0000-00-00 00:00:00
-level	vi tre bone fartas	คุณทำได้ดีมาก	you are doing very well	grupo	0    	0000-00-00 00:00:00
-level	ne tre bone	ไม่ค่อยดีนัก	not very well	grupo	0    	0000-00-00 00:00:00
-level	lerni ~, lerno	การเรียนรู้การเรียนรู้	to learn, a learning	grupo	0    	0000-00-00 00:00:00
-level	vidanta, vidanto	กำลังมองหาผู้ชม	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
-level	lernanta, lernanto	คือการเรียนรู้ นักเรียน (ผู้เรียนรู้)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
-level	-anta, -anto	คือ -ing บุคคลที่กำลังทำ	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
-level	lernanto, lerninto	นักเรียนบุคคลที่ได้เรียนรู้	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	ใช่, ฉันสบายดี	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	ไม่, ไม่เลย	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	มาก, มากเกินไป	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	ใหญ่, อย่างใหญ่	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	ดีมาก, ใหญ่เกินไป	very good, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	คุณสบายดีมาก	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	ไม่ดีมาก	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	เรียน, การเรียน	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	ซึ่งกำลังเห็น, ผู้ที่กำลังเห็น	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	ซึ่งกำลังเรียน, ผู้ที่กำลังเรียน (นักเรียน)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	ซึ่งกำลัง..., ผู้ที่กำลัง	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	ผู้ที่กำลังเรียน (นักเรียน), ผู้ที่เรียนไปแล้ว	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
 level	mi estas lernanto	ฉันเป็นนักเรียน.	I am a student.	grupo	0    	0000-00-00 00:00:00
 level	~ estas mia amiko	~ เป็นเพื่อนของฉัน	~ is my friend	grupo	0    	0000-00-00 00:00:00
-level	li, ŝi	เขาเธอ	he, she	grupo	0    	0000-00-00 00:00:00
-level	sidi, sidas	นั่งนั่ง	to sit, sits	grupo	0    	0000-00-00 00:00:00
-level	sidanta, sidinta, sidonta	กำลังนั่ง กำลังนั่ง กำลังจะนั่ง	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
-level	li sidas kaj ŝi lernas	เขากำลังนั่งอยู่และเธอกำลังเรียนรู้	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	เขา, หล่อน	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	นั่ง, กำลังนั่ง	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	ซึ่งกำลังนั่ง, ซึ่งนั่งไปแล้ว, ซึ่งจะนั่ง	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	เขากำลังนั่งอยู่และเธอกำลังเรียน	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
 level	ĉambro	ห้อง	a room	grupo	0    	0000-00-00 00:00:00
-level	lernas en ĉambro	เรียนรู้ในห้อง	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	เรียนในห้อง	learns in a room	grupo	0    	0000-00-00 00:00:00
 level	lernanto kaj sportisto	นักเรียนและนักกีฬา	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
 level	sporto kaj sportisto	กีฬาและนักกีฬา	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
 level	sportisto nun sportas	นักกีฬากำลังเล่นกีฬา	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
 level	li estas lernanto	เขาเป็นนักเรียน	he is a student	grupo	0    	0000-00-00 00:00:00
 level	estas lernanto kaj sportisto	เขาเป็นนักเรียนและเป็นนักกีฬา	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
 level	li nun sidas	ตอนนี้เขากำลังนั่งอยู่	he is now sitting	grupo	0    	0000-00-00 00:00:00
-level	kaj nun lernas	และตอนนี้กำลังเรียนรู้อยู่	and is now learning	grupo	0    	0000-00-00 00:00:00
-level	sidas kaj lernas	กำลังนั่งและกำลังเรียนรู้	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	และตอนนี้กำลังเรียนอยู่	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	กำลังนั่งและกำลังเรียน	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
 level	nun en ĉambro	ตอนนี้อยู่ในห้อง	now in a room	grupo	0    	0000-00-00 00:00:00
 level	estas sur tablo	อยู่บนโต๊ะ	is on a table	grupo	0    	0000-00-00 00:00:00
-level	papero kaj paperoj	กระดาษและเอกสาร	a paper and papers	grupo	0    	0000-00-00 00:00:00
-level	tablo kaj tabloj	โต๊ะและโต๊ะ	a table and tables	grupo	0    	0000-00-00 00:00:00
-level	libro kaj libroj	หนังสือและหนังสือ	a book and books	grupo	0    	0000-00-00 00:00:00
-level	la paperoj kaj libroj	เอกสารและหนังสือ	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	กระดาษ 1 แผ่นและกระดาษหลายแผ่น	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	โต๊ะ 1 ตัวและโต๊ะหลายตัว	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	หนังสือ1 เล่มและหนังสือหลายเล่ม	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	กระดาษหลายแผ่นและหนังสือหลายเล่ม	the papers and books	grupo	0    	0000-00-00 00:00:00
 level	ĝi estas sur tablo	มันอยู่บนโต๊ะ	it is on a table.	grupo	0    	0000-00-00 00:00:00
-level	skribas sur la skribotablo	กำลังเขียนอยู่บนโต๊ะเขียน	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
-level	la libroj estas ~	หนังสือคือ ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	กำลังเขียนอยู่บนโต๊ะเขียนหนังสือ	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	หนังสือหลายเล่มนั้นคือ ~	the books are ~	grupo	0    	0000-00-00 00:00:00
 level	sur la tablo	บนโต๊ะ	on the table	grupo	0    	0000-00-00 00:00:00
 level	lernolibro kaj la lernolibroj	หนังสือเรียนและหนังสือเรียน	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
 level	sur la tablo estas ~	บนโต๊ะมี~	on the table there is ~	grupo	0    	0000-00-00 00:00:00

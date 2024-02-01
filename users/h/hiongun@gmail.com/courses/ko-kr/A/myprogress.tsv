@@ -63,7 +63,7 @@ Bonan nokton	jes, mi fartas bone	예, 나는 잘 지냅니다	yes, I'm fine	Bona
 Bonan nokton	ne, tute ne	아뇨, 전혀 아닙니다	no, not at all	Bonan nokton	4    	2023-06-18 14:45:47
 Bonan nokton	tre, tro	매우, 너무	very, too much	Bonan nokton	5    	2023-06-20 09:49:08
 Bonan nokton	granda, grande	커다란, 커다랗게	big, largely	Bonan nokton	4    	2023-06-19 09:49:38
-Bonan nokton	tre bona, tro granda	매우 좋은, 너무 큰	very big, too big	Bonan nokton	4    	2023-06-19 09:49:49
+Bonan nokton	tre bona, tro granda	매우 좋은, 너무 큰	very good, too big	Bonan nokton	4    	2023-06-19 09:49:49
 Bonan nokton	vi tre bone fartas	당신은 매우 잘 지냅니다	you are doing very well	Bonan nokton	5    	2023-06-20 09:50:12
 Bonan nokton	ne tre bone	썩 좋지는 않게	not very well	Bonan nokton	3    	2023-06-18 14:50:19
 Bonan nokton	lerni ~, lerno	~를 배우다, 배우기	to learn, a learning	Bonan nokton	3    	2023-06-18 14:50:45
@@ -738,7 +738,7 @@ Malbela Tago	vi ne estas malsaĝa	너는 멍청하지 않아	you are not stupid	
 Malbela Tago	la problemo estas, ke ~	문제라면, ~ 한 거야	the problem is that ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ke vi devas lerni	너가 공부해야하는 것	that you must learn	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	devas lerni multe pli	훨씬 많이 공부해야 한다	must learn much more	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	tiam vi ne havos	그 때 너는 가질 것이다	then you will not have	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	tiam vi ne havos	그 때 너는 가지지 못할 것이다	then you will not have	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	malbonaj notoj	나쁜 점수들	bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	havos nur malbonajn notojn	나쁜 점수들만 받게 될 것이다	will have only bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ankaŭ nun	지금도	also now	ĉiam Malfrue	0    	0000-00-00 00:00:00

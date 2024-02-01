@@ -63,7 +63,7 @@ Bonan nokton	jes, mi fartas bone	はい、私は元気です	yes, I'm fine	Bonan
 Bonan nokton	ne, tute ne	いいえ、まったくありません	no, not at all	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	tre, tro	非常に、あまりにも	very, too much	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	granda, grande	大きい、大きい	big, largely	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	tre bona, tro granda	とても良い、大きすぎる	very big, too big	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	tre bona, tro granda	とても良い、大きすぎる	very good, too big	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	vi tre bone fartas	あなたはとても元気です	you are doing very well	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ne tre bone	腐って良くないように	not very well	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lerni ~, lerno	~を学ぶ、学ぶ	to learn, a learning	Bonan nokton	0    	0000-00-00 00:00:00
@@ -738,7 +738,7 @@ Malbela Tago	vi ne estas malsaĝa	あなたは愚かではありません。	you
 Malbela Tago	la problemo estas, ke ~	問題なら、〜したの	the problem is that ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ke vi devas lerni	勉強すべきこと	that you must learn	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	devas lerni multe pli	はるかに勉強しなければならない	must learn much more	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	tiam vi ne havos	それからあなたは持っているでしょう	then you will not have	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	tiam vi ne havos	それからあなたは持っていないでしょう	then you will not have	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	malbonaj notoj	悪いスコア	bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	havos nur malbonajn notojn	悪いスコアだけが届くでしょう	will have only bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ankaŭ nun	今でも	also now	ĉiam Malfrue	0    	0000-00-00 00:00:00
