@@ -1,0 +1,81 @@
+2024-02-13 16:09:29	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-02-13 16:09:29	/api/get_course_info.api	a@a.com	ko-kr
+2024-02-13 16:10:12	/api/get_course_info.api	a@a.com	ko-kr
+2024-02-13 16:10:49	/api/get_course_info.api	a@a.com	ko-kr
+2024-02-13 16:11:34	/api/get_course_info.api	a@a.com	en-us
+2024-02-13 16:11:41	/api/get_course_info.api	a@a.com	ko-kr
+2024-02-13 16:16:46	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-02-13 16:16:46	/api/get_course_info.api	a@a.com	ko-kr
+2024-02-13 16:16:47	/api/get_course_info.api	a@a.com	ko-kr
+2024-02-13 16:16:48	/api/session-start.api	a@a.com	ko-kr	A
+2024-02-13 16:16:48	/api/card-next.api	a@a.com	A	ko-kr	via nomo estas ~	6	./quizF.html	female1
+2024-02-13 16:16:52	/api/playsound.api	a@a.com	female1/via nomo estas ~.mp3
+2024-02-13 16:16:53	/api/card-next.api	a@a.com	A	ko-kr	kio estas via nomo?	5	./quizH.html	ludoviko
+2024-02-13 16:16:53	/api/playsound.api	a@a.com	female1/via nomo estas ~.mp3
+2024-02-13 16:16:55	/api/similar-words.api	a@a.com	A	ko-kr	kio estas via nomo?
+2024-02-13 16:17:05	/api/put-score.api	a@a.com	A	ko-kr	kion vi atendas?	-1
+2024-02-13 16:17:05	/api/playsound.api	a@a.com	male1/kion vi atendas?.mp3
+2024-02-13 16:17:05	/api/put-score.api	a@a.com	A	ko-kr	kio estas ŝia nomo?	-1
+2024-02-13 16:17:05	/api/playsound.api	a@a.com	female1/kio estas ŝia nomo?.mp3
+2024-02-13 16:17:06	/api/put-score.api	a@a.com	A	ko-kr	kio estas via nomo?	1
+2024-02-13 16:17:06	/api/playsound.api	a@a.com	male1/kio estas via nomo?.mp3
+2024-02-13 16:17:07	/api/card-next.api	a@a.com	A	ko-kr	ĉu ili estas viaj lernantoj?	8	./quizG.html	female1
+2024-02-13 16:17:07	/api/playsound.api	a@a.com	male2/kio estas via nomo?.mp3
+2024-02-13 16:17:10	/api/similar-words.api	a@a.com	A	ko-kr	ĉu ili estas viaj lernantoj?
+2024-02-13 16:17:12	/api/put-score.api	a@a.com	A	ko-kr	ĉu ili estas viaj lernantoj?	1
+2024-02-13 16:17:12	/api/playsound.api	a@a.com	female1/ĉu ili estas viaj lernantoj?.mp3
+2024-02-13 16:17:15	/api/card-next.api	a@a.com	A	ko-kr	ĉu vi estas lernanto?	8	./quizE.html	male1
+2024-02-13 16:17:15	/api/playsound.api	a@a.com	ludoviko/ĉu ili estas viaj lernantoj?.mp3
+2024-02-13 16:17:19	/api/playsound.api	a@a.com	male1/ĉu vi estas lernanto?.mp3
+2024-02-13 16:17:22	/api/card-next.api	a@a.com	A	ko-kr	ĉu vi estas en la ĉambro?	8	./quizE.html	male1
+2024-02-13 16:17:22	/api/playsound.api	a@a.com	male2/ĉu vi estas lernanto?.mp3
+2024-02-13 16:17:25	/api/playsound.api	a@a.com	male1/ĉu vi estas en la ĉambro?.mp3
+2024-02-13 16:17:27	/api/card-next.api	a@a.com	A	ko-kr	mi ne estas ~	8	./quizI.html	female1
+2024-02-13 16:17:27	/api/playsound.api	a@a.com	ludoviko/ĉu vi estas en la ĉambro?.mp3
+2024-02-13 16:17:30	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	mi
+2024-02-13 16:17:30	/api/playsound.api	a@a.com	female1/mi ne estas ~.mp3
+2024-02-13 16:17:33	/api/playsound.api	a@a.com	male2/mi ne estas ~.mp3
+2024-02-13 16:17:37	/api/card-next.api	a@a.com	A	ko-kr	esperantisto kaj esperantistino	8	./quizD.html	male1
+2024-02-13 16:17:37	/api/playsound.api	a@a.com	female1/mi ne estas ~.mp3
+2024-02-13 16:17:39	/api/similar-words-kor.api	a@a.com	A	ko-kr	에스페란티스토와 여성에스페란티스토
+2024-02-13 16:17:40	/api/put-score-kor.api	a@a.com	A	ko-kr	언어학자와 여성 노동자	-1
+2024-02-13 16:17:41	/api/put-score-kor.api	a@a.com	A	ko-kr	에스페란토를 배우기 위한 책	-1
+2024-02-13 16:17:41	/api/put-score-kor.api	a@a.com	A	ko-kr	에스페란토 교과서가 ~인가?	-1
+2024-02-13 16:17:42	/api/put-score-kor.api	a@a.com	A	ko-kr	에스페란티스토와 여성에스페란티스토	1
+2024-02-13 16:17:42	/api/playsound.api	a@a.com	female1/esperantisto kaj esperantistino.mp3
+2024-02-13 16:17:45	/api/card-next.api	a@a.com	A	ko-kr	enskribis por la hotelĉambro	8	./quizH.html	male1
+2024-02-13 16:17:45	/api/playsound.api	a@a.com	female2/esperantisto kaj esperantistino.mp3
+2024-02-13 16:17:48	/api/similar-words.api	a@a.com	A	ko-kr	enskribis por la hotelĉambro
+2024-02-13 16:17:49	/api/put-score.api	a@a.com	A	ko-kr	ĵetis siajn malsekajn branĉojn	-1
+2024-02-13 16:17:49	/api/playsound.api	a@a.com	female1/ĵetis siajn malsekajn branĉojn.mp3
+2024-02-13 16:17:49	/api/put-score.api	a@a.com	A	ko-kr	enskribis por la hotelĉambro	1
+2024-02-13 16:17:49	/api/playsound.api	a@a.com	female2/enskribis por la hotelĉambro.mp3
+2024-02-13 16:17:52	/api/card-next.api	a@a.com	A	ko-kr	lia amikino estas ~	8	./quizI.html	female2
+2024-02-13 16:17:52	/api/playsound.api	a@a.com	female2/enskribis por la hotelĉambro.mp3
+2024-02-13 16:17:54	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	lia
+2024-02-13 16:18:00	/api/playsound.api	a@a.com	female2/lia amikino estas ~.mp3
+2024-02-13 16:18:04	/api/card-next.api	a@a.com	A	ko-kr	lernantoj kaj sportistoj	8	./quizB.html	male1
+2024-02-13 16:18:04	/api/playsound.api	a@a.com	male1/lia amikino estas ~.mp3
+2024-02-13 16:18:06	/api/similar-words.api	a@a.com	A	ko-kr	lernantoj kaj sportistoj
+2024-02-13 16:18:07	/api/playsound.api	a@a.com	female2/esperantisto kaj esperantistino.mp3
+2024-02-13 16:18:11	/api/put-score.api	a@a.com	A	ko-kr	esperantisto kaj esperantistino	1
+2024-02-13 16:18:11	/api/playsound.api	a@a.com	female2/esperantisto kaj esperantistino.mp3
+2024-02-13 16:18:14	/api/playsound.api	a@a.com	female1/estas lernanto kaj sportisto.mp3
+2024-02-13 16:18:16	/api/put-score.api	a@a.com	A	ko-kr	estas lernanto kaj sportisto	-1
+2024-02-13 16:18:18	/api/put-score.api	a@a.com	A	ko-kr	estas lernanto kaj sportisto	1
+2024-02-13 16:18:18	/api/playsound.api	a@a.com	ludoviko/estas lernanto kaj sportisto.mp3
+2024-02-13 16:18:21	/api/playsound.api	a@a.com	male2/lernantoj kaj sportistoj.mp3
+2024-02-13 16:18:24	/api/put-score.api	a@a.com	A	ko-kr	lernantoj kaj sportistoj	-1
+2024-02-13 16:18:25	/api/playsound.api	a@a.com	male2/lernantoj kaj sportistoj.mp3
+2024-02-13 16:18:25	/api/put-score.api	a@a.com	A	ko-kr	lernantoj kaj sportistoj	1
+2024-02-13 16:18:27	/api/playsound.api	a@a.com	female2/lernanto kaj sportisto.mp3
+2024-02-13 16:18:29	/api/put-score.api	a@a.com	A	ko-kr	lernanto kaj sportisto	1
+2024-02-13 16:18:29	/api/playsound.api	a@a.com	female2/lernanto kaj sportisto.mp3
+2024-02-13 16:18:31	/api/session-finish.api	a@a.com	ko-kr	A
+2024-02-13 16:18:32	/api/get_course_info.api	a@a.com	ko-kr
+2024-02-13 16:37:21	/api/get_course_info.api	a@a.com	ko-kr
+2024-02-13 16:37:31	/api/logout.api	a@a.com	ko-kr	A
+2024-02-13 16:50:26	/api/login.api	a@a.com	a@a.com	en-us
+2024-02-13 16:50:26	/api/get_course_info.api	a@a.com	en-us
+2024-02-13 16:51:34	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-02-13 16:51:34	/api/get_course_info.api	a@a.com	ko-kr

@@ -232,7 +232,7 @@ def get_course_info():
             if len(row) < 7:
                 continue
             # rows.append(row)
-            if int(row[5].strip()) >= 5: mastered_count += 1   
+            if int(row[5].strip()) >= 4: mastered_count += 1   
             elif int(row[5].strip()) >= 3: familiar_count += 1  
             elif int(row[5].strip()) >= 1: done_count += 1                               
             elif int(row[5].strip()) > 0: started_count += 1
@@ -402,14 +402,13 @@ def next_review_time(count, score):
     t0 = time.time()
     if count == 0: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 2*60))
     if count == 1: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 20*60))
-    if count == 2: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 5*60*60))
-    if count == 3: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 24*60*60))
-    if count == 4: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 2*24*60*60))
-    if count == 5: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 10*24*60*60))
-    if count == 6: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 20*24*60*60))
-    if count == 7: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 60*24*60*60))
-    if count == 8: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 180*24*60*60))
-    if count >= 9: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 720*24*60*60))
+    if count == 2: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 12*60*60))
+    if count == 3: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 2*24*60*60))
+    if count == 4: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 10*24*60*60))
+    if count == 5: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 20*24*60*60))
+    if count == 6: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 60*24*60*60))
+    if count == 7: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 180*24*60*60))
+    if count >= 8: next_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t0 + 720*24*60*60))
 
     return (count, next_str)
 
@@ -861,14 +860,14 @@ def calc_progress(rows):
     score = 0.0
     for row in rows:
         cnt = int(row[5])
-        if cnt >= 5: score += 1.0
+        if cnt >= 4: score += 1.0
         elif cnt >= 3: score += 0.5
         elif cnt >= 1: score += 0.3
         elif cnt > 0: score += 0.1
     # print("rows=%d" % len(rows))
     return (score / len(rows))*100.0
     
-next_time = [2*60, 20*60, 5*60*60, 1*24*60*60, 2*24*60*60, 10*24*60*60, 20*24*60*60, 60*24*60*60, 180*24*60*60, 720*24*60*60]
+next_time = [2*60, 20*60, 12*60*60, 2*24*60*60, 10*24*60*60, 20*24*60*60, 60*24*60*60, 180*24*60*60, 720*24*60*60]
 
 def do_one_card(rows, t):
     global next_time
@@ -1069,7 +1068,11 @@ def get_users_stats():
                     stat["login"]["count"] += 1
                     if not row[4] in stat["login"]:
                         stat["login"][row[4]] = {}
-                    stat["login"][row[4]][row[2]] = row[0]
+                    # stat["login"][row[4]][row[2]] = row[0]
+                    if row[2] in stat["login"][row[4]]:
+                        stat["login"][row[4]][row[2]] += 1
+                    else:
+                        stat["login"][row[4]][row[2]] = 1
                 if row[1] == "/api/session-start.api":
                     if not "sessionstart" in stat:
                         stat["sessionstart"] = {}
@@ -1077,7 +1080,11 @@ def get_users_stats():
                     stat["sessionstart"]["count"] += 1
                     if not row[3]+"."+row[4] in stat["sessionstart"]:
                         stat["sessionstart"][row[3]+"."+row[4]] = {}
-                    stat["sessionstart"][row[3]+"."+row[4]][row[2]] = row[0]
+                    # stat["sessionstart"][row[3]+"."+row[4]][row[2]] = row[0]
+                    if row[2] in stat["sessionstart"][row[3]+"."+row[4]]:
+                        stat["sessionstart"][row[3]+"."+row[4]][row[2]] += 1
+                    else:
+                        stat["sessionstart"][row[3]+"."+row[4]][row[2]] = 1
                 if row[1] == "/api/session-finish.api":
                     if not "sessionfinish" in stat:
                         stat["sessionfinish"] = {}
@@ -1085,7 +1092,11 @@ def get_users_stats():
                     stat["sessionfinish"]["count"] += 1
                     if not row[3]+"."+row[4] in stat["sessionfinish"]:
                         stat["sessionfinish"][row[3]+"."+row[4]] = {}
-                    stat["sessionfinish"][row[3]+"."+row[4]][row[2]] = row[0]
+                    # stat["sessionfinish"][row[3]+"."+row[4]][row[2]] = row[0]
+                    if row[2] in stat["sessionfinish"][row[3]+"."+row[4]]:
+                        stat["sessionfinish"][row[3]+"."+row[4]][row[2]] += 1
+                    else:
+                        stat["sessionfinish"][row[3]+"."+row[4]][row[2]] = 1
             fp.close()
 
     return stat

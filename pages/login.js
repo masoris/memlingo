@@ -6,10 +6,14 @@ function isValidEmail(email) {
 function onlogin_click() {
     const email1 = $('email1').value;
     const email2 = $('email2').value;
+    if (document.querySelector('input[name="lang"]:checked') == null) {
+        alert("Please choose your language");
+        return;
+    }
     const lang = localStorage.lang;
     if (email1 != email2 || !isValidEmail(email1)) {
-        alert("Email1 is not same with Email2 or Invalid Email format")
-        return
+        alert("Email1 is not same with Email2 or Invalid Email format");
+        return;
     }
 
     // background-color: #4c5b75;
@@ -53,6 +57,9 @@ function enable_disable_login_button() {
 };
 
 function lang_changed() {
+    if (document.querySelector('input[name="lang"]:checked') == null) {
+        return;
+    }
     var selected_lang = document.querySelector('input[name="lang"]:checked').value;
     const rtl_langs = ["fa", "ur", "he", "ar"];
     localStorage.lang = selected_lang;
@@ -148,9 +155,10 @@ window.onload = function () {
     if (localStorage.getItem('lang') != null) {
         var lang = localStorage.getItem('lang');
         $("radio-" + lang).checked = true;
-    } else {
-        $("radio-ko-kr").checked = true;
     }
+    // } else {
+    //     $("radio-ko-kr").checked = true;
+    // }
 
     lang_changed();
     // display_message();

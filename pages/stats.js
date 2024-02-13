@@ -77,4 +77,5 @@ function users_stats() {
 window.onload = function () {
 
     $("users").onclick = users_stats;
+    users_stats();
 };

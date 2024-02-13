@@ -8,7 +8,7 @@ Saluton	mia, via	나의, 당신의	my, your	Saluton	9    	2024-05-02 16:12:00
 Saluton	nomo	이름	a name	Saluton	9    	2024-05-02 16:13:00
 Saluton	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	Saluton	9    	2024-05-02 16:14:00
 Saluton	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	Saluton	9    	2024-05-02 16:15:00
-Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	6    	2024-01-29 21:52:46
+Saluton	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	Saluton	7    	2024-04-13 16:16:53
 Saluton	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did	Saluton	9    	2024-05-02 16:17:00
 Saluton	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, were (future) will be	Saluton	9    	2024-05-03 16:18:00
 Saluton	nomo, nomon	이름, 이름을	a name, an (objective) name	Saluton	9    	2024-05-03 16:19:00
@@ -17,7 +17,7 @@ Saluton	vi fartas	당신은 지낸다	you are doing ~	Saluton	9    	2024-05-03 1
 Saluton	kiel	어떻게	how	Saluton	9    	2024-05-03 16:22:00
 Saluton	kiel vi fartas?	당신은 어떻게 지내세요?	how are you doing?	Saluton	9    	2024-05-03 16:23:00
 Saluton	kio	무엇	what	Saluton	9    	2024-05-03 16:24:00
-Saluton	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	Saluton	5    	2023-12-31 16:42:04
+Saluton	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	Saluton	7    	2024-04-13 16:17:07
 Saluton	bona, bone	좋은 (형용사), 잘 (부사)	good, well	Saluton	9    	2024-05-03 16:26:00
 Saluton	fartas bone	잘 지낸다 (지내고 있다)	is doing well	Saluton	9    	2024-05-03 16:27:00
 Saluton	mi fartas bone	나는 잘 지냅니다	I am doing well	Saluton	9    	2024-05-03 16:28:00
@@ -79,11 +79,11 @@ Bonan nokton	sidanta, sidinta, sidonta	앉아 있는, 앉았던, 앉을 예정�
 Bonan nokton	li sidas kaj ŝi lernas	그는 앉아 있고, 그녀는 배우고 있다	he is sitting and she is learning	Bonan nokton	9    	2024-05-10 16:10:00
 Bonan nokton	ĉambro	방	a room	Bonan nokton	9    	2024-05-10 16:11:00
 Bonan nokton	lernas en ĉambro	방안에서 배운다	learns in a room	Bonan nokton	9    	2024-05-10 16:12:00
-Bonan nokton	lernanto kaj sportisto	배우는 사람과 운동선수	a student and a sportsman	Bonan nokton	9    	2024-05-11 16:13:00
+Bonan nokton	lernanto kaj sportisto	배우는 사람과 운동선수	a student and a sportsman	Bonan nokton	10   	2026-02-02 16:18:29
 Bonan nokton	sporto kaj sportisto	스포츠와 운동선수	sport and a sportsman	Bonan nokton	9    	2024-05-11 16:14:00
 Bonan nokton	sportisto nun sportas	운동선수는 지금 운동을 하고 있다	a sportsman is sporting	Bonan nokton	9    	2024-05-11 16:15:00
 Bonan nokton	li estas lernanto	그는 배우는 사람이다	he is a student	Bonan nokton	9    	2024-05-11 16:27:00
-Bonan nokton	estas lernanto kaj sportisto	배우는 사람이고 스포츠맨이다	he is a student and a sportman	Bonan nokton	9    	2024-05-11 16:28:00
+Bonan nokton	estas lernanto kaj sportisto	배우는 사람이고 스포츠맨이다	he is a student and a sportman	Bonan nokton	6    	2024-03-04 16:18:18
 Bonan nokton	li nun sidas	그는 지금 앉아있다	he is now sitting	Bonan nokton	9    	2024-05-11 16:36:00
 Bonan nokton	kaj nun lernas	그리고 지금 배우고있다	and is now learning	Bonan nokton	9    	2024-05-11 16:37:00
 Bonan nokton	sidas kaj lernas	앉아서 배우고 있다	is sitting and is learning	Bonan nokton	9    	2024-05-11 16:38:00
@@ -112,7 +112,7 @@ Amiko	ŝi estas instruistino	그녀는 여선생님이다	she is a teacher	Amiko
 Amiko	ĉu ŝi estas patrino?	그녀는 어머니인가?	is she a mother?	Amiko	9    	2024-05-14 16:31:00
 Amiko	ne, ŝi estas hotelisto	아니오, 그녀는 호텔직원입니다	no, she is an hotelier	Amiko	9    	2024-05-14 16:32:00
 Amiko	ne, mi ne laboras	아니오, 저는 일하지 않습니다	no, I don't work	Amiko	9    	2024-05-14 16:33:00
-Amiko	kio estas ŝia nomo?	그녀의 이름은 무엇인가요?	what is her name?	Amiko	9    	2024-05-14 16:34:00
+Amiko	kio estas ŝia nomo?	그녀의 이름은 무엇인가요?	what is her name?	Amiko	5    	2024-02-23 16:17:05
 Amiko	kiu nun respondas?	누가 지금 대답하고 있습니까?	who is now answering?	Amiko	10   	2025-12-18 16:41:46
 Amiko	la lingvo de ilia patrino	그들 어머니의 그 언어	the language of their mother	Amiko	10   	2025-12-18 16:41:55
 Amiko	ĉu via nomo estas ~ ?	당신의 이름이 ~ 입니까?	is your name ~ ?	Amiko	10   	2025-12-18 16:42:08
@@ -122,15 +122,15 @@ Amiko	ĝia nomo ne estas ~	그것의 이름은 ~가 아니다	its name is not ~	
 Amiko	ŝia lingvo estas ilia lingvo	그녀의 언어가 그들의 언어이다	her language is their language	Amiko	10   	2025-12-18 16:42:34
 Amiko	nia patro kaj patrino	우리의 아버지와 어머니	our father and mother	Amiko	9    	2024-06-26 16:42:40
 Amiko	via lernanto, viaj lernantoj	당신의 학생, 당신의 학생들	your student, your students	Amiko	9    	2024-06-26 16:42:46
-Amiko	ĉu ili estas viaj lernantoj?	그들이 당신의 학생들입니까?	are they your students?	Amiko	8    	2023-11-18 16:16:00
-Amiko	ĉu vi estas lernanto?	당신은 학생인가?	are you a student?	Amiko	8    	2023-11-18 16:17:00
-Amiko	ĉu vi estas en la ĉambro?	너는 그 방에 있는가?	are you in the room?	Amiko	8    	2023-11-18 16:18:00
-Amiko	mi ne estas ~	나는 ~이지 않다	I'm not ~	Amiko	8    	2023-11-18 16:19:00
-Amiko	esperantisto kaj esperantistino	에스페란티스토와 여성에스페란티스토	an Esperantist and a female Esperantist	Amiko	8    	2023-11-18 16:20:00
-Amiko	enskribis por la hotelĉambro	그 호텔방을 위해 예약했다	checked in for the hotel room	Amiko	8    	2023-11-18 16:21:00
-Amiko	lingvisto kaj laboristino	언어학자와 여성 노동자	a linguist and a female worker	Amiko	8    	2023-11-18 16:22:00
-Amiko	lia amikino estas ~	그의 여자친구는 ~이다	his girl friend is ~	Amiko	8    	2023-11-19 16:13:00
-Amiko	lernantoj kaj sportistoj	학생들과 운동선수들	students and sportsmen	Amiko	8    	2023-11-19 16:14:00
+Amiko	ĉu ili estas viaj lernantoj?	그들이 당신의 학생들입니까?	are they your students?	Amiko	10   	2026-02-02 16:17:15
+Amiko	ĉu vi estas lernanto?	당신은 학생인가?	are you a student?	Amiko	9    	2026-02-02 16:17:22
+Amiko	ĉu vi estas en la ĉambro?	너는 그 방에 있는가?	are you in the room?	Amiko	9    	2026-02-02 16:17:27
+Amiko	mi ne estas ~	나는 ~이지 않다	I'm not ~	Amiko	9    	2026-02-02 16:17:37
+Amiko	esperantisto kaj esperantistino	에스페란티스토와 여성에스페란티스토	an Esperantist and a female Esperantist	Amiko	11   	2026-02-02 16:18:11
+Amiko	enskribis por la hotelĉambro	그 호텔방을 위해 예약했다	checked in for the hotel room	Amiko	10   	2026-02-02 16:17:52
+Amiko	lingvisto kaj laboristino	언어학자와 여성 노동자	a linguist and a female worker	Amiko	5    	2024-02-23 16:17:40
+Amiko	lia amikino estas ~	그의 여자친구는 ~이다	his girl friend is ~	Amiko	9    	2026-02-02 16:18:04
+Amiko	lernantoj kaj sportistoj	학생들과 운동선수들	students and sportsmen	Amiko	6    	2024-03-04 16:18:25
 Amiko	mia familia nomo estas ~	내 성(가족명)은 ~ 이다	my familia name is ~	Amiko	8    	2023-11-19 16:15:00
 Amiko	kiu estas ŝi?	그녀는 누구인가?	who is she? which is she?	Amiko	8    	2023-11-19 16:18:00
 Amiko	estas via amikino	너의 여자친구이다	is your girl friend	Amiko	8    	2023-11-19 16:19:00
@@ -140,7 +140,7 @@ Amiko	ĉu la amiko de via patro ~ ?	너의 아버지의 그 친구는 ~ ?	is the
 Amiko	laboras en hotelo	호텔에서 일한다	works in a hotel	Amiko	8    	2023-11-21 16:27:00
 Amiko	kio estas sur la tablo?	그 테이블 위에 무엇이 있는가?	what is on the table?	Amiko	8    	2023-11-21 16:36:00
 Amiko	sur la tablo en nia ĉambro	우리 방안의 그 테이블 위에	on the table in our room	Amiko	8    	2023-11-21 16:37:00
-Amiko	ĉu la lernolibro de Esperanto ~ ?	에스페란토 교과서가 ~인가?	is the Esperanto textbook ~ ?	Amiko	8    	2023-11-21 16:38:00
+Amiko	ĉu la lernolibro de Esperanto ~ ?	에스페란토 교과서가 ~인가?	is the Esperanto textbook ~ ?	Amiko	5    	2024-02-23 16:17:41
 Amiko	estas sur via tablo	당신의 탁자 위에 있다.	is on your table	Amiko	8    	2023-11-21 16:39:00
 Amiko	havas amikinon	여자친구가 있다	has a friend	Amiko	8    	2023-11-21 16:40:00
 Amiko	ŝia nomo estas ~	그녀의 이름은 ~이다	her name is ~	Amiko	8    	2023-11-21 16:41:00
@@ -214,7 +214,7 @@ En kafejo	vidas, ke mi manĝas	보고 있다, 내가 먹고 있는 것을	sees, 
 En kafejo	diris, ke li iros	얘기했다, 그가 갈 것이라고	said, that he will go	En kafejo	8    	2023-12-01 16:36:00
 En kafejo	malbela kaj malbona	추하고 나쁜	ugly and bad	En kafejo	8    	2023-12-01 16:37:00
 En kafejo	kion ŝi diris?	그녀가 뭘 얘기했는가?	what did she say?	En kafejo	8    	2023-12-01 16:38:00
-En kafejo	kion vi atendas?	너는 무엇을 기다리고 있는가?	what are you waiting for?	En kafejo	8    	2023-12-01 16:39:00
+En kafejo	kion vi atendas?	너는 무엇을 기다리고 있는가?	what are you waiting for?	En kafejo	5    	2024-02-23 16:17:05
 En kafejo	eniris en la ĉambron	그 방 안으로 들어갔다	went into the room	En kafejo	8    	2023-12-01 16:40:00
 En kafejo	enhavo estis tre malfacila	내용이 매우 어려웠다	a content is very difficult	En kafejo	8    	2023-12-01 16:41:00
 En kafejo	alvenis al la kunsido	그 회의에 도착했다	arrived at the meeting	En kafejo	8    	2023-12-02 16:13:00
@@ -824,7 +824,7 @@ Planoj pri Veturado	kie estas mia vestaĵo?	나의 옷가지는 어디에 있는
 Planoj pri Veturado	ŝi demandis ~	그녀는 ~를 물어보았다	she asked ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ni ne forgesu kunporti ~	~를 가지고 가는 것을 우리 잊지 말자	let's not forget to bring ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kunporti la libron	그 책을 휴대하다	to take the book with you	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	libro por lerni Esperanton	에스페란토를 배우기 위한 책	a book to learn Esperanto	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	libro por lerni Esperanton	에스페란토를 배우기 위한 책	a book to learn Esperanto	Planoj pri Veturado	1    	2024-02-13 16:19:41
 Planoj pri Veturado	kunporti libron por lerni	학습하기 위한 책을 휴대하다	to carry a book to learn	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ni povas komenci ~	우리는 ~을 시작할 수 있다	we can start ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	en la vagonaro	그 기차 안에	in the train	Planoj pri Veturado	0    	0000-00-00 00:00:00
@@ -1250,7 +1250,7 @@ Nokta Promeno	laŭeble plej malmulte da bruo	가능한한 소음이 적게 (laŭ
 Nokta Promeno	ili preskaŭ plene sukcesis	그들은 거의 완전히 성공했다	they almost fully succeeded	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en ĉi tiu aĉa situacio	이러한 불쾌한 상황에서	in this nasty situation	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	aĉa situacio, kie arboj ĵetis siajn branĉojn	불쾌한 상황, 나무들이 자기 가지들을 던지는 그러한	a nasty situation where trees threw their branches	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ĵetis siajn malsekajn branĉojn	자기 젖은 가지들을 던졌다	threw their own wet branches	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ĵetis siajn malsekajn branĉojn	자기 젖은 가지들을 던졌다	threw their own wet branches	Nokta Promeno	1    	2024-02-13 16:19:49
 Nokta Promeno	rekte en la vizaĝojn	그 얼굴들로 곧바로	straight into the faces	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	de la industriisto	그 산업가의	of the industrialist	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	multpiedaj bestetoj	발이 많은 작은 동물들	multi-footed small creatures	Nokta Promeno	0    	0000-00-00 00:00:00

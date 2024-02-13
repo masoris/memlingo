@@ -39,6 +39,7 @@ function onlogout_click() {
 function update_course_info() {
     // alert("update_course_info");
     user_courses = JSON.parse(localStorage.user_courses);
+    lang = localStorage.lang;
     if (user_courses.A == null) {
         alert("user_courses not available");
         return
@@ -58,6 +59,9 @@ function update_course_info() {
         console.log(X);
     }
     $("Course_table").innerHTML += "<tr><td>" + course_table_Z + "</td></tr>";
+    if (lang == "ko-kr") {
+        $("Course_table").innerHTML += "<tr><td>" + course_table_HD + "</td></tr>";
+    }
     for (var X in user_courses) {
         console.log(X);
         var btn_ID = 'Btn_Start' + X;
@@ -72,6 +76,11 @@ function update_course_info() {
     }
 
     $('Btn_Start_Z').onclick = Zagreba_click;
+    if (lang == "ko-kr") {
+        $('Btn_Start_HD1').onclick = HD1_click;
+        $('Btn_Start_HD2').onclick = HD2_click;
+        $('Btn_Start_HD3').onclick = HD3_click;
+    }
 }
 
 function lang_changed() {
@@ -100,6 +109,16 @@ function Zagreba_click() {
 
     // window.location.href = "https://esperanto12.net/" + lang;
     window.open("https://esperanto12.net/" + lang);
+}
+
+function HD1_click() {
+    window.open("https://youtube.com/playlist?list=PLHxhJDSF8_VbYSttcG3Gc2DKpvighf3E6&si=Oyc1YBE6JDCRXg24")
+}
+function HD2_click() {
+    window.open("https://youtube.com/playlist?list=PLHxhJDSF8_VYwavvr90tekr7z5EJAoP05&si=Y1cedHmtLNJsiQL6")
+}
+function HD3_click() {
+    window.open("https://youtube.com/playlist?list=PLHxhJDSF8_Vas3E6Uflrlh2xZX5g2vEm0&si=tzpAREWDW_CvBa5D")
 }
 
 window.onload = function () {

@@ -1,0 +1,19 @@
+body{
+  margin: 0px;
+  background-color: #03bf6b;
+}
+
+.Rectangle {
+    width: 100%;
+    height: 100%;
+    padding: 287px 0px 285px 0px;
+    background-color: #03bf6b;
+  }
+img.logo_loading_white {
+    width: 209px;
+    height: 68px;
+    /* padding: 0 0 1px; */
+    object-fit: contain;
+    left: calc(50% - 104px);
+    position: relative;
+  }
