@@ -1,3 +1,5 @@
+# pip install google-auth-oauthlib
+# pip3 install googleapiclient
 from __future__ import print_function
 import base64
 import os.path
@@ -46,6 +48,27 @@ def send_message(service, user_id, message):
     except Exception as error:
         print(error)
 
+fp = open("sendmail.txt", "r")
+sendmail_txt = []
+subject = ""
+for line in fp:
+    if (line.find("SUBJECT:") == 0):
+        subject = line[9:]
+        continue
+    sendmail_txt.append(line)
+fp.close()
 
-message = create_message('me', 'masoristx82@gmail.com', 'Ĉiŭĵaŭde 한글 ', '<font color=red>Những từ cần ôn lại</font>')
+mail_txt = "<br>".join(sendmail_txt)
+
+fp = open("./pages/sendmail.html", "r")
+sendmail_html = []
+for line in fp:
+    if (line.find("$EMAILCONTENTS$") >= 0):
+        line = line.replace("$EMAILCONTENTS$", mail_txt)
+    sendmail_html.append(line)
+fp.close()
+
+body_html = "".join(sendmail_html)
+
+message = create_message('Memlingo <memlingo.service@gmail.com>', 'masoristx82@gmail.com', subject, body_html)
 print(send_message(service=service, user_id='me', message=message))
