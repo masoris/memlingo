@@ -61,6 +61,23 @@ def is_recent_login(email):
     else:
         return False
 
+def unsubscribe_email(email):
+    # 개인 홈 디렉토리 생성
+    user_dir = os.path.join("./users", email[0], email)
+    if not os.path.exists(user_dir):
+        os.makedirs(user_dir)
+
+    user_info = {}
+    user_info_file = os.path.join(user_dir, "userinfo.json")
+    with open(user_info_file, "r", encoding='utf-8') as f:
+        user_info_json = f.read()    
+        user_info = json.loads(user_info_json)
+        user_info["unsubscribe"] = "YES"
+
+    with open(user_info_file, "w", encoding='utf-8') as f:
+        json.dump(user_info, f)  
+
+
 def update_experience_points(email, point):
     # 개인 홈 디렉토리 생성
     user_dir = os.path.join("./users", email[0], email)
@@ -259,6 +276,15 @@ def get_course_info():
     resp = make_response(jsonify(result))
     return resp
 
+@app.route('/api/unsubscribe.api', methods=['GET'])
+def unsubscribe():
+    if request.method == 'GET':
+        email = request.args['email']
+    LOG("/api/unsubscribe.api\t%s" % (email))
+    unsubscribe_email(email)
+    resp = "<br><br><br>Successfully unsubscribed. Thank you.<br><br><br>"
+    return resp
+
 #  /api/login.api
 #           input: email1, email2, lang
 #output: userid, email, cookie:login_status, lang, courses{제목, 짧은 설명, 긴 설명, Points, Progress, Total_count, Needs_Review, Not_Seen, Familiar, Mastered}
@@ -300,7 +326,7 @@ def login():
     
     #처음에 들어온 이메일 이면 해당 사용자의 홈 디렉토리를 만들고, 해당 폴더를 초기화 시켜준다.
     user_dir = os.path.join("./users", email1[0], email1)
-    if not os.path.exists(user_dir):
+    if (not os.path.exists(user_dir)) or (not os.path.exists(user_dir+"/userinfo.json")):
         create_user(email1, lang)
 
     if is_recent_login(email1):

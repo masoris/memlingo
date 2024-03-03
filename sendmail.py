@@ -1,7 +1,7 @@
 # pip install google-auth-oauthlib
 # pip3 install googleapiclient
 from __future__ import print_function
-import base64
+import base64, sys
 import os.path
 from email.mime.text import MIMEText
 from googleapiclient.discovery import build
@@ -48,27 +48,40 @@ def send_message(service, user_id, message):
     except Exception as error:
         print(error)
 
-fp = open("sendmail.txt", "r")
-sendmail_txt = []
-subject = ""
-for line in fp:
-    if (line.find("SUBJECT:") == 0):
-        subject = line[9:]
-        continue
-    sendmail_txt.append(line)
-fp.close()
+def sendmail(toemail, sendmail_txt, sendmail_html):
+    fp = open(sendmail_txt, "r")
+    mail_lines = []
+    subject = ""
+    for line in fp:
+        if (line.find("SUBJECT:") == 0):
+            subject = line[9:]
+            continue
+        mail_lines.append(line)
+    fp.close()
 
-mail_txt = "<br>".join(sendmail_txt)
+    mail_txt = "<br>".join(mail_lines)
 
-fp = open("./pages/sendmail.html", "r")
-sendmail_html = []
-for line in fp:
-    if (line.find("$EMAILCONTENTS$") >= 0):
-        line = line.replace("$EMAILCONTENTS$", mail_txt)
-    sendmail_html.append(line)
-fp.close()
+    fp = open(sendmail_html, "r")
+    sendmail_html = []
+    for line in fp:
+        if (line.find("$EMAILCONTENTS$") >= 0):
+            line = line.replace("$EMAILCONTENTS$", mail_txt)
+        if (line.find("$EMAIL$") >= 0):
+            line = line.replace("$EMAIL$", toemail)
+        sendmail_html.append(line)
+    fp.close()
 
-body_html = "".join(sendmail_html)
+    body_html = "".join(sendmail_html)
 
-message = create_message('Memlingo <memlingo.service@gmail.com>', 'masoristx82@gmail.com', subject, body_html)
-print(send_message(service=service, user_id='me', message=message))
+    message = create_message('Memlingo <memlingo.service@gmail.com>', toemail, subject, body_html)
+    print(send_message(service=service, user_id='me', message=message))
+
+if __name__=="__main__":
+    if len(sys.argv) < 4:
+        print("USAGE: %s email ./sendmail.txt ./pages/sendmail.html" % (sys.argv[0]))
+        sys.exit()
+    to_email = sys.argv[1]
+    sendmail_txt = sys.argv[2]
+    sendmail_html = sys.argv[3]
+    sendmail(to_email, sendmail_txt, sendmail_html)
+

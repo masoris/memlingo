@@ -1,0 +1,1354 @@
+level	mi, vi	나, 당신	I, you	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(현재) ~이다, (과거) ~이었다	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	나는 ~ 이다	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	당신은 ~ 이다	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	안녕하세요	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	안녕하세요, 나는 ~입니다	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	나의, 당신의	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	이름	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	나의 이름, 당신의 이름	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	나의 이름은 ~입니다	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	당신의 이름은 ~입니다	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(현재) 지낸다, (과거) 지냈다	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(과거) 이었다, (미래) 일 것이다	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	이름, 이름을	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	나의 사랑	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	당신은 지낸다	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	어떻게	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	당신은 어떻게 지내세요?	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	무엇	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	좋은 (형용사), 잘 (부사)	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	잘 지낸다 (지내고 있다)	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	나는 잘 지냅니다	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	그리고 (~와, ~과)	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	좋아요, 당신은요?	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	~ 까지	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(현재) 본다, (과거) 보았다	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	보았다, 다시 보았다	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	(과거) 다시보았다, (미래) 다시볼것이다	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	다시보기, 다시보기를	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	다시 볼때까지 (안녕)!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	감사합니다	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	감사합니다. 그리고 다시볼때까지 (안녕)!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	~ 에게	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	당신에게, 나에게	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(현재) 감사한다, (과거) 감사했다	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	나는 당신에게 감사합니다	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	예, 아니오	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	예, 감사합니다	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	(현재) 먹는다, (미래) 먹을것이다	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	나는 먹지 않습니다	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	아뇨, 나는 먹지 않습니다	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	아름다운, 아름답게	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	(어미) ~할 만한 가치가 있는	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	감사할 만한, 감사하게도	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	전체의, 전체적으로	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	전부, 전부를	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	천만에요	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	전혀 아닌	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	~를 용서하다, 용서	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	나에게 용서를	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	미안합니다	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	미안합니다, 부탁합니다	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	좋은 아침	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	아침인사, 안녕하세요	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	(밤인사) 안녕히 주무세요	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	좋은 꿈꾸세요	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	좋은 여행이 되기를, 당신에게 (기원합니다)	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	낮인사, 안녕하세요	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	~인가요?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	당신은 잘 지내십니까?	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	예, 나는 잘 지냅니다	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	아뇨, 전혀 아닙니다	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	매우, 너무	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	커다란, 커다랗게	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	매우 좋은, 너무 큰	very good, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	당신은 매우 잘 지냅니다	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	썩 좋지는 않게	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	~를 배우다, 배우기	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	(현재진행) 보고 있는, 보고 있는 사람	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	배우고 있는, 배우고 있는 사람 (학생)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	(현재진행) ~하고 있는, ~하는 사람	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	배우고 있는 사람 (학생), 배웠던 사람	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	나는 학생이다	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~는 나의 친구이다	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	그남자, 그여자	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	앉다, 앉아 있다	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	앉아 있는, 앉았던, 앉을 예정인	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	그는 앉아 있고, 그녀는 배우고 있다	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	방	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	방안에서 배운다	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	배우는 사람과 운동선수	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	스포츠와 운동선수	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	운동선수는 지금 운동을 하고 있다	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	그는 배우는 사람이다	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	배우는 사람이고 스포츠맨이다	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	그는 지금 앉아있다	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	그리고 지금 배우고있다	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	앉아서 배우고 있다	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	지금 방안에서	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	탁자 위에 있다	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	종이와 종이들	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	탁자와 탁자들	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	책과 책들	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	그 종이들과 책들	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	그것이 탁자 위에 있다	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	그 책상 위에서 쓴다	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	그 책들은 ~이다	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	그 책상 위에	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	교과서와 그 교과서들	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	그 테이블 위에 ~가 있다	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	아버지와 어머니	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	그 아버지와 그 어머니	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	내 친구의 그 어머니	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	그 방안에	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	그 방안에 없다	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	그들은 지금 일하고 있다	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	그의 아버지는 노동자이다	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	그는 호텔에서 일한다	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	그 어머니는 가르친다	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	그녀는 여선생님이다	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	그녀는 어머니인가?	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	아니오, 그녀는 호텔직원입니다	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	아니오, 저는 일하지 않습니다	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	그녀의 이름은 무엇인가요?	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	누가 지금 대답하고 있습니까?	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	그들 어머니의 그 언어	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	당신의 이름이 ~ 입니까?	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	우리는 앉아서 대답한다	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	그녀의 일하는 의자	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	그것의 이름은 ~가 아니다	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	그녀의 언어가 그들의 언어이다	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	우리의 아버지와 어머니	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	당신의 학생, 당신의 학생들	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	그들이 당신의 학생들입니까?	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	당신은 학생인가?	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	너는 그 방에 있는가?	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	나는 ~이지 않다	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	에스페란티스토와 여성에스페란티스토	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	그 호텔방을 위해 예약했다	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	언어학자와 여성 노동자	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	그의 여자친구는 ~이다	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	학생들과 운동선수들	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	내 성(가족명)은 ~ 이다	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	그녀는 누구인가?	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	너의 여자친구이다	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	너의 친구는 ~ 인가?	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	그 방안에서 지금 쓰고 있다	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	너의 아버지의 그 친구는 ~ ?	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	호텔에서 일한다	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	그 테이블 위에 무엇이 있는가?	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	우리 방안의 그 테이블 위에	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	에스페란토 교과서가 ~인가?	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	당신의 탁자 위에 있다.	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	여자친구가 있다	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	그녀의 이름은 ~이다	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	젊고 아름다운	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	젊고 아름답다	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	젊고 아름다운 친구들	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	남녀 친구들이다	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	그녀의 선생님의 가정	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	그 집으로 왔다	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	~의 가정(집)	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	들어오세요	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	안녕하세요! 뭘 하고 계세요?	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	뭘 하고 있습니까?	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	그러나 지금 나는 ~하기를 원한다	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	나는 말하고 싶다	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	세명의 남녀 친구들과 함께	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	당신과 말했다	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	당신과 말하고 싶어한다	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	당신은 남녀 친구들이 있느냐?	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	그는 책을 가지고 있다	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	좋은 책을 가지고 있다	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	예, 나는 가지고 있습니다	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	그들은 그것을 좋아한다	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	그녀는 책을 읽었다	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	책들을 읽기 좋아한다	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	단지 좋은 책만	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	많은 좋은 책들	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	단지 좋은 책들만 읽었다	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	좋은 책들을 읽기 좋아한다	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	당신은 읽기를 원하는가?	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	그 젊은이는 커피를 마셨다	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	물 마시기를 원한다	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	아버지, 어머니; 부모님들	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	형제와 자매, 형제자매	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	당신의 부모님들과 형제자매들	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	당신의 집에 있다	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	여기 커피 있어요	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	아직 마시지 않았다	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	여전히 덥다	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	어제 그것을 요리했다	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	내가 지금 요리했다	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	감사합니다. 그렇게 그는 말했다	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	마실 수 있고 먹을 수 있다	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	차가운 커피를 마셨다	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	뜨거운 커피도	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	차가운 커피도 마신다	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	차가운 커피도 마실 수 있다	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	그녀의 눈을 바라본다	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	가장 아름다운 눈	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	그 아름다운 눈들	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	그 아름다운 눈들을 바라보았다	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	그녀의 아름다운 눈들	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	~를 본다, 그리고 이해한다.	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	나는 ~라는 것을 본다	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	그가 그녀를 사랑한다는 것을	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	그녀는 느꼈다, 그가 그녀를 사랑한다는 것을	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	질문한다, 그것이 커다랐었는지를	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	쉬운 질문에 대해서	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	새로운 돈에 대해서 얘기했다	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	매우 아름다운 눈들	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	그 큰 형을 보았다	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	여동생은 그것을 잊어버렸다	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	목적격	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	목적격 접미사를 잊지마	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	당신은 어느 누구를 보는가?	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	나는 친구를 본다	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	좋은 남녀친구들을 가지고 있다	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	그들은 일한다, 그 헌 집에 대해	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	일한다, 일했다, 일할 것이다	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	보고 있다, 내가 먹고 있는 것을	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	얘기했다, 그가 갈 것이라고	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	추하고 나쁜	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	그녀가 뭘 얘기했는가?	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	너는 무엇을 기다리고 있는가?	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	그 방 안으로 들어갔다	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	내용이 매우 어려웠다	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	그 회의에 도착했다	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	환영합니다, 대회에 오신 것을	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	늙은 남자는 팁을 줬다	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	도착했고 환영받았다	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	그들은 미워하지만, 협동한다	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	그 호텔로 갔다	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	쉬운 학습서들을 가지고 있다	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	당신의 어머니는 어떠하였는가?	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	당신의 옛 집	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	당신은 어느 책들을 읽었는가?	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	그것들이 좋았는가?	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	어제 무엇을 했는가?	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	그 작은 방 안에서	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	꽤 오랫동안 말했다	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	그 학교 앞에서	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	그 학교 앞에서 얘기했다	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	나중에 그 책에 대해서 말했다	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	그 학교로 기쁘게 갔다	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	그 거리를 관통하여	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	그 거리를 지나갔다	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	더운 날이었다	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	그들은 까페를 보았다	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	붉은 과자들을 봤다	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	그 안에서 과자들를 보았다	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	카페를 보았고, 그 속에서 과자들을 (보았다)	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	들어가라 그리고 먹어라	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	우리 들어가서 먹자	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	충분한 돈을 가지고 있다	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	당신은 충분한 돈을 가지고 있나요?	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	당신은 이해하는가?	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	당연히!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	그것은 충분하지 않다	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	백 달러는 충분하다	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	달러, 달러들, 달러들을	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	100 달러를 가지고 있다	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	물론 나는 가지고 있다	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	오! 너는 부유하구나!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	식당 종업원, 여종업원	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	식당종업원이 메뉴를 들고 온다	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	그것을 우리에게 가져왔다, 그것을 가져왔다	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	식당종업원이 많은 과자를 가져다 줬다	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	그들은 약간 먹었다	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	그 식사 후에	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	새로운, 다시	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	그 웨이터가 다시 왔다	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	어딘가에서	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	어딘가에서 찾았다	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	다른 장소에서 찾았다	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	그의 얼굴은 기뻤다	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	그녀는 슬펐다	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	끝내 그리고 결국	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	당신의 강한 목소리	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	약한 목소리로	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	돈을 가지고 있지 않다	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	거기에서 무엇이 일어났는가?	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	사건이 그후에 일어났다	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	당신은 아는가, 그게 언제 발생했는지?	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	그 사건에 대해서 안다	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	아직 한가지가 남아 있다	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	당신 또는 그녀, 누구든	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	가수처럼, 가수로서	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	전문 가수처럼 노래했다	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	거기, 그녀가 살았던 그 곳에	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	어떻게 당신은 그 차에 대해서 아는가?	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	음, 그 빠른 차를 보세요	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	설탕 없는 주스	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	그는 빠른 탈것(차)을 가졌다	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	너무 강하게	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	그는 너무 세게 열었다	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	너무 빠르게 운전했다	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	숟가락으로 먹었다	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	우리는 강하게 의심한다	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	그로부터 온 진짜 편지	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	5장의 사진을 동봉한 연애 편지	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	되돌아왔다, 되돌아 왔던 사람들	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	또한 편지 6통이 되돌아왔다	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	그 사진을 보고 싶어했다	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	그 학교로부터 되돌아왔다	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	그 자매는 언제 되돌아올까요?	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	다시 읽기를 원했다	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	했다 (만들었다), 되었다	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	빠르게 빨갛게 되었다	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	방안에서, 방안으로	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	서있었다 그리고 앉아있었다	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	거기에 서 있었다 사진앞에	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	나는 그것을 가지고 있다	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	당신 손안에 뭐를 가지고 있나요?	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	앞의 또는 뒤의?	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	이전의 혹은 그 후의?	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	그곳에, 그 문 뒤에 (그 문뒤 그곳에)	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	다른 (복수형), 다른 사람들	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	다른 사람들의 편지들	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	손에서 떨어졌다	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	그 탁자 위에, 그 탁자 위로	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	그것은 테이블위로 떨어졌다	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	용서를 빌었다	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	다섯 권의 책을 찾고 있었다	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	미안해, 나는 내 책을 찾고 있었어	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	그러나 당신은 잘 알고 있잖아요	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	나의 테이블 위에 있지 않다	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	너의 책들은 내 테이블 위에 없다.	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	다시 주었다, 되돌려 줬다	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	그 편지를 나에게 되돌려줘	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	좋은 교훈을 얻었다	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	더 씻었다, 더이상 먹지 않았다	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	더이상 읽지 않을 것이다	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	나도 받았다	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	닫아야 한다	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	나는 잘 닫아야 한다	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	그 문을 잘 닫았다	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	고요한, 진정해	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	들리기는 했으나 듣지는 않았다	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	고요한 소리가 들렸다	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	나에게 4개의 호주머니들이 있다	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	마지막 과 이후 10일	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	그 두 테이블 사이에	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	편지 3통, 종이 6장	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	머리에서 발까지	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	4, 4번째의, 4인조, 4분의1	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	그 3인조는 어디로 갔는가?	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	양 손에 다섯 손가락	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	자기자신 스스로, 자신의 호주머니	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	두다, 같이 두다, 합성물	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	자기자신의 호주머니 속에 두었다	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	세상의 200개의 나라들	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	잡았다(취했다, 택했다), 빼앗아 가버렸다	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	자신의 아홉권의 책에서 일곱을 집어들었다	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	남겨두다, 버려진	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	나를 혼자 조용히 내버려두세요.	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	천 팔백 팔십 칠 (1887)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	한잔의 차	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	누군가가 8개의 컵을 씼었다	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	이천 십구 (2019)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	그는 자기자신을 씻었다	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	자신의 신체, 자기 자신의 소유	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	테이블 위에서, 그 고양이는 잤다	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	그 고양이는 그 테이블위로 뛰어들었다	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	그 홀 안에서, 그 홀 안으로	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	그의 손 안으로 떨어졌다	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	일하다, 공을 들여 일하다	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	그 책에 정성을 들여 끝까지 만들다	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	안다, 알고싶어 한다, 호기심	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	2개언어의, 이중언어	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	3개언어 학생에 대해서 궁금해 한다	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	갔다, 되돌아 갔다	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	그 고양이들은 자신들의 집으로 되돌아갔다	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	가방안에, 가방안으로	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	그것을 너의 가방 안에 넣어둬	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	발, 걸어간다, 보행자	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	10일간 그들은 걸었다	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	취하다, ~로 부터 선택하여 취하다	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	아름다운 꽃들, 아름다운 꽃들을 취했다	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	그는 아름다운 꽃들만 취했다 골라택했다	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	열었다, 하지만 곧바로 닫았다	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	국제 대회를 개막했다	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	출판했고 배포했다	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	그 출판업자는 23권의 책을 출간했다	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	되돌아 와서 자신의 아들을 다시 봤다	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	2023년에	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	신사는 상점안으로 들어갔다	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	그 자동차들의 상점	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	거기서 그는 숙녀를 보았다	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	친애하는 신사숙녀 여러분	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	그것은 나의 맘에 들었다	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	그 숙녀는 그의 맘에 들었다	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	그 아름다운 숙녀를 봤다	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	누가 그의 맘에 들었는가? (그는 누구를 좋아했는가?)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	그 여인, 나의 맘에 든	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	그사람, 그 집으로 들어간	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	그 남자, 그것을 선물로 준	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	그는 그의 아내에게 반지를 선물했다	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	그 반지가 그녀 맘에 들었다	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	그 아내, 그 반지가 맘에 들었던	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	판매원은 그 상점에서 일한다	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	자동차들의 판매자	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	그 신사는 그 판매자에게 질문했다	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	어느 차가 당신 맘에 드나요?	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	어느 차를 당신은 선택할 것인가요?	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	나는 저 차를 선택했다	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	그것이 더 좋다	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	이것 보다 더 좋은	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	그것들 중에서 가장 좋은	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	가장 좋다	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	어느 자동차가 가장 좋은 것인가?	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	이 자동차가 더 좋다	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	이것이 가장 좋다	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	모든 자동차를 봤다	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	모든 것들 중에서 가장 좋은	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	그것은 빠른가?	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	다른 것들보다 더 빠른	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	또한 강력하다	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	오, 예. 물론이죠!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	매우 강력하다	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	확실히 그것은 강력하다	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	또한 비싸다	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	모든 것들 중에서 가장 비싼 것	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	싸지만 강한	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	애석해 한다 그리고 애석해 할만하다	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	아쉽게도 나는 사지 않을 것입니다	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	애석해 할만한  일이다	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	그는 새 자동차를 샀다	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	왜냐하면 나는 돈이 없기 때문에	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	나의 오래된 자동차	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	모든 것들 중에서 가장 싼 것	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	나는 거기에 자를 타고 갈 것이다	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	여전히 그것을 몰 것이다	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	하루 종일	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	그가 그것을 말하는 동안	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	그는 다시 그녀를 보았다	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	그러나 그 판매원은 말했다	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	~하는 것이 더 좋을 것 같다	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	이 숙녀를 보아라	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	그것 역시 매우 비싸다	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	나는 그녀의 남편이다	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	당신의 여행의 비용이 얼마나 되었나요?	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	당신의 아내의 노래를 들으세요	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	그게 매우 비용이 높다는 것을 잊지 마세요	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	그는2시간 동안 그 판매원을 도왔다	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	이미 3년도 넘게	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	덮다, 덮개/뚜껑, 들춰내다/밝혀내다	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	그 이유를 그는 아직 밝혀내지 못했다	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	당신은 왜 편지들을 보내기 시작했습니까?	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	8개월 동안 그는 거기에서 살았다	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	들을 시간이 없었다	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	그 차는 이미 꽉 차 있었다	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	당신은 무엇을 먹는가?	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	날씨가 어떠한가?	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	어떤 자동차를 당신은 가지고 있는가?	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	그녀의 편지들이 어떠했는가?	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	우리는 어디에 있는가?	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	당신은 어디를 향해 가는가?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	누구에게 당신은 그것을 줬는가?	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	당신이 같이 여행했던 그 남자	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	그 자동차보다 더 큰	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	그 사람들 중에서 가장 키가 큰	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	그는 그 식사 중에 앉아 있었다	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	그가 읽고 있는 동안 그녀는 쓴다	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	여기에, 이 방안에서	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	이 신사분	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	들어볼 만한 뉴스	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	그 책은 진짜 읽을 만하다	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	걱정스러운 일	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	불행히도, 나는 할 수 없어요	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	천만에요. 저의 즐거움이었습니다	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	작은 미인은 매우 아름답다	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	모든 친구들은 그녀를 사랑한다	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	3개월 전에	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	그녀에게 안 좋은 것이 발생했다	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	자동차 때문에 그녀가 넘어졌다	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	건강이 나빠졌고, 온도가 높아졌다	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	어머니는 그녀가 쉬어야 한다고 얘기했다	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	그녀는 집에 머물러 있어야 한다	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	그녀는 의사를 부를 것이다	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	9시에	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	아침에 8시에 왔다	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	내일 저녁 7시에	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	그의 손을 보여줬다	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	옷, 옷을 입는다	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	옷을 입고, 당신의 몸을 따뜻하게하세요	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	집에서 즉시 옷을 벗고 샤워를 했다	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	의사가 전부를 살펴봤다	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	잘 살펴보았고, 끝내 말했다	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	한주간 집에 머물러라	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	당신이 고요하기를 바란다	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	1주일 후에	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	당신은 더 잘 지낼 것이다	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	차를 많이 마셔라	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	당신을 다시보기 위해 올 것이다	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	그도 역시 조용히 있도록 하라	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	건강한 사람, 건강인	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	자기 자신에 대해서 스스로 돌봤다	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	그모든 것들은 즉시 나에게 유용했다	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	끔찍한 것이 가깝다는 것을 알아챘다	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	즉시 그것에 주목해 달라고 요청했다	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	그것은 필요 없다고 생각했다	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	가까이에 살았고, 그게 유용했다	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	우리 나라는 오늘 끔찍해졌다	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	모든 가정의 친애하는 어린이들	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	어제 한번, 내일 두번	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	오늘날 가족들은 어린이들을 필요로 한다	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	내일 잘 지내기를 희망했다	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	그는 매우 고요하게 지냈다	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	세명의 난쟁이들이 그 산을 높게 만들었다	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	주요인물들은 도움을 요청하지 않았다	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	돕기 위해서 그곳에 걸어갔다	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	온도가 높으면, 집에 머무르세요	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	온도는 오늘도 비슷하게 유지되었다	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	아홉시에 의사를 부르세요	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	그것을 당신의 의사에게 보여주세요	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	당신의 발을 보여주기 위해서	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	이 셔츠를 입으세요	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	주말에 모든 것이 고요해질 것이다	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	그 찻잔 아래에 뭘 발견했나요?	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	나는 아침의 차를 원한다	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	고요한 저녁을 희망했다	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	당신이 배우기를 바란다	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	내가 가라고 주장했다	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	몇시에?	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	여섯시에 그는 올 것이다	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	그 소책자는 매력적이었다	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	고요하게 있으라	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	그 사람으로 하여금, 고요하게 있도록 하라	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	그도 역시	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	나는 원한다 (dzr)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	나는 ~하기를 원한다	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	너가 배우기를	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	나는 너가 배우기를 원한다	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	아버지는 고집한다	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	아버지는 ~라고 고집한다	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	내가 가기를	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	아버지는 내가 가라고 고집한다	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	몇 시에	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	몇시에 너는 올 것인가?	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	5시에	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	다섯시에	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	그는 어떻게 지내십니까?	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	최근에 당신은 어떻게 지냈습니까? (인사)	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	작은 책들은 아름답다	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	소책자, 아름다운 책들	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	아름다운, 약간 아름다운, 매우 아름다운	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	따뜻한, 약간 따뜻한, 매우 뜨거운	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	큰 책, 소책자	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	좋은, 아주 좋은(아주 훌륭한), 훌륭하게	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	부유한, 부유하게되다, 부자	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	고요한, 고요하고 평온하게 되다, 평정심을 유지하라	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	건강한, 회복되다, 회복되었다	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	남편, 결혼, 장가가다(결혼하다)	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	편지 배달꾼 (우체부)	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	조국, 고국	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	약간, 아주 약간	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	우리는 아주 좋게 저녁을 먹었다	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	희망하기를, 당신 자신을 돌보세요	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	나는 그 고품격의 숙소를 돌봤다	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	두번, 여러번 생각해 봐라	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	누가 그 책을 떼어 냈는가?	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	시저라고 이름붙은 고양이	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	테이블 위에 있는 과자	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	테이블 위에 있는 과자를 먹어라	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	아주 뜨거워 졌고, 빨개 졌다	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	아버지는 원했다, 그의 아기가 먹기를	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	작은 방에서	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	우리는 ~에서 살고 있다	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	나는 불안해졌다	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	내가 당신을 본 그 때	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	모든 사람들이 그것을 알아차렸다	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	그 것을, 그녀가 매우 아름답다는 (그것을)	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	당신은 ~ 하는 것을 원하는가? (deziri)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	내가 당신에게 보여주기를	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	당신은 내가 보여주기를 원하는가?	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	나의 가장 새로운 책을	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	내일 아침에, 당신은 무엇을 원하시나요?	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	늦게 아침식사를 했다	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	마르코는 언제 도착할까요?	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	5시 또는 8시에 	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	언제 당신은 ~라는 것을 눈치챘나요?	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	온 가족이 나를 후원자라고 부릅니다	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	당신에게 유용한	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	그 소책자가 유용했었나요?	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	그 소책자, 내가 보냈던 그	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	아침에 매우 길게 잠을 잤다	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	그가 태양을 보았을 때	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	갑자기 그는 뛰었다	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	그는 항상 일찍이었다	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	항상 그는 늦는다	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	그때, 그가 가야만 하는 (그때)	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	학교로 가다	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	그는 ~ 하는 것을 안다	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	그는 ~ 하다는 사실을 안다	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	그것을, 선생님이 벌을 싫어한다는 (그사실을)	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	그것을 안다, 선생님이 벌을 싫어한다는 것을	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	안다, 선생님이 그것을 싫어한다는 것을	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	그러나 오늘 그는 커피를 마셨다	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	그는 재빨리 옷을 입는다	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	그는 늦고 싶지가 않다	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	책을 손에 들고 매우 빠르게	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	그 후에 그는 달리고 뛰었다	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	그는 달렸고 뛰었다	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	거리를 따라서	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	그 사람들이 그를 보았다	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	그를 보았고 말했다	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	현명한 그리고 바보같은	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	멍청한 녀석 같으니라고!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	학교 앞에 있었다	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	머지않아	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	그는 ~ 앞에 있었다	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	가다 그리고 들어가다	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	그는 들어가고 싶어했다	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	그 학교 안으로 들어가다	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	그러나 하지만	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	그러나 그는 할수가 없었다	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	닫다 그리고 닫힌	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	그것은 닫혀 있었다	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	~도 아니고 ~도 아닌	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	선생님도 아니고 남녀학생들도 아니고	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	선생님도 못봤고, 학생들도 못봤다	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	앉아있다, 앉는다	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	앉았다	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	그는 앉았다	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	그리고 생각했다	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	무엇이 일어났을까?	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	끔찍하게 (악마처럼)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	제기랄	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	기억한다	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	나는 지금 기억한다	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	일요일	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	오늘은 ~ 이다	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	오늘은 일요일이다	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	잠자다 그리고 잠에들다	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	태양과 달	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	갑작스런 그리고 갑자기	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	자! (시작)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	점프하다 그리고 펄쩍 점프했다	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	항상 일찍인	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	오늘 두었고 그리고 뛰었다	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	물건, 나이 말고	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	현명한 사람들과 같이 달렸다	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	가능한 한 곧바로	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	어떠한 소년, 어떠한 소녀	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	생각된 것도 아니고, 기억된 것도 아닌	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	악마는 일요일에 물을 기다렸다	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	그렇게 작은 순간	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	그런 작은 순간 조차도 가치가 있다	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	멀리 울부짖었다, 밤까지	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	손에서 우편물을 내려놨다	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	우편물을 내놓으며 스스로 웃었다	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	그도 웃지 않았고, 그녀도 웃지 않았다	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	그녀는 웃지도 않았고, 대답도 하지 않았다	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	그는 앉아 있지도 않고, 바라보지도 않는다	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	나는 전혀 못 봤다	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	나는 절대로 누군가에게 말하지 않겠다	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	누구에게도 말하지 말라	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	나는 절대로 말하지 않겠다	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	스스로 (손수)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	나 혼자서 했다 (만들었다)	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	그것을 했다 (그것을 만들었다)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	스스로 그것을 했다 (만들었다)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	다시 볼때까지 (안녕)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	안녕! (다시 볼때까지)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	말하기 시작하다	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	입을 열었다, 끝끝내 말을 시작했다	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	아주 빠르게 마셨다	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	아침 음료를 마셨다	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	빨리 오기 위해	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	학교에 오다	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	이르게 ~에 오다	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	새소식을 듣지 못했다	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	아직 듣지 못했다	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	나는 아직 듣지 못했다	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	그 순간에	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	그 순간에 그가 소리쳤다	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	사랑하지 않는 소년	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	(남여) 소년 소녀들	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	다른 소년 소녀들	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	다른 소년 소녀들을 사랑하지 않는다	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	(남자) 친구들도 아니고, 여자 친구들도 아니고	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	돈도 없고 시간도 없다	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	누가 그 책을 가지고 있었나?	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	당신이 기다렸던 그 책을	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	당신이 2년이상 기다렸던 그 것	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	당신은 그것을 원하느냐?	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	당신은 ~하는 것을 원하느냐?	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	가장 소중한	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	가장 소중한 사진	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	나의 가장 소중한 사진을	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	어디에서 ~를 샀느냐?	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	그 옷	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	그 옷을	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	그 옷을 샀다	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	너는 거기로 갈 것이다	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	어디로 당신은 갈 것입니까?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	햇볓이 좋은 날	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	햇볓이 좋은 날이 될 것이다	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	햇볓 좋은 날이 되면	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	나의 형(남동생)은 이미 출발했다	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	당신은 형(남동생)은 이미 출발했습니까?	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	어디에 물이 있느냐?	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	물을 들고가다	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	너는 스스로 들고 갔다	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	그 물, 당신이 스스로 들고간	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	매우 고요했다	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	오늘 나의 어머니는 ~ 이었다	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	나는 ~로부터 왔다	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	학교로 부터	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	~에게 보고 했다	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	그리고 그녀에게 이야기 했다	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	~이라고 보고 했다	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	내가 받을 것이라고 이야기 했다	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	나는 나쁜 점수를 받을 것이다	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	그녀는 ~이라고 말했다	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	너는 ~을 일 시켜야 했다	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	더 많이	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	더 많이 일 시키다	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	너의 두뇌를 가동시키다	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	얼마 정도의 나쁜 점수들	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	나는 그렇게 많은 나쁜 점수들을 받는다	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	슬펐다 	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	너의 방 안으로	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	너의 방 안으로 가라	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	가서 배워라	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	나는 앉아 있었다	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	나의 방 안에서	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	나의 방 안에서 앉아 있었다	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	배우지도 않고 읽지도 않고	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	그러나 배울수도 없었고 읽을 수도 없었다	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	나의 생각들	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	게임(놀기)에	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	친구들과 놀기	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	스포츠에	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	나 스스로에게	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	나 스스로에게 말했다	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	그렇게 멍청한	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	내가 그렇게 멍청한가?	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	내가 많이 공부했음에도 불구하고	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	어머니가 들어왔다	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	나의 말들	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	그리고 내가 말하는 것들을 들었다	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	그녀는 즉시 대답했다	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	아니야, 내 소중한 사람아	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	너는 멍청하지 않아	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	문제라면, ~ 한 거야	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	너가 공부해야하는 것	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	훨씬 많이 공부해야 한다	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	그 때 너는 가지지 못할 것이다	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	나쁜 점수들	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	나쁜 점수들만 받게 될 것이다	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	지금도	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	나는 그것들을 가지고 있지 않아	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	나는 좋은 점수를 받는다	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	음악에 대해	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	음악에서 좋은 점수를	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	어머니는 갑자기 웃음을 터트렸다	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	그것은 ~를 더욱 아름답게 만들었다	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	나의 하루를	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	나의 하루를 더욱 아름답게 만들었다	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	그러나 여전히 남았다	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	그러나 문제는 여전히 남았다	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	~ 1킬로그램	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	설탕 1킬로그램	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	~ 한잔	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	물 한잔	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	~ 많이	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	많은 아이디어들	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	스스로 물러서다	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	모든 걸 정돈했다	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	그에게 전해줬다	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	내가 부탁합니다	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	커피 한 컵을	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	그리고 물 약간	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	나는 커피 한컵을 부탁합니다	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	나는 차 한잔을 부탁합니다	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	그를 고통스럽게 했다	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	그의 머리가 아팠다	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	그는 건강이 나빠졌다	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	아름답게 있길 좋아한다	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	그녀는 그 자신의 얼굴을 아름답게 꾸몄다	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	그 소년은 멋지게 있기를 좋아했다	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	그것 때문에 그녀는 그것을 아름답게 꾸몄다	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	점심 식사 후에	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	부엌을 깨끗하게 청소하다	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	누가 부엌을 청소할 것인가?	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	마시기를 원한다	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	당신은 무엇을 마시기 원하십니까?	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	차를 마시다	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	물 약간	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	당신은 아무것도 원하지 않습니까?	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	그렇게 갑자기	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	왜 당신은 ~을 결정하였느냐?	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	당신은 왜 그렇게 갑자기 ~을 결정하였느냐?	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	당신의 방	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	당신의 작은 방	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	당신의 작은 방으로	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	당신의 작은 방을 새로이 하다	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	당신의 작은 방을 새로 만들기로 결정하였다	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	누구에게	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	당신은 ~을 주었다	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	당신은 누구에게 ~을 주었으냐?	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	깨끗한 컵들	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	당신은 그 깨끗한 컵들을 주었다	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	와인을 위한 그 깨끗한 컵들	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	누구를 대항하여	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	당신의 스포츠 클럽	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	~을 대항하여 경기한다	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	2주 전에	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	누구를 대항하여 당신의 스포츠 클럽은 경기를 하였느냐?	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	당신은 ~을 보느냐? (당신에게 ~이 보이느냐?)	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	당신은 ~을 자주 보느냐?	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	자주 그 경찰은 본다	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	그 사람, ~에 거주하고 있는 그	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	그 숙소에 거주하고 있다	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	당신 위에 있는 그 숙소	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	그 경찰은 본다, ~에 거주하고 있는 그	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	차량 이동 계획	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	여행하고 싶었다	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	외국으로 여행하다	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	자유시간에	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	그들은 가기로 결정했다	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	이탈리아로 가기로 결정했다	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	오래된 도시들	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	오래된 도시들이 있는 나라	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	다른 아름다운 것들	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	그리고 다른 아름다운 것들	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	오래된 도시들과 다른 아름다운 것들이 있는 아름다운 나라	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	그들은 행복하였다	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	~는 어디에 있는가?	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	나의 옷가지는 어디에 있는가?	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	그녀는 ~를 물어보았다	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	~를 가지고 가는 것을 우리 잊지 말자	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	그 책을 휴대하다	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	에스페란토를 배우기 위한 책	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	학습하기 위한 책을 휴대하다	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	우리는 ~을 시작할 수 있다	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	그 기차 안에	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	이미 그 기차 안에	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	우리는 아무것도 하지 않을 것이다	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	자동차로	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	우리는 ~를 이용해서 차량 이동할 것이다	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	자동차를 이용해서 이동할 것이다	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	나는 비밀이 있다	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	나의 부자 삼촌아저씨	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	나의 희망사항	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	나의 바램을 충족시켰다	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	우리에 주었다	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	자기의 차를	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	그리고 우리에게 자기 차를 주었다	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	사용하도록	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	그것은 ~앞에 서있다	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	그 집앞에 서있다	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	나는 ~을 말해야만 한다	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	아무것도 말하지 마세요	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	우리 앉읍시다	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	그 자동차 안에 앉아라	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	~로 운전하다	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	그리고 이탈리아로 운전해 가세요	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	그 자동차 안에 앉아 있었다	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	그 옷가지들도	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~는 그 자동차 안에 있었다	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	여전히 앉아 있었고 기다리고 있었다	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	그러나 그는 기다렸다	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	우리 ~하지 않을래요?	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	어째서 우리 출발하지 않나요? (우리 출발합시다)	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	나도 ~를 가지고 있다	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	그 자동차를 운전하겠지요	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	그러나 나는 ~를 모릅니다	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	나는 그것을 배운적이 없어요	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	나는 ~를 믿을 겁니다	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	내가 건강하기만 하다면	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	나는 매우 행복하겠지요	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	당신은 마치 부자인것 처럼	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	당신은 마치 부자인것 처럼 거기에 앉아있다	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	대안(유사) 학교	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	부자 인 것 처럼	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	당신은 거기에 부자인것 처럼 앉아있다	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	그만큼의 돈	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	아이디어 만큼의 돈	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	내가 그런 돈을 가지고 있더라면	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	나는 여행을 하겠지요	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	세계를 돌아서	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	모든 사전에	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	무언가가 결여되다	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	약간의 단어들이 부족하다	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	사람, 오래 말했던 그	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	그 식탁에서	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	말하는 사람은 계속 배고플 것이다	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	식탁에서 말만 계속한다	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	그는 ~에 주의를 기울어야만 했다	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	~할 권리가 없었다	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	머물러 있을 권리가 있었다	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	오래 머물러 있을 권리가 없었다	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	밖에서 비를 맞으며 머무르다	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	그래서 그는 감기가 걸렸다	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	그는 자기만의 분명한 생각이 있었다	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	그러나 그는 모든것을 믿을 것이다	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	모든 것을, 당신의 말하는 그	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	마치 당신이 그의 아내인것 마냥	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	당신의 부모들	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	당신의 부모들을 기쁘게 하다	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	무엇이 ~를 기쁘게 해줄 것인가?	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	무엇이 당신의 부모들을 가장 기쁘게 해줄 것인가?	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	방과 후에	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	적어도 방과 후에는	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	그 시청 안으로	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	만약에 당신이 나랑 같이 간다면	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	만약에 당신이 나랑 같이 시청안으로 들어 간다면	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	당신은 어디로 여행하기를 희망하는가?	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	당신이 ~를 가지고 있다면	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	충분한 돈	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	만약 당신이 충분한 시간과 돈을 가지고 있다면	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	당신은 ~할 계획을 세울 것인가?	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	파리에 운전해갈 계획이다	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	자동차를 가지고 운전하다	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	훨씬 더 좋게	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	훨씬 더 좋게 보인다	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	기차로	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	아니면 훨씬 더 좋아 보이지 않나요?	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	다양한 사람들	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	왜 사람들은 다양한 방식으로 설명하는가?	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	같은 아이디어들	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	같은 아이디어들을 설명한다	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	가족 구성원들은 모인다	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	얼마나 빠르게	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	나날들이 지나간다	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	나날들이 얼마나 빨리 흘러가는가!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	내일은 ~일 것이다	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	당신의 아버지의 생신일	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	몇몇의 가족 구성원들	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	몇몇의 가족 구성원들은 올 것이다	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	그리고 남녀 친구들	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	당신은 ~해 주시겠습니까?	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	약간 도와주시겠습니까?	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	아주 잠깐 동안	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	아주 약간의 시간을 할애하라	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	너의 방을 정돈하기 위한	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	적어도 너의 방을 정돈하기 위한	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	나는 ~하는 것이 좋아	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	나는 무언가 요리하길 좋아해	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	무엇인가 좋은 것을	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	무언가 좋은 것을 요리하다	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	생일 케이크를 위해	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	우유가 없다	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	집 안에	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	~을 갖출 필요가 있다	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	음식 약간	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	상점으로부터	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	상점으로부터 음식 약간을 구해오다	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	나는 구매를 할 것이다	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	그 생일을 위해서	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	앉아서 많이 먹기 보다는	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	흥미로운 사람들	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	재미없는 가족 구성원들과 함께	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	나는 소풍을 가겠다	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	클럽 멤버들과 함께	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	어느 클럽 멤버들과 함께?	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	그 아버지는 말했다	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	어떤 종이, 어떤 종이들	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	서류함에	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	서류함속으로	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	종이들을 서류함속으로 던졌다	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	어떤 종이들을 서류함속으로 던졌다	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	내일 일찍	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	내 스포츠 클럽의 멤버들	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	내 사랑스러운	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	~한 것이 맞아요?	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	너는 결석해야해	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	너는 ~ 하지 않느냐?	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	너의 같은 클럽 멤버들	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	너의 같은 클럽 멤버들과 서로 보게 된다	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	일주일에 세 번	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	내가 ~ 해도 될까요?	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	무언가를 제안한 할 수 있다 (권리가 있다)	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	나는 가족들과 같이 식사를 할 것이다	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	그러나 두 번째 부분에서	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	나는 내 남녀 친구들과 함께 떠날 것이다	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	~에 대해서 말할 것이다	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	실패한 차량 이동	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	그 실패한 차량 이동에 대해서 확실히 말할 것이다	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	그 과자 다음에	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	나는 더이상 그것을 원하지 않는다	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	그것을 듣고 싶어한다	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	왜 우리는 ~을 가지고 있지 않는가?	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	아이디어가 풍부한 삼촌	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	어떤 아이디어가 풍부한 삼촌이 있다	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	나의 가족 안에	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	그 어머니는 미소를 지었다	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	그의 말대로	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	그녀는 ~한 것을 알고있다	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	약간은 너무 많이 말한다	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	~하기만 하는 것은 충분하지 않다	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	아이디어들의 풍부함	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~하는 것도 필요하다	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	그것을 실현시키기 위한 충분한 지갑	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	그 어머니는 ~를 계속했다	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	약간의 정적후에	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	몇 분 전에	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	아나(Ana)는 그녀가 ~ 한다고 전화했다	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	그녀도 우리를 방문할 것이다	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	달콤한 과자	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	그녀는 달콤한 과자를 매우 좋아한다	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	살찌지 않기위해 주의한다	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	그녀가 주의할 것임에도 불구하고	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	즉시 그 의견을 바꿨다	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	그 소풍 동안	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	그녀 없이	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	그는 매우 외로울 것이다	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	그러나 나는 보낼 것이다	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	그러나 나는 내일을 집에서 보낼 것이다	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	젊을 때	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	사람들은 가지고 있다	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	아름다움도 가지고 있다	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	복잡한 일들	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	복잡한 일들을	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	더욱 단순화 시켜야 할 것이다	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	그 나이에	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	그는 이미 ~이 되었다	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	그 스포츠 클럽의 대표	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	누군가 돈을 둔다	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	지갑 안에	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	지갑 안에 둔다	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	그 사례들을 따르세요	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	훌륭한 그 가족 구성원들의	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	우정이 더욱 행복하게 만드는가?	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	당신을 행복하게 만든다	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	그 사랑보다도	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	당신은 얼마나 자주 ~?	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	당신은 ~에게 편지들을 쓴다	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	당신의 여자 친구들에게 편지를 쓴다	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	이탈리아에 있는 당신의 여자친구들	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	당신과 당신의 선생님과의 그 관계	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	그 관계가 변화했는가?	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	너는 이미 ~를 아는가?	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	충분히 잘	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	~에는 저녁이였다	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	수백명의 사람들	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	그 광장을 가득 채운다	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	젊은이들과 군인들	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	그 배들 위로부터의 선원들	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	저명한 부인	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	저명한 부인들	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	외국의 여행객들	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	도시 중심으로 모두들 움직인다	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	약간 더	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	그 바다로부터 멀지 않게	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	작은 광장이 있었다	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	조금 더 하지만 멀지 않게	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	그것의 끝 자락에	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	그 바다 가까이에	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	가까이에 사람이 서 있었다	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	그 옷 가지에 따라	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	누구나 쉽게 ~를 알 수 있다	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	누구나 ~하다는 것을 알아차릴 수 있었다	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	어떤 부자의 곤돌라 운전수	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	그가 곤돌라 운전수라는 것을 알아차릴 수 있었다	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	그는 ~를 바라보았다	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	흥겨운 사람무리를 바라보았다	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	미소가 그의 얼굴을 밝게 했다	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	그가 선원을 보았을 때	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	그 선원, 도착했던 그	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	그 바다 쪽	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	그 바다 쪽으로부터 도착했다	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	거기 스테파노(Stefano) 너니?	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	곤돌라 운전수가 소리쳤다	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	모두가 ~ 하다고 말한다	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	터키 사람들 손에	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	너가 터기 사람들 손에 떨어졌다고	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	우리는 한 사람을 만났다	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	우리의 배들로부터	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	그게 우리를 따라왔다	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	한 시간 넘는 동안	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	그러나 ~에 가는 것은 쉽지 않다	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	우리의 배보다 더 빨리 가기	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	어떠한 뉴스들이 여기 있나요?	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	여기 베네치아 안에	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	아무 것도 흥미롭지 않은	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	단지 커다란 불행만	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	당신은 피에트로(Pietro)를 아십니까?	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	나는 그를 압니다	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	커다란 배가 그의 곤돌라를 침몰시켰다	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	그리고 그에 대해서 무엇?	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	그 곤돌라가 침몰했다	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	~하는 것이 발생했다	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	우리는 가까이에 있었다	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	우리는 그를 우리 곤돌라 안으로 끌어드렸다	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	똑같은 그 시간 안에	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	나의 상관은 물에 빠졌다	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	젊은 여인을 돕기 위해	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	젊은 여인을, 거의 죽다시피한 그	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	자신의 삼촌과 함께	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	자신의 삼촌과 함께 거의 죽을뻔 했다	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	거기에 젊은 여인이 있었다	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	그를 우리가 도울 수 없었다	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	중요한 사람이었다	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	무엇이 당신을 베네치아에 오게 만들었느냐?	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	나의 친구	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	그 선원은 쳐다보기 시작했다	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	재빨리 자신의 친구를 쳐다보았다	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	그리고 말하기 시작했다	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	그래서 당신은 ~를 안다	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	나는 ~를 가지고 왔다	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	그 곤돌라 운전수 갑자기 그를 멈춰세웠다	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	그는 말했다	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	그 때 어떤 사람이 지나갔다	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	어떤 사람이 그 곁을 지나갔다	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	그는 아직 30세가 아니었다	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	그리고 그의 얼굴을 창백해졌다	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	그가 가는 것은 확실하고 쉬웠다	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	그의 얼굴은 슬펐다	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	그가 그 사람을 쳐다 보았을 때, ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	누군가 ~ 이라고 말한다	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	많은 주요 인물들이 ~를 준다	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	비밀스러운 작업	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	비밀스러운 작업들	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	그에게 비밀스러운 일거리들을 준다	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	너무 많은 비밀들	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	그는 너무 많은 비밀들을 알고 있다	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	그래서 그들은 두려워 한다	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	그를 감옥에 보낸다	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	그 선원이 말했다	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	그리고 그가 말했던 동안에	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	그는 그 빌딩을 가리켰다	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	도조(Doĝoj)의 그 빌딩	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	많은 주요 인물들이 그의 도움을 필요로 한다	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	그들은 얼마만큼 지불합니까?	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	그에게 지불한다	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	살인 한 번에 대해 지불한다	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	확실히 ~ 보다는 적지 않게	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	동전 100개보다	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	~하다는 것을 잊지 마세요	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	그가 그들을 위해 일한다는 것	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	그들을 위해, 충분한 돈을 가진 그들	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	그에게 지불하기 위해	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	베네치아 안에는 ~이 있다	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	그러한 사건들	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	그러한 사건들을 잊다	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	사건들, 잊어버리는 것이 더 좋은 그런	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	만약 당신이 고요하게 먹고 싶으면	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	당신의 빵을 고요하게 먹다	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	약간의 정적이 흘렀다	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	그리고 나중에	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	그 곤돌라 운전수는 다시 말을 시작했다	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	당신은 적당한 시간에 왔습니다	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	보트 경주를 보기 위해	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	누군가 나즈막히 말했다	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	그 곤돌라 운전사 가까이에	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	그 도시의 시장(市長)	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	말없이 그 곤돌라를 가리켰다	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	그 곤돌라 운전수가 말했다	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	그리고 자기 친구의 손을 잡았다	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	그 종이를 던진다	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	그 서류함 안으로	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	그 소녀들은 그 종이들을 던졌다	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	나의 필기구는 어디있는가?	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	나는 그에게 응답하고싶다	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	태양이 사라졌다	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	그리고 지금은 거의 어둑하다	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	드시기 바랍니다	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	그 빵을 드시기 바랍니다	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	수저(포크)들을 가지고	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	양해해 주십시오	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	머무는데 허락받았다	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	나는 머무는데 허락받지 못한다	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	당신은 ~를 휴대할 수 있나요?	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	나의 여동생(누나)의	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	언제 당신은 ~를 샀나요?	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	그 악기를 샀다	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	누가 마지막에 사용했는가?	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	나의 열쇠를 사용했다	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	당신은 운전하였습니까?	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	베네치아 안에	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	곤돌라도 이용해서	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	당신은 잠들 수 있을까요?	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	그 때, 조용해진 그 때	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	그 신사는 키가 컸다	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	높은 (키 큰), 굵은 (살찐)	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	굵은 (살찐), 무거운	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	무겁고 거대한	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	키크고, 살찌고, 무겁고, 거대했다	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	힘을 주었다	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	가질 만한 힘	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	가길 만한 신체적 힘	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	그것은 주었다	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	그에게 주었다	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	그것은 힘을 주었다	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	그것은 가질 만한 신체적 힘을 주었다	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	그의 외모	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	거인 같은 외모	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	작은 역할	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	역할을 했다	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	작지 않은 역할	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	작은 역할을 했다	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	작지 않은 역할을 했다	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	~한다는 사실에	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	그 사람들 대다수	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	겁먹지 않으면	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	그를 무서워 했다	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	그를 무서워 했다면	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	그를 무서워 하지는 않는다면	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	확실히 존중했다	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	적어도 ~에 대해 생각했다	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	~ 하기 전에	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	그를 만족시키다	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	그의 불만을 일으키다	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	~의 불만을 일으키기 전에	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	~를 결정하기 전에	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	~의 불만을 일으키기로 결정하다	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	그를 만족시키기로 결정하다	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	그의 불만을 사기로 정하기 전에	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	그 것, 유용한 그	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	주로 낮에 유용한	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	불쾌한 방해	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	자기스스로	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	불쾌하고 성가시게 한다	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	자기스스로 불쾌하고 성가시게 한다	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	나무가 가득한 장소에	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	그 때, 누군가가 길을 잃었던 그	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	인적이 드문 야생지에	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	그리고 길을 벗어나서 헤맨다	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	키가 크고 거대한 몸집	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	~를 통과하는데 성공하지 못했다	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	그 작은 관목들 사이에	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	자연 그대로를 손대는 것 외에	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	일반적으로 축축한	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	축축한 야생의 중간에	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	축축한 야생의 것들, 그것들의 중간에 ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	그는 어렵게 걸음 걸었다	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	경험이었다	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	드물지 않은	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	아프게 하고 항상 달갑지 않은	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	~할 수록	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	인생에서 앞으로 전진해 나갔다	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	그 성의 숲속에	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	앞으로 전진해 갈수록 더욱 ~가 싫어졌다	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	야간의 자연을 싫어했다	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	쉽게 볼 수 있는 눈을 가진 남자	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	눈, 잘 볼 수 있는 그	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	어둠속에서 잘 보다	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	힘겹게 가는 것을 쳐다보았다	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	우리의 산업가의	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	그는 미소지었다	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	그 남자 곁에	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	경찰의 옷가지에	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	다른 사람이 서 있었다	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	비슷한 옷을 입고 있는	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	여기 후자는 여자였다	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	우리 갑시다	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	그 남자는 나즈막히 말했다	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	자기 동거여인의 귀에 대고	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	지금이 적절한 순간이다	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	둘 다 곧바로 그 사람에게 걸어갔다	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	그들은 꼼꼼하게 ~를 하였다	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	가능한한 ~하게	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	가능한한 소음이 적게 (kiel eble)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	가능한한 소음이 적게 (laŭeble)	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	그들은 거의 완전히 성공했다	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	이러한 불쾌한 상황에서	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	불쾌한 상황, 나무들이 자기 가지들을 던지는 그러한	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	자기 젖은 가지들을 던졌다	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	그 얼굴들로 곧바로	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	그 산업가의	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	발이 많은 작은 동물들	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	그의 발들을 붙잡았다	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	산책로로	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	자연이 그의 발을 떨어뜨렸다	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	가장 아프게	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	그의 발을 구덩이 속으로 떨어뜨렸다	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	물로 가득찬 구덩이	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	악취가 나는 물	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	그 생각에 빠르게 도달했다	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	준비되어 있어야만 한다	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	여기에	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	~한 누구든지 (어떠한 ~이든지)	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	어떠한 불쾌한 만남에도 준비된	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	무엇인가를 (그 무엇이든)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	그는 어떤 것이든 기다렸다	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	사람 목소리 외에	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	목소리가 들릴 때, ~ 했다	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	바로 가까이에 들렸다	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	그는 근사한 제자리 뛰기를 했다	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	누가 그의 심장을 움직였는가	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	그 입술까지 위로	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	평안을 되찾기 위한 시도로	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	약간의 평온함	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	작은 등잔에서 나오는 그 빛	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	누군가 그의 눈으로 바로 가리켰다	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	그 등잔, 누군가 눈에 가리킨 그	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	평온회복을 방해했다	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	그에게 비춰졌다, ~ 하다고	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	그 사람 형상, 그 등잔을 들고 있는 그	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	경찰 옷을 입고 있다	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	당신 여기에서 무엇을 하고 있나요?	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	그 권위있는 목소리가 난다	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	~를 말씀해 보세요	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	좀 더 명확하게	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	다른 사람은 말했다	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	훨씬더 무거운 톤으로	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	나는 산책한다	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	너는 그 농장에서 산책한다	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	그 공작부인의	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	그 공작부인의 그 농장	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	한 밤 중에	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	그 공작부인이 당신을 초청했나요?	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	그녀가 ~에 대해서 알고 있나요?	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	당신의 참석에 대해서	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	여기에 당신이 참석한 것	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	나는 당신에게 ~를 요청해야 합니다	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	나를 따라오기를 당신에게 요청합니다	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	그리고 그는 ~를 설명하였다	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	설명하였다, ~하는 것을	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	그 서툰 시도로부터	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	그 공작부인을 붙잡으려는 그 서툰 시도	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	~의 덕분으로	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	테러리스트들 덕분에	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	그 경찰은 주의깊게 조사한다	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	조사한다, 무슨일이 일어나는지	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	그 주변에서 일어난다	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	그 성의	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	그 성의 주변	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	그 산업가에게	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	비춰졌다, ~하다고	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	그의 심장이 이번에는 떨어졌다	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	그의 발까지 떨어졌다	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	그는 알고있다, ~ 하다는 것을	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	그는 그가 ~을 찾으려는 것이 어려울 뿐	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	수긍이 가는 설명을 찾다	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	자기의 참석에 대해서	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	그 생각, 그 공작부인이 모든것을 알고 있다는 그	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	그 생각이 그로하여금 조그마한 희망을 앗아갔다	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	적은 희망	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	적은 희망, 남아 있었던 그	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	그 경찰의 첫 몇 마디 후에	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	~ 하면 할 수록 ~ 하다	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	길면 길 수록 좋다	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	얼마만큼이든 상관없이	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	15분전에	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	그들은 되돌아 왔다	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	그 끔찍한 불행 후에	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	그 사람들은 떠나갔다	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	그리고 그 오래된 도시들은 무너졌다	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	우리는 당신을 다시 보아야 할 것이다	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	자주 일수록	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	나는 궁리한다	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	더더욱 나는 화가난다	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	그녀는 ~에 거주한다	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	어떠한 집에서라도	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	우리 서로 다시 볼까요?	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	어디에든지 그리고 언제든지	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	언제 내가 ~을 다시 받아볼 것인가?	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	그 책들의 나머지 절반을	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	당신은 ~을 필요로 할까요?	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	한 분기 이상 필요로 한다	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	그러한 일들을 위해서	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	왜 ~하는가?	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	더더욱 추운	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	오래 될 수록	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	우리는 ~을 기다린다	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	당신은 ~에 만족하십니까?	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	어떠한 남자와도	with any man	grupo	0    	0000-00-00 00:00:00
