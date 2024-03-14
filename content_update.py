@@ -1,4 +1,4 @@
-import os, re, json, datetime, random, time, sys, fcntl
+import os, sys, fcntl
 
 #모든 사용자의 홈 디렉토리를 가져온다
 def get_all_users_home_dir():
