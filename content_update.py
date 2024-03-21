@@ -9,6 +9,7 @@ def get_all_users_home_dir():
         all_emails.extend(emails)
     return all_emails
 
+#하위 디렉토리의 전체 경로를 리턴한다.
 def get_subdirectories(directory):
     subdirectories = []
     for entry in os.listdir(directory):
@@ -17,6 +18,7 @@ def get_subdirectories(directory):
             subdirectories.append(full_path)
     return subdirectories
 
+#하위 경로의 폴더명만 리턴한다.
 def get_subdirs(directory):
     subdirs = []
     for entry in os.listdir(directory):
