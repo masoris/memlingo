@@ -1,19 +1,19 @@
 level	mi, vi	ฉันคุณ	I, you	grupo	0    	0000-00-00 00:00:00
 level	estas, estis	(ปัจจุบัน) เป็น อยู่ คือ เท่ากับ, (อดีต) เป็น อยู่ คือ เท่ากับ	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
-level	mi estas ~	ฉันคือ~	I am ~	grupo	0    	0000-00-00 00:00:00
-level	vi estas ~	คุณคือ ~	you are ~	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	ฉันคือ...	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	คุณคือ...	you are ~	grupo	0    	0000-00-00 00:00:00
 level	saluton	สวัสดี	hello	grupo	0    	0000-00-00 00:00:00
-level	saluton, mi estas ~	สวัสดี ฉันคือ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	สวัสดี ฉันคือ...	hello, I am ~	grupo	0    	0000-00-00 00:00:00
 level	mia, via	ของฉัน, ของคุณ	my, your	grupo	0    	0000-00-00 00:00:00
 level	nomo	ชื่อ	a name	grupo	0    	0000-00-00 00:00:00
 level	mia nomo, via nomo	ชื่อของฉัน, ชื่อของคุณ	my name, your name	grupo	0    	0000-00-00 00:00:00
-level	mia nomo estas ~	ชื่อของฉันคือ~	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	ชื่อของฉันคือ...	my name is ~	grupo	0    	0000-00-00 00:00:00
 level	via nomo estas ~	ชื่อของคุณคือ	your name is ~	grupo	0    	0000-00-00 00:00:00
 level	fartas, fartis	(ปัจจุบัน) มีสุขภาพ, (อดีต) มีสุขภาพ	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
 level	estis, estos	(ปัจจุบัน) เคยเป็น, (อนาคต) จะเป็น	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
 level	nomo, nomon	ชื่อ, ชื่อ (กรรม)	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
 level	mia amo	ความรักของฉัน	my love	grupo	0    	0000-00-00 00:00:00
-level	vi fartas	คุณมี ~ (สุขภาพ)	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	คุณมี... (สุขภาพ)	you are doing ~	grupo	0    	0000-00-00 00:00:00
 level	kiel	อย่างไร	how	grupo	0    	0000-00-00 00:00:00
 level	kiel vi fartas?	คุณเป็นอย่างไรบ้าง	how are you doing?	grupo	0    	0000-00-00 00:00:00
 level	kio	อะไร	what	grupo	0    	0000-00-00 00:00:00
@@ -23,7 +23,7 @@ level	fartas bone	มีสุขภาพดี	is doing well	grupo	0    	0000-
 level	mi fartas bone	ฉันสบายดี	I am doing well	grupo	0    	0000-00-00 00:00:00
 level	kaj	และ	and	grupo	0    	0000-00-00 00:00:00
 level	bone, kaj vi?	ดี, แล้วคุณล่ะ?	fine, and you?	grupo	0    	0000-00-00 00:00:00
-level	ĝis ~	จนกระทั่ง ~	until ~	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	จนกระทั่ง...	until ~	grupo	0    	0000-00-00 00:00:00
 level	vidas, vidis	(ปัจจุบัน) เห็น, (อดีต) เห็นแล้ว	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
 level	vidis, revidis	(อดีต) เห็นแล้ว, (อดีต) เห็นอีก	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
 level	revidis, revidos	เห็นอีกแล้ว, จะได้เห็นอีก	saw again, will see again	grupo	0    	0000-00-00 00:00:00
@@ -31,7 +31,7 @@ level	revido, revidon	เห็นอีกครั้ง, เห็นอี�
 level	ĝis revido!	แล้วพบกันอีก!	see you again!	grupo	0    	0000-00-00 00:00:00
 level	dankon	ขอบคุณ	thank you	grupo	0    	0000-00-00 00:00:00
 level	dankon kaj ĝis revido!	ขอบคุณและพบกันใหม่!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
-level	al ~	ถึง ~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al ~	ถึง...	to ~	grupo	0    	0000-00-00 00:00:00
 level	al vi, al mi	ไปยังคุณ, ไปยังฉัน	to you, to me	grupo	0    	0000-00-00 00:00:00
 level	dankas, dankis	(ปัจจุบัน) ขอบคุณ, (อดีต) ขอบคุณ	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
 level	mi dankas al vi	ฉันขอขอบคุณคุณ	I appreciate to you	grupo	0    	0000-00-00 00:00:00
@@ -57,7 +57,7 @@ level	bonan nokton	ราตรีสวัสดิ์	good night	grupo	0    	0
 level	bonan sonĝon	ฝันดีนะ	sweet dream	grupo	0    	0000-00-00 00:00:00
 level	bonan vojaĝon, al vi	(ขอให้)เดินทางโดยสวัสดิภาพ	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
 level	bonan tagon	ขอให้เป็นวันที่ดี!	good day!	grupo	0    	0000-00-00 00:00:00
-level	ĉu ~	~ หรือไม่?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	... หรือไม่?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
 level	ĉu vi fartas bone?	คุณสบายดีไหม? (คุณเป็นอย่างไร?)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
 level	jes, mi fartas bone	ใช่, ฉันสบายดี	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
 level	ne, tute ne	ไม่, ไม่เลย	no, not at all	grupo	0    	0000-00-00 00:00:00
@@ -72,7 +72,7 @@ level	lernanta, lernanto	ซึ่งกำลังเรียน, ผู้�
 level	-anta, -anto	ซึ่งกำลัง..., ผู้ที่กำลัง	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
 level	lernanto, lerninto	ผู้ที่กำลังเรียน (นักเรียน), ผู้ที่เรียนไปแล้ว	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
 level	mi estas lernanto	ฉันเป็นนักเรียน.	I am a student.	grupo	0    	0000-00-00 00:00:00
-level	~ estas mia amiko	~ เป็นเพื่อนของฉัน	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	... เป็นเพื่อนของฉัน	~ is my friend	grupo	0    	0000-00-00 00:00:00
 level	li, ŝi	เขา, หล่อน	he, she	grupo	0    	0000-00-00 00:00:00
 level	sidi, sidas	นั่ง, กำลังนั่ง	to sit, sits	grupo	0    	0000-00-00 00:00:00
 level	sidanta, sidinta, sidonta	ซึ่งกำลังนั่ง, ซึ่งนั่งไปแล้ว, ซึ่งจะนั่ง	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
@@ -95,10 +95,10 @@ level	libro kaj libroj	หนังสือ1 เล่มและหนัง�
 level	la paperoj kaj libroj	กระดาษหลายแผ่นและหนังสือหลายเล่ม	the papers and books	grupo	0    	0000-00-00 00:00:00
 level	ĝi estas sur tablo	มันอยู่บนโต๊ะ	it is on a table.	grupo	0    	0000-00-00 00:00:00
 level	skribas sur la skribotablo	กำลังเขียนอยู่บนโต๊ะเขียนหนังสือ	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
-level	la libroj estas ~	หนังสือหลายเล่มนั้นคือ ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	หนังสือหลายเล่มนั้นคือ...	the books are ~	grupo	0    	0000-00-00 00:00:00
 level	sur la tablo	บนโต๊ะ	on the table	grupo	0    	0000-00-00 00:00:00
-level	lernolibro kaj la lernolibroj	หนังสือเรียนและหนังสือเรียน	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
-level	sur la tablo estas ~	บนโต๊ะมี~	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	หนังสือเรียนและหนังสือเรียนหลายเล่ม	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	บนโต๊ะมี...	on the table there is ~	grupo	0    	0000-00-00 00:00:00
 level	patro kaj patrino	พ่อและแม่	a father and a mother	grupo	0    	0000-00-00 00:00:00
 level	la patro kaj la patrino	พ่อและแม่	the father and the mother	grupo	0    	0000-00-00 00:00:00
 level	la patrino de mia amiko	แม่ของเพื่อนของฉัน	the mother of my friend	grupo	0    	0000-00-00 00:00:00
@@ -114,47 +114,47 @@ level	ne, ŝi estas hotelisto	ไม่ เธอเป็นพนักงา�
 level	ne, mi ne laboras	ไม่ ฉันไม่ได้ทำงาน	no, I don't work	grupo	0    	0000-00-00 00:00:00
 level	kio estas ŝia nomo?	เธอชื่ออะไร?	what is her name?	grupo	0    	0000-00-00 00:00:00
 level	kiu nun respondas?	ตอนนี้ใครกำลังตอบอยู่?	who is now answering?	grupo	0    	0000-00-00 00:00:00
-level	la lingvo de ilia patrino	ภาษาของแม่ของพวกเขา	the language of their mother	grupo	0    	0000-00-00 00:00:00
-level	ĉu via nomo estas ~ ?	คุณชื่อ ~ ?	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
-level	ni sidas kaj respondas	เรากำลังนั่งตอบอยู่	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	ภาษาของแม่พวกเขา	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	คุณชื่อ...ใช่ไหม?	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	พวกเรากำลังนั่งและตอบ	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
 level	ŝia labora seĝo	เก้าอี้ทำงานของเธอ	her working chair	grupo	0    	0000-00-00 00:00:00
-level	ĝia nomo ne estas ~	ไม่ใช่ชื่อของมัน~	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	ไม่ใช่ชื่อของมัน...	its name is not ~	grupo	0    	0000-00-00 00:00:00
 level	ŝia lingvo estas ilia lingvo	ภาษาของเธอคือภาษาของพวกเขา	her language is their language	grupo	0    	0000-00-00 00:00:00
 level	nia patro kaj patrino	พ่อและแม่ของเรา	our father and mother	grupo	0    	0000-00-00 00:00:00
 level	via lernanto, viaj lernantoj	นักเรียนของคุณ นักเรียนของคุณ	your student, your students	grupo	0    	0000-00-00 00:00:00
 level	ĉu ili estas viaj lernantoj?	พวกเขาเป็นนักเรียนของคุณหรือเปล่า?	are they your students?	grupo	0    	0000-00-00 00:00:00
 level	ĉu vi estas lernanto?	คุณเป็นนักเรียนหรือเปล่า?	are you a student?	grupo	0    	0000-00-00 00:00:00
 level	ĉu vi estas en la ĉambro?	คุณอยู่ในห้องหรือเปล่า?	are you in the room?	grupo	0    	0000-00-00 00:00:00
-level	mi ne estas ~	ฉันไม่~	I'm not ~	grupo	0    	0000-00-00 00:00:00
-level	esperantisto kaj esperantistino	นักภาษาเอสเปรันติสต์และนักภาษาเอสเปรันติสต์หญิง	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
-level	enskribis por la hotelĉambro	เช็คอินเข้าห้องพักในโรงแรม	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	ฉันไม่...	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	ผู้ใช้ภาษาเอสเปรันโตชายและผู้ใช้ภาษาเอสเปรันโตหญิง	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	เช็คอินเข้าห้องพักในโรงแรมแล้ว	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
 level	lingvisto kaj laboristino	นักภาษาศาสตร์และคนงานหญิง	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
-level	lia amikino estas ~	เพื่อนสาวของเขาคือ~	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	เพื่อนผู้หญิงของเขาคือ...	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
 level	lernantoj kaj sportistoj	นักเรียนและนักกีฬา	students and sportsmen	grupo	0    	0000-00-00 00:00:00
-level	mia familia nomo estas ~	ชื่อครอบครัวของฉันคือ ~	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	นามสกุลของฉันคือ...	my familia name is ~	grupo	0    	0000-00-00 00:00:00
 level	kiu estas ŝi?	เธอเป็นใคร? เธอคือใคร?	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
-level	estas via amikino	เป็นเพื่อนสาวของคุณ	is your girl friend	grupo	0    	0000-00-00 00:00:00
-level	ĉu via amiko estas ~ ?	เพื่อนของคุณ~ ?	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	เป็นเพื่อนผู้หญิงของคุณ	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	เพื่อนของคุณเป็น...ใช่ไหม?	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
 level	skribas nun en la ĉambro	ตอนนี้กำลังเขียนอยู่ในห้อง	is writing now in the room	grupo	0    	0000-00-00 00:00:00
-level	ĉu la amiko de via patro ~ ?	เพื่อนของพ่อเหรอ~ ?	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	เพื่อนของพ่อ...ใช่ไหม?	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
 level	laboras en hotelo	ทำงานในโรงแรม	works in a hotel	grupo	0    	0000-00-00 00:00:00
 level	kio estas sur la tablo?	อะไรอยู่บนโต๊ะ?	what is on the table?	grupo	0    	0000-00-00 00:00:00
 level	sur la tablo en nia ĉambro	บนโต๊ะในห้องของเรา	on the table in our room	grupo	0    	0000-00-00 00:00:00
-level	ĉu la lernolibro de Esperanto ~ ?	หนังสือเรียนภาษาเอสเปรันโตคือ~ ?	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	หนังสือเรียนภาษาเอสเปรันโต...ใช่ไหม?	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
 level	estas sur via tablo	อยู่บนโต๊ะของคุณ	is on your table	grupo	0    	0000-00-00 00:00:00
 level	havas amikinon	มีเพื่อน	has a friend	grupo	0    	0000-00-00 00:00:00
-level	ŝia nomo estas ~	เธอชื่อ ~	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	เธอชื่อ...	her name is ~	grupo	0    	0000-00-00 00:00:00
 level	juna kaj bela	สาวและสวย	young and beautiful	grupo	0    	0000-00-00 00:00:00
 level	estas juna kaj bela	ยังเด็กและสวยงาม	is young and beautiful	grupo	0    	0000-00-00 00:00:00
-level	junaj kaj belaj amikoj	เพื่อนที่อายุน้อยและสวยงาม	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	เพื่อนอายุน้อยและสวยงาม	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
 level	estas geamikoj	เป็นเพื่อนชายและหญิง	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
 level	hejmo de ŝia instruisto	บ้านของครูของเธอ	a home of her teacher	grupo	0    	0000-00-00 00:00:00
 level	venis al la hejmo	มาที่บ้าน	came to the home	grupo	0    	0000-00-00 00:00:00
-level	la hejmo de ~	บ้านของ ~	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	บ้านของ...	the home of ~	grupo	0    	0000-00-00 00:00:00
 level	bonvolu eniri	กรุณาเข้ามา	please come in	grupo	0    	0000-00-00 00:00:00
 level	saluton! kion vi faras?	สวัสดีคุณกำลังทำอะไรอยู่?	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
 level	kion vi faras?	คุณทำงานอะไร? คุณกำลังทำอะไร?	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
-level	sed nun mi volas ~	แต่ตอนนี้ฉันต้องการ~	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	แต่ตอนนี้ฉันต้องการ...	but now I want ~	grupo	0    	0000-00-00 00:00:00
 level	mi volas paroli	ฉันต้องการที่จะพูด	I want to speak	grupo	0    	0000-00-00 00:00:00
 level	kun tri geamikoj	กับเพื่อนชายและหญิงสามคน	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
 level	parolis kun vi	พูดคุยกับคุณ	spoke with you	grupo	0    	0000-00-00 00:00:00
@@ -166,26 +166,26 @@ level	jes, mi havas	ใช่ฉันมี	yes, I have	grupo	0    	0000-00-00 
 level	ili ŝatas ĝin	พวกเขาชอบมัน	they like it	grupo	0    	0000-00-00 00:00:00
 level	ŝi legis libron	เธออ่านหนังสือ	she read a book	grupo	0    	0000-00-00 00:00:00
 level	ŝatas legi librojn	ชอบอ่านหนังสือ	likes to read books	grupo	0    	0000-00-00 00:00:00
-level	nur bona libro	หนังสือดีๆ สักเล่มเท่านั้น	only a good book	grupo	0    	0000-00-00 00:00:00
-level	multaj bonaj libroj	หนังสือดีๆมากมาย	many good books	grupo	0    	0000-00-00 00:00:00
-level	legis nur bonajn librojn	อ่านหนังสือดีๆ เท่านั้น	read only good books	grupo	0    	0000-00-00 00:00:00
-level	ŝatas legi bonajn librojn	ชอบอ่านหนังสือดีๆ	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	หนังสือดีเท่านั้น	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	หนังสือดี ๆ มากมาย	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	อ่านหนังสือดี ๆ เท่านั้น	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	ชอบอ่านหนังสือดี ๆ	likes to read good books	grupo	0    	0000-00-00 00:00:00
 level	ĉu vi volas legi?	คุณอยากอ่านไหม?	do you want to read?	grupo	0    	0000-00-00 00:00:00
-level	la junulo trinkis kafon	เจ้าหนูดื่มกาแฟ	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	หนุ่มวัยรุ่นดื่มกาแฟ	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
 level	volas trinki akvon	อยากดื่มน้ำ	wants to drink water	grupo	0    	0000-00-00 00:00:00
-level	patro kaj patrino, gepatroj	พ่อและแม่; ผู้ปกครอง	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
-level	frato kaj fratino, gefratoj	ความรำคาญและน้องสาวพี่น้อง	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	พ่อและแม่, พ่อแม่	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	พี่ชายและพี่สาว, พี่น้อง	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
 level	viaj gepatroj kaj gefratoj	พ่อแม่และพี่น้องของคุณ	your parents and siblings	grupo	0    	0000-00-00 00:00:00
 level	estas en via hejmo	อยู่ในบ้านของคุณ	is in your home	grupo	0    	0000-00-00 00:00:00
 level	jen la kafo	นี่คือกาแฟ	here is the coffee	grupo	0    	0000-00-00 00:00:00
 level	ankoraŭ ne trinkis	ยังไม่ได้ดื่ม	didn't drink yet	grupo	0    	0000-00-00 00:00:00
-level	estas ankoraŭ varma	ยังอบอุ่นอยู่	is still warm	grupo	0    	0000-00-00 00:00:00
-level	hieraŭ kuiris ĝin	ปรุงมันเมื่อวานนี้	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
-level	mi nun kuiris	ตอนนี้ฉันปรุงสุกแล้ว	I now cooked	grupo	0    	0000-00-00 00:00:00
-level	dankon. tiel li diris	ขอบคุณ. ดังนั้นเขาจึงพูด	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	ยังอุ่นอยู่	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	ชงมันเมื่อวานนี้	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	ตอนนี้ฉันชงแล้ว	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	ขอบคุณ, เขาพูดอย่างนั้น	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
 level	povas trinki kaj manĝi	สามารถดื่มและกินได้	can drink and eat	grupo	0    	0000-00-00 00:00:00
 level	trinkis malvarman kafon	ดื่มกาแฟเย็น	drank cold coffee	grupo	0    	0000-00-00 00:00:00
-level	ankaŭ varma kafo	กาแฟอุ่นๆยังอยู่	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	กาแฟอุ่นยังอยู่	still warm coffee	grupo	0    	0000-00-00 00:00:00
 level	trinkas ankaŭ malvarman kafon	ดื่มกาแฟเย็นด้วย	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
 level	povas trinki ankaŭ malvarman kafon	สามารถดื่มกาแฟเย็นได้	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
 level	rigardas ŝian okulon	มองตาเธอ	looks at her eye	grupo	0    	0000-00-00 00:00:00
@@ -194,24 +194,24 @@ level	la belaj okuloj	ดวงตาที่สวยงาม	the beautiful e
 level	rigardis la belajn okulojn	มองดวงตาที่สวยงาม	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
 level	la belaj okuloj de ŝi	ดวงตาที่สวยงามของเธอ	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
 level	vidas kaj komprenas	มองเห็นและเข้าใจ	sees and understands	grupo	0    	0000-00-00 00:00:00
-level	mi vidas, ke ~	ฉันเห็นแล้ว~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	ฉันเห็นว่า...	I see that ~	grupo	0    	0000-00-00 00:00:00
 level	ke li amas ŝin	ว่าเขารักเธอ	that he loves her	grupo	0    	0000-00-00 00:00:00
 level	ŝi sentis, ke li amas ŝin	เธอรู้สึกว่าเขารักเธอ	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
 level	demandas, ĉu tio estis granda	ถามว่ามันใหญ่ไหม	asks whether that was big	grupo	0    	0000-00-00 00:00:00
-level	pri facila demando	เกี่ยวกับคำถามง่ายๆ	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	เกี่ยวกับคำถามง่าย ๆ	about an easy question	grupo	0    	0000-00-00 00:00:00
 level	diris pri nova mono	กล่าวถึงเงินใหม่	said about a new money	grupo	0    	0000-00-00 00:00:00
 level	tre belaj okuloj	ดวงตาที่สวยงามมาก	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
 level	rigardis la grandan fraton	มองไปที่พี่ใหญ่	looked the big brother	grupo	0    	0000-00-00 00:00:00
 level	malgranda fratino forgesis ĝin	น้องสาวคนเล็กลืมมันไป	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
-level	akuzativo	ข้อกล่าวหา (วัตถุประสงค์)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
-level	ne forgesu akuzativon	อย่าลืมตอนจบแบบกล่าวหา	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
-level	kiun vi vidas?	คุณเห็นใครอยู่? คุณเห็นอันไหน?	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	กรรมการก (กรรม)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	อย่าลืมกรรมการก	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	คุณเห็นใครอยู่?	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
 level	mi vidas amikon	ฉันเห็นเพื่อนคนหนึ่ง	I see a friend	grupo	0    	0000-00-00 00:00:00
 level	havas bonajn geamikojn	มีเพื่อนชายและหญิงที่ดี	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
 level	ili laboras pri la malnova domo	พวกเขากำลังทำงานเกี่ยวกับบ้านหลังเก่า	they are working about the old house	grupo	0    	0000-00-00 00:00:00
-level	laboras, laboris, laboros	ทำงาน ทำงาน จะทำงาน	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	ทำงาน ทำงานแล้ว จะทำงาน	works, worked, will work	grupo	0    	0000-00-00 00:00:00
 level	vidas, ke mi manĝas	เห็นว่าฉันกิน	sees, that I eat	grupo	0    	0000-00-00 00:00:00
-level	diris, ke li iros	บอกว่าจะไป	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	บอกว่าเขาจะไป	said, that he will go	grupo	0    	0000-00-00 00:00:00
 level	malbela kaj malbona	น่าเกลียดและไม่ดี	ugly and bad	grupo	0    	0000-00-00 00:00:00
 level	kion ŝi diris?	เธอพูดอะไร?	what did she say?	grupo	0    	0000-00-00 00:00:00
 level	kion vi atendas?	คุณกำลังรออะไรอยู่?	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
@@ -219,55 +219,55 @@ level	eniris en la ĉambron	เข้าไปในห้อง	went into the r
 level	enhavo estis tre malfacila	เนื้อหาเป็นเรื่องยากมาก	a content is very difficult	grupo	0    	0000-00-00 00:00:00
 level	alvenis al la kunsido	มาถึงที่ประชุมแล้ว	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
 level	bonvenon, al la kunveno	ยินดีต้อนรับสู่การประชุม	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
-level	maljuna viro donis trinkmonon	ชายชราคนหนึ่งให้คำแนะนำ	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
-level	alvenis kaj estis bonvena	มาถึงก็ได้รับการต้อนรับ	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	ชายชราคนหนึ่งให้ทิป	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	มาถึงและได้รับการต้อนรับ	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
 level	ili malamas sed kunlaboras.	พวกเขาเกลียดแต่ก็ให้ความร่วมมือ	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
 level	iris al la hotelo	ไปที่โรงแรม	went to the hotel	grupo	0    	0000-00-00 00:00:00
-level	havas facilajn lernolibrojn	มีตำราเรียนง่ายๆ	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	มีตำราเรียนง่าย ๆ	has easy textbooks	grupo	0    	0000-00-00 00:00:00
 level	kia estis via patrino?	แม่ของคุณเป็นอย่างไรบ้าง?	how was your mother?	grupo	0    	0000-00-00 00:00:00
 level	via malnova hejmo	บ้านเก่าของคุณ	your old home	grupo	0    	0000-00-00 00:00:00
-level	kiujn librojn vi legis?	คุณอ่านหนังสือไหน?	which books did you read?	grupo	0    	0000-00-00 00:00:00
-level	ĉu ili estis bonaj?	พวกเขาสบายดีไหม?	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	คุณอ่านหนังสือเล่มไหน?	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	พวกเขาดีไหม?	were they good?	grupo	0    	0000-00-00 00:00:00
 level	kion faris hieraŭ?	เมื่อวานทำอะไร?	did what yesterday?	grupo	0    	0000-00-00 00:00:00
-level	en la malgranda ĉambro	ในห้องเล็กๆ	in the small room	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	ในห้องเล็ก ๆ	in the small room	grupo	0    	0000-00-00 00:00:00
 level	tre longe parolis	พูดนานมากแล้ว	spoke very long while	grupo	0    	0000-00-00 00:00:00
-level	antaŭ la lernejo	หน้าโรงเรียน, ก่อนโรงเรียน	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
-level	parolis antaŭ la lernejo	พูดต่อหน้าโรงเรียน	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	หน้าโรงเรียน	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	พูดหน้าโรงเรียน	spoke before the school	grupo	0    	0000-00-00 00:00:00
 level	poste parolis pri la libro	ต่อมาก็พูดถึงหนังสือเล่มนี้	later spoke about the book	grupo	0    	0000-00-00 00:00:00
 level	ĝoje iris al la lernejo	ไปโรงเรียนด้วยความยินดี	gladly went to the school	grupo	0    	0000-00-00 00:00:00
 level	tra la strato	ผ่านถนน	through the street	grupo	0    	0000-00-00 00:00:00
 level	iris tra la strato	เดินผ่านถนน	went through the street	grupo	0    	0000-00-00 00:00:00
 level	estis varma tago	เป็นวันที่อบอุ่น	was a warm day	grupo	0    	0000-00-00 00:00:00
-level	ili vidis kafejon	พวกเขาเห็นร้านกาแฟ'	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	พวกเขาเห็นร้านกาแฟ	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
 level	vidis ruĝajn kukojn	เห็นคุกกี้สีแดง	saw red cookies	grupo	0    	0000-00-00 00:00:00
 level	vidis kukojn en ĝi	เห็นคุกกี้อยู่ในนั้น	saw cookies in it	grupo	0    	0000-00-00 00:00:00
 level	vidis kafejon kaj en ĝi kukojn	เห็นร้านกาแฟแล้วมีคุกกี้อยู่ในนั้น	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
-level	eniru kaj manĝu!	เข้าไปกิน!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	เข้าไปและกิน!	go in and eat!	grupo	0    	0000-00-00 00:00:00
 level	ni eniru kaj manĝu	เข้ามาทานอาหารกันเถอะ	let's come in and eat	grupo	0    	0000-00-00 00:00:00
 level	havas sufiĉan monon	มีเงินเพียงพอ	has sufficient money	grupo	0    	0000-00-00 00:00:00
 level	ĉu vi havas sufiĉan monon?	คุณมีเงินเพียงพอหรือไม่?	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
 level	ĉu vi komprenas?	คุณเข้าใจไหม?	do you understand?	grupo	0    	0000-00-00 00:00:00
 level	kompreneble!	แน่นอน!	of course!	grupo	0    	0000-00-00 00:00:00
 level	tio ne sufiĉas	นั่นยังไม่เพียงพอ	that is not enough	grupo	0    	0000-00-00 00:00:00
-level	cent dolaroj sufiĉas	หนึ่งร้อยเหรียญก็เพียงพอแล้ว	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
-level	dolaro, dolaroj, dolarojn	ดอลลาร์ ดอลลาร์ ดอลลาร์ (พหูพจน์วัตถุประสงค์)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	หนึ่งร้อยดอลลาร์ก็เพียงพอแล้ว	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	ดอลลาร์ ดอลลาร์ (พหูพจน์) ดอลลาร์ (พหูพจน์กรรม)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
 level	havas cent dolarojn	มีหนึ่งร้อยเหรียญ	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
-level	kompreneble, mi havas	แน่นอนฉันมี	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	แน่นอน ฉันมี	of course, I have	grupo	0    	0000-00-00 00:00:00
 level	ho! vi estas riĉa!	โอ้! คุณรวย!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
-level	kelnero, kelnerino	น้ำ พนักงานเสิร์ฟ	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	พนักงานเสิร์ฟชาย พนักงานเสิร์ฟหญิง	a water, an waitress	grupo	0    	0000-00-00 00:00:00
 level	kelnero portas menuon	พนักงานเสิร์ฟนำเมนูมา	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
 level	portis tion al ni, alportis tion	นำสิ่งนั้นมาให้เรา นำสิ่งนั้นมา	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
-level	kelnero alportis multajn kukojn	บริกรนำคุกกี้มามากมาย	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	พนักงานเสิร์ฟนำคุกกี้มามากมาย	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
 level	ili manĝis iom	พวกเขากินไปบ้าง (เล็กน้อย)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
-level	post la manĝo	หลังรับประทานอาหาร (มื้อ)	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
-level	nova, denove	ใหม่อีกครั้ง	new, again	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	หลังรับประทานอาหาร	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	ใหม่ อีกครั้ง	new, again	grupo	0    	0000-00-00 00:00:00
 level	la kelnero denove venis	พนักงานเสิร์ฟมาอีกครั้ง	the waiter came again	grupo	0    	0000-00-00 00:00:00
-level	en iu loko	ในบางแห่ง	in some place	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	ในสถานที่ที่หนึ่ง	in some place	grupo	0    	0000-00-00 00:00:00
 level	serĉis en iu loko	ได้ค้นหาสถานที่แห่งหนึ่ง	had searched in some place	grupo	0    	0000-00-00 00:00:00
-level	serĉis en alia loko	ค้นหาในที่อื่น	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	ได้ค้นหาในที่อื่น	searched in other place	grupo	0    	0000-00-00 00:00:00
 level	lia vizaĝo estis ĝoja	ใบหน้าของเขาร่าเริง	his face was joyous	grupo	0    	0000-00-00 00:00:00
 level	ŝi estis malĝoja	เธอเศร้า	she was sad	grupo	0    	0000-00-00 00:00:00
-level	fine kaj finfine	ในท้ายที่สุดและในที่สุดในที่สุด	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	ในท้ายที่สุดและในที่สุด	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
 level	via forta voĉo	เสียงที่แข็งแกร่งของคุณ	your strong voice	grupo	0    	0000-00-00 00:00:00
 level	en malforta voĉo	ด้วยน้ำเสียงที่อ่อนแอ	in weak voice	grupo	0    	0000-00-00 00:00:00
 level	ne havas monon	ไม่มีเงิน	doesn't have money	grupo	0    	0000-00-00 00:00:00
@@ -276,22 +276,22 @@ level	akcidento okazis poste	อุบัติเหตุเกิดขึ้
 level	ĉu vi scias, kiam ĝi okazis?	คุณรู้ไหมว่ามันเกิดขึ้นเมื่อไหร่?	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
 level	scias pri la afero	รู้เกี่ยวกับเรื่องนี้	knows about the matter	grupo	0    	0000-00-00 00:00:00
 level	ankoraŭ unu afero restas	ยังมีสิ่งหนึ่งที่ยังคงอยู่	still one thing remains	grupo	0    	0000-00-00 00:00:00
-level	vi aŭ ŝi, ajna homo	คุณหรือเธอบุคคลใด ๆ	you or she, any person	grupo	0    	0000-00-00 00:00:00
-level	kiel kantisto	เหมือนนักร้องในฐานะผู้ลงนาม	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	คุณหรือเธอ คนไหนก็ได้	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	เหมือนนักร้อง	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
 level	kantis kiel profesia kantisto	ร้องเพลงเหมือนนักร้องมืออาชีพ	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
 level	tie, kie ŝi loĝis	สถานที่ที่เธออาศัยอยู่	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
 level	kiel vi scias pri la aŭto?	คุณรู้เรื่องรถได้ยังไง?	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
-level	nu, vidu la rapidan aŭton	ดูรถเร็วสิ	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	นั่น ดูรถเร็วนั้นสิ	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
 level	suko sen sukero	น้ำผลไม้ไม่มีน้ำตาล	a juice without sugar	grupo	0    	0000-00-00 00:00:00
 level	li havis rapidan veturilon	เขามียานพาหนะที่รวดเร็ว	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
 level	tro forte	แรงเกินไป	too strongly	grupo	0    	0000-00-00 00:00:00
 level	li tro forte malfermis	เขาเปิดแรงเกินไป	he opened too hard	grupo	0    	0000-00-00 00:00:00
-level	veturis tro rapide	ขับรถ (เดินทาง) เร็วเกินไป	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	ขับรถเร็วเกินไป	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
 level	manĝis per kulero	กินด้วยช้อน	ate with a spoon	grupo	0    	0000-00-00 00:00:00
 level	ni forte dubas	เราสงสัยอย่างยิ่ง	we strongly doubt	grupo	0    	0000-00-00 00:00:00
 level	vera letero de li	จดหมายที่แท้จริงจากเขา	a true letter from him	grupo	0    	0000-00-00 00:00:00
 level	amletero kun kvin fotoj	จดหมายรักพร้อมรูปถ่ายห้าใบ	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
-level	revenis, revenintoj	กลับมาคนที่กลับมา	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	กลับมาแล้ว ผู้คนที่กลับมา	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
 level	ankaŭ ses leteroj revenis	จดหมายหกฉบับกลับมาด้วย	also six letters returned	grupo	0    	0000-00-00 00:00:00
 level	volis vidi la foton	อยากเห็นรูปถ่าย	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
 level	revenis el la lernejo	กลับมาจากโรงเรียน	came back from the school	grupo	0    	0000-00-00 00:00:00

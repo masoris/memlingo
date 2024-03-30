@@ -10,7 +10,7 @@ Saluton	mia nomo, via nomo	我的名字，你的名字	my name, your name	Saluto
 Saluton	mia nomo estas ~	我的名字是~	my name is ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	via nomo estas ~	你的名字是~	your name is ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	fartas, fartis	（现在）做，（过去）做	(present) does, (past) did	Saluton	0    	0000-00-00 00:00:00
-Saluton	estis, estos	（现在）曾经、曾经（未来）将会	(present) was, were (future) will be	Saluton	0    	0000-00-00 00:00:00
+Saluton	estis, estos	（过去）曾经、曾经（未来）将会	(present) was, were (future) will be	Saluton	0    	0000-00-00 00:00:00
 Saluton	nomo, nomon	一个名字，一个（客观的）名字	a name, an (objective) name	Saluton	0    	0000-00-00 00:00:00
 Saluton	mia amo	亲爱的	my love	Saluton	0    	0000-00-00 00:00:00
 Saluton	vi fartas	你在做~	you are doing ~	Saluton	0    	0000-00-00 00:00:00
@@ -45,33 +45,33 @@ Saluton	-inda	值得（完结）	worthwhile (ending)	Saluton	0    	0000-00-00 00
 Saluton	dankinda, dankinde	值得赞赏的，值得感谢的	appreciatable, worthwhile to thank	Saluton	0    	0000-00-00 00:00:00
 Saluton	tuta, tute	整体，整体	whole, as a whole	Saluton	0    	0000-00-00 00:00:00
 Saluton	tuto, tuton	所有，（客观）所有	all, (objective) all	Saluton	0    	0000-00-00 00:00:00
-Saluton	nedankinde	完全不，不客气	not at all, you're welcome	Saluton	0    	0000-00-00 00:00:00
-Saluton	tute ne	完全没有	totally no	Saluton	0    	0000-00-00 00:00:00
-Saluton	pardoni ~, pardono	宽恕，宽恕	to forgive, a forgiving	Saluton	0    	0000-00-00 00:00:00
-Bonan nokton	pardonon al mi	对我的宽恕	a forgiving to me	Bonan nokton	0    	0000-00-00 00:00:00
+Saluton	nedankinde	不客气	not at all, you're welcome	Saluton	0    	0000-00-00 00:00:00
+Saluton	tute ne	完全不是	totally no	Saluton	0    	0000-00-00 00:00:00
+Saluton	pardoni ~, pardono	原谅	to forgive, a forgiving	Saluton	0    	0000-00-00 00:00:00
+Bonan nokton	pardonon al mi	请原谅我	a forgiving to me	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	pardonon	对不起！ （对不起）	I'm sorry! (pardon me)	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	pardonon, mi petas	对不起，请	I'm sorry, please	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bona mateno	早上好	a good morning	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bonan matenon	早上好	good morning	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bonan nokton	晚安	good night	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	bonan sonĝon	甜蜜的梦	sweet dream	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	bonan sonĝon	做个好梦	sweet dream	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bonan vojaĝon, al vi	祝你旅途愉快	(have) a good trip, to you	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	bonan tagon	再会！	good day!	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	bonan tagon	中午好！	good day!	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ĉu ~	是吗~？	is it ~ ?	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	ĉu vi fartas bone?	你怎么样？ （你好吗？）	are you doing well? (how are you?)	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	jes, mi fartas bone	是的，我没事	yes, I'm fine	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	ĉu vi fartas bone?	你过得好吗？ （你好吗？）	are you doing well? (how are you?)	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	jes, mi fartas bone	是的，我过得(很)好	yes, I'm fine	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ne, tute ne	一点都不	no, not at all	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	tre, tro	非常、太多	very, too much	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	granda, grande	大的，很大程度上	big, largely	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	tre bona, tro granda	很好，太大了	very good, too big	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	vi tre bone fartas	你做得很好	you are doing very well	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	ne tre bone	不是很好	not very well	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	tre bona, tro granda	很好，太好	very good, too big	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	vi tre bone fartas	你过得很好	you are doing very well	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	ne tre bone	不太好	not very well	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lerni ~, lerno	学习，学习	to learn, a learning	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	vidanta, vidanto	正在看，一个旁观者	is looking, a spectator	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lernanta, lernanto	正在学习，一个学生（一个学习的人）	is learning, a student (a learning person)	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	-anta, -anto	is -ing，正在做的人	is -ing, a person who is doing	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lernanto, lerninto	一个学生，一个有学问的人	a student, a person who has learned	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	mi estas lernanto	我是一名学生。	I am a student.	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	mi estas lernanto	我是学生。	I am a student.	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	~ estas mia amiko	〜是我的朋友	~ is my friend	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	li, ŝi	他她	he, she	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sidi, sidas	坐，坐	to sit, sits	Bonan nokton	0    	0000-00-00 00:00:00
@@ -79,11 +79,11 @@ Bonan nokton	sidanta, sidinta, sidonta	正在坐，正在坐，将坐	is sitting
 Bonan nokton	li sidas kaj ŝi lernas	他坐着，她在学习	he is sitting and she is learning	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ĉambro	一个房间	a room	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lernas en ĉambro	在房间里学习	learns in a room	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	lernanto kaj sportisto	一名学生和一名运动员	a student and a sportsman	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	lernanto kaj sportisto	学生和运动员	a student and a sportsman	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sporto kaj sportisto	运动和运动员	sport and a sportsman	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sportisto nun sportas	运动员正在运动	a sportsman is sporting	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	li estas lernanto	他是学生	he is a student	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	estas lernanto kaj sportisto	他是一名学生和运动员	he is a student and a sportman	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	estas lernanto kaj sportisto	他是名学生,也是运动员	he is a student and a sportman	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	li nun sidas	他现在坐着	he is now sitting	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	kaj nun lernas	现在正在学习	and is now learning	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sidas kaj lernas	正在坐着学习	is sitting and is learning	Bonan nokton	0    	0000-00-00 00:00:00
@@ -94,23 +94,23 @@ Bonan nokton	tablo kaj tabloj	一张桌子和几张桌子	a table and tables	Bon
 Bonan nokton	libro kaj libroj	一本书和书	a book and books	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	la paperoj kaj libroj	论文和书籍	the papers and books	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ĝi estas sur tablo	它在桌子上。	it is on a table.	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	skribas sur la skribotablo	正在写字台上写字	is writing on a writing table	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	skribas sur la skribotablo	正在桌子上写字	is writing on a writing table	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	la libroj estas ~	书是~	the books are ~	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sur la tablo	在桌子上	on the table	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lernolibro kaj la lernolibroj	一本教科书和教科书	a textbook and the textbooks	Bonan nokton	0    	0000-00-00 00:00:00
 Amiko	sur la tablo estas ~	桌子上有~	on the table there is ~	Amiko	0    	0000-00-00 00:00:00
-Amiko	patro kaj patrino	一位父亲和一位母亲	a father and a mother	Amiko	0    	0000-00-00 00:00:00
+Amiko	patro kaj patrino	父亲和母亲	a father and a mother	Amiko	0    	0000-00-00 00:00:00
 Amiko	la patro kaj la patrino	父亲和母亲	the father and the mother	Amiko	0    	0000-00-00 00:00:00
 Amiko	la patrino de mia amiko	我朋友的母亲	the mother of my friend	Amiko	0    	0000-00-00 00:00:00
 Amiko	en la ĉambro	在房间里	in the room	Amiko	0    	0000-00-00 00:00:00
 Amiko	ne estas en la ĉambro	不在房间里	is not in the room	Amiko	0    	0000-00-00 00:00:00
-Amiko	ili nun laboras	他们现在正在工作	they are now working	Amiko	0    	0000-00-00 00:00:00
-Amiko	lia patro estas laboristo	他的父亲是一名工人	his father is a worker	Amiko	0    	0000-00-00 00:00:00
-Amiko	li laboras en hotelo	他在一家酒店工作	he works in a hotel	Amiko	0    	0000-00-00 00:00:00
-Amiko	la patrino instruas	母亲教导	the mother teaches	Amiko	0    	0000-00-00 00:00:00
-Amiko	ŝi estas instruistino	她是一名教师	she is a teacher	Amiko	0    	0000-00-00 00:00:00
+Amiko	ili nun laboras	他们正在工作	they are now working	Amiko	0    	0000-00-00 00:00:00
+Amiko	lia patro estas laboristo	他的父亲是工人	his father is a worker	Amiko	0    	0000-00-00 00:00:00
+Amiko	li laboras en hotelo	他在饭店工作	he works in a hotel	Amiko	0    	0000-00-00 00:00:00
+Amiko	la patrino instruas	母亲讲课	the mother teaches	Amiko	0    	0000-00-00 00:00:00
+Amiko	ŝi estas instruistino	她是教师	she is a teacher	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu ŝi estas patrino?	她是母亲吗？	is she a mother?	Amiko	0    	0000-00-00 00:00:00
-Amiko	ne, ŝi estas hotelisto	不，她是一名酒店老板	no, she is an hotelier	Amiko	0    	0000-00-00 00:00:00
+Amiko	ne, ŝi estas hotelisto	不，她在饭店工作	no, she is an hotelier	Amiko	0    	0000-00-00 00:00:00
 Amiko	ne, mi ne laboras	不，我不工作	no, I don't work	Amiko	0    	0000-00-00 00:00:00
 Amiko	kio estas ŝia nomo?	她叫什么名字？	what is her name?	Amiko	0    	0000-00-00 00:00:00
 Amiko	kiu nun respondas?	现在谁在回答？	who is now answering?	Amiko	0    	0000-00-00 00:00:00
@@ -121,52 +121,52 @@ Amiko	ŝia labora seĝo	她的工作椅	her working chair	Amiko	0    	0000-00-00
 Amiko	ĝia nomo ne estas ~	它的名字不是~	its name is not ~	Amiko	0    	0000-00-00 00:00:00
 Amiko	ŝia lingvo estas ilia lingvo	她的语言就是他们的语言	her language is their language	Amiko	0    	0000-00-00 00:00:00
 Amiko	nia patro kaj patrino	我们的父亲和母亲	our father and mother	Amiko	0    	0000-00-00 00:00:00
-Amiko	via lernanto, viaj lernantoj	你的学生，你的学生	your student, your students	Amiko	0    	0000-00-00 00:00:00
+Amiko	via lernanto, viaj lernantoj	你的学生，你的学生们	your student, your students	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu ili estas viaj lernantoj?	他们是你的学生吗？	are they your students?	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu vi estas lernanto?	你是学生吗？	are you a student?	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu vi estas en la ĉambro?	你在房间里吗？	are you in the room?	Amiko	0    	0000-00-00 00:00:00
 Amiko	mi ne estas ~	我不是~	I'm not ~	Amiko	0    	0000-00-00 00:00:00
-Amiko	esperantisto kaj esperantistino	一名世界语学家和一名女性世界语学家	an Esperantist and a female Esperantist	Amiko	0    	0000-00-00 00:00:00
-Amiko	enskribis por la hotelĉambro	办理入住酒店房间	checked in for the hotel room	Amiko	0    	0000-00-00 00:00:00
+Amiko	esperantisto kaj esperantistino	世界语者和女世界语者	an Esperantist and a female Esperantist	Amiko	0    	0000-00-00 00:00:00
+Amiko	enskribis por la hotelĉambro	办理入住饭店	checked in for the hotel room	Amiko	0    	0000-00-00 00:00:00
 Amiko	lingvisto kaj laboristino	一名语言学家和一名女工	a linguist and a female worker	Amiko	0    	0000-00-00 00:00:00
 Amiko	lia amikino estas ~	他的女朋友是~	his girl friend is ~	Amiko	0    	0000-00-00 00:00:00
-Amiko	lernantoj kaj sportistoj	学生和运动员	students and sportsmen	Amiko	0    	0000-00-00 00:00:00
-Amiko	mia familia nomo estas ~	我的家族名字是~	my familia name is ~	Amiko	0    	0000-00-00 00:00:00
-Amiko	kiu estas ŝi?	她是谁？她是谁？	who is she? which is she?	Amiko	0    	0000-00-00 00:00:00
+Amiko	lernantoj kaj sportistoj	学生们和运动员们	students and sportsmen	Amiko	0    	0000-00-00 00:00:00
+Amiko	mia familia nomo estas ~	我的姓是~	my familia name is ~	Amiko	0    	0000-00-00 00:00:00
+Amiko	kiu estas ŝi?	她叫什么名字	who is she? which is she?	Amiko	0    	0000-00-00 00:00:00
 Amiko	estas via amikino	是你的女朋友吗	is your girl friend	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu via amiko estas ~ ?	是你的朋友吗~？	is your friend ~ ?	Amiko	0    	0000-00-00 00:00:00
-Amiko	skribas nun en la ĉambro	现在正在房间里写字	is writing now in the room	Amiko	0    	0000-00-00 00:00:00
+Amiko	skribas nun en la ĉambro	正在房间里写字	is writing now in the room	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu la amiko de via patro ~ ?	是你爸爸的朋友吗~？	is the friend of you father ~ ?	Amiko	0    	0000-00-00 00:00:00
-Amiko	laboras en hotelo	在酒店工作	works in a hotel	Amiko	0    	0000-00-00 00:00:00
+Amiko	laboras en hotelo	在饭店工作	works in a hotel	Amiko	0    	0000-00-00 00:00:00
 Amiko	kio estas sur la tablo?	桌子上有什么？	what is on the table?	Amiko	0    	0000-00-00 00:00:00
 Amiko	sur la tablo en nia ĉambro	在我们房间的桌子上	on the table in our room	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu la lernolibro de Esperanto ~ ?	是世界语教科书~？	is the Esperanto textbook ~ ?	Amiko	0    	0000-00-00 00:00:00
 Amiko	estas sur via tablo	在你的桌子上	is on your table	Amiko	0    	0000-00-00 00:00:00
-Amiko	havas amikinon	有一个朋友	has a friend	Amiko	0    	0000-00-00 00:00:00
+Amiko	havas amikinon	有女朋友	has a friend	Amiko	0    	0000-00-00 00:00:00
 Amiko	ŝia nomo estas ~	她的名字是~	her name is ~	Amiko	0    	0000-00-00 00:00:00
-Amiko	juna kaj bela	年轻漂亮	young and beautiful	Amiko	0    	0000-00-00 00:00:00
+Amiko	juna kaj bela	年轻又漂亮	young and beautiful	Amiko	0    	0000-00-00 00:00:00
 Amiko	estas juna kaj bela	年轻又美丽	is young and beautiful	Amiko	0    	0000-00-00 00:00:00
-Amiko	junaj kaj belaj amikoj	年轻漂亮的朋友	young and beautiful friends	Amiko	0    	0000-00-00 00:00:00
-La amiko	estas geamikoj	是男女朋友	are male-and-female friends	La amiko	0    	0000-00-00 00:00:00
+Amiko	junaj kaj belaj amikoj	年轻和漂亮的朋友们	young and beautiful friends	Amiko	0    	0000-00-00 00:00:00
+La amiko	estas geamikoj	是朋友们	are male-and-female friends	La amiko	0    	0000-00-00 00:00:00
 La amiko	hejmo de ŝia instruisto	她老师的家	a home of her teacher	La amiko	0    	0000-00-00 00:00:00
 La amiko	venis al la hejmo	来到家里	came to the home	La amiko	0    	0000-00-00 00:00:00
 La amiko	la hejmo de ~	的家~	the home of ~	La amiko	0    	0000-00-00 00:00:00
-La amiko	bonvolu eniri	请进来	please come in	La amiko	0    	0000-00-00 00:00:00
+La amiko	bonvolu eniri	请进	please come in	La amiko	0    	0000-00-00 00:00:00
 La amiko	saluton! kion vi faras?	你好，你在做什么？	hello, what are you doing?	La amiko	0    	0000-00-00 00:00:00
-La amiko	kion vi faras?	你做什么工作？你在干什么？	what do you do? what are you doing?	La amiko	0    	0000-00-00 00:00:00
+La amiko	kion vi faras?	你在做什么？你在干什么？	what do you do? what are you doing?	La amiko	0    	0000-00-00 00:00:00
 La amiko	sed nun mi volas ~	但现在我想要~	but now I want ~	La amiko	0    	0000-00-00 00:00:00
 La amiko	mi volas paroli	我想说话	I want to speak	La amiko	0    	0000-00-00 00:00:00
-La amiko	kun tri geamikoj	和三位男女朋友	with three male-and-female friends	La amiko	0    	0000-00-00 00:00:00
+La amiko	kun tri geamikoj	和三位朋友	with three male-and-female friends	La amiko	0    	0000-00-00 00:00:00
 La amiko	parolis kun vi	与你交谈	spoke with you	La amiko	0    	0000-00-00 00:00:00
 La amiko	volas paroli kun vi	想和你说话	wants to speak with you	La amiko	0    	0000-00-00 00:00:00
-La amiko	ĉu vi havas geamikojn?	你有男性和女性朋友吗	do you have male-and-female friends	La amiko	0    	0000-00-00 00:00:00
+La amiko	ĉu vi havas geamikojn?	你有朋友吗	do you have male-and-female friends	La amiko	0    	0000-00-00 00:00:00
 La amiko	li havas libron	他有一本书	he has a book	La amiko	0    	0000-00-00 00:00:00
 La amiko	havas bonan libron	有一本好书	has a good book	La amiko	0    	0000-00-00 00:00:00
 La amiko	jes, mi havas	是的，我有	yes, I have	La amiko	0    	0000-00-00 00:00:00
 La amiko	ili ŝatas ĝin	他们喜欢它	they like it	La amiko	0    	0000-00-00 00:00:00
 La amiko	ŝi legis libron	她读了一本书	she read a book	La amiko	0    	0000-00-00 00:00:00
 La amiko	ŝatas legi librojn	喜欢看书	likes to read books	La amiko	0    	0000-00-00 00:00:00
-La amiko	nur bona libro	只是一本好书	only a good book	La amiko	0    	0000-00-00 00:00:00
+La amiko	nur bona libro	只是本好书	only a good book	La amiko	0    	0000-00-00 00:00:00
 La amiko	multaj bonaj libroj	很多好书	many good books	La amiko	0    	0000-00-00 00:00:00
 La amiko	legis nur bonajn librojn	只读好书	read only good books	La amiko	0    	0000-00-00 00:00:00
 La amiko	ŝatas legi bonajn librojn	喜欢读好书	likes to read good books	La amiko	0    	0000-00-00 00:00:00
@@ -174,76 +174,76 @@ La amiko	ĉu vi volas legi?	你想读书吗？	do you want to read?	La amiko	0  
 La amiko	la junulo trinkis kafon	年轻人喝了咖啡	the youngster drank coffee	La amiko	0    	0000-00-00 00:00:00
 La amiko	volas trinki akvon	想喝水	wants to drink water	La amiko	0    	0000-00-00 00:00:00
 La amiko	patro kaj patrino, gepatroj	父亲和母亲；父母	a father and a mother; parents	La amiko	0    	0000-00-00 00:00:00
-La amiko	frato kaj fratino, gefratoj	一个麻烦和一个姐妹，兄弟姐妹	a bother and a sister, siblings	La amiko	0    	0000-00-00 00:00:00
+La amiko	frato kaj fratino, gefratoj	兄弟和姐妹，兄弟姐妹	a bother and a sister, siblings	La amiko	0    	0000-00-00 00:00:00
 La amiko	viaj gepatroj kaj gefratoj	你的父母和兄弟姐妹	your parents and siblings	La amiko	0    	0000-00-00 00:00:00
 La amiko	estas en via hejmo	在你家里	is in your home	La amiko	0    	0000-00-00 00:00:00
 La amiko	jen la kafo	这是咖啡	here is the coffee	La amiko	0    	0000-00-00 00:00:00
 La amiko	ankoraŭ ne trinkis	还没喝	didn't drink yet	La amiko	0    	0000-00-00 00:00:00
 La amiko	estas ankoraŭ varma	仍然温暖	is still warm	La amiko	0    	0000-00-00 00:00:00
-La amiko	hieraŭ kuiris ĝin	昨天煮的	cooked it yesterday	La amiko	0    	0000-00-00 00:00:00
-La amiko	mi nun kuiris	我现在煮了	I now cooked	La amiko	0    	0000-00-00 00:00:00
-La amiko	dankon. tiel li diris	谢谢。他说。	thank you. so he said.	La amiko	0    	0000-00-00 00:00:00
-La amiko	povas trinki kaj manĝi	能喝能吃	can drink and eat	La amiko	0    	0000-00-00 00:00:00
-La amiko	trinkis malvarman kafon	喝了冷咖啡	drank cold coffee	La amiko	0    	0000-00-00 00:00:00
-La amiko	ankaŭ varma kafo	仍然温热的咖啡	still warm coffee	La amiko	0    	0000-00-00 00:00:00
-La amiko	trinkas ankaŭ malvarman kafon	也喝冷咖啡	drinks cold coffee too	La amiko	0    	0000-00-00 00:00:00
-La amiko	povas trinki ankaŭ malvarman kafon	还可以喝冷咖啡	can also drink cold coffee	La amiko	0    	0000-00-00 00:00:00
-La amiko	rigardas ŝian okulon	看着她的眼睛	looks at her eye	La amiko	0    	0000-00-00 00:00:00
+La amiko	hieraŭ kuiris ĝin	昨天做的	cooked it yesterday	La amiko	0    	0000-00-00 00:00:00
+La amiko	mi nun kuiris	我现在做菜	I now cooked	La amiko	0    	0000-00-00 00:00:00
+La amiko	dankon. tiel li diris	谢谢。他那样说的。	thank you. so he said.	La amiko	0    	0000-00-00 00:00:00
+La amiko	povas trinki kaj manĝi	可以喝可以吃	can drink and eat	La amiko	0    	0000-00-00 00:00:00
+La amiko	trinkis malvarman kafon	喝了冰咖啡	drank cold coffee	La amiko	0    	0000-00-00 00:00:00
+La amiko	ankaŭ varma kafo	也热的咖啡	still warm coffee	La amiko	0    	0000-00-00 00:00:00
+La amiko	trinkas ankaŭ malvarman kafon	也喝冰咖啡	drinks cold coffee too	La amiko	0    	0000-00-00 00:00:00
+La amiko	povas trinki ankaŭ malvarman kafon	还可以喝冰咖啡	can also drink cold coffee	La amiko	0    	0000-00-00 00:00:00
+La amiko	rigardas ŝian okulon	注视著她的眼睛	looks at her eye	La amiko	0    	0000-00-00 00:00:00
 La amiko	la plej bela okulo	最美丽的眼睛	the most beautiful eye	La amiko	0    	0000-00-00 00:00:00
 La amiko	la belaj okuloj	美丽的眼睛	the beautiful eyes	La amiko	0    	0000-00-00 00:00:00
-La amiko	rigardis la belajn okulojn	看着美丽的眼睛	looked the beautiful eyes	La amiko	0    	0000-00-00 00:00:00
-La amiko	la belaj okuloj de ŝi	她美丽的眼睛	the beautiful eyes of her	La amiko	0    	0000-00-00 00:00:00
+La amiko	rigardis la belajn okulojn	注视着美丽的眼睛	looked the beautiful eyes	La amiko	0    	0000-00-00 00:00:00
+La amiko	la belaj okuloj de ŝi	她的美丽的眼睛	the beautiful eyes of her	La amiko	0    	0000-00-00 00:00:00
 La amiko	vidas kaj komprenas	看到并理解	sees and understands	La amiko	0    	0000-00-00 00:00:00
 La amiko	mi vidas, ke ~	我看到了~	I see that ~	La amiko	0    	0000-00-00 00:00:00
 La amiko	ke li amas ŝin	他爱她	that he loves her	La amiko	0    	0000-00-00 00:00:00
 En kafejo	ŝi sentis, ke li amas ŝin	她感觉他爱她	she feels that he loves her	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	demandas, ĉu tio estis granda	问那是否很大	asks whether that was big	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	pri facila demando	关于一个简单的问题	about an easy question	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	diris pri nova mono	说到新钱	said about a new money	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	demandas, ĉu tio estis granda	提问, 那是否很大	asks whether that was big	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	pri facila demando	简单问题的提问	about an easy question	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	diris pri nova mono	说到新的钱币	said about a new money	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	tre belaj okuloj	非常美丽的眼睛	very beautiful eyes	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	rigardis la grandan fraton	看起来是大哥	looked the big brother	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	malgranda fratino forgesis ĝin	有一个小妹妹忘记了	a little sister forgot it	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	rigardis la grandan fraton	注视着大哥	looked the big brother	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	malgranda fratino forgesis ĝin	小妹忘掉了	a little sister forgot it	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	akuzativo	宾格（宾语）	an accusative (objective)	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ne forgesu akuzativon	不要忘记宾格结尾	don't forget the accusative ending	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	kiun vi vidas?	你在见谁？你看到哪一个？	whom are you seeing? which one do you see?	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	mi vidas amikon	我看到一个朋友	I see a friend	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	havas bonajn geamikojn	有很好的男女朋友	has good male-and-female friends	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	kiun vi vidas?	你在看谁？你看到哪位？	whom are you seeing? which one do you see?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	mi vidas amikon	我看到一位朋友	I see a friend	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	havas bonajn geamikojn	有很好的朋友	has good male-and-female friends	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ili laboras pri la malnova domo	他们正在修旧房子	they are working about the old house	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	laboras, laboris, laboros	工作，工作，将会工作	works, worked, will work	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	vidas, ke mi manĝas	看到，我吃	sees, that I eat	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	diris, ke li iros	说他会去	said, that he will go	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	diris, ke li iros	说他要离去	said, that he will go	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	malbela kaj malbona	又丑又坏	ugly and bad	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	kion ŝi diris?	她说了什么？	what did she say?	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	kion vi atendas?	你在等什么？	what are you waiting for?	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	eniris en la ĉambron	走进房间	went into the room	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	eniris en la ĉambron	走进了房间	went into the room	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	enhavo estis tre malfacila	内容非常困难	a content is very difficult	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	alvenis al la kunsido	到达会议地点	arrived at the meeting	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	bonvenon, al la kunveno	欢迎参加会议	welcome to the meeting	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	maljuna viro donis trinkmonon	一位老人给了小费	an old man gave a tip	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	alvenis kaj estis bonvena	到达并受到欢迎	arrived and was welcomed	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	ili malamas sed kunlaboras.	他们讨厌但合作	they hate but cooperate	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	iris al la hotelo	去了酒店	went to the hotel	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	havas facilajn lernolibrojn	有简单的教科书	has easy textbooks	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	ili malamas sed kunlaboras.	他们互相讨厌但合作	they hate but cooperate	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	iris al la hotelo	去了那个饭店	went to the hotel	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	havas facilajn lernolibrojn	有容易的教材	has easy textbooks	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	kia estis via patrino?	你妈妈怎么样？	how was your mother?	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	via malnova hejmo	你的老家	your old home	En kafejo	0    	0000-00-00 00:00:00
 La amiko	kiujn librojn vi legis?	你读了哪些书？	which books did you read?	La amiko	0    	0000-00-00 00:00:00
 La amiko	ĉu ili estis bonaj?	他们好吗？	were they good?	La amiko	0    	0000-00-00 00:00:00
 La amiko	kion faris hieraŭ?	昨天做了什么？	did what yesterday?	La amiko	0    	0000-00-00 00:00:00
-La amiko	en la malgranda ĉambro	在小房间里	in the small room	La amiko	0    	0000-00-00 00:00:00
+La amiko	en la malgranda ĉambro	在那个小房间里	in the small room	La amiko	0    	0000-00-00 00:00:00
 En kafejo	tre longe parolis	说了很长一段时间	spoke very long while	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	antaŭ la lernejo	学校前面，学校前面	in front of the school, before the school	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	parolis antaŭ la lernejo	在学校之前讲话	spoke before the school	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	parolis antaŭ la lernejo	在学校的门口讲话	spoke before the school	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	poste parolis pri la libro	后来谈到这本书	later spoke about the book	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ĝoje iris al la lernejo	高高兴兴地去了学校	gladly went to the school	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	tra la strato	穿过街道	through the street	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	iris tra la strato	穿过街道	went through the street	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	estis varma tago	是一个温暖的一天	was a warm day	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	estis varma tago	是一个很热的一天	was a warm day	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ili vidis kafejon	他们看到了一家咖啡馆”	they saw a cafe'	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	vidis ruĝajn kukojn	看到红色饼干	saw red cookies	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	vidis kukojn en ĝi	看到里面有饼干	saw cookies in it	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	vidis kafejon kaj en ĝi kukojn	看到一家咖啡馆，里面有饼干	saw a cafe' and in it  cookies	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	eniru kaj manĝu!	进去吃饭吧！	go in and eat!	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	ni eniru kaj manĝu	我们进来吃饭吧	let's come in and eat	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	ni eniru kaj manĝu	我们进去吃饭吧	let's come in and eat	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	havas sufiĉan monon	有足够的钱	has sufficient money	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ĉu vi havas sufiĉan monon?	你有足够的钱吗？	do you have sufficient money?	En kafejo	0    	0000-00-00 00:00:00
 Renkonto	ĉu vi komprenas?	你明白吗？	do you understand?	Renkonto	0    	0000-00-00 00:00:00
@@ -253,12 +253,12 @@ Renkonto	cent dolaroj sufiĉas	一百块钱就够了	a hundred dollars is enough
 Renkonto	dolaro, dolaroj, dolarojn	一美元，美元，美元（复数目标）	a dollar, dollars, dollars (plural objective)	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	havas cent dolarojn	有一百美元	has a hundred dollars	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kompreneble, mi havas	当然，我有	of course, I have	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	ho! vi estas riĉa!	哦！你好有钱！	oh! you are rich!	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	kelnero, kelnerino	一杯水，一个女服务员	a water, an waitress	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	ho! vi estas riĉa!	哦！你有很多钱！	oh! you are rich!	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	kelnero, kelnerino	餐厅服务员，女服务员	a water, an waitress	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kelnero portas menuon	服务员拿来菜单	a waiter brings a menu	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	portis tion al ni, alportis tion	给我们带来了，带来了	brought that to us, brought that	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kelnero alportis multajn kukojn	服务员送来了很多饼干	a waiter brought a lot of cookies	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	ili manĝis iom	他们吃了一些（一点点）	they ate some (a little)	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	ili manĝis iom	他们吃了一点	they ate some (a little)	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	post la manĝo	吃完饭后	after the eating (meal)	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	nova, denove	新的，又来了	new, again	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	la kelnero denove venis	服务员又来了	the waiter came again	Renkonto	0    	0000-00-00 00:00:00
@@ -267,53 +267,53 @@ Renkonto	serĉis en iu loko	在某个地方搜索过	had searched in some place	
 Renkonto	serĉis en alia loko	在其他地方搜索过	searched in other place	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	lia vizaĝo estis ĝoja	他的脸很高兴	his face was joyous	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ŝi estis malĝoja	她很伤心	she was sad	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	fine kaj finfine	最后最后最后	in the end and finally at last	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	via forta voĉo	你强有力的声音	your strong voice	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	fine kaj finfine	最后, 终于	in the end and finally at last	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	via forta voĉo	你的巨大的声音	your strong voice	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	en malforta voĉo	用微弱的声音	in weak voice	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	ne havas monon	没有钱	doesn't have money	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	ne havas monon	没带钱	doesn't have money	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kio okazis tie?	那里发生了什么？	what did happen there?	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	akcidento okazis poste	后来发生了意外	an accident happened later	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	ĉu vi scias, kiam ĝi okazis?	你知道什么时候发生的吗？	do you know when did it happen?	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	akcidento okazis poste	后来发生了意外情况	an accident happened later	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	ĉu vi scias, kiam ĝi okazis?	你知道那事什么时候发生的吗？	do you know when did it happen?	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	scias pri la afero	知道此事	knows about the matter	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ankoraŭ unu afero restas	还剩下一件事	still one thing remains	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	vi aŭ ŝi, ajna homo	你或她，任何人	you or she, any person	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	kiel kantisto	像歌手一样，像签名者一样	like a singer, as a signer	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	kiel kantisto	像歌手一样，当做歌手	like a singer, as a signer	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kantis kiel profesia kantisto	像专业歌手一样唱歌	sang like a professional singer	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	tie, kie ŝi loĝis	a 她住的地方	a the place, where she lived	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	tie, kie ŝi loĝis	在那儿, 她住的那地方	a the place, where she lived	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kiel vi scias pri la aŭto?	你怎么知道这辆车的？	how do you know about the car?	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	nu, vidu la rapidan aŭton	好吧，看看那辆快车	well, look at the fast car	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	suko sen sukero	不加糖的果汁	a juice without sugar	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	li havis rapidan veturilon	他有一辆很快的车	he has a fast vehicle	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	tro forte	太强烈了	too strongly	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	li tro forte malfermis	他打开得太用力了	he opened too hard	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	tro forte	过强烈的	too strongly	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	li tro forte malfermis	他把门打开得太用力了	he opened too hard	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	veturis tro rapide	开车（行驶）太快	drove (traveled) too fast	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	manĝis per kulero	用勺子吃	ate with a spoon	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ni forte dubas	我们强烈怀疑	we strongly doubt	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	vera letero de li	他的一封真实的信	a true letter from him	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	amletero kun kvin fotoj	一封带有五张照片的情书	a love letter with five photos	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	amletero kun kvin fotoj	带有五张照片的一份情书	a love letter with five photos	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	revenis, revenintoj	回来了，回来的人	returned, the people who returned	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	ankaŭ ses leteroj revenis	还退回了六封信	also six letters returned	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	ankaŭ ses leteroj revenis	还退回来了六封信	also six letters returned	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	volis vidi la foton	想看照片	wanted to see the photo	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	revenis el la lernejo	从学校回来	came back from the school	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kiam revenos la fratino?	姐姐什么时候回来？	when will the sister return?	Renkonto	0    	0000-00-00 00:00:00
 Miaj Leteroj	volis legi denove	想再读一遍	wanted to read again	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	faris, fariĝis	做了（做），成为	made (did), became	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	rapide fariĝis ruĝa	迅速变红	rapidly became red	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	en ĉambro, en ĉambron	在一个房间里，进入一个房间	in a room, into a room	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	en ĉambro, en ĉambron	在房间里，进入房间	in a room, into a room	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	staris kaj sidis	站着又坐着	stood and sat	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	tie staris antaŭ la foto	照片前面站着	there stood in front of the photo	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	mi havas tion	我有这个	I have that	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	kion vi havas en via mano?	你手里有什么？	what do you have in your hand?	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	tie staris antaŭ la foto	在照片前面站着	there stood in front of the photo	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	mi havas tion	我有那个	I have that	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	kion vi havas en via mano?	你手里拿着什么？	what do you have in your hand?	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	antaŭ aŭ malantaŭ?	在前面还是后面？	in front or behind?	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	antaŭ aŭ post?	之前还是之后？	before or after?	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	tie malantaŭ la pordo	门后面有	there behind the door	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	tie malantaŭ la pordo	在门的后面	there behind the door	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	aliaj, aliaj homoj	其他人，其他人	others, other people	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	leteroj de aliaj	别人的来信	letters from others	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	leteroj de aliaj	别人的信件	letters from others	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	falis el la mano	从手中掉下来	fell out of the hand	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	sur la tablo, sur la tablon	桌子上，桌子上	on the table, onto the table	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	ĝi falis sur la tablon	它掉在桌子上	it fell on the table	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	petis pardonon	请求原谅	asked for pardon	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	serĉis kvin librojn	正在寻找五本书	was searching for five books	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	serĉis kvin librojn	寻找五本书	was searching for five books	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	pardonu, mi serĉis mian libron	抱歉，我正在寻找我的书。	sorry, I was looking for my book.	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	sed vi bone scias	但你很清楚	but you know well	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	ne estas sur mia tablo	不在我的桌子上	is not on my table	Miaj Leteroj	0    	0000-00-00 00:00:00
@@ -321,82 +321,82 @@ Miaj Leteroj	viaj libroj ne estas sur mia tablo	你的书不在我的桌子上	y
 Miaj Leteroj	ree donis, redonis	再次给予，回报	again gave, returned	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	redonu la leteron al mi.	把信还给我	return the letter to me	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	ricevis bonan lecionon	受到了很好的教训	received a good lesson	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	plu lavis, ne plu manĝis	又洗了，又吃了	further washed, ate any more	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	plu lavis, ne plu manĝis	接着洗了，不再吃了	further washed, ate any more	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	ne plu legos	将不再阅读	will no longer read	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	ankaŭ mi ricevis	我也收到了	I also received	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	devas fermi	必须关闭	has to close	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	mi devas bone fermi	我必须好好关闭	I have to close well	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	bone fermis la pordon	把门关紧	closed the door tightly	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	trankvila, trankviliĝu	冷静，冷静	calm, calm down	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	aŭdis sed ne aŭskultis	听到但没听	heard but did not listen	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	devas fermi	必须关掉	has to close	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	mi devas bone fermi	我必须好好关掉	I have to close well	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	bone fermis la pordon	把门关好了	closed the door tightly	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	trankvila, trankviliĝu	冷静，请冷静一下	calm, calm down	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	aŭdis sed ne aŭskultis	听到但没有听到具体的	heard but did not listen	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	aŭdis trankvilan sonon	听到平静的声音	heard a calm sound	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	ĉe mi estis kvar poŝoj	对我来说，有 4 个口袋	at me, there are 4 pockets	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	dek tagoj post la lasta leciono	上一课后十天	ten days after the last lesson	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	ĉe mi estis kvar poŝoj	我有 4 个口袋	at me, there are 4 pockets	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	dek tagoj post la lasta leciono	最后一堂课后的十天	ten days after the last lesson	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	inter la du tabloj	两张桌子之间	between the two tables	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	tri leteroj, ses paperoj	三封信，六篇论文	three letters, six papers	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	de kapo ĝis piedo	从头到脚	from head to foot	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	kvar, kvara, kvaropo, kvarono	四、第四、四重奏、四分之一	four, fourth, a quartet, a quarter	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	kien iris la triopo?	三人去哪儿了	where did the trio go	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	kvin fingroj en ambaŭaj manoj	双手五个手指	five fingers in both hands	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	si mem, sia poŝo	自己掏腰包	by oneself, one's own pocket	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	meti, kunmeti, kunmetaĵo	把，放在一起，化合物	put, put together, a compound	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	metis en sian poŝon	放进自己的口袋	put in one's own pocket	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	du cent nacioj en la mondo	世界上两百个国家	two hundred nations in the world	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	kien iris la triopo?	他们三个人去哪儿了	where did the trio go	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	kvin fingroj en ambaŭaj manoj	两手的五个手指	five fingers in both hands	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	si mem, sia poŝo	自己, 自己的腰包	by oneself, one's own pocket	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	meti, kunmeti, kunmetaĵo	放, 放在一起，化合物	put, put together, a compound	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	metis en sian poŝon	放在自己的口袋里	put in one's own pocket	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	du cent nacioj en la mondo	世界上的两百个国家	two hundred nations in the world	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	prenis, forprenis	拿走，拿走	took, took away	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	prenis sep el siaj naŭ libroj	从他自己的九本书中拿走了七本	took seven out of his own nine books	Miaj Leteroj	0    	0000-00-00 00:00:00
 Nova Aŭto	lasi, forlasita	离开，被遗弃	to leave, abandoned	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	lasu min sola kaj trankvila	让我一个人安静	leave me alone and calm	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	lasu min sola kaj trankvila	让我一个人安静一下	leave me alone and calm	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	mil ok cent ok dek sep	一千八百八十七 (1887)	thousand eight hundred and eighty seven (1887)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	taso da teo	一杯茶	a cup of tea	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	oni lavis ok tasojn	有人洗了八个杯子	somebody washed eight cups	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	oni lavis ok tasojn	某人洗了八个杯子	somebody washed eight cups	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	du mil dek naŭ	2019 (2019)	two thousand nineteen (2019)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	li lavis sin	他自己洗了	he washed himself	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	sia korpo, sia propra posedo	自己的身体，自己的财产	one's body, one's own possession	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	sur la tablo, la kato dormis	桌子上，猫睡着了	on the table, the cat slept	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la kato saltis sur la tablon	猫跳到桌子上	the cat jumped onto the table	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	en la halo, en la halon	大厅里，大厅里	in the hall, into the hall	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	en la halo, en la halon	大厅里，进入大厅里	in the hall, into the hall	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	enfalis en lian manon	落到他手里	fell into his hand	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	labori, ellabori	去工作，去详细说明	to work, to elaborate	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	ellabori por tiu libro	详细说明那本书	to elaborate for that book	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	labori, ellabori	工作，努力工作	to work, to elaborate	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	ellabori por tiu libro	把那本书细心做好	to elaborate for that book	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	scias, scivolas, scivolo	知道、想知道、好奇	knows, wants to know, curiosity	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	dulingva, dulingveco	双语的，双语的	bilingual, bilingualism	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	scivolas pri trilingva lernanto	对三语学习者感到好奇	wonders about a trilingual learner	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	scivolas pri trilingva lernanto	对掌握三种语言的学生的好奇	wonders about a trilingual learner	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	iris, reiris	去了，回来了	went, returned	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la katoj reiris al siaj domoj	猫们回到了自己的家	the cats returned to their (own) homes	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	en la sako, en la sakon	在袋子里，在袋子里	in the bag, into the bag	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	en la sako, en la sakon	在袋子里，放进袋子里	in the bag, into the bag	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	enmetu ĝin en vian sakon	把它放进你的包里	put it into your bag	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	piedo, piediras, piediranto	一只脚，步行，行人	a foot, walks, a pedestrian	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	dek-tage ili piediris	他们走了十天	for ten days, they walked	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	piedo, piediras, piediranto	脚，步行，行人	a foot, walks, a pedestrian	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	dek-tage ili piediris	他们步行了十天	for ten days, they walked	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	preni, elpreni	拿走，取出	to take, to take out	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	belaj floroj, prenis belajn florojn	美丽的花，美丽的花	beautiful flowers, took beautiful flowers	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	belaj floroj, prenis belajn florojn	美丽的花，摘取了美丽的花	beautiful flowers, took beautiful flowers	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	li elprenis nur belajn florojn	他只拿出美丽的花	he took out only beautiful flowers	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	malfermis, sed tuj fermis	打开，但立即关闭	opened, but immediately closed	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	malfermis internacian kunvenon	召开国际会议	opened an international meeting	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	eldonis kaj disdonis	出版和发行	published and distributed	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	malfermis internacian kunvenon	召开了国际会议	opened an international meeting	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	eldonis kaj disdonis	出版和分发	published and distributed	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la eldonisto eldonis dudek tri librojn	出版商出版了二十三本书	the publisher published twenty-three books	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	revenis kaj revidis sian filon	回来又见到了自己的儿子	returned and saw one's own son again	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	en la jaro dumil dudek tri	2023年（2023年）	in the year two thousand and twenty three (2023)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	sinjoro eniris la vendejon	一位绅士进入了商店	a gentleman entered (into) the store	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la vendejo de aŭtoj	汽车商店	the store of cars	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	tie li vidas sinjorinon	他在那里看到一位女士	there he sees a lady	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la vendejo de aŭtoj	汽车销售店	the store of cars	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	tie li vidas sinjorinon	在那里他看到了一位女士	there he sees a lady	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	karaj gesinjoroj	亲爱的女士们，先生们	dear ladies and gentlemen	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	tio plaĉis al mi	这让我很高兴（我喜欢）	that pleased me (I like that)	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la sinjorino plaĉis al li	这位女士令他高兴（他喜欢这位女士）	the lady pleased him (he liked the lady)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	tio plaĉis al mi	这很符合我的胃口	that pleased me (I like that)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la sinjorino plaĉis al li	他很欣赏这位女士	the lady pleased him (he liked the lady)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	vidis la belan sinjorinon	看到了那位美丽的女士	saw the beautiful lady	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	kiu plaĉis al li?	谁让他高兴了？ （他喜欢谁？）	who pleased him? (whom did he like?)	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la virino, kiu plaĉis al mi	那个让我高兴的女人	the woman, who pleased me	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	kiu plaĉis al li?	他喜欢谁	who pleased him? (whom did he like?)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la virino, kiu plaĉis al mi	让我高兴的那位女士	the woman, who pleased me	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	tiu, kiu eniris la domon	进屋的人	the one who entered the house	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la viro, kiu donacis ĝin	捐赠者	the man who donated it	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	li donacis ringon al lia edzino	他给了他妻子一枚戒指	he gave a ring to his wife	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la viro, kiu donacis ĝin	捐赠那个东西的人	the man who donated it	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	li donacis ringon al lia edzino	他送了他妻子一枚戒指	he gave a ring to his wife	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la ringo plaĉis al ŝi	她喜欢这枚戒指	she liked the ring	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la edzino, al kiu la ringo plaĉis	喜欢这枚戒指的妻子	the wife who liked the ring	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	vendisto laboras en la vendejo	一名推销员在商店工作	a salesman works in the store	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	vendisto laboras en la vendejo	推销员在商店工作	a salesman works in the store	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	vendisto de aŭtoj	汽车推销员	a salesman of cars	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la sinjoro demandis al la vendisto	这位先生问推销员	the gentleman asked the salesman	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la sinjoro demandis al la vendisto	一位先生问推销员	the gentleman asked the salesman	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kiu aŭto plaĉas al vi?	你喜欢哪辆车？	which car do you like?	Nova Aŭto	0    	0000-00-00 00:00:00
-Aŭto Vendejo	kiun aŭton vi elektos?	你会选择哪辆车？	which car will you choose?	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	kiun aŭton vi elektos?	你要选择哪辆车？	which car will you choose?	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	mi elektis tiun aŭton	我选择了那辆车	I chose that car	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	ĝi estas pli bona	这个比较好	it is better	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	ĝi estas pli bona	那个比较好	it is better	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	pli bona ol ĉi tio	比这个更好	better than this	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	plej bona el ili	其中最好的	best of them	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	estas la plej bona	是最好的	is the best	Aŭto Vendejo	0    	0000-00-00 00:00:00
@@ -406,27 +406,27 @@ Aŭto Vendejo	tiu ĉi estas la plej bona	这是最好的	this one is the best	A�
 Aŭto Vendejo	vidis ĉiujn aŭtojn	看到了所有的车	saw all the cars	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	la plej bona el ĉiuj	最好的	the best of all	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	ĉu ĝi estas rapida?	快吗？	is it fast?	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	pli rapida ol aliaj	比别人快	faster than others	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	pli rapida ol aliaj	比别的更快	faster than others	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	estas ankaŭ forta	也很强	is also strong	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	ho jes, kompreneble!	哦，是的，当然！	oh yes, of course!	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	estas tre forta	非常强	is very strong	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	certe ĝi estas forta	当然它很强大	certainly it is strong	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	estas tre forta	是非常强	is very strong	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	certe ĝi estas forta	确实它很强大	certainly it is strong	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	estas ankaŭ multekosta	也很贵	is also expensive	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	la plej multekosta el ĉiuj	最贵的	the most expensive of all	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	malmultekosta sed forta	便宜但坚固	cheap but strong	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	bedaŭras kaj bedaŭrindas	感到遗憾和可怜（值得感到遗憾）	feels sorry and is pityful (worth feeling sorry)	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	bedaŭrinde mi ne aĉetos	不幸的是我不会买	unfortunately I will not buy	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	estas bedaŭrinda afero	是一件不幸的事	is an unfortunate thing	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	bedaŭras kaj bedaŭrindas	遗憾和感到可怜（值得感到遗憾）	feels sorry and is pityful (worth feeling sorry)	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	bedaŭrinde mi ne aĉetos	可惜的是我不要买	unfortunately I will not buy	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	estas bedaŭrinda afero	是一件遗憾的事	is an unfortunate thing	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	li aĉetis novan aŭton	他买了一辆新车	he bought a new car	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	ĉar mi ne havas monon	因为我没有钱	because I do not have money	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	mia malnova aŭto	我的旧车	my old car	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	la plej malmultekosta el ĉiuj	最便宜的	the cheapest of all	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	mi veturos tien	我会开车去那里	I'll drive there	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	ankoraŭ veturos per ĝi	仍会驾驶它	will still drive with it	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	mi veturos tien	我要开车去那里	I'll drive there	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	ankoraŭ veturos per ĝi	仍然开那辆车	will still drive with it	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	dum la tuta tago	整天	all day long	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	dum li diris tion	当他这么说的时候	while he said that	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	dum li diris tion	当他说话的时候	while he said that	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	li denove rigardis ŝin	他又看了她一眼	he looked at her again	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	sed la vendisto diris	但推销员说	but the salesman said	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	sed la vendisto diris	但推销员说了	but the salesman said	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	estus pli bone, ke ~	那就更好了~	it would be better that ~	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	rigardu tiun ĉi sinjorinon	看看这位女士	look at this lady	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	ankaŭ tio estas tre multekosta	那也很贵	that is also very expensive	Aŭto Vendejo	0    	0000-00-00 00:00:00
@@ -435,13 +435,13 @@ Aŭto Vendejo	kiom via vojaĝo kostis?	你的旅行花了多少钱？	how much d
 Aŭto Vendejo	aŭskultu la kanton de via edzino	听你妻子的歌	listen to your wife's song	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	ne forgesu, ke ĝi tre multe kostas	别忘了这要花很多钱	don’t forget that it costs a lot	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	li helpis la vendiston dum du horoj	他帮助推销员两个小时	he helped the salesman for two hours	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	jam pli ol tri jaroj	三年多	for more than three years	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	jam pli ol tri jaroj	已经三年多	for more than three years	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	kovri, kovrilo, malkovri	覆盖，覆盖，揭开（发现）	cover, cover, uncover (discover)	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	la kialon li ankoraŭ ne malkovris	他还没有发现的原因	the reason he has not yet discovered	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	la kialon li ankoraŭ ne malkovris	他还没有发现理由	the reason he has not yet discovered	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	kial vi komencis sendi leterojn?	你为什么开始寄信？	why did you start sending letters?	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	dum ok monatoj li vivis tie	他在那里住了八个月	for eight months he lived there	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	ne havis tempon por aŭskulti	没时间听	didn't have time to listen	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	la aŭto estis jam plena	车已经满了	the car was already full	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	la aŭto estis jam plena	车已经坐满了	the car was already full	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	kion vi manĝas?	你在吃什么	what are you eating	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	kia estas la vetero?	天气如何？	what's the weather like?	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Nova Aŭto	kian aŭton vi havas?	你有什么类型的车？	what kind of car do you have?	Nova Aŭto	0    	0000-00-00 00:00:00
@@ -451,235 +451,235 @@ Nova Aŭto	kien vi iras?	你去哪儿？	where are you going to?	Nova Aŭto	0   
 Nova Aŭto	al kiu vi donis ĝin?	你把它给了谁？	to whom did you give it?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la viro, kun kiu vi vojaĝis	和你一起旅行的男人	the man whom you traveled with	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	pli granda ol la aŭto	比汽车大	bigger than the car	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la plej alta el tiuj homoj	这些人中最高的	the tallest of those people	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	li sidis dum la manĝo	他正坐着吃晚饭	he was sitting at dinner	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la plej alta el tiuj homoj	这些人中个最高的	the tallest of those people	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	li sidis dum la manĝo	他正坐着吃饭	he was sitting at dinner	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ŝi skribas dum li legas	他读书时她写作	she writes while he reads	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ĉi tie, en ĉi tiu ĉambro	在这里，在这个房间里	here, in this room	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	tiu ĉi sinjoro	这位先生	this gentleman	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	aŭskultinda novaĵo	值得一听的新闻	a news worth listening	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la libro estas vere leginda	这本书确实值得一读	the book is really worth reading	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	bedaŭra afero	一件不幸的事	an unfortunate thing	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	bedaŭra afero	一件担心的事	an unfortunate thing	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	bedaŭrinde, mi ne povas	不幸的是，我不能	unfortunately, I can't	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	nedankinde. estis mia plezuro	不客气。这是我的荣幸	you are welcome. it was my pleasure	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	eta belulino ege belas	小美女很漂亮	small pretty girl is very beautiful	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ĉiuj amikoj amas ŝin	所有的朋友都爱她	all friends love her	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	antaŭ tri monatoj	三个月前	three months ago	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	okazis malbono al ŝi	她发生了一些不好的事	something bad happened to her	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	okazis malbono al ŝi	在她发生了一些不好的事	something bad happened to her	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ŝi falis pro aŭto	她因为汽车摔倒了	she fell because of a car	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	malsaniĝis kaj temperaturo altiĝis	生病了，体温升高	became ill and temperature rose	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	malsaniĝis kaj temperaturo altiĝis	生病了，体温升高了	became ill and temperature rose	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	patrino diris, ke ŝi devas ripozi	妈妈说她该休息了	mother said she should rest	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ŝi devas resti hejme	她必须呆在家里	she has to stay home	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	ŝi vokos doktoron	她会打电话给医生	she will call a doctor	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	ŝi vokos doktoron	她会找大夫	she will call a doctor	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	je la naŭa horo	九点钟	at nine o'clock	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	matene venis je la oka	早上八点钟来	in the morning came at eight o'clock	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	je la sepa morgaŭ vespere	明天晚上七点	at seven tomorrow evening	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	montris liajn manojn	展示了他的双手	showed his hands	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	vesto, vestiĝas	衣服，正在穿衣服	dress, is getting dressed	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	vestiĝu kaj varmigu vian korpon	穿好衣服并温暖身体	get dressed and warm your body	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	hejme tuj malvestis kaj duŝis	回到家立刻脱衣服洗澡	at home immediately undressed and showered	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	vestiĝu kaj varmigu vian korpon	穿好衣服并保暖身体	get dressed and warm your body	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	hejme tuj malvestis kaj duŝis	回到家立刻脱衣服后洗澡了	at home immediately undressed and showered	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	doktoro rigardis ĉion	医生检查了一切	a doctor looked at everything	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	bone rigardis kaj fine diris	看透了最后说	looked throughly and finally said	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	bone rigardis kaj fine diris	检查好以后说	looked throughly and finally said	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	unu semajnon restu hejme	在家待一周	stay home for a week	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	deziras, ke vi estu trankvila	希望你冷静	wants you to be calm	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	post unu semajno	一星期后	after one week	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	post unu semajno	一个星期后	after one week	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	vi fartos pli bone	你会感觉好点的	you will feel better	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	trinku multe da teo	多喝茶	drink plenty of tea	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	venos por revidi vin	会再次来看你	will come to see you again	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	ankaŭ li estu trankvila	让他也冷静	let him be calm too	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	ankaŭ li estu trankvila	让他也安静	let him be calm too	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	sana homo, sanulo	健康的人，健康的人	healthy man, healthy person	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	zorgis pri si mem	照顾好自己	took care of oneself	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	tuta afero tuje utilis al mi	整件事立刻对我有用	the whole thing was useful to me at once	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	rimarkis, ke teruraĵo proksimas	注意到可怕的事情就在附近	noticed that horrible thing is near	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	petis tuj rimarki ĝin	要求立即注意	asked to notice it immediately	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	rimarkis, ke teruraĵo proksimas	注意到可怕的事情就在眼前	noticed that horrible thing is near	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	petis tuj rimarki ĝin	要求立即注意那个	asked to notice it immediately	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	pensis, ke tio ne necesas	认为没有必要	thought that was not necessary	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	loĝis proksime, kaj tio utilis	住在附近，很有用	lived nearby, and that was useful	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	nia lando hodiaŭ teruriĝis	我们的国家今天变得恐惧	our country became terrified today	Nova Aŭto	0    	0000-00-00 00:00:00
-Maja	karaj infanoj el ĉiuj familioj	亲爱的所有家庭的孩子们	dear children from all families	Maja	0    	0000-00-00 00:00:00
+Nova Aŭto	nia lando hodiaŭ teruriĝis	我们的国家今天变得糟糕	our country became terrified today	Nova Aŭto	0    	0000-00-00 00:00:00
+Maja	karaj infanoj el ĉiuj familioj	所有家庭的可爱的孩子们	dear children from all families	Maja	0    	0000-00-00 00:00:00
 Maja	unu fojon hieraŭ, du fojojn morgaŭ	昨天一次，明天两次	once yesterday, twice tomorrow	Maja	0    	0000-00-00 00:00:00
-Maja	hodiaŭ familioj bezonas infanojn	今天的家庭需要孩子	today families need children	Maja	0    	0000-00-00 00:00:00
+Maja	hodiaŭ familioj bezonas infanojn	目前的家庭需要孩子	today families need children	Maja	0    	0000-00-00 00:00:00
 Maja	esperis, ke li fartos bone morgaŭ	希望他明天一切都好	hoped he would be well tomorrow	Maja	0    	0000-00-00 00:00:00
 Maja	li fartis ege trankvila	他感觉（一直）非常平静	he was feeling (has been) very calm	Maja	0    	0000-00-00 00:00:00
-Maja	tri etuloj altigis la monton	三个小家伙把山举起来	three little ones raised the mountain	Maja	0    	0000-00-00 00:00:00
-Maja	gravuloj ne petis helpon	重要的人没有寻求帮助	important people did not ask for help	Maja	0    	0000-00-00 00:00:00
-Maja	piediris tien por helpi	走到那里帮忙	walked there to help	Maja	0    	0000-00-00 00:00:00
+Maja	tri etuloj altigis la monton	三个侏儒把山建得高	three little ones raised the mountain	Maja	0    	0000-00-00 00:00:00
+Maja	gravuloj ne petis helpon	重要的人们没有寻求帮助	important people did not ask for help	Maja	0    	0000-00-00 00:00:00
+Maja	piediris tien por helpi	为了帮忙走到那里	walked there to help	Maja	0    	0000-00-00 00:00:00
 Maja	restu hejme se temperaturo altas	如果温度高，请呆在家里	stay home if temperature is high	Maja	0    	0000-00-00 00:00:00
 Maja	temperaturo restis simila hodiaŭ	今天气温保持相似	temperature remained similar today	Maja	0    	0000-00-00 00:00:00
-Maja	voku la doktoron je la naŭa	九点打电话给医生	call the doctor at nine	Maja	0    	0000-00-00 00:00:00
-Maja	montru ĝin al via doktoro	给你的医生看	show it to your doctor	Maja	0    	0000-00-00 00:00:00
-Maja	por montri vian piedon	展示你的脚	to show your foot	Maja	0    	0000-00-00 00:00:00
+Maja	voku la doktoron je la naŭa	请在九点把医生叫过来	call the doctor at nine	Maja	0    	0000-00-00 00:00:00
+Maja	montru ĝin al via doktoro	把那个请你的医生看	show it to your doctor	Maja	0    	0000-00-00 00:00:00
+Maja	por montri vian piedon	给我看你的脚	to show your foot	Maja	0    	0000-00-00 00:00:00
 Maja	vestu ĉi tiun ĉemizon	穿这件衬衫	wear this shirt	Maja	0    	0000-00-00 00:00:00
-Maja	semajnfine ĉio trankviliĝos	周末一切都会平静下来	on the weekend everything will calm down	Maja	0    	0000-00-00 00:00:00
+Maja	semajnfine ĉio trankviliĝos	到了周末一切都会平静下来	on the weekend everything will calm down	Maja	0    	0000-00-00 00:00:00
 Maja	sub la te-taso kion vi trovis?	在茶杯下面你发现了什么？	under the tea-cup what did you find?	Maja	0    	0000-00-00 00:00:00
-Maja	mi deziras matenan teon	我要早茶	I want morning tea	Maja	0    	0000-00-00 00:00:00
+Maja	mi deziras matenan teon	我想喝早茶	I want morning tea	Maja	0    	0000-00-00 00:00:00
 Maja	esperis trankvilan vesperon	希望有一个安静的夜晚	hoped for a quiet evening	Maja	0    	0000-00-00 00:00:00
 Maja	deziras, ke vi lernu	希望你学习	wants that you learn	Maja	0    	0000-00-00 00:00:00
 Maja	insistis, ke mi iru	坚持要我去	insisted that I go	Maja	0    	0000-00-00 00:00:00
-Maja	je kioma horo?	什么时间？	at what hour?	Maja	0    	0000-00-00 00:00:00
+Maja	je kioma horo?	几点？	at what hour?	Maja	0    	0000-00-00 00:00:00
 Maja	je la sesa, li venos	六点他会来	at six he will come	Maja	0    	0000-00-00 00:00:00
-Maja	la libreto estis ĉarma	歌词很迷人	the libretto was charming	Maja	0    	0000-00-00 00:00:00
-Maja	estu trankvila	安静	be quiet	Maja	0    	0000-00-00 00:00:00
-Maja	li estu trankvila	让他安静	let him be quiet	Maja	0    	0000-00-00 00:00:00
+Maja	la libreto estis ĉarma	那本小书很迷人	the libretto was charming	Maja	0    	0000-00-00 00:00:00
+Maja	estu trankvila	请安静	be quiet	Maja	0    	0000-00-00 00:00:00
+Maja	li estu trankvila	让他安静一下	let him be quiet	Maja	0    	0000-00-00 00:00:00
 Maja	ankaŭ li	他也是	he too	Maja	0    	0000-00-00 00:00:00
-Maja	mi deziras	我想要（欲望）	I want (desire)	Maja	0    	0000-00-00 00:00:00
+Maja	mi deziras	我想要（希望）	I want (desire)	Maja	0    	0000-00-00 00:00:00
 Maja	mi deziras, ke ~	我希望（渴望）~	I wish (desire) that ~	Maja	0    	0000-00-00 00:00:00
-Maja	ke vi lernu	你学到的	that you learn	Maja	0    	0000-00-00 00:00:00
+Maja	ke vi lernu	你要学习的	that you learn	Maja	0    	0000-00-00 00:00:00
 Maja	mi deziras, ke vi lernu	我想让你学习	I want you to learn	Maja	0    	0000-00-00 00:00:00
 Maja	patro insistas	父亲坚持	father insists	Maja	0    	0000-00-00 00:00:00
 Maja	patro insistas, ke ~	爸爸坚持说~	father insists that ~	Maja	0    	0000-00-00 00:00:00
-Maja	ke mi iru	我去	that I go	Maja	0    	0000-00-00 00:00:00
+Maja	ke mi iru	我得去	that I go	Maja	0    	0000-00-00 00:00:00
 Maja	patro insistas, ke mi iru	父亲坚持要我去	father insists that I go	Maja	0    	0000-00-00 00:00:00
-Maja	je kioma horo	什么时间	at what hour	Maja	0    	0000-00-00 00:00:00
-Maja	je kioma horo vi venos?	你什么时候来？	what time do you come?	Maja	0    	0000-00-00 00:00:00
-Maja	je la kvina	在五点钟）	at five (o'clock)	Maja	0    	0000-00-00 00:00:00
+Maja	je kioma horo	在几点	at what hour	Maja	0    	0000-00-00 00:00:00
+Maja	je kioma horo vi venos?	你几点过来？	what time do you come?	Maja	0    	0000-00-00 00:00:00
+Maja	je la kvina	在五点钟	at five (o'clock)	Maja	0    	0000-00-00 00:00:00
 Maja	je la kvina horo	在五点钟	at five o'clock	Maja	0    	0000-00-00 00:00:00
-Maja	kiel li fartas?	他怎么样？	how does he doing?	Maja	0    	0000-00-00 00:00:00
+Maja	kiel li fartas?	他过得怎么样？	how does he doing?	Maja	0    	0000-00-00 00:00:00
 Maja	kiel vi fartis lastatempe?	你最近怎么样？	how have you been lately?	Maja	0    	0000-00-00 00:00:00
 Maja	etaj libroj belas	小书很漂亮	little books are beautiful	Maja	0    	0000-00-00 00:00:00
 Maja	libreto, belaj libroj	一本小册子，漂亮的书	a booklet, beautiful books	Maja	0    	0000-00-00 00:00:00
 Maja	bela, beleta, belega	漂亮，有点漂亮，非常漂亮	beautiful, a little pretty, very beautiful	Maja	0    	0000-00-00 00:00:00
-Maja	varma, varmeta, varmega	温暖、不冷不热、非常热	warm, lukewarm, very hot	Maja	0    	0000-00-00 00:00:00
+Maja	varma, varmeta, varmega	温暖、温暖一点、非常热	warm, lukewarm, very hot	Maja	0    	0000-00-00 00:00:00
 Maja	librego, libreto	一本大书，一本小册子	a big book, a booklet	Maja	0    	0000-00-00 00:00:00
 Maja	bona, bonega, bonege	好，很好，好	good, great, well	Maja	0    	0000-00-00 00:00:00
 Maja	riĉa, riĉiĝi, riĉulo	有钱，变得有钱，成为有钱人	rich, become rich, a rich person	Maja	0    	0000-00-00 00:00:00
 Maja	trankvila, trankviliĝi, trankviliĝu	冷静，冷静下来，冷静下来	calm, to calm down, calm down	Maja	0    	0000-00-00 00:00:00
 ĉiam malfrue	sana, resaniĝi, resaniĝis	健康，痊愈，痊愈	healthy, to become healed, became healed	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	edzo, edziĝo, geedziĝis	丈夫、婚姻、已婚	a husband, marriage, married	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	leterportisto	一个信邮递员	a letter postman	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	hejmlando	一个祖国	a homeland	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	edzo, edziĝo, geedziĝis	丈夫、结婚、已婚	a husband, marriage, married	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	leterportisto	邮递员	a letter postman	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	hejmlando	祖国	a homeland	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	iom, iomete	有点，一点点	somewhat, a little	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ni bonege vespermanĝis	我们吃了一顿丰盛的晚餐	we had a great dinner	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	espereble, prizorgu vin	希望，照顾好自己	hopefully, take care of yourself	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	mi zorgis pri la altkvalita loĝejo	我关心高品质的住房	I cared about the high-quality housing	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	mi zorgis pri la altkvalita loĝejo	我关心那座高档次的住房	I cared about the high-quality housing	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	pripensu dufoje, multfoje	三思而后行	think twice, many times	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	kiu deprenis la libreton?	谁拿走了小册子？	who took down the booklet?	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	kato, kiu nomiĝas Cezaro	一只名叫凯撒的猫	a cat named Caesar	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	kuko, kiu estas sur la tablo	桌子上的蛋糕	a cake which is on the table	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	manĝu kukon, kiu estas sur la tablo	吃桌上的蛋糕	eat a cake that is on the table	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	fariĝis varmega kaj ruĝiĝis	变得又热又红	became hot and blushed	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	patro volas, ke lia infano manĝu	父亲想让他的孩子吃饭	a father wants his child to eat	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	patro volas, ke lia infano manĝu	父亲希望他的孩子吃饭	a father wants his child to eat	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	en malgranda ĉambro	在一个小房间里	in a small room	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ni loĝas en ~	我们住在~	we live in ~	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	mi fariĝis maltrankvila	我变得焦虑起来	I became anxious	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	tiam, kiam mi vidis vin	当我看到你的时候	at that time when I saw you	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	ĉiuj rimarkis tion	大家都注意到了	everyone noticed that	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	ĉiuj rimarkis tion	大家都注意到了那个	everyone noticed that	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	tion, ke ŝi estas belega	她很漂亮的事实	the fact that she is beautiful	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ĉu vi deziras, ke ~ ?	你想要那个吗~？ （德兹里）	do you want that ~ ? (deziri)	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ke mi montru al vi	我可以给你看	that I may show you	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	ĉu vi deziras, ke mi montru?	你想让我展示吗？	do you want me to show?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	ĉu vi deziras, ke mi montru?	你想让我拿出来看吗？	do you want me to show?	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	mian plej novan libron	我的最新书（目标）	my newest book (objective)	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	morgaŭ matene, kion vi volas?	明天早上，你想要什么？	tomorrow morning, what do you want?	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	matenmanĝis malfrue	吃早饭晚了	had breakfast late	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	morgaŭ matene, kion vi volas?	明天早上，你想做什么？	tomorrow morning, what do you want?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	matenmanĝis malfrue	晚点吃早饭了	had breakfast late	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	kiam Marko alvenos?	马克什么时候到达？	when will Mark arrive?	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	je la kvina aŭ je la oka horo	五点或八点钟	at five or eight o'clock	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	kiam vi rimarkis, ke ~ ?	你什么时候注意到的~？	when did you notice that ~ ?	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	la tuta familio nomas min bonfarulo	全家人都称我为恩人	the whole family calls me a benefactor	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	la tuta familio nomas min bonfarulo	全家人都称我好人	the whole family calls me a benefactor	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	utila por vi	对你有用	useful for you	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ĉu la libreto estis utila?	这本小册子有用吗？	was the booklet useful?	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	tiu libreto, kiun mi sendis	我寄出的小册子	the booklet, which I sent	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	tiu libreto, kiun mi sendis	我寄的那本小册子	the booklet, which I sent	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	matene dormis tre longe	早上睡了很长时间	in the morning slept for a long time	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	kiam li vidis la sunon	当他看到太阳时	when he saw the sun	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	subite li eksaltis	突然他跳了起来	suddenly he jumped up	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	li estis ĉiam frua	他总是很早	he was always early	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ĉiam li malfruas	他总是迟到	he is always late	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	tiam, kiam li devas iri	那时，当他必须走的时候	at that time, when he has to go	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	tiam, kiam li devas iri	当他该离去的时候	at that time, when he has to go	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	iri al la lernejo	去学校	to go to the school	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	li scias, ke ~	他知道，那个~	he knows, that ~	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	li scias tion, ke ~	他知道这个事实，那就是~	he knows the fact, that ~	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	tion, ke la instruisto malŝatas abelon	事实上老师讨厌蜜蜂	the fact that the teacher hates bees	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	scias tion, ke la instruisto malŝatas abelon	知道老师讨厌蜜蜂这一事实	knows the fact that the teacher hates bees	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	scias, ke la instruisto malŝatas tion	知道老师讨厌这样	knows that the teacher hates that	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	li scias tion, ke ~	他知道那个事实，那就是~	he knows the fact, that ~	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	tion, ke la instruisto malŝatas abelon	老师讨厌蜜蜂的事实	the fact that the teacher hates bees	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	scias tion, ke la instruisto malŝatas abelon	知道老师讨厌蜜蜂的事实	knows the fact that the teacher hates bees	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	scias, ke la instruisto malŝatas tion	知道老师不喜欢那个	knows that the teacher hates that	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	sed hodiaŭ li trinkis la kafon	但今天他喝了咖啡	but today he drank the coffee	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	li rapide surmetas la vestaĵon	他迅速穿上衣服	he quickly puts on the clothes	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	li rapide surmetas la vestaĵon	他迅速的穿上衣服	he quickly puts on the clothes	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	li ne volas malfrui	他不想迟到	he doesn't want to be late	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	rapidege kun la libroj en la mano	手上的书很快	very quickly with the books in hand	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	poste li kuris kaj saltis	后来他又跑又跳	later he ran and jumped	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	rapidege kun la libroj en la mano	手上拿着书很快的	very quickly with the books in hand	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	poste li kuris kaj saltis	之后他又跑又跳	later he ran and jumped	ĉiam malfrue	0    	0000-00-00 00:00:00
 la strato	li kuris kaj saltis	他又跑又跳	he ran and jumped	la strato	0    	0000-00-00 00:00:00
 la strato	laŭ la strato	沿着街道	along the street	la strato	0    	0000-00-00 00:00:00
 la strato	la homoj rigardis lin	人们看着他	the people looked at him	la strato	0    	0000-00-00 00:00:00
 la strato	rigardis lin kaj diris	看着他说	looked at him and said	la strato	0    	0000-00-00 00:00:00
-la strato	saĝa kaj malsaĝa	聪明又愚蠢	wise and foolish	la strato	0    	0000-00-00 00:00:00
-la strato	kia malsaĝa knabo!	多么愚蠢的孩子啊！	what a foolish boy!	la strato	0    	0000-00-00 00:00:00
+la strato	saĝa kaj malsaĝa	聪明与愚蠢	wise and foolish	la strato	0    	0000-00-00 00:00:00
+la strato	kia malsaĝa knabo!	那孩子多么愚蠢的啊！	what a foolish boy!	la strato	0    	0000-00-00 00:00:00
 la strato	estis antaŭ lernejo	在学校前面	was in front of a school	la strato	0    	0000-00-00 00:00:00
 la strato	baldaŭ	很快	soon	la strato	0    	0000-00-00 00:00:00
 la strato	li estis antaŭ ~	他就在前面~	he was in front of ~	la strato	0    	0000-00-00 00:00:00
 la strato	iri kaj eniri	去和进入	to go and to enter	la strato	0    	0000-00-00 00:00:00
 la strato	li volis eniri	他想进入	he wanted to enter	la strato	0    	0000-00-00 00:00:00
-la strato	eniri la lernejon	进入学校	to enter into the school	la strato	0    	0000-00-00 00:00:00
-la strato	sed tamen	但无论如何	but however	la strato	0    	0000-00-00 00:00:00
+la strato	eniri la lernejon	进去了学校	to enter into the school	la strato	0    	0000-00-00 00:00:00
+la strato	sed tamen	但是	but however	la strato	0    	0000-00-00 00:00:00
 la strato	sed li ne povis	但他不能	but he couldn't	la strato	0    	0000-00-00 00:00:00
-la strato	fermi kaj fermita	关闭并关闭	to close and closed	la strato	0    	0000-00-00 00:00:00
-la strato	ĝi estis fermita	它已关闭	it was closed	la strato	0    	0000-00-00 00:00:00
-la strato	nek ~ nek ~	既不～也不～	neither ~ nor ~	la strato	0    	0000-00-00 00:00:00
-la strato	nek instruisto nek gelernantoj	既不是老师，也不是男女学生	neither a teacher nor male-and-female students	la strato	0    	0000-00-00 00:00:00
+la strato	fermi kaj fermita	关闭和关闭的	to close and closed	la strato	0    	0000-00-00 00:00:00
+la strato	ĝi estis fermita	那个是已关闭的	it was closed	la strato	0    	0000-00-00 00:00:00
+la strato	nek ~ nek ~	既不～又不～	neither ~ nor ~	la strato	0    	0000-00-00 00:00:00
+la strato	nek instruisto nek gelernantoj	既不是老师，也不是学生	neither a teacher nor male-and-female students	la strato	0    	0000-00-00 00:00:00
 la strato	vidis nek instruiston nek gelernantojn	既没有看到老师，也没有看到学生	saw neither a teacher nor students	la strato	0    	0000-00-00 00:00:00
 la strato	sidi, eksidi	坐下，坐下	to sit, to get sitted	la strato	0    	0000-00-00 00:00:00
 la strato	eksidis	已入座（已入座）	got seated (had seated)	la strato	0    	0000-00-00 00:00:00
 la strato	li eksidis	他坐下了	he got seated	la strato	0    	0000-00-00 00:00:00
-la strato	kaj pensis	和思想	and thought	la strato	0    	0000-00-00 00:00:00
+la strato	kaj pensis	思考了	and thought	la strato	0    	0000-00-00 00:00:00
 la strato	kio okazis?	发生了什么？	what did happen?	la strato	0    	0000-00-00 00:00:00
 la strato	diable	可怕的（像魔鬼一样）	to the awful (like a devil)	la strato	0    	0000-00-00 00:00:00
 la strato	damne	该死的	dam it	la strato	0    	0000-00-00 00:00:00
 la strato	memoras	记得	remembers	la strato	0    	0000-00-00 00:00:00
-la strato	nun mi memoras	现在我想起了	now I remember	la strato	0    	0000-00-00 00:00:00
+la strato	nun mi memoras	现在我想起来了	now I remember	la strato	0    	0000-00-00 00:00:00
 la strato	dimanĉo	星期日	Sunday	la strato	0    	0000-00-00 00:00:00
 la strato	hodiaŭ estas ~	今天是~	today is ~	la strato	0    	0000-00-00 00:00:00
 la strato	hodiaŭ estas dimanĉo	今天是星期天	today is Sunday	la strato	0    	0000-00-00 00:00:00
-la strato	dormi kaj ekdormi	睡觉并进入睡眠状态	to sleep and to get into sleep	la strato	0    	0000-00-00 00:00:00
-la strato	suno kaj luno	一个太阳和一个月亮	a sun and a moon	la strato	0    	0000-00-00 00:00:00
-la strato	subita kaj subite	突然又突然	sudden and suddenly	la strato	0    	0000-00-00 00:00:00
-la strato	ek!	离开！ （开始）	off! (to start)	la strato	0    	0000-00-00 00:00:00
-la strato	salti kaj eksaltis	跳啊跳	to jump and jumped 	la strato	0    	0000-00-00 00:00:00
+la strato	dormi kaj ekdormi	睡觉和进入睡眠状态	to sleep and to get into sleep	la strato	0    	0000-00-00 00:00:00
+la strato	suno kaj luno	太阳和月亮	a sun and a moon	la strato	0    	0000-00-00 00:00:00
+la strato	subita kaj subite	突然, 突然	sudden and suddenly	la strato	0    	0000-00-00 00:00:00
+la strato	ek!	开始	off! (to start)	la strato	0    	0000-00-00 00:00:00
+la strato	salti kaj eksaltis	跳, 起跳	to jump and jumped 	la strato	0    	0000-00-00 00:00:00
 la strato	ĉiam frua	总是早	always early	la strato	0    	0000-00-00 00:00:00
-la strato	hodiaŭ metis kaj kuris	今天放跑	today put and ran	la strato	0    	0000-00-00 00:00:00
-la strato	aĵo, ne aĝo	与年龄无关的东西	a thing not age	la strato	0    	0000-00-00 00:00:00
+la strato	hodiaŭ metis kaj kuris	今天放东西后跑掉了	today put and ran	la strato	0    	0000-00-00 00:00:00
+la strato	aĵo, ne aĝo	东西, 不是年龄	a thing not age	la strato	0    	0000-00-00 00:00:00
 la strato	kuris laŭ homoj saĝaj	与聪明人同行	ran along wise people	la strato	0    	0000-00-00 00:00:00
 la strato	laŭeble baldaŭ	尽快	soon as possible	la strato	0    	0000-00-00 00:00:00
-la strato	kia knabo, kia knabino	什么是男孩，什么是女孩	what a boy, what a girl	la strato	0    	0000-00-00 00:00:00
-la strato	nek pensita nek memorita	既没有思考也没有记忆	neither thought nor memorized	la strato	0    	0000-00-00 00:00:00
+la strato	kia knabo, kia knabino	什么样的男孩，什么样的女孩	what a boy, what a girl	la strato	0    	0000-00-00 00:00:00
+la strato	nek pensita nek memorita	既没有想过也没有记得	neither thought nor memorized	la strato	0    	0000-00-00 00:00:00
 la strato	diablo atendis akvon dimanĉe	周日，魔鬼在等水	a devil waited for water on Sunday	la strato	0    	0000-00-00 00:00:00
-la strato	eĉ tiom malgranda momento valoras	即使是这么小的一刻也是值得的	even such a small moment is worthwhile	la strato	0    	0000-00-00 00:00:00
-la strato	kriis for ĝis nokto	一直哭到晚上	cried away until night	la strato	0    	0000-00-00 00:00:00
-la strato	lasis la poŝton de la mano	收起手中的邮件	put away the mailpost from the hand	la strato	0    	0000-00-00 00:00:00
-la strato	ridis mem lasante la poŝton	自己笑了，收起邮筒	laughed by oneself, putting away the mailpost	la strato	0    	0000-00-00 00:00:00
+la strato	eĉ tiom malgranda momento valoras	即使那么点的一刻也是值得的	even such a small moment is worthwhile	la strato	0    	0000-00-00 00:00:00
+la strato	kriis for ĝis nokto	一直哭到整个晚上	cried away until night	la strato	0    	0000-00-00 00:00:00
+la strato	lasis la poŝton de la mano	把手中的邮件放下了	put away the mailpost from the hand	la strato	0    	0000-00-00 00:00:00
+la strato	ridis mem lasante la poŝton	放下着邮筒笑了	laughed by oneself, putting away the mailpost	la strato	0    	0000-00-00 00:00:00
 la strato	nek li nek ŝi ridis	他和她都没有笑	neither he nor she laughed	la strato	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ŝi nek ridis nek respondis	她既不笑也不回答	she neither laughed nor answered	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	li nek sidas nek rigardas	他既不坐着也不观看	he neither sits nor watches	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ŝi nek ridis nek respondis	她既不笑也不回答了	she neither laughed nor answered	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	li nek sidas nek rigardas	他既不坐也不看	he neither sits nor watches	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	neniam mi vidis	我从来没见过	I have never seen	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	mi neniam diros al iu	我永远不会告诉任何人	I will never tell anyone	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	diru al neniu	不告诉任何人	tell no one	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	mi neniam diros	我永远不会说	I will never say	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	mem	对自己（自己）	to oneself (by oneself)	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	mem	自己	to oneself (by oneself)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	mi mem faris	我自己做的	I did it myself	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	faris tion	做到了（做到了）	did it (made it)	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	mem faris tion	自己做的（自己做的）	did it oneself (made it oneself)	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ĝis la revido, ĝis revido	再见（再次），再次见到你	see you (again), see you (again)	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ĝis!	直到！ （再见！）	until! (goodbye!)	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	faris tion	做完了	did it (made it)	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	mem faris tion	自己做的	did it oneself (made it oneself)	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ĝis la revido, ĝis revido	下次见	see you (again), see you (again)	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ĝis!	再见	until! (goodbye!)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ekparoli	开始说话	to start talking	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ekparolis, komencis paroli finfine	开始说，终于开始说话	started saying, began to speak at last	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	trinkis rapidege	喝得很快	drank very fast	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	trinkis matenan trinkaĵon	早上喝了一杯	had a morning drink	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	por frue veni	早点来	to come early	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	trinkis matenan trinkaĵon	喝了一杯早饮	had a morning drink	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	por frue veni	为了早点到	to come early	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	veni al la lernejo	来学校	to come to school	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	frue veni al ~	早点来~	to come early to ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ne aŭdis novaĵon	没听到消息	didn't hear news	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ankoraŭ ne aŭdis	还没听说	didn't hear yet	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	mi ankoraŭ ne aŭdis	我还没听说	I didn't hear yet	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	mi ankoraŭ ne aŭdis	我还没听说过	I didn't hear yet	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	en tiu momento	在那一刻	in that moment	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	en tiu momento li ekkriis	那一刻他哭了	in that moment he cried	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	knabo, kiu ne amas	一个不爱的男孩	a boy, who does not love	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	knabo, kiu ne amas	一个爱不上别人的男孩	a boy, who does not love	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	geknaboj	男孩和女孩	boys and girls	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	aliaj geknaboj	其他男孩和女孩	other boys and girls	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ne amas aliajn geknabojn	不爱其他男孩和女孩	does not love other boys and girls	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	aliaj geknaboj	其他孩子	other boys and girls	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ne amas aliajn geknabojn	不喜欢其他孩子	does not love other boys and girls	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	nek amikojn, nek amikinojn	既不是朋友也不是女朋友	neither friends nor girl friends	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	havas nek monon, nek tempon	既没有钱又没有时间	does not have neither money nor time	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kiu havis la libron?	谁有这本书？	who had the book?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	la libron, kiun vi atendis	你等待的书	the book which you waited	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	tiun, kiun vi atendis pli ol du jarojn	那个，你等了两年多的	that, which you waited for more than 2 years	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	tiun, kiun vi atendis pli ol du jarojn	你等了两年多的那个	that, which you waited for more than 2 years	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ĉu vi volas tion?	你想要那个吗？	do you want that?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ĉu vi volas, ke ~ ?	你想要那个吗~？	do you want that ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	plej kara	最亲爱的	dearest	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	plej kara foto	最亲爱的照片	dearest photo	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	mian plej karan foton	我最亲爱的照片	my dearest photo	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ĉu vi volas, ke ~ ?	你想要~吗？	do you want that ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	plej kara	最宝贵的	dearest	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	plej kara foto	最宝贵的照片	dearest photo	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	mian plej karan foton	我最珍贵的照片	my dearest photo	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kie vi aĉetis ~ ?	哪里买的~？	where did you buy ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	tiu vestaĵo	那件衣服	that clothing	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	tiun vestaĵon	那件衣服（目标）	that clothing (objective)	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -687,10 +687,10 @@ la strato	nek li nek ŝi ridis	他和她都没有笑	neither he nor she laughed	
 ĉiam Malfrue	vi iros tien	你会去那里	you will go there	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kien vi iros?	你去哪儿？	where are you going to?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	suna tago	晴天	sunny day	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	estos suna tago	这将是一个阳光明媚的日子	it will be a sunny day	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	se estos suna tago	如果天气晴朗的话	if it will be a sunny day	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	via frato jam ekiris	你哥哥已经开始了	your brother has already started	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ĉu via frato jam ekiris?	你弟弟开始了吗？	has your brother started yet?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	estos suna tago	将会晴天	it will be a sunny day	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	se estos suna tago	如果晴天的话	if it will be a sunny day	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	via frato jam ekiris	你哥哥已经起程了	your brother has already started	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ĉu via frato jam ekiris?	你弟弟已经出发了吗？	has your brother started yet?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kie estas la akvo?	水在哪里	where is the water	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kunporti la akvon	带水	to bring the water	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	vi mem kunportis	你自己带来的	you yourself brought	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -708,24 +708,24 @@ Malbela Tago	ŝi diris, ke ~	她这么说~	she said that ~	ĉiam Malfrue	0    	0
 Malbela Tago	vi devas laborigi ~	你必须让〜工作	you have to make ~ work	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	pli multe	更多的	more	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	pli multe laborigi	使工作更多	to make work more	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	laborigi vian kapon	让你的头脑运转起来	to make your head work	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	kiom da malbonaj notoj	有多少成绩不好	how many bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	laborigi vian kapon	把你的脑袋动一动	to make your head work	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	kiom da malbonaj notoj	有点的不好成绩	how many bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	vi havas tiom da malbonaj notoj	你的成绩很差	you have so many bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	estis malĝoja	难过（过去式	was sad	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	en vian ĉambron	进入你的房间	into your room	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	iru en vian ĉambron	进入你的房间	go into your room	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	iru kaj lernu	去学习	go and learn	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	iru kaj lernu	去和学习	go and learn	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	mi sidis	我坐了	I sat	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	en mia ĉambro	在我的房间里	in my room	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	sidis en mia ĉambro	坐在我的房间里	sat in my room	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	nek lerni nek legi	既不学习也不读书	neither learn nor read	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	sed mi povis nek lerni nek legi	但我既无法学习也无法阅读	but I could neither learn nor read	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	miaj pensoj	我的想法	my thoughts	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ĉe ludo	在一场比赛中	at a game	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ludo kun miaj amikoj	和我的朋友们一起玩游戏	game with my friends	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ĉe sporto	在运动时	at sport	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	al mi mem	对自己	to myself	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	diris al mi mem	对自己说	said to myself	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ĉe ludo	在一场游戏	at a game	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ludo kun miaj amikoj	和我的朋友们一起玩	game with my friends	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ĉe sporto	在运动	at sport	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	al mi mem	对我自己	to myself	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	diris al mi mem	对我自己说了	said to myself	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	tiom malsaĝa	如此愚蠢	so stupid	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ĉu mi estas tiom malsaĝa?	我有那么傻吗？	am I that stupid?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kvankam mi lernis multe	虽然我学到了很多	although I learned a lot	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -737,42 +737,42 @@ Malbela Tago	ne, mia kara	不是，亲爱的	no, my dear	ĉiam Malfrue	0    	000
 Malbela Tago	vi ne estas malsaĝa	你不傻	you are not stupid	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	la problemo estas, ke ~	问题是~	the problem is that ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ke vi devas lerni	你必须学习的	that you must learn	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	devas lerni multe pli	必须学到更多	must learn much more	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	tiam vi ne havos	那么你将不会有	then you will not have	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	malbonaj notoj	成绩不好	bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	havos nur malbonajn notojn	只会有不好的成绩	will have only bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ankaŭ nun	现在也	also now	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	mi ne havas ilin	我没有它们	I don't have them	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	mi havas bonan noton	我成绩很好	I have a good grade	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	devas lerni multe pli	必须学到更多东西	must learn much more	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	tiam vi ne havos	那时你将不会得到	then you will not have	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	malbonaj notoj	不好的成绩	bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	havos nur malbonajn notojn	只会得到不好的成绩	will have only bad grades	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ankaŭ nun	现在也是	also now	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	mi ne havas ilin	我没有那些东西	I don't have them	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	mi havas bonan noton	我的成绩很好	I have a good grade	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	pri muziko	关于音乐	about music	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	bonan noton pri muziko	关于音乐的好笔记	a good note on music	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	la patrino subite ekridis	妈妈突然笑了起来	the mother suddenly burst out laughing	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	tio plibeligis ~	美化了~	that beautified ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	bonan noton pri muziko	在音乐得到好成绩	a good note on music	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	la patrino subite ekridis	妈妈突然笑起来了	the mother suddenly burst out laughing	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	tio plibeligis ~	变更美了~	that beautified ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	mian tagon	我的一天	my day	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	plibeligis mian tagon	让我很开心	made my day	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	sed tamen restis	但仍然保留	but still remained	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	plibeligis mian tagon	让我的一天更加美好	made my day	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	sed tamen restis	但仍然滞留	but still remained	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	sed la problemo tamen restis	但问题仍然存在	but the problem still remained	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	kilogramo da ~	一公斤~	a kilogram of ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	kilogramo da ~	公斤~	a kilogram of ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kilogramo da sukero	一公斤糖	a kilogram of sugar	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	glaso da ~	一杯~	a glass of ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	glaso da akvo	一杯水	a glass of water	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	multe da ~	很多~	a lot of ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	multe da ideoj	很多想法	lots of ideas	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	deteni sin	要忍住	to hold back	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	deteni sin	自愿放弃	to hold back	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ordigis ĉion	整理好一切	sorted everything out	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	transdonis al li	交给他	handed over to him	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	mi petas	我问	I'm asking	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	mi petas	我请~	I'm asking	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	glason da kafo	一杯咖啡	a glass of coffee	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	kaj iom da akvo	和一些水	and some water	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	mi petas glason da kafo	我想要一杯咖啡	I would like a glass of coffee	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	mi petas tason da teo	我想要杯茶	I would like a cup of tea	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	kaj iom da akvo	和一点水	and some water	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	mi petas glason da kafo	我要一杯咖啡	I would like a glass of coffee	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	mi petas tason da teo	我要一杯茶	I would like a cup of tea	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	doloris lin	伤害他	hurt him	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	la kapo doloris lin	他头疼	his head hurt	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	la kapo doloris lin	他头疼了	his head hurt	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	li malsaniĝis	他生病了	he fell ill	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ŝatas esti bela	喜欢漂亮	likes to be beautiful	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ŝi beligis sian vizaĝon	她美化了自己的脸	she beautified her face	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	la knabo ŝatas esti bela	这个男孩喜欢漂亮	the boy likes to be pretty	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	pro tio ŝi beligis ĝin	因此她美化了它	therefore she beautified it	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ŝi beligis sian vizaĝon	她打扮了自己的脸	she beautified her face	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	la knabo ŝatas esti bela	那个孩子喜欢打扮自己	the boy likes to be pretty	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	pro tio ŝi beligis ĝin	因为那个她装好了它	therefore she beautified it	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	post la tagmanĝo	午餐后	after lunch	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	purigi la kuirejon	打扫厨房	to clean the kitchen	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kiu purigos la kuirejon?	谁来打扫厨房？	who will clean the kitchen?	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -780,142 +780,142 @@ Malbela Tago	volas trinki	想喝	wants to drink	ĉiam Malfrue	0    	0000-00-00 0
 Malbela Tago	kion vi volas trinki?	你想喝什么	what do you want to drink	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	trinki teon	喝茶	to drink tea	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	iom da akvo	一点水	a little of water	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ĉu vi volas nenion?	你什么都不想要吗？	do you want nothing?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ĉu vi volas nenion?	你什么都不想喝吗？	do you want nothing?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	tiel subite	如此突然	so suddenly	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kial vi decidis ~ ?	你为什么决定~？	why did you decide ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kial vi tiel subite decidis ~ ?	你为什么这么突然决定？	why did you decide ~ so suddenly?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	via ĉambro	你的房间	your room	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	via ĉambreto	你的小房间	your little room	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	vian ĉambreton	到你的小房间	to your little room	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	renovigi vian ĉambreton	翻新你的小房间	to renovate your little room	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	decidis renovigi vian ĉambreton	决定翻新你的小房间	decided to renovate your little room	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	vian ĉambreton	进入你的小房间	to your little room	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	renovigi vian ĉambreton	装修你的小房间	to renovate your little room	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	decidis renovigi vian ĉambreton	决定装修你的小房间	decided to renovate your little room	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	al kiu	给谁	to whom	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	vi donis ~	你给了~	you gave ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	al kiu vi donis ~ ?	你给了谁~？	to whom did you give ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	puraj glasoj	清洁眼镜	clean glasses	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	vi donis la purajn glasojn	你给了干净的眼镜	you gave the clean glasses	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	la puraj glasoj por la vino	干净的酒杯	the clean glasses for the wine	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	kontraŭ kiu	针对谁	against whom	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	puraj glasoj	干净的杯子	clean glasses	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	vi donis la purajn glasojn	你给了干净的杯子	you gave the clean glasses	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	la puraj glasoj por la vino	干净的红酒杯	the clean glasses for the wine	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	kontraŭ kiu	反对谁	against whom	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	via sportklubo	你的体育俱乐部	your sports club	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ludas kontraŭ ~	对阵~	plays against ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ludas kontraŭ ~	对抗~	plays against ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	antaŭ du semajnoj	两周前	two weeks ago	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	kontraŭ kiu via sportklubo ludis?	你的体育俱乐部与谁比赛？	who did your sports club play against?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ĉu vi vidas ~ ?	你看到了吗~？	do you see ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ĉu vi ofte vidas ~ ?	你经常看到吗~？	do you often see ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	kontraŭ kiu via sportklubo ludis?	你的俱乐部与哪个俱乐部比赛？	who did your sports club play against?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ĉu vi vidas ~ ?	你看到了~吗？	do you see ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ĉu vi ofte vidas ~ ?	你经常看到~吗？	do you often see ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ofte vidas la policiston	经常见到警察	often see the policeman	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	tiu, kiu loĝas en ~	住的人~	the one who lives in ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	loĝas en la loĝejo	住在住宿的地方	lives in the lodging place	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	la loĝejo super vi	你上方的住所	the dwelling place above you	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	vidas la policiston, kiu loĝas en ~	看到住的警察啦~	sees the police officer who lives in ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Planoj pri Veturado	plano pri veturado	驾驶计划	driving plan	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Malbela Tago	tiu, kiu loĝas en ~	住在~的人	the one who lives in ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	loĝas en la loĝejo	住在那个宿舍	lives in the lodging place	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	la loĝejo super vi	你上面的那个宿舍	the dwelling place above you	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	vidas la policiston, kiu loĝas en ~	警察盯住着住在~那个人	sees the police officer who lives in ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Planoj pri Veturado	plano pri veturado	车辆运行计划	driving plan	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	volis vojaĝi	想去旅行	wanted to travel	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	vojaĝi al alia lando	去另一个国家旅行	to travel to another country	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	vojaĝi al alia lando	想去外国旅行	to travel to another country	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	en libertempo	在空闲时	in free time	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ili decidis iri	他们决定去	they decided to go	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	decidis iri al Italio	决定去意大利	decided to go to Italy	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	malnovaj urboj	旧城	old cities	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	lando kun malnovaj urboj	一个拥有古老城市的国家	a country with old cities	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	aliaj belaĵoj	其他美女	other beauties	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kaj aliaj belaĵoj	和其他美女	and other beauties	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	bela lando kun malnovaj urboj kaj aliaj belaĵoj	一个拥有古老城市和其他美景的美丽国家	a beautiful country with old cities and other beauties	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ili estis feliĉaj	他们很高兴	they were happy	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	lando kun malnovaj urboj	拥有古老城市的国家	a country with old cities	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	aliaj belaĵoj	其他的美丽的风景	other beauties	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kaj aliaj belaĵoj	和其他的美丽的风景	and other beauties	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	bela lando kun malnovaj urboj kaj aliaj belaĵoj	拥有古老城市和其他美丽美景的国家	a beautiful country with old cities and other beauties	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ili estis feliĉaj	他们很幸福	they were happy	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kie estas ~ ?	〜在哪里？	where is ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kie estas mia vestaĵo?	我的衣服在哪里	where are my clothes	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ŝi demandis ~	她问~	she asked ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ni ne forgesu kunporti ~	大家别忘了带哦~	let's not forget to bring ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kunporti la libron	随身携带这本书	to take the book with you	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	libro por lerni Esperanton	一本学习世界语的书	a book to learn Esperanto	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kunporti libron por lerni	带着一本书去学习	to carry a book to learn	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ni povas komenci ~	我们可以开始啦~	we can start ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ni ne forgesu kunporti ~	大家别忘了带~哦	let's not forget to bring ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kunporti la libron	带本书	to take the book with you	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	libro por lerni Esperanton	学习世界语的书	a book to learn Esperanto	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kunporti libron por lerni	带着一本学习的书	to carry a book to learn	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ni povas komenci ~	我们可以开始~啦	we can start ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	en la vagonaro	在火车上	in the train	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	jam en la vagonaro	已经在火车上	already in the train	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ni nenion faros	我们不会做任何事	we won't do anything	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	per aŭto	坐车	by car	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ni veturos per ~	我们开车过去~	we will drive by ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	veturos per aŭto	会开车	will drive a car	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	per aŭto	打车	by car	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ni veturos per ~	我们开~车过去	we will drive by ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	veturos per aŭto	打车去~	will drive a car	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mi havas sekreton	我有一个秘密	I have a secret	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mia riĉa onklo	我有钱的叔叔	my rich uncle	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mia deziro	我的希望	my wish	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	plenumis mian deziron	实现了我的愿望	fulfilled my wish	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	donis al ni	给我们	gave us	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	sian aŭton	他的车	his car	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kaj donis al ni sian aŭton	并给了我们他的车	and gave us his car	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	por uzo	用来	for use	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ĝi staras antaŭ ~	就站在前面~	it stands before ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	sian aŭton	自己的车	his car	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kaj donis al ni sian aŭton	给我们他自己的车	and gave us his car	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	por uzo	可以使用	for use	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ĝi staras antaŭ ~	那是就站在~的前面	it stands before ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	staras antaŭ la domo	站在房子前面	stands in front of the house	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	mi devas diri ~	不得不说~	I have to say ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	nenion diru	别说什么	don't say anything	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	mi devas diri ~	我得说~	I have to say ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	nenion diru	什么都别说	don't say anything	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ni eksidu	我们坐下来	let's sit down	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	eksidu en la aŭton	上车	get in the car	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	eksidu en la aŭton	快上车吧	get in the car	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	veturi al ~	开车去~	to drive to ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kaj veturu al Italio	并开车前往意大利	and drive to Italy	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kaj veturu al Italio	开车前往意大利	and drive to Italy	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	sidis en la aŭto	坐在车里	sat in the car	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ankaŭ la vestaĵoj	还有衣服	also the clothes	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	~ estis en la aŭto	〜在车上	~ was in the car	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ankoraŭ sidadis kaj atendis	仍然坐着等待	still sat and waited	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	sed li atendis	但他等待着	but he waited	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	sed li atendis	但他还是等着	but he waited	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kial ni ne ~ ?	我们为什么不~？	why don't we ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kial ni ne ekveturas?	我们为什么不开始开车呢？	why don't we start driving?	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kial ni ne ekveturas?	我们为什么还没有出发？	why don't we start driving?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ankaŭ mi havas ~	我也有~	I have ~ too	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	veturigus la aŭton	会开车	would drive the car	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	veturigus la aŭton	让他开车	would drive the car	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	sed mi ne scias ~	但我不知道~	but I don't know ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	mi neniam lernis tion	我从来没学过	I never learned that	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	mi neniam lernis tion	我从来没学过那个	I never learned that	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mi kredus ~	我就信了~	I would believe ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	se mi estus sana	如果我健康的话	if I were healthy	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mi estus tre feliĉa	我会很高兴	I would be very happy	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kvazaŭ vi estus riĉulo	就好像你很有钱一样	as if you were rich	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	vi sidas tie kvazaŭ vi estus riĉulo	你坐在那里就好像你是个有钱人一样	you sit there as if you were a rich man	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kvazaŭa lernejo	涉嫌学校	alleged school	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kvazaŭ riĉulo	像一个有钱人	like a rich man	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kvazaŭ vi estus riĉulo	你好像很有钱似的	as if you were rich	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	vi sidas tie kvazaŭ vi estus riĉulo	你坐在那里就好像是很有錢似的	you sit there as if you were a rich man	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kvazaŭa lernejo	非传统学校	alleged school	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kvazaŭ riĉulo	装作有钱人似的	like a rich man	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	vi sidas tie kvazaŭ riĉulo	你像个有钱人一样坐在那里	you sit there like a rich man	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	tiom da mono	好多钱	so much money	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	tiom da mono kiom da ideoj	钱和想法一样多	as much money as ideas	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	tiom da mono	那么多的钱	so much money	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	tiom da mono kiom da ideoj	有多少想法, 有多少钱	as much money as ideas	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	se mi havus tiom da mono	如果我有那么多钱	if I had that much money	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mi vojaĝadus	我会去旅行	I would travel	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ĉirkaŭ la mondo	世界各地	around the world	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	en ĉiu vortaro	在每本词典中	in every dictionary	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	mankas io	缺了点什么	something is missing	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	mankas kelkaj vortoj	有些词不见了	some words are missing	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	homo, kiu longe parolis	一个长篇大论的人	a man who spoke at length	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	en ĉiu vortaro	在所有词典里	in every dictionary	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	mankas io	缺了什么	something is missing	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	mankas kelkaj vortoj	缺了些词汇	some words are missing	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	homo, kiu longe parolis	没完没了的那个人	a man who spoke at length	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ĉe la manĝotablo	在餐桌上	at the dining table	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	homo, kiu rakontas, restos malsata	一个说出来的人会保持饥饿	a person who tells will remain hungry	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	rakontadas ĉe la manĝo tablo	餐桌上不断诉说	keeps telling at the dining table	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	homo, kiu rakontas, restos malsata	说着话的那个人肯定会挨饿的	a person who tells will remain hungry	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	rakontadas ĉe la manĝo tablo	餐桌上不断说话	keeps telling at the dining table	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	li devis atenti ~	他得注意了~	he had to pay attention to ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ne rajtis ~	不被允许~	was not allowed to ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	rajtis resti	被允许留下来	was allowed to stay	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ne rajtis longe resti	不准久留	was not allowed to stay long	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	resti ekstere en pluvo	在雨中呆在外面	to stay out in the rain	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ne rajtis ~	没有权力做~	was not allowed to ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	rajtis resti	有权力留下来	was allowed to stay	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ne rajtis longe resti	没有权力久留	was not allowed to stay long	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	resti ekstere en pluvo	在外边冒雨等候	to stay out in the rain	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	tial li malvarmumis	这就是他感冒的原因	that's why he caught a cold	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	li havas sian klaran ideon	他有自己清晰的想法	he has his own clear idea	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	sed li kredos ĉion	但他会相信一切	but he will believe everything	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ĉion, kion vi diros	不管你说什么	whatever you say	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ĉion, kion vi diros	你所说的一切	whatever you say	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kvazaŭ vi estus lia edzino	就像你是他的妻子一样	as if you were his wife	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	viaj gepatroj	你的父母	your parents	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ĝojigi viajn gepatrojn	为了让你的父母高兴	to make your parents happy	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kio povus ĝojigi ~ ?	有什么可以请〜？	what could please ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kio povus plej ĝojigi viajn gepatrojn?	什么能让你的父母最高兴？	what could make your parents the most happy?	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	post la lernado	学习后	after the learning	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	almenaŭ post la lernado	至少在学习之后	at least after the learning	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ĝojigi viajn gepatrojn	让你的父母高兴	to make your parents happy	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kio povus ĝojigi ~ ?	什么可以让他高兴〜？	what could please ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kio povus plej ĝojigi viajn gepatrojn?	能让你的父母最高兴的是什么？	what could make your parents the most happy?	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	post la lernado	放学后	after the learning	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	almenaŭ post la lernado	至少在放学后	at least after the learning	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	en la urbocentron	进入市中心	into the city center	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	se vi irus kun mi	如果你愿意和我一起去	if you would go with me	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	se vi irus kun mi en la urbocentron	如果你愿意和我一起去市中心	if you would go downtown with me	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	se vi irus kun mi	如果你和我一起去	if you would go with me	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	se vi irus kun mi en la urbocentron	如果你和我一起去市中心	if you would go downtown with me	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kien vi dezirus vojaĝi?	您想去哪里旅行？	where would you like to travel?	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	se vi havus ~	如果你有的话~	if you had ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	se vi havus ~	如果你有~的话	if you had ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	sufiĉe da mono	足够的钱	enough money	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	se vi havus sufiĉe da mono kaj tempo	如果你有足够的钱和临时工	if you had enough money and temp	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ĉu vi planas ~ ?	你打算去吗~？	are you planning to ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	se vi havus sufiĉe da mono kaj tempo	如果你有足够的钱和时间的话	if you had enough money and temp	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ĉu vi planas ~ ?	你有打算~吗？	are you planning to ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	planas veturi al Parizo	计划去巴黎旅行	plans to travel to Paris	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	veturi per aŭto	驾驶 axuto	to drive with an axuto	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	multe pli bone	好多了	much better	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	veturi per aŭto	开车旅游	to drive with an axuto	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	multe pli bone	再好一点	much better	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ŝajnas multe pli bone	看起来好多了	seems much better	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	per vagonaro	乘搭火车	by train	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	aŭ ĉu ne ŝajnas esti multe pli bone?	还是看起来没有好很多？	or doesn't it seem to be much better?	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	per vagonaro	坐火车	by train	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	aŭ ĉu ne ŝajnas esti multe pli bone?	看起来不是好很多吗？	or doesn't it seem to be much better?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	diversaj homoj	各种各样的人	various people	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kial homoj klarigas diversmaniere?	为什么人们以不同的方式解释？	why do people explain in different ways?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	samaj ideoj	相同的想法	same ideas	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	klarigas samajn ideojn	解释了相同的想法	explains the same ideas	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Familianoj kunvenas	familianoj kunvenas	家人团聚	family members get together	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	kiel rapide	太快了	how quickly	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	kiel rapide	快多少	how quickly	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	tagoj pasas	日子过去了	days pass	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kiel rapide pasas tagoj!	日子过得真快啊！	how quickly the days pass!	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	morgaŭ estos ~	明天会~	tomorrow will be ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -923,26 +923,26 @@ Familianoj kunvenas	la naskiĝtago de via patro	你父亲的生日	your father's
 Familianoj kunvenas	kelkaj familianoj	几名家庭成员	several family members	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	alvenos kelkaj familianoj	几位家庭成员会来	several family members will come	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kaj geamikoj	和朋友	and friends	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ĉu vi bonvolus ~ ?	可以吗~？	would you please ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ĉu vi bonvolus ~ ?	愿意~吗？	would you please ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu vi bonvolus iom helpi?	你能帮忙一下吗？	could you please help a little?	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	iomete da tempo	一小会儿	a little while	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	iomete da tempo	一会儿	a little while	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	trovu iomete da tempo	找一点时间	find a little time	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	por ordigi vian ĉambron	整理你的房间	to tidy your room	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	por ordigi vian ĉambron	为了整理你的房间	to tidy your room	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	almenaŭ por ordigi vian ĉambron	至少收拾一下你的房间	at least to tidy your room	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	mi ŝatus ~	我愿意~	I would like ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	mi ŝatus kuiri ion	我想做点东西	I would like to cook something	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ion bonan	好东西	something good	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	kuiri ion bonan	煮点好吃的	cook something good	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	mi ŝatus ~	我喜欢~	I would like ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	mi ŝatus kuiri ion	我喜欢做菜	I would like to cook something	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ion bonan	什么好东西	something good	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	kuiri ion bonan	做点好吃的	cook something good	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	por la naskiĝ-taga kuko	为了生日蛋糕	for the birthday cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	mankas lakto	缺奶	is lacking of milk	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	mankas lakto	没有牛奶	is lacking of milk	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en la hejmo	在家里	in the home	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	necesas havigi ~	有必要采购~	it is necessary to procure ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	necesas havigi ~	有必要具备~	it is necessary to procure ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	iom da manĝaĵo	一些食物	some food	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	el vendejo	从商店	from a store	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	havigi iom da manĝaĵo el vendejo	从藏身处获取一些食物	to get some food from a hideout	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	havigi iom da manĝaĵo el vendejo	从商店购买一些食物	to get some food from a hideout	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi aĉetumos	我会购物	I will do shopping	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	por la naskiĝtago	为了生日	for the birthday	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	anstataŭ sidi kaj manĝegi	而不是坐着吃饭	instead of sitting and eating	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	anstataŭ sidi kaj manĝegi	而不是坐着吃很多	instead of sitting and eating	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	interesaj homoj	有趣的人	interesting people	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kun neinteresaj familianoj	和无趣的家庭成员	with uninteresting family members	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi ŝatus ekskursi	我想去野餐	I would like to go on a picnic	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -952,12 +952,12 @@ Familianoj kunvenas	diris la patro	父亲说	said the father	Familianoj kunvenas
 Familianoj kunvenas	ia papero, iaj paperoj	某种纸，某种纸	some kind of paper, some kind of papers	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en paperujo	在公文包里	in a briefcase	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en paperujon	放入纸箱	into a paper bin	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ĵetis paperojn en paperujon	将纸张扔进纸箱	threw papers into a paper bin	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ĵetis iajn paperojn en paperujon	将一些纸扔进纸箱	threw some papers into a paper bin	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ĵetis paperojn en paperujon	把纸扔进纸箱	threw papers into a paper bin	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ĵetis iajn paperojn en paperujon	一些纸扔进纸箱	threw some papers into a paper bin	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	morgaŭ frue	明天早些时候	early tomorrow	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	anoj de mia sporta klubo	我的体育俱乐部的成员	members of my sports club	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kara mia	亲爱的	my dear	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ĉu ĝuste ~ ?	是对的吗？	is that right?	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ĉu ĝuste ~ ?	是对吗？	is that right?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	vi devas foresti	你必须缺席	you must be absent	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu vi ne ~ ?	不是吗~？	don't you ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	viaj samklubanoj	你的俱乐部会员伙伴	your fellow club members	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -967,42 +967,42 @@ Familianoj kunvenas	ĉu mi rajtas ~ ?	我可以~吗？	may I ~ ?	Familianoj kunv
 Familianoj kunvenas	rajtas ion proponi	有权提出某事	has the right to propose something	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi kunmanĝos kun la familianoj	我会和家人一起吃饭	I will eat with the family members	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	sed en la dua parto	但在第二部分	but in the second part	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	mi foriros kun miaj geamikoj	我会和我的朋友一起去	I will go with my friends	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	mi foriros kun miaj geamikoj	我和我的朋友一起去	I will go with my friends	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	parolos pri ~	会讲到~	will talk about ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	malsukcesa veturado	发生故障的驱动器	a failed drive	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	certe parolos pri la malsukcesa veturado	肯定会谈论失败的驱动器	will definitely talk about the failed drive	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	malsukcesa veturado	失败的车辆移动	a failed drive	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	certe parolos pri la malsukcesa veturado	确实会谈到失败的车辆移动	will definitely talk about the failed drive	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	post la kuko	吃完蛋糕后	after the cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	mi ne plu volas tion	我不想再这样了	I don't want that anymore	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	mi ne plu volas tion	我不想再要那个了	I don't want that anymore	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	volas tion aŭdi	想听听	wants to hear that	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kial ni ne havas ~ ?	为什么我们没有~？	why don't we have ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ideoriĉa onklo	一个富有想法的叔叔	an idea-rich uncle	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	havas iun ideoriĉan onklon	有钱的叔叔有一些想法	has some idea rich uncle	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	en mia familio	在我的家人中	in my family	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ideoriĉa onklo	富有想法的叔叔	an idea-rich uncle	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	havas iun ideoriĉan onklon	有富有想法的叔叔	has some idea rich uncle	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	en mia familio	在我的家中	in my family	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	la patrino ridetis	母亲微笑着	the mother smiled	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	je liaj vortoj	按他的话	at his words	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ŝi scias, ke ~	她知道~	she knows that ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	iom tro parolas	说得有点太多了	talks a little too much	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ne sufiĉas nur ~	光是还不够~	it's not enough just ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ne sufiĉas nur ~	不够充分,只是~	it's not enough just ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	riĉeco de la ideoj	丰富的想法	wealth of ideas	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	necesas ankaŭ ~	还需要~	~ is also needed	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	plena monujo por realigi ĝin	一个完整的钱包来实现它	a full wallet to make it happen	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	la patrino daŭrigis ~	妈妈继续说~	the mother continued ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	necesas ankaŭ ~	也需要~	~ is also needed	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	plena monujo por realigi ĝin	为了实现那个目的, 足够的钱包	a full wallet to make it happen	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	la patrino daŭrigis ~	妈妈继续做~	the mother continued ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	post iom da silento	一阵沉默后	after a little silence	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	antaŭ kelkaj minutoj	几分钟前	a few minutes ago	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	Ana telefonis, ke ŝi ~	安娜称她为~	Ana called that she ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	Ana telefonis, ke ŝi ~	安娜打电话说，她想做~	Ana called that she ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ankaŭ ŝi vizitos nin	她也会来拜访我们	she will also visit us	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	dolĉa kuko	一个甜甜的蛋糕	a sweet cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ŝi tre ŝatas dolĉan kukon	她真的很喜欢甜蛋糕	she really likes sweet cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	dolĉa kuko	甜甜的蛋糕	a sweet cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ŝi tre ŝatas dolĉan kukon	她真的很喜欢甜的蛋糕	she really likes sweet cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	atentas por ne dikiĝi	小心不要发胖	is careful not to get fat	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kvankam ŝi atentos	虽然她会注意	although she will pay attention	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	tuj ŝanĝis la opinion	立即改变主意	immediately changed the mind	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	dum la ekskurso	游览期间	during the excursion	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	dum la ekskurso	游览中	during the excursion	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	sen ŝi	没有她	without her	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	li estus tre soleca	他会很孤独	he would be very lonely	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi tamen pasigos	我会过去的	I will pass though	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi tamen pasigos la morgaŭan tagon hejme	不过明天我会在家度过	I will spend tomorrow at home though	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en juneco	年轻时	in youth	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	oni havas	一个有	one has	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	oni havas	大家都有	one has	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	havas ankaŭ belecon	也有美丽	also has beauty	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	malsimplaj laboroj	复杂的工作	complicated jobs	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	malsimplajn laborojn	复杂的工作（目标）	complicated jobs (objective)	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -1010,15 +1010,15 @@ Familianoj kunvenas	devus plisimpligi	应该简化	should simplify	Familianoj ku
 Familianoj kunvenas	en tiu aĝo	在那个年纪	at that age	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	li jam fariĝis ~	他已经成为了~	he has already become ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	estro de la sporta klubo	体育俱乐部主席	head of the sports club	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	monon oni metas	一个人放钱	one puts money	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	monon oni metas	有人留下钱	one puts money	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en monujon	放进钱包里	into a wallet	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	metas en monujon	放入钱包	puts in a purse	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	sekvu la ekzemplojn	遵循示例	follow the examples	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	sekvu la ekzemplojn	遵循范例	follow the examples	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	de la bonaj familianoj	来自优秀的家庭成员	from the good family members	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu amikeco pli feliĉigas?	友谊会让你更快乐吗？	does friendship make you happier?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	feliĉigas vin	让你开心	makes you happy	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ol la amo	比爱	than the love	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	kiel ofte vi ~ ?	你多久一次〜？	how often do you ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	kiel ofte vi ~ ?	你隔多久〜？	how often do you ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	vi skribas leterojn al ~	你写信给~	you write letters to ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	skrivas leterojn al viaj amikinoj	给你的女朋友写信	writes letters to your girl friends	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	viaj amikinoj en Italio	你在意大利的女朋友	your girl friends in Italy	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -1028,35 +1028,35 @@ Familianoj kunvenas	ĉu vi jam scias ~ ?	你已经知道了吗~？	do you alread
 Familianoj kunvenas	sufiĉe bone	很好	quite well	Familianoj kunvenas	0    	0000-00-00 00:00:00
 La sentimulo	estis vespero en ~	当时是晚上~	it was evening in ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	centoj da homoj	数百人	hundreds of people	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	plenigas la placon	填满正方形	fills the square	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	plenigas la placon	填满了广场	fills the square	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	junuloj kaj militistoj	年轻人和士兵	young men and soldiers	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	maristoj de sur la ŝipoj	船上的水手	sailors from the ships	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	elstara sinjorino	杰出女士	outstanding lady	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	elstaraj sinjorinoj	杰出女士	outstanding ladies	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	elstaraj sinjorinoj	杰出的女士们	outstanding ladies	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	alilandaj vojaĝantoj	外国游客	foreign travelers	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ĉiuj moviĝas al urbomezo	每个人都在搬到市中心	everyone is moving to the city center	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	iom plue	再远一点	a little further	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ĉiuj moviĝas al urbomezo	大家都向市中心移动了	everyone is moving to the city center	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	iom plue	再长一点	a little further	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ne malproksime de la maro	离海不远	not far from the sea	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	troviĝis malgranda placo	有一个小广场	there was a small square	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	iom plue sed ne malproksime	远一点但不远	a little further but not far	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	fine de ĝi	在它的最后	at the end of it	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	fine de ĝi	它的末端	at the end of it	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	proksime de la maro	靠近大海	near the sea	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	proksime staris homo	一个男人站在附近	a man stood nearby	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	proksime staris homo	在附近一个人站着	a man stood nearby	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	laŭ la vestaĵo	根据服装	according to the clothing	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	oni facile scii ~	很容易就知道了~	one may know easily ~	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	oni povis ekscii, ke ~	可以查到~	it was possible to find out that ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	oni povis ekscii, ke ~	大家开始知道~	it was possible to find out that ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	gondolisto de iu riĉulo	有钱人的贡多拉船夫	a rich man's gondolier	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	povis ekscii, ke li estas gondolisto	可以发现他是一个贡多拉船夫	could find out that he was a gondolier	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	li rigardis ~	他看着~	he looked ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	rigardis la ĝojan hommulton	看着欢乐的人群	looked at the joyful crowd	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	rideto lumigis lian vizaĝon	他的脸上绽放出笑容	a smile lit up his face	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	rideto lumigis lian vizaĝon	微笑照亮了他的脸庞	a smile lit up his face	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kiam li ekvidis mariston	当他看到一个水手时	when he saw a sailor	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la mariston, kiu alvenis	到达的水手	the sailor who arrived	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la flanko de la maro	海的一边	the side of the sea	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	alvenis el la flanko de la maro	从海边来的	arrived from the side of the sea	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ĉu tio estas vi, Stefano?	是你吗，史蒂芬？	is that you, Stephen?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ekkriis la gondolisto	船夫惊呼道	exclaimed the gondolier	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ĉiuj diras, ke ~	大家都这么说~	everyone says that ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ĉiuj diras, ke ~	大家都说~	everyone says that ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	en la manojn de la Turkoj	落入土耳其人手中	into the hands of the Turks	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ke vi falis en la manojn de la Turkoj	你落入土耳其人手中	that you fell into the hands of the Turks	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ni renkontis unu	我们遇到了一个	we met one	La sentimulo	0    	0000-00-00 00:00:00
@@ -1066,27 +1066,27 @@ La sentimulo	dum pli ol unu horo	一个多小时	for more than an hour	La sentim
 La sentimulo	sed ne estas facile iri ~	但走起来并不容易~	but it is not easy to go ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	iri pli rapide ol nia ŝipo	比我们的船走得更快	to go faster than our ship	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kiaj novaĵoj estas tie ĉi?	这里有什么新闻？	what news is here?	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	tie ĉi en Venecio	在威尼斯这里	here in Venice	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	tie ĉi en Venecio	在威尼斯	here in Venice	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	nenio interesa	没什么有趣的	nothing interesting	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	nur granda malfeliĉo	只是一个大不幸	just a big misfortune	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	nur granda malfeliĉo	只是大不幸	just a big misfortune	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ĉu vi konas Pietron?	你认识彼得罗吗？	do you know Pietro?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	mi konas lin	我认识他	I know him	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	granda ŝipo subakvigis lian gondolon	一艘大船淹没了他的贡多拉	a large ship submerged his gondola	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	kaj kio pri li?	那么他呢？	and what about him?	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	kaj kio pri li?	有关他的什么？	and what about him?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la gondolo subakviĝis	贡多拉沉没了	the gondola sank	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	okazis, ke ~	原来如此~	it happened that ~	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ni troviĝis proksime	我们很接近	we were close	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ni prenis lin en nian gondolon	我们把他带上了我们的缆车	we took him in our gondola	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	okazis, ke ~	发生了~	it happened that ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ni troviĝis proksime	我们很接近了	we were close	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ni prenis lin en nian gondolon	我们把他带上了我们的贡多拉	we took him in our gondola	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	en la sama tempo	同时	at the same time	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	mia estro subakviĝis	我的老板淹死了	my boss drowned	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	por helpi junulinon	帮助一位年轻女子	to help a young woman	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	junulinon, kiu preskaŭ mortis	一位差点死去的年轻女子	a young woman who almost died	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	kun sia onklo	和他叔叔	with his uncle	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	preskaŭ mortis kun sia onklo	差点和他叔叔一起死	almost died with his uncle	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	tie estis junulino	有一个年轻女子	there was a young woman	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	junulinon, kiu preskaŭ mortis	差点死去的年轻女子	a young woman who almost died	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	kun sia onklo	和他的叔叔	with his uncle	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	preskaŭ mortis kun sia onklo	跟他叔叔差点一起死	almost died with his uncle	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	tie estis junulino	在那儿有一个年轻女子	there was a young woman	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	lin ni ne povis helpi	我们无法帮助他	we could not help him	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	estis grava homo	是一个重要的人	was an important person	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	kio alvenigis vin en Venecion?	是什么让你来到威尼斯的？	what brought you to Venice?	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	kio alvenigis vin en Venecion?	什么事让你来到威尼斯的？	what brought you to Venice?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	amiko mia	我的朋友	my friend	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la maristo ekrigardis	水手抬起头来	the sailor looked up	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	rapide ekrigardis sian amikon	快速地看了他的朋友一眼	quickly glanced at his friend	La sentimulo	0    	0000-00-00 00:00:00
@@ -1094,9 +1094,9 @@ La sentimulo	kaj komencis diri	并开始说	and began to say	La sentimulo	0    	
 La sentimulo	do vi scias ~	所以你知道~	so you know ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	mi alportis ~	我带来了~	I brought ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la gondolisto subite haltigis lin	船夫突然叫住了他	the gondolier suddenly stopped him	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	li diris	他说	he said	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	tiam iu homo pasis	然后一个人经过	then a man passed by	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	iu homo pasis apud li	一个男人从他身边经过	a man passed by him	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	li diris	他说了	he said	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	tiam iu homo pasis	那时有人经过	then a man passed by	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	iu homo pasis apud li	有人从他身边经过	a man passed by him	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	li ankoraŭ ne estis tridekjara	他还不到三十岁	he was not yet thirty	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kaj lia vizaĝo estis senkolora	他的脸毫无血色	and his face was colorless	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	lia iro estis certa kaj facila	他的去程既确定又轻松	his going was sure and easy	La sentimulo	0    	0000-00-00 00:00:00
@@ -1106,31 +1106,31 @@ La sentimulo	oni diras, ke ~	据说~	it is said that ~	La sentimulo	0    	0000-0
 La sentimulo	multaj gravuloj donas ~	很多重要的人都给予~	many important people give ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	sekreta laboro	秘密工作	secret work	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	sekretaj laboroj	秘密工作	secret jobs	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	donas sekretajn laborojn al li	给他秘密工作	gives secret jobs to him	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	donas sekretajn laborojn al li	给他安排些秘密工作	gives secret jobs to him	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	tro da sekretoj	太多的秘密	too many secrets	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	li scias tro da sekretoj	他知道太多秘密	he knows too many secrets	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	tial ili timas	因此他们害怕	therefore they are afraid	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	sendi lin en malliberejon	把他送进监狱	to send him to prison	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	diris la maristo	水手说	said the sailor	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kaj dum li parolis	当他说话时	and as he spoke	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	li montris la domegon	他指着豪宅	he pointed to the mansion	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	li montris la domegon	他指着大楼	he pointed to the mansion	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la domego de Doĝoj	总督府	the mansion of Doges	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	multaj gravuloj bezonas lian helpon	许多重要的人需要他的帮助	many important people need his help	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kiom ili pagas?	他们付多少钱？	how much they pay?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	pagas al li	付钱给他	pays him	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	pagas por unu mortigo	一杀付费	pays for one kill	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	pagas por unu mortigo	付一次杀人的费用	pays for one kill	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	certe ne malpli ol ~	肯定不少于~	certainly not less than ~	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ol cent moneroj	超过一百个硬币	than a hundred coins	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ne forgesu, ke ~	别忘了这一点~	don't forget that ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ol cent moneroj	比一百个硬币	than a hundred coins	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ne forgesu, ke ~	别忘了~	don't forget that ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ke li laboras por tiuj	他为他们工作	that he works for them	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	por tiuj, kiuj havas sufiĉe da mono	对于那些有足够钱的人	for those who have enough money	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	por pagi al li	付钱给他	to pay him	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	en Venecio estas ~	威尼斯有~	in Venice there is ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	por tiuj, kiuj havas sufiĉe da mono	为了那些有足够钱的人	for those who have enough money	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	por pagi al li	为了付钱给他	to pay him	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	en Venecio estas ~	在威尼斯有~	in Venice there is ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	tiuj aferoj	那些事	those things	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	forgesi tiujn aferojn	忘记那些事情	to forget those things	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	aferoj, kiujn estas pli bone forgesi	最好忘记的事情	things that are better forgotten	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	forgesi tiujn aferojn	忘掉那些事情	to forget those things	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	aferoj, kiujn estas pli bone forgesi	最好忘掉的事情	things that are better forgotten	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	se vi volas trankvile manĝi	如果你想安静地吃饭	if you want to eat in peace	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	trankvile manĝi vian panon	平静地吃你的面包	to eat your bread in peace	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	trankvile manĝi vian panon	安静地吃你的面包	to eat your bread in peace	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	estis iom da silento	一阵沉默	there was some silence	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kaj poste	然后	and later	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la gondolisto denove ekparolis	贡多拉船夫又说话了	the gondolier spoke again	La sentimulo	0    	0000-00-00 00:00:00
@@ -1139,12 +1139,12 @@ La sentimulo	por vidi ŝipkuron	看划船比赛	to see a boat race	La sentimulo	
 La sentimulo	iu diris malforte	有人弱弱地说	someone said weakly	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	proksime de la gondolisto	靠近船夫	near the gondolier	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la estro de la urbo	市长	the mayor of the city	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	senvorte montris al la gondolo	无言地指着缆车	wordlessly pointed to the gondola	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	senvorte montris al la gondolo	无言地指着贡多拉	wordlessly pointed to the gondola	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	diris la gondolisto	船夫说	said the gondolier	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kaj prenis la manon de sia amiko	并握住他朋友的手	and took his friend's hand	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ĵetas la paperon	扔纸	throws the paper	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	en la paperujon	放入纸箱	into the paper bin	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	la knabinoj ĵetis la paperojn	女孩们扔了报纸	the girls threw the papers	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	la knabinoj ĵetis la paperojn	女孩们扔了小纸团儿	the girls threw the papers	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kie estas mia skribilo?	我的笔在哪里	where is my pen	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	mi volas respondi al li	我想回答他	I want to answer him	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la suno malaperis	太阳消失了	the sun disappeared	La sentimulo	0    	0000-00-00 00:00:00
@@ -1152,20 +1152,20 @@ La sentimulo	kaj nun estas preskaŭ malhele	现在天快黑了	and now it is alm
 La sentimulo	bonvolu manĝi	请吃	please eat	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	bonvolu manĝi la panon	请吃面包	please eat the bread	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	per manĝiloj	带餐具	with cutlery	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	pardonu min	打扰一下	excuse me	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	rajtas resti	被允许留下来	is allowed to stay	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	pardonu min	请原谅	excuse me	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	rajtas resti	获准停留	is allowed to stay	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	mi ne rajtas resti	我没有权利留下来	I have no right to stay	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ĉu vi povas kunporti ~ ?	可以带吗~	can you bring ~ ?	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ĉu vi povas kunporti ~ ?	你可以带~吗	can you bring ~ ?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	de mia fratino	来自我姐姐	from my sister	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	kiam vi aĉetis ~ ?	什么时候买的~	when did you buy ~ ?	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	kiam vi aĉetis ~ ?	你什么时候买的~	when did you buy ~ ?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	aĉetis tiun muzikilon	买了那个乐器	bought that musical instrument	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kiu laste uzis ?	谁最后用的？	who used last?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	uzis mian ŝlosilon	用了我的钥匙	used my key	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ĉu vi veturis?	你开车了吗？	did you drive?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	en Venecio	在威尼斯	in Venice	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ankaŭ per gondolo	也可乘坐缆车	also by gondola	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ankaŭ per gondolo	也可乘坐贡多拉	also by gondola	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ĉu vi povos ekdormi?	你能睡着吗？	will you be able to fall asleep?	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	tiam, kiam silentiĝis	然后，当一片寂静时	then, when there was silence	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	tiam, kiam silentiĝis	安静下来的, 那时候	then, when there was silence	La sentimulo	0    	0000-00-00 00:00:00
 Nokta Promeno	la sinjoro estis alta	这位先生很高	the gentleman was tall	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	alta, dika	高、胖	tall, fat	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	dika, peza	厚、重	thick, heavy	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1176,45 +1176,45 @@ Nokta Promeno	havinda forto	值得拥有的力量	a force worth having	Nokta Pro
 Nokta Promeno	havinda korpoforto	值得拥有的体力	physical strength worth having	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	tio donis	这给了	that gave	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	donis al li	给了他	gave him	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	tio donis forton	给予力量	that gave strength	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	donis havindan korpoforton	赋予了值得拥有的身体力量	gave body strength worth having	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	tio donis forton	那个给了力量	that gave strength	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	donis havindan korpoforton	赋予了值得拥有的体力	gave body strength worth having	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	lia aspekto	他的外表	his appearance	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	grandula aspekto	高个子的外表	appearance of a tall person	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	eta rolo	一个小角色	a small role	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	eta rolo	小角色	a small role	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ludis rolon	发挥了作用	played a role	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ne eta rolo	不是一个小角色	not a small role	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ne eta rolo	不是小角色	not a small role	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ludis etan rolon	起了小作用	played a small role	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ludis ne etan rolon	起了不小的作用	played no small role	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en la fakto, ke ~	事实上~	in the fact that ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	la plimulto el la homoj	大多数人	the majority of the people	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	la plimulto el la homoj	~之间的大多数人	the majority of the people	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	se ne timis	如果不害怕	if not afraid	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	lin timis	害怕他	was afraid of him	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	se lin timis	如果他害怕	if he was afraid	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	se lin timis	如果害怕他	if he was afraid	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	se ne lin timis	如果不怕他	if not afraid of him	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	certe respektis	当然受到尊重	certainly respected	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	certe respektis	确实尊重	certainly respected	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	almenaŭ pripensis ~	至少想过~	at least thought about ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	antaŭ ol ~	之前~	before ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kontentigi lin	来满足他	to satisfy him	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kontentigi lin	满足他	to satisfy him	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	malkontentigi lin	使他不高兴	to displease him	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	antaŭ ol malkontentigi ~	不满意之前~	before dissatisfying ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	antaŭ ol malkontentigi ~	让~不满意之前~	before dissatisfying ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	antaŭ ol decidi ~	决定之前~	before deciding ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	decidi malkontentigi ~	决定不高兴~	to decide to displease ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	decidi malkontentigi ~	决定让~不满意~	to decide to displease ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	decidi kontentigi lin	决定满足他	to decide to satisfy him	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	antaŭ ol decidi malkontentigi lin	在决定让他不高兴之前	before deciding to displease him	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	tio, kio estas utila	那个，有用的	that, which is useful	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	antaŭ ol decidi malkontentigi lin	在决定让他不满意之前	before deciding to displease him	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	tio, kio estas utila	有用的那个	that, which is useful	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ofte utila dumtage	白天经常有用	often useful during the day	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	malplaĉa ĝeno	令人不愉快的滋扰	an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	malplaĉa ĝeno	不愉快的干扰	an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	per si	他自己	by himself	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	prezentas malplaĉan ĝenon	造成不愉快的滋扰	presents an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	prezentas per si malplaĉan ĝenon	表现为令人不愉快的滋扰	presents itself as an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	prezentas malplaĉan ĝenon	造成不愉快的干扰	presents an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	prezentas per si malplaĉan ĝenon	自己表现出不愉快的干扰	presents itself as an unpleasant nuisance	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en loko arboplena	在一个长满树木的地方	in a place full of trees	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	tiam, kiam oni devojiĝis	然后，当一个人误入歧途时	then, when one went astray	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	tiam, kiam oni devojiĝis	所有人都迷路的那时候	then, when one went astray	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en nehoma sovaĝejo	在无人的荒野中	in an inhuman wilderness	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kaj ekstervoje iraĉas	并在混乱中离开道路	and goes off the road in chaos	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kaj ekstervoje iraĉas	迷路着徘徊	and goes off the road in chaos	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	alta larĝa korpo	高大的身躯	a tall large body	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ne sukcesis pasi ~	未能通过~	failed to pass ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	inter la arbetoj	灌木丛中	among the bushes	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	krome tuŝi la naturaĵojn	除了接触自然的事物	in addition to touching the natural things	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	inter la arbetoj	在一片小灌木丛中	among the bushes	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	krome tuŝi la naturaĵojn	除了触到自然的事物	in addition to touching the natural things	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĝenerale malsekajn	一般是湿的	generally wet	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	meze de malsekaj naturaĵoj	在潮湿的大自然中	in the middle of wet nature	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	malsekaj naturaĵoj, meze de kiuj ~	潮湿的自然事物，在其中~	wet natural things, in the middle of which ~	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1224,86 +1224,86 @@ Nokta Promeno	ne malofte	并不少见	not uncommon	Nokta Promeno	0    	0000-00-0
 Nokta Promeno	doloriga kaj ĉiam malagrabla	痛苦且总是不愉快	painful and always unpleasant	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli ~	越多~	the more ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	antaŭeniris en la vivo	在生活中前进	moved forward in life	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	en la kastela arbaro	在城堡森林里	in the castle forest	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ju pli antaŭeniris des pli malŝatis ~	越往前越不喜欢~	the further went forward the more disliked ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	malŝatis la noktan naturon	不喜欢夜间的性质	disliked the nocturnal nature	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	viro kun okuloj bone videblaj	眼睛看得清楚的人	a man with eyes that can be seen clearly	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	en la kastela arbaro	在城堡的森林里	in the castle forest	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ju pli antaŭeniris des pli malŝatis ~	越往前越进不喜欢~	the further went forward the more disliked ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	malŝatis la noktan naturon	不喜欢夜间的自然	disliked the nocturnal nature	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	viro kun okuloj bone videblaj	眼睛很好的人	a man with eyes that can be seen clearly	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	okuloj, kiuj kapablis bone vidi	看得清楚的眼睛	eyes that could see well	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	bone vidi en la mallumo	在黑暗中看得清楚	to see well in the dark	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	rigardis la malfacilan iron	看着艰难的前行	looked at the difficult going	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	rigardis la malfacilan iron	眼睁睁看着他们走得很艰难	looked at the difficult going	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	de nia industriisto	来自我们的实业家	from our industrialist	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	li ridetis	他笑了	he smiled	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	apud tiu viro	在那个人旁边	next to that man	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	en vestaĵo de policano	穿着警察的衣服	in policeman's clothing	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	en vestaĵo de policano	穿着警服	in policeman's clothing	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	staris alia persono	另一个人站着	another person was standing	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en simila vestaĵo	穿着类似的衣服	in similar clothing	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉi lasta estis virino	后者是一名女性	the latter was a woman	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ni iru	我们走吧	let's go	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la viro diris mallaŭte	男人轻声说道	the man said softly	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	en la orelon de sia kunulino	传到他同伴的耳朵里	into the ear of his companion	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	en la orelon de sia kunulino	对着同居女地耳朵	into the ear of his companion	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	nun estas la ĝusta momento	现在正是时候	now is the right moment	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ambaŭ paŝis direkte al la persono	两人同时走向那人	both stepped toward the person	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ili zorgis fari ~	他们做的很仔细~	they were careful to do ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ili zorgis fari ~	他们很仔细的~	they were careful to do ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kiel eble plej ~	尽可能~	as possible as ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kiel eble plej malmulte da bruo	尽可能少的噪音（基尔·埃布尔）	as little noise as possible (kiel eble)	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kiel eble plej malmulte da bruo	尽可能安静地	as little noise as possible (kiel eble)	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	laŭeble plej malmulte da bruo	尽可能少的噪音 (laŭeble)	as little noise as possible (laŭeble)	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ili preskaŭ plene sukcesis	他们几乎完全成功了	they almost fully succeeded	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en ĉi tiu aĉa situacio	在这种恶劣的情况下	in this nasty situation	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	aĉa situacio, kie arboj ĵetis siajn branĉojn	树木抛掷树枝的恶劣情况	a nasty situation where trees threw their branches	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ĵetis siajn malsekajn branĉojn	扔掉自己的湿树枝	threw their own wet branches	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	aĉa situacio, kie arboj ĵetis siajn branĉojn	树木自行弃枝的恶劣状况	a nasty situation where trees threw their branches	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ĵetis siajn malsekajn branĉojn	扔掉自己沾湿的树枝	threw their own wet branches	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	rekte en la vizaĝojn	直接射到脸上	straight into the faces	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	de la industriisto	实业家的	of the industrialist	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	multpiedaj bestetoj	多足小生物	multi-footed small creatures	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	prenis liajn piedojn	站起来	took his feet	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	por promenejo	步行路	for a walk road	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	prenis liajn piedojn	逮住了他们的脚	took his feet	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	por promenejo	为了步行区	for a walk road	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	naturo faligis lian piedon	大自然让他的脚跌倒了	nature made his foot fallen	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	plej dolorige	最痛苦地	most painfully	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	faligis lian piedon en kavon	他的脚掉进了坑里	dropped his foot into a pit	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kavo plena de akvo	一个装满水的坑	a pit full of water	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	akvo aĉ-odora	恶臭的水	foul-smelling water	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	rapide alvenis al la penso	很快就想到了	quickly arrived at the thought	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	oni devas esti preta	一个人必须准备好	one must be ready	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	oni devas esti preta	大家必须准备好	one must be ready	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉi tie	这里	here	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	iu ajn ~	任何人~	anyone ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	preta por iu ajn malplaĉa renkonto	准备好应对任何不愉快的遭遇	ready for any unpleasant encounter	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ion ajn	任何事（无论什么）	anything (whatever)	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	li atendis ion ajn	他在等待什么	he was waiting for anything	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	li atendis ion ajn	他什么都等着	he was waiting for anything	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	krom homa voĉo	除了人声	aside human voice	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kiam voĉo aŭdiĝis, ~	当听到声音时~	when a voice heard, ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	aŭdiĝis tuj proksime	立即听到关闭	heard immediately close	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	li faris belan surlokan salton	他在现场完成了一次漂亮的跳跃	he made a nice on-site jump	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kiam voĉo aŭdiĝis, ~	听到声音时~	when a voice heard, ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	aŭdiĝis tuj proksime	就在近处听到了	heard immediately close	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	li faris belan surlokan salton	他在场完成了一次漂亮的跳跃	he made a nice on-site jump	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kiu movis lian koron	谁动了他的心	who moved his heart	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	supren ĝis la buŝo	嘴上的话	upword to the mouth	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kun la provo rekapti trankvilon	试图重新恢复平静	with the attempt to recapture calm	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	iom da trankvilo	一点宁静	a little tranquility	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	supren ĝis la buŝo	到嘴边上	upword to the mouth	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kun la provo rekapti trankvilon	努力重新恢复安静	with the attempt to recapture calm	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	iom da trankvilo	一点安静	a little tranquility	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la lumo de lampeto	一盏灯的光	the light of a lamp	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	oni direktis rekte al liaj okuloj	有人直接看着他的眼睛	someone directed directly to his eyes	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	la lampo, kiun oni direktis al okuloj	有人对着眼睛的灯	the lamp which someone directed to eyes	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	malhelpis repaciĝon	和解受阻	prevented reconciliation	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	oni direktis rekte al liaj okuloj	大家的眼睛都注视着他的眼睛	someone directed directly to his eyes	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	la lampo, kiun oni direktis al okuloj	所有人都注视的那个灯	the lamp which someone directed to eyes	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	malhelpis repaciĝon	妨碍重新平静	prevented reconciliation	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ŝajnis al li, ke ~	在他看来~	it seemed to him that ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	la homformo, kiu tenis la lampon	拿着灯的人形	the human form that held the lamp	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	surhavas vestojn policajn	穿警察衣服	wear clothes police	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	la homformo, kiu tenis la lampon	拿着灯的人的容貌	the human form that held the lamp	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	surhavas vestojn policajn	穿警服的	wear clothes police	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kion vi faras ĉi tie?	你在这里做什么？	what are you doing here?	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	sonas la aŭtorita voĉo	发出权威的声音	sounds the authoritative voice	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	sonas la aŭtorita voĉo	听到了一个权威的声音	sounds the authoritative voice	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	bonvolu paroli ~	请讲~	please talk ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	iom klare	有点清楚	a little clear	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	iom klare	更清楚地	a little clear	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la alia diris	另一个说	the other said	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	eĉ pli grav-tone	以更重要的语气	in even more important-tone	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	mi promenas	我在走路	I'm walking	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	vi promenas en la bieno	你走在农场	you walk on the farm	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	mi promenas	我在散步	I'm walking	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	vi promenas en la bieno	你在农场散步	you walk on the farm	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	de la grafino	伯爵夫人的	of the countess	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la bieno de la grafino	伯爵夫人的农场	the countess's farm	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	meze de la nokto	在半夜	in the middle of the night	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉu la grafino vin invitis?	伯爵夫人邀请你了吗？	did the countess invite you?	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ĉu ŝi scias pri ~	她知道吗~	does she know about ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	pri via ĉeesto	关于你的存在	about your presence	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	via ĉeesto ĉi tie	你在这里	your presence here	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	mi devas peti vin ~	我得问问你~	I have to ask you ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	petas vin sekvi min	要求你关注我	asks you to follow me	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ĉu ŝi scias pri ~	她知道~吗	does she know about ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	pri via ĉeesto	关于你的参与	about your presence	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	via ĉeesto ĉi tie	你在这里的参与	your presence here	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	mi devas peti vin ~	我得请你~	I have to ask you ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	petas vin sekvi min	请你跟着我	asks you to follow me	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kaj li klarigis ~	他解释说~	and he explained ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	klarigis, ke ~	解释说~	explained that ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ekde la fuŝa provo	自从错误的尝试	since the wrong attempt	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	la fuŝa provo kapti la grafinon	抓住伯爵夫人的错误尝试	the wrong attempt to catch the countess	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ekde la fuŝa provo	自从那个笨拙的尝试	since the wrong attempt	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	la fuŝa provo kapti la grafinon	抓住伯爵夫人的笨拙的尝试	the wrong attempt to catch the countess	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	fare de ~	由于〜	due to ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	fare de teroristoj	由于恐怖分子	due to terrorists	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la polico kontrolas atente	警方仔细检查	the police checks carefully	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1316,39 +1316,39 @@ Nokta Promeno	ŝajnis, ke ~	看来是~	it seemed that ~	Nokta Promeno	0    	0000
 Nokta Promeno	lia koro ĉifoje falis	这次他的心沉了下去	his heart fell this time	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	falis ĝis liaj piedoj	跌倒在地	fell to his feet	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	li sciis, ke ~	他知道~	he knew that ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	nur malfacile li provos trovi ~	他会努力寻找	just hard he'll try to find	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	nur malfacile li provos trovi ~	他会艰难的寻找	just hard he'll try to find	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	trovi akcepteblan klarigon	找到一个可以接受的解释	to find an acceptable explanation	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	pri sia ĉeesto	关于自己的存在	about one's own presence	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	pri sia ĉeesto	关于自己的参与	about one's own presence	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la ideo, ke la grafino ĉion scias	伯爵夫人无所不知的想法	the idea that the countess knows everything	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la ideo perdigis al li malmulton da espero	这个想法让他失去了一点希望	the idea deprived him of little hope	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	malmulto da espero	希望渺茫	little hope	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	malmulta espero, kiu restis	所剩无几的希望	little hope that remained	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	malmulto da espero	渺小的希望	little hope	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	malmulta espero, kiu restis	仅存的小小希望	little hope that remained	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	post la unuaj vortoj de la policano	在警察说第一句话之后	after the first words of the police	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ju pli ~ des pli ~	越多越多～	the more ~ the more ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ju pli longe des pli bone	越长越好	the longer the better	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ju pli ~ des pli ~	越来～越来～	the more ~ the more ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ju pli longe des pli bone	越长～越好～	the longer the better	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kiom ajn	无论多少	no matter how much	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	antaŭ kvarona horo	一刻钟前	a quarter of an hour ago	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ili revenis	他们回来了	they came back	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	post la terura malfeliĉo	在经历了可怕的不幸之后	after the terrible misfortune	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	la homoj foriris	人们离开了	the people left	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kaj la malnovaj urboj disfalis	古老的城市分崩离析	and the old cities fell apart	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	post la terura malfeliĉo	在可怕的不幸之后	after the terrible misfortune	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	la homoj foriris	人们散开了	the people left	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kaj la malnovaj urboj disfalis	古老的城市崩塌了	and the old cities fell apart	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ni devus revidi vin	我们应该再见到你	we should see you again	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli ofte	越频繁	the more often	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	mi pripensas	我在想	I'm thinking	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	des pli mi koleras	我越生气	the more angry I am	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ŝi loĝas en ~	她住在~	she lives in ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en iu ajn domo	在任何房子里	in any house	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ĉu ni revidos nin?	我们还会再见吗？	will we see each other again?	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ĉu ni revidos nin?	我们还会再见面吗？	will we see each other again?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kie ajn kaj kiam ajn	无论何时何地	wherever and whenever	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kiam mi rericevos ~ ?	我什么时候回来~？	when will I get back ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kiam mi rericevos ~ ?	我什么时候能收回~？	when will I get back ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la alian duonon de la libroj	书的另一半	the other half of the books	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉu vi bezonos ~ ?	你需要~吗？	will you need ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	bezonas pli ol kvaronan jaron	需要超过四分之一年的时间	needs more than a quarter of a year	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	por tiuj laboroj	对于那些工作	for those jobs	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	bezonas pli ol kvaronan jaron	需要一个季节多的时间	needs more than a quarter of a year	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	por tiuj laboroj	为了那些工作	for those jobs	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kial estas ~ ?	为什么是~？	why is ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	des pli malvarma	越冷	the colder	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli longe	越长	the longer	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ni atendas ~	我们在等待~	we are waiting ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ĉu vi kontentas kun ~ ?	还满意吗~	are you satisfied with ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ĉu vi kontentas kun ~ ?	你还满意~吗	are you satisfied with ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kun iu ajn viro	与任何男人	with any man	Nokta Promeno	0    	0000-00-00 00:00:00
-level	tiom malgranda momento	这么小的一刻	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	那么点的一刻	such a small moment	grupo	0    	0000-00-00 00:00:00

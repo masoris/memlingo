@@ -2,7 +2,7 @@ course_table_Z = `
 <table class="Rectangle-Copy">
 <tr>
     <td colspan="2">
-        <span id="Course$A_name" class="Esperanto-$A-">
+        <span id="Course$A_name" class="Esperanto-Z-">
             Learn Esperanto Zagreba Kurso
         </span>
     </td>

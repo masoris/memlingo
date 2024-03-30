@@ -1,0 +1,34 @@
+2024-03-30 16:15:37	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-03-30 16:15:37	/api/get_course_info.api	a@a.com	ko-kr
+2024-03-30 16:15:39	/api/get_course_info.api	a@a.com	ko-kr
+2024-03-30 16:16:02	/api/get_course_info.api	a@a.com	ko-kr
+2024-03-30 16:16:03	/api/session-start.api	a@a.com	ko-kr	A
+2024-03-30 16:16:03	/api/card-next.api	a@a.com	A	ko-kr	estas lernanto kaj sportisto	6	./quizE.html	male1
+2024-03-30 16:16:07	/api/playsound.api	a@a.com	male1/estas lernanto kaj sportisto.mp3
+2024-03-30 16:16:23	/api/similar-words-jk.api	a@a.com	A	ko-kr	kaj	lernanto
+2024-03-30 16:17:24	/api/similar-words.api	a@a.com	A	ko-kr	estas lernanto kaj sportisto
+2024-03-30 16:18:27	/api/similar-words-kor.api	a@a.com	A	ko-kr	배우는 사람이고 스포츠맨이다
+2024-03-30 16:18:33	/api/playsound.api	a@a.com	male2/estas lernanto kaj sportisto.mp3
+2024-03-30 16:18:34	/api/playsound.api	a@a.com	ludoviko/estas lernanto kaj sportisto.mp3
+2024-03-30 16:18:38	/api/put-score-kor.api	a@a.com	A	ko-kr	배우고 있는, 배우고 있는 사람 (학생)	-1
+2024-03-30 16:18:40	/api/put-score-kor.api	a@a.com	A	ko-kr	배우는 사람이고 스포츠맨이다	1
+2024-03-30 16:18:40	/api/playsound.api	a@a.com	male2/estas lernanto kaj sportisto.mp3
+2024-03-30 16:19:35	/api/similar-words-kor.api	a@a.com	A	ko-kr	배우는 사람이고 스포츠맨이다
+2024-03-30 16:19:37	/api/playsound.api	a@a.com	female2/estas lernanto kaj sportisto.mp3
+2024-03-30 16:19:42	/api/put-score-kor.api	a@a.com	A	ko-kr	배우는 사람이고 스포츠맨이다	1
+2024-03-30 16:19:42	/api/playsound.api	a@a.com	female2/estas lernanto kaj sportisto.mp3
+2024-03-30 16:20:31	/api/playsound.api	a@a.com	male1/estas lernanto kaj sportisto.mp3
+2024-03-30 16:21:00	/api/playsound.api	a@a.com	male1/estas lernanto kaj sportisto.mp3
+2024-03-30 16:21:30	/api/similar-words.api	a@a.com	A	ko-kr	estas lernanto kaj sportisto
+2024-03-30 16:22:07	/api/similar-words.api	a@a.com	A	ko-kr	estas lernanto kaj sportisto
+2024-03-30 16:22:10	/api/playsound.api	a@a.com	male2/estas lernanto kaj sportisto.mp3
+2024-03-30 16:22:14	/api/put-score.api	a@a.com	A	ko-kr	estas lernanto kaj sportisto	1
+2024-03-30 16:22:14	/api/playsound.api	a@a.com	female2/estas lernanto kaj sportisto.mp3
+2024-03-30 16:23:02	/api/similar-words-jk.api	a@a.com	A	ko-kr	kaj	estas
+2024-03-30 16:23:41	/api/session-finish.api	a@a.com	ko-kr	A
+2024-03-30 16:24:13	/api/get_course_info.api	a@a.com	ko-kr
+2024-03-30 16:24:25	/api/get_course_info.api	a@a.com	ko-kr
+2024-03-30 16:25:46	/api/get_course_info.api	a@a.com	ko-kr
+2024-03-30 16:25:55	/api/get_course_info.api	a@a.com	ko-kr
+2024-03-30 16:29:13	/api/get_course_info.api	a@a.com	ko-kr
+2024-03-30 16:31:39	/api/get_course_info.api	a@a.com	ko-kr

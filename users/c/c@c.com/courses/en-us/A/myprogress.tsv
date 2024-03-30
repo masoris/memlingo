@@ -4,7 +4,7 @@ Saluton	mi estas ~	I am ~	je suis ~	Saluton	1    	2023-08-26 17:24:10
 Saluton	vi estas ~	you are ~	tu es ~	Saluton	1    	2023-08-26 17:24:15
 Saluton	saluton	hello	Bonjour	Saluton	1    	2023-08-26 17:24:21
 Saluton	saluton, mi estas ~	hello, I am ~	bonjour, je suis ~	Saluton	1    	2023-08-26 17:24:29
-Saluton	mia, via	my, your	mon ton	Saluton	1    	2023-08-26 17:24:36
+Saluton	mia, via	my, your	mon, ton	Saluton	1    	2023-08-26 17:24:36
 Saluton	nomo	a name	un nom	Saluton	1    	2023-08-26 17:24:42
 Saluton	mia nomo, via nomo	my name, your name	mon nom, ton nom	Saluton	1    	2023-08-26 17:24:50
 Saluton	mia nomo estas ~	my name is ~	je m'appelle ~	Saluton	0    	0000-00-00 00:00:00
@@ -18,9 +18,9 @@ Saluton	kiel	how	comment	Saluton	0    	0000-00-00 00:00:00
 Saluton	kiel vi fartas?	how are you doing?	comment allez-vous?	Saluton	0    	0000-00-00 00:00:00
 Saluton	kio	what	quoi	Saluton	0    	0000-00-00 00:00:00
 Saluton	kio estas via nomo?	what is your name?	quel est ton nom ?	Saluton	0    	0000-00-00 00:00:00
-Saluton	bona, bone	good, well	bon bien	Saluton	0    	0000-00-00 00:00:00
+Saluton	bona, bone	good, well	bon, bien	Saluton	0    	0000-00-00 00:00:00
 Saluton	fartas bone	is doing well	ça va bien	Saluton	0    	0000-00-00 00:00:00
-Saluton	mi fartas bone	I am doing well	je me débrouille bien	Saluton	0    	0000-00-00 00:00:00
+Saluton	mi fartas bone	I am doing well	je vais bien	Saluton	0    	0000-00-00 00:00:00
 Saluton	kaj	and	et	Saluton	0    	0000-00-00 00:00:00
 Saluton	bone, kaj vi?	fine, and you?	bien et toi?	Saluton	0    	0000-00-00 00:00:00
 Saluton	ĝis ~	until ~	jusqu'à ~	Saluton	0    	0000-00-00 00:00:00
@@ -34,23 +34,23 @@ Saluton	dankon kaj ĝis revido!	thank you and see you again!	merci et à bientô
 Saluton	al ~	to ~	à ~	Saluton	0    	0000-00-00 00:00:00
 Saluton	al vi, al mi	to you, to me	à toi, à moi	Saluton	0    	0000-00-00 00:00:00
 Saluton	dankas, dankis	(present) thanks, (past) thanked	(présent) merci, (passé) remercié	Saluton	0    	0000-00-00 00:00:00
-Saluton	mi dankas al vi	I appreciate to you	je t'apprécie	Saluton	0    	0000-00-00 00:00:00
-Saluton	jes, ne	yes, no	Oui Non	Saluton	0    	0000-00-00 00:00:00
-Saluton	jes, dankon	yes, thaink you	oui, je te remercie	Saluton	0    	0000-00-00 00:00:00
+Saluton	mi dankas al vi	I appreciate to you	Je te remercie	Saluton	0    	0000-00-00 00:00:00
+Saluton	jes, ne	yes, no	oui, non	Saluton	0    	0000-00-00 00:00:00
+Saluton	jes, dankon	yes, thaink you	oui, merci	Saluton	0    	0000-00-00 00:00:00
 Saluton	manĝas, manĝos	eats, will eat	mange, va manger	Saluton	0    	0000-00-00 00:00:00
 Saluton	mi ne manĝas	I don't eat	je ne mange pas	Saluton	0    	0000-00-00 00:00:00
 Saluton	ne, mi ne manĝas	no, I don't eat	non, je ne mange pas	Saluton	0    	0000-00-00 00:00:00
 Saluton	bela, bele	beautiful, beautifully	beau, magnifiquement	Saluton	0    	0000-00-00 00:00:00
-Saluton	-inda	worthwhile (ending)	ça vaut le coup (fin)	Saluton	0    	0000-00-00 00:00:00
-Saluton	dankinda, dankinde	appreciatable, worthwhile to thank	appréciable, ça vaut la peine de remercier	Saluton	0    	0000-00-00 00:00:00
+Saluton	-inda	worthwhile (ending)	digne (suffixe)	Saluton	0    	0000-00-00 00:00:00
+Saluton	dankinda, dankinde	appreciatable, worthwhile to thank	appréciable, digne de remerciement	Saluton	0    	0000-00-00 00:00:00
 Saluton	tuta, tute	whole, as a whole	l'ensemble, dans son ensemble	Saluton	0    	0000-00-00 00:00:00
-Saluton	tuto, tuton	all, (objective) all	tout, (objectif) tout	Saluton	0    	0000-00-00 00:00:00
-Saluton	nedankinde	not at all, you're welcome	pas du tout, de rien	Saluton	0    	0000-00-00 00:00:00
-Saluton	tute ne	totally no	totalement non	Saluton	0    	0000-00-00 00:00:00
+Saluton	tuto, tuton	all, (objective) all	tout,  tout(objectif)	Saluton	0    	0000-00-00 00:00:00
+Saluton	nedankinde	not at all, you're welcome	de rien	Saluton	0    	0000-00-00 00:00:00
+Saluton	tute ne	totally no	pas du tout	Saluton	0    	0000-00-00 00:00:00
 Saluton	pardoni ~, pardono	to forgive, a forgiving	pardonner, un pardon	Saluton	0    	0000-00-00 00:00:00
 Bonan nokton	pardonon al mi	a forgiving to me	un pardon pour moi	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	pardonon	I'm sorry! (pardon me)	Je suis désolé! (Excusez-moi)	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	pardonon, mi petas	I'm sorry, please	Je suis désolé s'il vous plaît	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	pardonon, mi petas	I'm sorry, please	Excusez-moi, s'il vous plaît	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bona mateno	a good morning	un bon matin	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bonan matenon	good morning	bonjour	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bonan nokton	good night	bonne nuit	Bonan nokton	0    	0000-00-00 00:00:00
@@ -58,30 +58,30 @@ Bonan nokton	bonan sonĝon	sweet dream	doux rêve	Bonan nokton	0    	0000-00-00 
 Bonan nokton	bonan vojaĝon, al vi	(have) a good trip, to you	(faire) un bon voyage à toi	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	bonan tagon	good day!	bonne journée!	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ĉu ~	is it ~ ?	est-ce ~ ?	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	ĉu vi fartas bone?	are you doing well? (how are you?)	tu vas bien? (comment vas-tu?)	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	jes, mi fartas bone	yes, I'm fine	Oui je vais bien	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	ne, tute ne	no, not at all	Non pas du tout	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	ĉu vi fartas bone?	are you doing well? (how are you?)	allez-vous bien? (comment vas-tu?)	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	jes, mi fartas bone	yes, I'm fine	oui, je vais bien	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	ne, tute ne	no, not at all	non, pas du tout	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	tre, tro	very, too much	très, trop	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	granda, grande	big, largely	grand, en grande partie	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	tre bona, tro granda	very good, too big	très bon, trop grand	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	vi tre bone fartas	you are doing very well	tu t'en sors très bien	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	tre bona, tro granda	very good, too big	très bon, trop gros	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	vi tre bone fartas	you are doing very well	tu vas très bien	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ne tre bone	not very well	pas très bien	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lerni ~, lerno	to learn, a learning	apprendre, un apprentissage	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	vidanta, vidanto	is looking, a spectator	regarde, un spectateur	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	vidanta, vidanto	is looking, a spectator	voyant, un spectateur	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lernanta, lernanto	is learning, a student (a learning person)	est en train d'apprendre, un étudiant (une personne qui apprend)	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	-anta, -anto	is -ing, a person who is doing	est -ing, une personne qui fait	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	-anta, -anto	is -ing, a person who is doing	est -en train, une personne qui fait	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lernanto, lerninto	a student, a person who has learned	un étudiant, une personne qui a appris	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	mi estas lernanto	I am a student.	Je suis étudiant.	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	~ estas mia amiko	~ is my friend	~ est mon ami	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	li, ŝi	he, she	il Elle	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	li, ŝi	he, she	il, elle	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sidi, sidas	to sit, sits	s'asseoir, s'asseoir	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sidanta, sidinta, sidonta	is sitting, was sitting, will be sitting	est assis, était assis, sera assis	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	li sidas kaj ŝi lernas	he is sitting and she is learning	il est assis et elle apprend	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	ĉambro	a room	une chambre	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	lernas en ĉambro	learns in a room	apprend dans une pièce	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	lernas en ĉambro	learns in a room	apprend dans une pièce (chambre)	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	lernanto kaj sportisto	a student and a sportsman	un étudiant et un sportif	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	sporto kaj sportisto	sport and a sportsman	le sport et un sportif	Bonan nokton	0    	0000-00-00 00:00:00
-Bonan nokton	sportisto nun sportas	a sportsman is sporting	un sportif fait du sport	Bonan nokton	0    	0000-00-00 00:00:00
+Bonan nokton	sportisto nun sportas	a sportsman is sporting	un sportif fait du sport maintenant	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	li estas lernanto	he is a student	il est un étudiant	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	estas lernanto kaj sportisto	he is a student and a sportman	il est étudiant et sportif	Bonan nokton	0    	0000-00-00 00:00:00
 Bonan nokton	li nun sidas	he is now sitting	il est maintenant assis	Bonan nokton	0    	0000-00-00 00:00:00
@@ -125,26 +125,26 @@ Amiko	via lernanto, viaj lernantoj	your student, your students	votre étudiant, 
 Amiko	ĉu ili estas viaj lernantoj?	are they your students?	sont-ils vos élèves ?	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu vi estas lernanto?	are you a student?	êtes-vous un étudiant?	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu vi estas en la ĉambro?	are you in the room?	es-tu dans la pièce ?	Amiko	0    	0000-00-00 00:00:00
-Amiko	mi ne estas ~	I'm not ~	je ne le suis pas ~	Amiko	0    	0000-00-00 00:00:00
+Amiko	mi ne estas ~	I'm not ~	je ne suis pas ~	Amiko	0    	0000-00-00 00:00:00
 Amiko	esperantisto kaj esperantistino	an Esperantist and a female Esperantist	un espérantiste et une espérantiste	Amiko	0    	0000-00-00 00:00:00
 Amiko	enskribis por la hotelĉambro	checked in for the hotel room	enregistré pour la chambre d'hôtel	Amiko	0    	0000-00-00 00:00:00
 Amiko	lingvisto kaj laboristino	a linguist and a female worker	une linguiste et une travailleuse	Amiko	0    	0000-00-00 00:00:00
-Amiko	lia amikino estas ~	his girl friend is ~	sa petite amie est ~	Amiko	0    	0000-00-00 00:00:00
+Amiko	lia amikino estas ~	his girl friend is ~	son amie est ~	Amiko	0    	0000-00-00 00:00:00
 Amiko	lernantoj kaj sportistoj	students and sportsmen	étudiants et sportifs	Amiko	0    	0000-00-00 00:00:00
 Amiko	mia familia nomo estas ~	my familia name is ~	mon nom de famille est ~	Amiko	0    	0000-00-00 00:00:00
-Amiko	kiu estas ŝi?	who is she? which is she?	qui est-elle? quelle est-elle ?	Amiko	0    	0000-00-00 00:00:00
-Amiko	estas via amikino	is your girl friend	est ta petite amie	Amiko	0    	0000-00-00 00:00:00
+Amiko	kiu estas ŝi?	who is she? which is she?	qui est-elle?	Amiko	0    	0000-00-00 00:00:00
+Amiko	estas via amikino	is your girl friend	c'est ton amie	Amiko	0    	0000-00-00 00:00:00
 Amiko	ĉu via amiko estas ~ ?	is your friend ~ ?	est ton ami ~ ?	Amiko	0    	0000-00-00 00:00:00
 Amiko	skribas nun en la ĉambro	is writing now in the room	est en train d'écrire maintenant dans la pièce	Amiko	0    	0000-00-00 00:00:00
-Amiko	ĉu la amiko de via patro ~ ?	is the friend of you father ~ ?	est l'ami de ton père ~ ?	Amiko	0    	0000-00-00 00:00:00
+Amiko	ĉu la amiko de via patro ~ ?	is the friend of you father ~ ?	est-ce l'ami de ton père ~ ?	Amiko	0    	0000-00-00 00:00:00
 Amiko	laboras en hotelo	works in a hotel	travaille dans un hôtel	Amiko	0    	0000-00-00 00:00:00
-Amiko	kio estas sur la tablo?	what is on the table?	ce qui est sur la table?	Amiko	0    	0000-00-00 00:00:00
+Amiko	kio estas sur la tablo?	what is on the table?	qu'est-ce qu'il y a sur la table?	Amiko	0    	0000-00-00 00:00:00
 Amiko	sur la tablo en nia ĉambro	on the table in our room	sur la table de notre chambre	Amiko	0    	0000-00-00 00:00:00
-Amiko	ĉu la lernolibro de Esperanto ~ ?	is the Esperanto textbook ~ ?	le manuel d'espéranto est-il ~ ?	Amiko	0    	0000-00-00 00:00:00
+Amiko	ĉu la lernolibro de Esperanto ~ ?	is the Esperanto textbook ~ ?	est-ce le manuel d'espéranto ~ ?	Amiko	0    	0000-00-00 00:00:00
 Amiko	estas sur via tablo	is on your table	est sur ta table	Amiko	0    	0000-00-00 00:00:00
-Amiko	havas amikinon	has a friend	a un ami	Amiko	0    	0000-00-00 00:00:00
+Amiko	havas amikinon	has a friend	a une amie	Amiko	0    	0000-00-00 00:00:00
 Amiko	ŝia nomo estas ~	her name is ~	elle s'appelle ~	Amiko	0    	0000-00-00 00:00:00
-Amiko	juna kaj bela	young and beautiful	jeune et jolie	Amiko	0    	0000-00-00 00:00:00
+Amiko	juna kaj bela	young and beautiful	jeune et belle	Amiko	0    	0000-00-00 00:00:00
 Amiko	estas juna kaj bela	is young and beautiful	est jeune et belle	Amiko	0    	0000-00-00 00:00:00
 Amiko	junaj kaj belaj amikoj	young and beautiful friends	jeunes et beaux amis	Amiko	0    	0000-00-00 00:00:00
 La amiko	estas geamikoj	are male-and-female friends	sont des amis hommes et femmes	La amiko	0    	0000-00-00 00:00:00
@@ -153,190 +153,190 @@ La amiko	venis al la hejmo	came to the home	est venu à la maison	La amiko	0    
 La amiko	la hejmo de ~	the home of ~	la maison de ~	La amiko	0    	0000-00-00 00:00:00
 La amiko	bonvolu eniri	please come in	s'il te plaît, entre	La amiko	0    	0000-00-00 00:00:00
 La amiko	saluton! kion vi faras?	hello, what are you doing?	salut que fais tu?	La amiko	0    	0000-00-00 00:00:00
-La amiko	kion vi faras?	what do you do? what are you doing?	que fais-tu ? que fais-tu ?	La amiko	0    	0000-00-00 00:00:00
+La amiko	kion vi faras?	what do you do? what are you doing?	que fais-tu ?	La amiko	0    	0000-00-00 00:00:00
 La amiko	sed nun mi volas ~	but now I want ~	mais maintenant je veux ~	La amiko	0    	0000-00-00 00:00:00
 La amiko	mi volas paroli	I want to speak	Je veux parler	La amiko	0    	0000-00-00 00:00:00
 La amiko	kun tri geamikoj	with three male-and-female friends	avec trois amis hommes et femmes	La amiko	0    	0000-00-00 00:00:00
-La amiko	parolis kun vi	spoke with you	je t'ai parlé	La amiko	0    	0000-00-00 00:00:00
+La amiko	parolis kun vi	spoke with you	parlé avec toi	La amiko	0    	0000-00-00 00:00:00
 La amiko	volas paroli kun vi	wants to speak with you	veut te parler	La amiko	0    	0000-00-00 00:00:00
 La amiko	ĉu vi havas geamikojn?	do you have male-and-female friends	as-tu des amis hommes et femmes	La amiko	0    	0000-00-00 00:00:00
 La amiko	li havas libron	he has a book	il a un livre	La amiko	0    	0000-00-00 00:00:00
 La amiko	havas bonan libron	has a good book	a un bon livre	La amiko	0    	0000-00-00 00:00:00
-La amiko	jes, mi havas	yes, I have	Oui j'ai	La amiko	0    	0000-00-00 00:00:00
+La amiko	jes, mi havas	yes, I have	oui j'ai	La amiko	0    	0000-00-00 00:00:00
 La amiko	ili ŝatas ĝin	they like it	ils aiment ça	La amiko	0    	0000-00-00 00:00:00
 La amiko	ŝi legis libron	she read a book	elle a lu un livre	La amiko	0    	0000-00-00 00:00:00
 La amiko	ŝatas legi librojn	likes to read books	aime lire des livres	La amiko	0    	0000-00-00 00:00:00
 La amiko	nur bona libro	only a good book	seulement un bon livre	La amiko	0    	0000-00-00 00:00:00
 La amiko	multaj bonaj libroj	many good books	beaucoup de bons livres	La amiko	0    	0000-00-00 00:00:00
-La amiko	legis nur bonajn librojn	read only good books	je ne lis que de bons livres	La amiko	0    	0000-00-00 00:00:00
+La amiko	legis nur bonajn librojn	read only good books	ne lisait que de bons livres	La amiko	0    	0000-00-00 00:00:00
 La amiko	ŝatas legi bonajn librojn	likes to read good books	aime lire de bons livres	La amiko	0    	0000-00-00 00:00:00
-La amiko	ĉu vi volas legi?	do you want to read?	tu veux lire ?	La amiko	0    	0000-00-00 00:00:00
+La amiko	ĉu vi volas legi?	do you want to read?	veux-tu lire ?	La amiko	0    	0000-00-00 00:00:00
 La amiko	la junulo trinkis kafon	the youngster drank coffee	le jeune a bu du café	La amiko	0    	0000-00-00 00:00:00
 La amiko	volas trinki akvon	wants to drink water	veut boire de l'eau	La amiko	0    	0000-00-00 00:00:00
-La amiko	patro kaj patrino, gepatroj	a father and a mother; parents	un père et une mère ; parents	La amiko	0    	0000-00-00 00:00:00
+La amiko	patro kaj patrino, gepatroj	a father and a mother; parents	un père et une mère ; des parents	La amiko	0    	0000-00-00 00:00:00
 La amiko	frato kaj fratino, gefratoj	a bother and a sister, siblings	un frère et une sœur, frères et sœurs	La amiko	0    	0000-00-00 00:00:00
 La amiko	viaj gepatroj kaj gefratoj	your parents and siblings	tes parents et tes frères et sœurs	La amiko	0    	0000-00-00 00:00:00
 La amiko	estas en via hejmo	is in your home	est chez toi	La amiko	0    	0000-00-00 00:00:00
 La amiko	jen la kafo	here is the coffee	voici le café	La amiko	0    	0000-00-00 00:00:00
 La amiko	ankoraŭ ne trinkis	didn't drink yet	je n'ai pas encore bu	La amiko	0    	0000-00-00 00:00:00
 La amiko	estas ankoraŭ varma	is still warm	il fait encore chaud	La amiko	0    	0000-00-00 00:00:00
-La amiko	hieraŭ kuiris ĝin	cooked it yesterday	je l'ai cuisiné hier	La amiko	0    	0000-00-00 00:00:00
-La amiko	mi nun kuiris	I now cooked	J'ai maintenant cuisiné	La amiko	0    	0000-00-00 00:00:00
-La amiko	dankon. tiel li diris	thank you. so he said.	merci. alors il a dit.	La amiko	0    	0000-00-00 00:00:00
+La amiko	hieraŭ kuiris ĝin	cooked it yesterday	l'avait cuisiné hier	La amiko	0    	0000-00-00 00:00:00
+La amiko	mi nun kuiris	I now cooked	j'ai maintenant cuisiné	La amiko	0    	0000-00-00 00:00:00
+La amiko	dankon. tiel li diris	thank you. so he said.	merci. ainsi a-t-il dit	La amiko	0    	0000-00-00 00:00:00
 La amiko	povas trinki kaj manĝi	can drink and eat	peut boire et manger	La amiko	0    	0000-00-00 00:00:00
-La amiko	trinkis malvarman kafon	drank cold coffee	bu du café froid	La amiko	0    	0000-00-00 00:00:00
-La amiko	ankaŭ varma kafo	still warm coffee	café encore chaud	La amiko	0    	0000-00-00 00:00:00
-La amiko	trinkas ankaŭ malvarman kafon	drinks cold coffee too	il boit aussi du café froid	La amiko	0    	0000-00-00 00:00:00
+La amiko	trinkis malvarman kafon	drank cold coffee	a bu du café froid	La amiko	0    	0000-00-00 00:00:00
+La amiko	ankaŭ varma kafo	still warm coffee	aussi du café chaud	La amiko	0    	0000-00-00 00:00:00
+La amiko	trinkas ankaŭ malvarman kafon	drinks cold coffee too	iboit aussi du café froid	La amiko	0    	0000-00-00 00:00:00
 La amiko	povas trinki ankaŭ malvarman kafon	can also drink cold coffee	peut aussi boire du café froid	La amiko	0    	0000-00-00 00:00:00
 La amiko	rigardas ŝian okulon	looks at her eye	regarde ses yeux	La amiko	0    	0000-00-00 00:00:00
 La amiko	la plej bela okulo	the most beautiful eye	le plus bel œil	La amiko	0    	0000-00-00 00:00:00
 La amiko	la belaj okuloj	the beautiful eyes	les beaux yeux	La amiko	0    	0000-00-00 00:00:00
-La amiko	rigardis la belajn okulojn	looked the beautiful eyes	j'ai regardé ces beaux yeux	La amiko	0    	0000-00-00 00:00:00
+La amiko	rigardis la belajn okulojn	looked the beautiful eyes	a regardé ces beaux yeux	La amiko	0    	0000-00-00 00:00:00
 La amiko	la belaj okuloj de ŝi	the beautiful eyes of her	ses beaux yeux	La amiko	0    	0000-00-00 00:00:00
 La amiko	vidas kaj komprenas	sees and understands	voit et comprend	La amiko	0    	0000-00-00 00:00:00
-La amiko	mi vidas, ke ~	I see that ~	Je vois ça ~	La amiko	0    	0000-00-00 00:00:00
+La amiko	mi vidas, ke ~	I see that ~	je vois, que ~	La amiko	0    	0000-00-00 00:00:00
 La amiko	ke li amas ŝin	that he loves her	qu'il l'aime	La amiko	0    	0000-00-00 00:00:00
-En kafejo	ŝi sentis, ke li amas ŝin	she feels that he loves her	elle sent qu'il l'aime	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	demandas, ĉu tio estis granda	asks whether that was big	demande si c'était gros	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	ŝi sentis, ke li amas ŝin	she feels that he loves her	elle sentait qu'il l'aime	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	demandas, ĉu tio estis granda	asks whether that was big	demande, si cela était grand	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	pri facila demando	about an easy question	à propos d'une question facile	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	diris pri nova mono	said about a new money	a parlé d'un nouvel argent	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	diris pri nova mono	said about a new money	a dit au sujet de la nouvelle monnaie	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	tre belaj okuloj	very beautiful eyes	très beaux yeux	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	rigardis la grandan fraton	looked the big brother	j'avais l'air du grand frère	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	rigardis la grandan fraton	looked the big brother	a regardé le grand frère	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	malgranda fratino forgesis ĝin	a little sister forgot it	une petite soeur l'a oublié	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	akuzativo	an accusative (objective)	un accusatif (objectif)	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	ne forgesu akuzativon	don't forget the accusative ending	n'oublie pas la fin accusative	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	ne forgesu akuzativon	don't forget the accusative ending	n'oublie pas l'accusative	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	kiun vi vidas?	whom are you seeing? which one do you see?	qui vois-tu ? lequel vois-tu ?	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	mi vidas amikon	I see a friend	je vois un ami	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	havas bonajn geamikojn	has good male-and-female friends	a de bons amis hommes et femmes	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ili laboras pri la malnova domo	they are working about the old house	ils travaillent sur la vieille maison	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	laboras, laboris, laboros	works, worked, will work	travaille, travaillé, fonctionnera	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	laboras, laboris, laboros	works, worked, will work	travaille, travaillé, travaillera	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	vidas, ke mi manĝas	sees, that I eat	vois, que je mange	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	diris, ke li iros	said, that he will go	a dit qu'il ira	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	malbela kaj malbona	ugly and bad	laid et mauvais	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	kion ŝi diris?	what did she say?	Qu'a-t-elle dit?	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	kion vi atendas?	what are you waiting for?	Qu'est-ce que tu attends?	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	eniris en la ĉambron	went into the room	je suis entré dans la chambre	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	kion ŝi diris?	what did she say?	qu'a-t-elle dit?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	kion vi atendas?	what are you waiting for?	qu'attends-tu ?, qu'est-ce que tu attends?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	eniris en la ĉambron	went into the room	était entré dans la chambre	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	enhavo estis tre malfacila	a content is very difficult	un contenu est très difficile	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	alvenis al la kunsido	arrived at the meeting	arrivé à la réunion	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	alvenis al la kunsido	arrived at the meeting	était arrivé à la réunion	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	bonvenon, al la kunveno	welcome to the meeting	bienvenue à la réunion	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	maljuna viro donis trinkmonon	an old man gave a tip	un vieil homme a donné un pourboire	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	alvenis kaj estis bonvena	arrived and was welcomed	est arrivé et a été accueilli	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ili malamas sed kunlaboras.	they hate but cooperate	ils détestent mais coopèrent	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	iris al la hotelo	went to the hotel	je suis allé à l'hôtel	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	iris al la hotelo	went to the hotel	est allé à l'hôtel	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	havas facilajn lernolibrojn	has easy textbooks	a des manuels faciles	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	kia estis via patrino?	how was your mother?	comment allait ta mère ?	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	kia estis via patrino?	how was your mother?	comment était ta mère ?	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	via malnova hejmo	your old home	ton ancienne maison	En kafejo	0    	0000-00-00 00:00:00
 La amiko	kiujn librojn vi legis?	which books did you read?	quels livres as-tu lu ?	La amiko	0    	0000-00-00 00:00:00
 La amiko	ĉu ili estis bonaj?	were they good?	étaient-ils bons ?	La amiko	0    	0000-00-00 00:00:00
 La amiko	kion faris hieraŭ?	did what yesterday?	qu'a fait hier ?	La amiko	0    	0000-00-00 00:00:00
-La amiko	en la malgranda ĉambro	in the small room	dans la petite salle	La amiko	0    	0000-00-00 00:00:00
-En kafejo	tre longe parolis	spoke very long while	a parlé très longtemps pendant que	En kafejo	0    	0000-00-00 00:00:00
+La amiko	en la malgranda ĉambro	in the small room	dans la petite chambre	La amiko	0    	0000-00-00 00:00:00
+En kafejo	tre longe parolis	spoke very long while	a parlé très longtemps	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	antaŭ la lernejo	in front of the school, before the school	devant l'école, avant l'école	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	parolis antaŭ la lernejo	spoke before the school	a parlé devant l'école	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	poste parolis pri la libro	later spoke about the book	plus tard, j'ai parlé du livre	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	ĝoje iris al la lernejo	gladly went to the school	je suis allé à l'école avec plaisir	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	poste parolis pri la libro	later spoke about the book	plus tard, a parlé du livre	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	ĝoje iris al la lernejo	gladly went to the school	est allé à l'école avec joie	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	tra la strato	through the street	à travers la rue	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	iris tra la strato	went through the street	j'ai traversé la rue	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	iris tra la strato	went through the street	a traversé la rue	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	estis varma tago	was a warm day	c'était une journée chaude	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	ili vidis kafejon	they saw a cafe'	ils ont vu un café'	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	vidis ruĝajn kukojn	saw red cookies	j'ai vu des biscuits rouges	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	vidis kukojn en ĝi	saw cookies in it	j'ai vu des cookies dedans	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	vidis kafejon kaj en ĝi kukojn	saw a cafe' and in it  cookies	J'ai vu un café et des cookies dedans	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	ili vidis kafejon	they saw a cafe'	ils ont vu un café	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	vidis ruĝajn kukojn	saw red cookies	a vu des gâteaux  rouges	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	vidis kukojn en ĝi	saw cookies in it	a vu des gâteaux dedans	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	vidis kafejon kaj en ĝi kukojn	saw a cafe' and in it  cookies	a vu un café et des gâteaux dedans	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	eniru kaj manĝu!	go in and eat!	entrez et mangez !	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ni eniru kaj manĝu	let's come in and eat	entrons et mangeons	En kafejo	0    	0000-00-00 00:00:00
-En kafejo	havas sufiĉan monon	has sufficient money	a suffisamment d'argent	En kafejo	0    	0000-00-00 00:00:00
+En kafejo	havas sufiĉan monon	has sufficient money	a d'argent suffisant, a assez d'argent	En kafejo	0    	0000-00-00 00:00:00
 En kafejo	ĉu vi havas sufiĉan monon?	do you have sufficient money?	as-tu assez d'argent ?	En kafejo	0    	0000-00-00 00:00:00
 Renkonto	ĉu vi komprenas?	do you understand?	est-ce que tu comprends?	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kompreneble!	of course!	bien sûr!	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	tio ne sufiĉas	that is not enough	ce n'est pas suffisant	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	cent dolaroj sufiĉas	a hundred dollars is enough	une centaine de dollars suffisent	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	tio ne sufiĉas	that is not enough	celq n'est pas suffisant	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	cent dolaroj sufiĉas	a hundred dollars is enough	cent dollars suffisent	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	dolaro, dolaroj, dolarojn	a dollar, dollars, dollars (plural objective)	un dollar, des dollars, des dollars (objectif pluriel)	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	havas cent dolarojn	has a hundred dollars	a cent dollars	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kompreneble, mi havas	of course, I have	bien sûr que j'ai	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ho! vi estas riĉa!	oh! you are rich!	Oh! tu es riche!	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	kelnero, kelnerino	a water, an waitress	une eau, une serveuse	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	kelnero portas menuon	a waiter brings a menu	un serveur apporte un menu	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	portis tion al ni, alportis tion	brought that to us, brought that	nous a apporté ça, a apporté ça	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	kelnero alportis multajn kukojn	a waiter brought a lot of cookies	un serveur a apporté beaucoup de cookies	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	kelnero, kelnerino	a water, an waitress	un serveur, une serveuse	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	kelnero portas menuon	a waiter brings a menu	un serveur porte un menu	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	portis tion al ni, alportis tion	brought that to us, brought that	l'a porté à nous, l'a apporté	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	kelnero alportis multajn kukojn	a waiter brought a lot of cookies	un serveur a apporté beaucoup de gâteaux	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ili manĝis iom	they ate some (a little)	ils en ont mangé (un peu)	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	post la manĝo	after the eating (meal)	après avoir mangé (repas)	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	nova, denove	new, again	nouveau, encore	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	la kelnero denove venis	the waiter came again	le serveur est revenu	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	nova, denove	new, again	nouveau, encore (à nouveau)	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	la kelnero denove venis	the waiter came again	le serveur est revenu, le serveur est venu encore	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	en iu loko	in some place	dans un endroit	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	serĉis en iu loko	had searched in some place	j'avais cherché quelque part	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	serĉis en iu loko	had searched in some place	a cherché quelque part	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	serĉis en alia loko	searched in other place	recherché ailleurs	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	lia vizaĝo estis ĝoja	his face was joyous	son visage était joyeux	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ŝi estis malĝoja	she was sad	elle était triste	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	fine kaj finfine	in the end and finally at last	à la fin et enfin enfin	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	fine kaj finfine	in the end and finally at last	à la fin et enfin(finalement)	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	via forta voĉo	your strong voice	ta voix forte	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	en malforta voĉo	in weak voice	d'une voix faible	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	ne havas monon	doesn't have money	il n'a pas d'argent	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	ne havas monon	doesn't have money	n'a pas d'argent	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kio okazis tie?	what did happen there?	que s'est-il passé là-bas ?	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	akcidento okazis poste	an accident happened later	un accident s'est produit plus tard	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	ĉu vi scias, kiam ĝi okazis?	do you know when did it happen?	tu sais quand est-ce arrivé ?	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	scias pri la afero	knows about the matter	est au courant du sujet	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	ĉu vi scias, kiam ĝi okazis?	do you know when did it happen?	sais-tu quand c'était arrivé ?	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	scias pri la afero	knows about the matter	sait à ce sujet, est au courant de cette affaire	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ankoraŭ unu afero restas	still one thing remains	il reste encore une chose	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	vi aŭ ŝi, ajna homo	you or she, any person	vous ou elle, toute personne	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	kiel kantisto	like a singer, as a signer	comme un chanteur, comme un chanteur	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	kantis kiel profesia kantisto	sang like a professional singer	chanté comme un chanteur professionnel	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	kiel kantisto	like a singer, as a signer	comme un chanteur	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	kantis kiel profesia kantisto	sang like a professional singer	a chanté comme un chanteur professionnel	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	tie, kie ŝi loĝis	a the place, where she lived	l'endroit où elle vivait	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	kiel vi scias pri la aŭto?	how do you know about the car?	comment tu connais la voiture ?	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	kiel vi scias pri la aŭto?	how do you know about the car?	comment sais-tu de la voiture ?	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	nu, vidu la rapidan aŭton	well, look at the fast car	eh bien, regarde la voiture rapide	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	suko sen sukero	a juice without sugar	un jus sans sucre	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	li havis rapidan veturilon	he has a fast vehicle	il a un véhicule rapide	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	tro forte	too strongly	trop fort	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	li tro forte malfermis	he opened too hard	il a ouvert trop fort	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	veturis tro rapide	drove (traveled) too fast	conduit (voyagé) trop vite	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	manĝis per kulero	ate with a spoon	mangé avec une cuillère	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	veturis tro rapide	drove (traveled) too fast	a conduit (voyagé) trop vite	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	manĝis per kulero	ate with a spoon	a mangé avec une cuillère	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ni forte dubas	we strongly doubt	nous en doutons fortement	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	vera letero de li	a true letter from him	une vraie lettre de lui	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	amletero kun kvin fotoj	a love letter with five photos	une lettre d'amour avec cinq photos	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	revenis, revenintoj	returned, the people who returned	sont revenus, les gens qui sont revenus	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	revenis, revenintoj	returned, the people who returned	sont revenus, revenants	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	ankaŭ ses leteroj revenis	also six letters returned	aussi six lettres retournées	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	volis vidi la foton	wanted to see the photo	je voulais voir la photo	Renkonto	0    	0000-00-00 00:00:00
-Renkonto	revenis el la lernejo	came back from the school	je suis revenu de l'école	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	volis vidi la foton	wanted to see the photo	voulais voir la photo	Renkonto	0    	0000-00-00 00:00:00
+Renkonto	revenis el la lernejo	came back from the school	est revenu de l'école	Renkonto	0    	0000-00-00 00:00:00
 Renkonto	kiam revenos la fratino?	when will the sister return?	quand la sœur reviendra-t-elle ?	Renkonto	0    	0000-00-00 00:00:00
-Miaj Leteroj	volis legi denove	wanted to read again	je voulais relire	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	faris, fariĝis	made (did), became	fait (fait), est devenu	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	volis legi denove	wanted to read again	voulais relire, voulais encore lire	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	faris, fariĝis	made (did), became	a fait, est devenu	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	rapide fariĝis ruĝa	rapidly became red	est rapidement devenu rouge	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	en ĉambro, en ĉambron	in a room, into a room	dans une pièce, dans une pièce	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	en ĉambro, en ĉambron	in a room, into a room	dans une pièce, dans une pièce(objectif)	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	staris kaj sidis	stood and sat	se leva et s'assit	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	tie staris antaŭ la foto	there stood in front of the photo	il y avait devant la photo	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	tie staris antaŭ la foto	there stood in front of the photo	se tenait là devant la photo	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	mi havas tion	I have that	je l'ai	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	kion vi havas en via mano?	what do you have in your hand?	qu'est-ce que tu as dans la main ?	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	kion vi havas en via mano?	what do you have in your hand?	qu'as-tu dans ta main ?	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	antaŭ aŭ malantaŭ?	in front or behind?	devant ou derrière ?	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	antaŭ aŭ post?	before or after?	avant ou après?	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	tie malantaŭ la pordo	there behind the door	là derrière la porte	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	aliaj, aliaj homoj	others, other people	d'autres, d'autres personnes	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	leteroj de aliaj	letters from others	lettres des autres	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	falis el la mano	fell out of the hand	est tombé des mains	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	sur la tablo, sur la tablon	on the table, onto the table	sur la table, sur la table	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	ĝi falis sur la tablon	it fell on the table	il est tombé sur la table	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	petis pardonon	asked for pardon	demandé pardon	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	serĉis kvin librojn	was searching for five books	je cherchais cinq livres	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	pardonu, mi serĉis mian libron	sorry, I was looking for my book.	désolé, je cherchais mon livre.	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	sur la tablo, sur la tablon	on the table, onto the table	sur la table, sur la table(objectif)	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	ĝi falis sur la tablon	it fell on the table	ça est tombé sur la table	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	petis pardonon	asked for pardon	a demandé pardon	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	serĉis kvin librojn	was searching for five books	a cherché cinq livres	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	pardonu, mi serĉis mian libron	sorry, I was looking for my book.	excuse-moi, je cherchais mon livre.	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	sed vi bone scias	but you know well	mais tu sais bien	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	ne estas sur mia tablo	is not on my table	n'est pas sur ma table	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	viaj libroj ne estas sur mia tablo	your books are not on my table	tes livres ne sont pas sur ma table	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	ree donis, redonis	again gave, returned	encore donné, rendu	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	ree donis, redonis	again gave, returned	a encore donné, a remis (a donné à nouveau)	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	redonu la leteron al mi.	return the letter to me	rends-moi la lettre	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	ricevis bonan lecionon	received a good lesson	reçu une bonne leçon	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	plu lavis, ne plu manĝis	further washed, ate any more	encore lavé, mangé plus	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	ne plu legos	will no longer read	je ne lirai plus	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	ricevis bonan lecionon	received a good lesson	a reçu une bonne leçon	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	plu lavis, ne plu manĝis	further washed, ate any more	a plus lavé,  n'a plus mangé	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	ne plu legos	will no longer read	ne lira plus	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	ankaŭ mi ricevis	I also received	j'ai aussi reçu	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	devas fermi	has to close	doit fermer	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	mi devas bone fermi	I have to close well	je dois bien fermer	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	bone fermis la pordon	closed the door tightly	a bien fermé la porte	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	trankvila, trankviliĝu	calm, calm down	calme-toi, calme-toi	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	aŭdis sed ne aŭskultis	heard but did not listen	entendu mais n'a pas écouté	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	aŭdis trankvilan sonon	heard a calm sound	j'ai entendu un son calme	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	ĉe mi estis kvar poŝoj	at me, there are 4 pockets	chez moi, il y a 4 poches	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	trankvila, trankviliĝu	calm, calm down	calme(tranquille), calme-toi	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	aŭdis sed ne aŭskultis	heard but did not listen	a entendu mais n'a pas écouté	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	aŭdis trankvilan sonon	heard a calm sound	a entendu un son calme	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	ĉe mi estis kvar poŝoj	at me, there are 4 pockets	chez moi, il y avait quatre poches	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	dek tagoj post la lasta leciono	ten days after the last lesson	dix jours après le dernier cours	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	inter la du tabloj	between the two tables	entre les deux tables	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	tri leteroj, ses paperoj	three letters, six papers	trois lettres, six papiers	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	de kapo ĝis piedo	from head to foot	de la tête aux pieds	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	kvar, kvara, kvaropo, kvarono	four, fourth, a quartet, a quarter	quatre, quatrième, un quatuor, un quart	Miaj Leteroj	0    	0000-00-00 00:00:00
-Miaj Leteroj	kien iris la triopo?	where did the trio go	où est passé le trio	Miaj Leteroj	0    	0000-00-00 00:00:00
+Miaj Leteroj	kien iris la triopo?	where did the trio go	où est allé le trio	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	kvin fingroj en ambaŭaj manoj	five fingers in both hands	cinq doigts dans les deux mains	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	si mem, sia poŝo	by oneself, one's own pocket	tout seul, sa propre poche	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	meti, kunmeti, kunmetaĵo	put, put together, a compound	mettre, assembler, un composé	Miaj Leteroj	0    	0000-00-00 00:00:00
@@ -344,52 +344,52 @@ Miaj Leteroj	metis en sian poŝon	put in one's own pocket	mettre dans sa propre 
 Miaj Leteroj	du cent nacioj en la mondo	two hundred nations in the world	deux cents nations dans le monde	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	prenis, forprenis	took, took away	pris, emporté	Miaj Leteroj	0    	0000-00-00 00:00:00
 Miaj Leteroj	prenis sep el siaj naŭ libroj	took seven out of his own nine books	a pris sept de ses neuf livres	Miaj Leteroj	0    	0000-00-00 00:00:00
-Nova Aŭto	lasi, forlasita	to leave, abandoned	partir, abandonné	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	lasi, forlasita	to leave, abandoned	laisser, abandonné	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	lasu min sola kaj trankvila	leave me alone and calm	laisse-moi tranquille et calme	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	mil ok cent ok dek sep	thousand eight hundred and eighty seven (1887)	mille huit cent quatre vingt sept (1887)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	taso da teo	a cup of tea	une tasse de thé	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	oni lavis ok tasojn	somebody washed eight cups	quelqu'un a lavé huit tasses	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	oni lavis ok tasojn	somebody washed eight cups	on a lavé huit tasses	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	du mil dek naŭ	two thousand nineteen (2019)	deux mille dix-neuf (2019)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	li lavis sin	he washed himself	il s'est lavé	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	sia korpo, sia propra posedo	one's body, one's own possession	son corps, sa propre possession	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	sur la tablo, la kato dormis	on the table, the cat slept	sur la table, le chat dormait	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	sur la tablo, la kato dormis	on the table, the cat slept	sur la table, dormait le chat	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la kato saltis sur la tablon	the cat jumped onto the table	le chat a sauté sur la table	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	en la halo, en la halon	in the hall, into the hall	dans le hall, dans le hall	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	en la halo, en la halon	in the hall, into the hall	dans le hall (salle), dans le hall (objectif)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	enfalis en lian manon	fell into his hand	est tombé entre ses mains	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	labori, ellabori	to work, to elaborate	travailler, élaborer	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ellabori por tiu libro	to elaborate for that book	élaborer pour ce livre	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	scias, scivolas, scivolo	knows, wants to know, curiosity	sait, veut savoir, curiosité	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	dulingva, dulingveco	bilingual, bilingualism	bilingue, bilinguisme	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	scivolas pri trilingva lernanto	wonders about a trilingual learner	s'interroge sur un apprenant trilingue	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	iris, reiris	went, returned	je suis parti, je suis revenu	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	iris, reiris	went, returned	est parti, est revenu	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la katoj reiris al siaj domoj	the cats returned to their (own) homes	les chats sont rentrés chez eux	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	en la sako, en la sakon	in the bag, into the bag	dans le sac, dans le sac	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	en la sako, en la sakon	in the bag, into the bag	dans le sac, dans le sac(objectif)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	enmetu ĝin en vian sakon	put it into your bag	mets-le dans ton sac	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	piedo, piediras, piediranto	a foot, walks, a pedestrian	un pied, des promenades, un piéton	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	dek-tage ili piediris	for ten days, they walked	pendant dix jours, ils ont marché	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	preni, elpreni	to take, to take out	prendre, retirer	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	belaj floroj, prenis belajn florojn	beautiful flowers, took beautiful flowers	belles fleurs, j'ai pris de belles fleurs	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	piedo, piediras, piediranto	a foot, walks, a pedestrian	un pied, merche(à pied), un piéton	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	dek-tage ili piediris	for ten days, they walked	pendant dix jours, ils ont marché (à pied)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	preni, elpreni	to take, to take out	prendre, sortir (retirer)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	belaj floroj, prenis belajn florojn	beautiful flowers, took beautiful flowers	belles fleurs, a pris de belles fleurs	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	li elprenis nur belajn florojn	he took out only beautiful flowers	il n'a sorti que de belles fleurs	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	malfermis, sed tuj fermis	opened, but immediately closed	ouvert, mais immédiatement fermé	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	malfermis internacian kunvenon	opened an international meeting	a ouvert une réunion internationale	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	eldonis kaj disdonis	published and distributed	publié et distribué	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la eldonisto eldonis dudek tri librojn	the publisher published twenty-three books	l'éditeur a publié vingt-trois livres	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	revenis kaj revidis sian filon	returned and saw one's own son again	je suis revenu et j'ai revu son propre fils	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	en la jaro dumil dudek tri	in the year two thousand and twenty three (2023)	en l'an deux mille vingt-trois (2023)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	revenis kaj revidis sian filon	returned and saw one's own son again	est revenu et a revu son propre fils	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	en la jaro dumil dudek tri	in the year two thousand and twenty three (2023)	dans l'année deux mille vingt-trois (2023)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	sinjoro eniris la vendejon	a gentleman entered (into) the store	un monsieur est entré (dans) le magasin	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la vendejo de aŭtoj	the store of cars	le magasin de voitures	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	tie li vidas sinjorinon	there he sees a lady	là, il voit une dame	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	karaj gesinjoroj	dear ladies and gentlemen	chers mesdames et messieurs	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	tio plaĉis al mi	that pleased me (I like that)	ça m'a plu (j'aime ça)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	tio plaĉis al mi	that pleased me (I like that)	ça m'a plu	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la sinjorino plaĉis al li	the lady pleased him (he liked the lady)	la dame lui plaisait (il aimait la dame)	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	vidis la belan sinjorinon	saw the beautiful lady	j'ai vu la belle dame	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	vidis la belan sinjorinon	saw the beautiful lady	a vu la belle dame	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kiu plaĉis al li?	who pleased him? (whom did he like?)	qui lui a plu ? (qui aimait-il ?)	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la virino, kiu plaĉis al mi	the woman, who pleased me	la femme qui m'a plu	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	tiu, kiu eniris la domon	the one who entered the house	celui qui est entré dans la maison	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la viro, kiu donacis ĝin	the man who donated it	l'homme qui l'a donné	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	li donacis ringon al lia edzino	he gave a ring to his wife	il a donné une bague à sa femme	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la ringo plaĉis al ŝi	she liked the ring	elle a aimé la bague	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la edzino, al kiu la ringo plaĉis	the wife who liked the ring	la femme qui aimait la bague	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la viro, kiu donacis ĝin	the man who donated it	l'homme qui l'a donné (en cadeau)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	li donacis ringon al lia edzino	he gave a ring to his wife	il a donné (en cadeau) une bague à sa femme	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la ringo plaĉis al ŝi	she liked the ring	la bague lui a plu (à elle)	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la edzino, al kiu la ringo plaĉis	the wife who liked the ring	la femme à qui la bague a plu	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	vendisto laboras en la vendejo	a salesman works in the store	un vendeur travaille dans le magasin	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	vendisto de aŭtoj	a salesman of cars	un vendeur de voitures	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la sinjoro demandis al la vendisto	the gentleman asked the salesman	le monsieur a demandé au vendeur	Nova Aŭto	0    	0000-00-00 00:00:00
@@ -403,8 +403,8 @@ Aŭto Vendejo	estas la plej bona	is the best	est le meilleur	Aŭto Vendejo	0    
 Aŭto Vendejo	kiu aŭto estas la plej bona?	which car is the best?	quelle voiture est la meilleure ?	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	tiu ĉi aŭto estas pli bona	this car is better	cette voiture est meilleure	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	tiu ĉi estas la plej bona	this one is the best	Celui-ci est le meilleur	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	vidis ĉiujn aŭtojn	saw all the cars	j'ai vu toutes les voitures	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	la plej bona el ĉiuj	the best of all	le meilleur de tous	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	vidis ĉiujn aŭtojn	saw all the cars	a vu toutes les voitures	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	la plej bona el ĉiuj	the best of all	la meilleure de toutes	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	ĉu ĝi estas rapida?	is it fast?	est-ce rapide ?	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	pli rapida ol aliaj	faster than others	plus vite que les autres	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	estas ankaŭ forta	is also strong	est aussi fort	Aŭto Vendejo	0    	0000-00-00 00:00:00
@@ -414,7 +414,7 @@ Aŭto Vendejo	certe ĝi estas forta	certainly it is strong	c'est sûr que c'est 
 Aŭto Vendejo	estas ankaŭ multekosta	is also expensive	c'est aussi cher	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	la plej multekosta el ĉiuj	the most expensive of all	le plus cher de tous	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	malmultekosta sed forta	cheap but strong	pas cher mais solide	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	bedaŭras kaj bedaŭrindas	feels sorry and is pityful (worth feeling sorry)	se sent désolé et a pitié (ça vaut la peine d'être désolé)	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	bedaŭras kaj bedaŭrindas	feels sorry and is pityful (worth feeling sorry)	est désolé et a pitié (ça vaut la peine d'être désolé)	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	bedaŭrinde mi ne aĉetos	unfortunately I will not buy	malheureusement je n'achèterai pas	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	estas bedaŭrinda afero	is an unfortunate thing	c'est une chose malheureuse	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	li aĉetis novan aŭton	he bought a new car	il a acheté une nouvelle voiture	Aŭto Vendejo	0    	0000-00-00 00:00:00
@@ -422,10 +422,10 @@ Aŭto Vendejo	ĉar mi ne havas monon	because I do not have money	parce que je n'
 Aŭto Vendejo	mia malnova aŭto	my old car	ma vieille voiture	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	la plej malmultekosta el ĉiuj	the cheapest of all	le moins cher de tous	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	mi veturos tien	I'll drive there	je vais y conduire	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	ankoraŭ veturos per ĝi	will still drive with it	je conduirai toujours avec	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	dum la tuta tago	all day long	toute la journée	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	ankoraŭ veturos per ĝi	will still drive with it	conduirai toujours avec	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	dum la tuta tago	all day long	durant toute la journée	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	dum li diris tion	while he said that	pendant qu'il disait ça	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	li denove rigardis ŝin	he looked at her again	il la regarda à nouveau	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	li denove rigardis ŝin	he looked at her again	il l'a(elle) regardé à nouveau	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	sed la vendisto diris	but the salesman said	mais le vendeur a dit	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	estus pli bone, ke ~	it would be better that ~	ce serait mieux que ~	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	rigardu tiun ĉi sinjorinon	look at this lady	regarde cette dame	Aŭto Vendejo	0    	0000-00-00 00:00:00
@@ -436,23 +436,23 @@ Aŭto Vendejo	aŭskultu la kanton de via edzino	listen to your wife's song	écou
 Aŭto Vendejo	ne forgesu, ke ĝi tre multe kostas	don’t forget that it costs a lot	n'oublie pas que ça coûte cher	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	li helpis la vendiston dum du horoj	he helped the salesman for two hours	il a aidé le vendeur pendant deux heures	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	jam pli ol tri jaroj	for more than three years	depuis plus de trois ans	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	kovri, kovrilo, malkovri	cover, cover, uncover (discover)	couvrir, couvrir, découvrir (découvrir)	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	kovri, kovrilo, malkovri	cover, cover, uncover (discover)	couvrir, couverture, découvrir	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	la kialon li ankoraŭ ne malkovris	the reason he has not yet discovered	la raison qu'il n'a pas encore découverte	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	kial vi komencis sendi leterojn?	why did you start sending letters?	pourquoi as-tu commencé à envoyer des lettres ?	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	dum ok monatoj li vivis tie	for eight months he lived there	il y a vécu huit mois	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	ne havis tempon por aŭskulti	didn't have time to listen	je n'ai pas eu le temps d'écouter	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	dum ok monatoj li vivis tie	for eight months he lived there	il y a vécu huit mois (il y a vécu pendant huit mois)	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	ne havis tempon por aŭskulti	didn't have time to listen	n'a pas eu le temps d'écouter	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	la aŭto estis jam plena	the car was already full	la voiture était déjà pleine	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Aŭto Vendejo	kion vi manĝas?	what are you eating	Qu'est-ce que tu manges	Aŭto Vendejo	0    	0000-00-00 00:00:00
+Aŭto Vendejo	kion vi manĝas?	what are you eating	Qu'est-ce que tu manges (que manges-tu?)	Aŭto Vendejo	0    	0000-00-00 00:00:00
 Aŭto Vendejo	kia estas la vetero?	what's the weather like?	Quel temps fait-il?	Aŭto Vendejo	0    	0000-00-00 00:00:00
-Nova Aŭto	kian aŭton vi havas?	what kind of car do you have?	quel type de voiture avez-vous?	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	kian aŭton vi havas?	what kind of car do you have?	quel type de voiture as-tu?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kiaj estis ŝiaj leteroj?	what were her letters like?	comment étaient ses lettres ?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kie ni estas?	where are we?	Où sommes-nous?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	kien vi iras?	where are you going to?	Où vas-tu?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	al kiu vi donis ĝin?	to whom did you give it?	à qui l'as-tu donné ?	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	la viro, kun kiu vi vojaĝis	the man whom you traveled with	l'homme avec qui tu as voyagé	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	pli granda ol la aŭto	bigger than the car	plus gros que la voiture	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	la plej alta el tiuj homoj	the tallest of those people	le plus grand de ces gens	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	li sidis dum la manĝo	he was sitting at dinner	il était assis à dîner	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	la plej alta el tiuj homoj	the tallest of those people	le plus grand (élevé) de ces gens	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	li sidis dum la manĝo	he was sitting at dinner	il était assis pendant la dîner	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ŝi skribas dum li legas	she writes while he reads	elle écrit pendant qu'il lit	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ĉi tie, en ĉi tiu ĉambro	here, in this room	ici, dans cette pièce	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	tiu ĉi sinjoro	this gentleman	ce monsieur	Nova Aŭto	0    	0000-00-00 00:00:00
@@ -464,45 +464,45 @@ Nova Aŭto	nedankinde. estis mia plezuro	you are welcome. it was my pleasure	je 
 Nova Aŭto	eta belulino ege belas	small pretty girl is very beautiful	petite jolie fille est très belle	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ĉiuj amikoj amas ŝin	all friends love her	tous les amis l'aiment	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	antaŭ tri monatoj	three months ago	il ya trois mois	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	okazis malbono al ŝi	something bad happened to her	quelque chose de grave lui est arrivé	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	okazis malbono al ŝi	something bad happened to her	quelque chose de mal lui(à elle) est arrivé	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ŝi falis pro aŭto	she fell because of a car	elle est tombée à cause d'une voiture	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	malsaniĝis kaj temperaturo altiĝis	became ill and temperature rose	est tombé malade et la température a augmenté	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	patrino diris, ke ŝi devas ripozi	mother said she should rest	mère a dit qu'elle devrait se reposer	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	patrino diris, ke ŝi devas ripozi	mother said she should rest	une mère a dit qu'elle devrait se reposer	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ŝi devas resti hejme	she has to stay home	elle doit rester à la maison	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ŝi vokos doktoron	she will call a doctor	elle appellera un médecin	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	je la naŭa horo	at nine o'clock	à neuf heures	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	matene venis je la oka	in the morning came at eight o'clock	le matin est arrivé à huit heures	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	je la sepa morgaŭ vespere	at seven tomorrow evening	demain soir à sept heures	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	montris liajn manojn	showed his hands	a montré ses mains	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	vesto, vestiĝas	dress, is getting dressed	s'habiller, s'habiller	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	vesto, vestiĝas	dress, is getting dressed	un habit, s'habiller	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	vestiĝu kaj varmigu vian korpon	get dressed and warm your body	habille-toi et réchauffe ton corps	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	hejme tuj malvestis kaj duŝis	at home immediately undressed and showered	à la maison, je me suis immédiatement déshabillé et j'ai pris une douche	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	hejme tuj malvestis kaj duŝis	at home immediately undressed and showered	à la maison, s'est immédiatement déshabillé et a pris une douche	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	doktoro rigardis ĉion	a doctor looked at everything	un médecin a tout regardé	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	bone rigardis kaj fine diris	looked throughly and finally said	j'ai regardé attentivement et j'ai finalement dit	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	bone rigardis kaj fine diris	looked throughly and finally said	a regardé attentivement et a finalement dit	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	unu semajnon restu hejme	stay home for a week	rester à la maison pendant une semaine	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	deziras, ke vi estu trankvila	wants you to be calm	veut que tu sois calme	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	post unu semajno	after one week	Après une semaine	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	vi fartos pli bone	you will feel better	vous vous sentirez mieux	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	trinku multe da teo	drink plenty of tea	boire beaucoup de thé	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	trinku multe da teo	drink plenty of tea	bois beaucoup de thé	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	venos por revidi vin	will come to see you again	je reviendrai te voir	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	ankaŭ li estu trankvila	let him be calm too	qu'il soit calme aussi	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	sana homo, sanulo	healthy man, healthy person	homme en bonne santé, personne en bonne santé	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	zorgis pri si mem	took care of oneself	pris soin de soi	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	tuta afero tuje utilis al mi	the whole thing was useful to me at once	tout cela m'a été utile d'un coup	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	rimarkis, ke teruraĵo proksimas	noticed that horrible thing is near	j'ai remarqué que cette chose horrible est proche	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	petis tuj rimarki ĝin	asked to notice it immediately	demandé de le remarquer immédiatement	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	pensis, ke tio ne necesas	thought that was not necessary	je pensais que ce n'était pas nécessaire	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	rimarkis, ke teruraĵo proksimas	noticed that horrible thing is near	a remarqué que cette chose horrible est proche	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	petis tuj rimarki ĝin	asked to notice it immediately	a demandé de le remarquer immédiatement	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	pensis, ke tio ne necesas	thought that was not necessary	pensait que ce n'était pas nécessaire	Nova Aŭto	0    	0000-00-00 00:00:00
 Nova Aŭto	loĝis proksime, kaj tio utilis	lived nearby, and that was useful	habitait à proximité, et c'était utile	Nova Aŭto	0    	0000-00-00 00:00:00
-Nova Aŭto	nia lando hodiaŭ teruriĝis	our country became terrified today	notre pays est devenu terrifié aujourd'hui	Nova Aŭto	0    	0000-00-00 00:00:00
+Nova Aŭto	nia lando hodiaŭ teruriĝis	our country became terrified today	notre pays a été terrifié aujourd'hui	Nova Aŭto	0    	0000-00-00 00:00:00
 Maja	karaj infanoj el ĉiuj familioj	dear children from all families	chers enfants de toutes les familles	Maja	0    	0000-00-00 00:00:00
 Maja	unu fojon hieraŭ, du fojojn morgaŭ	once yesterday, twice tomorrow	une fois hier, deux fois demain	Maja	0    	0000-00-00 00:00:00
 Maja	hodiaŭ familioj bezonas infanojn	today families need children	aujourd'hui les familles ont besoin d'enfants	Maja	0    	0000-00-00 00:00:00
-Maja	esperis, ke li fartos bone morgaŭ	hoped he would be well tomorrow	j'espérais qu'il irait bien demain	Maja	0    	0000-00-00 00:00:00
+Maja	esperis, ke li fartos bone morgaŭ	hoped he would be well tomorrow	espérait qu'il irait bien demain	Maja	0    	0000-00-00 00:00:00
 Maja	li fartis ege trankvila	he was feeling (has been) very calm	il se sentait (a été) très calme	Maja	0    	0000-00-00 00:00:00
 Maja	tri etuloj altigis la monton	three little ones raised the mountain	trois petits ont élevé la montagne	Maja	0    	0000-00-00 00:00:00
 Maja	gravuloj ne petis helpon	important people did not ask for help	les personnes importantes n'ont pas demandé d'aide	Maja	0    	0000-00-00 00:00:00
-Maja	piediris tien por helpi	walked there to help	j'y suis allé pour aider	Maja	0    	0000-00-00 00:00:00
-Maja	restu hejme se temperaturo altas	stay home if temperature is high	rester à la maison si la température est élevée	Maja	0    	0000-00-00 00:00:00
+Maja	piediris tien por helpi	walked there to help	y était allé(à pied) pour aider	Maja	0    	0000-00-00 00:00:00
+Maja	restu hejme se temperaturo altas	stay home if temperature is high	reste à la maison si la température est élevée	Maja	0    	0000-00-00 00:00:00
 Maja	temperaturo restis simila hodiaŭ	temperature remained similar today	la température est restée similaire aujourd'hui	Maja	0    	0000-00-00 00:00:00
 Maja	voku la doktoron je la naŭa	call the doctor at nine	appelle le médecin à neuf heures	Maja	0    	0000-00-00 00:00:00
 Maja	montru ĝin al via doktoro	show it to your doctor	montre-le à ton médecin	Maja	0    	0000-00-00 00:00:00
@@ -511,42 +511,42 @@ Maja	vestu ĉi tiun ĉemizon	wear this shirt	porte cette chemise	Maja	0    	0000
 Maja	semajnfine ĉio trankviliĝos	on the weekend everything will calm down	le week-end, tout se calmera	Maja	0    	0000-00-00 00:00:00
 Maja	sub la te-taso kion vi trovis?	under the tea-cup what did you find?	sous la tasse de thé, qu'as-tu trouvé ?	Maja	0    	0000-00-00 00:00:00
 Maja	mi deziras matenan teon	I want morning tea	Je veux le thé du matin	Maja	0    	0000-00-00 00:00:00
-Maja	esperis trankvilan vesperon	hoped for a quiet evening	j'espérais une soirée tranquille	Maja	0    	0000-00-00 00:00:00
+Maja	esperis trankvilan vesperon	hoped for a quiet evening	espérait une soirée tranquille	Maja	0    	0000-00-00 00:00:00
 Maja	deziras, ke vi lernu	wants that you learn	veut que tu apprennes	Maja	0    	0000-00-00 00:00:00
 Maja	insistis, ke mi iru	insisted that I go	a insisté pour que j'y aille	Maja	0    	0000-00-00 00:00:00
 Maja	je kioma horo?	at what hour?	à quelle heure?	Maja	0    	0000-00-00 00:00:00
 Maja	je la sesa, li venos	at six he will come	à six heures, il viendra	Maja	0    	0000-00-00 00:00:00
 Maja	la libreto estis ĉarma	the libretto was charming	le livret était charmant	Maja	0    	0000-00-00 00:00:00
-Maja	estu trankvila	be quiet	Soyez silencieux	Maja	0    	0000-00-00 00:00:00
-Maja	li estu trankvila	let him be quiet	laisse-le se taire	Maja	0    	0000-00-00 00:00:00
+Maja	estu trankvila	be quiet	sois calme	Maja	0    	0000-00-00 00:00:00
+Maja	li estu trankvila	let him be quiet	qu'il soit calme	Maja	0    	0000-00-00 00:00:00
 Maja	ankaŭ li	he too	lui aussi	Maja	0    	0000-00-00 00:00:00
 Maja	mi deziras	I want (desire)	je veux (désir)	Maja	0    	0000-00-00 00:00:00
 Maja	mi deziras, ke ~	I wish (desire) that ~	Je souhaite (désir) que ~	Maja	0    	0000-00-00 00:00:00
 Maja	ke vi lernu	that you learn	que tu apprennes	Maja	0    	0000-00-00 00:00:00
 Maja	mi deziras, ke vi lernu	I want you to learn	Je veux que tu apprennes	Maja	0    	0000-00-00 00:00:00
-Maja	patro insistas	father insists	le père insiste	Maja	0    	0000-00-00 00:00:00
-Maja	patro insistas, ke ~	father insists that ~	mon père insiste sur le fait que ~	Maja	0    	0000-00-00 00:00:00
-Maja	ke mi iru	that I go	que je vais	Maja	0    	0000-00-00 00:00:00
+Maja	patro insistas	father insists	mon père insiste	Maja	0    	0000-00-00 00:00:00
+Maja	patro insistas, ke ~	father insists that ~	mon père insiste que ~	Maja	0    	0000-00-00 00:00:00
+Maja	ke mi iru	that I go	que j'aille	Maja	0    	0000-00-00 00:00:00
 Maja	patro insistas, ke mi iru	father insists that I go	mon père insiste pour que j'y aille	Maja	0    	0000-00-00 00:00:00
 Maja	je kioma horo	at what hour	à quelle heure	Maja	0    	0000-00-00 00:00:00
 Maja	je kioma horo vi venos?	what time do you come?	à quelle heure viens-tu ?	Maja	0    	0000-00-00 00:00:00
-Maja	je la kvina	at five (o'clock)	à cinq heure)	Maja	0    	0000-00-00 00:00:00
+Maja	je la kvina	at five (o'clock)	à cinq (heure)	Maja	0    	0000-00-00 00:00:00
 Maja	je la kvina horo	at five o'clock	à cinq heure	Maja	0    	0000-00-00 00:00:00
 Maja	kiel li fartas?	how does he doing?	comment va-t-il ?	Maja	0    	0000-00-00 00:00:00
 Maja	kiel vi fartis lastatempe?	how have you been lately?	comment vas-tu ces derniers temps?	Maja	0    	0000-00-00 00:00:00
 Maja	etaj libroj belas	little books are beautiful	les petits livres sont beaux	Maja	0    	0000-00-00 00:00:00
 Maja	libreto, belaj libroj	a booklet, beautiful books	un livret, de beaux livres	Maja	0    	0000-00-00 00:00:00
 Maja	bela, beleta, belega	beautiful, a little pretty, very beautiful	beau, un peu joli, très beau	Maja	0    	0000-00-00 00:00:00
-Maja	varma, varmeta, varmega	warm, lukewarm, very hot	tiède, tiède, très chaud	Maja	0    	0000-00-00 00:00:00
+Maja	varma, varmeta, varmega	warm, lukewarm, very hot	chaud, tiède, très chaud	Maja	0    	0000-00-00 00:00:00
 Maja	librego, libreto	a big book, a booklet	un gros livre, un livret	Maja	0    	0000-00-00 00:00:00
 Maja	bona, bonega, bonege	good, great, well	bien, super, eh bien	Maja	0    	0000-00-00 00:00:00
 Maja	riĉa, riĉiĝi, riĉulo	rich, become rich, a rich person	riche, devenir riche, une personne riche	Maja	0    	0000-00-00 00:00:00
-Maja	trankvila, trankviliĝi, trankviliĝu	calm, to calm down, calm down	calmer, se calmer, se calmer	Maja	0    	0000-00-00 00:00:00
-ĉiam malfrue	sana, resaniĝi, resaniĝis	healthy, to become healed, became healed	en bonne santé, être guéri, est devenu guéri	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	edzo, edziĝo, geedziĝis	a husband, marriage, married	un mari, mariage, marié	ĉiam malfrue	0    	0000-00-00 00:00:00
+Maja	trankvila, trankviliĝi, trankviliĝu	calm, to calm down, calm down	calmer, se calmer, sois calme	Maja	0    	0000-00-00 00:00:00
+ĉiam malfrue	sana, resaniĝi, resaniĝis	healthy, to become healed, became healed	en bonne santé, être guéri, s'est rétabli	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	edzo, edziĝo, geedziĝis	a husband, marriage, married	un mari, mariage, s'est marié	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	leterportisto	a letter postman	un facteur de lettres	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	hejmlando	a homeland	une patrie	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	iom, iomete	somewhat, a little	un peu, un peu	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	hejmlando	a homeland	pays natal	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	iom, iomete	somewhat, a little	un peu, un peti peu	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ni bonege vespermanĝis	we had a great dinner	nous avons eu un excellent dîner	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	espereble, prizorgu vin	hopefully, take care of yourself	j'espère, prends soin de toi	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	mi zorgis pri la altkvalita loĝejo	I cared about the high-quality housing	Je me souciais du logement de haute qualité	ĉiam malfrue	0    	0000-00-00 00:00:00
@@ -554,7 +554,7 @@ Maja	trankvila, trankviliĝi, trankviliĝu	calm, to calm down, calm down	calmer,
 ĉiam malfrue	kiu deprenis la libreton?	who took down the booklet?	qui a retiré le livret ?	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	kato, kiu nomiĝas Cezaro	a cat named Caesar	un chat nommé César	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	kuko, kiu estas sur la tablo	a cake which is on the table	un gâteau qui est sur la table	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	manĝu kukon, kiu estas sur la tablo	eat a cake that is on the table	manger un gâteau qui est sur la table	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	manĝu kukon, kiu estas sur la tablo	eat a cake that is on the table	manges un gâteau qui est sur la table	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	fariĝis varmega kaj ruĝiĝis	became hot and blushed	est devenu chaud et a rougi	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	patro volas, ke lia infano manĝu	a father wants his child to eat	un père veut que son enfant mange	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	en malgranda ĉambro	in a small room	dans une petite pièce	ĉiam malfrue	0    	0000-00-00 00:00:00
@@ -563,15 +563,15 @@ Maja	trankvila, trankviliĝi, trankviliĝu	calm, to calm down, calm down	calmer,
 ĉiam malfrue	tiam, kiam mi vidis vin	at that time when I saw you	à ce moment-là où je t'ai vu	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ĉiuj rimarkis tion	everyone noticed that	tout le monde a remarqué que	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	tion, ke ŝi estas belega	the fact that she is beautiful	le fait qu'elle soit belle	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	ĉu vi deziras, ke ~ ?	do you want that ~ ? (deziri)	tu veux ça ~ ? (deziri)	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	ke mi montru al vi	that I may show you	que je puisse te montrer	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	ĉu vi deziras, ke ~ ?	do you want that ~ ? (deziri)	veux-tu que ~ ?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	ke mi montru al vi	that I may show you	que je vous montre	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ĉu vi deziras, ke mi montru?	do you want me to show?	tu veux que je montre ?	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	mian plej novan libron	my newest book (objective)	mon dernier livre (objectif)	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	mian plej novan libron	my newest book (objective)	mon plus nouveau livre	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	morgaŭ matene, kion vi volas?	tomorrow morning, what do you want?	demain matin, que veux-tu ?	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	matenmanĝis malfrue	had breakfast late	pris le petit déjeuner tard	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	kiam Marko alvenos?	when will Mark arrive?	quand Mark arrivera-t-il ?	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	je la kvina aŭ je la oka horo	at five or eight o'clock	à cinq ou huit heures	ĉiam malfrue	0    	0000-00-00 00:00:00
-ĉiam malfrue	kiam vi rimarkis, ke ~ ?	when did you notice that ~ ?	quand as-tu remarqué ça ~ ?	ĉiam malfrue	0    	0000-00-00 00:00:00
+ĉiam malfrue	kiam vi rimarkis, ke ~ ?	when did you notice that ~ ?	quand as-tu remarqué que ~ ?	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	la tuta familio nomas min bonfarulo	the whole family calls me a benefactor	toute la famille m'appelle bienfaiteur	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	utila por vi	useful for you	utile pour vous	ĉiam malfrue	0    	0000-00-00 00:00:00
 ĉiam malfrue	ĉu la libreto estis utila?	was the booklet useful?	le livret a-t-il été utile ?	ĉiam malfrue	0    	0000-00-00 00:00:00
@@ -607,7 +607,7 @@ la strato	li volis eniri	he wanted to enter	il voulait entrer	la strato	0    	00
 la strato	eniri la lernejon	to enter into the school	entrer à l'école	la strato	0    	0000-00-00 00:00:00
 la strato	sed tamen	but however	mais cependant	la strato	0    	0000-00-00 00:00:00
 la strato	sed li ne povis	but he couldn't	mais il ne pouvait pas	la strato	0    	0000-00-00 00:00:00
-la strato	fermi kaj fermita	to close and closed	fermer et fermer	la strato	0    	0000-00-00 00:00:00
+la strato	fermi kaj fermita	to close and closed	fermer et fermé	la strato	0    	0000-00-00 00:00:00
 la strato	ĝi estis fermita	it was closed	c'était fermé	la strato	0    	0000-00-00 00:00:00
 la strato	nek ~ nek ~	neither ~ nor ~	ni ~ ni ~	la strato	0    	0000-00-00 00:00:00
 la strato	nek instruisto nek gelernantoj	neither a teacher nor male-and-female students	ni un enseignant ni des étudiants et étudiantes	la strato	0    	0000-00-00 00:00:00
@@ -623,24 +623,24 @@ la strato	memoras	remembers	se souvient	la strato	0    	0000-00-00 00:00:00
 la strato	nun mi memoras	now I remember	Maintenant, je me souviens	la strato	0    	0000-00-00 00:00:00
 la strato	dimanĉo	Sunday	Dimanche	la strato	0    	0000-00-00 00:00:00
 la strato	hodiaŭ estas ~	today is ~	aujourd'hui c'est ~	la strato	0    	0000-00-00 00:00:00
-la strato	hodiaŭ estas dimanĉo	today is Sunday	Aujourd'hui est dimanche	la strato	0    	0000-00-00 00:00:00
+la strato	hodiaŭ estas dimanĉo	today is Sunday	Aujourd'hui c'est dimanche	la strato	0    	0000-00-00 00:00:00
 la strato	dormi kaj ekdormi	to sleep and to get into sleep	dormir et s'endormir	la strato	0    	0000-00-00 00:00:00
 la strato	suno kaj luno	a sun and a moon	un soleil et une lune	la strato	0    	0000-00-00 00:00:00
 la strato	subita kaj subite	sudden and suddenly	soudain et tout à coup	la strato	0    	0000-00-00 00:00:00
-la strato	ek!	off! (to start)	désactivé! (commencer)	la strato	0    	0000-00-00 00:00:00
+la strato	ek!	off! (to start)	commencer	la strato	0    	0000-00-00 00:00:00
 la strato	salti kaj eksaltis	to jump and jumped 	sauter et sauter	la strato	0    	0000-00-00 00:00:00
 la strato	ĉiam frua	always early	toujours tôt	la strato	0    	0000-00-00 00:00:00
 la strato	hodiaŭ metis kaj kuris	today put and ran	aujourd'hui mis et couru	la strato	0    	0000-00-00 00:00:00
-la strato	aĵo, ne aĝo	a thing not age	une chose qui n'a pas d'âge	la strato	0    	0000-00-00 00:00:00
-la strato	kuris laŭ homoj saĝaj	ran along wise people	j'ai couru avec des gens sages	la strato	0    	0000-00-00 00:00:00
+la strato	aĵo, ne aĝo	a thing not age	une chose, pas âge	la strato	0    	0000-00-00 00:00:00
+la strato	kuris laŭ homoj saĝaj	ran along wise people	a couru selon les sages	la strato	0    	0000-00-00 00:00:00
 la strato	laŭeble baldaŭ	soon as possible	dès que possible	la strato	0    	0000-00-00 00:00:00
 la strato	kia knabo, kia knabino	what a boy, what a girl	quel garçon, quelle fille	la strato	0    	0000-00-00 00:00:00
 la strato	nek pensita nek memorita	neither thought nor memorized	ni pensé ni mémorisé	la strato	0    	0000-00-00 00:00:00
 la strato	diablo atendis akvon dimanĉe	a devil waited for water on Sunday	un diable attendait de l'eau dimanche	la strato	0    	0000-00-00 00:00:00
-la strato	eĉ tiom malgranda momento valoras	even such a small moment is worthwhile	même un si petit moment en vaut la peine	la strato	0    	0000-00-00 00:00:00
-la strato	kriis for ĝis nokto	cried away until night	j'ai pleuré jusqu'à la nuit	la strato	0    	0000-00-00 00:00:00
-la strato	lasis la poŝton de la mano	put away the mailpost from the hand	rangez le courrier de la main	la strato	0    	0000-00-00 00:00:00
-la strato	ridis mem lasante la poŝton	laughed by oneself, putting away the mailpost	j'ai ri tout seul en rangeant la poste	la strato	0    	0000-00-00 00:00:00
+la strato	eĉ tiom malgranda momento valoras	even such a small moment is worthwhile	même un si petit moment compte (vaut la peine)	la strato	0    	0000-00-00 00:00:00
+la strato	kriis for ĝis nokto	cried away until night	a crié jusqu'à la nuit	la strato	0    	0000-00-00 00:00:00
+la strato	lasis la poŝton de la mano	put away the mailpost from the hand	a rangé le courrier de la main	la strato	0    	0000-00-00 00:00:00
+la strato	ridis mem lasante la poŝton	laughed by oneself, putting away the mailpost	a ri tout seul en rangeant la poste	la strato	0    	0000-00-00 00:00:00
 la strato	nek li nek ŝi ridis	neither he nor she laughed	ni lui ni elle n'ont ri	la strato	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ŝi nek ridis nek respondis	she neither laughed nor answered	elle n'a ni ri ni répondu	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	li nek sidas nek rigardas	he neither sits nor watches	il ne s'assoit ni ne regarde	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -649,23 +649,23 @@ la strato	nek li nek ŝi ridis	neither he nor she laughed	ni lui ni elle n'ont r
 ĉiam Malfrue	diru al neniu	tell no one	ne dit a personne	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	mi neniam diros	I will never say	je ne dirai jamais	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	mem	to oneself (by oneself)	à soi (par soi-même)	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	mi mem faris	I did it myself	je l'ai fait moi-même	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	faris tion	did it (made it)	je l'ai fait (je l'ai fait)	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	mem faris tion	did it oneself (made it oneself)	je l'ai fait moi-même (je l'ai fait moi-même)	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ĝis la revido, ĝis revido	see you (again), see you (again)	à (encore), à (encore)	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	mi mem faris	I did it myself	j'ai fait moi-même	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	faris tion	did it (made it)	l'a fait	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	mem faris tion	did it oneself (made it oneself)	l'a fait soi-même (je l'ai fait moi-même)	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ĝis la revido, ĝis revido	see you (again), see you (again)	au revoir, à plus tard	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ĝis!	until! (goodbye!)	jusqu'à! (au revoir!)	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	ekparoli	to start talking	commencer à parler	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ekparolis, komencis paroli finfine	started saying, began to speak at last	J'ai commencé à dire, j'ai enfin commencé à parler	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	trinkis rapidege	drank very fast	j'ai bu très vite	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	trinkis matenan trinkaĵon	had a morning drink	j'ai pris un verre le matin	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ekparolis, komencis paroli finfine	started saying, began to speak at last	a commencé à dire, a enfin commencé à parler	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	trinkis rapidege	drank very fast	a bu très vite	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	trinkis matenan trinkaĵon	had a morning drink	a pris une boisson du matin	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	por frue veni	to come early	venir tôt	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	veni al la lernejo	to come to school	venir à l'école	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	frue veni al ~	to come early to ~	venir tôt ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ne aŭdis novaĵon	didn't hear news	je n'ai pas eu de nouvelles	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ankoraŭ ne aŭdis	didn't hear yet	je n'ai pas encore entendu	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	frue veni al ~	to come early to ~	venir tôt au ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ne aŭdis novaĵon	didn't hear news	n'a pas entendu de nouvouvelles	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ankoraŭ ne aŭdis	didn't hear yet	n'a pas encore entendu	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	mi ankoraŭ ne aŭdis	I didn't hear yet	Je n'ai pas encore entendu	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	en tiu momento	in that moment	à ce moment	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	en tiu momento li ekkriis	in that moment he cried	à ce moment-là, il a pleuré	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	en tiu momento li ekkriis	in that moment he cried	à ce moment-là, il a commencé à crier	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	knabo, kiu ne amas	a boy, who does not love	un garçon qui n'aime pas	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	geknaboj	boys and girls	garçons et filles	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	aliaj geknaboj	other boys and girls	d'autres garçons et filles	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -675,46 +675,46 @@ la strato	nek li nek ŝi ridis	neither he nor she laughed	ni lui ni elle n'ont r
 ĉiam Malfrue	kiu havis la libron?	who had the book?	qui avait le livre ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	la libron, kiun vi atendis	the book which you waited	le livre que tu attendais	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	tiun, kiun vi atendis pli ol du jarojn	that, which you waited for more than 2 years	ça, que tu as attendu pendant plus de 2 ans	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ĉu vi volas tion?	do you want that?	veux-tu çà?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ĉu vi volas, ke ~ ?	do you want that ~ ?	tu veux ça ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ĉu vi volas tion?	do you want that?	veux-tu cela?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ĉu vi volas, ke ~ ?	do you want that ~ ?	tu veux que ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	plej kara	dearest	très cher	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	plej kara foto	dearest photo	photo la plus chère	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	mian plej karan foton	my dearest photo	ma photo la plus chère	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kie vi aĉetis ~ ?	where did you buy ~ ?	où as-tu acheté ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	tiu vestaĵo	that clothing	ces vêtements	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	tiun vestaĵon	that clothing (objective)	ces vêtements (objectif)	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	aĉetis tiun vestaĵon	bought that outfit	j'ai acheté cette tenue	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	vi iros tien	you will go there	tu y iras	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	kien vi iros?	where are you going to?	Où vas-tu?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	aĉetis tiun vestaĵon	bought that outfit	a acheté cette tenue	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	vi iros tien	you will go there	tu y iras; tu iras là	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	kien vi iros?	where are you going to?	Où iras-tu?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	suna tago	sunny day	journée ensoleillée	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	estos suna tago	it will be a sunny day	ce sera une journée ensoleillée	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	se estos suna tago	if it will be a sunny day	si ce sera une journée ensoleillée	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	via frato jam ekiris	your brother has already started	ton frère a déjà commencé	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	ĉu via frato jam ekiris?	has your brother started yet?	ton frère a déjà commencé ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-ĉiam Malfrue	kie estas la akvo?	where is the water	où est l'eau	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	via frato jam ekiris	your brother has already started	ton frère a déjà commencé à aller	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	ĉu via frato jam ekiris?	has your brother started yet?	ton frère a-t-il déjà commencé à aller?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+ĉiam Malfrue	kie estas la akvo?	where is the water	où est l'eau ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	kunporti la akvon	to bring the water	apporter l'eau	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	vi mem kunportis	you yourself brought	tu as toi-même apporté	ĉiam Malfrue	0    	0000-00-00 00:00:00
 ĉiam Malfrue	la akvon, kion vi mem kunportis	the water, that you yourself brought	l'eau que tu as toi-même apportée	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	estis tre trankvila	was very quiet	était très calme	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	hodiaŭ mia patrino estis ~	today my mother was ~	aujourd'hui, ma mère était ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	mi venis el ~	I came from ~	Je viens de ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	el la lernejo	out of the school	hors de l'école	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	raportis al ~	reported to ~	signalé à ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	kaj raportis al ŝi	and reported to her	et lui rapporta	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	mi venis el ~	I came from ~	Je venais de ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	el la lernejo	out of the school	de l'école	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	raportis al ~	reported to ~	a signalé à ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	kaj raportis al ŝi	and reported to her	et lui(elle) rapporta	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	raportis, ke ~	reported that ~	a signalé que ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	raportis, ke mi ricevos	reported that I will receive	signalé que je recevrais	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	raportis, ke mi ricevos	reported that I will receive	a signalé que je recevrais	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	mi ricevos malbonan noton	I will get a bad grade	j'aurai une mauvaise note	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ŝi diris, ke ~	she said that ~	elle a dit ça ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	vi devas laborigi ~	you have to make ~ work	tu dois faire en sorte que ~ fonctionne	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ŝi diris, ke ~	she said that ~	elle a dit que ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	vi devas laborigi ~	you have to make ~ work	tu dois faire fonctionner  ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	pli multe	more	plus	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	pli multe laborigi	to make work more	pour faire travailler davantage	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	laborigi vian kapon	to make your head work	pour te faire travailler la tête	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	pli multe laborigi	to make work more	faire travailler davantage, faire plus fonctionner	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	laborigi vian kapon	to make your head work	faire fonctionner ta tête	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kiom da malbonaj notoj	how many bad grades	combien de mauvaises notes	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	vi havas tiom da malbonaj notoj	you have so many bad grades	tu as tellement de mauvaises notes	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	estis malĝoja	was sad	était triste	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	estis malĝoja	was sad	c'était triste	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	en vian ĉambron	into your room	dans ta chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	iru en vian ĉambron	go into your room	va dans ta chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	iru kaj lernu	go and learn	va apprendre	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	iru kaj lernu	go and learn	va et apprendre	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	mi sidis	I sat	je me suis assis	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	en mia ĉambro	in my room	dans ma chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	sidis en mia ĉambro	sat in my room	assis dans ma chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -749,25 +749,25 @@ Malbela Tago	bonan noton pri muziko	a good note on music	une bonne note sur la m
 Malbela Tago	la patrino subite ekridis	the mother suddenly burst out laughing	la mère éclata soudain de rire	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	tio plibeligis ~	that beautified ~	ça a embelli ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	mian tagon	my day	ma journée	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	plibeligis mian tagon	made my day	j'ai fait ma journée	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	plibeligis mian tagon	made my day	ja embelli ma journée	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	sed tamen restis	but still remained	mais il est quand même resté	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	sed la problemo tamen restis	but the problem still remained	mais le problème persiste	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kilogramo da ~	a kilogram of ~	un kilogramme de ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	kilogramo da sukero	a kilogram of sugar	un kilo de sucre	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	kilogramo da sukero	a kilogram of sugar	un kilogramme de sucre	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	glaso da ~	a glass of ~	un verre de ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	glaso da akvo	a glass of water	un verre d'eau	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	multe da ~	a lot of ~	beaucoup de ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	multe da ideoj	lots of ideas	plein d'idées	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	deteni sin	to hold back	retenir	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ordigis ĉion	sorted everything out	tout a été réglé	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	transdonis al li	handed over to him	lui a été remis	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ordigis ĉion	sorted everything out	a tout arangé	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	transdonis al li	handed over to him	lui a transmis	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	mi petas	I'm asking	Je demande	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	glason da kafo	a glass of coffee	un verre de café	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kaj iom da akvo	and some water	et un peu d'eau	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	mi petas glason da kafo	I would like a glass of coffee	je voudrais un verre de café	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	mi petas tason da teo	I would like a cup of tea	Je voudrais une tasse de thé	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	doloris lin	hurt him	lui faire du mal	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	la kapo doloris lin	his head hurt	il a mal à la tête	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	doloris lin	hurt him	lui a fait du mal	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	la kapo doloris lin	his head hurt	la tête lui a fait du mal	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	li malsaniĝis	he fell ill	il est tombé malade	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ŝatas esti bela	likes to be beautiful	aime être belle	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ŝi beligis sian vizaĝon	she beautified her face	elle a embelli son visage	ĉiam Malfrue	0    	0000-00-00 00:00:00
@@ -783,36 +783,36 @@ Malbela Tago	iom da akvo	a little of water	un peu d'eau	ĉiam Malfrue	0    	0000
 Malbela Tago	ĉu vi volas nenion?	do you want nothing?	tu ne veux rien ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	tiel subite	so suddenly	si soudainement	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kial vi decidis ~ ?	why did you decide ~ ?	pourquoi as-tu décidé ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	kial vi tiel subite decidis ~ ?	why did you decide ~ so suddenly?	pourquoi as-tu décidé ~ si soudainement ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	kial vi tiel subite decidis ~ ?	why did you decide ~ so suddenly?	pourquoi as-tu décidé si soudainement ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	via ĉambro	your room	ta chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	via ĉambreto	your little room	ta petite chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	vian ĉambreton	to your little room	dans ta petite chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	renovigi vian ĉambreton	to renovate your little room	pour rénover votre petite chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	decidis renovigi vian ĉambreton	decided to renovate your little room	j'ai décidé de rénover ta petite chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	renovigi vian ĉambreton	to renovate your little room	rénover votre petite chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	decidis renovigi vian ĉambreton	decided to renovate your little room	a décidé de rénover ta petite chambre	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	al kiu	to whom	à qui	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	vi donis ~	you gave ~	tu as donné ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	al kiu vi donis ~ ?	to whom did you give ~ ?	à qui as-tu donné ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	puraj glasoj	clean glasses	lunettes propres	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	puraj glasoj	clean glasses	des verres propres	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	vi donis la purajn glasojn	you gave the clean glasses	tu as donné les verres propres	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	la puraj glasoj por la vino	the clean glasses for the wine	les verres propres pour le vin	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kontraŭ kiu	against whom	contre qui	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	via sportklubo	your sports club	votre club de sport	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ludas kontraŭ ~	plays against ~	joue contre ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	antaŭ du semajnoj	two weeks ago	il y a deux semaines	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	antaŭ du semajnoj	two weeks ago	il y a deux semaines, avant deux semaines	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	kontraŭ kiu via sportklubo ludis?	who did your sports club play against?	Contre qui votre club sportif a-t-il joué ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ĉu vi vidas ~ ?	do you see ~ ?	tu vois ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	ĉu vi ofte vidas ~ ?	do you often see ~ ?	voyez-vous souvent ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ĉu vi vidas ~ ?	do you see ~ ?	est-ce que tu vois ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	ĉu vi ofte vidas ~ ?	do you often see ~ ?	vois-tu souvent ~ ?	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	ofte vidas la policiston	often see the policeman	je vois souvent le policier	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	tiu, kiu loĝas en ~	the one who lives in ~	celui qui vit dans ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	loĝas en la loĝejo	lives in the lodging place	vit dans le lieu d'hébergement	ĉiam Malfrue	0    	0000-00-00 00:00:00
-Malbela Tago	la loĝejo super vi	the dwelling place above you	la demeure au-dessus de toi	ĉiam Malfrue	0    	0000-00-00 00:00:00
+Malbela Tago	la loĝejo super vi	the dwelling place above you	l'appartement au-dessus de toi	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Malbela Tago	vidas la policiston, kiu loĝas en ~	sees the police officer who lives in ~	voit le policier qui habite à ~	ĉiam Malfrue	0    	0000-00-00 00:00:00
 Planoj pri Veturado	plano pri veturado	driving plan	plan de conduite	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	volis vojaĝi	wanted to travel	je voulais voyager	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	volis vojaĝi	wanted to travel	voulait voyager	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	vojaĝi al alia lando	to travel to another country	voyager dans un autre pays	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	en libertempo	in free time	en temps libre	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ili decidis iri	they decided to go	ils ont décidé d'y aller	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	decidis iri al Italio	decided to go to Italy	j'ai décidé d'aller en Italie	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	decidis iri al Italio	decided to go to Italy	décidé d'aller en Italie	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	malnovaj urboj	old cities	vieilles villes	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	lando kun malnovaj urboj	a country with old cities	un pays avec de vieilles villes	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	aliaj belaĵoj	other beauties	d'autres beautés	Planoj pri Veturado	0    	0000-00-00 00:00:00
@@ -820,49 +820,49 @@ Planoj pri Veturado	kaj aliaj belaĵoj	and other beauties	et d'autres beautés	P
 Planoj pri Veturado	bela lando kun malnovaj urboj kaj aliaj belaĵoj	a beautiful country with old cities and other beauties	un beau pays avec des vieilles villes et d'autres beautés	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ili estis feliĉaj	they were happy	ils etaient heureux	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kie estas ~ ?	where is ~ ?	où est ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kie estas mia vestaĵo?	where are my clothes	Où sont mes vêtements	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kie estas mia vestaĵo?	where are my clothes	Où est mon vêtement?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ŝi demandis ~	she asked ~	elle a demandé ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ni ne forgesu kunporti ~	let's not forget to bring ~	n'oublions pas d'apporter ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kunporti la libron	to take the book with you	prendre le livre avec toi	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kunporti la libron	to take the book with you	apporter le livre	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	libro por lerni Esperanton	a book to learn Esperanto	un livre pour apprendre l'espéranto	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kunporti libron por lerni	to carry a book to learn	porter un livre pour apprendre	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kunporti libron por lerni	to carry a book to learn	apporter un livre pour apprendre	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ni povas komenci ~	we can start ~	nous pouvons commencer ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	en la vagonaro	in the train	dans le train	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	jam en la vagonaro	already in the train	déjà dans le train	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ni nenion faros	we won't do anything	nous ne ferons rien	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	per aŭto	by car	en voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ni veturos per ~	we will drive by ~	nous passerons par ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ni veturos per ~	we will drive by ~	nous irons (conduirons) en ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	veturos per aŭto	will drive a car	je conduirai une voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mi havas sekreton	I have a secret	j'ai un secret	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mia riĉa onklo	my rich uncle	mon oncle riche	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mia deziro	my wish	mon souhait	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	plenumis mian deziron	fulfilled my wish	exaucé mon souhait	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	plenumis mian deziron	fulfilled my wish	accompli mon souhait	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	donis al ni	gave us	nous a donné	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	sian aŭton	his car	sa voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kaj donis al ni sian aŭton	and gave us his car	et nous a donné sa voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	por uzo	for use	pour utilisation	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ĝi staras antaŭ ~	it stands before ~	il se tient devant ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	staras antaŭ la domo	stands in front of the house	se tient devant la maison	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ĝi staras antaŭ ~	it stands before ~	ça se trouve devant ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	staras antaŭ la domo	stands in front of the house	se trouve devant la maison	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mi devas diri ~	I have to say ~	Je dois dire ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	nenion diru	don't say anything	ne dis rien	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ni eksidu	let's sit down	asseyons nous	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	eksidu en la aŭton	get in the car	Monte dans la voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	eksidu en la aŭton	get in the car	asseyons-nous dans la voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	veturi al ~	to drive to ~	conduire à ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kaj veturu al Italio	and drive to Italy	et conduire en Italie	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kaj veturu al Italio	and drive to Italy	et conduisez en Italie	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	sidis en la aŭto	sat in the car	assis dans la voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ankaŭ la vestaĵoj	also the clothes	aussi les vêtements	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	~ estis en la aŭto	~ was in the car	~ était dans la voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ankoraŭ sidadis kaj atendis	still sat and waited	je suis toujours assis et j'attends	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ankoraŭ sidadis kaj atendis	still sat and waited	toujours assis et attend	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	sed li atendis	but he waited	mais il a attendu	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kial ni ne ~ ?	why don't we ~ ?	pourquoi pas ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kial ni ne ~ ?	why don't we ~ ?	pourquoi pas nous ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kial ni ne ekveturas?	why don't we start driving?	pourquoi ne commençons-nous pas à conduire ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ankaŭ mi havas ~	I have ~ too	J'ai ~ aussi	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ankaŭ mi havas ~	I have ~ too	J'ai aussi ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	veturigus la aŭton	would drive the car	conduirait la voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	sed mi ne scias ~	but I don't know ~	mais je ne sais pas ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mi neniam lernis tion	I never learned that	Je n'ai jamais appris ça	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	mi kredus ~	I would believe ~	je croirais ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	se mi estus sana	if I were healthy	si j'étais en bonne santé	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	mi estus tre feliĉa	I would be very happy	je serais très content	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	mi estus tre feliĉa	I would be very happy	je serais très heureux	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kvazaŭ vi estus riĉulo	as if you were rich	comme si tu étais riche	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	vi sidas tie kvazaŭ vi estus riĉulo	you sit there as if you were a rich man	tu es assis là comme si tu étais un homme riche	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kvazaŭa lernejo	alleged school	école présumée	Planoj pri Veturado	0    	0000-00-00 00:00:00
@@ -878,7 +878,7 @@ Planoj pri Veturado	mankas io	something is missing	quelque chose manque	Planoj p
 Planoj pri Veturado	mankas kelkaj vortoj	some words are missing	il manque quelques mots	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	homo, kiu longe parolis	a man who spoke at length	un homme qui a longuement parlé	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ĉe la manĝotablo	at the dining table	à la table à manger	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	homo, kiu rakontas, restos malsata	a person who tells will remain hungry	une personne qui dit restera affamée	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	homo, kiu rakontas, restos malsata	a person who tells will remain hungry	une personne qui raconte restera affamée	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	rakontadas ĉe la manĝo tablo	keeps telling at the dining table	n'arrête pas de raconter à table	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	li devis atenti ~	he had to pay attention to ~	il devait faire attention à ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ne rajtis ~	was not allowed to ~	n'était pas autorisé à ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
@@ -891,9 +891,9 @@ Planoj pri Veturado	sed li kredos ĉion	but he will believe everything	mais il c
 Planoj pri Veturado	ĉion, kion vi diros	whatever you say	peu importe ce que tu dis	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	kvazaŭ vi estus lia edzino	as if you were his wife	comme si tu étais sa femme	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	viaj gepatroj	your parents	tes parents	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	ĝojigi viajn gepatrojn	to make your parents happy	pour rendre tes parents heureux	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kio povus ĝojigi ~ ?	what could please ~ ?	qu'est-ce qui pourrait s'il te plaît ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	kio povus plej ĝojigi viajn gepatrojn?	what could make your parents the most happy?	qu'est-ce qui pourrait rendre tes parents le plus heureux ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	ĝojigi viajn gepatrojn	to make your parents happy	rendre tes parents joyeux	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kio povus ĝojigi ~ ?	what could please ~ ?	qu'est-ce qui pourrait rendre joyeux ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	kio povus plej ĝojigi viajn gepatrojn?	what could make your parents the most happy?	qu'est-ce qui pourrait rendre tes parents le plus joyeux ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	post la lernado	after the learning	après l'apprentissage	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	almenaŭ post la lernado	at least after the learning	au moins après l'apprentissage	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	en la urbocentron	into the city center	dans le centre-ville	Planoj pri Veturado	0    	0000-00-00 00:00:00
@@ -902,10 +902,10 @@ Planoj pri Veturado	se vi irus kun mi en la urbocentron	if you would go downtown
 Planoj pri Veturado	kien vi dezirus vojaĝi?	where would you like to travel?	où voudrais-tu voyager?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	se vi havus ~	if you had ~	si tu avais ~	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	sufiĉe da mono	enough money	assez d'argent	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	se vi havus sufiĉe da mono kaj tempo	if you had enough money and temp	si tu avais assez d'argent et d'intérim	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	se vi havus sufiĉe da mono kaj tempo	if you had enough money and temp	si tu avais assez d'argent et du tmeps	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ĉu vi planas ~ ?	are you planning to ~ ?	envisagez-vous de ~ ?	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	planas veturi al Parizo	plans to travel to Paris	envisage de se rendre à Paris	Planoj pri Veturado	0    	0000-00-00 00:00:00
-Planoj pri Veturado	veturi per aŭto	to drive with an axuto	conduire avec un axuto	Planoj pri Veturado	0    	0000-00-00 00:00:00
+Planoj pri Veturado	veturi per aŭto	to drive with an axuto	aller (conduire) en voiture	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	multe pli bone	much better	beaucoup mieux	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	ŝajnas multe pli bone	seems much better	ça a l'air bien mieux	Planoj pri Veturado	0    	0000-00-00 00:00:00
 Planoj pri Veturado	per vagonaro	by train	en train	Planoj pri Veturado	0    	0000-00-00 00:00:00
@@ -920,8 +920,8 @@ Familianoj kunvenas	tagoj pasas	days pass	les jours passent	Familianoj kunvenas	
 Familianoj kunvenas	kiel rapide pasas tagoj!	how quickly the days pass!	comme les jours passent vite !	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	morgaŭ estos ~	tomorrow will be ~	demain sera ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	la naskiĝtago de via patro	your father's birthday	l'anniversaire de ton père	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	kelkaj familianoj	several family members	plusieurs membres de la famille	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	alvenos kelkaj familianoj	several family members will come	plusieurs membres de la famille viendront	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	kelkaj familianoj	several family members	quelques membres de la famille	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	alvenos kelkaj familianoj	several family members will come	quelques membres de la famille viendront	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kaj geamikoj	and friends	et amis	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu vi bonvolus ~ ?	would you please ~ ?	Voudrais-tu s'il te plaît ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu vi bonvolus iom helpi?	could you please help a little?	pourriez-vous s'il vous plaît aider un peu ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -939,69 +939,69 @@ Familianoj kunvenas	en la hejmo	in the home	à la maison	Familianoj kunvenas	0  
 Familianoj kunvenas	necesas havigi ~	it is necessary to procure ~	il faut se procurer ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	iom da manĝaĵo	some food	de la nourriture	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	el vendejo	from a store	d'un magasin	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	havigi iom da manĝaĵo el vendejo	to get some food from a hideout	aller chercher de la nourriture dans une cachette	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	mi aĉetumos	I will do shopping	je ferai des courses	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	havigi iom da manĝaĵo el vendejo	to get some food from a hideout	se procurer un peu de  nourriture d'un magasin	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	mi aĉetumos	I will do shopping	je ferai du shopping	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	por la naskiĝtago	for the birthday	pour l'anniversaire	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	anstataŭ sidi kaj manĝegi	instead of sitting and eating	au lieu de m'asseoir et de manger	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	interesaj homoj	interesting people	Gens intéressants	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	kun neinteresaj familianoj	with uninteresting family members	avec des membres de la famille sans intérêt	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	anstataŭ sidi kaj manĝegi	instead of sitting and eating	au lieu de m'asseoir et de manger beaucoup	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	interesaj homoj	interesting people	des personnes intéressantes	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	kun neinteresaj familianoj	with uninteresting family members	avec des membres de la famille inintéressants	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi ŝatus ekskursi	I would like to go on a picnic	j'aimerais faire un pique-nique	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kun klubanoj	with club members	avec les membres du club	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kun kiuj klubanoj?	with which club members?	avec quels membres du club ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	diris la patro	said the father	dit le père	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ia papero, iaj paperoj	some kind of paper, some kind of papers	une sorte de papier, une sorte de papier	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	en paperujo	in a briefcase	dans une mallette	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	en paperujon	into a paper bin	dans une corbeille à papier	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ĵetis paperojn en paperujon	threw papers into a paper bin	jeté des papiers dans une corbeille à papier	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ĵetis iajn paperojn en paperujon	threw some papers into a paper bin	j'ai jeté des papiers dans une corbeille à papier	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	morgaŭ frue	early tomorrow	tôt demain	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ia papero, iaj paperoj	some kind of paper, some kind of papers	une sorte de papier, une sorte de papiers	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	en paperujo	in a briefcase	dans une caisse à papier	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	en paperujon	into a paper bin	dans une caisse à papier (objectif)	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ĵetis paperojn en paperujon	threw papers into a paper bin	a jeté des papiers dans une corbeille à papier	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ĵetis iajn paperojn en paperujon	threw some papers into a paper bin	a jeté d'autres papiers dans une corbeille à papier	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	morgaŭ frue	early tomorrow	demain tôt	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	anoj de mia sporta klubo	members of my sports club	les membres de mon club de sport	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	kara mia	my dear	Mon cher	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	kara mia	my dear	mon cher, ma chère	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu ĝuste ~ ?	is that right?	Est-ce correct?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	vi devas foresti	you must be absent	tu dois être absent	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu vi ne ~ ?	don't you ~ ?	n'est-ce pas ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	viaj samklubanoj	your fellow club members	les autres membres du club	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	intervidiĝas kun viaj samklubanoj	sees each other with your fellow club members	se voit avec les autres membres du club	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	viaj samklubanoj	your fellow club members	tes camarades du club	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	intervidiĝas kun viaj samklubanoj	sees each other with your fellow club members	se voit avec tes camarades du club	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	trifoje semajne	three times a week	trois fois par semaine	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu mi rajtas ~ ?	may I ~ ?	puis-je ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	rajtas ion proponi	has the right to propose something	a le droit de proposer quelque chose	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi kunmanĝos kun la familianoj	I will eat with the family members	Je mangerai avec les membres de la famille	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	sed en la dua parto	but in the second part	mais dans la deuxième partie	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi foriros kun miaj geamikoj	I will go with my friends	j'irai avec mes amis	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	parolos pri ~	will talk about ~	je vais parler de ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	malsukcesa veturado	a failed drive	un disque en panne	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	certe parolos pri la malsukcesa veturado	will definitely talk about the failed drive	je parlerai certainement du disque défectueux	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	parolos pri ~	will talk about ~	parlera de ~, parlera au sujet de ~,	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	malsukcesa veturado	a failed drive	conduite échouée (ratée)	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	certe parolos pri la malsukcesa veturado	will definitely talk about the failed drive	parlera certainement de la conduite échouée (ratée)	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	post la kuko	after the cake	après le gâteau	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi ne plu volas tion	I don't want that anymore	je ne veux plus de ça	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	volas tion aŭdi	wants to hear that	veut entendre ça	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kial ni ne havas ~ ?	why don't we have ~ ?	pourquoi n'avons-nous pas ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ideoriĉa onklo	an idea-rich uncle	un oncle riche en idées	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	havas iun ideoriĉan onklon	has some idea rich uncle	a une idée oncle riche	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	havas iun ideoriĉan onklon	has some idea rich uncle	a un certain oncle riche en idées	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en mia familio	in my family	dans ma famille	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	la patrino ridetis	the mother smiled	la mère a souri	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	je liaj vortoj	at his words	à ses mots	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ŝi scias, ke ~	she knows that ~	elle le sait ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ŝi scias, ke ~	she knows that ~	elle le sait que ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	iom tro parolas	talks a little too much	parle un peu trop	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ne sufiĉas nur ~	it's not enough just ~	ce n'est pas suffisant ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	riĉeco de la ideoj	wealth of ideas	richesse d'idées	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	necesas ankaŭ ~	~ is also needed	~ est également nécessaire	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	plena monujo por realigi ĝin	a full wallet to make it happen	un portefeuille bien rempli pour y parvenir	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	necesas ankaŭ ~	~ is also needed	c'est aussi nécessaire ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	plena monujo por realigi ĝin	a full wallet to make it happen	un portefeuille bien rempli pour le réaliser	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	la patrino daŭrigis ~	the mother continued ~	la mère a continué ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	post iom da silento	after a little silence	après un petit silence	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	antaŭ kelkaj minutoj	a few minutes ago	il y a quelques minutes	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	Ana telefonis, ke ŝi ~	Ana called that she ~	Ana a appelé ainsi elle ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ankaŭ ŝi vizitos nin	she will also visit us	elle nous rendra également visite	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	Ana telefonis, ke ŝi ~	Ana called that she ~	Ana a appelé qu'elle ~	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ankaŭ ŝi vizitos nin	she will also visit us	elle nous rendra aussi visite	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	dolĉa kuko	a sweet cake	un gâteau sucré	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ŝi tre ŝatas dolĉan kukon	she really likes sweet cake	elle aime vraiment les gâteaux sucrés	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	atentas por ne dikiĝi	is careful not to get fat	fait attention à ne pas grossir	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	kvankam ŝi atentos	although she will pay attention	même si elle fera attention	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	tuj ŝanĝis la opinion	immediately changed the mind	j'ai immédiatement changé d'avis	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	tuj ŝanĝis la opinion	immediately changed the mind	a immédiatement changé d'avis	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	dum la ekskurso	during the excursion	pendant la randonnée	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	sen ŝi	without her	sans elle	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	li estus tre soleca	he would be very lonely	il serait très seul	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	li estus tre soleca	he would be very lonely	il serait très solitaire	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	mi tamen pasigos	I will pass though	je vais quand même passer	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	mi tamen pasigos la morgaŭan tagon hejme	I will spend tomorrow at home though	Mais je passerai demain à la maison	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	en juneco	in youth	chez les jeunes	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	mi tamen pasigos la morgaŭan tagon hejme	I will spend tomorrow at home though	Je passerai quand-même la journée de demain à la maison	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	en juneco	in youth	en jeunesse	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	oni havas	one has	on a	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	havas ankaŭ belecon	also has beauty	a aussi de la beauté	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	malsimplaj laboroj	complicated jobs	travaux compliqués	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -1012,7 +1012,7 @@ Familianoj kunvenas	li jam fariĝis ~	he has already become ~	il est déjà deve
 Familianoj kunvenas	estro de la sporta klubo	head of the sports club	responsable du club sportif	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	monon oni metas	one puts money	on met de l'argent	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	en monujon	into a wallet	dans un portefeuille	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	metas en monujon	puts in a purse	met dans un sac à main	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	metas en monujon	puts in a purse	met dans portefeuille	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	sekvu la ekzemplojn	follow the examples	suivez les exemples	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	de la bonaj familianoj	from the good family members	des bons membres de la famille	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu amikeco pli feliĉigas?	does friendship make you happier?	l'amitié rend-elle plus heureux ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
@@ -1024,11 +1024,11 @@ Familianoj kunvenas	skrivas leterojn al viaj amikinoj	writes letters to your gir
 Familianoj kunvenas	viaj amikinoj en Italio	your girl friends in Italy	tes amies en Italie	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	la rilato inter vi kaj via instruisto	the relation between you and your teacher	la relation entre vous et votre professeur	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ĉu la rilato ŝanĝiĝis?	has the relationship changed?	la relation a-t-elle changé ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	ĉu vi jam scias ~ ?	do you already know ~ ?	tu sais déjà ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	sufiĉe bone	quite well	plutôt bien	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	ĉu vi jam scias ~ ?	do you already know ~ ?	sais-tu déjà ~ ?	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	sufiĉe bone	quite well	assez bien	Familianoj kunvenas	0    	0000-00-00 00:00:00
 La sentimulo	estis vespero en ~	it was evening in ~	c'était le soir à ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	centoj da homoj	hundreds of people	des centaines de personnes	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	plenigas la placon	fills the square	remplit le carré	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	plenigas la placon	fills the square	remplit la place	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	junuloj kaj militistoj	young men and soldiers	jeunes hommes et soldats	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	maristoj de sur la ŝipoj	sailors from the ships	marins des navires	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	elstara sinjorino	outstanding lady	dame exceptionnelle	La sentimulo	0    	0000-00-00 00:00:00
@@ -1039,16 +1039,16 @@ La sentimulo	iom plue	a little further	un peu plus loin	La sentimulo	0    	0000-
 La sentimulo	ne malproksime de la maro	not far from the sea	pas loin de la mer	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	troviĝis malgranda placo	there was a small square	il y avait une petite place	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	iom plue sed ne malproksime	a little further but not far	un peu plus loin mais pas loin	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	fine de ĝi	at the end of it	à la fin	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	fine de ĝi	at the end of it	à sa fin	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	proksime de la maro	near the sea	près de la mer	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	proksime staris homo	a man stood nearby	un homme se tenait à proximité	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	laŭ la vestaĵo	according to the clothing	selon les vêtements	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	oni facile scii ~	one may know easily ~	on peut le savoir facilement ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	oni facile scii ~	one may know easily ~	c'est facile à savoir  ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	oni povis ekscii, ke ~	it was possible to find out that ~	il était possible de découvrir que ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	gondolisto de iu riĉulo	a rich man's gondolier	le gondolier d'un homme riche	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	povis ekscii, ke li estas gondolisto	could find out that he was a gondolier	j'ai pu découvrir qu'il était gondolier	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	li rigardis ~	he looked ~	il avait l'air ~	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	rigardis la ĝojan hommulton	looked at the joyful crowd	j'ai regardé la foule joyeuse	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	povis ekscii, ke li estas gondolisto	could find out that he was a gondolier	a pu découvrir qu'il était gondolier	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	li rigardis ~	he looked ~	il regardait ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	rigardis la ĝojan hommulton	looked at the joyful crowd	a regardé la foule joyeuse	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	rideto lumigis lian vizaĝon	a smile lit up his face	un sourire illumina son visage	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kiam li ekvidis mariston	when he saw a sailor	quand il a vu un marin	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la mariston, kiu alvenis	the sailor who arrived	le marin qui est arrivé	La sentimulo	0    	0000-00-00 00:00:00
@@ -1056,30 +1056,30 @@ La sentimulo	la flanko de la maro	the side of the sea	le côté de la mer	La sen
 La sentimulo	alvenis el la flanko de la maro	arrived from the side of the sea	arrivé du bord de la mer	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ĉu tio estas vi, Stefano?	is that you, Stephen?	c'est toi, Stephen ?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ekkriis la gondolisto	exclaimed the gondolier	s'exclama le gondolier	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ĉiuj diras, ke ~	everyone says that ~	tout le monde dit ça ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ĉiuj diras, ke ~	everyone says that ~	tout le monde a dit que ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	en la manojn de la Turkoj	into the hands of the Turks	entre les mains des Turcs	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ke vi falis en la manojn de la Turkoj	that you fell into the hands of the Turks	que tu es tombé entre les mains des Turcs	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ni renkontis unu	we met one	nous en avons rencontré un	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	el niaj ŝipoj	from our ships	de nos navires	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ĝi sekvis nin	it followed us	il nous a suivi	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ĝi sekvis nin	it followed us	il(ça)  nous a suivi	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	dum pli ol unu horo	for more than an hour	pendant plus d'une heure	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	sed ne estas facile iri ~	but it is not easy to go ~	mais ce n'est pas facile d'y aller ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	sed ne estas facile iri ~	but it is not easy to go ~	mais ce n'est pas facile d'aller ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	iri pli rapide ol nia ŝipo	to go faster than our ship	aller plus vite que notre bateau	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kiaj novaĵoj estas tie ĉi?	what news is here?	quelles nouvelles y a-t-il ici ?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	tie ĉi en Venecio	here in Venice	ici à Venise	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	nenio interesa	nothing interesting	rien d'interessant	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	nur granda malfeliĉo	just a big misfortune	juste un gros malheur	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ĉu vi konas Pietron?	do you know Pietro?	tu connais Pietro ?	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ĉu vi konas Pietron?	do you know Pietro?	connais-tu Pietro ?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	mi konas lin	I know him	je le connais	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	granda ŝipo subakvigis lian gondolon	a large ship submerged his gondola	un grand navire a submergé sa gondole	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	kaj kio pri li?	and what about him?	et lui ?	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	kaj kio pri li?	and what about him?	et qu'en est-il de lui ?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la gondolo subakviĝis	the gondola sank	la gondole a coulé	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	okazis, ke ~	it happened that ~	c'est arrivé ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	okazis, ke ~	it happened that ~	c'est arrivé que ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ni troviĝis proksime	we were close	nous étions proches	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ni prenis lin en nian gondolon	we took him in our gondola	nous l'avons emmené dans notre gondole	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	en la sama tempo	at the same time	en même temps	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	mia estro subakviĝis	my boss drowned	mon patron s'est noyé	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	por helpi junulinon	to help a young woman	aider une jeune femme	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	por helpi junulinon	to help a young woman	pour aider une jeune femme	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	junulinon, kiu preskaŭ mortis	a young woman who almost died	une jeune femme qui a failli mourir	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kun sia onklo	with his uncle	avec son oncle	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	preskaŭ mortis kun sia onklo	almost died with his uncle	a failli mourir avec son oncle	La sentimulo	0    	0000-00-00 00:00:00
@@ -1090,12 +1090,12 @@ La sentimulo	kio alvenigis vin en Venecion?	what brought you to Venice?	Qu'est-c
 La sentimulo	amiko mia	my friend	mon ami	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la maristo ekrigardis	the sailor looked up	le marin a levé les yeux	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	rapide ekrigardis sian amikon	quickly glanced at his friend	jeta rapidement un coup d'œil à son ami	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	kaj komencis diri	and began to say	et j'ai commencé à dire	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	kaj komencis diri	and began to say	et a commencé à dire	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	do vi scias ~	so you know ~	donc tu sais ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	mi alportis ~	I brought ~	J'ai apporté ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la gondolisto subite haltigis lin	the gondolier suddenly stopped him	le gondolier l'arrêta brusquement	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	li diris	he said	il a dit	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	tiam iu homo pasis	then a man passed by	puis un homme est passé par là	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	tiam iu homo pasis	then a man passed by	puis un homme est passé	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	iu homo pasis apud li	a man passed by him	un homme est passé à côté de lui	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	li ankoraŭ ne estis tridekjara	he was not yet thirty	il n'avait pas encore trente ans	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kaj lia vizaĝo estis senkolora	and his face was colorless	et son visage était incolore	La sentimulo	0    	0000-00-00 00:00:00
@@ -1109,19 +1109,19 @@ La sentimulo	sekretaj laboroj	secret jobs	emplois secrets	La sentimulo	0    	000
 La sentimulo	donas sekretajn laborojn al li	gives secret jobs to him	lui donne des emplois secrets	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	tro da sekretoj	too many secrets	trop de secrets	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	li scias tro da sekretoj	he knows too many secrets	il connaît trop de secrets	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	tial ili timas	therefore they are afraid	donc ils ont peur	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	sendi lin en malliberejon	to send him to prison	pour l'envoyer en prison	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	diris la maristo	said the sailor	dit le marin	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	tial ili timas	therefore they are afraid	c'est pourquoi ils ont peur	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	sendi lin en malliberejon	to send him to prison	l'envoyer en prison	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	diris la maristo	said the sailor	a dit le marin	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kaj dum li parolis	and as he spoke	et pendant qu'il parlait	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	li montris la domegon	he pointed to the mansion	il a montré le manoir	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	la domego de Doĝoj	the mansion of Doges	le manoir des Doges	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	li montris la domegon	he pointed to the mansion	il a montré l'immeuble	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	la domego de Doĝoj	the mansion of Doges	l'immeuble des Doges	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	multaj gravuloj bezonas lian helpon	many important people need his help	de nombreuses personnes importantes ont besoin de son aide	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	kiom ili pagas?	how much they pay?	combien ils paient ?	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	kiom ili pagas?	how much they pay?	combien paient-ils ?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	pagas al li	pays him	le paie	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	pagas por unu mortigo	pays for one kill	paie pour un kill	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	pagas por unu mortigo	pays for one kill	paie pour un meurtre	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	certe ne malpli ol ~	certainly not less than ~	certainement pas moins de ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ol cent moneroj	than a hundred coins	qu'une centaine de pièces	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	ne forgesu, ke ~	don't forget that ~	n'oublie pas ça ~	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	ne forgesu, ke ~	don't forget that ~	n'oublie pas que ~	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ke li laboras por tiuj	that he works for them	qu'il travaille pour eux	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	por tiuj, kiuj havas sufiĉe da mono	for those who have enough money	pour ceux qui ont assez d'argent	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	por pagi al li	to pay him	pour le payer	La sentimulo	0    	0000-00-00 00:00:00
@@ -1135,12 +1135,12 @@ La sentimulo	estis iom da silento	there was some silence	il y a eu un peu de sil
 La sentimulo	kaj poste	and later	et ensuite	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la gondolisto denove ekparolis	the gondolier spoke again	le gondolier parla encore	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	vi venis ĝustatempe	you came just in time	tu es arrivé juste à temps	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	por vidi ŝipkuron	to see a boat race	voir une course de bateaux	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	iu diris malforte	someone said weakly	dit quelqu'un faiblement	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	por vidi ŝipkuron	to see a boat race	pour voir une course de bateaux	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	iu diris malforte	someone said weakly	a dit quelqu'un faiblement	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	proksime de la gondolisto	near the gondolier	près du gondolier	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la estro de la urbo	the mayor of the city	le maire de la ville	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	senvorte montris al la gondolo	wordlessly pointed to the gondola	Sans un mot, il montra la gondole	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	diris la gondolisto	said the gondolier	dit le gondolier	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	senvorte montris al la gondolo	wordlessly pointed to the gondola	sans un mot, il montra la gondole	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	diris la gondolisto	said the gondolier	a dit le gondolier	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kaj prenis la manon de sia amiko	and took his friend's hand	et a pris la main de son ami	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ĵetas la paperon	throws the paper	jette le papier	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	en la paperujon	into the paper bin	dans la corbeille à papier	La sentimulo	0    	0000-00-00 00:00:00
@@ -1148,7 +1148,7 @@ La sentimulo	la knabinoj ĵetis la paperojn	the girls threw the papers	les fille
 La sentimulo	kie estas mia skribilo?	where is my pen	où est mon stylo	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	mi volas respondi al li	I want to answer him	je veux lui répondre	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	la suno malaperis	the sun disappeared	le soleil a disparu	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	kaj nun estas preskaŭ malhele	and now it is almost dark	et maintenant il fait presque nuit	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	kaj nun estas preskaŭ malhele	and now it is almost dark	et maintenant il fait presque sombre	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	bonvolu manĝi	please eat	mange s'il te plait	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	bonvolu manĝi la panon	please eat the bread	s'il te plaît, mange le pain	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	per manĝiloj	with cutlery	avec des couverts	La sentimulo	0    	0000-00-00 00:00:00
@@ -1158,9 +1158,9 @@ La sentimulo	mi ne rajtas resti	I have no right to stay	Je n'ai pas le droit de 
 La sentimulo	ĉu vi povas kunporti ~ ?	can you bring ~ ?	peux-tu apporter ~ ?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	de mia fratino	from my sister	de ma soeur	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kiam vi aĉetis ~ ?	when did you buy ~ ?	quand as-tu acheté ~ ?	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	aĉetis tiun muzikilon	bought that musical instrument	j'ai acheté cet instrument de musique	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	aĉetis tiun muzikilon	bought that musical instrument	acheté cet instrument de musique	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	kiu laste uzis ?	who used last?	qui a utilisé en dernier ?	La sentimulo	0    	0000-00-00 00:00:00
-La sentimulo	uzis mian ŝlosilon	used my key	j'ai utilisé ma clé	La sentimulo	0    	0000-00-00 00:00:00
+La sentimulo	uzis mian ŝlosilon	used my key	a utilisé ma clé	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ĉu vi veturis?	did you drive?	as-tu conduit ?	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	en Venecio	in Venice	à Venise	La sentimulo	0    	0000-00-00 00:00:00
 La sentimulo	ankaŭ per gondolo	also by gondola	aussi en gondole	La sentimulo	0    	0000-00-00 00:00:00
@@ -1169,8 +1169,8 @@ La sentimulo	tiam, kiam silentiĝis	then, when there was silence	puis, quand il 
 Nokta Promeno	la sinjoro estis alta	the gentleman was tall	le monsieur était grand	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	alta, dika	tall, fat	grand, gros	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	dika, peza	thick, heavy	épais, lourd	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	peza kaj larĝa	heavy and large	lourd et grand	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	estis alta, dika, peza, kaj larĝa	was tall, thick, heavy, and large	était grand, épais, lourd et grand	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	peza kaj larĝa	heavy and large	lourd et large	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	estis alta, dika, peza, kaj larĝa	was tall, thick, heavy, and large	était grand, épais, lourd et large	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	donis forton	gave strength	a donné de la force	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	havinda forto	a force worth having	une force qui vaut la peine d'être possédée	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	havinda korpoforto	physical strength worth having	une force physique qui vaut la peine d'être acquise	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1187,16 +1187,16 @@ Nokta Promeno	ludis etan rolon	played a small role	a joué un petit rôle	Nokta 
 Nokta Promeno	ludis ne etan rolon	played no small role	n'a pas joué un petit rôle	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en la fakto, ke ~	in the fact that ~	dans le fait que ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la plimulto el la homoj	the majority of the people	la majorité des gens	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	se ne timis	if not afraid	si je n'ai pas peur	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	lin timis	was afraid of him	j'avais peur de lui	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	se lin timis	if he was afraid	s'il avait peur	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	se ne lin timis	if not afraid of him	si je n'ai pas peur de lui	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	se ne timis	if not afraid	si n'avait pas peur	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	lin timis	was afraid of him	avait peur de lui	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	se lin timis	if he was afraid	si avait peur de lui	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	se ne lin timis	if not afraid of him	si n'avait pas peur de lui	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	certe respektis	certainly respected	certainement respecté	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	almenaŭ pripensis ~	at least thought about ~	j'y ai au moins pensé ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	antaŭ ol ~	before ~	avant ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kontentigi lin	to satisfy him	pour le satisfaire	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	malkontentigi lin	to displease him	pour lui déplaire	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	antaŭ ol malkontentigi ~	before dissatisfying ~	avant d'être insatisfait ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	almenaŭ pripensis ~	at least thought about ~	a au moins pensé ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	antaŭ ol ~	before ~	avant  de ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kontentigi lin	to satisfy him	lui satisfaire	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	malkontentigi lin	to displease him	lui déplaire	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	antaŭ ol malkontentigi ~	before dissatisfying ~	avant de déplaire ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	antaŭ ol decidi ~	before deciding ~	avant de décider ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	decidi malkontentigi ~	to decide to displease ~	décider de déplaire ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	decidi kontentigi lin	to decide to satisfy him	décider de le satisfaire	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1209,11 +1209,11 @@ Nokta Promeno	prezentas malplaĉan ĝenon	presents an unpleasant nuisance	prése
 Nokta Promeno	prezentas per si malplaĉan ĝenon	presents itself as an unpleasant nuisance	se présente comme une nuisance désagréable	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en loko arboplena	in a place full of trees	dans un endroit plein d'arbres	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	tiam, kiam oni devojiĝis	then, when one went astray	puis, quand on s'égarait	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	en nehoma sovaĝejo	in an inhuman wilderness	dans un désert inhumain	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	en nehoma sovaĝejo	in an inhuman wilderness	dans une région sauvage	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kaj ekstervoje iraĉas	and goes off the road in chaos	et quitte la route dans le chaos	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	alta larĝa korpo	a tall large body	un grand corps	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ne sukcesis pasi ~	failed to pass ~	n'a pas réussi ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	inter la arbetoj	among the bushes	parmi les buissons	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	alta larĝa korpo	a tall large body	un grand corps large	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ne sukcesis pasi ~	failed to pass ~	n'a pas réussi à passer ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	inter la arbetoj	among the bushes	dans les buissons	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	krome tuŝi la naturaĵojn	in addition to touching the natural things	en plus de toucher les choses naturelles	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĝenerale malsekajn	generally wet	généralement humide	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	meze de malsekaj naturaĵoj	in the middle of wet nature	au milieu d'une nature humide	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1225,12 +1225,12 @@ Nokta Promeno	doloriga kaj ĉiam malagrabla	painful and always unpleasant	doulou
 Nokta Promeno	ju pli ~	the more ~	plus ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	antaŭeniris en la vivo	moved forward in life	avancé dans la vie	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en la kastela arbaro	in the castle forest	dans la forêt du château	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ju pli antaŭeniris des pli malŝatis ~	the further went forward the more disliked ~	plus on avançait, plus on était détesté ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	malŝatis la noktan naturon	disliked the nocturnal nature	je n'ai pas aimé la nature nocturne	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ju pli antaŭeniris des pli malŝatis ~	the further went forward the more disliked ~	plus on avançait, plus on détesté ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	malŝatis la noktan naturon	disliked the nocturnal nature	détesté la nature nocturne	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	viro kun okuloj bone videblaj	a man with eyes that can be seen clearly	un homme avec des yeux qui peuvent être vus clairement	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	okuloj, kiuj kapablis bone vidi	eyes that could see well	des yeux qui voyaient bien	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	bone vidi en la mallumo	to see well in the dark	bien voir dans le noir	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	rigardis la malfacilan iron	looked at the difficult going	j'ai regardé les choses difficiles	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	okuloj, kiuj kapablis bone vidi	eyes that could see well	des yeux qui pouvaient bien voir	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	bone vidi en la mallumo	to see well in the dark	bien voir dans l'obscurité	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	rigardis la malfacilan iron	looked at the difficult going	a regardé la démarche difficile	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	de nia industriisto	from our industrialist	de notre industriel	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	li ridetis	he smiled	il a souri	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	apud tiu viro	next to that man	à côté de cet homme	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1253,49 +1253,49 @@ Nokta Promeno	aĉa situacio, kie arboj ĵetis siajn branĉojn	a nasty situation 
 Nokta Promeno	ĵetis siajn malsekajn branĉojn	threw their own wet branches	jeté leurs propres branches mouillées	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	rekte en la vizaĝojn	straight into the faces	droit dans les visages	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	de la industriisto	of the industrialist	de l'industriel	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	multpiedaj bestetoj	multi-footed small creatures	petites créatures à plusieurs pattes	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	multpiedaj bestetoj	multi-footed small creatures	petites animaux à plusieurs pattes	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	prenis liajn piedojn	took his feet	a pris ses pieds	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	por promenejo	for a walk road	pour une promenade	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	naturo faligis lian piedon	nature made his foot fallen	la nature lui a fait tomber le pied	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	plej dolorige	most painfully	le plus douloureusement	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	faligis lian piedon en kavon	dropped his foot into a pit	a laissé tomber son pied dans une fosse	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	faligis lian piedon en kavon	dropped his foot into a pit	a fait tomber son pied dans une fosse	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kavo plena de akvo	a pit full of water	une fosse pleine d'eau	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	akvo aĉ-odora	foul-smelling water	eau nauséabonde	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	rapide alvenis al la penso	quickly arrived at the thought	je suis vite arrivé à la pensée	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	rapide alvenis al la penso	quickly arrived at the thought	c'était vite arrivé à la pensée	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	oni devas esti preta	one must be ready	il faut être prêt	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉi tie	here	ici	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	iu ajn ~	anyone ~	n'importe qui ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	preta por iu ajn malplaĉa renkonto	ready for any unpleasant encounter	prêt à toute rencontre désagréable	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ion ajn	anything (whatever)	n'importe quoi (peu importe)	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ion ajn	anything (whatever)	n'importe quoi	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	li atendis ion ajn	he was waiting for anything	il attendait n'importe quoi	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	krom homa voĉo	aside human voice	à part la voix humaine	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kiam voĉo aŭdiĝis, ~	when a voice heard, ~	quand une voix entendit, ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	aŭdiĝis tuj proksime	heard immediately close	entendu immédiatement fermer	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kiam voĉo aŭdiĝis, ~	when a voice heard, ~	quand une voix s'est fait entendre, ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	aŭdiĝis tuj proksime	heard immediately close	a été entendu à proximité	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	li faris belan surlokan salton	he made a nice on-site jump	il a fait un joli saut sur place	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kiu movis lian koron	who moved his heart	qui a touché son cœur	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	supren ĝis la buŝo	upword to the mouth	mot à la bouche	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kiu movis lian koron	who moved his heart	qui a bougé son cœur	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	supren ĝis la buŝo	upword to the mouth	à haut jusqu'à la bouche	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kun la provo rekapti trankvilon	with the attempt to recapture calm	avec la tentative de retrouver le calme	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	iom da trankvilo	a little tranquility	un peu de tranquillité	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la lumo de lampeto	the light of a lamp	la lumière d'une lampe	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	oni direktis rekte al liaj okuloj	someone directed directly to his eyes	quelqu'un dirigé directement vers ses yeux	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	la lampo, kiun oni direktis al okuloj	the lamp which someone directed to eyes	la lampe que quelqu'un a dirigée vers les yeux	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	oni direktis rekte al liaj okuloj	someone directed directly to his eyes	on a dirigé directement vers ses yeux	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	la lampo, kiun oni direktis al okuloj	the lamp which someone directed to eyes	la lampe qu'on a dirigée vers les yeux	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	malhelpis repaciĝon	prevented reconciliation	a empêché la réconciliation	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ŝajnis al li, ke ~	it seemed to him that ~	il lui semblait que ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la homformo, kiu tenis la lampon	the human form that held the lamp	la forme humaine qui tenait la lampe	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	surhavas vestojn policajn	wear clothes police	porter des vêtements de police	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	surhavas vestojn policajn	wear clothes police	porte des vêtements de police	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kion vi faras ĉi tie?	what are you doing here?	que faites-vous ici?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	sonas la aŭtorita voĉo	sounds the authoritative voice	sonne la voix autoritaire	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	bonvolu paroli ~	please talk ~	s'il te plaît, parle ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	iom klare	a little clear	un peu clair	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la alia diris	the other said	l'autre a dit	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	eĉ pli grav-tone	in even more important-tone	sur un ton encore plus important	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	mi promenas	I'm walking	je marche	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	eĉ pli grav-tone	in even more important-tone	même dans un ton plus grave	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	mi promenas	I'm walking	je me promène, je marche	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	vi promenas en la bieno	you walk on the farm	tu te promènes à la ferme	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	de la grafino	of the countess	de la comtesse	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la bieno de la grafino	the countess's farm	la ferme de la comtesse	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	meze de la nokto	in the middle of the night	au milieu de la nuit	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉu la grafino vin invitis?	did the countess invite you?	la comtesse vous a-t-elle invitée ?	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ĉu ŝi scias pri ~	does she know about ~	est-ce qu'elle est au courant ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ĉu ŝi scias pri ~	does she know about ~	est-ce qu'elle est au courant de ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	pri via ĉeesto	about your presence	à propos de ta présence	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	via ĉeesto ĉi tie	your presence here	ta présence ici	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	mi devas peti vin ~	I have to ask you ~	Je dois te demander ~	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1304,26 +1304,26 @@ Nokta Promeno	kaj li klarigis ~	and he explained ~	et il a expliqué ~	Nokta Pro
 Nokta Promeno	klarigis, ke ~	explained that ~	expliqué que ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ekde la fuŝa provo	since the wrong attempt	depuis la mauvaise tentative	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la fuŝa provo kapti la grafinon	the wrong attempt to catch the countess	la mauvaise tentative pour attraper la comtesse	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	fare de ~	due to ~	à cause de ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	fare de ~	due to ~	à cause de ~, par ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	fare de teroristoj	due to terrorists	à cause des terroristes	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la polico kontrolas atente	the police checks carefully	la police vérifie soigneusement	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kontrolas, kio okazas	checks what is happening	vérifie ce qui se passe	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	okazas en la ĉirkaŭaĵo	occurs in the surrounding	se produit dans les environs	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	okazas en la ĉirkaŭaĵo	occurs in the surrounding	se passe dans les environs	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	de la kastelo	of the castle	du château	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la ĉirkaŭaĵo de la kastelo	the surrounding of the castle	les abords du château	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	al la industriisto	to the industrialist	à l'industriel	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ŝajnis, ke ~	it seemed that ~	il semblait que ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	lia koro ĉifoje falis	his heart fell this time	son cœur s'est brisé cette fois	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	lia koro ĉifoje falis	his heart fell this time	son cœur est tombé cette fois	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	falis ĝis liaj piedoj	fell to his feet	est tombé sur ses pieds	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	li sciis, ke ~	he knew that ~	il le savait ~	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	nur malfacile li provos trovi ~	just hard he'll try to find	c'est juste qu'il va essayer de trouver	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	li sciis, ke ~	he knew that ~	il savait que ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	nur malfacile li provos trovi ~	just hard he'll try to find	ce n'est qu'avec difficulté qu'il essaiera ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	trovi akcepteblan klarigon	to find an acceptable explanation	trouver une explication acceptable	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	pri sia ĉeesto	about one's own presence	sur sa propre présence	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la ideo, ke la grafino ĉion scias	the idea that the countess knows everything	l'idée que la comtesse sait tout	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	la ideo perdigis al li malmulton da espero	the idea deprived him of little hope	l'idée l'a privé de peu d'espoir	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	la ideo perdigis al li malmulton da espero	the idea deprived him of little hope	l'idée lui a fait perdre un peu d'espoir	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	malmulto da espero	little hope	peu d'espoir	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	malmulta espero, kiu restis	little hope that remained	peu d'espoir qui restait	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	post la unuaj vortoj de la policano	after the first words of the police	après les premiers mots de la police	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	post la unuaj vortoj de la policano	after the first words of the police	après les premiers mots du  policier	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli ~ des pli ~	the more ~ the more ~	plus ~ plus ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ju pli longe des pli bone	the longer the better	plus c'est long, mieux c'est	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kiom ajn	no matter how much	peu importe combien	Nokta Promeno	0    	0000-00-00 00:00:00
@@ -1336,18 +1336,18 @@ Nokta Promeno	ni devus revidi vin	we should see you again	nous devrions te revoi
 Nokta Promeno	ju pli ofte	the more often	plus souvent	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	mi pripensas	I'm thinking	je pense	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	des pli mi koleras	the more angry I am	plus je suis en colère	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ŝi loĝas en ~	she lives in ~	elle vit à ~	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ŝi loĝas en ~	she lives in ~	elle vit dans ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	en iu ajn domo	in any house	dans n'importe quelle maison	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉu ni revidos nin?	will we see each other again?	allons-nous nous revoir ?	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kie ajn kaj kiam ajn	wherever and whenever	où et quand	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kiam mi rericevos ~ ?	when will I get back ~ ?	quand vais-je revenir ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kie ajn kaj kiam ajn	wherever and whenever	n'importe où et n'importe quand	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kiam mi rericevos ~ ?	when will I get back ~ ?	quand aurais-je de retour  ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	la alian duonon de la libroj	the other half of the books	l'autre moitié des livres	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉu vi bezonos ~ ?	will you need ~ ?	aurez-vous besoin de ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	bezonas pli ol kvaronan jaron	needs more than a quarter of a year	a besoin de plus d'un quart d'année	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	por tiuj laboroj	for those jobs	pour ces emplois	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	kial estas ~ ?	why is ~ ?	pourquoi ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	por tiuj laboroj	for those jobs	pour ces travaux	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	kial estas ~ ?	why is ~ ?	pourquoi  est-ce ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	des pli malvarma	the colder	plus il fait froid	Nokta Promeno	0    	0000-00-00 00:00:00
-Nokta Promeno	ju pli longe	the longer	le plus long	Nokta Promeno	0    	0000-00-00 00:00:00
+Nokta Promeno	ju pli longe	the longer	plus longtemps	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ni atendas ~	we are waiting ~	nous attendons ~	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	ĉu vi kontentas kun ~ ?	are you satisfied with ~ ?	êtes-vous satisfait de ~ ?	Nokta Promeno	0    	0000-00-00 00:00:00
 Nokta Promeno	kun iu ajn viro	with any man	avec n'importe quel homme	Nokta Promeno	0    	0000-00-00 00:00:00
