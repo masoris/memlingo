@@ -17,7 +17,7 @@ Saluton	vi fartas	당신은 지낸다	you are doing ~	Saluton	9    	2024-05-03 1
 Saluton	kiel	어떻게	how	Saluton	9    	2024-05-03 16:22:00
 Saluton	kiel vi fartas?	당신은 어떻게 지내세요?	how are you doing?	Saluton	9    	2024-05-03 16:23:00
 Saluton	kio	무엇	what	Saluton	9    	2024-05-03 16:24:00
-Saluton	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	Saluton	7    	2024-04-13 16:17:07
+Saluton	kio estas via nomo?	당신의 이름은 무엇입니까?	what is your name?	Saluton	8    	2024-10-06 16:56:26
 Saluton	bona, bone	좋은 (형용사), 잘 (부사)	good, well	Saluton	9    	2024-05-03 16:26:00
 Saluton	fartas bone	잘 지낸다 (지내고 있다)	is doing well	Saluton	9    	2024-05-03 16:27:00
 Saluton	mi fartas bone	나는 잘 지냅니다	I am doing well	Saluton	9    	2024-05-03 16:28:00
@@ -68,7 +68,7 @@ Bonan nokton	vi tre bone fartas	당신은 매우 잘 지냅니다	you are doing 
 Bonan nokton	ne tre bone	썩 좋지는 않게	not very well	Bonan nokton	9    	2024-05-09 16:29:00
 Bonan nokton	lerni ~, lerno	~를 배우다, 배우기	to learn, a learning	Bonan nokton	9    	2024-05-09 16:30:00
 Bonan nokton	vidanta, vidanto	(현재진행) 보고 있는, 보고 있는 사람	is looking, a spectator	Bonan nokton	9    	2024-05-09 16:31:00
-Bonan nokton	lernanta, lernanto	배우고 있는, 배우고 있는 사람 (학생)	is learning, a student (a learning person)	Bonan nokton	5    	2024-04-09 16:18:38
+Bonan nokton	lernanta, lernanto	배우고 있는, 배우고 있는 사람 (학생)	is learning, a student (a learning person)	Bonan nokton	6    	2024-04-29 16:55:34
 Bonan nokton	-anta, -anto	(현재진행) ~하고 있는, ~하는 사람	is -ing, a person who is doing	Bonan nokton	9    	2024-05-09 16:33:00
 Bonan nokton	lernanto, lerninto	배우고 있는 사람 (학생), 배웠던 사람	a student, a person who has learned	Bonan nokton	9    	2024-05-09 16:34:00
 Bonan nokton	mi estas lernanto	나는 학생이다	I am a student.	Bonan nokton	9    	2024-05-09 16:35:00
@@ -85,9 +85,9 @@ Bonan nokton	sportisto nun sportas	운동선수는 지금 운동을 하고 있�
 Bonan nokton	li estas lernanto	그는 배우는 사람이다	he is a student	Bonan nokton	9    	2024-05-11 16:27:00
 Bonan nokton	estas lernanto kaj sportisto	배우는 사람이고 스포츠맨이다	he is a student and a sportman	Bonan nokton	9    	2026-03-20 16:22:14
 Bonan nokton	li nun sidas	그는 지금 앉아있다	he is now sitting	Bonan nokton	9    	2024-05-11 16:36:00
-Bonan nokton	kaj nun lernas	그리고 지금 배우고있다	and is now learning	Bonan nokton	9    	2024-05-11 16:37:00
+Bonan nokton	kaj nun lernas	그리고 지금 배우고있다	and is now learning	Bonan nokton	5    	2024-04-19 16:59:35
 Bonan nokton	sidas kaj lernas	앉아서 배우고 있다	is sitting and is learning	Bonan nokton	9    	2024-05-11 16:38:00
-Bonan nokton	nun en ĉambro	지금 방안에서	now in a room	Bonan nokton	9    	2024-05-11 16:39:00
+Bonan nokton	nun en ĉambro	지금 방안에서	now in a room	Bonan nokton	5    	2024-04-19 16:59:36
 Bonan nokton	estas sur tablo	탁자 위에 있다	is on a table	Bonan nokton	9    	2024-05-12 16:18:00
 Bonan nokton	papero kaj paperoj	종이와 종이들	a paper and papers	Bonan nokton	9    	2024-05-12 16:19:00
 Bonan nokton	tablo kaj tabloj	탁자와 탁자들	a table and tables	Bonan nokton	9    	2024-05-12 16:20:00
@@ -103,16 +103,16 @@ Amiko	patro kaj patrino	아버지와 어머니	a father and a mother	Amiko	9    
 Amiko	la patro kaj la patrino	그 아버지와 그 어머니	the father and the mother	Amiko	9    	2024-05-13 16:33:00
 Amiko	la patrino de mia amiko	내 친구의 그 어머니	the mother of my friend	Amiko	9    	2024-05-13 16:34:00
 Amiko	en la ĉambro	그 방안에	in the room	Amiko	9    	2024-05-13 16:35:00
-Amiko	ne estas en la ĉambro	그 방안에 없다	is not in the room	Amiko	9    	2024-05-13 16:36:00
+Amiko	ne estas en la ĉambro	그 방안에 없다	is not in the room	Amiko	5    	2024-04-19 16:59:35
 Amiko	ili nun laboras	그들은 지금 일하고 있다	they are now working	Amiko	9    	2024-05-13 16:37:00
 Amiko	lia patro estas laboristo	그의 아버지는 노동자이다	his father is a worker	Amiko	9    	2024-05-14 16:27:00
 Amiko	li laboras en hotelo	그는 호텔에서 일한다	he works in a hotel	Amiko	9    	2024-05-14 16:28:00
 Amiko	la patrino instruas	그 어머니는 가르친다	the mother teaches	Amiko	9    	2024-05-14 16:29:00
 Amiko	ŝi estas instruistino	그녀는 여선생님이다	she is a teacher	Amiko	9    	2024-05-14 16:30:00
-Amiko	ĉu ŝi estas patrino?	그녀는 어머니인가?	is she a mother?	Amiko	9    	2024-05-14 16:31:00
+Amiko	ĉu ŝi estas patrino?	그녀는 어머니인가?	is she a mother?	Amiko	5    	2024-04-19 16:56:18
 Amiko	ne, ŝi estas hotelisto	아니오, 그녀는 호텔직원입니다	no, she is an hotelier	Amiko	9    	2024-05-14 16:32:00
 Amiko	ne, mi ne laboras	아니오, 저는 일하지 않습니다	no, I don't work	Amiko	9    	2024-05-14 16:33:00
-Amiko	kio estas ŝia nomo?	그녀의 이름은 무엇인가요?	what is her name?	Amiko	5    	2024-02-23 16:17:05
+Amiko	kio estas ŝia nomo?	그녀의 이름은 무엇인가요?	what is her name?	Amiko	6    	2024-04-29 16:55:38
 Amiko	kiu nun respondas?	누가 지금 대답하고 있습니까?	who is now answering?	Amiko	10   	2025-12-18 16:41:46
 Amiko	la lingvo de ilia patrino	그들 어머니의 그 언어	the language of their mother	Amiko	10   	2025-12-18 16:41:55
 Amiko	ĉu via nomo estas ~ ?	당신의 이름이 ~ 입니까?	is your name ~ ?	Amiko	10   	2025-12-18 16:42:08
@@ -128,14 +128,14 @@ Amiko	ĉu vi estas en la ĉambro?	너는 그 방에 있는가?	are you in the ro
 Amiko	mi ne estas ~	나는 ~이지 않다	I'm not ~	Amiko	9    	2026-02-02 16:17:37
 Amiko	esperantisto kaj esperantistino	에스페란티스토와 여성에스페란티스토	an Esperantist and a female Esperantist	Amiko	11   	2026-02-02 16:18:11
 Amiko	enskribis por la hotelĉambro	그 호텔방을 위해 예약했다	checked in for the hotel room	Amiko	10   	2026-02-02 16:17:52
-Amiko	lingvisto kaj laboristino	언어학자와 여성 노동자	a linguist and a female worker	Amiko	5    	2024-02-23 16:17:40
-Amiko	lia amikino estas ~	그의 여자친구는 ~이다	his girl friend is ~	Amiko	9    	2026-02-02 16:18:04
-Amiko	lernantoj kaj sportistoj	학생들과 운동선수들	students and sportsmen	Amiko	6    	2024-03-04 16:18:25
-Amiko	mia familia nomo estas ~	내 성(가족명)은 ~ 이다	my familia name is ~	Amiko	8    	2023-11-19 16:15:00
-Amiko	kiu estas ŝi?	그녀는 누구인가?	who is she? which is she?	Amiko	8    	2023-11-19 16:18:00
-Amiko	estas via amikino	너의 여자친구이다	is your girl friend	Amiko	8    	2023-11-19 16:19:00
-Amiko	ĉu via amiko estas ~ ?	너의 친구는 ~ 인가?	is your friend ~ ?	Amiko	8    	2023-11-20 16:24:00
-Amiko	skribas nun en la ĉambro	그 방안에서 지금 쓰고 있다	is writing now in the room	Amiko	8    	2023-11-20 16:25:00
+Amiko	lingvisto kaj laboristino	언어학자와 여성 노동자	a linguist and a female worker	Amiko	7    	2024-06-08 16:55:47
+Amiko	lia amikino estas ~	그의 여자친구는 ~이다	his girl friend is ~	Amiko	10   	2026-03-30 16:56:03
+Amiko	lernantoj kaj sportistoj	학생들과 운동선수들	students and sportsmen	Amiko	8    	2024-10-06 16:55:53
+Amiko	mia familia nomo estas ~	내 성(가족명)은 ~ 이다	my familia name is ~	Amiko	10   	2026-03-30 16:56:16
+Amiko	kiu estas ŝi?	그녀는 누구인가?	who is she? which is she?	Amiko	10   	2026-03-30 16:56:20
+Amiko	estas via amikino	너의 여자친구이다	is your girl friend	Amiko	10   	2026-03-30 16:56:43
+Amiko	ĉu via amiko estas ~ ?	너의 친구는 ~ 인가?	is your friend ~ ?	Amiko	9    	2026-03-30 16:59:31
+Amiko	skribas nun en la ĉambro	그 방안에서 지금 쓰고 있다	is writing now in the room	Amiko	10   	2026-03-30 16:59:41
 Amiko	ĉu la amiko de via patro ~ ?	너의 아버지의 그 친구는 ~ ?	is the friend of you father ~ ?	Amiko	8    	2023-11-20 16:26:00
 Amiko	laboras en hotelo	호텔에서 일한다	works in a hotel	Amiko	8    	2023-11-21 16:27:00
 Amiko	kio estas sur la tablo?	그 테이블 위에 무엇이 있는가?	what is on the table?	Amiko	8    	2023-11-21 16:36:00
@@ -309,7 +309,7 @@ Miaj Leteroj	antaŭ aŭ post?	이전의 혹은 그 후의?	before or after?	Miaj
 Miaj Leteroj	tie malantaŭ la pordo	그곳에, 그 문 뒤에 (그 문뒤 그곳에)	there behind the door	Miaj Leteroj	8    	2023-12-16 16:08:00
 Miaj Leteroj	aliaj, aliaj homoj	다른 (복수형), 다른 사람들	others, other people	Miaj Leteroj	8    	2023-12-16 16:09:00
 Miaj Leteroj	leteroj de aliaj	다른 사람들의 편지들	letters from others	Miaj Leteroj	8    	2023-12-17 16:07:00
-Miaj Leteroj	falis el la mano	손에서 떨어졌다	fell out of the hand	Miaj Leteroj	8    	2023-12-17 16:16:00
+Miaj Leteroj	falis el la mano	손에서 떨어졌다	fell out of the hand	Miaj Leteroj	9    	2026-03-30 16:55:59
 Miaj Leteroj	sur la tablo, sur la tablon	그 탁자 위에, 그 탁자 위로	on the table, onto the table	Miaj Leteroj	8    	2023-12-17 16:17:00
 Miaj Leteroj	ĝi falis sur la tablon	그것은 테이블위로 떨어졌다	it fell on the table	Miaj Leteroj	8    	2023-12-17 16:18:00
 Miaj Leteroj	petis pardonon	용서를 빌었다	asked for pardon	Miaj Leteroj	8    	2023-12-17 16:19:00
@@ -355,7 +355,7 @@ Nova Aŭto	sia korpo, sia propra posedo	자신의 신체, 자기 자신의 소�
 Nova Aŭto	sur la tablo, la kato dormis	테이블 위에서, 그 고양이는 잤다	on the table, the cat slept	Nova Aŭto	8    	2023-12-24 16:12:00
 Nova Aŭto	la kato saltis sur la tablon	그 고양이는 그 테이블위로 뛰어들었다	the cat jumped onto the table	Nova Aŭto	8    	2023-12-24 16:22:00
 Nova Aŭto	en la halo, en la halon	그 홀 안에서, 그 홀 안으로	in the hall, into the hall	Nova Aŭto	8    	2023-12-24 16:23:00
-Nova Aŭto	enfalis en lian manon	그의 손 안으로 떨어졌다	fell into his hand	Nova Aŭto	8    	2023-12-24 16:24:00
+Nova Aŭto	enfalis en lian manon	그의 손 안으로 떨어졌다	fell into his hand	Nova Aŭto	9    	2026-03-30 16:56:14
 Nova Aŭto	labori, ellabori	일하다, 공을 들여 일하다	to work, to elaborate	Nova Aŭto	8    	2023-12-24 16:25:00
 Nova Aŭto	ellabori por tiu libro	그 책에 정성을 들여 끝까지 만들다	to elaborate for that book	Nova Aŭto	8    	2023-12-24 16:33:00
 Nova Aŭto	scias, scivolas, scivolo	안다, 알고싶어 한다, 호기심	knows, wants to know, curiosity	Nova Aŭto	8    	2023-12-24 16:34:00
@@ -364,7 +364,7 @@ Nova Aŭto	scivolas pri trilingva lernanto	3개언어 학생에 대해서 궁금
 Nova Aŭto	iris, reiris	갔다, 되돌아 갔다	went, returned	Nova Aŭto	8    	2023-12-25 16:23:00
 Nova Aŭto	la katoj reiris al siaj domoj	그 고양이들은 자신들의 집으로 되돌아갔다	the cats returned to their (own) homes	Nova Aŭto	8    	2023-12-25 16:34:00
 Nova Aŭto	en la sako, en la sakon	가방안에, 가방안으로	in the bag, into the bag	Nova Aŭto	8    	2023-12-25 16:35:00
-Nova Aŭto	enmetu ĝin en vian sakon	그것을 너의 가방 안에 넣어둬	put it into your bag	Nova Aŭto	8    	2023-12-25 16:36:00
+Nova Aŭto	enmetu ĝin en vian sakon	그것을 너의 가방 안에 넣어둬	put it into your bag	Nova Aŭto	9    	2026-03-30 16:56:41
 Nova Aŭto	piedo, piediras, piediranto	발, 걸어간다, 보행자	a foot, walks, a pedestrian	Nova Aŭto	8    	2023-12-25 16:37:00
 Nova Aŭto	dek-tage ili piediris	10일간 그들은 걸었다	for ten days, they walked	Nova Aŭto	8    	2023-12-26 16:10:00
 Nova Aŭto	preni, elpreni	취하다, ~로 부터 선택하여 취하다	to take, to take out	Nova Aŭto	8    	2023-12-26 16:11:00
@@ -994,7 +994,7 @@ Familianoj kunvenas	ankaŭ ŝi vizitos nin	그녀도 우리를 방문할 것이�
 Familianoj kunvenas	dolĉa kuko	달콤한 과자	a sweet cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	ŝi tre ŝatas dolĉan kukon	그녀는 달콤한 과자를 매우 좋아한다	she really likes sweet cake	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	atentas por ne dikiĝi	살찌지 않기위해 주의한다	is careful not to get fat	Familianoj kunvenas	0    	0000-00-00 00:00:00
-Familianoj kunvenas	kvankam ŝi atentos	그녀가 주의할 것임에도 불구하고	although she will pay attention	Familianoj kunvenas	0    	0000-00-00 00:00:00
+Familianoj kunvenas	kvankam ŝi atentos	그녀가 주의할 것임에도 불구하고	although she will pay attention	Familianoj kunvenas	1    	2024-04-09 16:58:31
 Familianoj kunvenas	tuj ŝanĝis la opinion	즉시 그 의견을 바꿨다	immediately changed the mind	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	dum la ekskurso	그 소풍 동안	during the excursion	Familianoj kunvenas	0    	0000-00-00 00:00:00
 Familianoj kunvenas	sen ŝi	그녀 없이	without her	Familianoj kunvenas	0    	0000-00-00 00:00:00

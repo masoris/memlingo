@@ -1,0 +1,1354 @@
+level	mi, vi	аз, ти	I, you	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(настояще) е, съм, са (минало) беше, бяха	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	аз съм ~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	ти си ~	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	Здравейте	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	здравей, аз съм ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	моя, твоя	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	име	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	моето име, твоето име	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	моето име е ~	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	твоето име е ~	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(настояще) прави, (минало) направи	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(настояще) беше, бяха (бъдеще) ще бъде	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	име, (обективно) име	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	моя любов	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	вие правите ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	как	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	как си?	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	Какво	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	Как се казваш?	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	добре, добре	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	се справя добре	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	добре съм	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	и	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	добре, а ти?	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	докато ~	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(настояще) вижда, (минало) видях	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(минало) видях, (минало) видях отново	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	видях отново, ще видя отново	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	виждам-отново, виждам-отново (обективно)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	ще се видим отново!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	Благодаря ти	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	благодаря и до нови срещи!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	към ~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	на теб, на мен	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(настояще) благодаря, (минало) благодаря	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	Оценявам те	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	да не	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	да, благодаря ти	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	яде, ще яде	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	аз не ям	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	не, не ям	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	красиво, красиво	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	струва си (край)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	оценено, струва си да благодарим	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	цяло, като цяло	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	всички, (обективни) всички	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	съвсем не, няма за какво	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	напълно не	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	да прощавам, прощаващ	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	прошка за мен	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	Съжалявам! (Извинете)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	Съжалявам, моля	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	добро утро	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	добро утро	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	лека нощ	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	Сладки сънища	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	(имам) добро пътуване, за вас	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	добър ден!	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	дали е ~?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	Добре ли си? (Как си?)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	да добре съм	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	нищо подобно	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	много, твърде много	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	голям, до голяма степен	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	много добър, твърде голям	very good, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	много добре се справяш	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	не много добре	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	да уча, учение	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	гледа, зрител	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	учи се, ученик (учещ човек)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	е -ing, човек, който прави	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	ученик, човек, който се е научил	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	Аз съм ученик.	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~ ми е приятел	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	той Тя	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	да седи, седи	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	седи, седеше, ще седи	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	той седи, а тя учи	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	стая	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	учи в стая	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	ученик и спортист	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	спорт и спортист	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	спортистът спортува	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	той е студент	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	той е студент и спортист	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	сега той седи	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	и сега се учи	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	седи и се учи	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	сега в стая	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	е на маса	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	хартия и документи	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	маса и маси	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	книга и книги	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	вестниците и книгите	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	е на маса.	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	пише на маса за писане	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	книгите са ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	на масата	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	учебник и учебниците	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	на масата има ~	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	баща и майка	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	бащата и майката	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	майката на моя приятел	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	в стаята	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	не е в стаята	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	сега работят	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	баща му е работник	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	той работи в хотел	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	майката учи	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	тя е учителка	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	майка ли е	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	не, тя е хотелиер	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	не, не работя	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	какво е нейното име?	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	кой отговаря сега?	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	езика на майка си	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	твоето име е ~?	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	седим и отговаряме	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	нейния работен стол	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	името му не е ~	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	нейният език е техният език	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	нашите баща и майка	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	вашият ученик, вашите ученици	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	твои ученици ли са?	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	студент ли си?	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	в стаята ли си	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	Аз не съм ~	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	есперантист и есперантистка	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	се регистрира за хотелската стая	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	лингвист и работничка	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	приятелката му е ~	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	студенти и спортисти	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	моето фамилно име е ~	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	коя е тя? коя е тя	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	е твоя приятелка	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	твой приятел ли е ~?	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	сега пише в стаята	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	е приятелят на баща ти ~?	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	работи в хотел	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	какво има на масата?	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	на масата в нашата стая	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	е учебникът по есперанто ~ ?	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	е на вашата маса	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	има приятел	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	нейното име е ~	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	млад и красив	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	е млада и красива	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	млади и красиви приятели	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	са приятели мъж и жена	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	дом на нейния учител	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	дойде в дома	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	домът на ~	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	Моля влезте	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	Здравей какво правиш?	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	какво правиш? какво правиш?	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	но сега искам ~	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	искам да говоря	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	с трима приятели мъж и жена	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	говорих с теб	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	иска да говори с теб	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	имаш ли приятели мъже и жени	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	той има книга	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	има добра книга	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	да, имам	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	те го харесват	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	тя прочете книга	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	обича да чете книги	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	само добра книга	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	много добри книги	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	чети само хубави книги	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	обича да чете хубави книги	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	искаш ли да четеш	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	младежът пи кафе	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	иска да пие вода	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	баща и майка; родители	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	досадник и сестра, братя и сестри	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	вашите родители и братя и сестри	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	е във вашия дом	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	ето го кафето	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	още не е пил	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	още е топъл	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	сготви го вчера	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	Сега сготвих	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	Благодаря ти. така каза той.	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	може да пие и яде	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	пи студено кафе	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	още топло кафе	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	пие и студено кафе	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	може да пие и студено кафе	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	гледа окото й	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	най-красивото око	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	красивите очи	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	погледна красивите очи	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	красивите й очи	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	вижда и разбира	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	Виждам, че ~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	че той я обича	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	тя чувства, че той я обича	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	пита дали това е голямо	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	за един лесен въпрос	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	каза за нови пари	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	много красиви очи	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	погледна големия брат	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	една малка сестра го забрави	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	винителен падеж (обект)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	не забравяйте винителния падеж	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	с кого се виждаш кой виждаш?	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	Виждам приятел	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	има добри приятели мъже и жени	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	те работят за старата къща	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	работи, работи, ще работи	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	вижда, че ям	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	каза, че ще отиде	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	грозно и лошо	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	Какво каза тя?	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	какво чакаш?	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	влезе в стаята	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	съдържанието е много трудно	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	пристигна на срещата	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	добре дошли на срещата	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	един старец даде бакшиш	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	пристигна и беше добре дошъл	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	мразят, но си сътрудничат	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	отиде до хотела	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	има лесни учебници	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	как беше майка ти?	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	вашия стар дом	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	кои книги прочете?	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	добри ли бяха	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	какво направи вчера?	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	в малката стая	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	говори много дълго	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	пред училището, преди училището	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	говори пред училището	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	по-късно говори за книгата	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	с удоволствие отиде в училището	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	през улицата	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	мина през улицата	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	беше топъл ден	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	те видяха кафене	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	видях червени бисквитки	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	видя бисквитки в него	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	видях кафене“ и в него бисквитки	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	влез и яж!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	нека влезем да ядем	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	има достатъчно пари	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	имате ли достатъчно пари?	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	разбираш ли?	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	разбира се!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	това не е достатъчно	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	сто долара са достатъчни	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	долар, долари, долари (цел в множествено число)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	има сто долара	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	разбира се, че имам	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	о! ти си богат!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	вода, сервитьорка	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	сервитьор носи меню	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	донесе това при нас, донесе това	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	сервитьор донесе много бисквити	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	ядоха малко (малко)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	след ядене (хранене)	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	нов, пак	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	сервитьорът дойде отново	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	на някое място	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	беше търсил някъде	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	търсен на друго място	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	лицето му беше радостно	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	тя беше тъжна	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	накрая и най-накрая	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	силният ти глас	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	със слаб глас	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	няма пари	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	какво стана там	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	по-късно се случи инцидент	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	знаеш ли кога се случи	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	знае за въпроса	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	все още едно нещо остава	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	вие или тя, всеки човек	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	като певец, като подписвач	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	пееше като професионален певец	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	на мястото, където е живяла	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	откъде знаеш за колата?	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	добре, вижте бързата кола	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	сок без захар	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	той има бърза кола	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	твърде силно	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	той отвори твърде силно	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	карах (пътувах) твърде бързо	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	яде с лъжица	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	силно се съмняваме	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	истинско писмо от него	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	любовно писмо с пет снимки	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	върнали се, хората, които се върнаха	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	също шест върнати писма	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	искаше да види снимката	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	се върна от училище	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	кога ще се върне сестрата?	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	исках да прочета отново	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	направи (направи), стана	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	бързо стана червен	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	в стая, в стая	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	стоеше и седеше	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	там стоеше пред снимката	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	Имам това	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	какво имаш в ръката си?	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	отпред или отзад?	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	преди или след?	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	там зад вратата	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	други, други хора	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	писма от др	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	падна от ръката	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	на масата, на масата	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	падна на масата	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	поиска помилване	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	търсеше пет книги	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	съжалявам, търсих книгата си.	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	но ти знаеш добре	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	не е на масата ми	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	вашите книги не са на масата ми	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	отново даде, върна	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	върнете ми писмото	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	получиха добър урок	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	допълнително измити, яде повече	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	вече няма да чете	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	И аз получих	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	трябва да затвори	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	Трябва да затворя добре	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	затвори плътно вратата	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	спокойно, спокойно	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	чу, но не се вслуша	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	чу спокоен звук	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	при мен има 4 джоба	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	десет дни след последния урок	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	между двете маси	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	три писма, шест листа	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	от глава до пети	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	четири, четвърти, квартет, четвърт	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	къде отиде триото	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	пет пръста на двете ръце	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	сам, собствения си джоб	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	слагам, сглобявам, съединение	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	сложи в собствения си джоб	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	двеста нации в света	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	взех, отнесох	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	взе седем от собствените си девет книги	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	да напусна, изоставен	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	остави ме сам и спокоен	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	хиляда осемстотин осемдесет и седем (1887)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	чаша чай	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	някой изми осем чаши	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	две хиляди и деветнадесета (2019)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	той се изми	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	нечие тяло, нечие собствено притежание	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	на масата котката спеше	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	котката скочи на масата	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	в залата, в залата	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	падна в ръката му	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	да работим, да разработваме	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	да разработи за тази книга	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	знае, иска да знае, любопитство	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	двуезичен, двуезичие	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	чуди се за триезичен обучаем	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	отиде, върна се	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	котките се върнаха в (собствените) си домове	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	в чантата, в чантата	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	сложи го в чантата си	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	крак, разходки, пешеходец	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	десет дни вървяха	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	да взема, да извадя	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	красиви цветя, взех красиви цветя	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	извади само красиви цветя	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	отвориха, но веднага затвориха	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	откри международна среща	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	публикувани и разпространени	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	издателят публикува двадесет и три книги	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	се върна и отново видя собствения си син	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	през две хиляди двадесет и трета година (2023 г.)	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	един господин влезе (в) магазина	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	магазинът за автомобили	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	там той вижда една дама	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	Уважаеми дами и господа	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	това ме зарадва (харесва ми)	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	дамата му хареса (той хареса дамата)	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	видя красивата дама	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	кой го зарадва? (кой хареса?)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	жената, която ми хареса	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	този, който влезе в къщата	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	човекът, който го е дарил	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	той даде пръстен на жена си	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	тя хареса пръстена	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	съпругата, която хареса пръстена	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	в магазина работи продавач	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	продавач на автомобили	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	– попитал господинът продавача	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	коя кола харесваш	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	коя кола ще избереш	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	Избрах тази кола	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	по-добре е	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	по-добре от това	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	най-добрият от тях	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	е най-добрият	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	коя кола е най-добрата?	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	тази кола е по-добра	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	този е най-добрият	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	видя всички коли	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	най-доброто от всички	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	бързо ли е	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	по-бързо от другите	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	също е силен	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	о, да, разбира се!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	е много силен	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	със сигурност е силно	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	също е скъпо	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	най-скъпият от всички	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	евтино, но силно	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	съжалява и е жалък (заслужава си да съжаляваш)	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	за съжаление няма да купя	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	е жалко нещо	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	той си купи нова кола	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	защото нямам пари	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	старата ми кола	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	най-евтиният от всички	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	Аз ще карам до там	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	пак ще кара с него	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	цял ден	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	докато той каза това	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	той я погледна отново	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	но продавачът каза	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	би било по-добре, че ~	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	вижте тази дама	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	това също е много скъпо	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	Аз съм нейният съпруг	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	колко струва пътуването ти?	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	слушай песента на жена си	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	не забравяйте, че струва много	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	два часа помагаше на продавача	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	за повече от три години	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	покривам, покривам, разкривам (откривам)	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	причината, която той все още не е открил	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	защо започна да изпращаш писма?	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	в продължение на осем месеца той живее там	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	нямаше време да слуша	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	колата вече беше пълна	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	какво ядеш	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	какво е времето?	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	каква кола имаш	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	какви бяха нейните писма?	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	къде се намираме?	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	къде отиваш?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	на кого го даде?	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	мъжът, с когото сте пътували	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	по-голям от колата	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	най-високият от тези хора	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	той седеше на вечеря	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	тя пише, докато той чете	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	тук, в тази стая	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	този господин	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	новина, която си струва да се чуе	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	книгата наистина си заслужава да бъде прочетена	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	жалко нещо	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	за съжаление не мога	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	Вие сте добре дошъл. за мен беше удоволствие	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	малко хубаво момиче е много красиво	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	всички приятели я обичат	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	преди три месеца	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	нещо лошо й се случи	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	тя падна заради кола	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	се разболя и температурата се повиши	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	майка каза, че трябва да си почине	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	тя трябва да остане вкъщи	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	тя ще повика лекар	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	в девет часа	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	сутринта дойде в осем часа	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	в седем утре вечер	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	показа ръцете си	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	рокля, облича се	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	облечете се и стоплете тялото си	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	у дома веднага се съблече и изкъпа	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	лекар прегледа всичко	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	погледна внимателно и накрая каза	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	останете вкъщи за една седмица	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	иска да си спокоен	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	след една седмица	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	ще се почувстваш по-добре	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	пийте много чай	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	ще дойде да те види отново	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	нека и той е спокоен	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	здрав човек, здрав човек	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	се погрижи за себе си	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	всичко ми беше полезно наведнъж	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	забелязах, че ужасното нещо е близо	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	помолен да го забележи веднага	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	смяташе, че не е необходимо	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	живееше наблизо и това беше полезно	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	страната ни се ужаси днес	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	скъпи деца от всички семейства	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	веднъж вчера, два пъти утре	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	днес семействата имат нужда от деца	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	надяваше се, че ще бъде добре утре	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	той се чувстваше (беше) много спокоен	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	три малки издигнаха планината	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	важни хора не поискаха помощ	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	отиде до там, за да помогне	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	останете вкъщи, ако температурата е висока	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	температурата остана същата днес	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	обадете се на лекаря в девет	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	покажете го на Вашия лекар	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	да покаже крака си	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	нося тази риза	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	през уикенда всичко ще се успокои	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	под чашата за чай какво намери?	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	Искам сутрешен чай	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	надявах се на спокойна вечер	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	иска да научиш	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	настоя да отида	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	в колко часа?	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	в шест ще дойде	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	либретото беше очарователно	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	Бъди тих	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	нека мълчи	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	той също	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	искам (желание)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	Желая (желая) това ~	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	че научавате	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	Искам да научиш	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	- настоява бащата	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	баща настоява, че ~	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	че отивам	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	бащата настоява да отида	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	в колко часа	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	в колко часа идваш	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	в пет часа)	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	в пет часа	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	как се справя	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	как си напоследък?	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	малките книжки са красиви	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	брошура, красиви книги	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	красива, малко красива, много красива	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	топло, хладко, много горещо	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	голяма книга, книжка	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	добре, страхотно, добре	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	богат, стана богат, богат човек	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	спокоен, да се успокоя, успокой се	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	здрав, да се излекува, стана излекуван	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	съпруг, брак, женен	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	пощальон	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	родина	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	донякъде, малко	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	вечеряхме страхотно	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	надявам се, погрижете се за себе си	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	Грижех се за висококачественото жилище	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	помислете два пъти, много пъти	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	кой свали книжката?	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	котка на име Цезар	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	торта, която е на масата	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	яжте торта, която е на масата	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	стана горещо и се изчерви	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	баща иска детето му да яде	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	в малка стая	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	живеем в ~	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	Станах тревожен	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	по това време, когато те видях	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	всички забелязаха това	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	фактът, че е красива	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	искаш ли това ~? (дезири)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	че мога да ти покажа	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	искаш ли да ти покажа	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	най-новата ми книга (цел)	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	утре сутрин, какво искаш?	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	закусих късно	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	кога ще пристигне Марк?	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	в пет или осем часа	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	кога забеляза това ~ ?	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	цялото семейство ме наричат благодетел	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	полезни за вас	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	полезна ли беше книжката?	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	книжката, която изпратих	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	сутринта спа дълго време	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	когато видя слънцето	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	изведнъж той скочи	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	винаги беше подранил	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	той винаги закъснява	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	по това време, когато трябва да си ходи	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	да отида на училище	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	той знае, че ~	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	той знае факта, че ~	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	фактът, че учителят мрази пчелите	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	знае факта, че учителят мрази пчелите	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	знае, че учителят мрази това	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	но днес изпи кафето	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	бързо облича дрехите	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	той не иска да закъснява	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	много бързо с книгите в ръка	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	по-късно той тичаше и скачаше	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	той тичаше и скачаше	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	по улицата	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	хората го погледнаха	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	погледна го и каза	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	мъдър и глупав	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	какво глупаво момче!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	беше пред училище	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	скоро	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	той беше пред ~	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	да отида и да вляза	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	искаше да влезе	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	да влезе в училището	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	но обаче	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	но не можа	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	да затвори и затвори	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	беше затворено	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	нито ~ нито ~	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	нито учител, нито ученички	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	не видя нито учител, нито ученици	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	да седна, да се настаня	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	седнах (седях)	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	той седна	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	и помисли	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	какво стана	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	до ужас (като дявол)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	язовира го	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	помни	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	сега се сещам	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	неделя	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	днес е ~	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	днес е неделя	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	да спя и да заспя	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	слънце и луна	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	внезапно и внезапно	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	изключено! (да започна)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	да скочи и скочи	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	винаги рано	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	днес сложих и пуснах	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	нещо, което не е възраст	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	тичаше заедно с мъдри хора	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	възможно най-скоро	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	какво момче, какво момиче	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	нито мислено, нито запомнено	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	дявол чака вода в неделя	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	такъв малък момент	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	дори такъв малък момент си струва	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	плака до нощта	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	махнете пощенския стълб от ръката	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	се засмя сам, прибирайки пощенския стълб	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	нито той, нито тя се засмяха	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	тя нито се засмя, нито отговори	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	нито седи, нито гледа	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	никога не съм виждал	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	Никога няма да кажа на никого	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	не казвай на никого	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	Никога няма да кажа	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	на себе си (от себе си)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	Направих го сам	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	направи го (направи го)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	направи го сам (направи го сам)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	ще се видим (отново), ще се видим (отново)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	до! (Довиждане!)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	да започне да говори	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	започна да казва, започна да говори най-накрая	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	пи много бързо	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	изпи сутрешно питие	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	да дойде рано	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	да дойде на училище	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	да идвам рано на ~	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	не чух новини	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	още не съм чувал	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	Още не съм чул	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	в този момент	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	в този момент той извика	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	момче, което не обича	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	момчета и момичета	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	други момчета и момичета	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	не обича други момчета и момичета	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	нито приятели, нито приятелки	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	няма нито пари, нито време	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	кой имаше книгата?	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	книгата, която чакахте	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	това, което чакахте повече от 2 години	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	искаш ли това?	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	искаш ли това ~?	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	най-скъп	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	най-скъпата снимка	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	моята най-скъпа снимка	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	откъде купи ~?	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	това облекло	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	това облекло (обективно)	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	купи това облекло	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	ще отидеш там	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	къде отиваш?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	Слънчев ден	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	ще бъде слънчев ден	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	ако ще е слънчев ден	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	брат ти вече започна	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	брат ти започна ли вече?	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	къде е водата	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	да донесе водата	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	ти сам донесе	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	водата, която ти сам донесе	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	беше много тихо	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	днес майка ми беше ~	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	Дойдох от ~	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	извън училището	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	докладвано на ~	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	и й докладвал	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	съобщи, че ~	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	съобщи, че ще получа	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	Ще получа лоша оценка	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	тя каза, че ~	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	трябва да накарате ~ да работи	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	Повече ▼	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	за да работи повече	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	да накара главата ти да работи	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	колко лоши оценки	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	имаш толкова много лоши оценки	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	беше тъжен	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	в стаята си	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	влез в стаята си	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	иди и се учи	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	седнах	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	в моята стая	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	седях в моята стая	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	нито учи, нито чете	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	но не можех нито да уча, нито да чета	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	мислите ми	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	на игра	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	игра с моите приятели	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	в спорта	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	на себе си	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	казах си	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	толкова глупав	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	толкова ли съм глупава	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	въпреки че научих много	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	влезе майката	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	моите думи	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	и чу думите ми	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	- веднага отговори тя	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	не, скъпа моя	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	ти не си глупав	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	проблемът е, че ~	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	че трябва да научите	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	трябва да научи много повече	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	тогава няма да имате	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	лоши оценки	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	ще има само лоши оценки	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	също и сега	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	аз ги нямам	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	Имам добра оценка	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	относно музиката	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	добра бележка за музиката	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	– внезапно избухна в смях майката	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	който разкраси ~	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	Моят ден	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	оправи ми деня	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	но все пак остана	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	но проблемът си остана	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	килограм ~	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	килограм захар	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	чаша ~	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	чаша вода	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	много ~	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	много идеи	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	да задържа	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	подреди всичко	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	предадено му	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	питам	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	чаша кафе	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	и малко вода	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	Искам чаша кафе	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	Искам чаша чай	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	нарани го	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	главата го болеше	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	той се разболя	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	обича да е красива	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	тя разкраси лицето си	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	момчето обича да е красиво	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	затова тя го разкраси	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	след обяд	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	да почистя кухнята	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	кой ще чисти кухнята?	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	иска да пие	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	Какво искаш да пиеш	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	да пия чай	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	малко вода	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	нищо ли не искаш	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	така внезапно	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	защо реши ~?	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	защо реши толкова внезапно?	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	твоята стая	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	вашата малка стая	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	в малката ти стая	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	да ремонтирате малката си стая	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	решихте да ремонтирате малката си стая	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	на кого	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	ти даде ~	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	на кого даде ~?	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	чисти очила	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	ти даде чистите очила	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	чистите чаши за виното	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	срещу кого	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	вашия спортен клуб	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	играе срещу ~	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	преди две седмици	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	срещу кого играе вашият спортен клуб?	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	виждаш ли ~?	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	виждате ли се често ~?	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	често виждам полицая	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	този, който живее в ~	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	живее в квартирата	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	жилище над вас	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	вижда полицая, който живее в ~	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	план за шофиране	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	искаше да пътува	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	да пътува до друга държава	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	в свободното време	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	те решиха да отидат	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	реши да отиде в Италия	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	стари градове	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	страна със стари градове	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	други красавици	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	и други красоти	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	красива страна със стари градове и други красоти	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	те бяха щастливи	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	къде е ~?	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	къде са дрехите ми	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	попита тя ~	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	да не забравяме да донесем ~	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	да вземете книгата със себе си	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	книга за изучаване на есперанто	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	да носи книга, за да учи	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	можем да започнем ~	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	във влака	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	вече във влака	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	няма да направим нищо	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	с кола	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	ще караме с ~	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	ще кара кола	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	Имам една тайна	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	моят богат чичо	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	моето желание	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	изпълни желанието ми	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	даде ни	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	неговата кола	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	и ни даде колата си	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	за използване	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	стои пред ~	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	стои пред къщата	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	Трябва да кажа ~	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	не казвай нищо	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	нека седнем	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	Влизай в колата	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	да карам до ~	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	и карам до Италия	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	седна в колата	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	също и дрехите	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~ беше в колата	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	все още седеше и чакаше	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	но той чакаше	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	защо не ~ ?	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	защо не започнем да караме?	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	Аз също имам ~	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	би карал колата	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	но не знам ~	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	Никога не съм го научил	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	Бих повярвал ~	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	ако бях здрав	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	Много бих се радвал	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	все едно си богат	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	седиш там, сякаш си богат човек	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	предполагаемо училище	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	като богат човек	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	седиш там като богат човек	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	толкова много пари	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	колкото пари, толкова и идеи	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	ако имах толкова пари	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	Бих пътувал	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	по света	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	във всеки речник	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	нещо липсва	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	някои думи липсват	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	човек, който говори дълго	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	на масата за хранене	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	човек, който разказва, ще остане гладен	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	продължава да разказва на масата за хранене	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	той трябваше да обърне внимание на ~	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	не му беше позволено да ~	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	му беше позволено да остане	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	не му беше позволено да остане дълго	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	да стои навън под дъжда	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	затова е настинал	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	той има своя ясна идея	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	но той ще повярва на всичко	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	каквото кажеш	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	все едно си му жена	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	Вашите родители	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	за да зарадваш родителите си	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	какво може да зарадва ~?	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	какво може да направи родителите ти най-щастливи?	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	след ученето	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	поне след ученето	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	в центъра на града	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	ако отидеш с мен	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	ако отидете с мен в центъра	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	къде бихте искали да пътувате?	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	ако сте имали ~	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	достатъчно пари	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	ако имаш достатъчно пари и темп	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	планирате ли ~?	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	планира да пътува до Париж	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	да карам с axuto	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	много по-добре	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	изглежда много по-добре	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	с влак	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	или не изглежда да е много по-добре?	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	различни хора	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	защо хората обясняват по различни начини?	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	същите идеи	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	обяснява същите идеи	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	членовете на семейството се събират	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	колко бързо	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	минават дни	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	колко бързо минават дните!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	утре ще бъде ~	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	рождения ден на баща ти	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	няколко членове на семейството	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	ще дойдат няколко членове на семейството	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	и приятели	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	бихте ли моля ~?	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	бихте ли помогнали малко?	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	малко	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	намери малко време	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	да ти подреди стаята	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	поне да ти подреди стаята	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	Бих искал ~	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	Бих искал да сготвя нещо	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	нещо добро	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	сготви нещо хубаво	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	за тортата за рожден ден	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	липсва мляко	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	в дома	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	необходимо е да се набави ~	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	малко храна	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	от магазин	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	да вземе малко храна от скривалище	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	Ще пазарувам	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	за рождения ден	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	вместо да седнете и да ядете	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	интересни хора	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	с безинтересни членове на семейството	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	Бих искал да отида на пикник	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	с членове на клуба	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	с кои членове на клуба?	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	каза бащата	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	някакъв вид хартия, някакви документи	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	в куфарче	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	в кошче за хартия	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	хвърли документи в кошче за хартия	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	хвърли някои документи в кошче за хартия	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	утре рано	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	членове на моя спортен клуб	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	скъпи мой	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	това вярно ли е?	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	трябва да отсъстваш	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	нали ~ ?	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	вашите колеги членове на клуба	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	се виждате с колегите си членове на клуба	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	три пъти седмично	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	мога ли ~?	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	има право да предлага нещо	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	Ще ям с членовете на семейството	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	но във втората част	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	Ще отида с приятелите си	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	ще говорим за ~	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	неуспешно устройство	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	определено ще говорим за неуспешния диск	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	след тортата	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	Не искам повече това	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	иска да чуе това	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	защо нямаме ~ ?	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	богат на идеи чичо	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	има някаква идея богат чичо	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	в семейството ми	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	- усмихна се майката	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	по думите му	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	тя знае това ~	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	говори малко прекалено много	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	не е достатъчно само ~	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	богатство от идеи	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~ също е необходимо	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	пълен портфейл, за да се случи	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	майката продължи ~	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	след малко мълчание	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	преди няколко минути	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	Ана го нарече ~	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	тя също ще ни посети	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	сладка торта	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	тя много обича сладки торти	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	внимава да не напълнее	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	въпреки че тя ще обърне внимание	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	веднага промени решението си	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	по време на екскурзията	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	без нея	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	той би бил много самотен	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	Ще мина все пак	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	Все пак ще прекарам утре у дома	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	в младостта	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	човек има	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	също има красота	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	сложни работни места	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	сложни задачи (обективни)	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	трябва да опрости	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	на тази възраст	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	той вече е станал ~	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	шеф на спортния клуб	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	човек слага пари	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	в портфейл	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	слага в чанта	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	следвайте примерите	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	от добрите членове на семейството	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	приятелството прави ли те по-щастлив?	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	те прави щастлив	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	отколкото любовта	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	колко често ~?	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	пишеш писма до ~	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	пише писма до вашите приятелки	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	вашите приятелки в Италия	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	връзката между вас и вашия учител	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	промени ли се връзката?	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	знаеш ли вече ~?	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	доста добре	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	беше вечер в ~	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	стотици хора	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	запълва квадрата	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	млади мъже и войници	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	моряци от корабите	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	изключителна дама	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	изключителни дами	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	чуждестранни пътници	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	всички се местят в центъра на града	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	малко по-нататък	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	недалеч от морето	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	имаше малък площад	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	малко по-нататък, но не далеч	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	в края му	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	близо до морето	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	наблизо стоеше мъж	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	според облеклото	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	човек може лесно да знае ~	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	беше възможно да се установи, че ~	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	гондолиер на богат човек	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	може да разбере, че е гондолиер	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	той изглеждаше ~	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	погледна радостната тълпа	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	усмивка озари лицето му	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	когато видя един моряк	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	пристигналият моряк	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	страната на морето	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	пристигна откъм морето	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	ти ли си, Стивън?	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	— възкликна гондолиерът	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	всички казват, че ~	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	в ръцете на турците	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	че си паднал в ръцете на турците	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	срещнахме един	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	от нашите кораби	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	последва ни	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	за повече от час	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	но не е лесно да отидете ~	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	да върви по-бързо от нашия кораб	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	какви новини има тук	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	тук във Венеция	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	нищо интересно	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	просто голямо нещастие	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	познаваш ли Пиетро	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	Аз го познавам	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	голям кораб потопи гондолата му	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	а какво за него?	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	гондолата потъна	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	случи се, че ~	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	бяхме близки	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	взехме го с нашата гондола	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	по същото време	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	шефът ми се удави	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	да помогне на млада жена	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	млада жена, която почти умря	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	с чичо си	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	почти умря с чичо си	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	имаше млада жена	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	не можахме да му помогнем	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	беше важен човек	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	какво те доведе във Венеция?	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	Моят приятел	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	морякът вдигна очи	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	бързо погледна приятеля си	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	и започна да казва	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	така че знаете ~	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	Донесох ~	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	— внезапно го спря гондолиерът	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	той каза	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	после мина един мъж	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	покрай него минал мъж	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	той още нямаше трийсет	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	и лицето му беше безцветно	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	ходът му беше сигурен и лесен	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	лицето му беше тъжно	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	когато видя човека, ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	се казва, че ~	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	много важни хора дават ~	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	тайна работа	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	тайни работни места	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	му дава тайни задачи	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	твърде много тайни	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	той знае твърде много тайни	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	затова ги е страх	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	да го изпрати в затвора	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	- каза морякът	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	и както говореше	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	той посочи към имението	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	имението на дожите	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	много важни хора се нуждаят от неговата помощ	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	колко плащат?	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	плаща му	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	плаща за едно убийство	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	със сигурност не по-малко от ~	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	от сто монети	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	не забравяйте това ~	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	че работи за тях	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	за тези, които имат достатъчно пари	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	да му платя	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	във Венеция има ~	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	тези неща	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	да забравиш тези неща	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	неща, които е по-добре да забравите	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	ако искате да хапнете на спокойствие	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	да си изядеш хляба на спокойствие	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	имаше известно мълчание	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	и по-късно	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	— заговори отново гондолиерът	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	дойде точно навреме	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	да видите състезание с лодки	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	- каза слабо някой	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	близо до гондолиера	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	кмета на града	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	безмълвно посочи гондолата	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	— каза гондолиерът	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	и хвана ръката на приятеля си	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	хвърля хартията	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	в кошчето за хартия	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	момичетата хвърлиха книжата	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	къде ми е писалката	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	Искам да му отговоря	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	слънцето изчезна	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	а сега е почти тъмно	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	моля те яж	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	моля, яжте хляба	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	с прибори за хранене	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	Извинете ме	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	има право да остане	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	Нямам право да остана	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	можеш ли да донесеш ~?	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	от сестра ми	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	кога купи ~?	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	купи този музикален инструмент	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	кой използва последно?	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	използвах моя ключ	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	карал ли си	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	във Венеция	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	също и с гондола	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	ще можеш ли да заспиш	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	тогава, когато настъпи тишина	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	господинът беше висок	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	висок, дебел	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	дебел, тежък	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	тежък и голям	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	беше висок, дебел, тежък и голям	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	даде сила	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	сила, която си заслужава	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	физическа сила, която си заслужава	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	това даде	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	даде му	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	което даде сила	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	даде сила на тялото, което си заслужава	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	външния му вид	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	външен вид на висок човек	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	малка роля	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	изигра роля	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	не малка роля	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	изигра малка роля	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	изигра не малка роля	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	във факта, че ~	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	по-голямата част от хората	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	ако не се страхува	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	се страхуваше от него	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	ако се страхуваше	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	ако не се страхува от него	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	със сигурност уважаван	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	поне помислих за ~	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	преди ~	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	за да го задоволя	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	да го разочароваш	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	преди незадоволяване ~	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	преди да реши ~	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	да реши да не хареса ~	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	да реши да го задоволи	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	преди да реши да го разочарова	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	това, което е полезно	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	често полезен през деня	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	неприятна неприятност	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	самостоятелно	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	представлява неприятна неприятност	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	се представя като неприятна неприятност	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	на място пълно с дървета	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	тогава, когато някой се заблуди	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	в нечовешка пустош	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	и излиза от пътя в хаос	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	високо голямо тяло	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	не успя да премине ~	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	сред храстите	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	в допълнение към докосването до естествените неща	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	като цяло мокри	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	в средата на мократа природа	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	мокри естествени неща, в средата на които ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	ходеше трудно	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	беше преживяване	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	не е необичайно	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	болезнено и винаги неприятно	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	толкова повече ~	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	продължи напред в живота	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	в гората на замъка	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	колкото по-напред вървеше, толкова по-нехаресван ~	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	не харесваше нощната природа	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	човек с очи, които могат да се видят ясно	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	очи, които виждаха добре	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	да вижда добре в тъмното	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	погледна трудното вървене	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	от нашия индустриалец	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	той се усмихна	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	до този човек	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	в полицейско облекло	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	друг човек стоеше	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	в подобни дрехи	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	последната беше жена	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	да тръгваме	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	- тихо каза мъжът	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	в ухото на своя спътник	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	сега е подходящият момент	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	и двамата пристъпиха към човека	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	внимаваха да направят ~	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	възможно като ~	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	възможно най-малко шум (kiel eble)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	възможно най-малко шум (laŭeble)	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	те почти напълно успяха	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	в тази неприятна ситуация	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	неприятна ситуация, при която дърветата хвърлиха клоните си	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	хвърляха собствените си мокри клони	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	направо в лицата	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	на индустриалеца	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	многоноги малки същества	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	взе краката му	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	за пешеходен път	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	природата направи крака му паднал	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	най-болезнено	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	пусна крака си в яма	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	яма пълна с вода	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	зловонна вода	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	бързо стигна до мисълта	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	човек трябва да е готов	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	тук	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	някой ~	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	готов за всяка неприятна среща	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	нещо (каквото и да е)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	той чакаше всичко	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	настрана човешки глас	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	когато се чу глас, ~	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	чу веднага близо	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	той направи хубав скок на място	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	който трогна сърцето му	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	нагоре към устата	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	с опит да си възвърне спокойствието	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	малко спокойствие	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	светлината на лампа	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	някой насочи право към очите му	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	лампата, която някой насочи към очите	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	попречи на помирението	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	струваше му се, че ~	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	човешката форма, която държеше лампата	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	носят дрехи полиция	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	какво правиш тук?	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	звучи авторитетният глас	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	моля, говорете ~	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	малко ясно	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	каза другият	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	в още по-важен тон	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	вървя	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	ходиш във фермата	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	на графинята	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	фермата на графинята	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	посред нощ	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	графинята покани ли те?	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	тя знае ли за ~	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	за вашето присъствие	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	вашето присъствие тук	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	Трябва да те попитам ~	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	моли те да ме последваш	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	и той обясни ~	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	обясни, че ~	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	от грешния опит	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	грешният опит да се хване графинята	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	поради ~	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	заради терористи	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	полицията проверява внимателно	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	проверява какво се случва	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	възниква в околните	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	на замъка	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	околностите на замъка	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	на индустриалеца	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	изглеждаше, че ~	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	сърцето му падна този път	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	падна на крака	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	той знаеше, че ~	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	просто трудно ще се опита да намери	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	да намерим приемливо обяснение	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	относно собственото присъствие	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	идеята, че графинята знае всичко	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	идеята го лиши от малко надежда	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	малка надежда	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	малко надежда остана	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	след първите думи на полицията	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	колкото повече ~ толкова повече ~	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	колкото по-дълго, толкова по-добре	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	без значение колко	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	преди четвърт час	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	те се върнаха	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	след ужасното нещастие	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	хората си тръгнаха	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	и старите градове се разпаднаха	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	трябва да те видим отново	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	толкова по-често	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	Аз мисля	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	толкова повече съм ядосан	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	тя живее в ~	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	във всяка къща	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	ще се видим ли пак	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	където и когато и да е	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	кога ще се върна ~?	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	другата половина от книгите	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	ще имате ли нужда ~?	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	се нуждае от повече от четвърт година	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	за тези работни места	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	защо е ~?	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	толкова по-студено	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	толкова по-дълго	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	чакаме ~	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	доволен ли си от ~?	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	с всеки мъж	with any man	grupo	0    	0000-00-00 00:00:00

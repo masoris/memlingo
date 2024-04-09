@@ -78,7 +78,7 @@ def unsubscribe_email(email):
         json.dump(user_info, f)  
 
 
-def update_experience_points(email, point):
+def update_experience_points_duration(email, point, duration):
     # 개인 홈 디렉토리 생성
     user_dir = os.path.join("./users", email[0], email)
     if not os.path.exists(user_dir):
@@ -91,9 +91,14 @@ def update_experience_points(email, point):
         user_info = json.loads(user_info_json)
         if not "experience_points" in user_info:
             user_info["experience_points"] = "0"
+        if not "duration" in user_info:
+            user_info["duration"] = "0"
         user_info["experience_points"] = int(user_info["experience_points"])
         user_info["experience_points"] += point
         user_info["experience_points"] = str(user_info["experience_points"])
+        user_info["duration"] = int(user_info["duration"])
+        user_info["duration"] += duration
+        user_info["duration"] = str(user_info["duration"])
 
     with open(user_info_file, "w", encoding='utf-8') as f:
         json.dump(user_info, f)    
@@ -329,10 +334,10 @@ def login():
     if (not os.path.exists(user_dir)) or (not os.path.exists(user_dir+"/userinfo.json")):
         create_user(email1, lang)
 
-    if is_recent_login(email1):
-        update_experience_points(email1, 10)
-    else:
-        update_experience_points(email1, 5)
+    # if is_recent_login(email1):
+    #     update_experience_points(email1, 10)
+    # else:
+    #     update_experience_points(email1, 5)
     update_last_login(email1)
 
     result = {'resp': 'OK', 'user': email1[:email1.find('@')], 'email': email1, "lang": lang}
@@ -368,18 +373,24 @@ def session_finish():
         email = request.args['email']
         lang = request.args['lang']
         course = request.args['course']
+        duration = request.args['duration']
     else:
         if request.headers.get('Content-Type').find("application/json") >= 0: #컨텐트 타입 헤더가 aplication/json이면
             email = request.json['email']
             lang = request.json['lang']
             course = request.json['course']
+            duration = request.json['duration']
         else: #헤더가 applicaiont/x-www-url-encoded이면: 
             email = request.form['email']
             lang = request.form['lang']
             course = request.form['course']
+            duration = request.form['duration']
     LOG("/api/session-finish.api\t%s\t%s\t%s" % (email, lang, course))
     
-    update_experience_points(email, 10)
+    duration = int(duration)
+    if duration <= 0 or duration > 15*60:
+        duration = 15*60
+    update_experience_points_duration(email, 10, duration)
 
     result = {'resp': 'OK', 'message': 'Session finished'}
     resp = make_response(jsonify(result))

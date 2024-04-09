@@ -1,0 +1,101 @@
+2024-04-09 16:32:47	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-04-09 16:32:47	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-09 16:32:50	/api/get_course_info.api	a@a.com	sv
+2024-04-09 16:32:51	/api/get_course_info.api	a@a.com	nl
+2024-04-09 16:32:51	/api/get_course_info.api	a@a.com	no
+2024-04-09 16:32:51	/api/get_course_info.api	a@a.com	ro
+2024-04-09 16:32:52	/api/get_course_info.api	a@a.com	bg
+2024-04-09 16:32:52	/api/get_course_info.api	a@a.com	nl
+2024-04-09 16:32:52	/api/get_course_info.api	a@a.com	sv
+2024-04-09 16:32:53	/api/get_course_info.api	a@a.com	uk
+2024-04-09 16:32:55	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-09 16:32:58	/api/get_course_info.api	a@a.com	mn
+2024-04-09 16:32:59	/api/get_course_info.api	a@a.com	id
+2024-04-09 16:33:00	/api/get_course_info.api	a@a.com	zh-tw
+2024-04-09 16:33:01	/api/get_course_info.api	a@a.com	zh-cn
+2024-04-09 16:33:03	/api/get_course_info.api	a@a.com	fr
+2024-04-09 16:36:11	/api/get_course_info.api	a@a.com	fr
+2024-04-09 16:36:15	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-09 16:36:17	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-09 16:36:19	/api/session-start.api	a@a.com	ko-kr	A
+2024-04-09 16:36:19	/api/card-next.api	a@a.com	A	ko-kr	lernanta, lernanto	5	./quizB.html	female2
+2024-04-09 16:36:19	/api/similar-words.api	a@a.com	A	ko-kr	lernanta, lernanto
+2024-04-09 16:36:35	/api/playsound.api	a@a.com	ludoviko/lernanto, lerninto.mp3
+2024-04-09 16:39:03	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-09 16:39:44	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-09 16:55:18	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-04-09 16:55:18	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-09 16:55:27	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-09 16:55:28	/api/session-start.api	a@a.com	ko-kr	A
+2024-04-09 16:55:28	/api/card-next.api	a@a.com	A	ko-kr	lernanta, lernanto	5	./quizF.html	male1
+2024-04-09 16:55:32	/api/playsound.api	a@a.com	male1/lernanta, lernanto.mp3
+2024-04-09 16:55:34	/api/card-next.api	a@a.com	A	ko-kr	kio estas ŝia nomo?	5	./quizE.html	male2
+2024-04-09 16:55:34	/api/playsound.api	a@a.com	female2/lernanta, lernanto.mp3
+2024-04-09 16:55:36	/api/playsound.api	a@a.com	male1/lernanta, lernanto.mp3
+2024-04-09 16:55:37	/api/playsound.api	a@a.com	male2/kio estas ŝia nomo?.mp3
+2024-04-09 16:55:38	/api/card-next.api	a@a.com	A	ko-kr	lingvisto kaj laboristino	5	./quizC.html	male1
+2024-04-09 16:55:38	/api/playsound.api	a@a.com	female2/kio estas ŝia nomo?.mp3
+2024-04-09 16:55:41	/api/similar-words-kor.api	a@a.com	A	ko-kr	언어학자와 여성 노동자
+2024-04-09 16:55:41	/api/playsound.api	a@a.com	female2/lingvisto kaj laboristino.mp3
+2024-04-09 16:55:44	/api/put-score-kor.api	a@a.com	A	ko-kr	언어학자와 여성 노동자	1
+2024-04-09 16:55:44	/api/playsound.api	a@a.com	male1/lingvisto kaj laboristino.mp3
+2024-04-09 16:55:47	/api/card-next.api	a@a.com	A	ko-kr	lernantoj kaj sportistoj	6	./quizC.html	female1
+2024-04-09 16:55:47	/api/playsound.api	a@a.com	ludoviko/lingvisto kaj laboristino.mp3
+2024-04-09 16:55:49	/api/similar-words-kor.api	a@a.com	A	ko-kr	학생들과 운동선수들
+2024-04-09 16:55:51	/api/put-score-kor.api	a@a.com	A	ko-kr	학생들과 운동선수들	1
+2024-04-09 16:55:51	/api/playsound.api	a@a.com	female1/lernantoj kaj sportistoj.mp3
+2024-04-09 16:55:53	/api/card-next.api	a@a.com	A	ko-kr	mia familia nomo estas ~	8	./quizB.html	male1
+2024-04-09 16:55:53	/api/playsound.api	a@a.com	ludoviko/lernantoj kaj sportistoj.mp3
+2024-04-09 16:55:56	/api/similar-words.api	a@a.com	A	ko-kr	mia familia nomo estas ~
+2024-04-09 16:55:57	/api/playsound.api	a@a.com	ludoviko/falis el la mano.mp3
+2024-04-09 16:55:59	/api/put-score.api	a@a.com	A	ko-kr	falis el la mano	1
+2024-04-09 16:55:59	/api/playsound.api	a@a.com	female2/falis el la mano.mp3
+2024-04-09 16:56:01	/api/playsound.api	a@a.com	male1/lia amikino estas ~.mp3
+2024-04-09 16:56:03	/api/put-score.api	a@a.com	A	ko-kr	lia amikino estas ~	1
+2024-04-09 16:56:03	/api/playsound.api	a@a.com	female1/lia amikino estas ~.mp3
+2024-04-09 16:56:06	/api/playsound.api	a@a.com	male2/mia familia nomo estas ~.mp3
+2024-04-09 16:56:09	/api/put-score.api	a@a.com	A	ko-kr	mia familia nomo estas ~	1
+2024-04-09 16:56:09	/api/playsound.api	a@a.com	male1/mia familia nomo estas ~.mp3
+2024-04-09 16:56:11	/api/playsound.api	a@a.com	female1/enfalis en lian manon.mp3
+2024-04-09 16:56:14	/api/put-score.api	a@a.com	A	ko-kr	enfalis en lian manon	1
+2024-04-09 16:56:14	/api/playsound.api	a@a.com	female2/enfalis en lian manon.mp3
+2024-04-09 16:56:16	/api/card-next.api	a@a.com	A	ko-kr	kiu estas ŝi?	8	./quizC.html	female1
+2024-04-09 16:56:16	/api/similar-words-kor.api	a@a.com	A	ko-kr	그녀는 누구인가?
+2024-04-09 16:56:18	/api/put-score-kor.api	a@a.com	A	ko-kr	그녀는 어머니인가?	-1
+2024-04-09 16:56:18	/api/put-score-kor.api	a@a.com	A	ko-kr	그녀는 누구인가?	1
+2024-04-09 16:56:18	/api/playsound.api	a@a.com	male1/kiu estas ŝi?.mp3
+2024-04-09 16:56:20	/api/card-next.api	a@a.com	A	ko-kr	estas via amikino	8	./quizB.html	female1
+2024-04-09 16:56:20	/api/playsound.api	a@a.com	female1/kiu estas ŝi?.mp3
+2024-04-09 16:56:22	/api/similar-words.api	a@a.com	A	ko-kr	estas via amikino
+2024-04-09 16:56:23	/api/playsound.api	a@a.com	male2/kio estas via nomo?.mp3
+2024-04-09 16:56:26	/api/put-score.api	a@a.com	A	ko-kr	kio estas via nomo?	1
+2024-04-09 16:56:26	/api/playsound.api	a@a.com	ludoviko/kio estas via nomo?.mp3
+2024-04-09 16:56:29	/api/playsound.api	a@a.com	male1/kvankam ŝi atentos.mp3
+2024-04-09 16:56:31	/api/put-score.api	a@a.com	A	ko-kr	kvankam ŝi atentos	1
+2024-04-09 16:56:31	/api/playsound.api	a@a.com	male2/kvankam ŝi atentos.mp3
+2024-04-09 16:56:33	/api/playsound.api	a@a.com	male2/estas via amikino.mp3
+2024-04-09 16:56:36	/api/put-score.api	a@a.com	A	ko-kr	estas via amikino	1
+2024-04-09 16:56:36	/api/playsound.api	a@a.com	female2/estas via amikino.mp3
+2024-04-09 16:56:38	/api/playsound.api	a@a.com	female1/enmetu ĝin en vian sakon.mp3
+2024-04-09 16:56:41	/api/put-score.api	a@a.com	A	ko-kr	enmetu ĝin en vian sakon	1
+2024-04-09 16:56:41	/api/playsound.api	a@a.com	ludoviko/enmetu ĝin en vian sakon.mp3
+2024-04-09 16:56:43	/api/card-next.api	a@a.com	A	ko-kr	ĉu via amiko estas ~ ?	8	./quizI.html	male1
+2024-04-09 16:56:51	/api/playsound.api	a@a.com	male1/ĉu via amiko estas ~ ?.mp3
+2024-04-09 16:59:20	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	amiko
+2024-04-09 16:59:26	/api/playsound.api	a@a.com	male1/ĉu via amiko estas ~ ?.mp3
+2024-04-09 16:59:29	/api/playsound.api	a@a.com	female1/ĉu via amiko estas ~ ?.mp3
+2024-04-09 16:59:31	/api/card-next.api	a@a.com	A	ko-kr	skribas nun en la ĉambro	8	./quizD.html	female1
+2024-04-09 16:59:31	/api/playsound.api	a@a.com	male1/ĉu via amiko estas ~ ?.mp3
+2024-04-09 16:59:33	/api/similar-words-kor.api	a@a.com	A	ko-kr	그 방안에서 지금 쓰고 있다
+2024-04-09 16:59:35	/api/put-score-kor.api	a@a.com	A	ko-kr	그리고 지금 배우고있다	-1
+2024-04-09 16:59:35	/api/put-score-kor.api	a@a.com	A	ko-kr	그 방안에 없다	-1
+2024-04-09 16:59:36	/api/put-score-kor.api	a@a.com	A	ko-kr	지금 방안에서	-1
+2024-04-09 16:59:36	/api/put-score-kor.api	a@a.com	A	ko-kr	그 방안에서 지금 쓰고 있다	1
+2024-04-09 16:59:36	/api/playsound.api	a@a.com	male2/skribas nun en la ĉambro.mp3
+2024-04-09 16:59:41	/api/card-next.api	a@a.com	A	ko-kr	ĉu la amiko de via patro ~ ?	8	./quizF.html	ludoviko
+2024-04-09 16:59:41	/api/playsound.api	a@a.com	male1/skribas nun en la ĉambro.mp3
+2024-04-09 16:59:45	/api/playsound.api	a@a.com	ludoviko/ĉu la amiko de via patro ~ ?.mp3
+2024-04-09 16:59:46	/api/playsound.api	a@a.com	ludoviko/ĉu la amiko de via patro ~ ?.mp3
+2024-04-09 16:59:48	/api/session-finish.api	a@a.com	ko-kr	A
+2024-04-09 17:00:34	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-09 17:00:36	/api/get_course_info.api	a@a.com	ko-kr

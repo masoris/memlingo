@@ -1,0 +1,1354 @@
+level	mi, vi	Ik jij	I, you	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(heden) is, ben, zijn (verleden) was, waren	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	Ik ben ~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	jij bent ~	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	Hallo	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	Hallo, ik ben ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	mijn Jouw	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	een naam	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	mijn naam, jouw naam	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	mijn naam is ~	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	jouw naam is ~	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(heden) doet, (verleden) deed	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(heden) was, waren (toekomstig) zullen zijn	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	een naam, een (objectieve) naam	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	Mijn liefje	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	je doet ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	Hoe	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	Hoe is het met je?	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	Wat	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	hoe heet je?	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	goed, wel	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	doet het goed	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	het gaat goed met mij	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	En	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	goed en met jou?	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	tot ~	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(heden) ziet, (verleden) zag	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(verleden) zag, (verleden) zag opnieuw	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	zag opnieuw, zal opnieuw zien	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	opnieuw zien, opnieuw zien (objectief)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	tot ziens!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	Bedankt	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	bedankt en tot ziens!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	naar ~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	voor jou, voor mij	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(heden) bedankt, (verleden) bedankt	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	Ik waardeer het voor je	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	Ja nee	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	ja, dank je	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	eet, zal eten	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	Ik eet niet	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	nee, ik eet niet	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	mooi, prachtig	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	de moeite waard (einde)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	waardevol, de moeite waard om te bedanken	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	geheel, als geheel	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	alles, (objectief) alles	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	Helemaal niet, graag gedaan	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	helemaal nee	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	vergeven, een vergevingsgezindheid	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	een vergeving voor mij	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	Het spijt me! (Sorry)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	Het spijt me, alsjeblieft	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	een goedemorgen	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	Goedemorgen	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	Welterusten	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	droom zacht	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	(Hebben) een goede reis, voor jou	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	Goededag!	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	is het ~?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	gaat het goed met je? (Hoe is het?)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	Ja ik ben in orde	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	Nee helemaal niet	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	heel, te veel	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	groot, grotendeels	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	heel goed, te groot	very good, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	je bent erg goed bezig	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	Niet echt goed	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	leren, een leerproces	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	kijkt, een toeschouwer	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	is aan het leren, een student (een lerend persoon)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	is -ing, een persoon die aan het doen is	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	een student, een persoon die heeft geleerd	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	Ik ben een student.	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~ is mijn vriend	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	hij zij	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	zitten, zit	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	zit, zat, zal zitten	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	hij zit en zij leert	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	een kamer	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	leert in een kamer	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	een student en een sportman	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	sport en een sportman	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	een sporter is sportief	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	hij is een student	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	hij is een student en een sportman	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	hij zit nu	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	en leert nu	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	zit en leert	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	nu in een kamer	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	staat op een tafel	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	een papier en papieren	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	een tafel en tafels	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	een boek en boeken	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	de papieren en boeken	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	het staat op een tafel.	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	schrijft op een schrijftafel	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	de boeken zijn ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	op de tafel	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	een leerboek en de schoolboeken	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	op de tafel ligt ~	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	een vader en een moeder	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	de vader en de moeder	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	de moeder van mijn vriend	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	in de Kamer	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	is niet in de kamer	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	ze zijn nu aan het werk	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	zijn vader is een arbeider	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	hij werkt in een hotel	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	de moeder geeft les	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	zij is een lerares	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	is zij een moeder?	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	Nee, ze is hotelier	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	nee, ik werk niet	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	wat is haar naam?	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	wie antwoordt nu?	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	de taal van hun moeder	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	heet jij ~?	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	wij zitten en antwoorden	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	haar werkstoel	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	de naam is niet ~	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	haar taal is hun taal	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	onze vader en moeder	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	jouw leerling, jouw leerlingen	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	zijn het jouw studenten?	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	ben je een student?	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	ben je in de kamer?	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	Ik ben niet ~	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	een Esperantist en een vrouwelijke Esperantist	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	ingecheckt voor de hotelkamer	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	een taalkundige en een vrouwelijke werknemer	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	zijn vriendin is ~	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	studenten en sporters	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	mijn familiale naam is ~	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	wie is zij? welke is zij?	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	is je vriendinnetje	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	is je vriend ~?	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	schrijft nu in de kamer	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	is de vriend van je vader ~?	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	werkt in een hotel	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	wat staat er op tafel?	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	op de tafel in onze kamer	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	is het Esperanto-leerboek ~?	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	ligt op uw tafel	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	heeft een vriend	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	haar naam is ~	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	jong en mooi	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	is jong en mooi	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	jonge en mooie vrienden	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	zijn mannelijke en vrouwelijke vrienden	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	een huis van haar leraar	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	kwam naar het huis	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	het huis van ~	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	kom binnen	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	Hallo wat ben je aan het doen?	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	Wat doe jij? wat ben je aan het doen?	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	maar nu wil ik ~	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	ik wil spreken	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	met drie mannelijke en vrouwelijke vrienden	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	heb met je gesproken	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	wil je spreken	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	heb je mannelijke en vrouwelijke vrienden	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	hij heeft een boek	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	heeft een goed boek	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	Ja ik heb	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	zij vinden het leuk	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	ze las een boek	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	leest graag boeken	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	alleen maar een goed boek	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	veel goede boeken	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	lees alleen goede boeken	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	leest graag goede boeken	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	wil je lezen?	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	de jongere dronk koffie	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	wil water drinken	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	een vader en een moeder; ouders	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	een last en een zus, broers en zussen	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	je ouders en broers en zussen	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	bevindt zich in uw huis	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	hier is de koffie	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	nog niet gedronken	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	is nog warm	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	heb het gisteren gekookt	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	Ik heb nu gekookt	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	Bedankt. zo zei hij.	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	kan drinken en eten	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	dronk koude koffie	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	nog warme koffie	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	drinkt ook koude koffie	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	kan ook koude koffie drinken	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	kijkt naar haar oog	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	het mooiste oog	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	de mooie ogen	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	keek naar de mooie ogen	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	de mooie ogen van haar	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	ziet en begrijpt	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	Ik zie dat ~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	dat hij van haar houdt	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	ze voelt dat hij van haar houdt	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	vraagt of dat groot was	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	over een makkelijke vraag	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	zei over nieuw geld	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	erg mooie ogen	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	leek de grote broer	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	een zusje vergat het	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	een accusatief (objectief)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	vergeet de accusatiefuitgang niet	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	wie zie je? welke zie je?	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	Ik zie een vriend	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	heeft goede mannelijke en vrouwelijke vrienden	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	ze werken aan het oude huis	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	werkt, werkte, zal werken	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	ziet, dat ik eet	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	zei, dat hij zal gaan	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	lelijk en slecht	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	wat zei ze?	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	waar wacht je op?	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	ging de kamer binnen	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	een inhoud is erg moeilijk	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	arriveerde op de bijeenkomst	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	welkom op de bijeenkomst	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	een oude man gaf een fooi	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	arriveerde en werd verwelkomd	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	ze haten maar werken mee	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	ging naar het hotel	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	heeft gemakkelijke schoolboeken	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	hoe was je moeder?	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	je oude huis	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	welke boeken heb je gelezen?	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	waren ze goed?	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	wat gisteren gedaan?	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	in de kleine kamer	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	heel lang gesproken	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	voor de school, vóór de school	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	sprak voor de school	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	sprak later over het boek	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	ging graag naar school	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	door de straat	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	ging door de straat	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	was een warme dag	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	ze zagen een café'	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	zag rode koekjes	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	zag er koekjes in	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	zag een café' en daarin koekjes	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	ga naar binnen en eet!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	laten we binnenkomen en eten	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	voldoende geld heeft	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	heb je voldoende geld?	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	Begrijp je dat?	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	Natuurlijk!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	dat is niet genoeg	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	Honderd dollar is genoeg	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	een dollar, dollars, dollars (meervoud doelstelling)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	heeft honderd dollar	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	natuurlijk heb ik	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	Oh! jij bent rijk!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	een water, een serveerster	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	een ober brengt een menu	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	bracht dat naar ons, bracht dat	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	een ober bracht veel koekjes	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	ze aten wat (een beetje)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	na het eten (maaltijd)	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	nieuw, opnieuw	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	de ober kwam weer	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	op een bepaalde plaats	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	had ergens gezocht	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	op een andere plek gezocht	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	zijn gezicht was vrolijk	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	ze was verdrietig	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	op het einde en eindelijk	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	jouw sterke stem	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	met zwakke stem	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	heeft geen geld	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	wat is daar gebeurd?	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	later gebeurde er een ongeluk	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	weet je wanneer het gebeurde?	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	weet van de zaak	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	er blijft nog één ding over	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	jij of zij, wie dan ook	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	als zanger, als ondertekenaar	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	zong als een professionele zanger	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	a de plaats waar ze woonde	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	Hoe weet je iets over de auto?	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	Nou, kijk eens naar de snelle auto	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	een sap zonder suiker	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	hij heeft een snel voertuig	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	te sterk	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	hij opende te hard	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	te snel gereden (reisde).	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	gegeten met een lepel	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	wij twijfelen sterk	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	een echte brief van hem	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	een liefdesbrief met vijf foto's	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	teruggekeerd, de mensen die terugkwamen	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	ook zes brieven terug	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	wilde de foto zien	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	kwam terug van school	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	wanneer komt de zuster terug?	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	wilde nog eens lezen	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	gemaakt (deed), werd	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	werd snel rood	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	in een kamer, in een kamer	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	stond en zat	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	daar stond voor de foto	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	ik heb dat	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	wat heb je in je hand?	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	voor of achter?	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	ervoor of erna?	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	daar achter de deur	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	anderen, andere mensen	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	brieven van anderen	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	viel uit de hand	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	op tafel, op tafel	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	het viel op de tafel	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	vroeg om vergeving	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	was op zoek naar vijf boeken	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	Sorry, ik was op zoek naar mijn boek.	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	maar jij weet het goed	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	ligt niet op mijn tafel	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	Jouw boeken liggen niet op mijn tafel	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	gaf opnieuw, keerde terug	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	stuur mij de brief terug	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	goede les gekregen	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	verder gewassen, nog meer gegeten	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	zal niet meer lezen	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	Ik heb ook ontvangen	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	moet sluiten	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	Ik moet goed afsluiten	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	sloot de deur stevig	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	kalm, kalm	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	gehoord maar niet geluisterd	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	hoorde een rustig geluid	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	bij mij zijn er 4 zakken	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	tien dagen na de laatste les	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	tussen de twee tafels	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	drie brieven, zes papieren	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	van hoofd tot voet	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	vier, vierde, een kwartet, een kwart	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	waar is het trio gebleven	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	vijf vingers in beide handen	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	uit eigen zak, uit eigen zak	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	samenstellen, samenstellen, een verbinding	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	in eigen zak steken	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	tweehonderd landen ter wereld	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	nam, nam weg	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	nam er zeven van zijn eigen negen boeken	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	verlaten, verlaten	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	laat mij met rust en kalm	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	duizend achthonderdzevenentachtig (1887)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	een kopje thee	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	iemand heeft acht kopjes gewassen	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	tweeduizend negentien (2019)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	hij waste zichzelf	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	je lichaam, je eigen bezit	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	op de tafel sliep de kat	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	de kat sprong op de tafel	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	in de hal, de hal in	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	viel in zijn hand	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	werken, uitwerken	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	voor dat boek uit te werken	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	weet, wil weten, nieuwsgierigheid	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	tweetalig, tweetaligheid	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	vraagt zich af over een drietalige leerling	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	ging, keerde terug	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	de katten keerden terug naar hun (eigen) huizen	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	in de tas, in de tas	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	stop het in je tas	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	een voet, wandelingen, een voetganger	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	Tien dagen lang liepen ze	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	meenemen, eruit halen	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	prachtige bloemen, prachtige bloemen meegenomen	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	hij haalde er alleen maar mooie bloemen uit	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	geopend, maar onmiddellijk gesloten	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	een internationale bijeenkomst geopend	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	gepubliceerd en verspreid	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	de uitgever publiceerde drieëntwintig boeken	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	keerde terug en zag zijn eigen zoon weer	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	in het jaar tweeduizenddrieëntwintig (2023)	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	een heer kwam de winkel binnen	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	de winkel van auto's	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	daar ziet hij een dame	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	Geachte dames en heren	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	dat beviel mij (dat vind ik leuk)	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	de dame beviel hem (hij vond de dame leuk)	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	zag de mooie dame	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	wie behaagde hem? (wie vond hij leuk?)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	de vrouw, die mij beviel	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	degene die het huis binnenkwam	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	de man die het heeft geschonken	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	hij gaf een ring aan zijn vrouw	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	ze vond de ring leuk	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	de vrouw die van de ring hield	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	een verkoper werkt in de winkel	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	een autoverkoper	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	vroeg de heer aan de verkoper	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	welke auto vind jij leuk?	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	welke auto kies jij?	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	Ik heb voor die auto gekozen	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	het is beter	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	beter dan dit	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	beste van hen	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	is de beste	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	welke auto is de beste?	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	deze auto is beter	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	deze is de beste	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	heb alle auto's gezien	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	het beste van alles	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	is het snel?	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	sneller dan anderen	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	is ook sterk	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	O ja, natuurlijk!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	is heel sterk	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	het is zeker sterk	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	is ook duur	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	de duurste van allemaal	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	goedkoop maar sterk	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	heeft medelijden en heeft medelijden (het is de moeite waard om medelijden te hebben)	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	helaas ga ik niet kopen	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	is een ongelukkige zaak	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	hij kocht een nieuwe auto	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	omdat ik geen geld heb	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	mijn oude auto	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	de goedkoopste van allemaal	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	Ik zal erheen rijden	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	zal er nog mee rijden	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	de hele dag lang	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	terwijl hij dat zei	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	hij keek haar weer aan	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	maar de verkoper zei	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	het zou beter zijn dat ~	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	kijk naar deze dame	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	dat is ook erg duur	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	Ik ben haar echtgenoot	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	hoeveel heeft je reis gekost?	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	luister naar het lied van je vrouw	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	Vergeet niet dat het veel kost	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	hij hielp de verkoper twee uur lang	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	voor meer dan drie jaar	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	bedekken, bedekken, ontdekken (ontdekken)	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	de reden heeft hij nog niet ontdekt	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	waarom ben je begonnen met het versturen van brieven?	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	acht maanden woonde hij daar	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	had geen tijd om te luisteren	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	de auto was al vol	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	wat eet je	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	hoe is het weer?	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	wat voor soort auto heb je?	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	Hoe waren haar brieven?	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	waar zijn we?	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	waar ga je naar toe?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	aan wie heb je het gegeven?	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	de man met wie u reisde	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	groter dan de auto	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	de langste van die mensen	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	hij zat aan het eten	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	zij schrijft terwijl hij leest	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	hier, in deze kamer	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	deze meneer	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	een nieuws dat de moeite waard is om te luisteren	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	het boek is echt de moeite waard om te lezen	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	een ongelukkige zaak	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	Helaas kan ik dat niet	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	Graag gedaan. het was me een genoegen	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	klein mooi meisje is erg mooi	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	alle vrienden houden van haar	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	drie maanden geleden	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	er is haar iets ergs overkomen	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	ze viel door een auto	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	werd ziek en de temperatuur steeg	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	moeder zei dat ze moest rusten	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	ze moet thuis blijven	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	ze zal een dokter bellen	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	om negen uur	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	in de ochtend kwam om acht uur	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	morgenavond om zeven uur	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	liet zijn handen zien	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	aankleden, is aankleden	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	kleed je aan en verwarm je lichaam	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	thuis meteen uitgekleed en gedoucht	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	een dokter heeft alles bekeken	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	keek grondig en zei uiteindelijk	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	blijf een week thuis	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	wil dat je kalm bent	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	na een week	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	je zult je beter voelen	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	drink veel thee	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	zal je weer komen opzoeken	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	laat hem ook kalm zijn	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	gezonde man, gezond mens	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	zorgde voor zichzelf	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	het hele ding was meteen nuttig voor mij	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	merkte dat dat vreselijke ding dichtbij was	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	gevraagd om het onmiddellijk op te merken	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	dacht dat dat niet nodig was	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	woonde vlakbij, en dat was handig	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	ons land werd vandaag doodsbang	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	lieve kinderen uit alle gezinnen	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	één keer gisteren, twee keer morgen	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	Tegenwoordig hebben gezinnen kinderen nodig	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	hoopte dat het morgen goed met hem zou gaan	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	hij voelde zich erg kalm (was).	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	drie kleintjes hebben de berg opgetild	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	belangrijke mensen vroegen niet om hulp	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	liep daarheen om te helpen	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	blijf thuis als de temperatuur hoog is	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	temperatuur bleef vandaag hetzelfde	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	bel om negen uur de dokter	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	laat het aan uw arts zien	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	om je voet te laten zien	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	draag dit overhemd	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	in het weekend wordt alles rustiger	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	onder het theekopje, wat heb je gevonden?	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	Ik wil ochtendthee	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	hoopte op een rustige avond	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	wil dat je leert	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	stond erop dat ik ging	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	hoe laat?	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	om zes uur komt hij	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	het libretto was charmant	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	wees stil	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	laat hem stil zijn	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	hij ook	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	ik wil (verlangen)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	Ik wens (verlang) dat ~	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	dat je leert	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	Ik wil dat je leert	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	vader dringt aan	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	vader dringt erop aan dat ~	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	dat ik ga	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	vader staat erop dat ik ga	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	hoe laat	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	hoe laat kom je?	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	om vijf uur)	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	om vijf uur	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	hoe gaat het met hem?	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	hoe gaat het de laatste tijd?	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	Kleine boekjes zijn prachtig	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	een boekje, mooie boeken	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	mooi, een beetje mooi, heel mooi	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	warm, lauw, zeer heet	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	een groot boek, een boekje	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	goed, geweldig, goed	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	rijk, rijk worden, een rijk persoon	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	kalmeren, kalmeren, kalmeren	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	gezond, om genezen te worden, werd genezen	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	een echtgenoot, huwelijk, getrouwd	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	een brievenpostbode	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	een thuisland	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	enigszins, een beetje	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	we hadden een geweldig diner	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	hopelijk zorg goed voor jezelf	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	Het ging mij om de hoogwaardige huisvesting	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	denk twee keer na, vele malen	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	wie heeft het boekje weggenomen?	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	een kat genaamd Caesar	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	een taart die op tafel staat	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	eet een taart die op tafel staat	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	werd warm en bloosde	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	een vader wil dat zijn kind eet	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	in een kleine kamer	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	wij leven in ~	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	Ik werd ongerust	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	op dat moment toen ik je zag	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	dat merkte iedereen	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	het feit dat ze mooi is	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	wil je dat ~? (deziri)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	dat ik je kan laten zien	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	wil je dat ik het laat zien?	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	mijn nieuwste boek (doelstelling)	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	morgenochtend, wat wil je?	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	laat ontbeten	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	wanneer komt Mark?	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	om vijf of acht uur	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	wanneer merkte je dat ~?	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	de hele familie noemt mij een weldoener	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	nuttig voor jou	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	was het boekje nuttig?	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	het boekje dat ik stuurde	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	s Morgens lang geslapen	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	toen hij de zon zag	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	plotseling sprong hij op	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	hij was altijd vroeg	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	hij is altijd laat	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	op dat moment, wanneer hij moet gaan	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	om naar de school te gaan	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	hij weet, dat ~	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	hij kent het feit, dat ~	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	het feit dat de leraar bijen haat	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	weet dat de leraar bijen haat	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	weet dat de leraar daar een hekel aan heeft	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	maar vandaag dronk hij de koffie	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	hij trekt snel de kleren aan	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	hij wil niet te laat komen	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	heel snel met de boeken in de hand	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	later rende en sprong hij	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	hij rende en sprong	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	langs de straat	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	de mensen keken naar hem	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	keek hem aan en zei	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	wijs en dwaas	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	wat een dwaze jongen!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	stond voor een school	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	spoedig	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	hij stond voor ~	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	gaan en binnenkomen	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	hij wilde naar binnen	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	om de school binnen te gaan	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	maar echter	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	maar dat kon hij niet	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	sluiten en sluiten	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	het was dicht	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	noch ~ noch ~	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	noch een leraar, noch mannelijke en vrouwelijke studenten	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	zag noch een leraar, noch studenten	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	zitten, gaan zitten	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	ging zitten (had gezeten)	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	hij ging zitten	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	en dacht	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	wat is er gebeurd?	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	tot het verschrikkelijke (als een duivel)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	verdom het	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	herinnert zich	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	nu herinner ik me weer	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	Zondag	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	vandaag is ~	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	vandaag is het zondag	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	slapen en in slaap komen	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	een zon en een maan	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	plotseling en plotseling	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	uit! (beginnen)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	springen en springen	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	altijd vroeg	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	vandaag gezet en gelopen	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	iets dat niet ouder is	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	liep langs wijze mensen	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	snel mogelijk	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	wat een jongen, wat een meisje	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	noch gedacht noch onthouden	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	zondag wachtte een duivel op water	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	zo'n klein momentje	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	zelfs zo’n klein moment is de moeite waard	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	huilde tot de nacht	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	leg de post uit de hand	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	in zichzelf uitgelachen, terwijl hij de post weglegde	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	noch hij, noch zij lachten	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	ze lachte niet en antwoordde niet	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	hij zit niet en kijkt ook niet	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	ik heb nooit gezien	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	Ik zal het nooit aan iemand vertellen	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	vertel het aan niemand	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	Ik zal het nooit zeggen	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	voor zichzelf (door zichzelf)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	ik heb het zelf gedaan	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	deed het (maakte het)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	deed het zelf (maakte het zelf)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	zie je (weer), zie je (weer)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	tot! (tot ziens!)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	om te beginnen praten	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	begon te zeggen, begon eindelijk te spreken	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	heel snel gedronken	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	ochtenddrankje gehad	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	vroeg komen	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	om naar school te komen	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	vroeg komen tot ~	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	geen nieuws gehoord	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	nog niet gehoord	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	Ik heb het nog niet gehoord	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	op dat moment	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	op dat moment huilde hij	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	een jongen, die niet liefheeft	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	jongens en meisjes	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	andere jongens en meisjes	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	houdt niet van andere jongens en meisjes	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	noch vrienden, noch vriendinnen	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	heeft geen geld en geen tijd	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	wie had het boek?	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	het boek waarop je wachtte	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	waar je meer dan 2 jaar op hebt gewacht	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	wil je dat?	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	wil je dat ~?	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	liefste	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	liefste foto	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	mijn liefste foto	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	waar heb je ~ gekocht?	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	die kleding	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	die kleding (objectief)	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	heb dat tenue gekocht	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	jij gaat daarheen	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	waar ga je naar toe?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	zonnige dag	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	het wordt een zonnige dag	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	als het een zonnige dag wordt	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	je broer is al begonnen	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	is je broer al begonnen?	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	waar is het water	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	het water te brengen	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	je hebt het zelf meegenomen	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	het water, dat je zelf hebt meegenomen	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	was erg stil	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	vandaag was mijn moeder ~	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	Ik kwam uit ~	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	de school uit	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	gerapporteerd aan ~	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	en rapporteerde aan haar	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	meldde dat ~	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	gemeld dat ik zal ontvangen	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	Ik krijg een slecht cijfer	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	ze zei dat ~	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	je moet ~ laten werken	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	meer	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	meer werk te maken	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	om je hoofd te laten werken	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	hoeveel slechte cijfers	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	Je hebt zoveel slechte cijfers	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	was verdrietig	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	naar je kamer	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	ga naar je kamer	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	ga en leer	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	Ik zat	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	in mijn kamer	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	zat in mijn kamer	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	noch leren, noch lezen	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	maar ik kon niet leren, noch lezen	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	mijn gedachten	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	bij een spel	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	spel met mijn vrienden	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	bij het sporten	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	Voor mezelf	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	zei tegen mezelf	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	zo dom	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	ben ik zo dom?	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	ook al heb ik veel geleerd	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	de moeder kwam binnen	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	mijn woorden	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	en hoorde mijn woorden	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	antwoordde ze onmiddellijk	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	Nee mijn schat	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	jij bent niet dom	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	het probleem is dat ~	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	dat je moet leren	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	moet nog veel meer leren	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	dan heb je dat niet	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	slechte cijfers	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	zal alleen maar slechte cijfers hebben	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	ook nu	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	Ik heb ze niet	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	Ik heb een goed cijfer	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	over muziek	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	een goede opmerking over muziek	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	de moeder barstte plotseling in lachen uit	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	dat verfraaide ~	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	mijn dag	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	maakte mijn dag	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	maar bleef toch	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	maar het probleem bleef bestaan	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	een kilogram ~	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	een kilo suiker	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	een glas ~	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	een glas water	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	veel ~	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	veel ideeën	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	terughouden	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	alles geregeld	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	aan hem overhandigd	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	ik ben aan het vragen	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	een glas koffie	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	en wat water	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	Ik wil graag een glas koffie	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	Ik had graag een kopje thee	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	doe hem pijn	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	zijn hoofd deed pijn	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	hij werd ziek	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	houdt ervan om mooi te zijn	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	ze verfraaide haar gezicht	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	de jongen houdt ervan mooi te zijn	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	daarom verfraaide zij het	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	na het middageten	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	om de keuken schoon te maken	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	wie gaat de keuken schoonmaken?	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	wil drinken	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	wat wil je drinken	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	thee drinken	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	een beetje water	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	wil je niets?	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	zo plotseling	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	waarom heb je besloten ~?	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	waarom heb je zo plotseling besloten?	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	jouw kamer	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	jouw kleine kamer	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	naar je kleine kamer	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	om uw kleine kamer te renoveren	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	besloten om je kleine kamer te renoveren	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	aan wie	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	jij gaf ~	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	aan wie heb je ~ gegeven?	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	schone glazen	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	jij gaf de schone glazen	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	de schone glazen voor de wijn	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	tegen wie	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	jouw sportclub	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	speelt tegen ~	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	twee weken geleden	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	Tegen wie speelde jouw sportclub?	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	zie je ~?	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	zie je vaak ~?	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	zie vaak de politieman	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	degene die in ~ woont	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	woont in de logeerplaats	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	de woning boven u	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	ziet de politieagent die in ~ woont	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	rijplan	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	wilde reizen	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	om naar een ander land te reizen	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	in vrije tijd	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	ze besloten te gaan	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	besloten naar Italië te gaan	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	oude steden	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	een land met oude steden	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	andere schoonheden	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	en andere schoonheden	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	een prachtig land met oude steden en andere schoonheden	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	ze waren gelukkig	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	waar is ~?	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	waar zijn mijn kleren	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	vroeg ze ~	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	laten we niet vergeten ~ mee te nemen	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	om het boek mee te nemen	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	een boek om Esperanto te leren	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	een boek meenemen om te leren	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	we kunnen beginnen ~	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	in de trein	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	al in de trein	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	wij zullen niets doen	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	met de auto	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	we rijden langs ~	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	zal een auto besturen	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	ik heb een geheim	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	mijn rijke oom	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	mijn wens	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	mijn wens vervuld	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	gaf ons	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	zijn auto	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	en gaf ons zijn auto	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	voor gebruik	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	het staat vóór ~	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	staat voor het huis	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	Ik moet zeggen ~	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	zeg niets	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	laten we zitten	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	stap in de auto	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	rijden naar ~	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	en naar Italië rijden	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	zat in de auto	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	ook de kleding	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~ zat in de auto	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	zat nog steeds te wachten	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	maar hij wachtte	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	waarom niet ~?	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	Waarom gaan we niet rijden?	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	Ik heb ~ ook	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	de auto zou besturen	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	maar ik weet het niet ~	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	Dat heb ik nooit geleerd	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	Ik zou geloven ~	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	als ik gezond was	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	ik zou erg blij zijn	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	alsof je rijk bent	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	je zit daar alsof je een rijke man bent	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	vermeende leerschool	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	als een rijke man	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	je zit daar als een rijke man	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	zo veel geld	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	evenveel geld als ideeën	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	als ik zoveel geld had	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	ik zou reizen	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	rond de wereld	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	in elk woordenboek	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	er mist iets	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	er ontbreken enkele woorden	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	een man die lang sprak	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	aan de eettafel	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	iemand die vertelt, zal hongerig blijven	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	blijft vertellen aan de eettafel	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	hij moest letten op ~	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	mocht niet ~	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	mocht blijven	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	mocht niet lang blijven	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	buiten te blijven in de regen	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	daarom werd hij verkouden	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	hij heeft zijn eigen duidelijke idee	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	maar hij zal alles geloven	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	wat je ook zegt	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	alsof je zijn vrouw bent	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	je ouders	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	om je ouders blij te maken	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	wat kan alsjeblieft ~?	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	Waar zouden jouw ouders het meest blij mee kunnen zijn?	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	na het leren	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	tenminste na het leren	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	naar het stadscentrum	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	als je met mij mee zou gaan	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	als je met mij naar de stad zou gaan	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	waar zou je heen willen reizen?	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	als je ~	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	genoeg geld	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	als je genoeg geld en uitzendkracht had	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	ben je van plan ~?	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	plannen om naar Parijs te reizen	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	rijden met een axuto	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	veel beter	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	lijkt veel beter	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	met de trein	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	of lijkt het niet veel beter?	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	verschillende mensen	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	Waarom leggen mensen het op verschillende manieren uit?	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	dezelfde ideeën	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	legt dezelfde ideeën uit	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	familieleden komen samen	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	hoe snel	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	dagen gaan voorbij	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	hoe snel gaan de dagen voorbij!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	morgen zal het ~ zijn	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	de verjaardag van je vader	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	meerdere familieleden	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	Er zullen meerdere familieleden komen	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	en vrienden	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	wil je alsjeblieft ~?	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	kun je alsjeblieft een beetje helpen?	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	een poosje	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	een beetje tijd vinden	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	om je kamer op te ruimen	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	tenminste om je kamer op te ruimen	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	Ik wil graag ~	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	Ik wil graag iets koken	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	iets goeds	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	iets lekkers koken	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	voor de verjaardagstaart	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	ontbreekt aan melk	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	in het huis	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	het is noodzakelijk om ~ aan te schaffen	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	wat eten	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	uit een winkel	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	om wat eten te halen uit een schuilplaats	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	Ik ga boodschappen doen	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	voor de verjaardag	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	in plaats van zitten en eten	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	interessante mensen	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	met oninteressante familieleden	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	Ik wil graag gaan picknicken	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	met clubleden	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	met welke clubleden?	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	zei de vader	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	een soort papier, een soort papier	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	in een koffertje	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	in een papierbak	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	gooide papieren in een papierbak	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	gooide wat papieren in een papierbak	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	morgen vroeg	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	leden van mijn sportclub	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	Mijn liefste	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	is dat juist?	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	je moet afwezig zijn	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	nietwaar ~?	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	uw medeclubleden	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	elkaar ziet met je medeclubleden	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	drie keer per week	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	mag ik ~?	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	heeft het recht om iets voor te stellen	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	Ik ga met de familieleden eten	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	maar in het tweede deel	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	Ik ga met mijn vrienden	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	zal praten over ~	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	een defecte schijf	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	zal zeker praten over de defecte schijf	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	na de taart	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	Ik wil dat niet meer	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	wil dat horen	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	waarom hebben we geen ~?	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	een ideeënrijke oom	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	heeft een idee rijke oom	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	in mijn familie	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	de moeder glimlachte	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	bij zijn woorden	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	zij weet dat ~	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	praat een beetje te veel	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	het is niet genoeg alleen ~	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	rijkdom aan ideeën	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~ is ook nodig	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	een volle portemonnee om het mogelijk te maken	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	vervolgde de moeder ~	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	na een korte stilte	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	een paar minuten geleden	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	Ana noemde dat ze ~	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	zij komt ook bij ons langs	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	een zoete taart	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	ze houdt echt van zoete taart	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	let op dat u niet dik wordt	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	hoewel ze er wel op zal letten	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	veranderde onmiddellijk van gedachten	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	tijdens de excursie	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	zonder haar	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	hij zou erg eenzaam zijn	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	Ik zal toch passeren	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	Maar morgen breng ik thuis door	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	in de jeugd	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	men heeft	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	heeft ook schoonheid	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	ingewikkelde klussen	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	ingewikkelde klussen (doelstelling)	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	zou moeten vereenvoudigen	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	op die leeftijd	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	hij is al ~	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	hoofd van de sportclub	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	men stopt geld	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	in een portemonnee	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	in een tas stopt	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	volg de voorbeelden	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	van de goede familieleden	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	Maakt vriendschap je gelukkiger?	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	maakt je blij	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	dan de liefde	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	hoe vaak doe je ~?	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	je schrijft brieven naar ~	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	schrijft brieven aan je vriendinnen	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	je vriendinnen in Italië	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	de relatie tussen jou en je leraar	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	is de relatie veranderd?	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	weet je het al ~?	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	vrij goed	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	het was avond in ~	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	honderden mensen	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	vult het vierkant	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	jonge mannen en soldaten	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	matrozen van de schepen	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	uitmuntende dame	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	uitmuntende dames	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	buitenlandse reizigers	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	iedereen verhuist naar het stadscentrum	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	een beetje verder	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	niet ver van de zee	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	er was een klein pleintje	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	iets verder maar niet ver	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	aan het einde ervan	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	dicht bij de zee	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	vlakbij stond een man	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	volgens de kleding	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	men kan het gemakkelijk weten ~	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	het was mogelijk om erachter te komen dat ~	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	de gondelier van een rijke man	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	erachter kon komen dat hij een gondelier was	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	hij keek ~	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	keek naar de blije menigte	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	een glimlach verlichtte zijn gezicht	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	toen hij een zeeman zag	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	de matroos die arriveerde	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	de kant van de zee	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	aangekomen vanaf de kant van de zee	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	Ben jij dat, Stefan?	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	riep de gondelier	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	iedereen zegt dat ~	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	in handen van de Turken	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	dat je in handen van de Turken viel	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	we hebben er een ontmoet	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	van onze schepen	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	het volgde ons	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	voor meer dan een uur	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	maar het is niet gemakkelijk om te gaan ~	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	sneller te gaan dan ons schip	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	welk nieuws is hier?	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	hier in Venetië	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	niets interessants	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	gewoon een groot ongeluk	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	ken jij Pietro?	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	ik ken hem	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	een groot schip bracht zijn gondel onder water	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	en hoe zit het met hem?	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	de gondel zonk	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	het gebeurde dat ~	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	we waren dichtbij	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	we namen hem mee in onze gondel	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	tegelijkertijd	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	mijn baas is verdronken	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	om een jonge vrouw te helpen	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	een jonge vrouw die bijna stierf	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	met zijn oom	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	stierf bijna samen met zijn oom	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	er was een jonge vrouw	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	wij konden hem niet helpen	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	was een belangrijk persoon	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	wat bracht je naar Venetië?	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	mijn vriend	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	de zeeman keek op	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	keek snel naar zijn vriend	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	en begon te zeggen	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	dus je weet ~	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	Ik heb ~	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	de gondelier hield hem plotseling tegen	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	hij zei	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	toen kwam er een man voorbij	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	een man passeerde hem	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	hij was nog geen dertig	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	en zijn gezicht was kleurloos	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	zijn gaan was zeker en gemakkelijk	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	zijn gezicht was verdrietig	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	toen hij de man zag, ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	er wordt gezegd dat ~	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	veel belangrijke mensen geven ~	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	geheim werk	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	geheime banen	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	geeft hem geheime banen	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	te veel geheimen	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	hij kent te veel geheimen	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	daarom zijn ze bang	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	om hem naar de gevangenis te sturen	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	zei de zeeman	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	en terwijl hij sprak	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	hij wees naar het landhuis	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	het landhuis van Doges	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	veel belangrijke mensen hebben zijn hulp nodig	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	hoeveel betalen ze?	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	betaalt hem	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	betaalt voor één moord	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	zeker niet minder dan ~	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	dan honderd munten	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	vergeet dat niet ~	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	dat hij voor hen werkt	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	voor wie genoeg geld heeft	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	om hem te betalen	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	in Venetië is er ~	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	die dingen	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	om die dingen te vergeten	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	dingen die je beter kunt vergeten	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	als je rustig wilt eten	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	om in alle rust je brood te eten	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	er viel wat stilte	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	en later	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	de gondelier sprak opnieuw	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	je kwam net op tijd	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	een bootrace bijwonen	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	zei iemand zwakjes	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	vlakbij de gondelier	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	de burgemeester van de stad	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	wees woordeloos naar de gondel	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	zei de gondelier	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	en pakte de hand van zijn vriend	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	gooit het papier	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	in de papierbak	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	de meisjes gooiden de papieren	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	waar is mijn pen	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	Ik wil hem antwoorden	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	de zon verdween	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	en nu is het bijna donker	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	eet alstublieft	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	eet alsjeblieft het brood	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	met bestek	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	pardon	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	mag blijven	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	Ik heb geen recht om te blijven	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	Kun je ~ meenemen?	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	van mijn zus	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	wanneer heb je ~ gekocht?	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	dat muziekinstrument gekocht	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	wie heeft het laatst gebruikt?	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	mijn sleutel gebruikt	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	heb je gereden?	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	in Venetië	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	ook per gondel	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	kun je in slaap vallen?	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	dan, toen er stilte was	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	de heer was lang	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	lang, dik	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	dik, zwaar	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	zwaar en groot	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	was lang, dik, zwaar en groot	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	gaf kracht	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	een kracht die het waard is om te hebben	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	fysieke kracht die het waard is om te hebben	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	dat gaf	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	gaf hem	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	dat gaf kracht	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	gaf het lichaam kracht die het waard was om te hebben	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	zijn verschijning	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	uiterlijk van een lang persoon	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	een kleine rol	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	een rol gespeeld	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	geen kleine rol	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	speelde een kleine rol	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	geen geringe rol gespeeld	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	in het feit dat ~	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	de meerderheid van de mensen	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	als je niet bang bent	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	was bang voor hem	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	als hij bang was	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	als je niet bang voor hem bent	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	zeker gerespecteerd	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	dacht tenminste aan ~	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	vóór ~	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	om hem tevreden te stellen	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	om hem te mishagen	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	voordat het ontevreden is ~	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	alvorens te beslissen ~	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	om te beslissen om ~ te mishagen	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	om te besluiten hem tevreden te stellen	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	voordat hij besluit hem te mishagen	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	dat, wat nuttig is	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	vaak nuttig gedurende de dag	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	een onaangename overlast	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	door hemzelf	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	geeft een onaangename overlast	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	presenteert zich als een onaangename overlast	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	op een plek vol bomen	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	toen iemand op een dwaalspoor raakte	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	in een onmenselijke wildernis	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	en gaat in chaos van de weg	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	een groot groot lichaam	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	slaagde er niet in ~	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	tussen de struiken	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	naast het aanraken van de natuurlijke dingen	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	over het algemeen nat	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	midden in de natte natuur	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	natte natuurlijke dingen, in het midden waarvan ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	hij liep moeilijk	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	het was een ervaring	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	niet ongewoon	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	pijnlijk en altijd onaangenaam	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	hoe meer ~	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	vooruit gegaan in het leven	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	in het kasteelbos	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	hoe verder vooruit ging, hoe meer hekel aan ~	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	had een hekel aan de nachtelijke natuur	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	een man met ogen die duidelijk zichtbaar zijn	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	ogen die goed konden zien	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	om goed te kunnen zien in het donker	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	keek naar de moeilijke situatie	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	van onze industrieel	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	Hij glimlachte	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	naast die man	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	in politiekleding	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	er stond nog een persoon	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	in soortgelijke kleding	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	de laatste was een vrouw	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	laten we gaan	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	zei de man zacht	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	in het oor van zijn metgezel	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	nu is het juiste moment	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	beiden stapten in de richting van de persoon	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	ze waren voorzichtig om te doen ~	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	zo mogelijk als ~	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	zo min mogelijk geluid (kiel eble)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	zo weinig mogelijk geluid (lauble)	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	ze zijn er bijna volledig in geslaagd	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	in deze nare situatie	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	een nare situatie waarbij bomen hun takken gooiden	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	gooiden hun eigen natte takken	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	recht in de gezichten	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	van de industrieel	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	meervoetige kleine wezens	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	nam zijn voeten	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	voor een wandelweg	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	de natuur deed zijn voet vallen	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	meest pijnlijk	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	liet zijn voet in een kuil vallen	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	een put vol water	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	stinkend water	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	kwam snel op de gedachte	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	men moet klaar zijn	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	hier	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	iedereen ~	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	klaar voor elke onaangename ontmoeting	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	alles (wat dan ook)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	hij wachtte op iets	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	menselijke stem buiten beschouwing gelaten	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	toen een stem hoorde, ~	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	hoorde onmiddellijk dichtbij	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	hij maakte een mooie sprong ter plaatse	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	die zijn hart bewoog	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	opwaarts woord naar de mond	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	met een poging de rust te herwinnen	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	een beetje rust	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	het licht van een lamp	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	iemand richtte zich rechtstreeks op zijn ogen	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	de lamp die iemand op de ogen richtte	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	verzoening verhinderde	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	het leek hem dat ~	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	de menselijke vorm die de lamp vasthield	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	draag kledingpolitie	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	wat doe je hier?	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	klinkt de gezaghebbende stem	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	praat alsjeblieft ~	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	een beetje duidelijk	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	zei de ander	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	op een nog belangrijker toon	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	ik ben aan het lopen	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	je loopt over de boerderij	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	van de gravin	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	de boerderij van de gravin	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	midden in de nacht	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	Heeft de gravin u uitgenodigd?	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	weet ze van ~	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	over jouw aanwezigheid	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	jouw aanwezigheid hier	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	Ik moet je vragen ~	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	vraagt je om mij te volgen	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	en hij legde uit ~	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	legde uit dat ~	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	sinds de verkeerde poging	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	de verkeerde poging om de gravin te vangen	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	vanwege ~	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	vanwege terroristen	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	de politie controleert zorgvuldig	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	controleert wat er gebeurt	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	gebeurt in de omgeving	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	van het kasteel	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	de omgeving van het kasteel	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	aan de industrieel	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	het leek erop dat ~	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	zijn hart viel deze keer	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	viel op zijn voeten	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	hij wist dat ~	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	gewoon moeilijk dat hij zal proberen te vinden	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	om een aanvaardbare verklaring te vinden	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	over de eigen aanwezigheid	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	het idee dat de gravin alles weet	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	het idee beroofde hem van weinig hoop	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	een beetje hoop	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	er bleef weinig hoop over	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	na de eerste woorden van de politie	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	hoe meer ~ hoe meer ~	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	hoe langer hoe beter	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	maakt niet uit hoeveel	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	een kwartier geleden	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	ze kwamen terug	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	na het verschrikkelijke ongeluk	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	de mensen vertrokken	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	en de oude steden vielen uiteen	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	we zouden je weer moeten zien	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	hoe vaker	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	Ik denk na	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	hoe bozer ik ben	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	ze woont in ~	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	in elk huis	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	zien wij elkaar nog eens?	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	waar en wanneer dan ook	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	wanneer kom ik terug ~?	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	de andere helft van de boeken	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	heb je ~ nodig?	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	heeft ruim een kwart jaar nodig	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	voor die banen	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	waarom is ~?	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	hoe kouder	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	hoe langer	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	we wachten ~	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	ben je tevreden met ~ ?	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	met welke man dan ook	with any man	grupo	0    	0000-00-00 00:00:00

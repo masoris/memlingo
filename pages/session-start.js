@@ -12,6 +12,9 @@ function call_session_start_api() {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
 
+        var timestamp = Math.floor(new Date().getTime() / 1000);
+        localStorage["session-start-time"] = timestamp;
+
     }, function (status, responseText) {
         alert(responseText);
         console.error('Error:', status);

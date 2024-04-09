@@ -1,0 +1,1354 @@
+level	mi, vi	Jeg du	I, you	grupo	0    	0000-00-00 00:00:00
+level	estas, estis	(nåtid) er, er, er (fortid) var, var	(present) is, am, are (past) was, were	grupo	0    	0000-00-00 00:00:00
+level	mi estas ~	jeg er ~	I am ~	grupo	0    	0000-00-00 00:00:00
+level	vi estas ~	du er ~	you are ~	grupo	0    	0000-00-00 00:00:00
+level	saluton	Hallo	hello	grupo	0    	0000-00-00 00:00:00
+level	saluton, mi estas ~	hei, jeg er ~	hello, I am ~	grupo	0    	0000-00-00 00:00:00
+level	mia, via	min din	my, your	grupo	0    	0000-00-00 00:00:00
+level	nomo	et navn	a name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo, via nomo	mitt navn, ditt navn	my name, your name	grupo	0    	0000-00-00 00:00:00
+level	mia nomo estas ~	jeg heter ~	my name is ~	grupo	0    	0000-00-00 00:00:00
+level	via nomo estas ~	navnet ditt er ~	your name is ~	grupo	0    	0000-00-00 00:00:00
+level	fartas, fartis	(nåtid) gjør, (fortid) gjorde	(present) does, (past) did	grupo	0    	0000-00-00 00:00:00
+level	estis, estos	(nåværende) var, var (fremtiden) vil være	(present) was, were (future) will be	grupo	0    	0000-00-00 00:00:00
+level	nomo, nomon	et navn, et (objektivt) navn	a name, an (objective) name	grupo	0    	0000-00-00 00:00:00
+level	mia amo	min kjærlighet	my love	grupo	0    	0000-00-00 00:00:00
+level	vi fartas	du gjør ~	you are doing ~	grupo	0    	0000-00-00 00:00:00
+level	kiel	hvordan	how	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartas?	hvordan går det?	how are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kio	hva	what	grupo	0    	0000-00-00 00:00:00
+level	kio estas via nomo?	hva heter du?	what is your name?	grupo	0    	0000-00-00 00:00:00
+level	bona, bone	bra, vel	good, well	grupo	0    	0000-00-00 00:00:00
+level	fartas bone	har det bra	is doing well	grupo	0    	0000-00-00 00:00:00
+level	mi fartas bone	Jeg har det bra	I am doing well	grupo	0    	0000-00-00 00:00:00
+level	kaj	og	and	grupo	0    	0000-00-00 00:00:00
+level	bone, kaj vi?	bra og du?	fine, and you?	grupo	0    	0000-00-00 00:00:00
+level	ĝis ~	til ~	until ~	grupo	0    	0000-00-00 00:00:00
+level	vidas, vidis	(nåtid) ser, (fortid) så	(present) sees, (past) saw	grupo	0    	0000-00-00 00:00:00
+level	vidis, revidis	(fortid) så, (fortid) så igjen	(past) saw, (past) saw again	grupo	0    	0000-00-00 00:00:00
+level	revidis, revidos	så igjen, vil se igjen	saw again, will see again	grupo	0    	0000-00-00 00:00:00
+level	revido, revidon	se-igjen, se-igjen (objektiv)	seeing-again, seeing-again (objective)	grupo	0    	0000-00-00 00:00:00
+level	ĝis revido!	ser deg igjen!	see you again!	grupo	0    	0000-00-00 00:00:00
+level	dankon	Takk skal du ha	thank you	grupo	0    	0000-00-00 00:00:00
+level	dankon kaj ĝis revido!	takk og se deg igjen!	thank you and see you again!	grupo	0    	0000-00-00 00:00:00
+level	al ~	til ~	to ~	grupo	0    	0000-00-00 00:00:00
+level	al vi, al mi	til deg, til meg	to you, to me	grupo	0    	0000-00-00 00:00:00
+level	dankas, dankis	(nåtid) takk, (fortid) takket	(present) thanks, (past) thanked	grupo	0    	0000-00-00 00:00:00
+level	mi dankas al vi	Jeg setter pris på deg	I appreciate to you	grupo	0    	0000-00-00 00:00:00
+level	jes, ne	Ja Nei	yes, no	grupo	0    	0000-00-00 00:00:00
+level	jes, dankon	ja, takk for deg	yes, thaink you	grupo	0    	0000-00-00 00:00:00
+level	manĝas, manĝos	spiser, vil spise	eats, will eat	grupo	0    	0000-00-00 00:00:00
+level	mi ne manĝas	Jeg spiser ikke	I don't eat	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne manĝas	nei, jeg spiser ikke	no, I don't eat	grupo	0    	0000-00-00 00:00:00
+level	bela, bele	vakkert, vakkert	beautiful, beautifully	grupo	0    	0000-00-00 00:00:00
+level	-inda	verdt (avslutning)	worthwhile (ending)	grupo	0    	0000-00-00 00:00:00
+level	dankinda, dankinde	prisverdig, verdt å takke	appreciatable, worthwhile to thank	grupo	0    	0000-00-00 00:00:00
+level	tuta, tute	helhet, som en helhet	whole, as a whole	grupo	0    	0000-00-00 00:00:00
+level	tuto, tuton	alle, (objektive) alle	all, (objective) all	grupo	0    	0000-00-00 00:00:00
+level	nedankinde	ikke i det hele tatt, du er velkommen	not at all, you're welcome	grupo	0    	0000-00-00 00:00:00
+level	tute ne	helt nei	totally no	grupo	0    	0000-00-00 00:00:00
+level	pardoni ~, pardono	å tilgi, en tilgivende	to forgive, a forgiving	grupo	0    	0000-00-00 00:00:00
+level	pardonon al mi	en tilgivende for meg	a forgiving to me	grupo	0    	0000-00-00 00:00:00
+level	pardonon	Beklager! (unnskyld meg)	I'm sorry! (pardon me)	grupo	0    	0000-00-00 00:00:00
+level	pardonon, mi petas	Jeg beklager, vær så snill	I'm sorry, please	grupo	0    	0000-00-00 00:00:00
+level	bona mateno	en god morgen	a good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan matenon	god morgen	good morning	grupo	0    	0000-00-00 00:00:00
+level	bonan nokton	god natt	good night	grupo	0    	0000-00-00 00:00:00
+level	bonan sonĝon	drøm søtt	sweet dream	grupo	0    	0000-00-00 00:00:00
+level	bonan vojaĝon, al vi	(ha) en god tur, til deg	(have) a good trip, to you	grupo	0    	0000-00-00 00:00:00
+level	bonan tagon	god dag!	good day!	grupo	0    	0000-00-00 00:00:00
+level	ĉu ~	er det ~?	is it ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi fartas bone?	har du det bra? (hvordan har du det?)	are you doing well? (how are you?)	grupo	0    	0000-00-00 00:00:00
+level	jes, mi fartas bone	Ja jeg har det bra	yes, I'm fine	grupo	0    	0000-00-00 00:00:00
+level	ne, tute ne	Nei ikke i det hele tatt	no, not at all	grupo	0    	0000-00-00 00:00:00
+level	tre, tro	veldig, for mye	very, too much	grupo	0    	0000-00-00 00:00:00
+level	granda, grande	stort, stort sett	big, largely	grupo	0    	0000-00-00 00:00:00
+level	tre bona, tro granda	veldig bra, for stor	very good, too big	grupo	0    	0000-00-00 00:00:00
+level	vi tre bone fartas	du har det veldig bra	you are doing very well	grupo	0    	0000-00-00 00:00:00
+level	ne tre bone	ikke veldig bra	not very well	grupo	0    	0000-00-00 00:00:00
+level	lerni ~, lerno	å lære, en læring	to learn, a learning	grupo	0    	0000-00-00 00:00:00
+level	vidanta, vidanto	ser, en tilskuer	is looking, a spectator	grupo	0    	0000-00-00 00:00:00
+level	lernanta, lernanto	er læring, en student (en lærende person)	is learning, a student (a learning person)	grupo	0    	0000-00-00 00:00:00
+level	-anta, -anto	er -ing, en person som gjør	is -ing, a person who is doing	grupo	0    	0000-00-00 00:00:00
+level	lernanto, lerninto	en student, en person som har lært	a student, a person who has learned	grupo	0    	0000-00-00 00:00:00
+level	mi estas lernanto	Jeg er en student.	I am a student.	grupo	0    	0000-00-00 00:00:00
+level	~ estas mia amiko	~ er min venn	~ is my friend	grupo	0    	0000-00-00 00:00:00
+level	li, ŝi	han hun	he, she	grupo	0    	0000-00-00 00:00:00
+level	sidi, sidas	å sitte, sitter	to sit, sits	grupo	0    	0000-00-00 00:00:00
+level	sidanta, sidinta, sidonta	sitter, ble sittende, skal sitte	is sitting, was sitting, will be sitting	grupo	0    	0000-00-00 00:00:00
+level	li sidas kaj ŝi lernas	han sitter og hun lærer	he is sitting and she is learning	grupo	0    	0000-00-00 00:00:00
+level	ĉambro	et rom	a room	grupo	0    	0000-00-00 00:00:00
+level	lernas en ĉambro	lærer i et rom	learns in a room	grupo	0    	0000-00-00 00:00:00
+level	lernanto kaj sportisto	en student og en idrettsmann	a student and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sporto kaj sportisto	sport og en idrettsmann	sport and a sportsman	grupo	0    	0000-00-00 00:00:00
+level	sportisto nun sportas	en idrettsmann driver med idrett	a sportsman is sporting	grupo	0    	0000-00-00 00:00:00
+level	li estas lernanto	han er en student	he is a student	grupo	0    	0000-00-00 00:00:00
+level	estas lernanto kaj sportisto	han er student og idrettsmann	he is a student and a sportman	grupo	0    	0000-00-00 00:00:00
+level	li nun sidas	han sitter nå	he is now sitting	grupo	0    	0000-00-00 00:00:00
+level	kaj nun lernas	og lærer nå	and is now learning	grupo	0    	0000-00-00 00:00:00
+level	sidas kaj lernas	sitter og lærer	is sitting and is learning	grupo	0    	0000-00-00 00:00:00
+level	nun en ĉambro	nå i et rom	now in a room	grupo	0    	0000-00-00 00:00:00
+level	estas sur tablo	er på et bord	is on a table	grupo	0    	0000-00-00 00:00:00
+level	papero kaj paperoj	et papir og papirer	a paper and papers	grupo	0    	0000-00-00 00:00:00
+level	tablo kaj tabloj	et bord og bord	a table and tables	grupo	0    	0000-00-00 00:00:00
+level	libro kaj libroj	en bok og bøker	a book and books	grupo	0    	0000-00-00 00:00:00
+level	la paperoj kaj libroj	papirene og bøkene	the papers and books	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas sur tablo	den ligger på et bord.	it is on a table.	grupo	0    	0000-00-00 00:00:00
+level	skribas sur la skribotablo	skriver på et skrivebord	is writing on a writing table	grupo	0    	0000-00-00 00:00:00
+level	la libroj estas ~	bøkene er ~	the books are ~	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo	på bordet	on the table	grupo	0    	0000-00-00 00:00:00
+level	lernolibro kaj la lernolibroj	en lærebok og lærebøkene	a textbook and the textbooks	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo estas ~	på bordet er det ~	on the table there is ~	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino	en far og en mor	a father and a mother	grupo	0    	0000-00-00 00:00:00
+level	la patro kaj la patrino	faren og moren	the father and the mother	grupo	0    	0000-00-00 00:00:00
+level	la patrino de mia amiko	moren til vennen min	the mother of my friend	grupo	0    	0000-00-00 00:00:00
+level	en la ĉambro	i rommet	in the room	grupo	0    	0000-00-00 00:00:00
+level	ne estas en la ĉambro	er ikke i rommet	is not in the room	grupo	0    	0000-00-00 00:00:00
+level	ili nun laboras	de jobber nå	they are now working	grupo	0    	0000-00-00 00:00:00
+level	lia patro estas laboristo	faren hans er arbeider	his father is a worker	grupo	0    	0000-00-00 00:00:00
+level	li laboras en hotelo	han jobber på et hotell	he works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	la patrino instruas	moren underviser	the mother teaches	grupo	0    	0000-00-00 00:00:00
+level	ŝi estas instruistino	hun er en lærer	she is a teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi estas patrino?	er hun en mor?	is she a mother?	grupo	0    	0000-00-00 00:00:00
+level	ne, ŝi estas hotelisto	nei, hun er hotelleier	no, she is an hotelier	grupo	0    	0000-00-00 00:00:00
+level	ne, mi ne laboras	nei, jeg jobber ikke	no, I don't work	grupo	0    	0000-00-00 00:00:00
+level	kio estas ŝia nomo?	hva er navnet hennes?	what is her name?	grupo	0    	0000-00-00 00:00:00
+level	kiu nun respondas?	hvem svarer nå?	who is now answering?	grupo	0    	0000-00-00 00:00:00
+level	la lingvo de ilia patrino	språket til moren deres	the language of their mother	grupo	0    	0000-00-00 00:00:00
+level	ĉu via nomo estas ~ ?	er navnet ditt ~?	is your name ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ni sidas kaj respondas	vi sitter og svarer	we are sitting and answering	grupo	0    	0000-00-00 00:00:00
+level	ŝia labora seĝo	arbeidsstolen hennes	her working chair	grupo	0    	0000-00-00 00:00:00
+level	ĝia nomo ne estas ~	navnet er ikke ~	its name is not ~	grupo	0    	0000-00-00 00:00:00
+level	ŝia lingvo estas ilia lingvo	hennes språk er deres språk	her language is their language	grupo	0    	0000-00-00 00:00:00
+level	nia patro kaj patrino	vår far og mor	our father and mother	grupo	0    	0000-00-00 00:00:00
+level	via lernanto, viaj lernantoj	din student, dine studenter	your student, your students	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estas viaj lernantoj?	er de elevene dine?	are they your students?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas lernanto?	er du student?	are you a student?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi estas en la ĉambro?	er du på rommet?	are you in the room?	grupo	0    	0000-00-00 00:00:00
+level	mi ne estas ~	Jeg er ikke ~	I'm not ~	grupo	0    	0000-00-00 00:00:00
+level	esperantisto kaj esperantistino	en esperantist og en kvinnelig esperantist	an Esperantist and a female Esperantist	grupo	0    	0000-00-00 00:00:00
+level	enskribis por la hotelĉambro	sjekket inn på hotellrommet	checked in for the hotel room	grupo	0    	0000-00-00 00:00:00
+level	lingvisto kaj laboristino	en språkforsker og en kvinnelig arbeider	a linguist and a female worker	grupo	0    	0000-00-00 00:00:00
+level	lia amikino estas ~	venninnen hans er ~	his girl friend is ~	grupo	0    	0000-00-00 00:00:00
+level	lernantoj kaj sportistoj	studenter og idrettsutøvere	students and sportsmen	grupo	0    	0000-00-00 00:00:00
+level	mia familia nomo estas ~	familienavnet mitt er ~	my familia name is ~	grupo	0    	0000-00-00 00:00:00
+level	kiu estas ŝi?	hvem er hun? hvem er hun?	who is she? which is she?	grupo	0    	0000-00-00 00:00:00
+level	estas via amikino	er venninnen din	is your girl friend	grupo	0    	0000-00-00 00:00:00
+level	ĉu via amiko estas ~ ?	er vennen din ~ ?	is your friend ~ ?	grupo	0    	0000-00-00 00:00:00
+level	skribas nun en la ĉambro	skriver nå i rommet	is writing now in the room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la amiko de via patro ~ ?	er vennen til deg far ~ ?	is the friend of you father ~ ?	grupo	0    	0000-00-00 00:00:00
+level	laboras en hotelo	jobber på hotell	works in a hotel	grupo	0    	0000-00-00 00:00:00
+level	kio estas sur la tablo?	hva er på bordet?	what is on the table?	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo en nia ĉambro	på bordet på rommet vårt	on the table in our room	grupo	0    	0000-00-00 00:00:00
+level	ĉu la lernolibro de Esperanto ~ ?	er læreboken i esperanto ~ ?	is the Esperanto textbook ~ ?	grupo	0    	0000-00-00 00:00:00
+level	estas sur via tablo	er på bordet ditt	is on your table	grupo	0    	0000-00-00 00:00:00
+level	havas amikinon	har en venn	has a friend	grupo	0    	0000-00-00 00:00:00
+level	ŝia nomo estas ~	hun heter ~	her name is ~	grupo	0    	0000-00-00 00:00:00
+level	juna kaj bela	ung og vakker	young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	estas juna kaj bela	er ung og vakker	is young and beautiful	grupo	0    	0000-00-00 00:00:00
+level	junaj kaj belaj amikoj	unge og vakre venner	young and beautiful friends	grupo	0    	0000-00-00 00:00:00
+level	estas geamikoj	er mannlige og kvinnelige venner	are male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	hejmo de ŝia instruisto	hjemmet til læreren hennes	a home of her teacher	grupo	0    	0000-00-00 00:00:00
+level	venis al la hejmo	kom til hjemmet	came to the home	grupo	0    	0000-00-00 00:00:00
+level	la hejmo de ~	hjemmet til ~	the home of ~	grupo	0    	0000-00-00 00:00:00
+level	bonvolu eniri	vennligst kom inn	please come in	grupo	0    	0000-00-00 00:00:00
+level	saluton! kion vi faras?	Hei Hva gjør du?	hello, what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras?	hva gjør du? Hva gjør du?	what do you do? what are you doing?	grupo	0    	0000-00-00 00:00:00
+level	sed nun mi volas ~	men nå vil jeg ha ~	but now I want ~	grupo	0    	0000-00-00 00:00:00
+level	mi volas paroli	jeg vil snakke	I want to speak	grupo	0    	0000-00-00 00:00:00
+level	kun tri geamikoj	med tre mannlige og kvinnelige venner	with three male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	parolis kun vi	snakket med deg	spoke with you	grupo	0    	0000-00-00 00:00:00
+level	volas paroli kun vi	ønsker å snakke med deg	wants to speak with you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas geamikojn?	har du mannlige og kvinnelige venner	do you have male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	li havas libron	han har en bok	he has a book	grupo	0    	0000-00-00 00:00:00
+level	havas bonan libron	har en god bok	has a good book	grupo	0    	0000-00-00 00:00:00
+level	jes, mi havas	Ja jeg har	yes, I have	grupo	0    	0000-00-00 00:00:00
+level	ili ŝatas ĝin	de liker det	they like it	grupo	0    	0000-00-00 00:00:00
+level	ŝi legis libron	hun leste en bok	she read a book	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi librojn	liker å lese bøker	likes to read books	grupo	0    	0000-00-00 00:00:00
+level	nur bona libro	bare en god bok	only a good book	grupo	0    	0000-00-00 00:00:00
+level	multaj bonaj libroj	mange gode bøker	many good books	grupo	0    	0000-00-00 00:00:00
+level	legis nur bonajn librojn	les bare gode bøker	read only good books	grupo	0    	0000-00-00 00:00:00
+level	ŝatas legi bonajn librojn	liker å lese gode bøker	likes to read good books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas legi?	vil du lese?	do you want to read?	grupo	0    	0000-00-00 00:00:00
+level	la junulo trinkis kafon	unggutten drakk kaffe	the youngster drank coffee	grupo	0    	0000-00-00 00:00:00
+level	volas trinki akvon	ønsker å drikke vann	wants to drink water	grupo	0    	0000-00-00 00:00:00
+level	patro kaj patrino, gepatroj	en far og en mor; foreldre	a father and a mother; parents	grupo	0    	0000-00-00 00:00:00
+level	frato kaj fratino, gefratoj	en plage og en søster, søsken	a bother and a sister, siblings	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj kaj gefratoj	dine foreldre og søsken	your parents and siblings	grupo	0    	0000-00-00 00:00:00
+level	estas en via hejmo	er i ditt hjem	is in your home	grupo	0    	0000-00-00 00:00:00
+level	jen la kafo	her er kaffen	here is the coffee	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne trinkis	har ikke drukket ennå	didn't drink yet	grupo	0    	0000-00-00 00:00:00
+level	estas ankoraŭ varma	er fortsatt varm	is still warm	grupo	0    	0000-00-00 00:00:00
+level	hieraŭ kuiris ĝin	kokte den i går	cooked it yesterday	grupo	0    	0000-00-00 00:00:00
+level	mi nun kuiris	Nå har jeg laget mat	I now cooked	grupo	0    	0000-00-00 00:00:00
+level	dankon. tiel li diris	Takk skal du ha. så sa han.	thank you. so he said.	grupo	0    	0000-00-00 00:00:00
+level	povas trinki kaj manĝi	kan drikke og spise	can drink and eat	grupo	0    	0000-00-00 00:00:00
+level	trinkis malvarman kafon	drakk kald kaffe	drank cold coffee	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ varma kafo	fortsatt varm kaffe	still warm coffee	grupo	0    	0000-00-00 00:00:00
+level	trinkas ankaŭ malvarman kafon	drikker kald kaffe også	drinks cold coffee too	grupo	0    	0000-00-00 00:00:00
+level	povas trinki ankaŭ malvarman kafon	kan også drikke kald kaffe	can also drink cold coffee	grupo	0    	0000-00-00 00:00:00
+level	rigardas ŝian okulon	ser på øyet hennes	looks at her eye	grupo	0    	0000-00-00 00:00:00
+level	la plej bela okulo	det vakreste øyet	the most beautiful eye	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj	de vakre øynene	the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la belajn okulojn	så de vakre øynene	looked the beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	la belaj okuloj de ŝi	de vakre øynene til henne	the beautiful eyes of her	grupo	0    	0000-00-00 00:00:00
+level	vidas kaj komprenas	ser og forstår	sees and understands	grupo	0    	0000-00-00 00:00:00
+level	mi vidas, ke ~	Jeg ser at ~	I see that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li amas ŝin	at han elsker henne	that he loves her	grupo	0    	0000-00-00 00:00:00
+level	ŝi sentis, ke li amas ŝin	hun føler at han elsker henne	she feels that he loves her	grupo	0    	0000-00-00 00:00:00
+level	demandas, ĉu tio estis granda	spør om det var stort	asks whether that was big	grupo	0    	0000-00-00 00:00:00
+level	pri facila demando	om et enkelt spørsmål	about an easy question	grupo	0    	0000-00-00 00:00:00
+level	diris pri nova mono	sa om nye penger	said about a new money	grupo	0    	0000-00-00 00:00:00
+level	tre belaj okuloj	veldig vakre øyne	very beautiful eyes	grupo	0    	0000-00-00 00:00:00
+level	rigardis la grandan fraton	så storebroren	looked the big brother	grupo	0    	0000-00-00 00:00:00
+level	malgranda fratino forgesis ĝin	en lillesøster glemte det	a little sister forgot it	grupo	0    	0000-00-00 00:00:00
+level	akuzativo	en akkusativ (objektiv)	an accusative (objective)	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu akuzativon	ikke glem den akkusative slutten	don't forget the accusative ending	grupo	0    	0000-00-00 00:00:00
+level	kiun vi vidas?	hvem ser du? hvilken ser du?	whom are you seeing? which one do you see?	grupo	0    	0000-00-00 00:00:00
+level	mi vidas amikon	Jeg ser en venn	I see a friend	grupo	0    	0000-00-00 00:00:00
+level	havas bonajn geamikojn	har gode mannlige og kvinnelige venner	has good male-and-female friends	grupo	0    	0000-00-00 00:00:00
+level	ili laboras pri la malnova domo	de jobber med det gamle huset	they are working about the old house	grupo	0    	0000-00-00 00:00:00
+level	laboras, laboris, laboros	fungerer, jobbet, vil fungere	works, worked, will work	grupo	0    	0000-00-00 00:00:00
+level	vidas, ke mi manĝas	ser, at jeg spiser	sees, that I eat	grupo	0    	0000-00-00 00:00:00
+level	diris, ke li iros	sa, at han vil gå	said, that he will go	grupo	0    	0000-00-00 00:00:00
+level	malbela kaj malbona	stygg og dårlig	ugly and bad	grupo	0    	0000-00-00 00:00:00
+level	kion ŝi diris?	hva sa hun?	what did she say?	grupo	0    	0000-00-00 00:00:00
+level	kion vi atendas?	hva venter du på?	what are you waiting for?	grupo	0    	0000-00-00 00:00:00
+level	eniris en la ĉambron	gikk inn i rommet	went into the room	grupo	0    	0000-00-00 00:00:00
+level	enhavo estis tre malfacila	et innhold er veldig vanskelig	a content is very difficult	grupo	0    	0000-00-00 00:00:00
+level	alvenis al la kunsido	ankom møtet	arrived at the meeting	grupo	0    	0000-00-00 00:00:00
+level	bonvenon, al la kunveno	velkommen til møtet	welcome to the meeting	grupo	0    	0000-00-00 00:00:00
+level	maljuna viro donis trinkmonon	en gammel mann ga et tips	an old man gave a tip	grupo	0    	0000-00-00 00:00:00
+level	alvenis kaj estis bonvena	ankom og ble ønsket velkommen	arrived and was welcomed	grupo	0    	0000-00-00 00:00:00
+level	ili malamas sed kunlaboras.	de hater, men samarbeider	they hate but cooperate	grupo	0    	0000-00-00 00:00:00
+level	iris al la hotelo	dro til hotellet	went to the hotel	grupo	0    	0000-00-00 00:00:00
+level	havas facilajn lernolibrojn	har enkle lærebøker	has easy textbooks	grupo	0    	0000-00-00 00:00:00
+level	kia estis via patrino?	hvordan var moren din?	how was your mother?	grupo	0    	0000-00-00 00:00:00
+level	via malnova hejmo	ditt gamle hjem	your old home	grupo	0    	0000-00-00 00:00:00
+level	kiujn librojn vi legis?	hvilke bøker leste du?	which books did you read?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ili estis bonaj?	var de gode?	were they good?	grupo	0    	0000-00-00 00:00:00
+level	kion faris hieraŭ?	gjorde hva i går?	did what yesterday?	grupo	0    	0000-00-00 00:00:00
+level	en la malgranda ĉambro	i det lille rommet	in the small room	grupo	0    	0000-00-00 00:00:00
+level	tre longe parolis	snakket veldig lenge	spoke very long while	grupo	0    	0000-00-00 00:00:00
+level	antaŭ la lernejo	foran skolen, før skolen	in front of the school, before the school	grupo	0    	0000-00-00 00:00:00
+level	parolis antaŭ la lernejo	snakket før skolen	spoke before the school	grupo	0    	0000-00-00 00:00:00
+level	poste parolis pri la libro	snakket senere om boken	later spoke about the book	grupo	0    	0000-00-00 00:00:00
+level	ĝoje iris al la lernejo	gikk gjerne på skolen	gladly went to the school	grupo	0    	0000-00-00 00:00:00
+level	tra la strato	gjennom gaten	through the street	grupo	0    	0000-00-00 00:00:00
+level	iris tra la strato	gikk gjennom gaten	went through the street	grupo	0    	0000-00-00 00:00:00
+level	estis varma tago	var en varm dag	was a warm day	grupo	0    	0000-00-00 00:00:00
+level	ili vidis kafejon	de så en kafé	they saw a cafe'	grupo	0    	0000-00-00 00:00:00
+level	vidis ruĝajn kukojn	så røde kaker	saw red cookies	grupo	0    	0000-00-00 00:00:00
+level	vidis kukojn en ĝi	så cookies i den	saw cookies in it	grupo	0    	0000-00-00 00:00:00
+level	vidis kafejon kaj en ĝi kukojn	så en kafé og i den informasjonskapsler	saw a cafe' and in it  cookies	grupo	0    	0000-00-00 00:00:00
+level	eniru kaj manĝu!	gå inn og spis!	go in and eat!	grupo	0    	0000-00-00 00:00:00
+level	ni eniru kaj manĝu	la oss komme inn og spise	let's come in and eat	grupo	0    	0000-00-00 00:00:00
+level	havas sufiĉan monon	har nok penger	has sufficient money	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi havas sufiĉan monon?	har du nok penger?	do you have sufficient money?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi komprenas?	forstår du?	do you understand?	grupo	0    	0000-00-00 00:00:00
+level	kompreneble!	selvfølgelig!	of course!	grupo	0    	0000-00-00 00:00:00
+level	tio ne sufiĉas	det er ikke nok	that is not enough	grupo	0    	0000-00-00 00:00:00
+level	cent dolaroj sufiĉas	hundre dollar er nok	a hundred dollars is enough	grupo	0    	0000-00-00 00:00:00
+level	dolaro, dolaroj, dolarojn	en dollar, dollar, dollar (flertallsmål)	a dollar, dollars, dollars (plural objective)	grupo	0    	0000-00-00 00:00:00
+level	havas cent dolarojn	har hundre dollar	has a hundred dollars	grupo	0    	0000-00-00 00:00:00
+level	kompreneble, mi havas	selvsagt har jeg	of course, I have	grupo	0    	0000-00-00 00:00:00
+level	ho! vi estas riĉa!	Åh! du er rik!	oh! you are rich!	grupo	0    	0000-00-00 00:00:00
+level	kelnero, kelnerino	et vann, en servitør	a water, an waitress	grupo	0    	0000-00-00 00:00:00
+level	kelnero portas menuon	en kelner bringer en meny	a waiter brings a menu	grupo	0    	0000-00-00 00:00:00
+level	portis tion al ni, alportis tion	brakte det til oss, brakte det	brought that to us, brought that	grupo	0    	0000-00-00 00:00:00
+level	kelnero alportis multajn kukojn	en kelner brakte mange kaker	a waiter brought a lot of cookies	grupo	0    	0000-00-00 00:00:00
+level	ili manĝis iom	de spiste litt (litt)	they ate some (a little)	grupo	0    	0000-00-00 00:00:00
+level	post la manĝo	etter spising (måltid)	after the eating (meal)	grupo	0    	0000-00-00 00:00:00
+level	nova, denove	nytt, igjen	new, again	grupo	0    	0000-00-00 00:00:00
+level	la kelnero denove venis	servitøren kom igjen	the waiter came again	grupo	0    	0000-00-00 00:00:00
+level	en iu loko	et eller annet sted	in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en iu loko	hadde søkt et sted	had searched in some place	grupo	0    	0000-00-00 00:00:00
+level	serĉis en alia loko	søkte et annet sted	searched in other place	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis ĝoja	ansiktet hans var gledelig	his face was joyous	grupo	0    	0000-00-00 00:00:00
+level	ŝi estis malĝoja	hun var trist	she was sad	grupo	0    	0000-00-00 00:00:00
+level	fine kaj finfine	til slutt og til slutt	in the end and finally at last	grupo	0    	0000-00-00 00:00:00
+level	via forta voĉo	din sterke stemme	your strong voice	grupo	0    	0000-00-00 00:00:00
+level	en malforta voĉo	med svak stemme	in weak voice	grupo	0    	0000-00-00 00:00:00
+level	ne havas monon	har ikke penger	doesn't have money	grupo	0    	0000-00-00 00:00:00
+level	kio okazis tie?	hva skjedde der?	what did happen there?	grupo	0    	0000-00-00 00:00:00
+level	akcidento okazis poste	en ulykke skjedde senere	an accident happened later	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi scias, kiam ĝi okazis?	vet du når skjedde det?	do you know when did it happen?	grupo	0    	0000-00-00 00:00:00
+level	scias pri la afero	vet om saken	knows about the matter	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ unu afero restas	fortsatt en ting gjenstår	still one thing remains	grupo	0    	0000-00-00 00:00:00
+level	vi aŭ ŝi, ajna homo	du eller hun, hvilken som helst person	you or she, any person	grupo	0    	0000-00-00 00:00:00
+level	kiel kantisto	som en sanger, som en underskriver	like a singer, as a signer	grupo	0    	0000-00-00 00:00:00
+level	kantis kiel profesia kantisto	sang som en profesjonell sanger	sang like a professional singer	grupo	0    	0000-00-00 00:00:00
+level	tie, kie ŝi loĝis	på stedet hvor hun bodde	a the place, where she lived	grupo	0    	0000-00-00 00:00:00
+level	kiel vi scias pri la aŭto?	hvordan vet du om bilen?	how do you know about the car?	grupo	0    	0000-00-00 00:00:00
+level	nu, vidu la rapidan aŭton	vel, se på den raske bilen	well, look at the fast car	grupo	0    	0000-00-00 00:00:00
+level	suko sen sukero	en juice uten sukker	a juice without sugar	grupo	0    	0000-00-00 00:00:00
+level	li havis rapidan veturilon	han har et raskt kjøretøy	he has a fast vehicle	grupo	0    	0000-00-00 00:00:00
+level	tro forte	for sterkt	too strongly	grupo	0    	0000-00-00 00:00:00
+level	li tro forte malfermis	han åpnet for hardt	he opened too hard	grupo	0    	0000-00-00 00:00:00
+level	veturis tro rapide	kjørte (reiste) for fort	drove (traveled) too fast	grupo	0    	0000-00-00 00:00:00
+level	manĝis per kulero	spiste med skje	ate with a spoon	grupo	0    	0000-00-00 00:00:00
+level	ni forte dubas	tviler vi sterkt på	we strongly doubt	grupo	0    	0000-00-00 00:00:00
+level	vera letero de li	et sant brev fra ham	a true letter from him	grupo	0    	0000-00-00 00:00:00
+level	amletero kun kvin fotoj	et kjærlighetsbrev med fem bilder	a love letter with five photos	grupo	0    	0000-00-00 00:00:00
+level	revenis, revenintoj	returnerte, menneskene som kom tilbake	returned, the people who returned	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ses leteroj revenis	også seks brev returnert	also six letters returned	grupo	0    	0000-00-00 00:00:00
+level	volis vidi la foton	ville se bildet	wanted to see the photo	grupo	0    	0000-00-00 00:00:00
+level	revenis el la lernejo	kom tilbake fra skolen	came back from the school	grupo	0    	0000-00-00 00:00:00
+level	kiam revenos la fratino?	når kommer søsteren tilbake?	when will the sister return?	grupo	0    	0000-00-00 00:00:00
+level	volis legi denove	ønsket å lese igjen	wanted to read again	grupo	0    	0000-00-00 00:00:00
+level	faris, fariĝis	laget (gjorde), ble	made (did), became	grupo	0    	0000-00-00 00:00:00
+level	rapide fariĝis ruĝa	ble raskt rødt	rapidly became red	grupo	0    	0000-00-00 00:00:00
+level	en ĉambro, en ĉambron	i et rom, inn i et rom	in a room, into a room	grupo	0    	0000-00-00 00:00:00
+level	staris kaj sidis	sto og satt	stood and sat	grupo	0    	0000-00-00 00:00:00
+level	tie staris antaŭ la foto	der sto foran bildet	there stood in front of the photo	grupo	0    	0000-00-00 00:00:00
+level	mi havas tion	jeg har det	I have that	grupo	0    	0000-00-00 00:00:00
+level	kion vi havas en via mano?	hva har du i hånden?	what do you have in your hand?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ malantaŭ?	foran eller bak?	in front or behind?	grupo	0    	0000-00-00 00:00:00
+level	antaŭ aŭ post?	før eller etter?	before or after?	grupo	0    	0000-00-00 00:00:00
+level	tie malantaŭ la pordo	der bak døren	there behind the door	grupo	0    	0000-00-00 00:00:00
+level	aliaj, aliaj homoj	andre, andre mennesker	others, other people	grupo	0    	0000-00-00 00:00:00
+level	leteroj de aliaj	brev fra andre	letters from others	grupo	0    	0000-00-00 00:00:00
+level	falis el la mano	falt ut av hånden	fell out of the hand	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, sur la tablon	på bordet, på bordet	on the table, onto the table	grupo	0    	0000-00-00 00:00:00
+level	ĝi falis sur la tablon	den falt på bordet	it fell on the table	grupo	0    	0000-00-00 00:00:00
+level	petis pardonon	ba om tilgivelse	asked for pardon	grupo	0    	0000-00-00 00:00:00
+level	serĉis kvin librojn	søkte etter fem bøker	was searching for five books	grupo	0    	0000-00-00 00:00:00
+level	pardonu, mi serĉis mian libron	beklager, jeg lette etter boken min.	sorry, I was looking for my book.	grupo	0    	0000-00-00 00:00:00
+level	sed vi bone scias	men du vet godt	but you know well	grupo	0    	0000-00-00 00:00:00
+level	ne estas sur mia tablo	er ikke på bordet mitt	is not on my table	grupo	0    	0000-00-00 00:00:00
+level	viaj libroj ne estas sur mia tablo	bøkene dine ligger ikke på bordet mitt	your books are not on my table	grupo	0    	0000-00-00 00:00:00
+level	ree donis, redonis	igjen ga, returnerte	again gave, returned	grupo	0    	0000-00-00 00:00:00
+level	redonu la leteron al mi.	returner brevet til meg	return the letter to me	grupo	0    	0000-00-00 00:00:00
+level	ricevis bonan lecionon	fikk en god leksjon	received a good lesson	grupo	0    	0000-00-00 00:00:00
+level	plu lavis, ne plu manĝis	videre vasket, spiste mer	further washed, ate any more	grupo	0    	0000-00-00 00:00:00
+level	ne plu legos	vil ikke lenger lese	will no longer read	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi ricevis	Jeg fikk også	I also received	grupo	0    	0000-00-00 00:00:00
+level	devas fermi	må stenge	has to close	grupo	0    	0000-00-00 00:00:00
+level	mi devas bone fermi	Jeg må lukke godt	I have to close well	grupo	0    	0000-00-00 00:00:00
+level	bone fermis la pordon	lukket døren godt	closed the door tightly	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝu	roe ned, roe ned	calm, calm down	grupo	0    	0000-00-00 00:00:00
+level	aŭdis sed ne aŭskultis	hørt, men ikke lyttet	heard but did not listen	grupo	0    	0000-00-00 00:00:00
+level	aŭdis trankvilan sonon	hørte en rolig lyd	heard a calm sound	grupo	0    	0000-00-00 00:00:00
+level	ĉe mi estis kvar poŝoj	hos meg er det 4 lommer	at me, there are 4 pockets	grupo	0    	0000-00-00 00:00:00
+level	dek tagoj post la lasta leciono	ti dager etter siste leksjon	ten days after the last lesson	grupo	0    	0000-00-00 00:00:00
+level	inter la du tabloj	mellom de to bordene	between the two tables	grupo	0    	0000-00-00 00:00:00
+level	tri leteroj, ses paperoj	tre brev, seks papirer	three letters, six papers	grupo	0    	0000-00-00 00:00:00
+level	de kapo ĝis piedo	fra topp til fot	from head to foot	grupo	0    	0000-00-00 00:00:00
+level	kvar, kvara, kvaropo, kvarono	fire, fjerde, en kvartett, en kvart	four, fourth, a quartet, a quarter	grupo	0    	0000-00-00 00:00:00
+level	kien iris la triopo?	hvor ble det av trioen	where did the trio go	grupo	0    	0000-00-00 00:00:00
+level	kvin fingroj en ambaŭaj manoj	fem fingre i begge hender	five fingers in both hands	grupo	0    	0000-00-00 00:00:00
+level	si mem, sia poŝo	av seg selv, sin egen lomme	by oneself, one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	meti, kunmeti, kunmetaĵo	sette, sette sammen, en sammensetning	put, put together, a compound	grupo	0    	0000-00-00 00:00:00
+level	metis en sian poŝon	putte i egen lomme	put in one's own pocket	grupo	0    	0000-00-00 00:00:00
+level	du cent nacioj en la mondo	to hundre nasjoner i verden	two hundred nations in the world	grupo	0    	0000-00-00 00:00:00
+level	prenis, forprenis	tok, tok bort	took, took away	grupo	0    	0000-00-00 00:00:00
+level	prenis sep el siaj naŭ libroj	tok syv av sine egne ni bøker	took seven out of his own nine books	grupo	0    	0000-00-00 00:00:00
+level	lasi, forlasita	å forlate, forlatt	to leave, abandoned	grupo	0    	0000-00-00 00:00:00
+level	lasu min sola kaj trankvila	la meg være i fred og ro	leave me alone and calm	grupo	0    	0000-00-00 00:00:00
+level	mil ok cent ok dek sep	tusen åtte hundre og åtisju (1887)	thousand eight hundred and eighty seven (1887)	grupo	0    	0000-00-00 00:00:00
+level	taso da teo	en kopp te	a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	oni lavis ok tasojn	noen vasket åtte kopper	somebody washed eight cups	grupo	0    	0000-00-00 00:00:00
+level	du mil dek naŭ	to tusen nitten (2019)	two thousand nineteen (2019)	grupo	0    	0000-00-00 00:00:00
+level	li lavis sin	han vasket seg	he washed himself	grupo	0    	0000-00-00 00:00:00
+level	sia korpo, sia propra posedo	ens kropp, ens egen eiendel	one's body, one's own possession	grupo	0    	0000-00-00 00:00:00
+level	sur la tablo, la kato dormis	på bordet sov katten	on the table, the cat slept	grupo	0    	0000-00-00 00:00:00
+level	la kato saltis sur la tablon	katten hoppet på bordet	the cat jumped onto the table	grupo	0    	0000-00-00 00:00:00
+level	en la halo, en la halon	i hallen, inn i hallen	in the hall, into the hall	grupo	0    	0000-00-00 00:00:00
+level	enfalis en lian manon	falt i hånden hans	fell into his hand	grupo	0    	0000-00-00 00:00:00
+level	labori, ellabori	å arbeide, å utdype	to work, to elaborate	grupo	0    	0000-00-00 00:00:00
+level	ellabori por tiu libro	å utdype for den boken	to elaborate for that book	grupo	0    	0000-00-00 00:00:00
+level	scias, scivolas, scivolo	vet, vil vite, nysgjerrighet	knows, wants to know, curiosity	grupo	0    	0000-00-00 00:00:00
+level	dulingva, dulingveco	tospråklighet, tospråklighet	bilingual, bilingualism	grupo	0    	0000-00-00 00:00:00
+level	scivolas pri trilingva lernanto	undrer seg over en trespråklig elev	wonders about a trilingual learner	grupo	0    	0000-00-00 00:00:00
+level	iris, reiris	gikk, kom tilbake	went, returned	grupo	0    	0000-00-00 00:00:00
+level	la katoj reiris al siaj domoj	kattene vendte tilbake til sine (egne) hjem	the cats returned to their (own) homes	grupo	0    	0000-00-00 00:00:00
+level	en la sako, en la sakon	i posen, inn i posen	in the bag, into the bag	grupo	0    	0000-00-00 00:00:00
+level	enmetu ĝin en vian sakon	legg den i vesken	put it into your bag	grupo	0    	0000-00-00 00:00:00
+level	piedo, piediras, piediranto	en fot, går, en fotgjenger	a foot, walks, a pedestrian	grupo	0    	0000-00-00 00:00:00
+level	dek-tage ili piediris	i ti dager gikk de	for ten days, they walked	grupo	0    	0000-00-00 00:00:00
+level	preni, elpreni	å ta, å ta ut	to take, to take out	grupo	0    	0000-00-00 00:00:00
+level	belaj floroj, prenis belajn florojn	vakre blomster, tok vakre blomster	beautiful flowers, took beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	li elprenis nur belajn florojn	han tok ut bare vakre blomster	he took out only beautiful flowers	grupo	0    	0000-00-00 00:00:00
+level	malfermis, sed tuj fermis	åpnet, men lukket umiddelbart	opened, but immediately closed	grupo	0    	0000-00-00 00:00:00
+level	malfermis internacian kunvenon	åpnet et internasjonalt møte	opened an international meeting	grupo	0    	0000-00-00 00:00:00
+level	eldonis kaj disdonis	publisert og distribuert	published and distributed	grupo	0    	0000-00-00 00:00:00
+level	la eldonisto eldonis dudek tri librojn	forlaget ga ut tjuetre bøker	the publisher published twenty-three books	grupo	0    	0000-00-00 00:00:00
+level	revenis kaj revidis sian filon	kom tilbake og så sin egen sønn igjen	returned and saw one's own son again	grupo	0    	0000-00-00 00:00:00
+level	en la jaro dumil dudek tri	i året to tusen og tjuetre (2023)	in the year two thousand and twenty three (2023)	grupo	0    	0000-00-00 00:00:00
+level	sinjoro eniris la vendejon	en herre kom inn (inn i) butikken	a gentleman entered (into) the store	grupo	0    	0000-00-00 00:00:00
+level	la vendejo de aŭtoj	butikken av biler	the store of cars	grupo	0    	0000-00-00 00:00:00
+level	tie li vidas sinjorinon	der ser han en dame	there he sees a lady	grupo	0    	0000-00-00 00:00:00
+level	karaj gesinjoroj	kjære damer og herrer	dear ladies and gentlemen	grupo	0    	0000-00-00 00:00:00
+level	tio plaĉis al mi	det gledet meg (jeg liker det)	that pleased me (I like that)	grupo	0    	0000-00-00 00:00:00
+level	la sinjorino plaĉis al li	damen likte ham (han likte damen)	the lady pleased him (he liked the lady)	grupo	0    	0000-00-00 00:00:00
+level	vidis la belan sinjorinon	så den vakre damen	saw the beautiful lady	grupo	0    	0000-00-00 00:00:00
+level	kiu plaĉis al li?	hvem gledet ham? (hvem likte han?)	who pleased him? (whom did he like?)	grupo	0    	0000-00-00 00:00:00
+level	la virino, kiu plaĉis al mi	kvinnen, som gledet meg	the woman, who pleased me	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu eniris la domon	den som kom inn i huset	the one who entered the house	grupo	0    	0000-00-00 00:00:00
+level	la viro, kiu donacis ĝin	mannen som donerte det	the man who donated it	grupo	0    	0000-00-00 00:00:00
+level	li donacis ringon al lia edzino	han ga en ring til sin kone	he gave a ring to his wife	grupo	0    	0000-00-00 00:00:00
+level	la ringo plaĉis al ŝi	hun likte ringen	she liked the ring	grupo	0    	0000-00-00 00:00:00
+level	la edzino, al kiu la ringo plaĉis	kona som likte ringen	the wife who liked the ring	grupo	0    	0000-00-00 00:00:00
+level	vendisto laboras en la vendejo	en selger jobber i butikken	a salesman works in the store	grupo	0    	0000-00-00 00:00:00
+level	vendisto de aŭtoj	en selger av biler	a salesman of cars	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro demandis al la vendisto	spurte herren selgeren	the gentleman asked the salesman	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto plaĉas al vi?	hvilken bil liker du?	which car do you like?	grupo	0    	0000-00-00 00:00:00
+level	kiun aŭton vi elektos?	hvilken bil vil du velge?	which car will you choose?	grupo	0    	0000-00-00 00:00:00
+level	mi elektis tiun aŭton	Jeg valgte den bilen	I chose that car	grupo	0    	0000-00-00 00:00:00
+level	ĝi estas pli bona	det er bedre	it is better	grupo	0    	0000-00-00 00:00:00
+level	pli bona ol ĉi tio	bedre enn dette	better than this	grupo	0    	0000-00-00 00:00:00
+level	plej bona el ili	beste av dem	best of them	grupo	0    	0000-00-00 00:00:00
+level	estas la plej bona	er den beste	is the best	grupo	0    	0000-00-00 00:00:00
+level	kiu aŭto estas la plej bona?	hvilken bil er best?	which car is the best?	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi aŭto estas pli bona	denne bilen er bedre	this car is better	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi estas la plej bona	denne er den beste	this one is the best	grupo	0    	0000-00-00 00:00:00
+level	vidis ĉiujn aŭtojn	så alle bilene	saw all the cars	grupo	0    	0000-00-00 00:00:00
+level	la plej bona el ĉiuj	det beste av alt	the best of all	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝi estas rapida?	er det raskt?	is it fast?	grupo	0    	0000-00-00 00:00:00
+level	pli rapida ol aliaj	raskere enn andre	faster than others	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ forta	er også sterk	is also strong	grupo	0    	0000-00-00 00:00:00
+level	ho jes, kompreneble!	Ja selvfølgelig!	oh yes, of course!	grupo	0    	0000-00-00 00:00:00
+level	estas tre forta	er veldig sterk	is very strong	grupo	0    	0000-00-00 00:00:00
+level	certe ĝi estas forta	visst er den sterk	certainly it is strong	grupo	0    	0000-00-00 00:00:00
+level	estas ankaŭ multekosta	er også dyrt	is also expensive	grupo	0    	0000-00-00 00:00:00
+level	la plej multekosta el ĉiuj	den dyreste av alle	the most expensive of all	grupo	0    	0000-00-00 00:00:00
+level	malmultekosta sed forta	billig, men sterk	cheap but strong	grupo	0    	0000-00-00 00:00:00
+level	bedaŭras kaj bedaŭrindas	synes synd og er medlidende (verdt å synes synd)	feels sorry and is pityful (worth feeling sorry)	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde mi ne aĉetos	Jeg vil dessverre ikke kjøpe	unfortunately I will not buy	grupo	0    	0000-00-00 00:00:00
+level	estas bedaŭrinda afero	er en uheldig ting	is an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	li aĉetis novan aŭton	han kjøpte en ny bil	he bought a new car	grupo	0    	0000-00-00 00:00:00
+level	ĉar mi ne havas monon	fordi jeg ikke har penger	because I do not have money	grupo	0    	0000-00-00 00:00:00
+level	mia malnova aŭto	min gamle bil	my old car	grupo	0    	0000-00-00 00:00:00
+level	la plej malmultekosta el ĉiuj	den billigste av alle	the cheapest of all	grupo	0    	0000-00-00 00:00:00
+level	mi veturos tien	Jeg kjører dit	I'll drive there	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ veturos per ĝi	vil fortsatt kjøre med den	will still drive with it	grupo	0    	0000-00-00 00:00:00
+level	dum la tuta tago	hele dagen	all day long	grupo	0    	0000-00-00 00:00:00
+level	dum li diris tion	mens han sa det	while he said that	grupo	0    	0000-00-00 00:00:00
+level	li denove rigardis ŝin	han så på henne igjen	he looked at her again	grupo	0    	0000-00-00 00:00:00
+level	sed la vendisto diris	men selgeren sa	but the salesman said	grupo	0    	0000-00-00 00:00:00
+level	estus pli bone, ke ~	det ville være bedre at ~	it would be better that ~	grupo	0    	0000-00-00 00:00:00
+level	rigardu tiun ĉi sinjorinon	se på denne damen	look at this lady	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ tio estas tre multekosta	det er også veldig dyrt	that is also very expensive	grupo	0    	0000-00-00 00:00:00
+level	mi estas ŝia edzo	Jeg er mannen hennes	I am her husband	grupo	0    	0000-00-00 00:00:00
+level	kiom via vojaĝo kostis?	hvor mye kostet turen din?	how much did your trip cost?	grupo	0    	0000-00-00 00:00:00
+level	aŭskultu la kanton de via edzino	hør på din kones sang	listen to your wife's song	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ĝi tre multe kostas	ikke glem at det koster mye	don’t forget that it costs a lot	grupo	0    	0000-00-00 00:00:00
+level	li helpis la vendiston dum du horoj	han hjalp selgeren i to timer	he helped the salesman for two hours	grupo	0    	0000-00-00 00:00:00
+level	jam pli ol tri jaroj	i mer enn tre år	for more than three years	grupo	0    	0000-00-00 00:00:00
+level	kovri, kovrilo, malkovri	dekke, dekke, avdekke (oppdage)	cover, cover, uncover (discover)	grupo	0    	0000-00-00 00:00:00
+level	la kialon li ankoraŭ ne malkovris	årsaken han ennå ikke har oppdaget	the reason he has not yet discovered	grupo	0    	0000-00-00 00:00:00
+level	kial vi komencis sendi leterojn?	hvorfor begynte du å sende brev?	why did you start sending letters?	grupo	0    	0000-00-00 00:00:00
+level	dum ok monatoj li vivis tie	i åtte måneder bodde han der	for eight months he lived there	grupo	0    	0000-00-00 00:00:00
+level	ne havis tempon por aŭskulti	hadde ikke tid til å lytte	didn't have time to listen	grupo	0    	0000-00-00 00:00:00
+level	la aŭto estis jam plena	bilen var allerede full	the car was already full	grupo	0    	0000-00-00 00:00:00
+level	kion vi manĝas?	hva spiser du	what are you eating	grupo	0    	0000-00-00 00:00:00
+level	kia estas la vetero?	hvordan er været?	what's the weather like?	grupo	0    	0000-00-00 00:00:00
+level	kian aŭton vi havas?	hva slags bil har du?	what kind of car do you have?	grupo	0    	0000-00-00 00:00:00
+level	kiaj estis ŝiaj leteroj?	hvordan var brevene hennes?	what were her letters like?	grupo	0    	0000-00-00 00:00:00
+level	kie ni estas?	hvor er vi?	where are we?	grupo	0    	0000-00-00 00:00:00
+level	kien vi iras?	hvor skal du?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ĝin?	hvem ga du det til?	to whom did you give it?	grupo	0    	0000-00-00 00:00:00
+level	la viro, kun kiu vi vojaĝis	mannen du reiste med	the man whom you traveled with	grupo	0    	0000-00-00 00:00:00
+level	pli granda ol la aŭto	større enn bilen	bigger than the car	grupo	0    	0000-00-00 00:00:00
+level	la plej alta el tiuj homoj	den høyeste av disse menneskene	the tallest of those people	grupo	0    	0000-00-00 00:00:00
+level	li sidis dum la manĝo	han satt til middag	he was sitting at dinner	grupo	0    	0000-00-00 00:00:00
+level	ŝi skribas dum li legas	hun skriver mens han leser	she writes while he reads	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie, en ĉi tiu ĉambro	her, i dette rommet	here, in this room	grupo	0    	0000-00-00 00:00:00
+level	tiu ĉi sinjoro	denne herren	this gentleman	grupo	0    	0000-00-00 00:00:00
+level	aŭskultinda novaĵo	en nyhet verdt å lytte til	a news worth listening	grupo	0    	0000-00-00 00:00:00
+level	la libro estas vere leginda	boken er virkelig verdt å lese	the book is really worth reading	grupo	0    	0000-00-00 00:00:00
+level	bedaŭra afero	en uheldig ting	an unfortunate thing	grupo	0    	0000-00-00 00:00:00
+level	bedaŭrinde, mi ne povas	det kan jeg dessverre ikke	unfortunately, I can't	grupo	0    	0000-00-00 00:00:00
+level	nedankinde. estis mia plezuro	vær så god. det var bare hyggelig	you are welcome. it was my pleasure	grupo	0    	0000-00-00 00:00:00
+level	eta belulino ege belas	liten pen jente er veldig vakker	small pretty girl is very beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj amikoj amas ŝin	alle venner elsker henne	all friends love her	grupo	0    	0000-00-00 00:00:00
+level	antaŭ tri monatoj	tre måneder siden	three months ago	grupo	0    	0000-00-00 00:00:00
+level	okazis malbono al ŝi	noe vondt skjedde med henne	something bad happened to her	grupo	0    	0000-00-00 00:00:00
+level	ŝi falis pro aŭto	hun falt på grunn av en bil	she fell because of a car	grupo	0    	0000-00-00 00:00:00
+level	malsaniĝis kaj temperaturo altiĝis	ble syk og temperaturen steg	became ill and temperature rose	grupo	0    	0000-00-00 00:00:00
+level	patrino diris, ke ŝi devas ripozi	mor sa hun skulle hvile	mother said she should rest	grupo	0    	0000-00-00 00:00:00
+level	ŝi devas resti hejme	hun må bli hjemme	she has to stay home	grupo	0    	0000-00-00 00:00:00
+level	ŝi vokos doktoron	hun vil ringe en lege	she will call a doctor	grupo	0    	0000-00-00 00:00:00
+level	je la naŭa horo	klokken ni	at nine o'clock	grupo	0    	0000-00-00 00:00:00
+level	matene venis je la oka	om morgenen kom klokken åtte	in the morning came at eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	je la sepa morgaŭ vespere	klokken syv i morgen kveld	at seven tomorrow evening	grupo	0    	0000-00-00 00:00:00
+level	montris liajn manojn	viste hendene	showed his hands	grupo	0    	0000-00-00 00:00:00
+level	vesto, vestiĝas	kjole, kler på seg	dress, is getting dressed	grupo	0    	0000-00-00 00:00:00
+level	vestiĝu kaj varmigu vian korpon	kle på deg og varme kroppen	get dressed and warm your body	grupo	0    	0000-00-00 00:00:00
+level	hejme tuj malvestis kaj duŝis	hjemme kledde seg umiddelbart av og dusjet	at home immediately undressed and showered	grupo	0    	0000-00-00 00:00:00
+level	doktoro rigardis ĉion	en lege så på alt	a doctor looked at everything	grupo	0    	0000-00-00 00:00:00
+level	bone rigardis kaj fine diris	så grundig og sa til slutt	looked throughly and finally said	grupo	0    	0000-00-00 00:00:00
+level	unu semajnon restu hejme	bli hjemme en uke	stay home for a week	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi estu trankvila	vil at du skal være rolig	wants you to be calm	grupo	0    	0000-00-00 00:00:00
+level	post unu semajno	etter en uke	after one week	grupo	0    	0000-00-00 00:00:00
+level	vi fartos pli bone	du vil føle deg bedre	you will feel better	grupo	0    	0000-00-00 00:00:00
+level	trinku multe da teo	drikk mye te	drink plenty of tea	grupo	0    	0000-00-00 00:00:00
+level	venos por revidi vin	kommer for å se deg igjen	will come to see you again	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li estu trankvila	la han også være rolig	let him be calm too	grupo	0    	0000-00-00 00:00:00
+level	sana homo, sanulo	sunn mann, frisk person	healthy man, healthy person	grupo	0    	0000-00-00 00:00:00
+level	zorgis pri si mem	tok vare på seg selv	took care of oneself	grupo	0    	0000-00-00 00:00:00
+level	tuta afero tuje utilis al mi	det hele var nyttig for meg med en gang	the whole thing was useful to me at once	grupo	0    	0000-00-00 00:00:00
+level	rimarkis, ke teruraĵo proksimas	la merke til at forferdelig ting er nær	noticed that horrible thing is near	grupo	0    	0000-00-00 00:00:00
+level	petis tuj rimarki ĝin	bedt om å legge merke til det umiddelbart	asked to notice it immediately	grupo	0    	0000-00-00 00:00:00
+level	pensis, ke tio ne necesas	trodde det ikke var nødvendig	thought that was not necessary	grupo	0    	0000-00-00 00:00:00
+level	loĝis proksime, kaj tio utilis	bodde i nærheten, og det var nyttig	lived nearby, and that was useful	grupo	0    	0000-00-00 00:00:00
+level	nia lando hodiaŭ teruriĝis	landet vårt ble livredd i dag	our country became terrified today	grupo	0    	0000-00-00 00:00:00
+level	karaj infanoj el ĉiuj familioj	kjære barn fra alle familier	dear children from all families	grupo	0    	0000-00-00 00:00:00
+level	unu fojon hieraŭ, du fojojn morgaŭ	en gang i går, to ganger i morgen	once yesterday, twice tomorrow	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ familioj bezonas infanojn	i dag trenger familier barn	today families need children	grupo	0    	0000-00-00 00:00:00
+level	esperis, ke li fartos bone morgaŭ	håpet han skulle bli frisk i morgen	hoped he would be well tomorrow	grupo	0    	0000-00-00 00:00:00
+level	li fartis ege trankvila	han følte seg (har vært) veldig rolig	he was feeling (has been) very calm	grupo	0    	0000-00-00 00:00:00
+level	tri etuloj altigis la monton	tre små reiste fjellet	three little ones raised the mountain	grupo	0    	0000-00-00 00:00:00
+level	gravuloj ne petis helpon	viktige personer ba ikke om hjelp	important people did not ask for help	grupo	0    	0000-00-00 00:00:00
+level	piediris tien por helpi	gikk dit for å hjelpe	walked there to help	grupo	0    	0000-00-00 00:00:00
+level	restu hejme se temperaturo altas	bli hjemme hvis temperaturen er høy	stay home if temperature is high	grupo	0    	0000-00-00 00:00:00
+level	temperaturo restis simila hodiaŭ	temperaturen holdt seg lik i dag	temperature remained similar today	grupo	0    	0000-00-00 00:00:00
+level	voku la doktoron je la naŭa	ring legen klokken ni	call the doctor at nine	grupo	0    	0000-00-00 00:00:00
+level	montru ĝin al via doktoro	vis det til legen din	show it to your doctor	grupo	0    	0000-00-00 00:00:00
+level	por montri vian piedon	å vise foten din	to show your foot	grupo	0    	0000-00-00 00:00:00
+level	vestu ĉi tiun ĉemizon	bruk denne skjorten	wear this shirt	grupo	0    	0000-00-00 00:00:00
+level	semajnfine ĉio trankviliĝos	i helgen vil alt roe seg	on the weekend everything will calm down	grupo	0    	0000-00-00 00:00:00
+level	sub la te-taso kion vi trovis?	hva fant du under tekoppen?	under the tea-cup what did you find?	grupo	0    	0000-00-00 00:00:00
+level	mi deziras matenan teon	Jeg vil ha morgente	I want morning tea	grupo	0    	0000-00-00 00:00:00
+level	esperis trankvilan vesperon	håpet på en rolig kveld	hoped for a quiet evening	grupo	0    	0000-00-00 00:00:00
+level	deziras, ke vi lernu	ønsker at du lærer	wants that you learn	grupo	0    	0000-00-00 00:00:00
+level	insistis, ke mi iru	insisterte på at jeg skulle gå	insisted that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo?	til hvilken tid?	at what hour?	grupo	0    	0000-00-00 00:00:00
+level	je la sesa, li venos	klokken seks kommer han	at six he will come	grupo	0    	0000-00-00 00:00:00
+level	la libreto estis ĉarma	librettoen var sjarmerende	the libretto was charming	grupo	0    	0000-00-00 00:00:00
+level	estu trankvila	vær stille	be quiet	grupo	0    	0000-00-00 00:00:00
+level	li estu trankvila	la ham være stille	let him be quiet	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ li	han også	he too	grupo	0    	0000-00-00 00:00:00
+level	mi deziras	jeg vil ha (ønske)	I want (desire)	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke ~	Jeg ønsker (ønsker) at ~	I wish (desire) that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi lernu	at du lærer	that you learn	grupo	0    	0000-00-00 00:00:00
+level	mi deziras, ke vi lernu	Jeg vil at du skal lære	I want you to learn	grupo	0    	0000-00-00 00:00:00
+level	patro insistas	insisterer far	father insists	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke ~	far insisterer på at ~	father insists that ~	grupo	0    	0000-00-00 00:00:00
+level	ke mi iru	at jeg går	that I go	grupo	0    	0000-00-00 00:00:00
+level	patro insistas, ke mi iru	far insisterer på at jeg går	father insists that I go	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo	til hvilken time	at what hour	grupo	0    	0000-00-00 00:00:00
+level	je kioma horo vi venos?	når kommer du?	what time do you come?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina	klokken fem)	at five (o'clock)	grupo	0    	0000-00-00 00:00:00
+level	je la kvina horo	klokken fem	at five o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiel li fartas?	hvordan har han det?	how does he doing?	grupo	0    	0000-00-00 00:00:00
+level	kiel vi fartis lastatempe?	hvordan har du hatt det i det siste?	how have you been lately?	grupo	0    	0000-00-00 00:00:00
+level	etaj libroj belas	små bøker er vakre	little books are beautiful	grupo	0    	0000-00-00 00:00:00
+level	libreto, belaj libroj	et hefte, vakre bøker	a booklet, beautiful books	grupo	0    	0000-00-00 00:00:00
+level	bela, beleta, belega	vakker, litt pen, veldig vakker	beautiful, a little pretty, very beautiful	grupo	0    	0000-00-00 00:00:00
+level	varma, varmeta, varmega	varm, lunken, veldig varm	warm, lukewarm, very hot	grupo	0    	0000-00-00 00:00:00
+level	librego, libreto	en stor bok, et hefte	a big book, a booklet	grupo	0    	0000-00-00 00:00:00
+level	bona, bonega, bonege	bra, flott, vel	good, great, well	grupo	0    	0000-00-00 00:00:00
+level	riĉa, riĉiĝi, riĉulo	rik, bli rik, en rik person	rich, become rich, a rich person	grupo	0    	0000-00-00 00:00:00
+level	trankvila, trankviliĝi, trankviliĝu	roe ned, roe ned, roe ned	calm, to calm down, calm down	grupo	0    	0000-00-00 00:00:00
+level	sana, resaniĝi, resaniĝis	sunn, å bli helbredet, ble helbredet	healthy, to become healed, became healed	grupo	0    	0000-00-00 00:00:00
+level	edzo, edziĝo, geedziĝis	en mann, ekteskap, gift	a husband, marriage, married	grupo	0    	0000-00-00 00:00:00
+level	leterportisto	et brevpostbud	a letter postman	grupo	0    	0000-00-00 00:00:00
+level	hejmlando	et hjemland	a homeland	grupo	0    	0000-00-00 00:00:00
+level	iom, iomete	litt, litt	somewhat, a little	grupo	0    	0000-00-00 00:00:00
+level	ni bonege vespermanĝis	vi hadde en flott middag	we had a great dinner	grupo	0    	0000-00-00 00:00:00
+level	espereble, prizorgu vin	forhåpentligvis, ta vare på deg selv	hopefully, take care of yourself	grupo	0    	0000-00-00 00:00:00
+level	mi zorgis pri la altkvalita loĝejo	Jeg brydde meg om boliger av høy kvalitet	I cared about the high-quality housing	grupo	0    	0000-00-00 00:00:00
+level	pripensu dufoje, multfoje	tenk to ganger, mange ganger	think twice, many times	grupo	0    	0000-00-00 00:00:00
+level	kiu deprenis la libreton?	hvem tok ned heftet?	who took down the booklet?	grupo	0    	0000-00-00 00:00:00
+level	kato, kiu nomiĝas Cezaro	en katt som heter Cæsar	a cat named Caesar	grupo	0    	0000-00-00 00:00:00
+level	kuko, kiu estas sur la tablo	en kake som står på bordet	a cake which is on the table	grupo	0    	0000-00-00 00:00:00
+level	manĝu kukon, kiu estas sur la tablo	spise en kake som står på bordet	eat a cake that is on the table	grupo	0    	0000-00-00 00:00:00
+level	fariĝis varmega kaj ruĝiĝis	ble varm og rødmet	became hot and blushed	grupo	0    	0000-00-00 00:00:00
+level	patro volas, ke lia infano manĝu	en far vil at barnet hans skal spise	a father wants his child to eat	grupo	0    	0000-00-00 00:00:00
+level	en malgranda ĉambro	i et lite rom	in a small room	grupo	0    	0000-00-00 00:00:00
+level	ni loĝas en ~	vi bor i ~	we live in ~	grupo	0    	0000-00-00 00:00:00
+level	mi fariĝis maltrankvila	Jeg ble engstelig	I became anxious	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam mi vidis vin	på den tiden da jeg så deg	at that time when I saw you	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj rimarkis tion	alle la merke til det	everyone noticed that	grupo	0    	0000-00-00 00:00:00
+level	tion, ke ŝi estas belega	det faktum at hun er vakker	the fact that she is beautiful	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke ~ ?	vil du ha det ~? (deziri)	do you want that ~ ? (deziri)	grupo	0    	0000-00-00 00:00:00
+level	ke mi montru al vi	at jeg kan vise deg	that I may show you	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi deziras, ke mi montru?	vil du at jeg skal vise?	do you want me to show?	grupo	0    	0000-00-00 00:00:00
+level	mian plej novan libron	min nyeste bok (mål)	my newest book (objective)	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ matene, kion vi volas?	i morgen, hva vil du?	tomorrow morning, what do you want?	grupo	0    	0000-00-00 00:00:00
+level	matenmanĝis malfrue	spiste frokost sent	had breakfast late	grupo	0    	0000-00-00 00:00:00
+level	kiam Marko alvenos?	når kommer Mark?	when will Mark arrive?	grupo	0    	0000-00-00 00:00:00
+level	je la kvina aŭ je la oka horo	klokken fem eller åtte	at five or eight o'clock	grupo	0    	0000-00-00 00:00:00
+level	kiam vi rimarkis, ke ~ ?	når la du merke til det ~ ?	when did you notice that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la tuta familio nomas min bonfarulo	hele familien kaller meg en velgjører	the whole family calls me a benefactor	grupo	0    	0000-00-00 00:00:00
+level	utila por vi	nyttig for deg	useful for you	grupo	0    	0000-00-00 00:00:00
+level	ĉu la libreto estis utila?	var heftet nyttig?	was the booklet useful?	grupo	0    	0000-00-00 00:00:00
+level	tiu libreto, kiun mi sendis	heftet, som jeg sendte	the booklet, which I sent	grupo	0    	0000-00-00 00:00:00
+level	matene dormis tre longe	om morgenen sov lenge	in the morning slept for a long time	grupo	0    	0000-00-00 00:00:00
+level	kiam li vidis la sunon	da han så solen	when he saw the sun	grupo	0    	0000-00-00 00:00:00
+level	subite li eksaltis	plutselig spratt han opp	suddenly he jumped up	grupo	0    	0000-00-00 00:00:00
+level	li estis ĉiam frua	han var alltid tidlig ute	he was always early	grupo	0    	0000-00-00 00:00:00
+level	ĉiam li malfruas	han kommer alltid for sent	he is always late	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam li devas iri	på den tiden, når han må gå	at that time, when he has to go	grupo	0    	0000-00-00 00:00:00
+level	iri al la lernejo	å gå på skolen	to go to the school	grupo	0    	0000-00-00 00:00:00
+level	li scias, ke ~	han vet, at ~	he knows, that ~	grupo	0    	0000-00-00 00:00:00
+level	li scias tion, ke ~	han vet det faktum at ~	he knows the fact, that ~	grupo	0    	0000-00-00 00:00:00
+level	tion, ke la instruisto malŝatas abelon	det faktum at læreren hater bier	the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias tion, ke la instruisto malŝatas abelon	vet det faktum at læreren hater bier	knows the fact that the teacher hates bees	grupo	0    	0000-00-00 00:00:00
+level	scias, ke la instruisto malŝatas tion	vet at læreren hater det	knows that the teacher hates that	grupo	0    	0000-00-00 00:00:00
+level	sed hodiaŭ li trinkis la kafon	men i dag drakk han kaffen	but today he drank the coffee	grupo	0    	0000-00-00 00:00:00
+level	li rapide surmetas la vestaĵon	han tar raskt på seg klærne	he quickly puts on the clothes	grupo	0    	0000-00-00 00:00:00
+level	li ne volas malfrui	han vil ikke komme for sent	he doesn't want to be late	grupo	0    	0000-00-00 00:00:00
+level	rapidege kun la libroj en la mano	veldig raskt med bøkene i hånden	very quickly with the books in hand	grupo	0    	0000-00-00 00:00:00
+level	poste li kuris kaj saltis	senere løp han og hoppet	later he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	li kuris kaj saltis	han løp og hoppet	he ran and jumped	grupo	0    	0000-00-00 00:00:00
+level	laŭ la strato	langs gaten	along the street	grupo	0    	0000-00-00 00:00:00
+level	la homoj rigardis lin	folket så på ham	the people looked at him	grupo	0    	0000-00-00 00:00:00
+level	rigardis lin kaj diris	så på ham og sa	looked at him and said	grupo	0    	0000-00-00 00:00:00
+level	saĝa kaj malsaĝa	klok og tåpelig	wise and foolish	grupo	0    	0000-00-00 00:00:00
+level	kia malsaĝa knabo!	for en dum gutt!	what a foolish boy!	grupo	0    	0000-00-00 00:00:00
+level	estis antaŭ lernejo	var foran en skole	was in front of a school	grupo	0    	0000-00-00 00:00:00
+level	baldaŭ	snart	soon	grupo	0    	0000-00-00 00:00:00
+level	li estis antaŭ ~	han var foran ~	he was in front of ~	grupo	0    	0000-00-00 00:00:00
+level	iri kaj eniri	å gå og gå inn	to go and to enter	grupo	0    	0000-00-00 00:00:00
+level	li volis eniri	han ville inn	he wanted to enter	grupo	0    	0000-00-00 00:00:00
+level	eniri la lernejon	å komme inn på skolen	to enter into the school	grupo	0    	0000-00-00 00:00:00
+level	sed tamen	Men uansett	but however	grupo	0    	0000-00-00 00:00:00
+level	sed li ne povis	men han kunne ikke	but he couldn't	grupo	0    	0000-00-00 00:00:00
+level	fermi kaj fermita	å lukke og lukke	to close and closed	grupo	0    	0000-00-00 00:00:00
+level	ĝi estis fermita	den var stengt	it was closed	grupo	0    	0000-00-00 00:00:00
+level	nek ~ nek ~	verken ~ eller ~	neither ~ nor ~	grupo	0    	0000-00-00 00:00:00
+level	nek instruisto nek gelernantoj	verken lærer eller mannlige og kvinnelige elever	neither a teacher nor male-and-female students	grupo	0    	0000-00-00 00:00:00
+level	vidis nek instruiston nek gelernantojn	så verken lærer eller elever	saw neither a teacher nor students	grupo	0    	0000-00-00 00:00:00
+level	sidi, eksidi	å sitte, å bli sittende	to sit, to get sitted	grupo	0    	0000-00-00 00:00:00
+level	eksidis	satte seg (hadde sittet)	got seated (had seated)	grupo	0    	0000-00-00 00:00:00
+level	li eksidis	han satte seg	he got seated	grupo	0    	0000-00-00 00:00:00
+level	kaj pensis	og tenkte	and thought	grupo	0    	0000-00-00 00:00:00
+level	kio okazis?	hva skjedde?	what did happen?	grupo	0    	0000-00-00 00:00:00
+level	diable	til det forferdelige (som en djevel)	to the awful (like a devil)	grupo	0    	0000-00-00 00:00:00
+level	damne	dempe den	dam it	grupo	0    	0000-00-00 00:00:00
+level	memoras	husker	remembers	grupo	0    	0000-00-00 00:00:00
+level	nun mi memoras	nå husker jeg	now I remember	grupo	0    	0000-00-00 00:00:00
+level	dimanĉo	søndag	Sunday	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas ~	i dag er ~	today is ~	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ estas dimanĉo	idag er det søndag	today is Sunday	grupo	0    	0000-00-00 00:00:00
+level	dormi kaj ekdormi	å sove og å sovne	to sleep and to get into sleep	grupo	0    	0000-00-00 00:00:00
+level	suno kaj luno	en sol og en måne	a sun and a moon	grupo	0    	0000-00-00 00:00:00
+level	subita kaj subite	plutselig og plutselig	sudden and suddenly	grupo	0    	0000-00-00 00:00:00
+level	ek!	av! (å starte)	off! (to start)	grupo	0    	0000-00-00 00:00:00
+level	salti kaj eksaltis	å hoppe og hoppet	to jump and jumped 	grupo	0    	0000-00-00 00:00:00
+level	ĉiam frua	alltid tidlig	always early	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ metis kaj kuris	i dag satt og løp	today put and ran	grupo	0    	0000-00-00 00:00:00
+level	aĵo, ne aĝo	en ting ikke alder	a thing not age	grupo	0    	0000-00-00 00:00:00
+level	kuris laŭ homoj saĝaj	løp langs kloke mennesker	ran along wise people	grupo	0    	0000-00-00 00:00:00
+level	laŭeble baldaŭ	så fort som mulig	soon as possible	grupo	0    	0000-00-00 00:00:00
+level	kia knabo, kia knabino	for en gutt, for en jente	what a boy, what a girl	grupo	0    	0000-00-00 00:00:00
+level	nek pensita nek memorita	verken tenkt eller utenat	neither thought nor memorized	grupo	0    	0000-00-00 00:00:00
+level	diablo atendis akvon dimanĉe	en djevel ventet på vann på søndag	a devil waited for water on Sunday	grupo	0    	0000-00-00 00:00:00
+level	tiom malgranda momento	et så lite øyeblikk	such a small moment	grupo	0    	0000-00-00 00:00:00
+level	eĉ tiom malgranda momento valoras	selv et så lite øyeblikk er verdt	even such a small moment is worthwhile	grupo	0    	0000-00-00 00:00:00
+level	kriis for ĝis nokto	gråt bort til natten	cried away until night	grupo	0    	0000-00-00 00:00:00
+level	lasis la poŝton de la mano	legg postposten fra hånden	put away the mailpost from the hand	grupo	0    	0000-00-00 00:00:00
+level	ridis mem lasante la poŝton	lo av seg selv og la fra seg postposten	laughed by oneself, putting away the mailpost	grupo	0    	0000-00-00 00:00:00
+level	nek li nek ŝi ridis	verken han eller hun lo	neither he nor she laughed	grupo	0    	0000-00-00 00:00:00
+level	ŝi nek ridis nek respondis	hun verken lo eller svarte	she neither laughed nor answered	grupo	0    	0000-00-00 00:00:00
+level	li nek sidas nek rigardas	han verken sitter eller ser på	he neither sits nor watches	grupo	0    	0000-00-00 00:00:00
+level	neniam mi vidis	jeg har aldri sett	I have never seen	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros al iu	Jeg vil aldri fortelle det til noen	I will never tell anyone	grupo	0    	0000-00-00 00:00:00
+level	diru al neniu	fortell ingen	tell no one	grupo	0    	0000-00-00 00:00:00
+level	mi neniam diros	Jeg vil aldri si	I will never say	grupo	0    	0000-00-00 00:00:00
+level	mem	til seg selv (av seg selv)	to oneself (by oneself)	grupo	0    	0000-00-00 00:00:00
+level	mi mem faris	jeg gjorde det selv	I did it myself	grupo	0    	0000-00-00 00:00:00
+level	faris tion	gjorde det (gjorde det)	did it (made it)	grupo	0    	0000-00-00 00:00:00
+level	mem faris tion	gjorde det selv (laget det selv)	did it oneself (made it oneself)	grupo	0    	0000-00-00 00:00:00
+level	ĝis la revido, ĝis revido	sees (igjen), sees (igjen)	see you (again), see you (again)	grupo	0    	0000-00-00 00:00:00
+level	ĝis!	før! (ha det!)	until! (goodbye!)	grupo	0    	0000-00-00 00:00:00
+level	ekparoli	å begynne å snakke	to start talking	grupo	0    	0000-00-00 00:00:00
+level	ekparolis, komencis paroli finfine	begynte å si, begynte til slutt å snakke	started saying, began to speak at last	grupo	0    	0000-00-00 00:00:00
+level	trinkis rapidege	drakk veldig fort	drank very fast	grupo	0    	0000-00-00 00:00:00
+level	trinkis matenan trinkaĵon	tok en morgendrink	had a morning drink	grupo	0    	0000-00-00 00:00:00
+level	por frue veni	å komme tidlig	to come early	grupo	0    	0000-00-00 00:00:00
+level	veni al la lernejo	å komme til skolen	to come to school	grupo	0    	0000-00-00 00:00:00
+level	frue veni al ~	å komme tidlig til ~	to come early to ~	grupo	0    	0000-00-00 00:00:00
+level	ne aŭdis novaĵon	hørte ikke nyheter	didn't hear news	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ ne aŭdis	ikke hørt ennå	didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	mi ankoraŭ ne aŭdis	Jeg har ikke hørt ennå	I didn't hear yet	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento	i det øyeblikket	in that moment	grupo	0    	0000-00-00 00:00:00
+level	en tiu momento li ekkriis	i det øyeblikket gråt han	in that moment he cried	grupo	0    	0000-00-00 00:00:00
+level	knabo, kiu ne amas	en gutt, som ikke elsker	a boy, who does not love	grupo	0    	0000-00-00 00:00:00
+level	geknaboj	gutter og jenter	boys and girls	grupo	0    	0000-00-00 00:00:00
+level	aliaj geknaboj	andre gutter og jenter	other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	ne amas aliajn geknabojn	elsker ikke andre gutter og jenter	does not love other boys and girls	grupo	0    	0000-00-00 00:00:00
+level	nek amikojn, nek amikinojn	verken venner eller jentevenner	neither friends nor girl friends	grupo	0    	0000-00-00 00:00:00
+level	havas nek monon, nek tempon	har verken penger eller tid	does not have neither money nor time	grupo	0    	0000-00-00 00:00:00
+level	kiu havis la libron?	hvem hadde boka?	who had the book?	grupo	0    	0000-00-00 00:00:00
+level	la libron, kiun vi atendis	boken du ventet på	the book which you waited	grupo	0    	0000-00-00 00:00:00
+level	tiun, kiun vi atendis pli ol du jarojn	det, som du ventet i mer enn 2 år	that, which you waited for more than 2 years	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas tion?	vil du det?	do you want that?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas, ke ~ ?	vil du ha det ~?	do you want that ~ ?	grupo	0    	0000-00-00 00:00:00
+level	plej kara	kjæreste	dearest	grupo	0    	0000-00-00 00:00:00
+level	plej kara foto	kjæreste bilde	dearest photo	grupo	0    	0000-00-00 00:00:00
+level	mian plej karan foton	mitt kjæreste bilde	my dearest photo	grupo	0    	0000-00-00 00:00:00
+level	kie vi aĉetis ~ ?	hvor kjøpte du ~ ?	where did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	tiu vestaĵo	det klærne	that clothing	grupo	0    	0000-00-00 00:00:00
+level	tiun vestaĵon	det klærne (objektiv)	that clothing (objective)	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun vestaĵon	kjøpte det antrekket	bought that outfit	grupo	0    	0000-00-00 00:00:00
+level	vi iros tien	du skal dit	you will go there	grupo	0    	0000-00-00 00:00:00
+level	kien vi iros?	hvor skal du?	where are you going to?	grupo	0    	0000-00-00 00:00:00
+level	suna tago	solfylt dag	sunny day	grupo	0    	0000-00-00 00:00:00
+level	estos suna tago	det blir en solrik dag	it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	se estos suna tago	hvis det blir en solskinnsdag	if it will be a sunny day	grupo	0    	0000-00-00 00:00:00
+level	via frato jam ekiris	broren din har allerede begynt	your brother has already started	grupo	0    	0000-00-00 00:00:00
+level	ĉu via frato jam ekiris?	har broren din begynt enda?	has your brother started yet?	grupo	0    	0000-00-00 00:00:00
+level	kie estas la akvo?	hvor er vannet	where is the water	grupo	0    	0000-00-00 00:00:00
+level	kunporti la akvon	å ta med vannet	to bring the water	grupo	0    	0000-00-00 00:00:00
+level	vi mem kunportis	du selv tok med	you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	la akvon, kion vi mem kunportis	vannet, som du selv kom med	the water, that you yourself brought	grupo	0    	0000-00-00 00:00:00
+level	estis tre trankvila	var veldig stille	was very quiet	grupo	0    	0000-00-00 00:00:00
+level	hodiaŭ mia patrino estis ~	i dag var min mor ~	today my mother was ~	grupo	0    	0000-00-00 00:00:00
+level	mi venis el ~	Jeg kom fra ~	I came from ~	grupo	0    	0000-00-00 00:00:00
+level	el la lernejo	ut av skolen	out of the school	grupo	0    	0000-00-00 00:00:00
+level	raportis al ~	rapportert til ~	reported to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj raportis al ŝi	og rapporterte til henne	and reported to her	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke ~	rapporterte at ~	reported that ~	grupo	0    	0000-00-00 00:00:00
+level	raportis, ke mi ricevos	rapportert at jeg vil motta	reported that I will receive	grupo	0    	0000-00-00 00:00:00
+level	mi ricevos malbonan noton	Jeg får dårlig karakter	I will get a bad grade	grupo	0    	0000-00-00 00:00:00
+level	ŝi diris, ke ~	hun sa at ~	she said that ~	grupo	0    	0000-00-00 00:00:00
+level	vi devas laborigi ~	du må få ~ til å fungere	you have to make ~ work	grupo	0    	0000-00-00 00:00:00
+level	pli multe	mer	more	grupo	0    	0000-00-00 00:00:00
+level	pli multe laborigi	å gjøre jobben mer	to make work more	grupo	0    	0000-00-00 00:00:00
+level	laborigi vian kapon	å få hodet til å fungere	to make your head work	grupo	0    	0000-00-00 00:00:00
+level	kiom da malbonaj notoj	hvor mange dårlige karakterer	how many bad grades	grupo	0    	0000-00-00 00:00:00
+level	vi havas tiom da malbonaj notoj	du har så mange dårlige karakterer	you have so many bad grades	grupo	0    	0000-00-00 00:00:00
+level	estis malĝoja	var trist	was sad	grupo	0    	0000-00-00 00:00:00
+level	en vian ĉambron	inn på rommet ditt	into your room	grupo	0    	0000-00-00 00:00:00
+level	iru en vian ĉambron	gå inn på rommet ditt	go into your room	grupo	0    	0000-00-00 00:00:00
+level	iru kaj lernu	gå og lær	go and learn	grupo	0    	0000-00-00 00:00:00
+level	mi sidis	Jeg satt	I sat	grupo	0    	0000-00-00 00:00:00
+level	en mia ĉambro	på rommet mitt	in my room	grupo	0    	0000-00-00 00:00:00
+level	sidis en mia ĉambro	satt på rommet mitt	sat in my room	grupo	0    	0000-00-00 00:00:00
+level	nek lerni nek legi	verken lære eller lese	neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	sed mi povis nek lerni nek legi	men jeg kunne verken lære eller lese	but I could neither learn nor read	grupo	0    	0000-00-00 00:00:00
+level	miaj pensoj	mine tanker	my thoughts	grupo	0    	0000-00-00 00:00:00
+level	ĉe ludo	på et spill	at a game	grupo	0    	0000-00-00 00:00:00
+level	ludo kun miaj amikoj	spill med vennene mine	game with my friends	grupo	0    	0000-00-00 00:00:00
+level	ĉe sporto	på sport	at sport	grupo	0    	0000-00-00 00:00:00
+level	al mi mem	Til megselv	to myself	grupo	0    	0000-00-00 00:00:00
+level	diris al mi mem	sa til meg selv	said to myself	grupo	0    	0000-00-00 00:00:00
+level	tiom malsaĝa	Så dum	so stupid	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi estas tiom malsaĝa?	er jeg så dum?	am I that stupid?	grupo	0    	0000-00-00 00:00:00
+level	kvankam mi lernis multe	selv om jeg lærte mye	although I learned a lot	grupo	0    	0000-00-00 00:00:00
+level	la patrino eniris	kom moren inn	the mother entered	grupo	0    	0000-00-00 00:00:00
+level	miaj vortoj	mine ord	my words	grupo	0    	0000-00-00 00:00:00
+level	kaj aŭdis miajn vortojn	og hørte mine ord	and heard my words	grupo	0    	0000-00-00 00:00:00
+level	ŝi tuj respondis	svarte hun umiddelbart	she answered immediately	grupo	0    	0000-00-00 00:00:00
+level	ne, mia kara	Nei min kjære	no, my dear	grupo	0    	0000-00-00 00:00:00
+level	vi ne estas malsaĝa	du er ikke dum	you are not stupid	grupo	0    	0000-00-00 00:00:00
+level	la problemo estas, ke ~	problemet er at ~	the problem is that ~	grupo	0    	0000-00-00 00:00:00
+level	ke vi devas lerni	som du må lære	that you must learn	grupo	0    	0000-00-00 00:00:00
+level	devas lerni multe pli	må lære mye mer	must learn much more	grupo	0    	0000-00-00 00:00:00
+level	tiam vi ne havos	da vil du ikke ha	then you will not have	grupo	0    	0000-00-00 00:00:00
+level	malbonaj notoj	dårlige karakterer	bad grades	grupo	0    	0000-00-00 00:00:00
+level	havos nur malbonajn notojn	vil bare ha dårlige karakterer	will have only bad grades	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ nun	også nå	also now	grupo	0    	0000-00-00 00:00:00
+level	mi ne havas ilin	Jeg har dem ikke	I don't have them	grupo	0    	0000-00-00 00:00:00
+level	mi havas bonan noton	Jeg har en god karakter	I have a good grade	grupo	0    	0000-00-00 00:00:00
+level	pri muziko	om musikk	about music	grupo	0    	0000-00-00 00:00:00
+level	bonan noton pri muziko	en god note om musikk	a good note on music	grupo	0    	0000-00-00 00:00:00
+level	la patrino subite ekridis	moren brøt plutselig ut i latter	the mother suddenly burst out laughing	grupo	0    	0000-00-00 00:00:00
+level	tio plibeligis ~	som forskjønnet ~	that beautified ~	grupo	0    	0000-00-00 00:00:00
+level	mian tagon	dagen min	my day	grupo	0    	0000-00-00 00:00:00
+level	plibeligis mian tagon	gjorde dagen min bedre	made my day	grupo	0    	0000-00-00 00:00:00
+level	sed tamen restis	men fortsatt forble	but still remained	grupo	0    	0000-00-00 00:00:00
+level	sed la problemo tamen restis	men problemet gjensto fortsatt	but the problem still remained	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da ~	et kilo ~	a kilogram of ~	grupo	0    	0000-00-00 00:00:00
+level	kilogramo da sukero	et kilo sukker	a kilogram of sugar	grupo	0    	0000-00-00 00:00:00
+level	glaso da ~	et glass ~	a glass of ~	grupo	0    	0000-00-00 00:00:00
+level	glaso da akvo	et glass med vann	a glass of water	grupo	0    	0000-00-00 00:00:00
+level	multe da ~	mye ~	a lot of ~	grupo	0    	0000-00-00 00:00:00
+level	multe da ideoj	mange ideer	lots of ideas	grupo	0    	0000-00-00 00:00:00
+level	deteni sin	å holde tilbake	to hold back	grupo	0    	0000-00-00 00:00:00
+level	ordigis ĉion	ordnet alt	sorted everything out	grupo	0    	0000-00-00 00:00:00
+level	transdonis al li	overlevert ham	handed over to him	grupo	0    	0000-00-00 00:00:00
+level	mi petas	jeg spør	I'm asking	grupo	0    	0000-00-00 00:00:00
+level	glason da kafo	et glass kaffe	a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	kaj iom da akvo	og litt vann	and some water	grupo	0    	0000-00-00 00:00:00
+level	mi petas glason da kafo	Jeg vil ha et glass kaffe	I would like a glass of coffee	grupo	0    	0000-00-00 00:00:00
+level	mi petas tason da teo	Jeg vil gjerne ha en kopp te	I would like a cup of tea	grupo	0    	0000-00-00 00:00:00
+level	doloris lin	såre ham	hurt him	grupo	0    	0000-00-00 00:00:00
+level	la kapo doloris lin	hodet hans gjorde vondt	his head hurt	grupo	0    	0000-00-00 00:00:00
+level	li malsaniĝis	han ble syk	he fell ill	grupo	0    	0000-00-00 00:00:00
+level	ŝatas esti bela	liker å være vakker	likes to be beautiful	grupo	0    	0000-00-00 00:00:00
+level	ŝi beligis sian vizaĝon	hun forskjønnet ansiktet sitt	she beautified her face	grupo	0    	0000-00-00 00:00:00
+level	la knabo ŝatas esti bela	gutten liker å være pen	the boy likes to be pretty	grupo	0    	0000-00-00 00:00:00
+level	pro tio ŝi beligis ĝin	derfor forskjønnet hun den	therefore she beautified it	grupo	0    	0000-00-00 00:00:00
+level	post la tagmanĝo	etter lunsj	after lunch	grupo	0    	0000-00-00 00:00:00
+level	purigi la kuirejon	å rengjøre kjøkkenet	to clean the kitchen	grupo	0    	0000-00-00 00:00:00
+level	kiu purigos la kuirejon?	hvem skal vaske kjøkkenet?	who will clean the kitchen?	grupo	0    	0000-00-00 00:00:00
+level	volas trinki	ønsker å drikke	wants to drink	grupo	0    	0000-00-00 00:00:00
+level	kion vi volas trinki?	hva ønsker du å drikke	what do you want to drink	grupo	0    	0000-00-00 00:00:00
+level	trinki teon	å drikke te	to drink tea	grupo	0    	0000-00-00 00:00:00
+level	iom da akvo	litt vann	a little of water	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi volas nenion?	vil du ingenting?	do you want nothing?	grupo	0    	0000-00-00 00:00:00
+level	tiel subite	så plutselig	so suddenly	grupo	0    	0000-00-00 00:00:00
+level	kial vi decidis ~ ?	hvorfor bestemte du deg ~ ?	why did you decide ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial vi tiel subite decidis ~ ?	hvorfor bestemte du deg ~ så plutselig?	why did you decide ~ so suddenly?	grupo	0    	0000-00-00 00:00:00
+level	via ĉambro	rommet ditt	your room	grupo	0    	0000-00-00 00:00:00
+level	via ĉambreto	ditt lille rom	your little room	grupo	0    	0000-00-00 00:00:00
+level	vian ĉambreton	til det lille rommet ditt	to your little room	grupo	0    	0000-00-00 00:00:00
+level	renovigi vian ĉambreton	for å pusse opp det lille rommet ditt	to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	decidis renovigi vian ĉambreton	bestemte seg for å pusse opp det lille rommet ditt	decided to renovate your little room	grupo	0    	0000-00-00 00:00:00
+level	al kiu	til hvem	to whom	grupo	0    	0000-00-00 00:00:00
+level	vi donis ~	du ga ~	you gave ~	grupo	0    	0000-00-00 00:00:00
+level	al kiu vi donis ~ ?	til hvem ga du ~ ?	to whom did you give ~ ?	grupo	0    	0000-00-00 00:00:00
+level	puraj glasoj	rene briller	clean glasses	grupo	0    	0000-00-00 00:00:00
+level	vi donis la purajn glasojn	du ga de rene glassene	you gave the clean glasses	grupo	0    	0000-00-00 00:00:00
+level	la puraj glasoj por la vino	de rene glassene til vinen	the clean glasses for the wine	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu	mot hvem	against whom	grupo	0    	0000-00-00 00:00:00
+level	via sportklubo	idrettsklubben din	your sports club	grupo	0    	0000-00-00 00:00:00
+level	ludas kontraŭ ~	spiller mot ~	plays against ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ du semajnoj	to uker siden	two weeks ago	grupo	0    	0000-00-00 00:00:00
+level	kontraŭ kiu via sportklubo ludis?	hvem spilte idrettsklubben din mot?	who did your sports club play against?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi vidas ~ ?	ser du ~ ?	do you see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ofte vidas ~ ?	ser du ofte ~ ?	do you often see ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ofte vidas la policiston	ser ofte politimannen	often see the policeman	grupo	0    	0000-00-00 00:00:00
+level	tiu, kiu loĝas en ~	den som bor i ~	the one who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	loĝas en la loĝejo	bor på overnattingsstedet	lives in the lodging place	grupo	0    	0000-00-00 00:00:00
+level	la loĝejo super vi	boligen over deg	the dwelling place above you	grupo	0    	0000-00-00 00:00:00
+level	vidas la policiston, kiu loĝas en ~	ser politimannen som bor i ~	sees the police officer who lives in ~	grupo	0    	0000-00-00 00:00:00
+level	plano pri veturado	kjøreplan	driving plan	grupo	0    	0000-00-00 00:00:00
+level	volis vojaĝi	ønsket å reise	wanted to travel	grupo	0    	0000-00-00 00:00:00
+level	vojaĝi al alia lando	å reise til et annet land	to travel to another country	grupo	0    	0000-00-00 00:00:00
+level	en libertempo	på fritiden	in free time	grupo	0    	0000-00-00 00:00:00
+level	ili decidis iri	de bestemte seg for å gå	they decided to go	grupo	0    	0000-00-00 00:00:00
+level	decidis iri al Italio	bestemte seg for å reise til Italia	decided to go to Italy	grupo	0    	0000-00-00 00:00:00
+level	malnovaj urboj	gamle byer	old cities	grupo	0    	0000-00-00 00:00:00
+level	lando kun malnovaj urboj	et land med gamle byer	a country with old cities	grupo	0    	0000-00-00 00:00:00
+level	aliaj belaĵoj	andre skjønnheter	other beauties	grupo	0    	0000-00-00 00:00:00
+level	kaj aliaj belaĵoj	og andre skjønnheter	and other beauties	grupo	0    	0000-00-00 00:00:00
+level	bela lando kun malnovaj urboj kaj aliaj belaĵoj	et vakkert land med gamle byer og andre skjønnheter	a beautiful country with old cities and other beauties	grupo	0    	0000-00-00 00:00:00
+level	ili estis feliĉaj	de var glade	they were happy	grupo	0    	0000-00-00 00:00:00
+level	kie estas ~ ?	hvor er ~?	where is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia vestaĵo?	hvor er klærne mine	where are my clothes	grupo	0    	0000-00-00 00:00:00
+level	ŝi demandis ~	spurte hun ~	she asked ~	grupo	0    	0000-00-00 00:00:00
+level	ni ne forgesu kunporti ~	la oss ikke glemme å ta med ~	let's not forget to bring ~	grupo	0    	0000-00-00 00:00:00
+level	kunporti la libron	å ta med deg boka	to take the book with you	grupo	0    	0000-00-00 00:00:00
+level	libro por lerni Esperanton	en bok for å lære esperanto	a book to learn Esperanto	grupo	0    	0000-00-00 00:00:00
+level	kunporti libron por lerni	å bære en bok for å lære	to carry a book to learn	grupo	0    	0000-00-00 00:00:00
+level	ni povas komenci ~	vi kan starte ~	we can start ~	grupo	0    	0000-00-00 00:00:00
+level	en la vagonaro	i toget	in the train	grupo	0    	0000-00-00 00:00:00
+level	jam en la vagonaro	allerede i toget	already in the train	grupo	0    	0000-00-00 00:00:00
+level	ni nenion faros	vi vil ikke gjøre noe	we won't do anything	grupo	0    	0000-00-00 00:00:00
+level	per aŭto	med bil	by car	grupo	0    	0000-00-00 00:00:00
+level	ni veturos per ~	vi kjører forbi ~	we will drive by ~	grupo	0    	0000-00-00 00:00:00
+level	veturos per aŭto	vil kjøre bil	will drive a car	grupo	0    	0000-00-00 00:00:00
+level	mi havas sekreton	jeg har en hemmelighet	I have a secret	grupo	0    	0000-00-00 00:00:00
+level	mia riĉa onklo	min rike onkel	my rich uncle	grupo	0    	0000-00-00 00:00:00
+level	mia deziro	mitt ønske	my wish	grupo	0    	0000-00-00 00:00:00
+level	plenumis mian deziron	oppfylt ønsket mitt	fulfilled my wish	grupo	0    	0000-00-00 00:00:00
+level	donis al ni	gav oss	gave us	grupo	0    	0000-00-00 00:00:00
+level	sian aŭton	Hans bil	his car	grupo	0    	0000-00-00 00:00:00
+level	kaj donis al ni sian aŭton	og ga oss bilen sin	and gave us his car	grupo	0    	0000-00-00 00:00:00
+level	por uzo	for bruk	for use	grupo	0    	0000-00-00 00:00:00
+level	ĝi staras antaŭ ~	det står foran ~	it stands before ~	grupo	0    	0000-00-00 00:00:00
+level	staras antaŭ la domo	står foran huset	stands in front of the house	grupo	0    	0000-00-00 00:00:00
+level	mi devas diri ~	Jeg må si ~	I have to say ~	grupo	0    	0000-00-00 00:00:00
+level	nenion diru	ikke si noe	don't say anything	grupo	0    	0000-00-00 00:00:00
+level	ni eksidu	la oss sette oss ned	let's sit down	grupo	0    	0000-00-00 00:00:00
+level	eksidu en la aŭton	sett deg i bilen	get in the car	grupo	0    	0000-00-00 00:00:00
+level	veturi al ~	å kjøre til ~	to drive to ~	grupo	0    	0000-00-00 00:00:00
+level	kaj veturu al Italio	og kjøre til Italia	and drive to Italy	grupo	0    	0000-00-00 00:00:00
+level	sidis en la aŭto	satt i bilen	sat in the car	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ la vestaĵoj	også klærne	also the clothes	grupo	0    	0000-00-00 00:00:00
+level	~ estis en la aŭto	~ var i bilen	~ was in the car	grupo	0    	0000-00-00 00:00:00
+level	ankoraŭ sidadis kaj atendis	satt fortsatt og ventet	still sat and waited	grupo	0    	0000-00-00 00:00:00
+level	sed li atendis	men han ventet	but he waited	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ~ ?	hvorfor gjør vi ikke ~ ?	why don't we ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne ekveturas?	hvorfor begynner vi ikke å kjøre?	why don't we start driving?	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ mi havas ~	Jeg har også ~	I have ~ too	grupo	0    	0000-00-00 00:00:00
+level	veturigus la aŭton	ville kjøre bilen	would drive the car	grupo	0    	0000-00-00 00:00:00
+level	sed mi ne scias ~	men jeg vet ikke ~	but I don't know ~	grupo	0    	0000-00-00 00:00:00
+level	mi neniam lernis tion	Det lærte jeg aldri	I never learned that	grupo	0    	0000-00-00 00:00:00
+level	mi kredus ~	Jeg vil tro ~	I would believe ~	grupo	0    	0000-00-00 00:00:00
+level	se mi estus sana	hvis jeg var frisk	if I were healthy	grupo	0    	0000-00-00 00:00:00
+level	mi estus tre feliĉa	Jeg ville vært veldig glad	I would be very happy	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus riĉulo	som om du var rik	as if you were rich	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ vi estus riĉulo	du sitter der som om du var en rik mann	you sit there as if you were a rich man	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭa lernejo	angivelig skole	alleged school	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ riĉulo	som en rik mann	like a rich man	grupo	0    	0000-00-00 00:00:00
+level	vi sidas tie kvazaŭ riĉulo	du sitter der som en rik mann	you sit there like a rich man	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono	så mye penger	so much money	grupo	0    	0000-00-00 00:00:00
+level	tiom da mono kiom da ideoj	like mye penger som ideer	as much money as ideas	grupo	0    	0000-00-00 00:00:00
+level	se mi havus tiom da mono	hvis jeg hadde så mye penger	if I had that much money	grupo	0    	0000-00-00 00:00:00
+level	mi vojaĝadus	Jeg vil reise	I would travel	grupo	0    	0000-00-00 00:00:00
+level	ĉirkaŭ la mondo	jorden rundt	around the world	grupo	0    	0000-00-00 00:00:00
+level	en ĉiu vortaro	i hver ordbok	in every dictionary	grupo	0    	0000-00-00 00:00:00
+level	mankas io	Noe mangler	something is missing	grupo	0    	0000-00-00 00:00:00
+level	mankas kelkaj vortoj	noen ord mangler	some words are missing	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu longe parolis	en mann som snakket lenge	a man who spoke at length	grupo	0    	0000-00-00 00:00:00
+level	ĉe la manĝotablo	ved spisebordet	at the dining table	grupo	0    	0000-00-00 00:00:00
+level	homo, kiu rakontas, restos malsata	en person som forteller vil forbli sulten	a person who tells will remain hungry	grupo	0    	0000-00-00 00:00:00
+level	rakontadas ĉe la manĝo tablo	fortsetter å fortelle ved spisebordet	keeps telling at the dining table	grupo	0    	0000-00-00 00:00:00
+level	li devis atenti ~	han måtte ta hensyn til ~	he had to pay attention to ~	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis ~	fikk ikke ~	was not allowed to ~	grupo	0    	0000-00-00 00:00:00
+level	rajtis resti	fikk bli	was allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	ne rajtis longe resti	fikk ikke være lenge	was not allowed to stay long	grupo	0    	0000-00-00 00:00:00
+level	resti ekstere en pluvo	å holde seg ute i regnet	to stay out in the rain	grupo	0    	0000-00-00 00:00:00
+level	tial li malvarmumis	det var derfor han ble forkjølet	that's why he caught a cold	grupo	0    	0000-00-00 00:00:00
+level	li havas sian klaran ideon	han har sin egen klare idé	he has his own clear idea	grupo	0    	0000-00-00 00:00:00
+level	sed li kredos ĉion	men han vil tro alt	but he will believe everything	grupo	0    	0000-00-00 00:00:00
+level	ĉion, kion vi diros	hva enn du sier	whatever you say	grupo	0    	0000-00-00 00:00:00
+level	kvazaŭ vi estus lia edzino	som om du var hans kone	as if you were his wife	grupo	0    	0000-00-00 00:00:00
+level	viaj gepatroj	foreldrene dine	your parents	grupo	0    	0000-00-00 00:00:00
+level	ĝojigi viajn gepatrojn	for å gjøre foreldrene dine glade	to make your parents happy	grupo	0    	0000-00-00 00:00:00
+level	kio povus ĝojigi ~ ?	hva kan glede ~ ?	what could please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kio povus plej ĝojigi viajn gepatrojn?	hva kan gjøre foreldrene dine mest glade?	what could make your parents the most happy?	grupo	0    	0000-00-00 00:00:00
+level	post la lernado	etter læringen	after the learning	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ post la lernado	i hvert fall etter læringen	at least after the learning	grupo	0    	0000-00-00 00:00:00
+level	en la urbocentron	inn til sentrum	into the city center	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi	hvis du vil gå med meg	if you would go with me	grupo	0    	0000-00-00 00:00:00
+level	se vi irus kun mi en la urbocentron	hvis du vil gå til sentrum med meg	if you would go downtown with me	grupo	0    	0000-00-00 00:00:00
+level	kien vi dezirus vojaĝi?	hvor vil du reise?	where would you like to travel?	grupo	0    	0000-00-00 00:00:00
+level	se vi havus ~	hvis du hadde ~	if you had ~	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe da mono	nok penger	enough money	grupo	0    	0000-00-00 00:00:00
+level	se vi havus sufiĉe da mono kaj tempo	hvis du hadde nok penger og temp	if you had enough money and temp	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi planas ~ ?	planlegger du å ~ ?	are you planning to ~ ?	grupo	0    	0000-00-00 00:00:00
+level	planas veturi al Parizo	planlegger å reise til Paris	plans to travel to Paris	grupo	0    	0000-00-00 00:00:00
+level	veturi per aŭto	å kjøre med en axuto	to drive with an axuto	grupo	0    	0000-00-00 00:00:00
+level	multe pli bone	mye bedre	much better	grupo	0    	0000-00-00 00:00:00
+level	ŝajnas multe pli bone	virker mye bedre	seems much better	grupo	0    	0000-00-00 00:00:00
+level	per vagonaro	med tog	by train	grupo	0    	0000-00-00 00:00:00
+level	aŭ ĉu ne ŝajnas esti multe pli bone?	eller ser det ikke ut til å være mye bedre?	or doesn't it seem to be much better?	grupo	0    	0000-00-00 00:00:00
+level	diversaj homoj	ulike mennesker	various people	grupo	0    	0000-00-00 00:00:00
+level	kial homoj klarigas diversmaniere?	hvorfor forklarer folk på forskjellige måter?	why do people explain in different ways?	grupo	0    	0000-00-00 00:00:00
+level	samaj ideoj	samme ideer	same ideas	grupo	0    	0000-00-00 00:00:00
+level	klarigas samajn ideojn	forklarer de samme ideene	explains the same ideas	grupo	0    	0000-00-00 00:00:00
+level	familianoj kunvenas	familiemedlemmer kommer sammen	family members get together	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide	hvor raskt	how quickly	grupo	0    	0000-00-00 00:00:00
+level	tagoj pasas	dager går	days pass	grupo	0    	0000-00-00 00:00:00
+level	kiel rapide pasas tagoj!	hvor fort dagene går!	how quickly the days pass!	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ estos ~	i morgen vil være ~	tomorrow will be ~	grupo	0    	0000-00-00 00:00:00
+level	la naskiĝtago de via patro	din fars bursdag	your father's birthday	grupo	0    	0000-00-00 00:00:00
+level	kelkaj familianoj	flere familiemedlemmer	several family members	grupo	0    	0000-00-00 00:00:00
+level	alvenos kelkaj familianoj	flere familiemedlemmer vil komme	several family members will come	grupo	0    	0000-00-00 00:00:00
+level	kaj geamikoj	og venner	and friends	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus ~ ?	vil du være så snill ~?	would you please ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bonvolus iom helpi?	kan du hjelpe litt?	could you please help a little?	grupo	0    	0000-00-00 00:00:00
+level	iomete da tempo	en liten stund	a little while	grupo	0    	0000-00-00 00:00:00
+level	trovu iomete da tempo	finne litt tid	find a little time	grupo	0    	0000-00-00 00:00:00
+level	por ordigi vian ĉambron	å rydde rommet ditt	to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ por ordigi vian ĉambron	i det minste for å rydde rommet ditt	at least to tidy your room	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ~	Jeg vil ha ~	I would like ~	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus kuiri ion	Jeg vil gjerne lage noe	I would like to cook something	grupo	0    	0000-00-00 00:00:00
+level	ion bonan	noe godt	something good	grupo	0    	0000-00-00 00:00:00
+level	kuiri ion bonan	lage noe godt	cook something good	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝ-taga kuko	til bursdagskaken	for the birthday cake	grupo	0    	0000-00-00 00:00:00
+level	mankas lakto	mangler melk	is lacking of milk	grupo	0    	0000-00-00 00:00:00
+level	en la hejmo	i hjemmet	in the home	grupo	0    	0000-00-00 00:00:00
+level	necesas havigi ~	det er nødvendig å anskaffe ~	it is necessary to procure ~	grupo	0    	0000-00-00 00:00:00
+level	iom da manĝaĵo	noe mat	some food	grupo	0    	0000-00-00 00:00:00
+level	el vendejo	fra en butikk	from a store	grupo	0    	0000-00-00 00:00:00
+level	havigi iom da manĝaĵo el vendejo	å få mat fra et gjemmested	to get some food from a hideout	grupo	0    	0000-00-00 00:00:00
+level	mi aĉetumos	Jeg skal handle	I will do shopping	grupo	0    	0000-00-00 00:00:00
+level	por la naskiĝtago	til bursdagen	for the birthday	grupo	0    	0000-00-00 00:00:00
+level	anstataŭ sidi kaj manĝegi	i stedet for å sitte og spise	instead of sitting and eating	grupo	0    	0000-00-00 00:00:00
+level	interesaj homoj	interessante mennesker	interesting people	grupo	0    	0000-00-00 00:00:00
+level	kun neinteresaj familianoj	med uinteressante familiemedlemmer	with uninteresting family members	grupo	0    	0000-00-00 00:00:00
+level	mi ŝatus ekskursi	Jeg vil gjerne dra på piknik	I would like to go on a picnic	grupo	0    	0000-00-00 00:00:00
+level	kun klubanoj	med klubbens medlemmer	with club members	grupo	0    	0000-00-00 00:00:00
+level	kun kiuj klubanoj?	med hvilke klubbmedlemmer?	with which club members?	grupo	0    	0000-00-00 00:00:00
+level	diris la patro	sa faren	said the father	grupo	0    	0000-00-00 00:00:00
+level	ia papero, iaj paperoj	en slags papir, noen slags papirer	some kind of paper, some kind of papers	grupo	0    	0000-00-00 00:00:00
+level	en paperujo	i en koffert	in a briefcase	grupo	0    	0000-00-00 00:00:00
+level	en paperujon	i en papirkasse	into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis paperojn en paperujon	kastet papirer i en papirkasse	threw papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	ĵetis iajn paperojn en paperujon	kastet noen papirer i en papirkasse	threw some papers into a paper bin	grupo	0    	0000-00-00 00:00:00
+level	morgaŭ frue	tidlig i morgen	early tomorrow	grupo	0    	0000-00-00 00:00:00
+level	anoj de mia sporta klubo	medlemmer av idrettsklubben min	members of my sports club	grupo	0    	0000-00-00 00:00:00
+level	kara mia	min kjære	my dear	grupo	0    	0000-00-00 00:00:00
+level	ĉu ĝuste ~ ?	er det riktig?	is that right?	grupo	0    	0000-00-00 00:00:00
+level	vi devas foresti	du må være fraværende	you must be absent	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi ne ~ ?	gjør du ikke ~ ?	don't you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	viaj samklubanoj	dine medklubbmedlemmer	your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	intervidiĝas kun viaj samklubanoj	ser hverandre med dine klubbmedlemmer	sees each other with your fellow club members	grupo	0    	0000-00-00 00:00:00
+level	trifoje semajne	tre ganger i uken	three times a week	grupo	0    	0000-00-00 00:00:00
+level	ĉu mi rajtas ~ ?	kan jeg ~ ?	may I ~ ?	grupo	0    	0000-00-00 00:00:00
+level	rajtas ion proponi	har rett til å foreslå noe	has the right to propose something	grupo	0    	0000-00-00 00:00:00
+level	mi kunmanĝos kun la familianoj	Jeg skal spise med familiemedlemmene	I will eat with the family members	grupo	0    	0000-00-00 00:00:00
+level	sed en la dua parto	men i andre del	but in the second part	grupo	0    	0000-00-00 00:00:00
+level	mi foriros kun miaj geamikoj	Jeg vil gå med vennene mine	I will go with my friends	grupo	0    	0000-00-00 00:00:00
+level	parolos pri ~	vil snakke om ~	will talk about ~	grupo	0    	0000-00-00 00:00:00
+level	malsukcesa veturado	en mislykket stasjon	a failed drive	grupo	0    	0000-00-00 00:00:00
+level	certe parolos pri la malsukcesa veturado	vil definitivt snakke om den mislykkede stasjonen	will definitely talk about the failed drive	grupo	0    	0000-00-00 00:00:00
+level	post la kuko	etter kaken	after the cake	grupo	0    	0000-00-00 00:00:00
+level	mi ne plu volas tion	Det vil jeg ikke lenger	I don't want that anymore	grupo	0    	0000-00-00 00:00:00
+level	volas tion aŭdi	ønsker å høre det	wants to hear that	grupo	0    	0000-00-00 00:00:00
+level	kial ni ne havas ~ ?	hvorfor har vi ikke ~ ?	why don't we have ~ ?	grupo	0    	0000-00-00 00:00:00
+level	ideoriĉa onklo	en idérik onkel	an idea-rich uncle	grupo	0    	0000-00-00 00:00:00
+level	havas iun ideoriĉan onklon	har en idérik onkel	has some idea rich uncle	grupo	0    	0000-00-00 00:00:00
+level	en mia familio	i min familie	in my family	grupo	0    	0000-00-00 00:00:00
+level	la patrino ridetis	moren smilte	the mother smiled	grupo	0    	0000-00-00 00:00:00
+level	je liaj vortoj	på hans ord	at his words	grupo	0    	0000-00-00 00:00:00
+level	ŝi scias, ke ~	hun vet at ~	she knows that ~	grupo	0    	0000-00-00 00:00:00
+level	iom tro parolas	snakker litt for mye	talks a little too much	grupo	0    	0000-00-00 00:00:00
+level	ne sufiĉas nur ~	det er ikke nok bare ~	it's not enough just ~	grupo	0    	0000-00-00 00:00:00
+level	riĉeco de la ideoj	et vell av ideer	wealth of ideas	grupo	0    	0000-00-00 00:00:00
+level	necesas ankaŭ ~	~ er også nødvendig	~ is also needed	grupo	0    	0000-00-00 00:00:00
+level	plena monujo por realigi ĝin	en full lommebok for å få det til	a full wallet to make it happen	grupo	0    	0000-00-00 00:00:00
+level	la patrino daŭrigis ~	moren fortsatte ~	the mother continued ~	grupo	0    	0000-00-00 00:00:00
+level	post iom da silento	etter litt stillhet	after a little silence	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kelkaj minutoj	noen minutter siden	a few minutes ago	grupo	0    	0000-00-00 00:00:00
+level	Ana telefonis, ke ŝi ~	Ana kalte det hun ~	Ana called that she ~	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ ŝi vizitos nin	hun vil også besøke oss	she will also visit us	grupo	0    	0000-00-00 00:00:00
+level	dolĉa kuko	en søt kake	a sweet cake	grupo	0    	0000-00-00 00:00:00
+level	ŝi tre ŝatas dolĉan kukon	hun liker virkelig søt kake	she really likes sweet cake	grupo	0    	0000-00-00 00:00:00
+level	atentas por ne dikiĝi	er forsiktig så du ikke blir feit	is careful not to get fat	grupo	0    	0000-00-00 00:00:00
+level	kvankam ŝi atentos	selv om hun vil være oppmerksom	although she will pay attention	grupo	0    	0000-00-00 00:00:00
+level	tuj ŝanĝis la opinion	ombestemte seg umiddelbart	immediately changed the mind	grupo	0    	0000-00-00 00:00:00
+level	dum la ekskurso	under ekskursjonen	during the excursion	grupo	0    	0000-00-00 00:00:00
+level	sen ŝi	uten henne	without her	grupo	0    	0000-00-00 00:00:00
+level	li estus tre soleca	han ville være veldig ensom	he would be very lonely	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos	Jeg vil passere skjønt	I will pass though	grupo	0    	0000-00-00 00:00:00
+level	mi tamen pasigos la morgaŭan tagon hejme	Men jeg skal tilbringe morgendagen hjemme	I will spend tomorrow at home though	grupo	0    	0000-00-00 00:00:00
+level	en juneco	i ungdommen	in youth	grupo	0    	0000-00-00 00:00:00
+level	oni havas	en har	one has	grupo	0    	0000-00-00 00:00:00
+level	havas ankaŭ belecon	har også skjønnhet	also has beauty	grupo	0    	0000-00-00 00:00:00
+level	malsimplaj laboroj	kompliserte jobber	complicated jobs	grupo	0    	0000-00-00 00:00:00
+level	malsimplajn laborojn	kompliserte jobber (objektiv)	complicated jobs (objective)	grupo	0    	0000-00-00 00:00:00
+level	devus plisimpligi	bør forenkle	should simplify	grupo	0    	0000-00-00 00:00:00
+level	en tiu aĝo	i den alderen	at that age	grupo	0    	0000-00-00 00:00:00
+level	li jam fariĝis ~	han har allerede blitt ~	he has already become ~	grupo	0    	0000-00-00 00:00:00
+level	estro de la sporta klubo	leder av idrettslaget	head of the sports club	grupo	0    	0000-00-00 00:00:00
+level	monon oni metas	man legger penger	one puts money	grupo	0    	0000-00-00 00:00:00
+level	en monujon	inn i en lommebok	into a wallet	grupo	0    	0000-00-00 00:00:00
+level	metas en monujon	legger i en veske	puts in a purse	grupo	0    	0000-00-00 00:00:00
+level	sekvu la ekzemplojn	følg eksemplene	follow the examples	grupo	0    	0000-00-00 00:00:00
+level	de la bonaj familianoj	fra de gode familiemedlemmene	from the good family members	grupo	0    	0000-00-00 00:00:00
+level	ĉu amikeco pli feliĉigas?	gjør vennskap deg lykkeligere?	does friendship make you happier?	grupo	0    	0000-00-00 00:00:00
+level	feliĉigas vin	gjør deg glad	makes you happy	grupo	0    	0000-00-00 00:00:00
+level	ol la amo	enn kjærligheten	than the love	grupo	0    	0000-00-00 00:00:00
+level	kiel ofte vi ~ ?	hvor ofte gjør du ~ ?	how often do you ~ ?	grupo	0    	0000-00-00 00:00:00
+level	vi skribas leterojn al ~	du skriver brev til ~	you write letters to ~	grupo	0    	0000-00-00 00:00:00
+level	skrivas leterojn al viaj amikinoj	skriver brev til venninnene dine	writes letters to your girl friends	grupo	0    	0000-00-00 00:00:00
+level	viaj amikinoj en Italio	venninnene dine i Italia	your girl friends in Italy	grupo	0    	0000-00-00 00:00:00
+level	la rilato inter vi kaj via instruisto	forholdet mellom deg og læreren din	the relation between you and your teacher	grupo	0    	0000-00-00 00:00:00
+level	ĉu la rilato ŝanĝiĝis?	har forholdet endret seg?	has the relationship changed?	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi jam scias ~ ?	vet du allerede ~?	do you already know ~ ?	grupo	0    	0000-00-00 00:00:00
+level	sufiĉe bone	ganske bra	quite well	grupo	0    	0000-00-00 00:00:00
+level	estis vespero en ~	det var kveld i ~	it was evening in ~	grupo	0    	0000-00-00 00:00:00
+level	centoj da homoj	hundrevis av mennesker	hundreds of people	grupo	0    	0000-00-00 00:00:00
+level	plenigas la placon	fyller kvadratet	fills the square	grupo	0    	0000-00-00 00:00:00
+level	junuloj kaj militistoj	unge menn og soldater	young men and soldiers	grupo	0    	0000-00-00 00:00:00
+level	maristoj de sur la ŝipoj	sjømenn fra skipene	sailors from the ships	grupo	0    	0000-00-00 00:00:00
+level	elstara sinjorino	fremragende dame	outstanding lady	grupo	0    	0000-00-00 00:00:00
+level	elstaraj sinjorinoj	fremragende damer	outstanding ladies	grupo	0    	0000-00-00 00:00:00
+level	alilandaj vojaĝantoj	utenlandske reisende	foreign travelers	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj moviĝas al urbomezo	alle flytter til sentrum	everyone is moving to the city center	grupo	0    	0000-00-00 00:00:00
+level	iom plue	litt lenger	a little further	grupo	0    	0000-00-00 00:00:00
+level	ne malproksime de la maro	ikke langt fra havet	not far from the sea	grupo	0    	0000-00-00 00:00:00
+level	troviĝis malgranda placo	det var et lite torg	there was a small square	grupo	0    	0000-00-00 00:00:00
+level	iom plue sed ne malproksime	litt lenger, men ikke langt	a little further but not far	grupo	0    	0000-00-00 00:00:00
+level	fine de ĝi	på slutten av det	at the end of it	grupo	0    	0000-00-00 00:00:00
+level	proksime de la maro	Nær sjøen	near the sea	grupo	0    	0000-00-00 00:00:00
+level	proksime staris homo	en mann sto i nærheten	a man stood nearby	grupo	0    	0000-00-00 00:00:00
+level	laŭ la vestaĵo	ifølge klærne	according to the clothing	grupo	0    	0000-00-00 00:00:00
+level	oni facile scii ~	man vet kanskje lett ~	one may know easily ~	grupo	0    	0000-00-00 00:00:00
+level	oni povis ekscii, ke ~	det var mulig å finne ut at ~	it was possible to find out that ~	grupo	0    	0000-00-00 00:00:00
+level	gondolisto de iu riĉulo	en rikmanns gondolier	a rich man's gondolier	grupo	0    	0000-00-00 00:00:00
+level	povis ekscii, ke li estas gondolisto	kunne finne ut at han var en gondolier	could find out that he was a gondolier	grupo	0    	0000-00-00 00:00:00
+level	li rigardis ~	han så ~	he looked ~	grupo	0    	0000-00-00 00:00:00
+level	rigardis la ĝojan hommulton	så på den glade mengden	looked at the joyful crowd	grupo	0    	0000-00-00 00:00:00
+level	rideto lumigis lian vizaĝon	et smil lyste opp ansiktet hans	a smile lit up his face	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis mariston	da han så en sjømann	when he saw a sailor	grupo	0    	0000-00-00 00:00:00
+level	la mariston, kiu alvenis	sjømannen som kom	the sailor who arrived	grupo	0    	0000-00-00 00:00:00
+level	la flanko de la maro	siden av havet	the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	alvenis el la flanko de la maro	ankom fra siden av havet	arrived from the side of the sea	grupo	0    	0000-00-00 00:00:00
+level	ĉu tio estas vi, Stefano?	er det deg, Stephen?	is that you, Stephen?	grupo	0    	0000-00-00 00:00:00
+level	ekkriis la gondolisto	utbrøt gondolieren	exclaimed the gondolier	grupo	0    	0000-00-00 00:00:00
+level	ĉiuj diras, ke ~	alle sier at ~	everyone says that ~	grupo	0    	0000-00-00 00:00:00
+level	en la manojn de la Turkoj	i hendene på tyrkerne	into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ke vi falis en la manojn de la Turkoj	at du falt i hendene på tyrkerne	that you fell into the hands of the Turks	grupo	0    	0000-00-00 00:00:00
+level	ni renkontis unu	vi møtte en	we met one	grupo	0    	0000-00-00 00:00:00
+level	el niaj ŝipoj	fra våre skip	from our ships	grupo	0    	0000-00-00 00:00:00
+level	ĝi sekvis nin	den fulgte oss	it followed us	grupo	0    	0000-00-00 00:00:00
+level	dum pli ol unu horo	i mer enn en time	for more than an hour	grupo	0    	0000-00-00 00:00:00
+level	sed ne estas facile iri ~	men det er ikke lett å gå ~	but it is not easy to go ~	grupo	0    	0000-00-00 00:00:00
+level	iri pli rapide ol nia ŝipo	å gå raskere enn skipet vårt	to go faster than our ship	grupo	0    	0000-00-00 00:00:00
+level	kiaj novaĵoj estas tie ĉi?	hvilke nyheter er her?	what news is here?	grupo	0    	0000-00-00 00:00:00
+level	tie ĉi en Venecio	her i Venezia	here in Venice	grupo	0    	0000-00-00 00:00:00
+level	nenio interesa	ingenting interessant	nothing interesting	grupo	0    	0000-00-00 00:00:00
+level	nur granda malfeliĉo	bare en stor ulykke	just a big misfortune	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi konas Pietron?	kjenner du Pietro?	do you know Pietro?	grupo	0    	0000-00-00 00:00:00
+level	mi konas lin	Jeg kjenner ham	I know him	grupo	0    	0000-00-00 00:00:00
+level	granda ŝipo subakvigis lian gondolon	et stort skip senket gondolen hans	a large ship submerged his gondola	grupo	0    	0000-00-00 00:00:00
+level	kaj kio pri li?	og hva med ham?	and what about him?	grupo	0    	0000-00-00 00:00:00
+level	la gondolo subakviĝis	gondolen sank	the gondola sank	grupo	0    	0000-00-00 00:00:00
+level	okazis, ke ~	det skjedde at ~	it happened that ~	grupo	0    	0000-00-00 00:00:00
+level	ni troviĝis proksime	vi var nærme	we were close	grupo	0    	0000-00-00 00:00:00
+level	ni prenis lin en nian gondolon	vi tok ham med i gondolen vår	we took him in our gondola	grupo	0    	0000-00-00 00:00:00
+level	en la sama tempo	samtidig	at the same time	grupo	0    	0000-00-00 00:00:00
+level	mia estro subakviĝis	sjefen min druknet	my boss drowned	grupo	0    	0000-00-00 00:00:00
+level	por helpi junulinon	å hjelpe en ung kvinne	to help a young woman	grupo	0    	0000-00-00 00:00:00
+level	junulinon, kiu preskaŭ mortis	en ung kvinne som nesten døde	a young woman who almost died	grupo	0    	0000-00-00 00:00:00
+level	kun sia onklo	med onkelen sin	with his uncle	grupo	0    	0000-00-00 00:00:00
+level	preskaŭ mortis kun sia onklo	døde nesten sammen med onkelen	almost died with his uncle	grupo	0    	0000-00-00 00:00:00
+level	tie estis junulino	det var en ung kvinne	there was a young woman	grupo	0    	0000-00-00 00:00:00
+level	lin ni ne povis helpi	vi kunne ikke hjelpe ham	we could not help him	grupo	0    	0000-00-00 00:00:00
+level	estis grava homo	var en viktig person	was an important person	grupo	0    	0000-00-00 00:00:00
+level	kio alvenigis vin en Venecion?	hva brakte deg til Venezia?	what brought you to Venice?	grupo	0    	0000-00-00 00:00:00
+level	amiko mia	min venn	my friend	grupo	0    	0000-00-00 00:00:00
+level	la maristo ekrigardis	sjømannen så opp	the sailor looked up	grupo	0    	0000-00-00 00:00:00
+level	rapide ekrigardis sian amikon	kikket raskt på vennen	quickly glanced at his friend	grupo	0    	0000-00-00 00:00:00
+level	kaj komencis diri	og begynte å si	and began to say	grupo	0    	0000-00-00 00:00:00
+level	do vi scias ~	så du vet ~	so you know ~	grupo	0    	0000-00-00 00:00:00
+level	mi alportis ~	Jeg tok med ~	I brought ~	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto subite haltigis lin	gondolieren stoppet ham plutselig	the gondolier suddenly stopped him	grupo	0    	0000-00-00 00:00:00
+level	li diris	han sa	he said	grupo	0    	0000-00-00 00:00:00
+level	tiam iu homo pasis	så gikk en mann forbi	then a man passed by	grupo	0    	0000-00-00 00:00:00
+level	iu homo pasis apud li	en mann gikk forbi ham	a man passed by him	grupo	0    	0000-00-00 00:00:00
+level	li ankoraŭ ne estis tridekjara	han var ennå ikke tretti	he was not yet thirty	grupo	0    	0000-00-00 00:00:00
+level	kaj lia vizaĝo estis senkolora	og ansiktet hans var fargeløst	and his face was colorless	grupo	0    	0000-00-00 00:00:00
+level	lia iro estis certa kaj facila	hans ferd var sikker og lett	his going was sure and easy	grupo	0    	0000-00-00 00:00:00
+level	lia vizaĝo estis malĝoja	ansiktet hans var trist	his face was sad	grupo	0    	0000-00-00 00:00:00
+level	kiam li ekvidis la homon, ~	da han så mannen, ~	when he saw the man, ~	grupo	0    	0000-00-00 00:00:00
+level	oni diras, ke ~	det sies at ~	it is said that ~	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj donas ~	mange viktige personer gir ~	many important people give ~	grupo	0    	0000-00-00 00:00:00
+level	sekreta laboro	hemmelig arbeid	secret work	grupo	0    	0000-00-00 00:00:00
+level	sekretaj laboroj	hemmelige jobber	secret jobs	grupo	0    	0000-00-00 00:00:00
+level	donas sekretajn laborojn al li	gir hemmelige jobber til ham	gives secret jobs to him	grupo	0    	0000-00-00 00:00:00
+level	tro da sekretoj	for mange hemmeligheter	too many secrets	grupo	0    	0000-00-00 00:00:00
+level	li scias tro da sekretoj	han vet for mange hemmeligheter	he knows too many secrets	grupo	0    	0000-00-00 00:00:00
+level	tial ili timas	derfor er de redde	therefore they are afraid	grupo	0    	0000-00-00 00:00:00
+level	sendi lin en malliberejon	å sende ham i fengsel	to send him to prison	grupo	0    	0000-00-00 00:00:00
+level	diris la maristo	sa sjømannen	said the sailor	grupo	0    	0000-00-00 00:00:00
+level	kaj dum li parolis	og mens han snakket	and as he spoke	grupo	0    	0000-00-00 00:00:00
+level	li montris la domegon	han pekte på herskapshuset	he pointed to the mansion	grupo	0    	0000-00-00 00:00:00
+level	la domego de Doĝoj	herskapshuset til Doges	the mansion of Doges	grupo	0    	0000-00-00 00:00:00
+level	multaj gravuloj bezonas lian helpon	mange viktige personer trenger hans hjelp	many important people need his help	grupo	0    	0000-00-00 00:00:00
+level	kiom ili pagas?	hvor mye betaler de?	how much they pay?	grupo	0    	0000-00-00 00:00:00
+level	pagas al li	betaler ham	pays him	grupo	0    	0000-00-00 00:00:00
+level	pagas por unu mortigo	betaler for ett drap	pays for one kill	grupo	0    	0000-00-00 00:00:00
+level	certe ne malpli ol ~	absolutt ikke mindre enn ~	certainly not less than ~	grupo	0    	0000-00-00 00:00:00
+level	ol cent moneroj	enn hundre mynter	than a hundred coins	grupo	0    	0000-00-00 00:00:00
+level	ne forgesu, ke ~	ikke glem det ~	don't forget that ~	grupo	0    	0000-00-00 00:00:00
+level	ke li laboras por tiuj	at han jobber for dem	that he works for them	grupo	0    	0000-00-00 00:00:00
+level	por tiuj, kiuj havas sufiĉe da mono	for de som har nok penger	for those who have enough money	grupo	0    	0000-00-00 00:00:00
+level	por pagi al li	å betale ham	to pay him	grupo	0    	0000-00-00 00:00:00
+level	en Venecio estas ~	i Venezia er det ~	in Venice there is ~	grupo	0    	0000-00-00 00:00:00
+level	tiuj aferoj	de tingene	those things	grupo	0    	0000-00-00 00:00:00
+level	forgesi tiujn aferojn	å glemme de tingene	to forget those things	grupo	0    	0000-00-00 00:00:00
+level	aferoj, kiujn estas pli bone forgesi	ting som er bedre glemt	things that are better forgotten	grupo	0    	0000-00-00 00:00:00
+level	se vi volas trankvile manĝi	hvis du vil spise i fred	if you want to eat in peace	grupo	0    	0000-00-00 00:00:00
+level	trankvile manĝi vian panon	å spise ditt brød i fred	to eat your bread in peace	grupo	0    	0000-00-00 00:00:00
+level	estis iom da silento	det ble litt stillhet	there was some silence	grupo	0    	0000-00-00 00:00:00
+level	kaj poste	og senere	and later	grupo	0    	0000-00-00 00:00:00
+level	la gondolisto denove ekparolis	gondolieren snakket igjen	the gondolier spoke again	grupo	0    	0000-00-00 00:00:00
+level	vi venis ĝustatempe	du kom akkurat i tide	you came just in time	grupo	0    	0000-00-00 00:00:00
+level	por vidi ŝipkuron	å se et båtrace	to see a boat race	grupo	0    	0000-00-00 00:00:00
+level	iu diris malforte	sa noen svakt	someone said weakly	grupo	0    	0000-00-00 00:00:00
+level	proksime de la gondolisto	nær gondolieren	near the gondolier	grupo	0    	0000-00-00 00:00:00
+level	la estro de la urbo	borgermesteren i byen	the mayor of the city	grupo	0    	0000-00-00 00:00:00
+level	senvorte montris al la gondolo	pekte ordløst på gondolen	wordlessly pointed to the gondola	grupo	0    	0000-00-00 00:00:00
+level	diris la gondolisto	sa gondolieren	said the gondolier	grupo	0    	0000-00-00 00:00:00
+level	kaj prenis la manon de sia amiko	og tok vennens hånd	and took his friend's hand	grupo	0    	0000-00-00 00:00:00
+level	ĵetas la paperon	kaster papiret	throws the paper	grupo	0    	0000-00-00 00:00:00
+level	en la paperujon	inn i papirskuffen	into the paper bin	grupo	0    	0000-00-00 00:00:00
+level	la knabinoj ĵetis la paperojn	jentene kastet papirene	the girls threw the papers	grupo	0    	0000-00-00 00:00:00
+level	kie estas mia skribilo?	hvor er pennen min	where is my pen	grupo	0    	0000-00-00 00:00:00
+level	mi volas respondi al li	Jeg vil svare ham	I want to answer him	grupo	0    	0000-00-00 00:00:00
+level	la suno malaperis	solen forsvant	the sun disappeared	grupo	0    	0000-00-00 00:00:00
+level	kaj nun estas preskaŭ malhele	og nå er det nesten mørkt	and now it is almost dark	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi	vennligst spis	please eat	grupo	0    	0000-00-00 00:00:00
+level	bonvolu manĝi la panon	vennligst spis brødet	please eat the bread	grupo	0    	0000-00-00 00:00:00
+level	per manĝiloj	med bestikk	with cutlery	grupo	0    	0000-00-00 00:00:00
+level	pardonu min	unnskyld meg	excuse me	grupo	0    	0000-00-00 00:00:00
+level	rajtas resti	får bli	is allowed to stay	grupo	0    	0000-00-00 00:00:00
+level	mi ne rajtas resti	Jeg har ingen rett til å bli	I have no right to stay	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povas kunporti ~ ?	kan du ta med ~ ?	can you bring ~ ?	grupo	0    	0000-00-00 00:00:00
+level	de mia fratino	fra søsteren min	from my sister	grupo	0    	0000-00-00 00:00:00
+level	kiam vi aĉetis ~ ?	når kjøpte du ~?	when did you buy ~ ?	grupo	0    	0000-00-00 00:00:00
+level	aĉetis tiun muzikilon	kjøpte det musikkinstrumentet	bought that musical instrument	grupo	0    	0000-00-00 00:00:00
+level	kiu laste uzis ?	hvem brukte sist?	who used last?	grupo	0    	0000-00-00 00:00:00
+level	uzis mian ŝlosilon	brukte nøkkelen min	used my key	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi veturis?	kjørte du?	did you drive?	grupo	0    	0000-00-00 00:00:00
+level	en Venecio	i Venezia	in Venice	grupo	0    	0000-00-00 00:00:00
+level	ankaŭ per gondolo	også med gondol	also by gondola	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi povos ekdormi?	vil du klare å sovne?	will you be able to fall asleep?	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam silentiĝis	da, når det ble stille	then, when there was silence	grupo	0    	0000-00-00 00:00:00
+level	la sinjoro estis alta	mannen var høy	the gentleman was tall	grupo	0    	0000-00-00 00:00:00
+level	alta, dika	høy, feit	tall, fat	grupo	0    	0000-00-00 00:00:00
+level	dika, peza	tykk, tung	thick, heavy	grupo	0    	0000-00-00 00:00:00
+level	peza kaj larĝa	tung og stor	heavy and large	grupo	0    	0000-00-00 00:00:00
+level	estis alta, dika, peza, kaj larĝa	var høy, tykk, tung og stor	was tall, thick, heavy, and large	grupo	0    	0000-00-00 00:00:00
+level	donis forton	ga styrke	gave strength	grupo	0    	0000-00-00 00:00:00
+level	havinda forto	en kraft verdt å ha	a force worth having	grupo	0    	0000-00-00 00:00:00
+level	havinda korpoforto	fysisk styrke verdt å ha	physical strength worth having	grupo	0    	0000-00-00 00:00:00
+level	tio donis	som ga	that gave	grupo	0    	0000-00-00 00:00:00
+level	donis al li	ga ham	gave him	grupo	0    	0000-00-00 00:00:00
+level	tio donis forton	som ga styrke	that gave strength	grupo	0    	0000-00-00 00:00:00
+level	donis havindan korpoforton	ga kroppsstyrke verdt å ha	gave body strength worth having	grupo	0    	0000-00-00 00:00:00
+level	lia aspekto	hans utseende	his appearance	grupo	0    	0000-00-00 00:00:00
+level	grandula aspekto	utseendet til en høy person	appearance of a tall person	grupo	0    	0000-00-00 00:00:00
+level	eta rolo	en liten rolle	a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis rolon	spilte en rolle	played a role	grupo	0    	0000-00-00 00:00:00
+level	ne eta rolo	ikke en liten rolle	not a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis etan rolon	spilte en liten rolle	played a small role	grupo	0    	0000-00-00 00:00:00
+level	ludis ne etan rolon	spilte ingen liten rolle	played no small role	grupo	0    	0000-00-00 00:00:00
+level	en la fakto, ke ~	i det faktum at ~	in the fact that ~	grupo	0    	0000-00-00 00:00:00
+level	la plimulto el la homoj	flertallet av folket	the majority of the people	grupo	0    	0000-00-00 00:00:00
+level	se ne timis	hvis ikke er redd	if not afraid	grupo	0    	0000-00-00 00:00:00
+level	lin timis	var redd for ham	was afraid of him	grupo	0    	0000-00-00 00:00:00
+level	se lin timis	hvis han var redd	if he was afraid	grupo	0    	0000-00-00 00:00:00
+level	se ne lin timis	hvis ikke er redd for ham	if not afraid of him	grupo	0    	0000-00-00 00:00:00
+level	certe respektis	absolutt respektert	certainly respected	grupo	0    	0000-00-00 00:00:00
+level	almenaŭ pripensis ~	tenkte i det minste på ~	at least thought about ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol ~	før ~	before ~	grupo	0    	0000-00-00 00:00:00
+level	kontentigi lin	for å tilfredsstille ham	to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	malkontentigi lin	å mishage ham	to displease him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol malkontentigi ~	før misfornøyd ~	before dissatisfying ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi ~	før du bestemmer ~	before deciding ~	grupo	0    	0000-00-00 00:00:00
+level	decidi malkontentigi ~	å bestemme seg for å mishage ~	to decide to displease ~	grupo	0    	0000-00-00 00:00:00
+level	decidi kontentigi lin	å bestemme seg for å tilfredsstille ham	to decide to satisfy him	grupo	0    	0000-00-00 00:00:00
+level	antaŭ ol decidi malkontentigi lin	før du bestemmer deg for å mishage ham	before deciding to displease him	grupo	0    	0000-00-00 00:00:00
+level	tio, kio estas utila	det, som er nyttig	that, which is useful	grupo	0    	0000-00-00 00:00:00
+level	ofte utila dumtage	ofte nyttig i løpet av dagen	often useful during the day	grupo	0    	0000-00-00 00:00:00
+level	malplaĉa ĝeno	en ubehagelig plage	an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	per si	av seg selv	by himself	grupo	0    	0000-00-00 00:00:00
+level	prezentas malplaĉan ĝenon	gir en ubehagelig plage	presents an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	prezentas per si malplaĉan ĝenon	presenterer seg selv som en ubehagelig plage	presents itself as an unpleasant nuisance	grupo	0    	0000-00-00 00:00:00
+level	en loko arboplena	på et sted fullt av trær	in a place full of trees	grupo	0    	0000-00-00 00:00:00
+level	tiam, kiam oni devojiĝis	da, når man kom seg vill	then, when one went astray	grupo	0    	0000-00-00 00:00:00
+level	en nehoma sovaĝejo	i en umenneskelig villmark	in an inhuman wilderness	grupo	0    	0000-00-00 00:00:00
+level	kaj ekstervoje iraĉas	og går av veien i kaos	and goes off the road in chaos	grupo	0    	0000-00-00 00:00:00
+level	alta larĝa korpo	en høy stor kropp	a tall large body	grupo	0    	0000-00-00 00:00:00
+level	ne sukcesis pasi ~	klarte ikke å bestå ~	failed to pass ~	grupo	0    	0000-00-00 00:00:00
+level	inter la arbetoj	blant buskene	among the bushes	grupo	0    	0000-00-00 00:00:00
+level	krome tuŝi la naturaĵojn	i tillegg til å berøre de naturlige tingene	in addition to touching the natural things	grupo	0    	0000-00-00 00:00:00
+level	ĝenerale malsekajn	generelt våt	generally wet	grupo	0    	0000-00-00 00:00:00
+level	meze de malsekaj naturaĵoj	midt i våt natur	in the middle of wet nature	grupo	0    	0000-00-00 00:00:00
+level	malsekaj naturaĵoj, meze de kiuj ~	våte naturlige ting, i midten av hvilke ~	wet natural things, in the middle of which ~	grupo	0    	0000-00-00 00:00:00
+level	li malfacile paŝis	han gikk med vanskeligheter	he walked with difficulty	grupo	0    	0000-00-00 00:00:00
+level	estis travivaĵo	det var en opplevelse	it was an experience	grupo	0    	0000-00-00 00:00:00
+level	ne malofte	ikke uvanlig	not uncommon	grupo	0    	0000-00-00 00:00:00
+level	doloriga kaj ĉiam malagrabla	smertefullt og alltid ubehagelig	painful and always unpleasant	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~	jo flere ~	the more ~	grupo	0    	0000-00-00 00:00:00
+level	antaŭeniris en la vivo	kommet videre i livet	moved forward in life	grupo	0    	0000-00-00 00:00:00
+level	en la kastela arbaro	i slottsskogen	in the castle forest	grupo	0    	0000-00-00 00:00:00
+level	ju pli antaŭeniris des pli malŝatis ~	jo lenger frem desto mer mislikte ~	the further went forward the more disliked ~	grupo	0    	0000-00-00 00:00:00
+level	malŝatis la noktan naturon	mislikte den nattlige naturen	disliked the nocturnal nature	grupo	0    	0000-00-00 00:00:00
+level	viro kun okuloj bone videblaj	en mann med øyne som kan sees klart	a man with eyes that can be seen clearly	grupo	0    	0000-00-00 00:00:00
+level	okuloj, kiuj kapablis bone vidi	øyne som kunne se godt	eyes that could see well	grupo	0    	0000-00-00 00:00:00
+level	bone vidi en la mallumo	å se godt i mørket	to see well in the dark	grupo	0    	0000-00-00 00:00:00
+level	rigardis la malfacilan iron	så på det vanskelige	looked at the difficult going	grupo	0    	0000-00-00 00:00:00
+level	de nia industriisto	fra vår industrimann	from our industrialist	grupo	0    	0000-00-00 00:00:00
+level	li ridetis	han smilte	he smiled	grupo	0    	0000-00-00 00:00:00
+level	apud tiu viro	ved siden av den mannen	next to that man	grupo	0    	0000-00-00 00:00:00
+level	en vestaĵo de policano	i politimannsklær	in policeman's clothing	grupo	0    	0000-00-00 00:00:00
+level	staris alia persono	en annen person sto	another person was standing	grupo	0    	0000-00-00 00:00:00
+level	en simila vestaĵo	i lignende klær	in similar clothing	grupo	0    	0000-00-00 00:00:00
+level	ĉi lasta estis virino	sistnevnte var en kvinne	the latter was a woman	grupo	0    	0000-00-00 00:00:00
+level	ni iru	la oss gå	let's go	grupo	0    	0000-00-00 00:00:00
+level	la viro diris mallaŭte	sa mannen lavt	the man said softly	grupo	0    	0000-00-00 00:00:00
+level	en la orelon de sia kunulino	inn i øret til sin ledsager	into the ear of his companion	grupo	0    	0000-00-00 00:00:00
+level	nun estas la ĝusta momento	nå er det rette øyeblikket	now is the right moment	grupo	0    	0000-00-00 00:00:00
+level	ambaŭ paŝis direkte al la persono	begge gikk mot personen	both stepped toward the person	grupo	0    	0000-00-00 00:00:00
+level	ili zorgis fari ~	de var nøye med å gjøre ~	they were careful to do ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej ~	så mulig som ~	as possible as ~	grupo	0    	0000-00-00 00:00:00
+level	kiel eble plej malmulte da bruo	så lite støy som mulig (kiel eble)	as little noise as possible (kiel eble)	grupo	0    	0000-00-00 00:00:00
+level	laŭeble plej malmulte da bruo	så lite støy som mulig (laŭeble)	as little noise as possible (laŭeble)	grupo	0    	0000-00-00 00:00:00
+level	ili preskaŭ plene sukcesis	de lyktes nesten fullt ut	they almost fully succeeded	grupo	0    	0000-00-00 00:00:00
+level	en ĉi tiu aĉa situacio	i denne ekle situasjonen	in this nasty situation	grupo	0    	0000-00-00 00:00:00
+level	aĉa situacio, kie arboj ĵetis siajn branĉojn	en ekkel situasjon der trær kastet grenene sine	a nasty situation where trees threw their branches	grupo	0    	0000-00-00 00:00:00
+level	ĵetis siajn malsekajn branĉojn	kastet sine egne våte greiner	threw their own wet branches	grupo	0    	0000-00-00 00:00:00
+level	rekte en la vizaĝojn	rett inn i ansiktene	straight into the faces	grupo	0    	0000-00-00 00:00:00
+level	de la industriisto	av industrimannen	of the industrialist	grupo	0    	0000-00-00 00:00:00
+level	multpiedaj bestetoj	flerbeinte små skapninger	multi-footed small creatures	grupo	0    	0000-00-00 00:00:00
+level	prenis liajn piedojn	tok føttene hans	took his feet	grupo	0    	0000-00-00 00:00:00
+level	por promenejo	for en turvei	for a walk road	grupo	0    	0000-00-00 00:00:00
+level	naturo faligis lian piedon	naturen fikk foten hans til å falle	nature made his foot fallen	grupo	0    	0000-00-00 00:00:00
+level	plej dolorige	mest smertefullt	most painfully	grupo	0    	0000-00-00 00:00:00
+level	faligis lian piedon en kavon	slapp foten ned i en grop	dropped his foot into a pit	grupo	0    	0000-00-00 00:00:00
+level	kavo plena de akvo	en grop full av vann	a pit full of water	grupo	0    	0000-00-00 00:00:00
+level	akvo aĉ-odora	illeluktende vann	foul-smelling water	grupo	0    	0000-00-00 00:00:00
+level	rapide alvenis al la penso	kom raskt frem til tanken	quickly arrived at the thought	grupo	0    	0000-00-00 00:00:00
+level	oni devas esti preta	man må være klar	one must be ready	grupo	0    	0000-00-00 00:00:00
+level	ĉi tie	her	here	grupo	0    	0000-00-00 00:00:00
+level	iu ajn ~	noen ~	anyone ~	grupo	0    	0000-00-00 00:00:00
+level	preta por iu ajn malplaĉa renkonto	klar for ethvert ubehagelig møte	ready for any unpleasant encounter	grupo	0    	0000-00-00 00:00:00
+level	ion ajn	hva som helst (hva som helst)	anything (whatever)	grupo	0    	0000-00-00 00:00:00
+level	li atendis ion ajn	han ventet på hva som helst	he was waiting for anything	grupo	0    	0000-00-00 00:00:00
+level	krom homa voĉo	til side menneskelig stemme	aside human voice	grupo	0    	0000-00-00 00:00:00
+level	kiam voĉo aŭdiĝis, ~	når en stemme hørte, ~	when a voice heard, ~	grupo	0    	0000-00-00 00:00:00
+level	aŭdiĝis tuj proksime	hørt umiddelbart nærme seg	heard immediately close	grupo	0    	0000-00-00 00:00:00
+level	li faris belan surlokan salton	han gjorde et fint hopp på stedet	he made a nice on-site jump	grupo	0    	0000-00-00 00:00:00
+level	kiu movis lian koron	som rørte hjertet hans	who moved his heart	grupo	0    	0000-00-00 00:00:00
+level	supren ĝis la buŝo	oppord til munnen	upword to the mouth	grupo	0    	0000-00-00 00:00:00
+level	kun la provo rekapti trankvilon	med forsøk på å gjenvinne roen	with the attempt to recapture calm	grupo	0    	0000-00-00 00:00:00
+level	iom da trankvilo	litt ro	a little tranquility	grupo	0    	0000-00-00 00:00:00
+level	la lumo de lampeto	lyset fra en lampe	the light of a lamp	grupo	0    	0000-00-00 00:00:00
+level	oni direktis rekte al liaj okuloj	noen rettet direkte mot øynene hans	someone directed directly to his eyes	grupo	0    	0000-00-00 00:00:00
+level	la lampo, kiun oni direktis al okuloj	lampen som noen rettet mot øynene	the lamp which someone directed to eyes	grupo	0    	0000-00-00 00:00:00
+level	malhelpis repaciĝon	hindret forsoning	prevented reconciliation	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis al li, ke ~	det forekom ham at ~	it seemed to him that ~	grupo	0    	0000-00-00 00:00:00
+level	la homformo, kiu tenis la lampon	den menneskelige formen som holdt lampen	the human form that held the lamp	grupo	0    	0000-00-00 00:00:00
+level	surhavas vestojn policajn	bruke klær politiet	wear clothes police	grupo	0    	0000-00-00 00:00:00
+level	kion vi faras ĉi tie?	hva gjør du her?	what are you doing here?	grupo	0    	0000-00-00 00:00:00
+level	sonas la aŭtorita voĉo	lyder den autoritative stemmen	sounds the authoritative voice	grupo	0    	0000-00-00 00:00:00
+level	bonvolu paroli ~	vennligst snakk ~	please talk ~	grupo	0    	0000-00-00 00:00:00
+level	iom klare	litt tydelig	a little clear	grupo	0    	0000-00-00 00:00:00
+level	la alia diris	sa den andre	the other said	grupo	0    	0000-00-00 00:00:00
+level	eĉ pli grav-tone	i enda viktigere tone	in even more important-tone	grupo	0    	0000-00-00 00:00:00
+level	mi promenas	jeg går	I'm walking	grupo	0    	0000-00-00 00:00:00
+level	vi promenas en la bieno	du går på gården	you walk on the farm	grupo	0    	0000-00-00 00:00:00
+level	de la grafino	av grevinnen	of the countess	grupo	0    	0000-00-00 00:00:00
+level	la bieno de la grafino	grevinnens gård	the countess's farm	grupo	0    	0000-00-00 00:00:00
+level	meze de la nokto	midt på natta	in the middle of the night	grupo	0    	0000-00-00 00:00:00
+level	ĉu la grafino vin invitis?	inviterte grevinnen deg?	did the countess invite you?	grupo	0    	0000-00-00 00:00:00
+level	ĉu ŝi scias pri ~	vet hun om ~	does she know about ~	grupo	0    	0000-00-00 00:00:00
+level	pri via ĉeesto	om din tilstedeværelse	about your presence	grupo	0    	0000-00-00 00:00:00
+level	via ĉeesto ĉi tie	din tilstedeværelse her	your presence here	grupo	0    	0000-00-00 00:00:00
+level	mi devas peti vin ~	Jeg må spørre deg ~	I have to ask you ~	grupo	0    	0000-00-00 00:00:00
+level	petas vin sekvi min	ber deg følge meg	asks you to follow me	grupo	0    	0000-00-00 00:00:00
+level	kaj li klarigis ~	og han forklarte ~	and he explained ~	grupo	0    	0000-00-00 00:00:00
+level	klarigis, ke ~	forklarte at ~	explained that ~	grupo	0    	0000-00-00 00:00:00
+level	ekde la fuŝa provo	siden feil forsøk	since the wrong attempt	grupo	0    	0000-00-00 00:00:00
+level	la fuŝa provo kapti la grafinon	feil forsøk på å fange grevinnen	the wrong attempt to catch the countess	grupo	0    	0000-00-00 00:00:00
+level	fare de ~	på grunn av ~	due to ~	grupo	0    	0000-00-00 00:00:00
+level	fare de teroristoj	på grunn av terrorister	due to terrorists	grupo	0    	0000-00-00 00:00:00
+level	la polico kontrolas atente	politiet sjekker nøye	the police checks carefully	grupo	0    	0000-00-00 00:00:00
+level	kontrolas, kio okazas	sjekker hva som skjer	checks what is happening	grupo	0    	0000-00-00 00:00:00
+level	okazas en la ĉirkaŭaĵo	forekommer i omgivelsene	occurs in the surrounding	grupo	0    	0000-00-00 00:00:00
+level	de la kastelo	av slottet	of the castle	grupo	0    	0000-00-00 00:00:00
+level	la ĉirkaŭaĵo de la kastelo	omgivelsene rundt slottet	the surrounding of the castle	grupo	0    	0000-00-00 00:00:00
+level	al la industriisto	til industrimannen	to the industrialist	grupo	0    	0000-00-00 00:00:00
+level	ŝajnis, ke ~	det virket som ~	it seemed that ~	grupo	0    	0000-00-00 00:00:00
+level	lia koro ĉifoje falis	hans hjerte falt denne gangen	his heart fell this time	grupo	0    	0000-00-00 00:00:00
+level	falis ĝis liaj piedoj	falt på beina	fell to his feet	grupo	0    	0000-00-00 00:00:00
+level	li sciis, ke ~	han visste at ~	he knew that ~	grupo	0    	0000-00-00 00:00:00
+level	nur malfacile li provos trovi ~	bare hardt vil han prøve å finne	just hard he'll try to find	grupo	0    	0000-00-00 00:00:00
+level	trovi akcepteblan klarigon	for å finne en akseptabel forklaring	to find an acceptable explanation	grupo	0    	0000-00-00 00:00:00
+level	pri sia ĉeesto	om egen tilstedeværelse	about one's own presence	grupo	0    	0000-00-00 00:00:00
+level	la ideo, ke la grafino ĉion scias	ideen om at grevinnen vet alt	the idea that the countess knows everything	grupo	0    	0000-00-00 00:00:00
+level	la ideo perdigis al li malmulton da espero	ideen fratok ham lite håp	the idea deprived him of little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulto da espero	lite håp	little hope	grupo	0    	0000-00-00 00:00:00
+level	malmulta espero, kiu restis	lite håp som gjensto	little hope that remained	grupo	0    	0000-00-00 00:00:00
+level	post la unuaj vortoj de la policano	etter politiets første ord	after the first words of the police	grupo	0    	0000-00-00 00:00:00
+level	ju pli ~ des pli ~	jo flere ~ jo flere ~	the more ~ the more ~	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe des pli bone	jo lengre jo bedre	the longer the better	grupo	0    	0000-00-00 00:00:00
+level	kiom ajn	uansett hvor mye	no matter how much	grupo	0    	0000-00-00 00:00:00
+level	antaŭ kvarona horo	for et kvarter siden	a quarter of an hour ago	grupo	0    	0000-00-00 00:00:00
+level	ili revenis	de kom tilbake	they came back	grupo	0    	0000-00-00 00:00:00
+level	post la terura malfeliĉo	etter den forferdelige ulykken	after the terrible misfortune	grupo	0    	0000-00-00 00:00:00
+level	la homoj foriris	folket dro	the people left	grupo	0    	0000-00-00 00:00:00
+level	kaj la malnovaj urboj disfalis	og de gamle byene falt fra hverandre	and the old cities fell apart	grupo	0    	0000-00-00 00:00:00
+level	ni devus revidi vin	vi burde se deg igjen	we should see you again	grupo	0    	0000-00-00 00:00:00
+level	ju pli ofte	jo oftere	the more often	grupo	0    	0000-00-00 00:00:00
+level	mi pripensas	Jeg tenker	I'm thinking	grupo	0    	0000-00-00 00:00:00
+level	des pli mi koleras	jo mer sint er jeg	the more angry I am	grupo	0    	0000-00-00 00:00:00
+level	ŝi loĝas en ~	hun bor i ~	she lives in ~	grupo	0    	0000-00-00 00:00:00
+level	en iu ajn domo	i ethvert hus	in any house	grupo	0    	0000-00-00 00:00:00
+level	ĉu ni revidos nin?	vil vi se hverandre igjen?	will we see each other again?	grupo	0    	0000-00-00 00:00:00
+level	kie ajn kaj kiam ajn	hvor og når som helst	wherever and whenever	grupo	0    	0000-00-00 00:00:00
+level	kiam mi rericevos ~ ?	når kommer jeg tilbake ~ ?	when will I get back ~ ?	grupo	0    	0000-00-00 00:00:00
+level	la alian duonon de la libroj	den andre halvdelen av bøkene	the other half of the books	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi bezonos ~ ?	vil du trenge ~?	will you need ~ ?	grupo	0    	0000-00-00 00:00:00
+level	bezonas pli ol kvaronan jaron	trenger mer enn et kvart år	needs more than a quarter of a year	grupo	0    	0000-00-00 00:00:00
+level	por tiuj laboroj	for de jobbene	for those jobs	grupo	0    	0000-00-00 00:00:00
+level	kial estas ~ ?	hvorfor er ~ ?	why is ~ ?	grupo	0    	0000-00-00 00:00:00
+level	des pli malvarma	jo kaldere	the colder	grupo	0    	0000-00-00 00:00:00
+level	ju pli longe	lengre	the longer	grupo	0    	0000-00-00 00:00:00
+level	ni atendas ~	vi venter ~	we are waiting ~	grupo	0    	0000-00-00 00:00:00
+level	ĉu vi kontentas kun ~ ?	er du fornøyd med ~ ?	are you satisfied with ~ ?	grupo	0    	0000-00-00 00:00:00
+level	kun iu ajn viro	med hvilken som helst mann	with any man	grupo	0    	0000-00-00 00:00:00
