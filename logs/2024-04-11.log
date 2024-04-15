@@ -1,0 +1,32 @@
+2024-04-11 16:01:25	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-04-11 16:01:26	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-11 16:01:27	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-11 16:01:28	/api/session-start.api	a@a.com	ko-kr	A
+2024-04-11 16:01:28	/api/card-next.api	a@a.com	A	ko-kr	ĉu la amiko de via patro ~ ?	8	./quizI.html	male1
+2024-04-11 16:01:28	/api/similar-words-jk.api	a@a.com	A	ko-kr	ĉu	de
+2024-04-11 16:01:40	/api/similar-words-jk.api	a@a.com	A	ko-kr	amiko	la
+2024-04-11 16:01:46	/api/similar-words.api	a@a.com	A	ko-kr	ĉu la amiko de via patro ~ ?
+2024-04-11 16:19:52	/api/similar-words-kor.api	a@a.com	A	ko-kr	너의 아버지의 그 친구는 ~ ?
+2024-04-11 16:19:55	/api/similar-words-jk.api	a@a.com	A	ko-kr	via	de
+2024-04-11 16:21:45	/api/similar-words.api	a@a.com	A	ko-kr	ĉu la amiko de via patro ~ ?
+2024-04-11 16:22:02	/api/similar-words-kor.api	a@a.com	A	ko-kr	너의 아버지의 그 친구는 ~ ?
+2024-04-11 16:22:12	/api/playsound.api	a@a.com	ludoviko/ĉu la amiko de via patro ~ ?.mp3
+2024-04-11 16:30:16	/api/session-finish.api	a@a.com	ko-kr	A
+2024-04-11 16:43:39	/api/similar-words-kor.api	a@a.com	A	ko-kr	너의 아버지의 그 친구는 ~ ?
+2024-04-11 16:44:31	/api/similar-words-jk.api	a@a.com	A	ko-kr	patro	ĉu
+2024-04-11 16:44:41	/api/similar-words.api	a@a.com	A	ko-kr	ĉu la amiko de via patro ~ ?
+2024-04-11 16:44:46	/api/similar-words-kor.api	a@a.com	A	ko-kr	너의 아버지의 그 친구는 ~ ?
+2024-04-11 16:44:52	/api/similar-words-kor.api	a@a.com	A	ko-kr	너의 아버지의 그 친구는 ~ ?
+2024-04-11 16:45:08	/api/playsound.api	a@a.com	male1/ĉu la amiko de via patro ~ ?.mp3
+2024-04-11 16:45:16	/api/playsound.api	a@a.com	male1/ĉu la amiko de via patro ~ ?.mp3
+2024-04-11 16:46:40	/api/similar-words-jk.api	a@a.com	A	ko-kr	ĉu	patro
+2024-04-11 16:46:45	/api/similar-words.api	a@a.com	A	ko-kr	ĉu la amiko de via patro ~ ?
+2024-04-11 16:47:42	/api/similar-words-jk.api	a@a.com	A	ko-kr	via	amiko
+2024-04-11 16:48:26	/api/similar-words.api	a@a.com	A	ko-kr	ĉu la amiko de via patro ~ ?
+2024-04-11 16:48:37	/api/similar-words-kor.api	a@a.com	A	ko-kr	너의 아버지의 그 친구는 ~ ?
+2024-04-11 16:48:44	/api/similar-words-kor.api	a@a.com	A	ko-kr	너의 아버지의 그 친구는 ~ ?
+2024-04-11 16:49:39	/api/playsound.api	a@a.com	male1/ĉu la amiko de via patro ~ ?.mp3
+2024-04-11 16:50:00	/api/playsound.api	a@a.com	male1/ĉu la amiko de via patro ~ ?.mp3
+2024-04-11 16:50:23	/api/similar-words.api	a@a.com	A	ko-kr	ĉu la amiko de via patro ~ ?
+2024-04-11 16:50:30	/api/similar-words.api	a@a.com	A	ko-kr	ĉu la amiko de via patro ~ ?
+2024-04-11 16:50:36	/api/similar-words-jk.api	a@a.com	A	ko-kr	via	la

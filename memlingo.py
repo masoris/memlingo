@@ -588,7 +588,7 @@ def card_next():
         quiz_card = random.choice(quizlist)
         quiz_card_url = './'+quiz_card+'.html'
     else:
-        quizlist = ['quizB','quizC','quizD','quizE','quizF','quizG','quizH','quizI']
+        quizlist = ['quizB','quizC','quizD','quizG','quizH','quizI']
         quiz_card = random.choice(quizlist)
         quiz_card_url = './'+quiz_card+'.html'
 
