@@ -1,0 +1,315 @@
+body {
+    background-color: white;
+}
+
+.Quiz_E-2 {
+    width: 360px;
+    height: 640px;
+}
+
+.Area0 {
+    top: 145px;
+    position: absolute;
+    width: 96%;
+    left: 2%;
+}
+
+.Area1 {
+    width: 320px;
+    height: 24px;
+    margin: 20px;
+}
+
+img.ic_close_gray {
+    width: 24px;
+    height: 24px;
+    margin: 0 16px 0 0;
+    padding: 3px;
+    object-fit: contain;
+    position: absolute;
+    left: 20px;
+    top: 44px;
+}
+
+.Rectangle-progress-bar {
+    width: 280px;
+    height: 16px;
+    /* margin: 4px 0 4px 16px; */
+    /* padding: 0 231px 0 0; */
+    border-radius: 8px;
+    border: solid 1.2px #888;
+    background-color: #ccc;
+    position: absolute;
+    left: 60px;
+    top: 48px;
+}
+
+.Rectangle-progress {
+    width: 49px;
+    height: 16px;
+    border-radius: 8px;
+    border: solid 1.2px #078d4f;
+    background-color: #03bf6b;
+    /* position: absolute; */
+    /* left: 60px; */
+    /* top: 48px; */
+}
+
+.Select-what-you-hear {
+    width: 96%;
+    height: 30px;
+    /* margin: 20px 20px 16px; */
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #111;
+    position: absolute;
+    left: 2%;
+    top: 61px;
+}
+
+.Area2 {
+    /* width: 320px; */
+    /* height: 40px; */
+    /* margin: 0 0 2px; */
+}
+
+.Rectangle-speaker {
+    width: 40px;
+    height: 36px;
+    /* padding: 10px 11px 10px 10px; */
+    border-radius: 12px;
+    /* background-color: #ce82ff; */
+    position: absolute;
+    /* left: 280px; */
+    top: 89px;
+    right: 2%;
+}
+
+[dir="rtl"] .Rectangle-speaker {
+    right: auto;
+    left: 2%;
+}
+
+.mi-vi {
+    width: 264px;
+    height: 25px;
+    /* margin: 7px 0 8px 16px; */
+    font-family: Arial, sans-serif;
+    font-size: 17pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #111;
+    /* position: absolute; */
+    /* left: 50px; */
+    /* top: 171px; */
+}
+
+.Area3 {
+    /* width: 320px; */
+    /* height: 18px; */
+    /* margin: 2px 0 0; */
+    /* padding: 0 0 0 56px; */
+}
+
+.I-you {
+    width: 264px;
+    height: 18px;
+    font-family: Arial, sans-serif;
+    font-size: 16pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    /* color: #999; */
+    /* position: absolute; */
+    left: 50px;
+    top: 206px;
+}
+
+.Area4 {
+    /* width: 320px; */
+    /* height: 18px; */
+    /* margin: 12px 0 0; */
+    /* padding: 0 0 0 56px; */
+}
+
+.hello-I-am- {
+    width: 264px;
+    height: 18px;
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #999;
+    /* position: absolute; */
+    left: 50px;
+    top: 236px;
+}
+
+img.ic_woman_1 {
+    width: 100px;
+    height: 100px;
+    /* margin: 210px 20px 16px 65px; */
+    /* padding: 8px 15px 7px; */
+    object-fit: contain;
+    position: absolute;
+    /* left: 235px; */
+    top: 350px;
+    right: 2%;
+}
+
+[dir="rtl"] img.ic_woman_1 {
+    right: auto;
+    left: 2%;
+}
+
+.Rectangle-hard {
+    width: 31.4%;
+    height: 60px;
+    /* margin: 270px 10px 10px 0;
+    padding: 13px 20px 14px; */
+    border-radius: 2px;
+    background-color: #4c5b75;
+    position: fixed;
+    left: 2%;
+    /* top: 524px; */
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    bottom: 75px;
+    border-radius: 10px;
+    display: none;
+}
+
+.Rectangle-easy {
+    width: 31.4%;
+    height: 60px;
+    /* margin: 270px 0 10px 10px;
+    padding: 13px 20px 14px; */
+    border-radius: 2px;
+    background-color: #4c5b75;
+    position: fixed;
+    left: 34.3%;
+    /* top: 524px; */
+    bottom: 75px;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    display: none;
+}
+
+.Rectangle-too-easy {
+    width: 31.4%;
+    height: 60px;
+    /* margin: 270px 0 10px 10px;
+    padding: 13px 20px 14px; */
+    border-radius: 2px;
+    background-color: #4c5b75;
+    position: fixed;
+    left: 66.6%;
+    /* top: 524px; */
+    bottom: 75px;
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    display: none;
+}
+
+.Submit-hard {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 17pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: #fff;
+    background-color: #4c5b75;
+    border-width: 0;
+    border-radius: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.Submit-easy {
+    width: 100%;
+    height: 100%;
+    /* padding: 1px 41px 14px 75px; */
+    font-family: Arial, sans-serif;
+    font-size: 17pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: #fff;
+    background-color: #4c5b75;
+    border-width: 0;
+    border-radius: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.Submit-too-easy {
+    width: 100%;
+    height: 100%;
+    /* padding: 1px 41px 14px 75px; */
+    font-family: Arial, sans-serif;
+    font-size: 17pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: #fff;
+    background-color: #4c5b75;
+    border-width: 0;
+    border-radius: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+
+.Rectangle-listen {
+    width: 96%;
+    height: 60px;
+    /* margin: 10px 0 0; */
+    /* padding: 19px 20px 20px; */
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #03bf6b;
+    position: fixed;
+    left: 2%;
+    /* top: 580px; */
+    bottom: 10px;
+    border-radius: 10px;
+}
+
+.Listen {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 18pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    background-color: #03bf6b;
+    border-width: 0;
+    border-radius: 10px;
+}

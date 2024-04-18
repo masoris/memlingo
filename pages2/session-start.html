@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" class="notranslate" translate="no" dir="ltr" id="html">
+
+<head>
+    <meta name="google" content="notranslate" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./session-start.css">
+    <script src="./lang_msgs.js"></script>
+    <script src="./util.js"></script>
+    <script src="./session-start.js"></script>
+    <script src="./ajax.js"></script>
+    <script src="./cookie.js"></script>
+    <title>Session-start</title>
+</head>
+
+<body>
+    <!-- <div class="Rectangle-Background"> -->
+    <img src="img/logo-subtitle.png" srcset="img/logo-subtitle@2x.png 2x,
+             img/logo-subtitle@3x.png 3x" class="logo_subtitle">
+
+
+    <img id="back_to_user_courses" src="img/ic-close-white.png" srcset="img/ic-close-white@2x.png 2x,
+             img/ic-close-white@3x.png 3x" class="ic_close_white">
+
+    <span id="span_learn_by_examples" class="Learn-Esperanto-by-E">
+        Learn Esperanto by Examples
+    </span>
+
+    <img src="img/img-a.png" srcset="img/img-a@2x.png 2x,
+             img/img-a@3x.png 3x" class="img_a">
+
+    <div class="Rectangle-Copy">
+
+        <span id="session_course_name" class="Esperanto-A-">
+            Esperanto A (에스페란토)
+        </span>
+        <img src="img/ic-star-1.png" srcset="img/ic-star-1@2x.png 2x,
+             img/ic-star-1@3x.png 3x" class="ic_star_1">
+        <!-- <table>
+                <tr>
+                    <td> -->
+        <div class="Left">
+            <span id="pointsA" class="Points">Points</span><br />
+            <span id="session_course_points" class="Number">-</span><br />
+            <span id="progressA" class="progress">Progress</span><br />
+            <span id="session_course_progress" class="Number">-</span>%
+            <br />
+            <input type="button" value="Jump Progress" id="Btn_Level_Jump" class="Level-Jump">
+            <!--<span id="words_to_reviewA" class="Needs-Review">Needs Review</span><br />
+            <span id="session_course_needs_review" class="Number">-</span><br />-->
+        </div>
+        <!-- </td>
+                    <td> -->
+        <div class="Right">
+            <span id="familiarA" class="Familiar">Familiar</span><br />
+            <span id="session_course_familiar" class="Number">-</span><br />
+            <!-- <div class="Middle-Bar"></div> -->
+            <span id="wordsA" class="Total-Count">Total Count</span><br />
+            <span id="session_course_total_count" class="Number">-</span><br />
+            <span id="masteredA" class="Mastered">Mastered</span><br />
+            <span id="session_course_mastered" class="Number">-</span><br />
+        </div>
+        <!-- </td>
+                </tr>
+            </table> -->
+        <table class="Description-table">
+            <tr>
+                <td id="session_course_description" class="description">
+                    description
+                </td>
+            </tr>
+            <tr>
+                <td><br></td>
+            </tr>
+            <tr>
+                <td id="session_course_short_description" class="Short-description">
+                    short_description
+                </td>
+            </tr>
+        </table>
+        <span id="progress_msg" style="color: white">
+            지금 진도율이 $PROGRESS %입니다. 몇 퍼센트 위치로 점프하시겠습니까? 만약 절반을 원하시면 50을 입력해주세요.
+        </span>
+        <span id="wrong_progress_input" style="color: white">
+            입력이 잘못되었습니다! 0-100사이의 퍼센트 값을 정수로 입력하세요.
+        </span>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+    <div class="Rectangle5">
+        <input class="Go-Home" type="button" id="Btn_Go_Home" value="Home">
+    </div>
+    <div class="Rectangle4">
+        <input class="Start-Learning" type="button" id="Btn_Start_learning" value="Start Learning">
+    </div>
+
+
+
+
+</body>
+
+</html>

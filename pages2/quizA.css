@@ -1,0 +1,324 @@
+body {
+    height: 1500px;
+    background-color: white;
+}
+
+.Quiz_E-2 {
+    width: 360px;
+    height: 640px;
+}
+
+.Area0 {
+    width: 96%;
+    position: absolute;
+    left: 2%;
+    top: 130px;
+}
+
+
+#answers input {
+    font-size: 20pt;
+    background-color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+    width: auto;
+    border-color: #03bf6b;
+    border-radius: 10px;
+    display: inline-block;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#options input {
+    font-size: 20pt;
+    background-color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: #e0ffe0;
+    width: auto;
+    border-color: #03bf6b;
+    border-radius: 10px;
+    display: inline-block;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.Area1 {
+    width: 320px;
+    height: 24px;
+    margin: 20px;
+}
+
+.Answers {
+    position: absolute;
+    top: 200px;
+    left: 2%;
+}
+
+.Options {
+    position: absolute;
+    top: 400px;
+    left: 2%;
+}
+
+img.ic_close_gray {
+    width: 24px;
+    height: 24px;
+    margin: 0 16px 0 0;
+    padding: 3px;
+    object-fit: contain;
+    position: absolute;
+    left: 20px;
+    top: 44px;
+}
+
+.Rectangle-progress-bar {
+    width: 280px;
+    height: 16px;
+    /* margin: 4px 0 4px 16px; */
+    /* padding: 0 231px 0 0; */
+    border-radius: 8px;
+    border: solid 1.2px #888;
+    background-color: #ccc;
+    position: absolute;
+    left: 60px;
+    top: 48px;
+}
+
+.Rectangle-progress {
+    width: 49px;
+    height: 16px;
+    border-radius: 8px;
+    border: solid 1.2px #078d4f;
+    background-color: #03bf6b;
+    /* position: absolute; */
+    /* left: 60px; */
+    /* top: 48px; */
+}
+
+.Select-what-you-hear {
+    width: 96%;
+    height: 30px;
+    /* margin: 20px 20px 16px; */
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #111;
+    position: absolute;
+    left: 2%;
+    top: 61px;
+}
+
+.Area2 {
+    width: 320px;
+    height: 40px;
+    margin: 0 0 2px;
+}
+
+.Rectangle-speaker {
+    width: 40px;
+    height: 36px;
+    /* padding: 10px 11px 10px 10px; */
+    border-radius: 12px;
+    /* background-color: #ce82ff; */
+    position: absolute;
+    /* left: 280px; */
+    top: 55px;
+    right: 2%;
+}
+
+[dir="rtl"] .Rectangle-speaker {
+    left: 2%;
+    right: auto;
+}
+
+.mi-vi {
+    width: 264px;
+    height: 25px;
+    /* margin: 7px 0 8px 16px; */
+    font-family: Arial, sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #111;
+    position: absolute;
+    left: 50px;
+    top: 171px;
+}
+
+.Area3 {
+    /* width: 320px; */
+    /* height: 18px; */
+    /* margin: 2px 0 0; */
+    /* padding: 0 0 0 56px; */
+}
+
+.Esp-txt {
+    /* width: 264px; */
+    /* height: 18px; */
+    font-family: Arial, sans-serif;
+    font-size: 16pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    /* color: #999; */
+    /* position: absolute; */
+    /* left: 30px; */
+    /* top: 115px; */
+}
+
+.I-you {
+    /* width: 264px; */
+    /* height: 18px; */
+    font-family: Arial, sans-serif;
+    font-size: 16pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    /* color: #999; */
+    /* position: absolute; */
+    /* left: 30px; */
+    /* top: 115px; */
+}
+
+.Area4 {
+    /* width: 320px; */
+    /* height: 18px; */
+    /* margin: 12px 0 0; */
+    /* padding: 0 0 0 56px; */
+}
+
+.hello-I-am- {
+    width: 264px;
+    height: 18px;
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #999;
+    /* position: absolute; */
+    left: 30px;
+    top: 147px;
+}
+
+img.ic_woman_1 {
+    width: 100px;
+    height: 100px;
+    /* margin: 210px 20px 16px 65px; */
+    /* padding: 8px 15px 7px; */
+    object-fit: contain;
+    position: absolute;
+    /* left: 230px; */
+    top: 305px;
+    right: 2%;
+    z-index: -100;
+}
+
+[dir="rtl"] img.ic_woman_1 {
+    right: auto;
+    left: 2%;
+}
+
+.Rectangle-hard {
+    width: 50%;
+    height: 46px;
+    /* margin: 270px 10px 10px 0;
+    padding: 13px 20px 14px; */
+    border-radius: 2px;
+    background-color: #4c5b75;
+    position: fixed;
+    left: 0px;
+    /* top: 524px; */
+    bottom: 60px;
+}
+
+.Rectangle-easy {
+    width: 50%;
+    height: 46px;
+    /* margin: 270px 0 10px 10px;
+    padding: 13px 20px 14px; */
+    border-radius: 2px;
+    background-color: #4c5b75;
+    position: fixed;
+    left: 50%;
+    /* top: 524px; */
+    bottom: 60px;
+}
+
+.Submit-hard {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: #fff;
+    background-color: #4c5b75;
+}
+
+.Submit-easy {
+    width: 100%;
+    height: 100%;
+    /* padding: 1px 41px 14px 75px; */
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: #fff;
+    background-color: #4c5b75;
+}
+
+.Rectangle-listen {
+    width: 96%;
+    height: 60px;
+    /* margin: 10px 0 0; */
+    /* padding: 19px 20px 20px; */
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #03bf6b;
+    position: fixed;
+    left: 2%;
+    /* top: 580px; */
+    bottom: 10px;
+    border-radius: 10px;
+    /* border: 1px; */
+}
+
+.Listen {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    background-color: #03bf6b;
+    border-width: 0;
+    /* border-radius: 10px; */
+    border-radius: 10px;
+}

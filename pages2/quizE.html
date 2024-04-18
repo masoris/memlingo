@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" class="notranslate" translate="no" dir="ltr" id="html">
+
+<head>
+    <meta name="google" content="notranslate" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./quizE.css">
+    <link rel="stylesheet" href="./quizAll.css">
+    <script src="./lang_msgs.js"></script>
+    <script src="./util.js"></script>
+    <script src="./quizE.js"></script>
+    <script src="./ajax.js"></script>
+    <script src="./cookie.js"></script>
+    <title>Quiz E</title>
+</head>
+
+<body>
+    <!-- <div class="Container"> -->
+    <div class="Area1">
+        <img id="btn_quit" src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
+                   img/ic-close-gray@3x.png 3x" class="ic_close_gray">
+        <div id="progress_bar" class="Rectangle-progress-bar">
+            <div id="progress" class="Rectangle-progress"></div>
+        </div>
+    </div>
+
+    <span id="choose_the_level" class="Select-what-you-hear">
+        Choose the level how you feel about this.
+    </span>
+    <img id="speaker" src="img/speaker.png" class="Rectangle-speaker">
+
+    <table class="Area0">
+        <tr>
+            <td class="Area2">
+                <span id="esp_txt" class="mi-vi" dir="ltr">
+                    <!-- saluton, mi estas~ -->
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td class="Area3">
+                <span id="kor_txt" class="I-you">
+                    안녕하세요, 나는 ~ 입니다.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td class="Area4">
+                <span id="eng_txt" class="hello-I-am-" dir="ltr">
+                    hello, I am ~
+                </span>
+            </td>
+        </tr>
+    </table>
+
+    <img id="voice_img" src="img/ic-woman-1.png" class="ic_woman_1">
+
+    </div>
+
+    <!-- </div> -->
+    <div id="rectangle_hard" class="Rectangle-hard">
+        <input type="button" id="btn_hard" class="Submit-hard" value="Hard for me">
+    </div>
+    <div id="rectangle_easy" class="Rectangle-easy">
+        <input type="button" id="btn_easy" class="Submit-easy" value="Easy to me">
+    </div>
+    <div id="rectangle_too_easy" class="Rectangle-too-easy">
+        <input type="button" id="btn_too_easy" class="Submit-too-easy" value="Too easy">
+    </div>
+    <div class="Rectangle-listen">
+        <input type="button" id="btn_listen" class="Listen" value="Listen">
+    </div>
+</body>

@@ -1,0 +1,412 @@
+body {
+    margin: 0px;
+    justify-content: center;
+    display: flex;
+    background-color: white;
+}
+
+
+.Quiz_C-3 {
+    width: 360px;
+    height: 640px;
+    position: relative;
+}
+
+.RectangleN {
+    width: calc(50% - 2% - 5px);
+    height: 100px;
+}
+
+.RectangleN-1 {
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.InsideN {
+    width: 90%;
+    height: 90%;
+}
+
+#speaker {
+    width: 40px;
+    height: 40px;
+    /* padding: 10px 11px 10px 10px; */
+    border-radius: 12px;
+    position: absolute;
+    /* left: 286px; */
+    top: 56px;
+    right: 2%;
+}
+
+[dir="rtl"] #speaker {
+    right: auto;
+    left: 2%;
+}
+
+.Select-what-you-hear {
+    /* width: 320px; */
+    height: 30px;
+    /* margin: 20px 20px 16px; */
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #111;
+    position: absolute;
+    left: 2%;
+    top: 61px;
+}
+
+[dir="rtl"] .Select-what-you-hear {
+    left: auto;
+    right: 2%;
+}
+
+.Area2 {
+    width: 96%;
+    height: 40px;
+    margin: 0 0 2px;
+    position: absolute;
+    /* left: 20px; */
+    top: 72px;
+    height: 36px;
+    /* padding: 10px 11px 10px 10px; */
+    border-radius: 12px;
+    position: absolute;
+    left: 2%;
+    top: 125px;
+}
+
+.mi-vi {
+    /* width: 264px; */
+    /* height: 25px; */
+    /* margin: 7px 0 8px 16px; */
+    font-family: Arial, sans-serif;
+    font-size: 15pt;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #111;
+    /* position: absolute; */
+    /* left: 76px; */
+    /* top: 141px; */
+}
+
+.Area3 {
+    width: 320px;
+    height: 18px;
+    /* margin: 2px 0 0; */
+    /* padding: 0 0 0 56px; */
+    position: absolute;
+    left: 2%;
+    top: 176px;
+}
+
+.I-you {
+    width: 264px;
+    height: 18px;
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #999;
+    /* position: absolute; */
+    /* left: 2%; */
+    /* top: -64px; */
+}
+
+.Rectangle1 {
+    /* width: calc(50% - 2% - 5px); */
+    height: 120px;
+    margin: 16px 0px 10px 0px;
+    /* padding: 50px 12px 22px; */
+    border-radius: 10px;
+    border: solid 1px white;
+    position: absolute;
+    left: 2%;
+    top: 240px;
+}
+
+.Rectangle1-1 {
+    width: 100%;
+    height: 100%;
+    /* margin: 16px 5px 10px 20px; */
+    /* padding: 50px 12px 22px; */
+    border-radius: 10px;
+    background-color: white;
+    position: absolute;
+    /* left: 10px; */
+    /* top: 85px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.Inside1 {
+    /* width: 131px; */
+    /* height: 21px; */
+    /* margin: 0 0 7px; */
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    /* position: absolute; */
+    /* left: 32px; */
+    /* top: 260px; */
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.Rectangle2 {
+    /* width: 150px; */
+    height: 120px;
+    margin: 16px 0px 10px 0px;
+    /* padding: 50px 12px; */
+    border-radius: 10px;
+    border: solid 1px white;
+    background-color: #fff;
+    position: absolute;
+    /* left: 180px; */
+    top: 240px;
+    right: 2%;
+}
+
+.Rectangle2-1 {
+    width: 100%;
+    height: 100%;
+    /* margin: 16px 5px 10px 20px; */
+    /* padding: 50px 12px 22px; */
+    border-radius: 10px;
+    background-color: white;
+    /* position: absolute; */
+    /* left: 185px; */
+    /* top: 210px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.Inside2 {
+    /* width: 131px; */
+    /* height: 21px; */
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #111;
+    /* position: absolute; */
+    /* left: 197px; */
+    /* top: 260px; */
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.Rectangle3 {
+    /* width: 150px; */
+    height: 120px;
+    margin: 10px 0px 118px 0px;
+    /* padding: 50px 12px; */
+    border-radius: 10px;
+    border: solid 1px #ddd;
+    background-color: #fff;
+    position: absolute;
+    left: 2%;
+    top: 374px;
+}
+
+.Rectangle3-1 {
+    width: 100%;
+    height: 100%;
+    /* margin: 16px 5px 10px 20px; */
+    /* padding: 50px 12px 22px; */
+    border-radius: 10px;
+    background-color: white;
+    /* position: absolute; */
+    /* left: 20px; */
+    /* top: 341px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.Inside3 {
+    /* width: 131px; */
+    /* height: 21px; */
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #111;
+    /* position: absolute; */
+    /* left: 32px; */
+    /* top: 391px; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.Rectangle4 {
+    /* width: 150px; */
+    height: 120px;
+    margin: 10px 0px 118px 0px;
+    /* padding: 50px 12px; */
+    border-radius: 10px;
+    border: solid 1px white;
+    position: absolute;
+    /* left: 180px; */
+    top: 374px;
+    right: 2%;
+}
+
+.Rectangle4-1 {
+    width: 100%;
+    height: 100%;
+    /* margin: 10px 20px 118px 5px; */
+    /* padding: 50px 12px; */
+    border-radius: 10px;
+    background-color: white;
+    /* position: absolute; */
+    /* left: 185px; */
+    /* top: 341px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.Inside4 {
+    /* width: 131px; */
+    /* height: 21px; */
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #111;
+    /* position: absolute; */
+    left: 197px;
+    top: 391px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.Rectangle-continue {
+    width: 96%;
+    height: 60px;
+    /* margin: 118px 0 0; */
+    /* padding: 19px 20px 20px; */
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #03bf6b;
+    position: fixed;
+    left: 2%;
+    /* top: 580px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    bottom: 10px;
+    border-radius: 10px;
+}
+
+.Span-continue {
+    width: 140px;
+    height: 21px;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    /* position: absolute; */
+    left: 20px;
+    top: 599px;
+}
+
+.Rectangle-listen {
+    width: 50%;
+    height: 60px;
+    /* margin: 118px 0 0; */
+    /* padding: 19px 20px 20px; */
+    box-shadow: 2px 0 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #4c5b75;
+    position: fixed;
+    left: 2%;
+    /* top: 580px; */
+    bottom: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.Span-listen {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 20pt;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: center;
+    background-color: #03bf6b;
+    /* position: absolute; */
+    left: 200px;
+    top: 599px;
+    color: white;
+    border-width: 0;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.Continue {
+    background-color: #03bf6b;
+    width: 100%;
+    height: 100%;
+    font-size: 20pt;
+    color: white;
+    border-width: 0;
+    font-weight: bold;
+    border-radius: 10px;
+}

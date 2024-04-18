@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" class="notranslate" translate="no" dir="ltr" id="html">
+
+<head>
+    <meta name="google" content="notranslate" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./quizC.css">
+    <link rel="stylesheet" href="./quizAll.css">
+    <script src="./lang_msgs.js"></script>
+    <script src="./util.js"></script>
+    <script src="./quizC.js"></script>
+    <script src="./ajax.js"></script>
+    <script src="./cookie.js"></script>
+    <title>Quiz C</title>
+</head>
+
+<body>
+    <!-- <div class="Container"> -->
+    <div class="Area1">
+        <img id="btn_quit" src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
+             img/ic-close-gray@3x.png 3x" class="ic_close_gray">
+
+        <div id="progress_bar" class="Rectangle-progress-bar">
+            <div id="progress" class="Rectangle-progress"></div>
+        </div>
+
+    </div>
+    <span id="select_what_you_hear" class="Select-what-you-hear">
+        Select what you hear.
+    </span>
+    <img id="speaker" src="img/speaker.png" class="Rectangle-speaker">
+    <table class="Area2">
+        <tr>
+            <td>
+                <span id="esp_txt" class="mi-vi" dir="ltr">
+                    <!-- mi, vi -->
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span id="eng_txt" class="I-you" dir="ltr">
+                    I, you
+                </span>
+            </td>
+        </tr>
+    </table>
+
+    <div id="block_1_border" class="Rectangle1 RectangleN">
+        <div id="block_1" class="Rectangle1-1 RectangleN-1"><span id="block_1_txt" class="Inside1 InsideN">
+                나의 사랑
+            </span></div>
+    </div>
+    <div id="block_2_border" class="Rectangle2 RectangleN">
+        <div id="block_2" class="Rectangle2-1 RectangleN-1"><span id="block_2_txt" class="Inside2 InsideN">
+                나의 사랑
+            </span></div>
+    </div>
+    <div id="block_3_border" class="Rectangle3 RectangleN">
+        <div id="block_3" class="Rectangle3-1 RectangleN-1"><span id="block_3_txt" class="Inside3 InsideN">
+                나의 사랑
+            </span></div>
+    </div>
+    <div id="block_4_border" class="Rectangle4 RectangleN">
+        <div id="block_4" class="Rectangle4-1 RectangleN-1"><span id="block_4_txt" class="Inside4 InsideN">
+                나의 사랑
+            </span></div>
+    </div>
+
+
+    <!-- </div> -->
+    <div id="rectangle_continue" class="Rectangle-continue">
+        <input class="Continue" type="button" id="btn_listen_continue" value="Listen and Continue">
+    </div>
+
+    <div id="rectangle_listen" class="Rectangle-listen">
+        <input class="Span-listen" type="button" id="btn_listen" value="Listen">
+    </div>
+</body>
+
+</html>

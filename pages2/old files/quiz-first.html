@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./quiz-first.css">
+    <link rel="stylesheet" href="./quizAll.css">
+    <script src="./util.js"></script>
+    <script src="./quiz-first.js"></script>
+    <script src="./ajax.js"></script>
+    <script src="./cookie.js"></script>
+    <title>Quiz First</title>
+</head>
+
+<body>
+    <!-- <div class="Container"> -->
+    <div class="Area1">
+        <img id="btn_quit" src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
+                       img/ic-close-gray@3x.png 3x" class="ic_close_gray">
+        <div id="progress_bar" class="Rectangle-progress-bar">
+            <div id="progress" class="Rectangle-progress"></div>
+        </div>
+    </div>
+    <!-- <div class="Area1">
+        <img id="btn_quit" src="img/ic-close-gray.png" srcset="img/ic-close-gray@2x.png 2x,
+                   img/ic-close-gray@3x.png 3x" class="ic_close_gray">
+        <div id="progress_bar" class="Rectangle-progress-bar">
+            <div id="progress" class="Rectangle-progress"></div>
+        </div>
+    </div> -->
+
+    </div>
+    <span class="Select-what-you-hear">
+        Choose the level how you feel about this.
+    </span>
+    <div class="Rectangle-speaker">
+        <img id="btn_speaker" src="img/speaker.png" class="Rectangle-speaker">
+    </div>
+    <table class="Area0">
+        <tr>
+            <td class="Area2">
+                <span id="esp_txt" class="mi-vi">
+                    saluton, mi estas~
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td class="Area3">
+                <span id="kor_txt" class="I-you">
+                    안녕하세요, 나는 ~ 입니다.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td class="Area4">
+                <span id="eng_txt" class="hello-I-am-">
+                    hello, I am ~
+                </span>
+            </td>
+        </tr>
+    </table>
+    <img id="voice_img" src="img/ic-woman-1.png" class="ic_woman_1">
+
+    <!-- </div> -->
+    <div class="Rectangle-hard">
+        <input class="Submit-hard" type="button" id="btn_hard" value="Hard for me">
+
+    </div>
+    <div class="Rectangle-easy">
+        <input class="Submit-easy" type="button" id="btn_easy" value="Easy to me">
+    </div>
+
+    <div class="Rectangle-listen">
+        <input class="Listen" type="button" id="btn_listen" value="Listen">
+    </div>
+
+</body>
