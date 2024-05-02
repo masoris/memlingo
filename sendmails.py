@@ -1,4 +1,4 @@
-import os, sys, fcntl, sendmail
+import os, sys, fcntl, sendmail, json
 
 #모든 사용자의 홈 디렉토리를 가져온다
 def get_all_users_home_dir():
@@ -31,6 +31,16 @@ def get_emails_lang(lang):
     all_homes = get_all_users_home_dir()
     emails = []
     for home in all_homes:
+        
+        userinfo_json = home + "/userinfo.json"
+        user_info = {}
+        with open(userinfo_json, "r", encoding='utf-8') as f:
+            user_info_json = f.read()    
+            user_info = json.loads(user_info_json)
+        if "unsubscribe" in user_info and user_info['unsubscribe'] == "YES":
+            print("UNSUBSCRIBE " + home)
+            continue
+
         row = home.split("/")
         if os.path.exists(home + "/courses/" + lang):
             # 해당 언어의 A코스를 한 번이라도 공부한 사람만 해당 언어 사용자라고 간주한다.
@@ -54,6 +64,19 @@ def get_emails_lang(lang):
             # print(home + '\t' + row[-1])
     return emails
 
+def read_invalid_mails():
+    fp = open("invalid_mails.txt", "r")
+    mails = []
+    for line in fp:
+        if line.find("@") < 0:
+            continue
+        mails.append(line.strip())
+    fp.close()
+
+    return mails
+
+invalid_mails = read_invalid_mails()
+
 if __name__=="__main__":
     if len(sys.argv) < 4:
         print("USAGE: %s lang=ko-kr ./sendmail.txt ./pages/sendmail.html" % (sys.argv[0]))
@@ -63,6 +86,9 @@ if __name__=="__main__":
     sendmail_html = sys.argv[3]
     emails = get_emails_lang(lang)
     for email in emails:
-        print(email)
-        # sendmail.sendmail(email, sendmail_txt, sendmail_html)
+        if email in invalid_mails:
+            print("%s is invalid mail" % email)
+        else:
+            print(email)
+            sendmail.sendmail(email, sendmail_txt, sendmail_html)
 

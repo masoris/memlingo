@@ -1,0 +1,58 @@
+2024-04-24 16:03:10	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-04-24 16:03:11	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-24 16:06:10	/api/get_course_info.api	a@a.com	ko-kr
+2024-04-24 16:16:05	/api/login.api	memlingo.service@gmail.com	memlingo.service@gmail.com	ko-kr
+2024-04-24 16:16:05	/api/get_course_info.api	memlingo.service@gmail.com	ko-kr
+2024-04-24 16:18:34	/api/get_course_info.api	memlingo.service@gmail.com	ko-kr
+2024-04-24 16:18:35	/api/session-start.api	memlingo.service@gmail.com	ko-kr	A
+2024-04-24 16:18:35	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	mi, vi	0	./quizA.html	ludoviko
+2024-04-24 16:18:36	/api/similar-words-jk.api	memlingo.service@gmail.com	A	ko-kr	mi	
+2024-04-24 16:18:38	/api/playsound.api	memlingo.service@gmail.com	ludoviko/mi, vi.mp3
+2024-04-24 16:18:39	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	estas, estis	0	./quizC.html	male2
+2024-04-24 16:18:39	/api/playsound.api	memlingo.service@gmail.com	ludoviko/mi, vi.mp3
+2024-04-24 16:18:40	/api/similar-words-kor.api	memlingo.service@gmail.com	A	ko-kr	(현재) ~이다, (과거) ~이었다
+2024-04-24 16:18:41	/api/put-score-kor.api	memlingo.service@gmail.com	A	ko-kr	(현재) 감사한다, (과거) 감사했다	-1
+2024-04-24 16:18:42	/api/put-score-kor.api	memlingo.service@gmail.com	A	ko-kr	(현재) 본다, (과거) 보았다	-1
+2024-04-24 16:18:42	/api/put-score-kor.api	memlingo.service@gmail.com	A	ko-kr	(현재) ~이다, (과거) ~이었다	1
+2024-04-24 16:18:42	/api/playsound.api	memlingo.service@gmail.com	male2/estas, estis.mp3
+2024-04-24 16:18:47	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	mi estas ~	0	./quizG.html	male1
+2024-04-24 16:18:47	/api/playsound.api	memlingo.service@gmail.com	male1/estas, estis.mp3
+2024-04-24 16:18:49	/api/similar-words.api	memlingo.service@gmail.com	A	ko-kr	mi estas ~
+2024-04-24 16:18:50	/api/put-score.api	memlingo.service@gmail.com	A	ko-kr	mi estas ~	1
+2024-04-24 16:18:50	/api/playsound.api	memlingo.service@gmail.com	male2/mi estas ~.mp3
+2024-04-24 16:18:51	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	vi estas ~	0	./quizF.html	male1
+2024-04-24 16:18:51	/api/playsound.api	memlingo.service@gmail.com	male2/mi estas ~.mp3
+2024-04-24 16:18:54	/api/playsound.api	memlingo.service@gmail.com	male1/vi estas ~.mp3
+2024-04-24 16:18:56	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	saluton	0	./quizC.html	female1
+2024-04-24 16:18:56	/api/playsound.api	memlingo.service@gmail.com	ludoviko/vi estas ~.mp3
+2024-04-24 16:18:57	/api/similar-words-kor.api	memlingo.service@gmail.com	A	ko-kr	안녕하세요
+2024-04-24 16:18:58	/api/put-score-kor.api	memlingo.service@gmail.com	A	ko-kr	안녕하세요	1
+2024-04-24 16:18:58	/api/playsound.api	memlingo.service@gmail.com	male1/saluton.mp3
+2024-04-24 16:19:00	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	saluton, mi estas ~	0	./quizE.html	male1
+2024-04-24 16:19:00	/api/playsound.api	memlingo.service@gmail.com	female1/saluton.mp3
+2024-04-24 16:19:02	/api/playsound.api	memlingo.service@gmail.com	male1/saluton, mi estas ~.mp3
+2024-04-24 16:19:04	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	mia, via	0	./quizH.html	male1
+2024-04-24 16:19:04	/api/playsound.api	memlingo.service@gmail.com	male1/saluton, mi estas ~.mp3
+2024-04-24 16:19:07	/api/similar-words.api	memlingo.service@gmail.com	A	ko-kr	mia, via
+2024-04-24 16:19:08	/api/put-score.api	memlingo.service@gmail.com	A	ko-kr	mia, via	1
+2024-04-24 16:19:08	/api/playsound.api	memlingo.service@gmail.com	female2/mia, via.mp3
+2024-04-24 16:19:09	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	nomo	0	./quizH.html	female1
+2024-04-24 16:19:09	/api/playsound.api	memlingo.service@gmail.com	male1/mia, via.mp3
+2024-04-24 16:19:11	/api/similar-words.api	memlingo.service@gmail.com	A	ko-kr	nomo
+2024-04-24 16:19:11	/api/playsound.api	memlingo.service@gmail.com	male2/nomo.mp3
+2024-04-24 16:19:13	/api/put-score.api	memlingo.service@gmail.com	A	ko-kr	nomo	1
+2024-04-24 16:19:13	/api/playsound.api	memlingo.service@gmail.com	ludoviko/nomo.mp3
+2024-04-24 16:19:14	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	mia nomo, via nomo	0	./quizI.html	female2
+2024-04-24 16:19:14	/api/playsound.api	memlingo.service@gmail.com	ludoviko/nomo.mp3
+2024-04-24 16:19:15	/api/similar-words-jk.api	memlingo.service@gmail.com	A	ko-kr	nomo	via
+2024-04-24 16:19:19	/api/playsound.api	memlingo.service@gmail.com	female1/mia nomo, via nomo.mp3
+2024-04-24 16:19:31	/api/playsound.api	memlingo.service@gmail.com	female2/mia nomo, via nomo.mp3
+2024-04-24 16:19:42	/api/playsound.api	memlingo.service@gmail.com	female2/mia nomo, via nomo.mp3
+2024-04-24 16:19:52	/api/similar-words-jk.api	memlingo.service@gmail.com	A	ko-kr	mia	nomo
+2024-04-24 16:19:56	/api/playsound.api	memlingo.service@gmail.com	male2/mia nomo, via nomo.mp3
+2024-04-24 16:20:00	/api/card-next.api	memlingo.service@gmail.com	A	ko-kr	mia nomo estas ~	0	./quizE.html	female1
+2024-04-24 16:20:00	/api/playsound.api	memlingo.service@gmail.com	male1/mia nomo, via nomo.mp3
+2024-04-24 16:20:04	/api/playsound.api	memlingo.service@gmail.com	female1/mia nomo estas ~.mp3
+2024-04-24 16:20:05	/api/playsound.api	memlingo.service@gmail.com	female2/mia nomo estas ~.mp3
+2024-04-24 16:20:07	/api/session-finish.api	memlingo.service@gmail.com	ko-kr	A
+2024-04-24 16:20:09	/api/get_course_info.api	memlingo.service@gmail.com	ko-kr

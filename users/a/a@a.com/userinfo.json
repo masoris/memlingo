@@ -1,1 +1,9 @@
-{"userid": "a", "email": "a@a.com", "last_login": "2024-04-18 16:07:14", "admin_flag": "false", "experience_points": "475", "duration": "1160"}
+{
+    "userid": "a",
+    "email": "a@a.com",
+    "last_login": "2024-04-24 16:03:10",
+    "admin_flag": "false",
+    "experience_points": "475",
+    "duration": "1160",
+    "unsubscribe": "YES"
+}
