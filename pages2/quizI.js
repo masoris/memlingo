@@ -17,7 +17,21 @@ function click_option(item) { //제시된 여러개의 단어를 클릭한 경�
         if (k_word == "" || $('k_word').style.color == 'black') {
             play_sound_esp(JSON.parse(localStorage.Carditem).esp_txt);
             // $('btn_continue').value = "Listen and Continue";
-            display_msg("btn_continue", "value", "btn_listen_continue");
+            $('btn_listen').id = 'btn_listen_continue';
+            lang_display();
+
+            $('btn_listen_continue').onclick = function () {
+                $('eng_txt').innerText = carditem.eng_txt;
+                $('kor_txt').innerText = carditem.kor_txt;
+
+                if (correct_answer) {
+                    click_continue();
+                }
+                else {
+                    play_sound_url(carditem.mp3_url);
+                }
+            }
+            // display_msg("btn_continue", "value", "btn_listen_continue");
             correct_answer = true;
         }
 
@@ -126,18 +140,11 @@ window.onload = function () {
         play_sound_url(carditem.mp3_url);
     }
 
-    display_msg("btn_continue", "value", "btn_listen");
-    $('btn_continue').onclick = function () {
-        $('eng_txt').innerText = carditem.eng_txt;
-        $('kor_txt').innerText = carditem.kor_txt;
-
-        if (correct_answer) {
-            click_continue();
-        }
-        else {
-            play_sound_url(carditem.mp3_url);
-        }
+    // display_msg("btn_continue", "value", "btn_listen");
+    $('btn_listen').onclick = function () {
+        play_sound_url(carditem.mp3_url);
     }
+
 
     // $('esp_txt').innerText = carditem.esp_txt;
     $('eng_txt').innerText = carditem.eng_txt;

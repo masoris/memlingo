@@ -1,0 +1,62 @@
+2024-05-14 16:03:59	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-05-14 16:03:59	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-14 16:04:00	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-14 16:04:01	/api/session-start.api	a@a.com	ko-kr	A
+2024-05-14 16:04:01	/api/card-next.api	a@a.com	A	ko-kr	mi, vi	9	./quizB.html	female1
+2024-05-14 16:04:01	/api/similar-words.api	a@a.com	A	ko-kr	mi, vi
+2024-05-14 16:14:15	/api/similar-words-jk.api	a@a.com	A	ko-kr	,	
+2024-05-14 16:15:20	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2024-05-14 16:17:41	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2024-05-14 16:21:26	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2024-05-14 16:21:45	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2024-05-14 16:24:15	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:29:17	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2024-05-14 16:29:43	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:30:17	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2024-05-14 16:30:20	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-05-14 16:30:21	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-05-14 16:30:21	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-05-14 16:30:23	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-05-14 16:30:29	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-05-14 16:30:39	/api/playsound.api	a@a.com	male1/mi, vi.mp3
+2024-05-14 16:30:51	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:40:39	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:40:41	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-05-14 16:40:43	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:40:44	/api/playsound.api	a@a.com	female1/mi, vi.mp3
+2024-05-14 16:40:46	/api/playsound.api	a@a.com	ludoviko/mi, vi.mp3
+2024-05-14 16:40:50	/api/card-next.api	a@a.com	A	ko-kr	estas, estis	9	./quizI.html	female2
+2024-05-14 16:40:50	/api/playsound.api	a@a.com	male2/mi, vi.mp3
+2024-05-14 16:40:52	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 16:40:56	/api/playsound.api	a@a.com	ludoviko/estas, estis.mp3
+2024-05-14 16:40:58	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	9	./quizD.html	male1
+2024-05-14 16:40:58	/api/playsound.api	a@a.com	ludoviko/estas, estis.mp3
+2024-05-14 16:41:00	/api/similar-words-kor.api	a@a.com	A	ko-kr	나는 ~ 이다
+2024-05-14 16:46:11	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:46:32	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:47:25	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:48:07	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:49:20	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:51:15	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:52:14	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 16:59:59	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:00:05	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 17:00:07	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 17:00:10	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:00:15	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:00:18	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:00:21	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:03:49	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 17:03:52	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 17:03:54	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:03:55	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:03:58	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:06:48	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 17:08:08	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 17:15:06	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 17:16:37	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-14 17:16:52	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:17:15	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:18:12	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:18:27	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-14 17:18:34	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	

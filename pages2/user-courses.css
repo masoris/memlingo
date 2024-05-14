@@ -21,7 +21,8 @@ body {
     left: 4%;
     position: relative;
     /* font-weight: bold; */
-    font-size: 18pt;
+    font-size: 16pt;
+    width: 96%;
 }
 
 [dir="rtl"] .Rectangle-lang {
