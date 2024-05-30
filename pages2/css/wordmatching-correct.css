@@ -1,0 +1,237 @@
+/* screen - wordmatching-correct */
+
+.wordmatching-correct {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.wordmatching-correct .padding-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .title-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .progress-frame {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 12px;
+  width: 100%;
+}
+
+.wordmatching-correct .close {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.wordmatching-correct .progress-bar {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  border-radius: 999px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  overflow: hidden;
+}
+
+.wordmatching-correct .progress {
+  background-color: #57cc02;
+  border-radius: 999px;
+  height: 24px;
+  position: relative;
+  width: 50px;
+}
+
+.wordmatching-correct .text-1 {
+  align-self: stretch;
+  color: var(--gravel);
+}
+
+.wordmatching-correct .grid {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .grid-item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .word-block {
+  align-items: center;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--mercury);
+  border-radius: 12px;
+  box-shadow: 0px 3px 0px #e5e5e5;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  height: 100px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.wordmatching-correct .ago {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.wordmatching-correct .word-block-1 {
+  align-items: center;
+  background-color: #d6ffb8;
+  border: 2px solid;
+  border-color: #a5ed6d;
+  border-radius: 12px;
+  box-shadow: 0px 3px 0px #a5ed6d;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  height: 100px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.wordmatching-correct .io-kion-oni-faras {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.wordmatching-correct .malhezitema {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.wordmatching-correct .riltata-al-la-lando-danujo {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.wordmatching-correct .benzino {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.wordmatching-correct .heitajo-por-irigi-automobilion {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.wordmatching-correct .button-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .button {
+  align-items: center;
+  align-self: stretch;
+  background-color: #57cc02;
+  border-radius: 12px;
+  box-shadow: 0px 3px 0px #3f9700;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .text-2 {
+  color: var(--white);
+  margin-top: -1.00px;
+  text-align: center;
+  width: fit-content;
+}
+
+.wordmatching-correct .safe-area {
+  height: 34px;
+  position: relative;
+  width: 375px;
+}
+
+.wordmatching-correct .ago-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.wordmatching-correct .progress-1 {
+  display: flex;
+  position: relative;
+}
+
+.wordmatching-correct .text {
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}

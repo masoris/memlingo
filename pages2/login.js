@@ -34,7 +34,7 @@ function onlogin_click() {
             localStorage.setItem('login_status', 'success');
             // localStorage.setItem('user_courses', JSON.stringify(responseObj['user_courses']));
             // alert(getCookie('login_status'));
-            window.location.href = "./user-courses.html";
+            window.location.href = "./home.html";
         } else {
             alert('Error' + responseJSONStr);
         }

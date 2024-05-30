@@ -1,0 +1,63 @@
+2024-05-30 15:49:52	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-05-30 15:49:52	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 15:49:53	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 15:49:54	/api/session-start.api	a@a.com	ko-kr	A
+2024-05-30 15:49:54	/api/card-next.api	a@a.com	A	ko-kr	mi estas ~	9	./quizB.html	male1
+2024-05-30 15:49:54	/api/similar-words.api	a@a.com	A	ko-kr	mi estas ~
+2024-05-30 15:50:01	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-30 15:56:40	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-30 16:03:39	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-30 16:17:00	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-30 16:17:49	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-30 16:17:54	/api/playsound.api	a@a.com	male1/mi estas ~.mp3
+2024-05-30 16:18:02	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-30 16:18:59	/api/similar-words-jk.api	a@a.com	A	ko-kr	estas	
+2024-05-30 16:20:24	/api/similar-words-jk.api	a@a.com	A	ko-kr	mi	
+2024-05-30 16:20:26	/api/playsound.api	a@a.com	female2/mi estas ~.mp3
+2024-05-30 16:20:31	/api/card-next.api	a@a.com	A	ko-kr	vi estas ~	9	./quizH.html	female1
+2024-05-30 16:20:31	/api/playsound.api	a@a.com	ludoviko/mi estas ~.mp3
+2024-05-30 16:20:33	/api/similar-words.api	a@a.com	A	ko-kr	vi estas ~
+2024-05-30 16:21:56	/api/similar-words-jk.api	a@a.com	A	ko-kr	vi	
+2024-05-30 16:22:05	/api/playsound.api	a@a.com	female2/vi estas ~.mp3
+2024-05-30 16:22:08	/api/card-next.api	a@a.com	A	ko-kr	saluton	9	./quizH.html	male1
+2024-05-30 16:22:08	/api/playsound.api	a@a.com	ludoviko/vi estas ~.mp3
+2024-05-30 16:22:09	/api/similar-words.api	a@a.com	A	ko-kr	saluton
+2024-05-30 16:22:13	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:22:22	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:22:23	/api/session-start.api	a@a.com	ko-kr	B
+2024-05-30 16:22:23	/api/card-next.api	a@a.com	B	ko-kr	saluton!	8	./quizG.html	male2
+2024-05-30 16:22:23	/api/similar-words.api	a@a.com	B	ko-kr	saluton!
+2024-05-30 16:22:26	/api/put-score.api	a@a.com	B	ko-kr	saluton!	1
+2024-05-30 16:22:26	/api/playsound.api	a@a.com	male1/saluton!.mp3
+2024-05-30 16:22:27	/api/card-next.api	a@a.com	B	ko-kr	mi estas ~	8	./quizC.html	female1
+2024-05-30 16:22:27	/api/playsound.api	a@a.com	ludoviko/saluton!.mp3
+2024-05-30 16:22:28	/api/similar-words-kor.api	a@a.com	B	ko-kr	나는 ~ 입니다
+2024-05-30 16:22:34	/api/similar-words-jk.api	a@a.com	B	ko-kr	estas	
+2024-05-30 16:22:38	/api/playsound.api	a@a.com	male1/mi estas ~.mp3
+2024-05-30 16:22:39	/api/card-next.api	a@a.com	B	ko-kr	kiu vi estas?	8	./quizK.html	male1
+2024-05-30 16:22:39	/api/playsound.api	a@a.com	male2/mi estas ~.mp3
+2024-05-30 16:22:41	/api/similar-words-jk.api	a@a.com	B	ko-kr	kiu	estas
+2024-05-30 16:22:50	/api/playsound.api	a@a.com	female2/kiu vi estas?.mp3
+2024-05-30 16:22:52	/api/card-next.api	a@a.com	B	ko-kr	mia nomo estas ~	8	./quizD.html	male2
+2024-05-30 16:22:52	/api/playsound.api	a@a.com	female1/kiu vi estas?.mp3
+2024-05-30 16:22:54	/api/similar-words-kor.api	a@a.com	B	ko-kr	내 이름은 ~입니다
+2024-05-30 16:26:17	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-05-30 16:26:17	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:42:33	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:43:18	/api/login.api	a@a.com	a@a.com	ko-kr
+2024-05-30 16:54:50	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:55:28	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:55:32	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:55:54	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:56:03	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:56:25	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:57:35	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 16:59:18	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 17:00:08	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 17:00:23	/api/get_course_info.api	a@a.com	ar
+2024-05-30 17:00:39	/api/get_course_info.api	a@a.com	ar
+2024-05-30 17:00:42	/api/get_course_info.api	a@a.com	ar
+2024-05-30 17:00:45	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 17:01:58	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 17:02:03	/api/get_course_info.api	a@a.com	ko-kr
+2024-05-30 17:02:20	/api/get_course_info.api	a@a.com	ko-kr

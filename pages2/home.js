@@ -127,25 +127,27 @@ window.onload = function () {
         return;
     }
 
-    $('Btn_logout').onclick = onlogout_click;
-
-    $('Btn_Go_Home').onclick = function () {
-        window.location.href = "./home.html";
-    }
-
-    const radioButtons = document.querySelectorAll('input[type="radio"]');
-    radioButtons.forEach(radioButton => {
-        $(radioButton.id).onclick = lang_changed;
+    $('Start_learn').addEventListener("click", function () {
+        alert("학습을 시작합니다!");
+        window.location.href = "./user-courses.html";
     });
 
-    if (localStorage.getItem('lang') != null) {
-        var lang = localStorage.getItem('lang');
-        $("radio-" + lang).checked = true;
+    // $('Btn_logout').onclick = onlogout_click;
 
-    } else {
-        $("radio-ko-kr").checked = true;
-    }
 
-    lang_changed();
+    // const radioButtons = document.querySelectorAll('input[type="radio"]');
+    // radioButtons.forEach(radioButton => {
+    //     $(radioButton.id).onclick = lang_changed;
+    // });
+
+    // if (localStorage.getItem('lang') != null) {
+    //     var lang = localStorage.getItem('lang');
+    //     $("radio-" + lang).checked = true;
+
+    // } else {
+    //     $("radio-ko-kr").checked = true;
+    // }
+
+    // lang_changed();
 };
 
