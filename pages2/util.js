@@ -336,6 +336,7 @@ function display_message() {
     display_msg("pointsK", "innerText", "pointsA");
     display_msg("progress_msg", "innerText", "progress_msg");
     display_msg("wrong_progress_input", "innerText", "wrong_progress_input");
+    display_msg("Span_start_learn", "innerText", "Span_start_learn");
 
 
     // if ($('lang').value == 'ko-kr') {

@@ -308,8 +308,7 @@ def login():
             email1 = request.form['email1']
             email2 = request.form['email2']
             lang = request.form['lang']
-    LOG("/api/login.api\t%s\t%s\t%s" % (email1, email2, lang))
-
+    
     #이메일 검증과 lang 검증을 하고,
     if email1 != email2 or not is_valid_email(email1):
         result = {'resp': 'Fail', 'message': 'email is invalid or email1 is not same to email2'}
@@ -317,6 +316,8 @@ def login():
         resp.set_cookie('login_status', 'fail')
         return resp
     
+    LOG("/api/login.api\t%s\t%s\t%s" % (email1, email2, lang))
+
     # lang 검증 ./courses 폴더 밑에 lang 이라는 폴더가 있어야함
     if not os.path.exists("./courses"):
         result = {'resp': 'Fail', "message": "folder not found :"+"./courses"}

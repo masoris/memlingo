@@ -1,0 +1,154 @@
+/* screen - wordmatching-correct */
+
+.wordmatching-correct {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.wordmatching-correct .padding-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .title-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .progress-frame {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 12px;
+  width: 100%;
+}
+
+.wordmatching-correct .progress-bar {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  border-radius: 999px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  overflow: hidden;
+}
+
+.wordmatching-correct .text-72 {
+  align-self: stretch;
+}
+
+.wordmatching-correct .grid {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .grid-item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .word-block-1 {
+  align-items: center;
+  background-color: var(--gossip);
+  border: 2px solid;
+  border-color: #409800;
+  border-radius: 12px;
+  box-shadow: 0px 3px 0px #3f9700;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  height: 100px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.wordmatching-correct .io-kion-oni-faras {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.wordmatching-correct .button-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .button {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--alien-armpit);
+  border-radius: 12px;
+  box-shadow: 0px 3px 0px #3f9700;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.wordmatching-correct .text-73 {
+  margin-top: -1.00px;
+  text-align: center;
+  width: fit-content;
+}
+
+.wordmatching-correct .safe-area {
+  height: 34px;
+  position: relative;
+  width: 375px;
+}
+
+.wordmatching-correct .progress-1 {
+  display: flex;
+  position: relative;
+}
+
+.wordmatching-correct .text {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}

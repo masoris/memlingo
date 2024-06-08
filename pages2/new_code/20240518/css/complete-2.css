@@ -1,0 +1,160 @@
+/* screen - complete-2 */
+
+.complete-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.complete-2 .padding-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.complete-2 .title-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.complete-2 .progress-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.complete-2 .chevron-left-1 {
+  margin-left: -2166.00px;
+}
+
+.complete-2 .text-11 {
+  align-self: stretch;
+  flex: 1;
+  margin-top: -1.00px;
+}
+
+.complete-2 .chevron-left-2 {
+  margin-left: -1855.00px;
+}
+
+.complete-2 .lion {
+  height: 80px;
+  object-fit: cover;
+  position: relative;
+  width: 80px;
+}
+
+.complete-2 .grid {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.complete-2 .grid-item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.complete-2 .list-item {
+  align-items: center;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--mercury);
+  border-radius: 12px;
+  box-shadow: 0px 3px 0px #e5e5e5;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 12px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.complete-2 .text-1 {
+  align-self: stretch;
+}
+
+.complete-2 .button-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.complete-2 .button {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--alien-armpit);
+  border-radius: 12px;
+  box-shadow: 0px 3px 0px #3f9700;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.complete-2 .text-20 {
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.complete-2 .safe-area {
+  height: 34px;
+  position: relative;
+  width: 375px;
+}
+
+.complete-2 .chevron-left {
+  height: 32px;
+  margin-top: -2876.00px;
+  position: relative;
+  width: 32px;
+}
+
+.complete-2 .text {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}

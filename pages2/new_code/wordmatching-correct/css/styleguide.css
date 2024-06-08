@@ -1,0 +1,18 @@
+:root { 
+  --black: #000000;
+  --gravel: #4b4b4b;
+  --mercury: #e5e5e5;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+ 
+  --font-family-noto_sans: "Noto Sans", Helvetica;
+}
+.notosans-semi-bold-gravel-18px {
+  color: var(--gravel);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}

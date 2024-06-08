@@ -1,0 +1,201 @@
+/* screen - lettermatching */
+
+.lettermatching {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.lettermatching .padding-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.lettermatching .title-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.lettermatching .progress-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.lettermatching .progress-bar {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  border-radius: 999px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.lettermatching .question {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.lettermatching .text-76 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.lettermatching .text-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.lettermatching .io-kion-oni-faras {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.lettermatching .button-frame {
+  margin-bottom: -3.00px;
+}
+
+.lettermatching .letter-block {
+  align-items: center;
+  background-color: var(--mercury);
+  border-radius: 999px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 40px;
+  justify-content: center;
+  min-width: 40px;
+  padding: 8px 12px;
+  position: relative;
+}
+
+.lettermatching .a {
+  margin-top: -1.50px;
+  opacity: 0;
+}
+
+.lettermatching .list {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 8px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.lettermatching .letter-block-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--mercury);
+  border-radius: 999px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 40px;
+  justify-content: center;
+  min-width: 40px;
+  padding: 8px 12px;
+  position: relative;
+}
+
+.lettermatching .a-3 {
+  margin-top: -2.50px;
+}
+
+.lettermatching .a-12 {
+  margin-top: -2.50px;
+}
+
+.lettermatching .a-13 {
+  margin-top: -2.50px;
+}
+
+.lettermatching .button-frame-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.lettermatching .button {
+  align-items: center;
+  background-color: var(--mercury);
+  border-radius: 12px;
+  box-shadow: 0px 3px 0px #b7b7b7;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px;
+}
+
+.lettermatching .text-77 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.lettermatching .safe-area {
+  height: 34px;
+  position: relative;
+  width: 375px;
+}
+
+.lettermatching .button-1 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}

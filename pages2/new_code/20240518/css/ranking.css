@@ -1,0 +1,309 @@
+/* screen - ranking */
+
+.ranking {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.ranking .padding-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.ranking .title-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px 0px;
+  width: 100%;
+}
+
+.ranking .progress-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.ranking .text-41 {
+  align-self: stretch;
+  flex: 1;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.ranking .chevron-left-2 {
+  margin-left: -1855.00px;
+  margin-top: -1964.00px;
+}
+
+.ranking .rank-list {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 24px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ranking .list-item {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--mercury);
+  border-radius: 20px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+  padding: 12px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.ranking .title {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 12px;
+  padding: 8px 0px;
+}
+
+.ranking .image-1652 {
+  height: 24px;
+  object-fit: cover;
+  position: relative;
+  width: 24px;
+}
+
+.ranking .text-4 {
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.ranking .rectangle-4242 {
+  align-self: stretch;
+  background-color: var(--mercury);
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.ranking .weekly-rank {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.ranking .user-list {
+  align-items: flex-start;
+  flex-direction: column;
+  width: 160px;
+}
+
+.ranking .user {
+  align-items: center;
+  height: 20px;
+  width: 148px;
+}
+
+.ranking .lion {
+  margin-left: -2182.00px;
+  margin-top: -2100.00px;
+}
+
+.ranking .ananso {
+  margin-top: -0.50px;
+  opacity: 0;
+}
+
+.ranking .user-1 {
+  align-items: center;
+  flex: 0 0 auto;
+  width: 148px;
+}
+
+.ranking .bee {
+  height: 40px;
+}
+
+.ranking .fantomo {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.ranking .weekly-rank-item {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.ranking .user-2 {
+  align-items: center;
+  height: 20px;
+  justify-content: center;
+  width: 75px;
+}
+
+.ranking .text {
+  flex: 1;
+  text-align: center;
+}
+
+.ranking .user-3 {
+  align-items: center;
+  height: 40px;
+  justify-content: center;
+  width: 75px;
+}
+
+.ranking .lion-2 {
+  margin-left: -2182.00px;
+  margin-top: -2338.00px;
+}
+
+.ranking .bee-1 {
+  height: 40px;
+}
+
+.ranking .bee-2 {
+  height: 40px;
+}
+
+.ranking .bee-3 {
+  height: 40px;
+}
+
+.ranking .bee-4 {
+  height: 40px;
+}
+
+.ranking .bee-5 {
+  height: 40px;
+}
+
+.ranking .bee-6 {
+  height: 2px;
+}
+
+.ranking .weekly-rank-item-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.ranking .user-4 {
+  align-items: center;
+  height: 20px;
+  width: 75px;
+}
+
+.ranking .user-5 {
+  align-items: center;
+  height: 40px;
+  width: 75px;
+}
+
+.ranking .safe-area {
+  height: 34px;
+  position: relative;
+  width: 375px;
+}
+
+.ranking .ananso-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.ranking .bee-7 {
+  object-fit: cover;
+  position: relative;
+  width: 40px;
+}
+
+.ranking .chevron-left {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.ranking .lion-5 {
+  height: 40px;
+  object-fit: cover;
+  position: relative;
+  width: 40px;
+}
+
+.ranking .maryam-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.ranking .name-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.ranking .text-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.ranking .tho-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.ranking .title-1 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.ranking .user-6 {
+  display: flex;
+  gap: 12px;
+  position: relative;
+}

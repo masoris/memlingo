@@ -1,0 +1,37 @@
+:root { 
+  --black: #000000;
+  --gravel: #4b4b4b;
+  --mercury: #e5e5e5;
+  --silver-chalice: #afafaf;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-xl: 20px;
+ 
+  --font-family-noto_sans: "Noto Sans", Helvetica;
+  --font-family-noto_sans-regular: "Noto Sans-Regular", Helvetica;
+}
+.notosans-regular-normal-gravel-14px {
+  color: var(--gravel);
+  font-family: var(--font-family-noto_sans-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notosans-bold-gravel-18px {
+  color: var(--gravel);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosans-semi-bold-silver-chalice-14px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}

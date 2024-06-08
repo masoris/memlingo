@@ -25,16 +25,6 @@ function onlogout_click() {
     });
 }
 
-// function saluton_click() {
-//   const audio = new Audio('./saluton.wav');
-//   audio.play();
-//   // 버튼을 diable 시킨다 
-//   $('btn_saluton').disabled = true;
-//   audio.addEventListener('ended', function () {
-//     // 버튼을 enable 시킨다 
-//     $('btn_saluton').disabled = false;
-//   });
-// }
 
 function update_course_info() {
     // alert("update_course_info");
@@ -88,7 +78,7 @@ function lang_changed() {
     var selected_lang = document.querySelector('input[name="lang"]:checked').value;
     const rtl_langs = ["fa", "ur", "he", "ar"];
     localStorage.lang = selected_lang;
-    get_course_info(update_course_info);
+    // get_course_info(update_course_info);
     if (rtl_langs.includes(selected_lang)) {
         $("html").dir = "rtl";
     }
@@ -99,27 +89,7 @@ function lang_changed() {
     display_message();
 }
 
-function Zagreba_click() {
-    lang = localStorage.lang;
-    if (lang == "zh-cn") { lang = "zh" }
-    else if (lang == "en-us") { lang = "en" }
-    else if (lang == "ko-kr") { lang = "ko" }
-    else if (lang == "ja-jp") { lang = "ja" }
-    else if (lang == "vi-vn") { lang = "vi" }
 
-    // window.location.href = "https://esperanto12.net/" + lang;
-    window.open("https://esperanto12.net/" + lang);
-}
-
-function HD1_click() {
-    window.open("https://youtube.com/playlist?list=PLHxhJDSF8_VbYSttcG3Gc2DKpvighf3E6&si=Oyc1YBE6JDCRXg24")
-}
-function HD2_click() {
-    window.open("https://youtube.com/playlist?list=PLHxhJDSF8_VYwavvr90tekr7z5EJAoP05&si=Y1cedHmtLNJsiQL6")
-}
-function HD3_click() {
-    window.open("https://youtube.com/playlist?list=PLHxhJDSF8_Vas3E6Uflrlh2xZX5g2vEm0&si=tzpAREWDW_CvBa5D")
-}
 
 window.onload = function () {
     if (localStorage.getItem('login_status') != 'success') {
@@ -128,26 +98,9 @@ window.onload = function () {
     }
 
     $('Start_learn').addEventListener("click", function () {
-        alert("학습을 시작합니다!");
         window.location.href = "./user-courses.html";
     });
 
-    // $('Btn_logout').onclick = onlogout_click;
-
-
-    // const radioButtons = document.querySelectorAll('input[type="radio"]');
-    // radioButtons.forEach(radioButton => {
-    //     $(radioButton.id).onclick = lang_changed;
-    // });
-
-    // if (localStorage.getItem('lang') != null) {
-    //     var lang = localStorage.getItem('lang');
-    //     $("radio-" + lang).checked = true;
-
-    // } else {
-    //     $("radio-ko-kr").checked = true;
-    // }
-
-    // lang_changed();
+    lang_changed();
 };
 
