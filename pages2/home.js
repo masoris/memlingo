@@ -97,9 +97,29 @@ window.onload = function () {
         return;
     }
 
+    $('user_id').innerHTML = localStorage.getItem('user');
+    var c = localStorage.getItem('user').charCodeAt(0) % 5;
+    var formattedString = c.toString().padStart(2, '0');
+    var character_png = "img/character-" + formattedString + ".png";
+    $('character').src = character_png;
+
     $('Start_learn').addEventListener("click", function () {
         window.location.href = "./user-courses.html";
     });
+
+    const radioButtons = document.querySelectorAll('input[type="radio"]');
+    radioButtons.forEach(radioButton => {
+        $(radioButton.id).onclick = lang_changed;
+    });
+
+    if (localStorage.getItem('lang') != null) {
+        var lang = localStorage.getItem('lang');
+        $("radio-" + lang).checked = true;
+    } else {
+        $("radio-ko-kr").checked = true;
+    }
+
+
 
     lang_changed();
 };
