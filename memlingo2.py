@@ -1187,6 +1187,73 @@ def del_voice():
     resp = make_response(jsonify(result))
     return resp
 
+
+@app.route('/api/check_visited.api', methods=['POST'])
+def check_visited():
+    email = request.json['email']
+
+    result = {"lun":"false", "mar":"false", "mer":"false", "jxaux":"false", "ven":"false", "sab":"false", "dim":"false"}
+    # 2024-06-17 16:52:47	/api/login.api	aaaaaaaaaaaaaaaaa@a.com	aaaaaaaaaaaaaaaaa@a.com	ko-kr
+    dates = {}
+
+    for i in range(7):
+        dates[i] = False
+        date = time.strftime("%Y-%m-%d", time.localtime(time.time() - i*3600*24))
+        logfile = "./logs/" + date + ".log"
+        if os.path.exists(logfile):
+            fp = open(logfile, "r")
+            for line in fp:
+                if line.find("/api/login.api") >= 0:
+                    if line.find(email) >= 0:
+                        dates[i] = True
+                        break
+            fp.close()
+
+
+    # 현재 날짜와 시간 가져오기
+    now = datetime.datetime.now()
+    # 요일 추출
+    weekday = now.strftime("%A")
+
+    if weekday == "Monday":
+        if dates[0] == True: result['lun'] = 'true'
+    elif weekday == "Tuesday":
+        if dates[0] == True: result['mar'] = 'true'
+        if dates[1] == True: result['lun'] = 'true'
+    elif weekday == "Wednesday":
+        if dates[0] == True: result['mer'] = 'true'
+        if dates[1] == True: result['mar'] = 'true'
+        if dates[2] == True: result['lun'] = 'true'
+    elif weekday == "Thursday":
+        if dates[0] == True: result['jxaux'] = 'true'
+        if dates[1] == True: result['mer'] = 'true'
+        if dates[2] == True: result['mar'] = 'true'
+        if dates[3] == True: result['lun'] = 'true' 
+    elif weekday == "Friday":
+        if dates[0] == True: result['ven'] = 'true'
+        if dates[1] == True: result['jxaux'] = 'true'
+        if dates[2] == True: result['mer'] = 'true'
+        if dates[3] == True: result['mar'] = 'true' 
+        if dates[4] == True: result['lun'] = 'true' 
+    elif weekday == "Saturday":
+        if dates[0] == True: result['sab'] = 'true'
+        if dates[1] == True: result['ven'] = 'true'
+        if dates[2] == True: result['jxaux'] = 'true'
+        if dates[3] == True: result['mer'] = 'true' 
+        if dates[4] == True: result['mar'] = 'true'
+        if dates[5] == True: result['lun'] = 'true' 
+    else:
+        if dates[0] == True: result['dim'] = 'true'
+        if dates[1] == True: result['sab'] = 'true'
+        if dates[2] == True: result['ven'] = 'true'
+        if dates[3] == True: result['jxaux'] = 'true' 
+        if dates[4] == True: result['mer'] = 'true'
+        if dates[5] == True: result['mar'] = 'true' 
+        if dates[6] == True: result['lun'] = 'true'          
+
+    resp = make_response(jsonify(result))
+    return resp
+
 def read_conf():
     svc = {}
     fp = open("svc2.conf", "r")

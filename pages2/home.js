@@ -89,6 +89,39 @@ function lang_changed() {
     display_message();
 }
 
+function set_visited() {
+    var email = localStorage.getItem("email");
+    var jsonStr = JSON.stringify({ email: email });
+    postAjaxRequest('/api/check_visited.api', jsonStr, function (response) {
+        responseObj = JSON.parse(response);
+        if (responseObj["lun"] == "true") {
+            $("lun").className = "the-day";
+        }
+        if (responseObj["mar"] == "true") {
+            $("mar").className = "the-day";
+        }
+        if (responseObj["mer"] == "true") {
+            $("mer").className = "the-day";
+        }
+        if (responseObj["jxaux"] == "true") {
+            $("jxaux").className = "the-day";
+        }
+        if (responseObj["ven"] == "true") {
+            $("ven").className = "the-day";
+        }
+        if (responseObj["sab"] == "true") {
+            $("sab").className = "the-day";
+        }
+        if (responseObj["dim"] == "true") {
+            $("dim").className = "the-day";
+        }
+
+        console.log(response);
+    }, function (status) {
+
+        console.error('Error:', status);
+    });
+}
 
 
 window.onload = function () {
@@ -119,7 +152,8 @@ window.onload = function () {
         $("radio-ko-kr").checked = true;
     }
 
-
+    // $("lun").className = "the-day";
+    set_visited();
 
     lang_changed();
 };
