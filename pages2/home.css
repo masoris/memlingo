@@ -363,7 +363,7 @@
     height: 40px;
     object-fit: cover;
     position: relative;
-    width: 40px;
+    /* width: 40px; */
 }
 
 .home .menu-1 {

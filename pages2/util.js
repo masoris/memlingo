@@ -337,6 +337,11 @@ function display_message() {
     display_msg("progress_msg", "innerText", "progress_msg");
     display_msg("wrong_progress_input", "innerText", "wrong_progress_input");
     display_msg("Span_start_learn", "innerText", "Span_start_learn");
+    display_msg("total_experience_points", "innerText", "total_experience_points");
+    display_msg("total_duration", "innerText", "total_duration");
+    display_msg("bookmark", "innerText", "bookmark");
+    display_msg("dictionary", "innerText", "dictionary");
+    display_msg("community", "innerText", "community");
 
 
     // if ($('lang').value == 'ko-kr') {

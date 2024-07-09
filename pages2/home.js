@@ -86,6 +86,7 @@ function lang_changed() {
         $("html").dir = "ltr";
     }
     console.log("lang_changed");
+    load_user_info();
     display_message();
 }
 
@@ -123,12 +124,45 @@ function set_visited() {
     });
 }
 
+function load_user_info() {
+    var email = localStorage.getItem("email");
+    var jsonStr = JSON.stringify({ email: email });
+    postAjaxRequest('/api/load_user_info.api', jsonStr, function (response) {
+        responseObj = JSON.parse(response);
+        for (key in responseObj) {
+            localStorage.setItem(key, responseObj[key]);
+        }
+        $("experience_points").innerText = localStorage.getItem("experience_points");
+        seconds = parseInt(localStorage.getItem("duration")) % 60;
+        minutes = (parseInt(localStorage.getItem("duration")) - seconds) / 60;
+        hours = (parseInt(localStorage.getItem("duration")) - (minutes * 60) - seconds) / 60;
+        days = 0
+        if (hours >= 24) {
+            hours1 = hours % 24;
+            days = (hours - hours1) / 24;
+            hours = hours1;
+        }
+        $("duration").innerText = String(hours).padStart(2, '0') + ":" + String(minutes).padStart(2, '0') + ":" + String(seconds).padStart(2, '0');
+        if (days > 0) {
+            $("duration").innerText = days + "D " + String(hours).padStart(2, '0') + ":" + String(minutes).padStart(2, '0') + ":" + String(seconds).padStart(2, '0');
+        }
+
+        $("img_flag").src = "img-flags/" + localStorage.getItem("lang") + ".png";
+
+        console.log(response);
+    }, function (status) {
+
+        console.error('Error:', status);
+    });
+}
 
 window.onload = function () {
     if (localStorage.getItem('login_status') != 'success') {
         window.location.href = "./login.html";
         return;
     }
+
+    // load_user_info();
 
     $('user_id').innerHTML = localStorage.getItem('user');
     var c = localStorage.getItem('user').charCodeAt(0) % 5;
@@ -139,6 +173,8 @@ window.onload = function () {
     $('Start_learn').addEventListener("click", function () {
         window.location.href = "./user-courses.html";
     });
+
+
 
     const radioButtons = document.querySelectorAll('input[type="radio"]');
     radioButtons.forEach(radioButton => {

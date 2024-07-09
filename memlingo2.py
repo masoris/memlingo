@@ -119,6 +119,17 @@ def update_last_login(email):
     with open(user_info_file, "w", encoding='utf-8') as f:
         json.dump(user_info, f)
 
+def get_user_info(email):
+    user_dir = os.path.join("./users", email[0], email)
+    if not os.path.exists(user_dir):
+        os.makedirs(user_dir)
+
+    user_info_file = os.path.join(user_dir, "userinfo.json")
+    with open(user_info_file, "r", encoding='utf-8') as f:
+        return json.load(f)
+    
+    return None
+
 def create_user(email, lang):
     # 개인 홈 디렉토리 생성
     user_dir = os.path.join("./users", email[0], email)
@@ -1187,6 +1198,15 @@ def del_voice():
     resp = make_response(jsonify(result))
     return resp
 
+
+@app.route('/api/load_user_info.api', methods=['POST'])
+def load_user_info():
+    email = request.json['email']
+
+    user_info = get_user_info(email)           
+
+    resp = make_response(jsonify(user_info))
+    return resp
 
 @app.route('/api/check_visited.api', methods=['POST'])
 def check_visited():
