@@ -8,7 +8,7 @@ function onlogout_click() {
     }
 
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course });
-    postAjaxRequest('/api/logout.api', jsonStr, function (response) {
+    postAjaxRequest('/api2/logout.api', jsonStr, function (response) {
         //여기서 암묵적으로 쿠키가 들어옴 
         if (getCookie('login_status') != 'success') {
             //alert('Logout action is sucessfuly done');

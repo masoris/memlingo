@@ -7,7 +7,7 @@ rsync --delete -avz -e 'ssh -p 22' ./courses/ memlingo@141.164.48.63:~/svc/memli
 rsync --delete -avz -e 'ssh -p 22' ./sounds/ memlingo@141.164.48.63:~/svc/memlingo/sounds/
 rsync --delete -avz -e 'ssh -p 22' ./*.py memlingo@141.164.48.63:~/svc/memlingo/
 rsync --delete -avz -e 'ssh -p 22' ./*.ico memlingo@141.164.48.63:~/svc/memlingo/
-rsync --delete -avz -e 'ssh -p 22' ./*.json memlingo@141.164.48.63:~/svc/memlingo/
+# rsync --delete -avz -e 'ssh -p 22' ./*.json memlingo@141.164.48.63:~/svc/memlingo/
 rsync --delete -avz -e 'ssh -p 22' ./*.txt memlingo@141.164.48.63:~/svc/memlingo/
 rsync --delete -avz -e 'ssh -p 22' ~/tts/*_course.js memlingo@141.164.48.63:~/svc/tts/
 #scp -r ./pages/* memlingo@141.164.48.63:~/svc/memlingo/pages/

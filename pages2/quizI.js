@@ -49,7 +49,7 @@ function get_similar_words_jk(j_word, k_word) {
     var course = localStorage.session_course;
 
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, j_word: j_word, k_word: k_word });
-    postAjaxRequest('/api/similar-words-jk.api', jsonStr, function (responseJSONStr) {
+    postAjaxRequest('/api2/similar-words-jk.api', jsonStr, function (responseJSONStr) {
         console.log(responseJSONStr);
         responseObj = JSON.parse(responseJSONStr);
         // 서버에서 받아온 랜덤 워드를 랜덤한 유사 워드들을 화면에 출력한다. 
@@ -93,14 +93,14 @@ function click_continue() {
     }
 
 
-    // /api/card-next.api
+    // /api2/card-next.api
     //         userid, email, cookie:login_status, lang, course
     //         output: 
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
     //                level,esp_txt,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_txt.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: "0", index: quiz_count });
-    postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
+    postAjaxRequest('/api2/card-next.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
         // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 

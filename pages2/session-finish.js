@@ -15,7 +15,7 @@ function call_session_finish_api() {
     var duration = timestamp - localStorage["session-start-time"];
 
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, duration: duration });
-    postAjaxRequest('/api/session-finish.api', jsonStr, function (responseJSONStr) {
+    postAjaxRequest('/api2/session-finish.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
 

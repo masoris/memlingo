@@ -37,6 +37,8 @@ def serve_sounds(path):
     return send_from_directory('sounds', path)
 
 def is_valid_email(email):
+    if len(email) > 50:
+        return False
     # 이메일 주소에 대한 정규 표현식(Regular Expression)
     pattern = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
     return re.match(pattern, email) is not None
@@ -191,7 +193,7 @@ def create_user_courses_lang(email, lang):
 def dirs_in(target_dir):
     return [f.name for f in os.scandir(target_dir) if f.is_dir()]
 
-@app.route('/api/get_course_info.api', methods=['POST', 'GET'])
+@app.route('/api2/get_course_info.api', methods=['POST', 'GET'])
 def get_course_info():
     if request.method == 'GET':
         email = request.args['email']
@@ -203,7 +205,7 @@ def get_course_info():
         else: #헤더가 applicaiont/x-www-url-encoded이면: 
             email = request.form['email']
             lang = request.form['lang']
-    LOG("/api/get_course_info.api\t%s\t%s" % (email, lang))
+    LOG("/api2/get_course_info.api\t%s\t%s" % (email, lang))
 
     #마스터 lang/코스 별로 course_info.json를 읽어온다
     course_infos = {}
@@ -292,19 +294,19 @@ def get_course_info():
     resp = make_response(jsonify(result))
     return resp
 
-@app.route('/api/unsubscribe.api', methods=['GET'])
+@app.route('/api2/unsubscribe.api', methods=['GET'])
 def unsubscribe():
     if request.method == 'GET':
         email = request.args['email']
-    LOG("/api/unsubscribe.api\t%s" % (email))
+    LOG("/api2/unsubscribe.api\t%s" % (email))
     unsubscribe_email(email)
     resp = "<br><br><br>Successfully unsubscribed. Thank you.<br><br><br>"
     return resp
 
-#  /api/login.api
+#  /api2/login.api
 #           input: email1, email2, lang
 #output: userid, email, cookie:login_status, lang, courses{제목, 짧은 설명, 긴 설명, Points, Progress, Total_count, Needs_Review, Not_Seen, Familiar, Mastered}
-@app.route('/api/login.api', methods=['POST', 'GET'])
+@app.route('/api2/login.api', methods=['POST', 'GET'])
 def login():
     if request.method == 'GET':
         email1 = request.args['email1']
@@ -327,7 +329,7 @@ def login():
         resp.set_cookie('login_status', 'fail')
         return resp
     
-    LOG("/api/login.api\t%s\t%s\t%s" % (email1, email2, lang))
+    LOG("/api2/login.api\t%s\t%s\t%s" % (email1, email2, lang))
 
     # lang 검증 ./courses 폴더 밑에 lang 이라는 폴더가 있어야함
     if not os.path.exists("./courses"):
@@ -358,7 +360,7 @@ def login():
     return resp
 
 
-@app.route('/api/logout.api', methods=['POST'])
+@app.route('/api2/logout.api', methods=['POST'])
 def logout():
     if request.method == 'GET':
         email = request.args['email']
@@ -373,13 +375,13 @@ def logout():
             email = request.form['email']
             lang = request.form['lang']
             course = request.form['course']
-    LOG("/api/logout.api\t%s\t%s\t%s" % (email, lang, course))
+    LOG("/api2/logout.api\t%s\t%s\t%s" % (email, lang, course))
     result = {'resp': 'OK', 'message': 'Successfully loged out'}
     resp = make_response(jsonify(result))
     resp.set_cookie('login_status', 'loged_out')
     return resp
 
-@app.route('/api/session-finish.api', methods=['POST'])
+@app.route('/api2/session-finish.api', methods=['POST'])
 def session_finish():
     if request.method == 'GET':
         email = request.args['email']
@@ -397,7 +399,7 @@ def session_finish():
             lang = request.form['lang']
             course = request.form['course']
             duration = request.form['duration']
-    LOG("/api/session-finish.api\t%s\t%s\t%s" % (email, lang, course))
+    LOG("/api2/session-finish.api\t%s\t%s\t%s" % (email, lang, course))
     
     duration = int(duration)
     if duration <= 0 or duration > 15*60:
@@ -408,7 +410,7 @@ def session_finish():
     resp = make_response(jsonify(result))
     return resp
 
-@app.route('/api/session-start.api', methods=['POST'])
+@app.route('/api2/session-start.api', methods=['POST'])
 def session_start():
     if request.method == 'GET':
         email = request.args['email']
@@ -423,7 +425,7 @@ def session_start():
             email = request.form['email']
             lang = request.form['lang']
             course = request.form['course']
-    LOG("/api/session-start.api\t%s\t%s\t%s" % (email, lang, course))
+    LOG("/api2/session-start.api\t%s\t%s\t%s" % (email, lang, course))
     result = {'resp': 'OK', 'message': 'Session started'}
     resp = make_response(jsonify(result))
     return resp
@@ -461,7 +463,7 @@ def next_review_time(count, score):
 
     return (count, next_str)
 
-@app.route('/api/playsound.api', methods=['POST', 'GET'])
+@app.route('/api2/playsound.api', methods=['POST', 'GET'])
 def playsound():
     if request.method == 'GET':
         email = request.args['email']
@@ -477,7 +479,7 @@ def playsound():
     filename = "sounds/"+voice_esp_txt_mp3
     print(filename)
     
-    LOG("/api/playsound.api\t%s\t%s" % (email, voice_esp_txt_mp3))
+    LOG("/api2/playsound.api\t%s\t%s" % (email, voice_esp_txt_mp3))
 
     # 해당 음성 파일이 없으면 여러 음성을 대조해서 찾아보고 그래도 없으면 딩동을 내보낸다.
     if voice_esp_txt_mp3 == "":
@@ -492,11 +494,11 @@ def playsound():
                 break
     
     if filename == "sounds/dingdong.mp3" and voice_esp_txt_mp3 != "":
-        LOG("/api/playsound.api\t%s\t%s" % ("ERROR: file not found.", voice_esp_txt_mp3))
+        LOG("/api2/playsound.api\t%s\t%s" % ("ERROR: file not found.", voice_esp_txt_mp3))
 
     return send_file(filename, mimetype='audio/mpeg')
 
-@app.route('/api/card-next.api', methods=['POST', 'GET'])
+@app.route('/api2/card-next.api', methods=['POST', 'GET'])
 def card_next():
     if request.method == 'GET':
         email = request.args['email']
@@ -520,7 +522,7 @@ def card_next():
             esp_txt = request.form['esp_txt']
             score = request.form['score']
             index = request.form['index']
-    # LOG("/api/card-next.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score))
+    # LOG("/api2/card-next.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score))
       
     if esp_txt != "":
         myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
@@ -587,7 +589,7 @@ def card_next():
 
     if len(next_row) < 7:
         if len(oldest_row) < 7:
-            LOG("/api/card_next.api\t%s\t%s\t%s\t%s" % (email, lang, course, "ERROR: Cannot find next row:" + str(next_row)))
+            LOG("/api2/card_next.api\t%s\t%s\t%s\t%s" % (email, lang, course, "ERROR: Cannot find next row:" + str(next_row)))
             result = {'resp': 'Fail', 'message': 'Cannot find oldest row:'+str(next_row)}
             resp = make_response(jsonify(result))
             resp.set_cookie('login_status', 'loged_out')
@@ -624,7 +626,7 @@ def card_next():
        [voice, mp3_url] = random.choice(mp3list)
        voice_img_url = './img/'+voice+'.png'
 
-    LOG("/api/card-next.api\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, next_row[1], next_row[5].strip(), quiz_card_url, voice))
+    LOG("/api2/card-next.api\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, next_row[1], next_row[5].strip(), quiz_card_url, voice))
     result = {'resp': 'OK', 'level': next_row[0], 'esp_txt': next_row[1], 'kor_txt': next_row[2], 'eng_txt': next_row[3], 'group': next_row[4], 'count':next_row[5].strip(), 'next_review_time': next_row[6], 'quiz_card_url':quiz_card_url, 'mp3_url':mp3_url, 'voice_img_url':voice_img_url, 'voice':voice}
     resp = make_response(jsonify(result))
     return resp
@@ -639,7 +641,7 @@ def get_word_to_word_diff(word1, word2):
     return 1 - similarity #0.0부터 1.0 사이
 
 
-@app.route('/api/similar-words-kor.api', methods=['POST', 'GET'])
+@app.route('/api2/similar-words-kor.api', methods=['POST', 'GET'])
 def similar_words_kor():
     if request.method == 'GET':
         email = request.args['email']
@@ -657,7 +659,7 @@ def similar_words_kor():
             course = request.form['course']
             lang = request.form['lang']
             kor_txt = request.form['kor_txt']
-    LOG("/api/similar-words-kor.api\t%s\t%s\t%s\t%s" % (email, course, lang, kor_txt))
+    LOG("/api2/similar-words-kor.api\t%s\t%s\t%s\t%s" % (email, course, lang, kor_txt))
     
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
     if not (os.path.exists(myprogress_tsv)):
@@ -694,7 +696,7 @@ def similar_words_kor():
     return resp
 
 
-@app.route('/api/similar-words.api', methods=['POST', 'GET'])
+@app.route('/api2/similar-words.api', methods=['POST', 'GET'])
 def similar_words():
     if request.method == 'GET':
         email = request.args['email']
@@ -712,7 +714,7 @@ def similar_words():
             course = request.form['course']
             lang = request.form['lang']
             esp_txt = request.form['esp_txt']
-    LOG("/api/similar-words.api\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt))
+    LOG("/api2/similar-words.api\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt))
 
     
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
@@ -749,7 +751,7 @@ def similar_words():
     resp = make_response(jsonify(result))
     return resp
 
-@app.route('/api/similar-words-jk.api', methods=['POST', 'GET'])
+@app.route('/api2/similar-words-jk.api', methods=['POST', 'GET'])
 def similar_words_jk():
     if request.method == 'GET':
         email = request.args['email']
@@ -770,7 +772,7 @@ def similar_words_jk():
             lang = request.form['lang']
             j_word = request.form['j_word']
             k_word = request.form['k_word']
-    LOG("/api/similar-words-jk.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, j_word, k_word))
+    LOG("/api2/similar-words-jk.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, j_word, k_word))
 
     
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
@@ -839,7 +841,7 @@ def similar_words_jk():
     resp = make_response(jsonify(result))
     return resp
 
-@app.route('/api/put-score.api', methods=['POST', 'GET'])
+@app.route('/api2/put-score.api', methods=['POST', 'GET'])
 def put_score():
     if request.method == 'GET':
         email = request.args['email']
@@ -860,7 +862,7 @@ def put_score():
             lang = request.form['lang']
             esp_txt = request.form['esp_txt']
             score = request.form['score']
-    LOG("/api/put-score.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score))
+    LOG("/api2/put-score.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, esp_txt, score))
 
     #myprogress_tsv파일이 존재하지 않으면 error를 리턴하고 로그아웃 시킨다. 
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
@@ -977,7 +979,7 @@ def do_simulation(lines, percent):
 
     return lines
 
-@app.route('/api/jump-level.api', methods=['POST', 'GET'])
+@app.route('/api2/jump-level.api', methods=['POST', 'GET'])
 def jump_level():
     print("api/jump-level.api")
     if request.method == 'GET':
@@ -996,7 +998,7 @@ def jump_level():
             course = request.form['course']
             lang = request.form['lang']
             level = request.form['level']
-    LOG("/api/jump-level.api\t%s\t%s\t%s\t%s" % (email, course, lang, level))
+    LOG("/api2/jump-level.api\t%s\t%s\t%s\t%s" % (email, course, lang, level))
 
     #myprogress_tsv파일이 존재하지 않으면 error를 리턴하고 로그아웃 시킨다. 
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
@@ -1027,7 +1029,7 @@ def jump_level():
     return resp
 
 
-@app.route('/api/put-score-kor.api', methods=['POST', 'GET'])
+@app.route('/api2/put-score-kor.api', methods=['POST', 'GET'])
 def put_score_kor():
     if request.method == 'GET':
         email = request.args['email']
@@ -1048,7 +1050,7 @@ def put_score_kor():
             lang = request.form['lang']
             kor_txt = request.form['kor_txt']
             score = request.form['score']
-    LOG("/api/put-score-kor.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, kor_txt, score))
+    LOG("/api2/put-score-kor.api\t%s\t%s\t%s\t%s\t%s" % (email, course, lang, kor_txt, score))
 
     #myprogress_tsv파일이 존재하지 않으면 error를 리턴하고 로그아웃 시킨다. 
     myprogress_tsv = my_course_dir(email,lang,course)+'/myprogress.tsv'
@@ -1097,9 +1099,9 @@ def files_in(target_dir):
     return [f.name for f in os.scandir(target_dir) if f.is_file()]
 
 def get_users_stats():
-    #2023-08-31 16:23:12	/api/login.api	a@a.com	a@a.com	vi-vn
-    #2023-08-31 16:24:09	/api/session-start.api	a@a.com	vi-vn	A
-    #2023-08-27 16:52:44	/api/session-finish.api	a@a.com	ja-jp	C
+    #2023-08-31 16:23:12	/api2/login.api	a@a.com	a@a.com	vi-vn
+    #2023-08-31 16:24:09	/api2/session-start.api	a@a.com	vi-vn	A
+    #2023-08-27 16:52:44	/api2/session-finish.api	a@a.com	ja-jp	C
     date_from = time.strftime("%Y-%m-%d.log", time.localtime(time.time()-7*24*60*60))
     date_to = time.strftime("%Y-%m-%d.log", time.localtime(time.time()))
     log_files = files_in("./logs")
@@ -1110,7 +1112,7 @@ def get_users_stats():
             fp = open("./logs/" + log_file)
             for line in fp:
                 row = line.strip().split("\t")
-                if row[1] == "/api/login.api":
+                if row[1] == "/api2/login.api":
                     if not "login" in stat:
                         stat["login"] = {}
                         stat["login"]["count"] = 0
@@ -1122,7 +1124,7 @@ def get_users_stats():
                         stat["login"][row[4]][row[2]] += 1
                     else:
                         stat["login"][row[4]][row[2]] = 1
-                if row[1] == "/api/session-start.api":
+                if row[1] == "/api2/session-start.api":
                     if not "sessionstart" in stat:
                         stat["sessionstart"] = {}
                         stat["sessionstart"]["count"] = 0
@@ -1134,7 +1136,7 @@ def get_users_stats():
                         stat["sessionstart"][row[3]+"."+row[4]][row[2]] += 1
                     else:
                         stat["sessionstart"][row[3]+"."+row[4]][row[2]] = 1
-                if row[1] == "/api/session-finish.api":
+                if row[1] == "/api2/session-finish.api":
                     if not "sessionfinish" in stat:
                         stat["sessionfinish"] = {}
                         stat["sessionfinish"]["count"] = 0
@@ -1151,7 +1153,7 @@ def get_users_stats():
     return stat
 
 
-@app.route('/api/users_stats.api', methods=['POST'])
+@app.route('/api2/users_stats.api', methods=['POST'])
 def users_stats():
     #wordlist = request.json['wordlist']
     stats = get_users_stats()
@@ -1199,7 +1201,7 @@ def del_voice():
     return resp
 
 
-@app.route('/api/load_user_info.api', methods=['POST'])
+@app.route('/api2/load_user_info.api', methods=['POST'])
 def load_user_info():
     email = request.json['email']
 
@@ -1208,12 +1210,12 @@ def load_user_info():
     resp = make_response(jsonify(user_info))
     return resp
 
-@app.route('/api/check_visited.api', methods=['POST'])
+@app.route('/api2/check_visited.api', methods=['POST'])
 def check_visited():
     email = request.json['email']
 
     result = {"lun":"false", "mar":"false", "mer":"false", "jxaux":"false", "ven":"false", "sab":"false", "dim":"false"}
-    # 2024-06-17 16:52:47	/api/login.api	aaaaaaaaaaaaaaaaa@a.com	aaaaaaaaaaaaaaaaa@a.com	ko-kr
+    # 2024-06-17 16:52:47	/api2/login.api	aaaaaaaaaaaaaaaaa@a.com	aaaaaaaaaaaaaaaaa@a.com	ko-kr
     dates = {}
 
     for i in range(7):
@@ -1223,7 +1225,7 @@ def check_visited():
         if os.path.exists(logfile):
             fp = open(logfile, "r")
             for line in fp:
-                if line.find("/api/login.api") >= 0:
+                if line.find("/api2/login.api") >= 0:
                     if line.find(email) >= 0:
                         dates[i] = True
                         break

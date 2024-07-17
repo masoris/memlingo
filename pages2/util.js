@@ -20,7 +20,7 @@ var is_playing = false;
 function play_sound_url(url) {
     try {
         var email = localStorage.getItem("email");
-        var audio = new Audio("/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + url + "&t=" + new Date().getTime());
+        var audio = new Audio("/api2/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + url + "&t=" + new Date().getTime());
         audio.addEventListener('ended', function () {
             audio.pause();
             audio.currentTime = 0;
@@ -47,7 +47,7 @@ function play_sound_esp(esp_txt) {
 
     // for (i = 0; i < voices.length; i++) {
     var email = localStorage.getItem("email");
-    url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[0] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
+    url = "/api2/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[0] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
     try {
         // if (is_playing == true) {
         // break;
@@ -75,7 +75,7 @@ function play_sound_esp(esp_txt) {
 
 function play_sound_esp_voice(esp_txt, voice) {
     var email = "hiongun@gmail.com";
-    var url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voice + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
+    var url = "/api2/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voice + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
     try {
         let audio = new Audio(url);
         audio.addEventListener('ended', function () {
@@ -99,7 +99,7 @@ function play_sound_esp_next_url(esp_txt, next_url) {
     is_playing = false;
     for (i = 0; i < voices.length; i++) {
         var email = localStorage.getItem("email");
-        var mp3_url = "/api/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
+        var mp3_url = "/api2/playsound.api?email=" + email + "&voice_esp_txt_mp3=" + voices[i] + "/" + esp_txt + ".mp3" + "&t=" + new Date().getTime();
         try {
             if (is_playing == true) {
                 break;
@@ -148,7 +148,7 @@ function put_score(esp_txt, score) {
     var course = localStorage.session_course;
 
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: esp_txt, score: score });
-    postAjaxRequest('/api/put-score.api', jsonStr, function (responseJSONStr) {
+    postAjaxRequest('/api2/put-score.api', jsonStr, function (responseJSONStr) {
         console.log(responseJSONStr)
         responseObj = JSON.parse(responseJSONStr);
 
@@ -166,7 +166,7 @@ function put_score_kor(kor_txt, score) {
     var course = localStorage.session_course;
 
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, kor_txt: kor_txt, score: score });
-    postAjaxRequest('/api/put-score-kor.api', jsonStr, function (responseJSONStr) {
+    postAjaxRequest('/api2/put-score-kor.api', jsonStr, function (responseJSONStr) {
         console.log(responseJSONStr)
         responseObj = JSON.parse(responseJSONStr);
 
@@ -193,7 +193,7 @@ function get_course_info(update_course_info) {
     console.log("get_course_info1");
 
     var jsonStr = JSON.stringify({ email: email, lang: lang });
-    postAjaxRequest('/api/get_course_info.api', jsonStr, function (responseJSONStr) {
+    postAjaxRequest('/api2/get_course_info.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
 
         if (responseObj['resp'] == "OK") {

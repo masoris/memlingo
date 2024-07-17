@@ -1,15 +1,4 @@
-# pip install google-auth-oauthlib
-# pip3 install googleapiclient
-# from __future__ import print_function
-import base64, sys
-import os.path
-# from email.mime.text import MIMEText
-# from googleapiclient.discovery import build
-# from google_auth_oauthlib.flow import InstalledAppFlow
-# from google.auth.transport.requests import Request
-# from google.oauth2.credentials import Credentials
-
-import smtplib
+import smtplib, sys
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 

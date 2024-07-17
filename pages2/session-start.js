@@ -8,7 +8,7 @@ function call_session_start_api() {
     course = localStorage.session_course
 
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course });
-    postAjaxRequest('/api/session-start.api', jsonStr, function (responseJSONStr) {
+    postAjaxRequest('/api2/session-start.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
 
@@ -41,16 +41,16 @@ function click_btn_level_jump() {
     course = localStorage.session_course
     // localStorage.setItem("Carditems", "[]");
 
-    // /api/card-next.api
+    // /api2/card-next.api
     //         userid, email, cookie:login_status, lang, course
     //         output: 
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, level: progress_to_be.toString() });
-    console.log("/api/jump-level.api");
-    postAjaxRequest('/api/jump-level.api', jsonStr, function (responseJSONStr) {
-        console.log("/api/jump-level.api response");
+    console.log("/api2/jump-level.api");
+    postAjaxRequest('/api2/jump-level.api', jsonStr, function (responseJSONStr) {
+        console.log("/api2/jump-level.api response");
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
         window.location.href = '/pages/session-start.html';
@@ -75,7 +75,7 @@ function click_btn_level_jump() {
 
     }, function (status, responseText) {
         // alert(responseText + "\nstatus:" + status);
-        console.log("/api/jump-level.api error");
+        console.log("/api2/jump-level.api error");
         console.error('Error:', status);
         console.error(responseText);
     });
@@ -89,14 +89,14 @@ function click_btn_start_learning() {
     course = localStorage.session_course
     localStorage.setItem("Carditems", "[]");
 
-    // /api/card-next.api
+    // /api2/card-next.api
     //         userid, email, cookie:login_status, lang, course
     //         output: 
     //                quiz-card-url, 퀴즈 카드 유형을 랜덤으로 정해서 보내옴
     //                level,esp_text,kor,eng,group,count,next-review-time, = myprgress.tsv파일의 한 라인임
     //                voice_img,voice_name,esp_text.mp3 = esp_txt를 음성으로 읽어줄 캐릭터와 음성  
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course, esp_txt: "", score: "", index: 0 });
-    postAjaxRequest('/api/card-next.api', jsonStr, function (responseJSONStr) {
+    postAjaxRequest('/api2/card-next.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
         console.log(responseObj);
         // 받아온 output을 이용해서 적절하게 한장의 퀴즈 페이지를 구성한다. 

@@ -1,7 +1,7 @@
 function users_stats() {
     var jsonObj = {};
     var strdata = JSON.stringify(jsonObj);
-    postAjaxRequest('/api/users_stats.api', strdata, function (response) {
+    postAjaxRequest('/api2/users_stats.api', strdata, function (response) {
         jsonObj = JSON.parse(response);
         console.log(response);
         contents = "<table border=1>";

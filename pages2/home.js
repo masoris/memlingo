@@ -8,7 +8,7 @@ function onlogout_click() {
     }
 
     var jsonStr = JSON.stringify({ email: email, lang: lang, course: course });
-    postAjaxRequest('/api/logout.api', jsonStr, function (response) {
+    postAjaxRequest('/api2/logout.api', jsonStr, function (response) {
         //여기서 암묵적으로 쿠키가 들어옴 
         if (getCookie('login_status') != 'success') {
             //alert('Logout action is sucessfuly done');
@@ -93,7 +93,7 @@ function lang_changed() {
 function set_visited() {
     var email = localStorage.getItem("email");
     var jsonStr = JSON.stringify({ email: email });
-    postAjaxRequest('/api/check_visited.api', jsonStr, function (response) {
+    postAjaxRequest('/api2/check_visited.api', jsonStr, function (response) {
         responseObj = JSON.parse(response);
         if (responseObj["lun"] == "true") {
             $("lun").className = "the-day";
@@ -127,7 +127,7 @@ function set_visited() {
 function load_user_info() {
     var email = localStorage.getItem("email");
     var jsonStr = JSON.stringify({ email: email });
-    postAjaxRequest('/api/load_user_info.api', jsonStr, function (response) {
+    postAjaxRequest('/api2/load_user_info.api', jsonStr, function (response) {
         responseObj = JSON.parse(response);
         for (key in responseObj) {
             localStorage.setItem(key, responseObj[key]);

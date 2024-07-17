@@ -1,4 +1,7 @@
 function isValidEmail(email) {
+    if (email.length > 50) {
+        return false;
+    }
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return emailRegex.test(email);
 }
@@ -23,7 +26,7 @@ function onlogin_click() {
     // background-color: #4c5b75;
 
     var jsonStr = JSON.stringify({ email1: email1, email2: email2, lang: lang });
-    postAjaxRequest('/api/login.api', jsonStr, function (responseJSONStr) {
+    postAjaxRequest('/api2/login.api', jsonStr, function (responseJSONStr) {
         responseObj = JSON.parse(responseJSONStr);
 
         if (responseObj['resp'] == "OK") {
