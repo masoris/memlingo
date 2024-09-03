@@ -2,15 +2,15 @@ B.zh-cn content.tsv
 Level	Esperanto	zh-cn	en-us	Grupo	Alternativoj	Pronoco
 level	saluton!	你好！	hello!	grupo	alternativoj	prononco
 level	mi estas ~	我是~	I am ~	grupo	alternativoj	prononco
-level	kiu vi estas?	你是谁？	who are you?	grupo	alternativoj	prononco
+level	kiu vi estas?	你叫什么名字？	who are you?	grupo	alternativoj	prononco
 level	mia nomo estas ~	我的名字是~	my name is ~	grupo	alternativoj	prononco
 level	mi ĝojas	我很高兴	I am glad	grupo	alternativoj	prononco
 level	ankaŭ mi ĝojas	我也很高兴	I am glad, too	grupo	alternativoj	prononco
 level	ofte venas	经常来	often comes	grupo	alternativoj	prononco
-level	al tiu ĉi dancejo	到这个跳舞的地方	to this dancing place	grupo	alternativoj	prononco
-level	ĉu vi ofte venas al tiu ĉi dancejo?	你经常来这个跳舞的地方吗？	do you often come to this dancing place?	grupo	alternativoj	prononco
+level	al tiu ĉi dancejo	到这个舞厅	to this dancing place	grupo	alternativoj	prononco
+level	ĉu vi ofte venas al tiu ĉi dancejo?	你经常来这个舞厅吗？	do you often come to this dancing place?	grupo	alternativoj	prononco
 level	ne, ĉu vi?	不，你呢？	no, do you?	grupo	alternativoj	prononco
-level	ankaŭ mi ne	我都没有	mi neither	grupo	alternativoj	prononco
+level	ankaŭ mi ne	我也不是	mi neither	grupo	alternativoj	prononco
 level	~ estas interesa nomo	〜是一个有趣的名字	~ is an interesting name	grupo	alternativoj	prononco
 level	ĉu?	是吗？	is it?	grupo	alternativoj	prononco
 level	ĉu ne?	不是吗？	isn't it?	grupo	alternativoj	prononco
@@ -20,61 +20,61 @@ level	ĝi rilatas al Esperanto	它与世界语有关。	it is related to Esperan
 level	kio?	什么？	what?	grupo	alternativoj	prononco
 level	mi ne aŭdis bone	我没听清楚	I didn't hear well	grupo	alternativoj	prononco
 level	~ estas tro laŭta	~ 太大声了	~ is too loud	grupo	alternativoj	prononco
-level	la muziko estas tro laŭta	音乐太大声	the music is too loud	grupo	alternativoj	prononco
-level	mi diris, ke ~	我是这么说的~	I said that ~	grupo	alternativoj	prononco
+level	la muziko estas tro laŭta	音乐声太大	the music is too loud	grupo	alternativoj	prononco
+level	mi diris, ke ~	我说,~	I said that ~	grupo	alternativoj	prononco
 level	mi diris ke via nomo rilatas al Esperanto	我说你的名字和世界语有关	I said that your name is related to Esperanto	grupo	alternativoj	prononco
 level	ĉu vere?	真的吗？	really?	grupo	alternativoj	prononco
-level	novaĵo por mi	给我的消息	a news for me	grupo	alternativoj	prononco
-level	tio estas novaĵo por mi	这对我来说是个好消息	that's a news for me	grupo	alternativoj	prononco
+level	novaĵo por mi	为我的消息	a news for me	grupo	alternativoj	prononco
+level	tio estas novaĵo por mi	这对我来说是个新的消息	that's a news for me	grupo	alternativoj	prononco
 level	ĉu vi aŭdis pri ~?	你听说过〜吗？	did you hear about ~ ?	grupo	alternativoj	prononco
 level	ĉu vi aŭdis pri Esperanto?	你听说过世界语吗？	did you hear about Esperanto?	grupo	alternativoj	prononco
-level	mi ne sciis, ke ~	我不知道这个~	I didn't know that ~	grupo	alternativoj	prononco
-level	sed mi ne sciis ke mia nomo rilatas al ĝi	但我不知道我的名字与它有关	but I didn't know that my name is related to it	grupo	alternativoj	prononco
+level	mi ne sciis, ke ~	我不知道~	I didn't know that ~	grupo	alternativoj	prononco
+level	sed mi ne sciis ke mia nomo rilatas al ĝi	但我不知道了我的名字与它有关	but I didn't know that my name is related to it	grupo	alternativoj	prononco
 level	fakte	实际上	in fact	grupo	alternativoj	prononco
 level	kia estas ~ ?	怎么样~？	how is ~ ?	grupo	alternativoj	prononco
 level	kia estas la rilato?	关系如何？	how is the relation?	grupo	alternativoj	prononco
 level	ho!	哦！	oh!	grupo	alternativoj	prononco
 level	tio estas longa rakonto	这是一个很长的故事	that's a long story	grupo	alternativoj	prononco
-level	rakontos al vi	会告诉你	will tell you	grupo	alternativoj	prononco
+level	rakontos al vi	告诉你	will tell you	grupo	alternativoj	prononco
 level	se vi volas	如果你想	if you want	grupo	alternativoj	prononco
-level	mi rakontos al vi poste, se vi volas	如果你愿意的话我稍后会告诉你	I will tell you later, if you want	grupo	alternativoj	prononco
+level	mi rakontos al vi poste, se vi volas	如果你愿意的话我以后会告诉你	I will tell you later, if you want	grupo	alternativoj	prononco
 level	en ĉi tiu loko	在这个地方（在这个地方）	in this place (in this location)	grupo	alternativoj	prononco
 level	tro da bruo	太吵了	too much noise	grupo	alternativoj	prononco
 level	en ĉi tiu loko estas tro da bruo	这个地方太吵了	in this place, there's too much noise	grupo	alternativoj	prononco
 level	jes, vi pravas	你是对的	yes, you're right	grupo	alternativoj	prononco
 level	ĉu ni dancu?	我们跳舞吧？	shall we dance?	grupo	alternativoj	prononco
 level	bona ideo!	好主意！	good idea!	grupo	alternativoj	prononco
-level	dankon por agrabla vespero	谢谢你度过了一个愉快的夜晚	thank you for a pleasant evening	grupo	alternativoj	prononco
+level	dankon por agrabla vespero	谢谢你, 是个愉快的晚上	thank you for a pleasant evening	grupo	alternativoj	prononco
 level	dankon al vi	谢谢你）	thank you (to you)	grupo	alternativoj	prononco
 level	estis vere bona	非常好	it was very good	grupo	alternativoj	prononco
-level	muziko plaĉas al ~	有音乐就赏心悦目~	a music is pleasing to ~	grupo	alternativoj	prononco
-level	la muziko ege plaĉis al mi	音乐很令我高兴	the music was very pleasing to me	grupo	alternativoj	prononco
-level	ankaŭ al mi	也对我来说	also to me	grupo	alternativoj	prononco
+level	muziko plaĉas al ~	~,喜欢这种音乐	a music is pleasing to ~	grupo	alternativoj	prononco
+level	la muziko ege plaĉis al mi	我很喜欢这个音乐	the music was very pleasing to me	grupo	alternativoj	prononco
+level	ankaŭ al mi	对我来说也是	also to me	grupo	alternativoj	prononco
 level	danci estis tre amuze	跳舞很有趣	dancing is very funny	grupo	alternativoj	prononco
 level	danci kun vi	与你共舞	to dance with you	grupo	alternativoj	prononco
 level	estis tre amuze danci kun vi	和你一起跳舞很有趣	it was very funny to dance with you	grupo	alternativoj	prononco
 level	jen mia nomkarto	这是我的名片	here's my name card	grupo	alternativoj	prononco
-level	se vi volas ĝin	如果你想要的话	if you want it	grupo	alternativoj	prononco
-level	jen mia karto, se vi volas	这是我的名片，如果你想要的话	here's my card, if you want	grupo	alternativoj	prononco
+level	se vi volas ĝin	如果你要的话	if you want it	grupo	alternativoj	prononco
+level	jen mia karto, se vi volas	这是我的名片，如果你要的话	here's my card, if you want	grupo	alternativoj	prononco
 level	sur ĝi estas ankaŭ ~	上面还有~	on it there's also ~	grupo	alternativoj	prononco
-level	sur ĝi estas ankaŭ adreso	上面还有一个地址	on it there's also an address	grupo	alternativoj	prononco
-level	estas ankaŭ adreso al paĝaro	有一个网站地址	there's an address to a website	grupo	alternativoj	prononco
-level	adreso al paĝaro kun Esperanto-kurso	世界语课程网站的地址	an address to a site with Espernato course	grupo	alternativoj	prononco
+level	sur ĝi estas ankaŭ adreso	上面还写着地址	on it there's also an address	grupo	alternativoj	prononco
+level	estas ankaŭ adreso al paĝaro	有一个网址	there's an address to a website	grupo	alternativoj	prononco
+level	adreso al paĝaro kun Esperanto-kurso	世界语课程网站的网址	an address to a site with Espernato course	grupo	alternativoj	prononco
 level	dankon	谢谢	thank you	grupo	alternativoj	prononco
-level	mi retpoŝtos al vi	我会给你发一封电子邮件	I'll send you an e-mail	grupo	alternativoj	prononco
+level	mi retpoŝtos al vi	我发给你一封电子邮件	I'll send you an e-mail	grupo	alternativoj	prononco
 level	bone!	好的！	okay!	grupo	alternativoj	prononco
-level	ĝis kaj bonan nokton!	再次见到你，晚安！	see you again, and good night!	grupo	alternativoj	prononco
+level	ĝis kaj bonan nokton!	再见，晚安！	see you again, and good night!	grupo	alternativoj	prononco
 level	ĝis la!	再见！	see you!	grupo	alternativoj	prononco
 level	aperas en ~	出现在~	appears in ~	grupo	alternativoj	prononco
-level	tujmesaĝilo	即时通讯工具	an instant messenger	grupo	alternativoj	prononco
-level	~ aperas en la tujmesaĝilo	~ 出现在即时通讯工具中	~ appears in the instant messanger	grupo	alternativoj	prononco
-level	ĉu vi estas tiu?	你是那个人吗？	are you that person?	grupo	alternativoj	prononco
-level	tiu, kiu dancis kun mi	那个和我跳舞的人	that person, who had danced with me	grupo	alternativoj	prononco
+level	tujmesaĝilo	即时通讯软件	an instant messenger	grupo	alternativoj	prononco
+level	~ aperas en la tujmesaĝilo	~ 出现在即时通讯软件中	~ appears in the instant messanger	grupo	alternativoj	prononco
+level	ĉu vi estas tiu?	你就是那个人吗？	are you that person?	grupo	alternativoj	prononco
+level	tiu, kiu dancis kun mi	和我跳舞的那个人	that person, who had danced with me	grupo	alternativoj	prononco
 level	sabata nokto	周六晚上	Saturday night	grupo	alternativoj	prononco
-level	ĉu vi estas tiu, kiu dancis kun mi sabatnokte?	你就是那个周六晚上和我跳舞的人吗？	are you that person, who danced with me Saturday night?	grupo	alternativoj	prononco
+level	ĉu vi estas tiu, kiu dancis kun mi sabatnokte?	你就是周六晚上和我跳舞的那个人吗？	are you that person, who danced with me Saturday night?	grupo	alternativoj	prononco
 level	jes, estas mi	没错，就是我	yes it is me	grupo	alternativoj	prononco
-level	mi ĝojas, ke ~	我很高兴~	I'm pleased that ~	grupo	alternativoj	prononco
-level	mi ĝojas, ke vi venis al la paĝaro	我很高兴您来到该网站	I'm pleased that you came to the site	grupo	alternativoj	prononco
+level	mi ĝojas, ke ~	我高兴~	I'm pleased that ~	grupo	alternativoj	prononco
+level	mi ĝojas, ke vi venis al la paĝaro	我很高兴您来到这个网站	I'm pleased that you came to the site	grupo	alternativoj	prononco
 level	ĉu ĝi plaĉas al vi?	你满意吗？ （你喜欢它？）	is it pleasing to you? (do you like it?)	grupo	alternativoj	prononco
 level	jes ja	是的，是的	yes, yay	grupo	alternativoj	prononco
 level	ĝi estas tre bela	它非常漂亮	it is very beautiful	grupo	alternativoj	prononco
@@ -83,15 +83,15 @@ level	ĝi estas tre bela kaj ŝajnas interesa	它很漂亮而且看起来很有�
 level	ankoraŭ ne ~	还没有~	not yet ~	grupo	alternativoj	prononco
 level	ne estas tute preta	还没有完全准备好	is not completely ready	grupo	alternativoj	prononco
 level	ĝi ankoraŭ ne estas tute preta	还没有完全准备好	it is not yet totally ready	grupo	alternativoj	prononco
-level	sed baldaŭ estos	但很快就会	but soon it will be	grupo	alternativoj	prononco
+level	sed baldaŭ estos	但很快就会好的	but soon it will be	grupo	alternativoj	prononco
 level	mi komprenas	我明白了（我明白了）	I understand (I see)	grupo	alternativoj	prononco
 level	sed jam estas multaj helpiloj	但已经有很多帮助工具了	but already there're many help tools	grupo	alternativoj	prononco
-level	vortaro	一本字典	a dictionary	grupo	alternativoj	prononco
+level	vortaro	字典	a dictionary	grupo	alternativoj	prononco
 level	superrigardo	概述	an overview	grupo	alternativoj	prononco
-level	ekzerco	一项练习	an excecise	grupo	alternativoj	prononco
-level	ekzemple vortaroj, superrigardo, tujmesaĝilo kaj ekzercoj	示例单词、概述、信息和练习	example words, overview, messanger and execerces	grupo	alternativoj	prononco
+level	ekzerco	练习	an excecise	grupo	alternativoj	prononco
+level	ekzemple vortaroj, superrigardo, tujmesaĝilo kaj ekzercoj	举个例子单词、概观、即时通讯软件 和练习	example words, overview, messanger and execerces	grupo	alternativoj	prononco
 level	superrigardo de la gramatiko	语法概述	an overview of the grammar	grupo	alternativoj	prononco
-level	tujmesaĝilo kaj diversaj ekzercoj	即时通讯工具和各种练习	an instant messenger and various excercises	grupo	alternativoj	prononco
+level	tujmesaĝilo kaj diversaj ekzercoj	即时通讯软件 和各种练习题	an instant messenger and various excercises	grupo	alternativoj	prononco
 level	estas bona komenco	这是一个好的开始	it is a good start	grupo	alternativoj	prononco
 level	pardonon	对不起，请原谅我	pardon me I'm sorry	grupo	alternativoj	prononco
 level	mi devas paroli kun ~	我一定要和你说话~	I must speak with ~	grupo	alternativoj	prononco
@@ -100,35 +100,35 @@ level	pardonon, mi devas paroli kun alia persono	抱歉，我应该和其他人�
 level	lingvohelpanto	语言助手	a language helper	grupo	alternativoj	prononco
 level	mi estas ŝia "lingvohelpanto"	我是她的语言帮手	I am her language helper	grupo	alternativoj	prononco
 level	kaj nun ŝi volas paroli pri ~	现在她想谈谈~	and now she wants to talk about ~	grupo	alternativoj	prononco
-level	paroli pri unu ekzerco	谈论一次练习	to talk about an excercise	grupo	alternativoj	prononco
+level	paroli pri unu ekzerco	谈论一项练习	to talk about an excercise	grupo	alternativoj	prononco
 level	baldaŭ revenos	很快就会回来	soon will come back	grupo	alternativoj	prononco
 level	mi baldaŭ revenos al vi	我很快就会回到你身边	I will come back to you soon	grupo	alternativoj	prononco
 level	post kelkaj minutoj	几分钟后	after several minutes	grupo	alternativoj	prononco
 level	finparolis	说完	finished talking	grupo	alternativoj	prononco
-level	nun ni finparolis pri la ekzerco	现在我们谈完了练习	now we finished talking aout the excercise	grupo	alternativoj	prononco
-level	dume	与此同时，一段时间	in the mean time, for a while	grupo	alternativoj	prononco
-level	mi legis pri Esperanto dume	我同时读到了有关世界语的内容	I read about Esperanto in the mean time	grupo	alternativoj	prononco
+level	nun ni finparolis pri la ekzerco	现在我们谈完了有关练习的问题	now we finished talking aout the excercise	grupo	alternativoj	prononco
+level	dume	之间，一段时间	in the mean time, for a while	grupo	alternativoj	prononco
+level	mi legis pri Esperanto dume	在此期间, 我阅读了有关世界语的文章	I read about Esperanto in the mean time	grupo	alternativoj	prononco
 level	mi ne certas	我不确定	I'm not certain	grupo	alternativoj	prononco
-level	scias sufiĉe pri ~	够了解的了~	knows enough about ~	grupo	alternativoj	prononco
+level	scias sufiĉe pri ~	足够了解的了~	knows enough about ~	grupo	alternativoj	prononco
 level	mi ankoraŭ ne scias sufiĉe pri la lingvo	我对语言还不够了解	I don't know sufficiently about the language, yet	grupo	alternativoj	prononco
-level	saĝa respondo	一个聪明的答案	a smart answer	grupo	alternativoj	prononco
+level	saĝa respondo	聪明的回答	a smart answer	grupo	alternativoj	prononco
 level	mi rigardos en la paĝaro	我去网站看看	I will look in the site	grupo	alternativoj	prononco
-level	kaj provos iom lerni	并会尝试学习一点	and will try learn a little	grupo	alternativoj	prononco
+level	kaj provos iom lerni	并想学习一点	and will try learn a little	grupo	alternativoj	prononco
 level	ĉu vi volas esti mia "lingvohelpanto"?	你想成为我的语言帮手吗？	do you want to be my language helper?	grupo	alternativoj	prononco
 level	volonte!	心甘情愿！	willingly!	grupo	alternativoj	prononco
-level	nedankinde!	不客气！	you're welcome!	grupo	alternativoj	prononco
-level	nedankinde, sed kisinde	不值得感谢，但值得一个吻	not worth a thank, but worth a kiss	grupo	alternativoj	prononco
-level	diras tion en Esperanto	用世界语说	says that in Esperanto	grupo	alternativoj	prononco
+level	nedankinde!	不用谢！	you're welcome!	grupo	alternativoj	prononco
+level	nedankinde, sed kisinde	不用谢，但值得亲吻的	not worth a thank, but worth a kiss	grupo	alternativoj	prononco
+level	diras tion en Esperanto	用世界语说了那个	says that in Esperanto	grupo	alternativoj	prononco
 level	kio? mi ne komprenas	什么？我不明白	what? I don't understand	grupo	alternativoj	prononco
 level	vi povas rigardi en la vortaro	你可以查字典	you can look in a dictionary	grupo	alternativoj	prononco
 level	bedaŭrinde	很遗憾	unfortunately	grupo	alternativoj	prononco
-level	mi devas foriri de Interreto nun	我现在必须断网	I must go off from Internet now	grupo	alternativoj	prononco
+level	mi devas foriri de Interreto nun	我现在结束网络了	I must go off from Internet now	grupo	alternativoj	prononco
 level	mi revenos vespere	我晚上回来	I will come back in the evening	grupo	alternativoj	prononco
-level	mi pensas, ke mi estos ĉe la paĝaro tiam	我想那时我会到达现场	I think that I will be at the site by that time	grupo	alternativoj	prononco
+level	mi pensas, ke mi estos ĉe la paĝaro tiam	我想那时我会在线	I think that I will be at the site by that time	grupo	alternativoj	prononco
 level	perfekte!	完美的！	perfect!	grupo	alternativoj	prononco
 level	do, ĝis tiam!	好吧，到时候见！	well, see you then!	grupo	alternativoj	prononco
 level	ĝis poste!	回头见！	see you later!	grupo	alternativoj	prononco
-level	vespere, ankaŭ ĉe la tujmesaĝilo	晚上，也在即时通讯工具上	in the evening, also at the instant messenger	grupo	alternativoj	prononco
+level	vespere, ankaŭ ĉe la tujmesaĝilo	晚上，在即时通讯软件上	in the evening, also at the instant messenger	grupo	alternativoj	prononco
 level	resaluton!	再一次问好！ （关于-）	hello again! (re-)	grupo	alternativoj	prononco
 level	saluton denove!	再一次问好！	hello again!	grupo	alternativoj	prononco
 level	mi rigardis preskaŭ ĉiujn paĝojn de la paĝaro	我浏览了该网站的几乎所有页面	I looked almost all pages from the site	grupo	alternativoj	prononco
@@ -136,108 +136,108 @@ level	bonege!	很好！惊人的！	quite good! awesome!	grupo	alternativoj	pron
 level	mi havas kelkajn demandojn	我有几个问题	I have several questions	grupo	alternativoj	prononco
 level	ĉu vi havas tempon?	你有时间吗？	Do you have time?	grupo	alternativoj	prononco
 level	jes, mi havas liberan vesperon	是的，我晚上有空	yes, I am free in the evening	grupo	alternativoj	prononco
-level	do, skribu viajn demandojn	所以，写下你的问题	so, write your questions	grupo	alternativoj	prononco
-level	mi provos respondi	我会尝试回答	I will try to answer	grupo	alternativoj	prononco
-level	mi legis ke Esperanto havas kulturon	我读到世界语有一种文化	I read that Esperanto has a culture	grupo	alternativoj	prononco
-level	tamen mi ne komprenas ~	然而我不明白~	however I don't understand ~	grupo	alternativoj	prononco
+level	do, skribu viajn demandojn	那，写下你的问题	so, write your questions	grupo	alternativoj	prononco
+level	mi provos respondi	我会试试回答	I will try to answer	grupo	alternativoj	prononco
+level	mi legis ke Esperanto havas kulturon	我读过世界语有自己的文化	I read that Esperanto has a culture	grupo	alternativoj	prononco
+level	tamen mi ne komprenas ~	但是我不明白~	however I don't understand ~	grupo	alternativoj	prononco
 level	kie mi povas trovi tiun kulturon	我在哪里可以找到这样的文化	where I can find such a culture	grupo	alternativoj	prononco
-level	vi trovos ĝin ĉie, kie estas ~	你会发现到处都是~在哪里	you'll find everwhere, where ~ is	grupo	alternativoj	prononco
-level	ĉie, kie estas homoj, kiuj parolas Esperanton	任何有人说世界语的地方	any place where are people who speak Esperanto	grupo	alternativoj	prononco
-level	sed neniu popolo uzas Esperanton	但没有人使用世界语	but no people use Esperanto	grupo	alternativoj	prononco
+level	vi trovos ĝin ĉie, kie estas ~	你在~里, 到处都能找到它	you'll find everwhere, where ~ is	grupo	alternativoj	prononco
+level	ĉie, kie estas homoj, kiuj parolas Esperanton	在有人说世界语的任何地方	any place where are people who speak Esperanto	grupo	alternativoj	prononco
+level	sed neniu popolo uzas Esperanton	但任何民族不使用世界语	but no people use Esperanto	grupo	alternativoj	prononco
 level	prave!	正确的！	right!	grupo	alternativoj	prononco
-level	sed homoj, kiuj parolas Esperanton	但会说世界语的人	but people who speak Esperanto	grupo	alternativoj	prononco
-level	ofte vojaĝas kaj renkontas aliajn Esperantistojn	经常旅行并结识其他世界语学者	often travel and meet other Esperantists	grupo	alternativoj	prononco
-level	dum tiuj renkontoj	在这些会议期间	during those meetings	grupo	alternativoj	prononco
-level	ili uzas la lingvon en plej diversaj situacioj	他们在大多数不同的情况下使用该语言	they use the language in most various situations	grupo	alternativoj	prononco
-level	do, tie vi trovos ~	所以你会发现~	so there you will find ~	grupo	alternativoj	prononco
+level	sed homoj, kiuj parolas Esperanton	但使用世界语的人	but people who speak Esperanto	grupo	alternativoj	prononco
+level	ofte vojaĝas kaj renkontas aliajn Esperantistojn	经常旅行并见面其他世界语者	often travel and meet other Esperantists	grupo	alternativoj	prononco
+level	dum tiuj renkontoj	在这些约会期间	during those meetings	grupo	alternativoj	prononco
+level	ili uzas la lingvon en plej diversaj situacioj	他们在许多数情况下使用该语言	they use the language in most various situations	grupo	alternativoj	prononco
+level	do, tie vi trovos ~	所以,你在那儿会发现~	so there you will find ~	grupo	alternativoj	prononco
 level	vi trovos la kulturon	你会发现文化	you'll find the culture	grupo	alternativoj	prononco
-level	trovos la kulturon de Esperanto	会发现世界语文化	will find the culture of Esperanto	grupo	alternativoj	prononco
-level	bone, ĉu ekzistas muziko?	好吧，音乐存在吗？	okay, does music exist?	grupo	alternativoj	prononco
+level	trovos la kulturon de Esperanto	会发现世界语的文化	will find the culture of Esperanto	grupo	alternativoj	prononco
+level	bone, ĉu ekzistas muziko?	好吧，有音乐吗？	okay, does music exist?	grupo	alternativoj	prononco
 level	muziko, literaturo, teatraĵo	音乐、文学、戏剧	music, literature, theater	grupo	alternativoj	prononco
-level	k.t.p.	ETC	etc	grupo	alternativoj	prononco
+level	k.t.p.	等等	etc	grupo	alternativoj	prononco
 level	same kiel ~	一样~	same as ~	grupo	alternativoj	prononco
 level	same kiel estas por aliaj lingvoj	与其他语言相同	same as there are for other languages	grupo	alternativoj	prononco
-level	la kvanto ne estas same granda	数量不是很大	the quantity is not so big	grupo	alternativoj	prononco
+level	la kvanto ne estas same granda	数量不是相同的大	the quantity is not so big	grupo	alternativoj	prononco
 level	same granda kiel en naciaj lingvoj	和民族语言一样大	as big as in national languages	grupo	alternativoj	prononco
 level	sed tio ne gravas	但这并不重要	but that's not important	grupo	alternativoj	prononco
-level	almenaŭ ne por mi	至少不适合我	at least not for me	grupo	alternativoj	prononco
+level	almenaŭ ne por mi	至少在我来说	at least not for me	grupo	alternativoj	prononco
 level	se vi volas aŭskulti ~	如果你想听的话~	if you want to listen ~	grupo	alternativoj	prononco
-level	aŭskulti kanton en Esperanto	听一首世界语歌曲	to listen to a song in Esperanto	grupo	alternativoj	prononco
-level	jen la kanto, "Liza pentras bildojn"	这是歌曲“丽莎画画”	here's the song, "Lisa paints pictures"	grupo	alternativoj	prononco
-level	aŭskultas la kanton	听歌	listens to the song	grupo	alternativoj	prononco
+level	aŭskulti kanton en Esperanto	听一听世界语歌曲	to listen to a song in Esperanto	grupo	alternativoj	prononco
+level	jen la kanto, "Liza pentras bildojn"	这首歌曲“丽莎画画”是	here's the song, "Lisa paints pictures"	grupo	alternativoj	prononco
+level	aŭskultas la kanton	听一听歌	listens to the song	grupo	alternativoj	prononco
 level	ne malbone	不错	not bad	grupo	alternativoj	prononco
 level	kaj vi trovos multajn librojn en Esperanto	你会发现很多世界语书籍	and you will find many books in Esperanto	grupo	alternativoj	prononco
-level	rigardas la librojn	看书	looks the books	grupo	alternativoj	prononco
+level	rigardas la librojn	看一看书籍	looks the books	grupo	alternativoj	prononco
 level	sufiĉe multaj	足够多	enough many	grupo	alternativoj	prononco
 level	ĉu vi legas multe en Esperanto?	你读的世界语多吗？	do you read much in Esperanto?	grupo	alternativoj	prononco
 level	jes, de tempo al tempo	是的，有时（不时）	yes, sometimes (from time to time)	grupo	alternativoj	prononco
-level	se vi iam lernos la lingvon	如果你学过这门语言	if you ever learn the language	grupo	alternativoj	prononco
+level	se vi iam lernos la lingvon	如果你学这门语言	if you ever learn the language	grupo	alternativoj	prononco
 level	mi rekomendos al vi kelkajn bonajn librojn	我会给你推荐一些好书	I will recommend you some good books	grupo	alternativoj	prononco
-level	temas pri ~	大约是~	is about ~ 	grupo	alternativoj	prononco
-level	mia alia demando temas pri mia nomo	我的另一个问题是关于我的名字	my other question is about my name	grupo	alternativoj	prononco
+level	temas pri ~	有关~	is about ~ 	grupo	alternativoj	prononco
+level	mia alia demando temas pri mia nomo	我的另一个提问是关于我的名字	my other question is about my name	grupo	alternativoj	prononco
 level	vi diris antaŭe ke ~	你之前就说过了~	you said earlier that ~	grupo	alternativoj	prononco
 level	havas rilaton al ~	有关系~	has a relation to ~	grupo	alternativoj	prononco
 level	diris ke ĝi havas rilaton al Esperanto	说它与世界语有关系	said that it has a relation to Esperanto	grupo	alternativoj	prononco
-level	ha, jes, pri tio	哦，是的，关于那个	oh, yes, about that	grupo	alternativoj	prononco
-level	viro kun la nomo ~	一个有名字的男人~	a man with the name ~	grupo	alternativoj	prononco
-level	iam vivis viro kun la nomo ~	曾经住过一个叫这个名字的人~	once lived a man with the name ~	grupo	alternativoj	prononco
+level	ha, jes, pri tio	哦，是的，关于~	oh, yes, about that	grupo	alternativoj	prononco
+level	viro kun la nomo ~	一个叫~的男人~	a man with the name ~	grupo	alternativoj	prononco
+level	iam vivis viro kun la nomo ~	曾经住过一个叫~的人	once lived a man with the name ~	grupo	alternativoj	prononco
 level	li estis tre aktiva en la Esperanto-movado	他在世界语运动中非常活跃	he was very active in the Esperanto movement	grupo	alternativoj	prononco
 level	kiam ĝi estis tute nova	当它是全新的时候	when it was completely new	grupo	alternativoj	prononco
 level	tradukis la libron al ~	把书翻译成~	translated the book to ~	grupo	alternativoj	prononco
 level	kaj tradukis multajn librojn al Esperanto	并将许多书籍翻译成世界语	and translated many books to Esperanto	grupo	alternativoj	prononco
 level	kaj tio faris lin fama?	这让他出名了？	and that made him famous?	grupo	alternativoj	prononco
-level	unu el la plej gravaj por Esperanto tiam	当时世界语最重要的之一	one of the most important for Esperanto at that time	grupo	alternativoj	prononco
+level	unu el la plej gravaj por Esperanto tiam	当时在世界语界最重要的人之一	one of the most important for Esperanto at that time	grupo	alternativoj	prononco
 level	kaj li multe influis la stilon de la lingvo	他对语言风格有很大的影响	and he had a lot of influence on the language style	grupo	alternativoj	prononco
-level	ne, certe li estis grava kaj influis multe	不，他当然很重要并且有影响力	no, certainly he was important and had influence	grupo	alternativoj	prononco
-level	tamen, li subite forlasis la movadon	然而他突然放弃了运动	however, he suddenly abandoned the movement	grupo	alternativoj	prononco
+level	ne, certe li estis grava kaj influis multe	不，他确实很重要并且有影响力	no, certainly he was important and had influence	grupo	alternativoj	prononco
+level	tamen, li subite forlasis la movadon	但是他突然离开了运动	however, he suddenly abandoned the movement	grupo	alternativoj	prononco
 level	mi imagas ke ~	我想象的是~	I imagine that ~	grupo	alternativoj	prononco
-level	mi imagas ke estis granda ŝoko por multaj	我想这对很多人来说是一个很大的震惊	I imagine that it was a big shock to many	grupo	alternativoj	prononco
+level	mi imagas ke estis granda ŝoko por multaj	我想这对很多人来说一个很大的震惊	I imagine that it was a big shock to many	grupo	alternativoj	prononco
 level	kial li forlasis Esperanton?	他为什么离开世界语？	why did he leave Esperanto?	grupo	alternativoj	prononco
 level	mi kredas ke ~	我相信~	I believe that ~	grupo	alternativoj	prononco
-level	li estis malkontenta pri la Esperantistoj	他对世界语主义者不满意	he was dissatisfied with the Esperantists	grupo	alternativoj	prononco
-level	li diris ion similan al ~	他说了类似的话~	he said something similar to ~	grupo	alternativoj	prononco
-level	Esperanton devas lerni la Esperantistoj mem!	世界语必须由世界语学者自己学习！	Esperanto must be learned by Esperantists themselves!	grupo	alternativoj	prononco
-level	kion li volis diri per ~ ?	他说~是什么意思？	what did he mean to say by ~?	grupo	alternativoj	prononco
+level	li estis malkontenta pri la Esperantistoj	他对世界语者不满意	he was dissatisfied with the Esperantists	grupo	alternativoj	prononco
+level	li diris ion similan al ~	他给~说了类似的话	he said something similar to ~	grupo	alternativoj	prononco
+level	Esperanton devas lerni la Esperantistoj mem!	世界语必须世界语者自己开始学习！	Esperanto must be learned by Esperantists themselves!	grupo	alternativoj	prononco
+level	kion li volis diri per ~ ?	他说的是什么意思？	what did he mean to say by ~?	grupo	alternativoj	prononco
 level	kion li volis diri per tio?	他这话是什么意思？	what did he mean to say by that?	grupo	alternativoj	prononco
 level	verŝajne ke ~	很可能是~	it is likely that ~	grupo	alternativoj	prononco
-level	homoj malbone parolis Esperanton	人们世界语说得不好	people spoke Esperanto badly 	grupo	alternativoj	prononco
-level	verŝajne ke homoj tiam malbone parolis	很可能人们说坏话	it is likely that people spoke badly	grupo	alternativoj	prononco
+level	homoj malbone parolis Esperanton	他们世界语说得不好	people spoke Esperanto badly 	grupo	alternativoj	prononco
+level	verŝajne ke homoj tiam malbone parolis	那时可能他们说得不好	it is likely that people spoke badly	grupo	alternativoj	prononco
 level	en la jaro 1911, li forlasis Esperanton	1911年，他离开了世界语	in the year 1911, he left Esperanto	grupo	alternativoj	prononco
 level	sed mi pensas ke ~	但我认为~	but I think that ~	grupo	alternativoj	prononco
 level	estas pli alta	更高	is higher	grupo	alternativoj	prononco
-level	hodiaŭ la lingvonivelo estas pli alta	今天的语言水平更高了	today the language level is higher	grupo	alternativoj	prononco
-level	la lingvonivelo de la Esperantistoj	世界语人士的语言水平	the language level of the Esperantists	grupo	alternativoj	prononco
-level	sed mi pensas ke hodiaŭ la nivelo estas pli alta	但我认为今天的水平更高	but I think that today the level is higher	grupo	alternativoj	prononco
-level	do, mi devas bone lerni la lingvon	所以我必须学好语言	so I have to learn the language well	grupo	alternativoj	prononco
+level	hodiaŭ la lingvonivelo estas pli alta	今日的语言水平更高了	today the language level is higher	grupo	alternativoj	prononco
+level	la lingvonivelo de la Esperantistoj	世界语者的语言水平	the language level of the Esperantists	grupo	alternativoj	prononco
+level	sed mi pensas ke hodiaŭ la nivelo estas pli alta	但我认为今日的水平更高	but I think that today the level is higher	grupo	alternativoj	prononco
+level	do, mi devas bone lerni la lingvon	所以我必须学好那个语言	so I have to learn the language well	grupo	alternativoj	prononco
 level	por esti bona homo	为了做一个好人	for being a good person	grupo	alternativoj	prononco
 level	kaj vi devas uzi simplan stilon	你应该使用简单的风格	and you should use simple style	grupo	alternativoj	prononco
 level	ĉar tio estis tre grava por li	因为这对他来说非常重要	because that was very important for him	grupo	alternativoj	prononco
 level	tio plaĉas al mi	这让我很高兴（我喜欢）	that pleases me (I like that)	grupo	alternativoj	prononco
-level	en Esperanto eĉ ekzistas vorto ~	世界语中甚至还有一个词~	in Esperanto, there is even a word ~	grupo	alternativoj	prononco
-level	eĉ ekzistas vorto "kabei"	甚至还有一个词“kabei”	there is even a word "kabei"	grupo	alternativoj	prononco
-level	forlasi la movadon	放弃运动	to abandon the movement	grupo	alternativoj	prononco
-level	vorto "kabei", kiu signifas forlasi la movadon	一个“kabei”字，就是放弃运动的意思	a word "kabei", which means abandoning the movement	grupo	alternativoj	prononco
-level	interese!	那很有意思！	that's interesting!	grupo	alternativoj	prononco
-level	mi nun scias unu vorton en Esperanto	现在我知道世界语中的一个单词	now I know one word in Esperanto	grupo	alternativoj	prononco
+level	en Esperanto eĉ ekzistas vorto ~	世界语里甚至~单词	in Esperanto, there is even a word ~	grupo	alternativoj	prononco
+level	eĉ ekzistas vorto "kabei"	甚至有一个“kabei”的单词	there is even a word "kabei"	grupo	alternativoj	prononco
+level	forlasi la movadon	离开了运动	to abandon the movement	grupo	alternativoj	prononco
+level	vorto "kabei", kiu signifas forlasi la movadon	“kabei”,就是离开运动的意思	a word "kabei", which means abandoning the movement	grupo	alternativoj	prononco
+level	interese!	很有意思！	that's interesting!	grupo	alternativoj	prononco
+level	mi nun scias unu vorton en Esperanto	现在我知道世界语的一个单词	now I know one word in Esperanto	grupo	alternativoj	prononco
 level	neniam forgesos	永远不会忘记	will never forget	grupo	alternativoj	prononco
 level	kaj verŝajne mi neniam forgesos ĝin	我可能永远不会忘记它	and I will probably never forget it	grupo	alternativoj	prononco
 level	en kafejo, post pluraj semajnoj	几周后在咖啡馆里	in a cafe' after several weeks	grupo	alternativoj	prononco
-level	li sukcesis lerni Esperanton	他设法学会了世界语	he managed to learn Esperanto	grupo	alternativoj	prononco
-level	kaj ili nun uzas la lingvon	他们正在使用这种语言	and they are using the language	grupo	alternativoj	prononco
-level	inviti, invitilo	邀请，邀请	to invite, an invitation	grupo	alternativoj	prononco
-level	jen, rigardu, invitilo por IJK!	瞧，这是一份 IJK 邀请函！	here, look, an invitation for IJK!	grupo	alternativoj	prononco
+level	li sukcesis lerni Esperanton	他学了世界语	he managed to learn Esperanto	grupo	alternativoj	prononco
+level	kaj ili nun uzas la lingvon	他们正在使用这个语言	and they are using the language	grupo	alternativoj	prononco
+level	inviti, invitilo	邀请，邀请函	to invite, an invitation	grupo	alternativoj	prononco
+level	jen, rigardu, invitilo por IJK!	瞧，这是国际青年大会的邀请函！	here, look, an invitation for IJK!	grupo	alternativoj	prononco
 level	kio? I-J-kio?	什么？诶哟什么？	what? Ee-yo-what?	grupo	alternativoj	prononco
-level	junulo, junularo	一个年轻人，一群年轻人	a young person, a group of young people	grupo	alternativoj	prononco
+level	junulo, junularo	年轻人，年轻人	a young person, a group of young people	grupo	alternativoj	prononco
 level	I-J-K estas "Internacia Junulara Kongreso"	IJK是国际青年大会	IJK is an International Youth Congress	grupo	alternativoj	prononco
-level	mi planas iri al ĝi	我正打算去做	I am planning to go for it	grupo	alternativoj	prononco
+level	mi planas iri al ĝi	我正打算去参加	I am planning to go for it	grupo	alternativoj	prononco
 level	ĉu ankaŭ vi volas iri?	你也想去吗？	do you want to go too?	grupo	alternativoj	prononco
-level	nu, "kongreso" ne sonas tre interese	好吧，“国会”听起来不太有趣	well, "congress" doesn't sound very interesting	grupo	alternativoj	prononco
+level	nu, "kongreso" ne sonas tre interese	但，“大会”听起来不太有趣	well, "congress" doesn't sound very interesting	grupo	alternativoj	prononco
 level	sed estas (interese)!	但这是（有趣的）	but it is (interesting)	grupo	alternativoj	prononco
-level	ne pensu pri iu teda malvigla kongreso	不要想一些无聊呆滞的事情	do not think of something boring sluggish congress	grupo	alternativoj	prononco
-level	simple temas pri ~	只是关于~	it's just about ~ 	grupo	alternativoj	prononco
-level	simple temas pri renkonto kun junuloj	这只是为了结识年轻人	it's just about meeting young people	grupo	alternativoj	prononco
+level	ne pensu pri iu teda malvigla kongreso	不要想无聊的事情	do not think of something boring sluggish congress	grupo	alternativoj	prononco
+level	simple temas pri ~	只是简单的说~	it's just about ~ 	grupo	alternativoj	prononco
+level	simple temas pri renkonto kun junuloj	这只是结识年轻人的事	it's just about meeting young people	grupo	alternativoj	prononco
 level	renkonto kun junuloj de multaj landoj	与来自多个国家的年轻人的会面	a meeting with young people from many countries	grupo	alternativoj	prononco
-level	300 ĝis 400 homoj estos tie	届时将有300至400人	300 to 400 people will be there	grupo	alternativoj	prononco
+level	300 ĝis 400 homoj estos tie	届时将有300至400人在那儿	300 to 400 people will be there	grupo	alternativoj	prononco
 level	verŝajne estos 300 ĝis 400 homoj tie	那里可能有300到400人	there will probably be 300 to 400 people there	grupo	alternativoj	prononco
 level	preskaŭ ĉiuj	几乎每个人	almost everybody	grupo	alternativoj	prononco
 level	kaj preskaŭ ĉiuj parolos Esperanton	几乎每个人都会说世界语	and almost everybody will speak Esperanto	grupo	alternativoj	prononco
@@ -251,52 +251,52 @@ level	kutime estas du niveloj	通常有两个级别	usually there are two levels
 level	homoj, kiuj jam eklernis la lingvon	已经学过该语言的人	people who had already learned the language	grupo	alternativoj	prononco
 level	unu por komencantoj	适合初学者的一个	one for beginners	grupo	alternativoj	prononco
 level	kaj alia por homoj kiuj jam eklernis la lingvon	另一个适合那些已经学过该语言的人	and the other for those who already learned the language	grupo	alternativoj	prononco
-level	jes, kio?	天哪，什么？	jes, what?	grupo	alternativoj	prononco
+level	jes, kio?	是的，什么？	jes, what?	grupo	alternativoj	prononco
 level	vi diris, "kutime"	你说“通常”	you said, "usually"	grupo	alternativoj	prononco
-level	ha, IJK okazas ĉiu-jare	哦，IJK每年都会发生	oh, IJK happens every year	grupo	alternativoj	prononco
-level	ĉiu-foje en alia lando	每次在其他国家	every time in other country	grupo	alternativoj	prononco
-level	pro tio, ĉiu IJK estas alispeca	因此，每个 IJK 都是不同的	for this reason, every IJK is different	grupo	alternativoj	prononco
+level	ha, IJK okazas ĉiu-jare	哦，国际青年大会是每年进行的	oh, IJK happens every year	grupo	alternativoj	prononco
+level	ĉiu-foje en alia lando	每次在不同国家	every time in other country	grupo	alternativoj	prononco
+level	pro tio, ĉiu IJK estas alispeca	因此，每个国际青年大会都是不同的	for this reason, every IJK is different	grupo	alternativoj	prononco
 level	sed ankaŭ estas programeroj	但也有节目	but there are also programs	grupo	alternativoj	prononco
 level	programeroj, kiuj ofte revenas	经常返回的程序	programs that returns often	grupo	alternativoj	prononco
 level	sed ankaŭ estas programeroj, kiuj ofte revenas	但也有经常返回的程序	but there're also programs that returns often	grupo	alternativoj	prononco
 level	ekzemple	例如	for example	grupo	alternativoj	prononco
 level	ekzemple, preskaŭ ĉiam eblas sportumi, kart-ludi	例如，几乎总是可以进行体育运动和打牌	for example, it is almost always possible to play sports and cards	grupo	alternativoj	prononco
 level	babili kun amikoj dum la tuta nokto	和朋友聊一整晚	to talk with friends all night	grupo	alternativoj	prononco
-level	kanti ĉirkaŭ fajro kaj danci	围着火唱歌跳舞	to sing around fire and to dance	grupo	alternativoj	prononco
+level	kanti ĉirkaŭ fajro kaj danci	围着篝火唱歌和跳舞	to sing around fire and to dance	grupo	alternativoj	prononco
 level	partopreni koncertojn, ktp	参加音乐会等	to take part in concerts, and so forth	grupo	alternativoj	prononco
-level	nu, tion mi povas fari ankaŭ hejme	嗯，我也可以在家做	well, I can do that at home too	grupo	alternativoj	prononco
+level	nu, tion mi povas fari ankaŭ hejme	嗯，我把那个在家也可以做	well, I can do that at home too	grupo	alternativoj	prononco
 level	prave, sed	对，但是	right, but	grupo	alternativoj	prononco
-level	sed la grava afero dum IJK estas ~	但IJK期间最重要的是~	but the important thing during IJK is ~	grupo	alternativoj	prononco
+level	sed la grava afero dum IJK estas ~	但国际青年大会期间最重要的是~	but the important thing during IJK is ~	grupo	alternativoj	prononco
 level	venas de multaj diversaj landoj	来自许多不同的国家	comes from many different countries	grupo	alternativoj	prononco
-level	estas ke la partoprenantoj venas de diversaj landoj	是参与者来自不同的国家	is that the participants come from different countries	grupo	alternativoj	prononco
-level	pro tiu mikso de diversaj homoj	因为不同人的混合	because of that mix of different people	grupo	alternativoj	prononco
-level	estas bona etoso, kiu tre plaĉas al mi	这是我非常喜欢的良好氛围	it's a good atmosphere that I like very much	grupo	alternativoj	prononco
+level	estas ke la partoprenantoj venas de diversaj landoj	是来自不同国家的参与者	is that the participants come from different countries	grupo	alternativoj	prononco
+level	pro tiu mikso de diversaj homoj	因为不同人混在一起	because of that mix of different people	grupo	alternativoj	prononco
+level	estas bona etoso, kiu tre plaĉas al mi	这是我非常喜欢的氛围	it's a good atmosphere that I like very much	grupo	alternativoj	prononco
 level	bone, sonas interese	好吧，听起来很感兴趣	all right, sounds like interest	grupo	alternativoj	prononco
 level	mi pripensos	我会考虑	I will think about	grupo	alternativoj	prononco
 level	certe	一定	for sure	grupo	alternativoj	prononco
-level	tamen, problemo estas ~	然而，有一个问题是~	however, a problem is ~	grupo	alternativoj	prononco
+level	tamen, problemo estas ~	但有个问题是~	however, a problem is ~	grupo	alternativoj	prononco
 level	tiom da mono	那么多钱	that much money	grupo	alternativoj	prononco
 level	mi ne havas tiom da mono nun	我现在没有那么多钱	I don't have that much money right now	grupo	alternativoj	prononco
 level	problemo estas ke mi ne havas tiom da mono	问题是我没有那么多钱	problem is I don't have that much money	grupo	alternativoj	prononco
 level	mi komprenas, sed ne estus multe-koste	明白，不过花不了多少钱	I understand, but it wouldn't cost much	grupo	alternativoj	prononco
 level	ne estus multe-koste, mia-krede	我相信不会很贵	it would not be much expensive, I believe	grupo	alternativoj	prononco
-level	tabelo de kotizo de programeroj	课程费用表	a table of fees of programs	grupo	alternativoj	prononco
-level	jen, se vi rigardas la kotiztabelon	也就是说，如果您查看份额/费用表	that is, if you look at the share/fees table	grupo	alternativoj	prononco
-level	la kotiztabelo de la IJK-invitilo	IJK邀请份额/费用表	the share/fees table of IJK-invitation	grupo	alternativoj	prononco
+level	tabelo de kotizo de programeroj	各节目费用表	a table of fees of programs	grupo	alternativoj	prononco
+level	jen, se vi rigardas la kotiztabelon	您查看份额/费用表	that is, if you look at the share/fees table	grupo	alternativoj	prononco
+level	la kotiztabelo de la IJK-invitilo	国际青年大会邀请份额/费用表	the share/fees table of IJK-invitation	grupo	alternativoj	prononco
 level	vi vidas, ke ~	你发现了~	you find that ~	grupo	alternativoj	prononco
 level	temas pri entute nur 50 eŭroj	总共只要 50 欧元	it's only 50 euros in total	grupo	alternativoj	prononco
 level	vi vidas, ke por vi temas pri entute nur 50 eŭroj	你看，对你来说总共只有 50 欧元	you see that for you it's only 50 euros in total	grupo	alternativoj	prononco
 level	se ni dormas surplanke	如果我们睡在地板上	if we sleep on the floor	grupo	alternativoj	prononco
-level	en ordo	好的	all right	grupo	alternativoj	prononco
-level	bone, tio sonas en ordo	嗯，听起来不错	well, that sounds fine	grupo	alternativoj	prononco
+level	en ordo	一切正常	all right	grupo	alternativoj	prononco
+level	bone, tio sonas en ordo	好的，听起来一切正常	well, that sounds fine	grupo	alternativoj	prononco
 level	sed kio pri la vojaĝo	但是旅行呢	but what about the travel	grupo	alternativoj	prononco
 level	trajno kostus ĉirkaŭ 70 eŭrojn	火车费用约为70欧元	a train would cost around 70 euros	grupo	alternativoj	prononco
 level	ĉu tio eblus por vi?	这对你来说可能吗？	would that be possible for you?	grupo	alternativoj	prononco
 level	espereble	希望	hopefully	grupo	alternativoj	prononco
-level	sed daŭrus sufiĉe longe per trajno	但坐火车可以持续足够长的时间	but would last long enough by train	grupo	alternativoj	prononco
+level	sed daŭrus sufiĉe longe per trajno	但坐火车需要足够长的时间	but would last long enough by train	grupo	alternativoj	prononco
 level	jes, sed ni povas halti en unu aŭ du urboj	是的，但我们可以在一两个城市停留	yes, but we can stop in one or two cities	grupo	alternativoj	prononco
-level	dum la vojo	一路上	along the way	grupo	alternativoj	prononco
-level	kaj la tranoktado?	和晚上住宿？	and the night stay?	grupo	alternativoj	prononco
+level	dum la vojo	在路上	along the way	grupo	alternativoj	prononco
+level	kaj la tranoktado?	住宿呢？	and the night stay?	grupo	alternativoj	prononco
 level	ĉu vi pagus por ĝi?	你愿意付钱吗？	would you pay for it?	grupo	alternativoj	prononco
 level	ne, ne mi, sed ne estas problemo	不，不是我，但这不是问题	no, not me, but it's not a problem	grupo	alternativoj	prononco
 level	ĉu vere, ke tio ne estas problemo?	难道这真的不是问题吗？	is it really that this is not a problem?	grupo	alternativoj	prononco
@@ -311,25 +311,25 @@ level	io daŭras, daŭrigas tion	某件事正在发生，继续（做）这件�
 level	plano, plani, planado	计划，计划，计划	a plan, to plan, planning	grupo	alternativoj	prononco
 level	ŝi kaj li daŭrigas la planadon	她和他继续计划	she and he continue the planning	grupo	alternativoj	prononco
 level	bonvolu, jen via teo	请，这是您的茶	please, here's your tea	grupo	alternativoj	prononco
-level	mi dume rigardis la invitilon	与此同时我看了看邀请函	meanwhile I looked at the invitation	grupo	alternativoj	prononco
-level	rigardis la invitilon por IJK	看了IJK的邀请函	looked at the invitation of IJK	grupo	alternativoj	prononco
+level	mi dume rigardis la invitilon	同时我看了邀请函	meanwhile I looked at the invitation	grupo	alternativoj	prononco
+level	rigardis la invitilon por IJK	看了国际青年大会的邀请函	looked at the invitation of IJK	grupo	alternativoj	prononco
 level	mi multon komprenas, sed ne ĉion	我明白了很多，但不是全部	I understand much, but not all	grupo	alternativoj	prononco
 level	bone bone, nur demandu	好吧好吧，就问吧	all right all right, just ask	grupo	alternativoj	prononco
 level	jen la aferoj	这是这些东西	here are the things	grupo	alternativoj	prononco
 level	klaraj aferoj	清楚的事情	clear things	grupo	alternativoj	prononco
-level	la aferoj kiuj estas malklaraj	那些令人困惑的事情	the things that are confusing	grupo	alternativoj	prononco
-level	estas malklaraj por mi	让我感到困惑	are confusing to me	grupo	alternativoj	prononco
-level	aliĝi, aliĝilo	加入，登记表	to join, a registration form	grupo	alternativoj	prononco
-level	TEJO (la organizo)	世界世界语青年组织	The World Esperanto Youth Organization	grupo	alternativoj	prononco
-level	Pepo (la TEJO-birdo)	Pepo，代表 TEJO 的鸟	Pepo, a bird that represents the TEJO	grupo	alternativoj	prononco
-level	loĝi, loĝejo	停留，住宿的地方（住宿）	to stay, a place to stay (a lodging)	grupo	alternativoj	prononco
-level	amasloĝejo	为大众提供住宿	a lodging for mass people	grupo	alternativoj	prononco
-level	aliĝilo estas ilo por al-iĝi	注册表是一种注册工具	a registration form is a tool for registering	grupo	alternativoj	prononco
+level	la aferoj kiuj estas malklaraj	那些不明确的事情	the things that are confusing	grupo	alternativoj	prononco
+level	estas malklaraj por mi	对我不明确	are confusing to me	grupo	alternativoj	prononco
+level	aliĝi, aliĝilo	报名，登记表	to join, a registration form	grupo	alternativoj	prononco
+level	TEJO (la organizo)	全世界世界语青年组织	The World Esperanto Youth Organization	grupo	alternativoj	prononco
+level	Pepo (la TEJO-birdo)	Pepo，象征 TEJO 的鸟	Pepo, a bird that represents the TEJO	grupo	alternativoj	prononco
+level	loĝi, loĝejo	住，住宿	to stay, a place to stay (a lodging)	grupo	alternativoj	prononco
+level	amasloĝejo	集体住宿	a lodging for mass people	grupo	alternativoj	prononco
+level	aliĝilo estas ilo por al-iĝi	注册表是一种注册的工具	a registration form is a tool for registering	grupo	alternativoj	prononco
 level	aliĝilo en kiu vi skribas vian nomon, adreson ktp	您填写姓名、地址等的会员表格	a membership form in which you write your name, address, etc	grupo	alternativoj	prononco
 level	longa, mallongigo	长，缩写	long, an abbreviation	grupo	alternativoj	prononco
-level	mallongigo de Tutmonda Esperantista Junulara Organizo	世界世界语青年组织的缩写	an abbreviation of the World Esperanto Youth Organization	grupo	alternativoj	prononco
-level	Pepo estas la amuza birdo de TEJO	Pepo 是 TEJO 的有趣鸟	Pepo is the funny bird of TEJO	grupo	alternativoj	prononco
-level	amasloĝejo estas ejo kie amaso de homoj loĝas	大众住宿是很多人住宿的地方	a mass-lodging is a place where a lot of people stay	grupo	alternativoj	prononco
+level	mallongigo de Tutmonda Esperantista Junulara Organizo	全世界世界语青年组织的缩写	an abbreviation of the World Esperanto Youth Organization	grupo	alternativoj	prononco
+level	Pepo estas la amuza birdo de TEJO	Pepo 是 TEJO 的象徵鸟	Pepo is the funny bird of TEJO	grupo	alternativoj	prononco
+level	amasloĝejo estas ejo kie amaso de homoj loĝas	集体住宿是很多人住宿的地方	a mass-lodging is a place where a lot of people stay	grupo	alternativoj	prononco
 level	dormo, dormigilo, dormosako	一次睡眠、一颗安眠药、一个睡袋	a sleep, a sleeping pill, a sleeping bag	grupo	alternativoj	prononco
 level	kutime oni bezonas dormosakon tie	通常在那里需要一个睡袋	usually one needs a sleeping bag there	grupo	alternativoj	prononco
 level	vi klarigis tro rapide	你解释得太快了	you explained too quickly	grupo	alternativoj	prononco
@@ -337,218 +337,218 @@ level	mi ne kaptis ĉion	我没有抓住一切	I didn't catch everything	grupo	a
 level	ne tre gravas	没那么重要	is not that important	grupo	alternativoj	prononco
 level	mi pensas ke ne tre gravas nun	我认为现在不是很重要	I think it's not very important now	grupo	alternativoj	prononco
 level	poste ni povas pli paroli	稍后我们可以多聊聊	later we can talk more	grupo	alternativoj	prononco
-level	pli paroli pri la IJK-invitilo	更多关于IJK邀请的话题	more to talk about the IJK invitation	grupo	alternativoj	prononco
+level	pli paroli pri la IJK-invitilo	多说关于IJK邀请函的话题	more to talk about the IJK invitation	grupo	alternativoj	prononco
 level	do, vi volas plani la vojaĝon nun, ĉu?	所以你现在就想计划旅行，对吗？	so you want to plan the travel now, right?	grupo	alternativoj	prononco
 level	jes, volonte	是的，很高兴	yes, gladly	grupo	alternativoj	prononco
 level	tiel vi vidos ke ~	所以你会看到的~	so you will see that ~	grupo	alternativoj	prononco
-level	kostos tiom multe	会花那么多钱	will cost that much	grupo	alternativoj	prononco
+level	kostos tiom multe	费用会那么多	will cost that much	grupo	alternativoj	prononco
 level	vidos ke la vojaĝo ne kostos tiom multe	会发现旅行不会花费那么多	will see that the travel will not cost that much	grupo	alternativoj	prononco
 level	mi volas scii	我想知道	I want to know	grupo	alternativoj	prononco
 level	mi scivolas pri ~	我想了解一下~	I want to know about ~	grupo	alternativoj	prononco
-level	kiel vi solvos la tranoktadon	你将如何解决过夜问题	how you will solve the night-staying	grupo	alternativoj	prononco
+level	kiel vi solvos la tranoktadon	你将如何解决宿舍问题	how you will solve the night-staying	grupo	alternativoj	prononco
 level	ĉar mi ne havas monon	因为我没有钱	because I don't have money	grupo	alternativoj	prononco
-level	junulara gastejo	一个青年旅社	a youth hostel	grupo	alternativoj	prononco
+level	junulara gastejo	青年宿舍	a youth hostel	grupo	alternativoj	prononco
 level	havas monon por hotelo aŭ junulargastejo	有钱住酒店或青年旅馆	has money for a hotel or a youth-hostel	grupo	alternativoj	prononco
 level	jen la solvo!	这是解决方案	here's the solution	grupo	alternativoj	prononco
-level	pasporto	一个护照	a passport	grupo	alternativoj	prononco
-level	Pasporta Servo	护照服务、世界语专家寄宿家庭	Passport Service, Esperantists' Home Stay	grupo	alternativoj	prononco
-level	libreto kun la nomo "Pasporta Servo"	名为“护照服务”的小册子	booklet with the name "Passport Service"	grupo	alternativoj	prononco
-level	servo por kio?	服务为了什么？	service for what?	grupo	alternativoj	prononco
-level	por homoj kiel ni	对于像我们这样的人	for people like us	grupo	alternativoj	prononco
+level	pasporto	护照	a passport	grupo	alternativoj	prononco
+level	Pasporta Servo	住宿服务、世界语专家寄宿家庭	Passport Service, Esperantists' Home Stay	grupo	alternativoj	prononco
+level	libreto kun la nomo "Pasporta Servo"	名为“住宿服务”的小册子	booklet with the name "Passport Service"	grupo	alternativoj	prononco
+level	servo por kio?	服务什么？	service for what?	grupo	alternativoj	prononco
+level	por homoj kiel ni	为我们这样的人	for people like us	grupo	alternativoj	prononco
 level	sperti, spertulo	去体验，去专家	to experience, an expert	grupo	alternativoj	prononco
-level	homoj kiuj ŝatas vojaĝi kaj sperti landojn	喜欢旅行和体验国家的人	people who like to travel and experience countries	grupo	alternativoj	prononco
+level	homoj kiuj ŝatas vojaĝi kaj sperti landojn	有经验的人	people who like to travel and experience countries	grupo	alternativoj	prononco
 level	enspezi kaj elspezi	赚钱和消费	to earn and to spend	grupo	alternativoj	prononco
 level	sen elspezi multe da mono	无需花很多钱	without spending a lot of money	grupo	alternativoj	prononco
-level	servo, la servo, tiu servo	一项服务，一项服务，一项服务	a service, the service, that service	grupo	alternativoj	prononco
-level	bone, kaj kiel funkcias tiu servo?	那么，这项服务是如何运作的呢？	well, and how does that service work?	grupo	alternativoj	prononco
-level	mi vidas ke en la libreto estas ~	我看书上有~	I see that in the booket there is ~	grupo	alternativoj	prononco
+level	servo, la servo, tiu servo	服务，服务，服务	a service, the service, that service	grupo	alternativoj	prononco
+level	bone, kaj kiel funkcias tiu servo?	那么，这项服务怎么样呢？	well, and how does that service work?	grupo	alternativoj	prononco
+level	mi vidas ke en la libreto estas ~	我在书上看到~	I see that in the booket there is ~	grupo	alternativoj	prononco
 level	multe da adresoj	很多地址	lots of addresses	grupo	alternativoj	prononco
-level	estas multe da adresoj de pluraj landoj	有来自多个国家的许多地址	there are many addresses from several countries	grupo	alternativoj	prononco
+level	estas multe da adresoj de pluraj landoj	来自多个国家的许多地址	there are many addresses from several countries	grupo	alternativoj	prononco
 level	ĝuste, jes!	对，是的！	right, yes!	grupo	alternativoj	prononco
 level	je via dispono	由你处置	at your disposal	grupo	alternativoj	prononco
 level	ili ĉiuj	他们所有人，他们所有人	they all, all of them	grupo	alternativoj	prononco
-level	fakte ili ĉiuj estas je via dispono!	事实上，它们都可供您使用！	in fact they are all at your disposal!	grupo	alternativoj	prononco
+level	fakte ili ĉiuj estas je via dispono!	事实上，它们都有你决定！	in fact they are all at your disposal!	grupo	alternativoj	prononco
 level	signifis, signifo	意思是，意思是	meant, meaning	grupo	alternativoj	prononco
-level	"je mia dispono", kion signifas tio?	“由我支配”是什么意思？	"at my disposal", what does that mean?	grupo	alternativoj	prononco
+level	"je mia dispono", kion signifas tio?	“由我安排”是什么意思？	"at my disposal", what does that mean?	grupo	alternativoj	prononco
 level	signifas ke ~	意思是~	means that ~	grupo	alternativoj	prononco
 level	gasti, gasto, gastigi	接待客人，接待客人，接待客人	to guest, a guest, to host a guest	grupo	alternativoj	prononco
 level	estas preta, pretas, pretiĝu!	准备好了，准备好了，准备好了！	is ready, is prepared, get ready!	grupo	alternativoj	prononco
 level	homoj ĉe tiuj adresoj pretas gastigi vin	这些地址的人员已准备好接待您	people at those addresses are ready to host you	grupo	alternativoj	prononco
 level	koni, konata, konatiĝi	认识（一个人），被认识，被认识	to know (a person), known, to get to be known	grupo	alternativoj	prononco
-level	kaj helpi vin konatiĝi kun ilia regiono	并帮助您熟悉他们的地区	and help you get acquainted with their region	grupo	alternativoj	prononco
+level	kaj helpi vin konatiĝi kun ilia regiono	并帮助您了解他们的地区	and help you get acquainted with their region	grupo	alternativoj	prononco
 level	signifas ke homoj pretas gastigi vin kaj helpi	意味着人们愿意接待您并提供帮助	means people are willing to host you and help	grupo	alternativoj	prononco
 level	sonas interese!	听起来不错！	sounds interesting!	grupo	alternativoj	prononco
 level	do	所以	so	grupo	alternativoj	prononco
-level	oni loĝas en la hejmo de aliaj Esperantistoj, ĉu?	有人住在其他世界语学者的家里，对吗？	somebody stays in the home of other Esperantists, right?	grupo	alternativoj	prononco
-level	pluraj spertoj per Pasporta Servo	护照服务的一些经验	several experiences with Passport Service	grupo	alternativoj	prononco
+level	oni loĝas en la hejmo de aliaj Esperantistoj, ĉu?	可以住其他世界语学者的家，对吗？	somebody stays in the home of other Esperantists, right?	grupo	alternativoj	prononco
+level	pluraj spertoj per Pasporta Servo	通过住宿服务的一些经验	several experiences with Passport Service	grupo	alternativoj	prononco
 level	mi havis plurajn interesajn spertojn	我有过几次有趣的经历	I had several interesting experiences	grupo	alternativoj	prononco
 level	mi uzis ĝin en tri kontinentoj	我已经在三大洲使用过它	I have used it on three continents	grupo	alternativoj	prononco
 level	malbone funkcias	（它）效果不佳	(it) works poorly	grupo	alternativoj	prononco
-level	kaj ĝis nun funkciis tre bone	到目前为止（它）效果很好	and so far (it) has worked very well	grupo	alternativoj	prononco
-level	bonege! kien ni iru?	伟大的！我们去哪？	great! where are we going?	grupo	alternativoj	prononco
-level	do, mia plano estas ke ni ~	所以，我的计划是我们~	so, my plan is that we ~	grupo	alternativoj	prononco
+level	kaj ĝis nun funkciis tre bone	到目前为止效果很好	and so far (it) has worked very well	grupo	alternativoj	prononco
+level	bonege! kien ni iru?	挺好的！我们去哪？	great! where are we going?	grupo	alternativoj	prononco
+level	do, mia plano estas ke ni ~	所以，我的计划是~	so, my plan is that we ~	grupo	alternativoj	prononco
 level	venas, alvenis	来了，到达了	comes, arrived	grupo	alternativoj	prononco
-level	post sukcesa vojaĝo	成功旅行后	after a successful trip	grupo	alternativoj	prononco
-level	post uzado de Pasporta Servo en du urboj	在两个城市使用护照服务后	after using Passport Service in two cities	grupo	alternativoj	prononco
-level	ili alvenas post sukcesa vojaĝo	他们在一次成功的旅行后抵达	they arrive after a successful trip	grupo	alternativoj	prononco
+level	post sukcesa vojaĝo	成功的旅行后	after a successful trip	grupo	alternativoj	prononco
+level	post uzado de Pasporta Servo en du urboj	在两个城市使用住宿服务后	after using Passport Service in two cities	grupo	alternativoj	prononco
+level	ili alvenas post sukcesa vojaĝo	他们成功的旅行后回来了	they arrive after a successful trip	grupo	alternativoj	prononco
 level	jen, vidu!	看哪，看哪！	behold, look!	grupo	alternativoj	prononco
-level	tie estas granda Esperanto-flago	那边有一面巨大的世界语旗帜	there's a big Esperanto flag over there	grupo	alternativoj	prononco
+level	tie estas granda Esperanto-flago	那边有一个巨大的世界语旗帜	there's a big Esperanto flag over there	grupo	alternativoj	prononco
 level	ŝildo kun la teksto "Bonvenon al IJK!"	一个写着“欢迎来到 IJK！”的牌子	a sign with the text "Welcome to IJK!"	grupo	alternativoj	prononco
 level	jes, kaj sub ĝi estas ~	是的，下面还有~	yes, and below it there is ~	grupo	alternativoj	prononco
 level	hu ra!	万岁！	Hooray!	grupo	alternativoj	prononco
-level	ni do finfine alvenis	所以我们终于到达了	so we finally arrived	grupo	alternativoj	prononco
+level	ni do finfine alvenis	我们终于到达了	so we finally arrived	grupo	alternativoj	prononco
 level	mi estas tre laca kaj malsata	我又累又饿	I am very tired and hungry	grupo	alternativoj	prononco
 level	ĉu vi pensas ke ni povas ~	你觉得我们可以吗~？	do you think we can ~ ?	grupo	alternativoj	prononco
 level	manĝi ion	吃东西	to eat something	grupo	alternativoj	prononco
 level	ĉu vi pensas ke ni povas tuj ion manĝi?	你认为我们可以马上吃点东西吗？	do you think we can eat something right away?	grupo	alternativoj	prononco
-level	mi dubas pri tio	我不信	I doubt that	grupo	alternativoj	prononco
+level	mi dubas pri tio	我看这不行	I doubt that	grupo	alternativoj	prononco
 level	unue ni devas akceptiĝi	我们必须首先被接受	we must first be accepted	grupo	alternativoj	prononco
 level	devas akceptiĝi ĉe la akceptejo	必须在接待处接受	must be accepted at the reception desk	grupo	alternativoj	prononco
 level	kaj tio povas daŭri longe	这可以持续很长时间	and that can last a long time	grupo	alternativoj	prononco
 level	daŭri longe miasperte	根据我的经验，可以持续很长时间	to last long in my experience	grupo	alternativoj	prononco
 level	ho ve!	唉！	alas!	grupo	alternativoj	prononco
-level	ĉu tio estas la vico por la akceptejo?	这是接待处的电话吗？	is that the line for the reception?	grupo	alternativoj	prononco
+level	ĉu tio estas la vico por la akceptejo?	那是要报名的排队吗？	is that the line for the reception?	grupo	alternativoj	prononco
 level	mi timas ke jes	恐怕是这样	I'm afraid so	grupo	alternativoj	prononco
-level	ne estas tute perfekte fari ~	要做~并不完全完美	to do ~ is not totally perfect	grupo	alternativoj	prononco
+level	ne estas tute perfekte fari ~	要做~并不是完美的	to do ~ is not totally perfect	grupo	alternativoj	prononco
 level	tute perfekte alveni vespere	晚上到达非常完美	is totally perfect to arrive in the evening	grupo	alternativoj	prononco
-level	ni povas babili kun homoj	我们可以和人聊天	we can chat with people	grupo	alternativoj	prononco
+level	ni povas babili kun homoj	我们可以和别人聊天	we can chat with people	grupo	alternativoj	prononco
 level	sed ni povas babili kun homoj en la vico	但我们可以和排队的人聊天	but we can chat with people in line	grupo	alternativoj	prononco
-level	jen, mi vidas amikon de rusio!	看哪，我看到了俄罗斯的朋友！	behold, I see a friend of Russia!	grupo	alternativoj	prononco
+level	jen, mi vidas amikon de rusio!	我看到了来自俄罗斯的朋友！	behold, I see a friend of Russia!	grupo	alternativoj	prononco
 level	mi estas malsata, mi volas manĝi	我饿了，我想吃东西	I'm hungry, I want to eat	grupo	alternativoj	prononco
 level	post ĉirkaŭ 2 horoj	约2小时后	after about 2 hours	grupo	alternativoj	prononco
-level	en la vico kun novaj kaj malnovaj amikoj	配合新老朋友	in line with new and old friends	grupo	alternativoj	prononco
-level	LKK (Loka Kongresa Komitato)	地方代表大会委员会	local congress commitee	grupo	alternativoj	prononco
-level	LKK-ano	地方人大常委会委员	a member in the local congress commitee	grupo	alternativoj	prononco
-level	bonvenon, kiu vi estas?	欢迎光临，你是谁？	welcome, who are you?	grupo	alternativoj	prononco
+level	en la vico kun novaj kaj malnovaj amikoj	新老朋友排在一起	in line with new and old friends	grupo	alternativoj	prononco
+level	LKK (Loka Kongresa Komitato)	地方大会委员会	local congress commitee	grupo	alternativoj	prononco
+level	LKK-ano	地方大会的组委委员	a member in the local congress commitee	grupo	alternativoj	prononco
+level	bonvenon, kiu vi estas?	欢迎光临，你叫什么名字？	welcome, who are you?	grupo	alternativoj	prononco
 level	de kiu lando?	从哪个国家来的？	from which country?	grupo	alternativoj	prononco
 level	ĉu vi antaŭpagis?	你预付了吗？	did you prepay?	grupo	alternativoj	prononco
-level	bonvolu montri	请展示	please show	grupo	alternativoj	prononco
+level	bonvolu montri	请出示	please show	grupo	alternativoj	prononco
 level	se jes, bonvolu montri la kvitancon	如果是，请出示收据	if so, please show the receipt	grupo	alternativoj	prononco
 level	ĉu vi estas TEJO-membro?	您是 TEJO 会员吗？	are you a member of TEJO?	grupo	alternativoj	prononco
-level	membriĝi ĉe la budo	成为展位会员	to become a member at a booth	grupo	alternativoj	prononco
-level	se ne, vi povas membriĝi ĉe la venonta budo	如果没有，您可以到下一个摊位参加	if not, you can join at the next booth	grupo	alternativoj	prononco
+level	membriĝi ĉe la budo	在报名处登记	to become a member at a booth	grupo	alternativoj	prononco
+level	se ne, vi povas membriĝi ĉe la venonta budo	如果不是，您可以到下一个摊位报名	if not, you can join at the next booth	grupo	alternativoj	prononco
 level	jen kvitancoj de antaŭpagoj	这是预付款收据	here are receipts of advance payments	grupo	alternativoj	prononco
 level	membrokartoj kaj niaj pasportoj	会员卡和护照	membership cards and our passports	grupo	alternativoj	prononco
 level	tre bone	非常好	very good	grupo	alternativoj	prononco
-level	do, mi vidas ke vi loĝos en amasloĝejo	所以，我知道你会住在集体住宿（紧急空间）	so, I see you will live in a mass-lodging (crash space)	grupo	alternativoj	prononco
+level	do, mi vidas ke vi loĝos en amasloĝejo	我知道你会住在集体住宿	so, I see you will live in a mass-lodging (crash space)	grupo	alternativoj	prononco
 level	kaj manĝos en la junulargastejo	并会在青年旅舍吃饭	and will eat in the youth hostel	grupo	alternativoj	prononco
 level	ĉu ĝustas tiuj informoj?	这些信息正确吗？	are those information correct?	grupo	alternativoj	prononco
-level	jes, perfekte	是的，完美	yes, perfect	grupo	alternativoj	prononco
-level	sako kun programo, mapo ktp	一个装有节目、地图等的袋子	a bag with program, map etc	grupo	alternativoj	prononco
+level	jes, perfekte	是的，正确	yes, perfect	grupo	alternativoj	prononco
+level	sako kun programo, mapo ktp	装有节目单、地图等的袋子	a bag with program, map etc	grupo	alternativoj	prononco
 level	vi povas pagi kaj ricevi sakon kun programo, mapo ktp	您可以支付并收到一个装有节目、地图等的包	you can pay and receive a bag with program, map etc	grupo	alternativoj	prononco
-level	ĉe la ruĝa budo, tie	在红色摊位那里	at the red booth, there	grupo	alternativoj	prononco
-level	bone, dankon	好的谢谢你	good, thank you	grupo	alternativoj	prononco
+level	ĉe la ruĝa budo, tie	在那里的红色摊位	at the red booth, there	grupo	alternativoj	prononco
+level	bone, dankon	好的, 谢谢你	good, thank you	grupo	alternativoj	prononco
 level	aspektas laca sed sana	看起来很累但是很健康	looks tired but healthy	grupo	alternativoj	prononco
 level	tiuj personoj vere aspektis lacaj	那些人看起来真的很累	those people really looked tired	grupo	alternativoj	prononco
-level	kaj ne estis tre afablaj	并且不是很友善	and were not very kind	grupo	alternativoj	prononco
+level	kaj ne estis tre afablaj	并且不是很友好	and were not very kind	grupo	alternativoj	prononco
 level	vi pravas	你是对的	you are right	grupo	alternativoj	prononco
-level	sed memoru ke ~	但请记住这一点~	but remember that ~	grupo	alternativoj	prononco
+level	sed memoru ke ~	但请记住~	but remember that ~	grupo	alternativoj	prononco
 level	laboras dum ok horoj	工作8小时	are working for 8 hours	grupo	alternativoj	prononco
-level	la LKK laboras jam dum eble ok horoj	LKK 已经工作了大约八个小时	the LKK has been working for maybe eight hours	grupo	alternativoj	prononco
-level	sen multe da paŭzoj	没有太多停顿	without much pause	grupo	alternativoj	prononco
-level	sed memoru ke la LKK laboras sen paŭzoj	但请记住，李锦记的工作不间断	but remember that the LKK works without breaks	grupo	alternativoj	prononco
-level	babilema dum la semajno	本周很健谈	chatty during the week	grupo	alternativoj	prononco
+level	la LKK laboras jam dum eble ok horoj	LKK 已经工作了八个小时	the LKK has been working for maybe eight hours	grupo	alternativoj	prononco
+level	sen multe da paŭzoj	没有太多休息	without much pause	grupo	alternativoj	prononco
+level	sed memoru ke la LKK laboras sen paŭzoj	但记住，LKK不间断的工作	but remember that the LKK works without breaks	grupo	alternativoj	prononco
+level	babilema dum la semajno	在平日说话更多	chatty during the week	grupo	alternativoj	prononco
 level	mi certas ke ~	我确定~	I'm sure that ~	grupo	alternativoj	prononco
-level	mi certas ke ili estos pli afablaj	我相信他们会更友善	I'm sure they'll be kinder	grupo	alternativoj	prononco
-level	ili estos pli afablaj kaj babilemaj	他们会更友善、更健谈	they will be kinder and more talkative	grupo	alternativoj	prononco
-level	ni trovu ĝin	让我们找到它	let's find it	grupo	alternativoj	prononco
-level	bone, nun ni trovu la amasloĝejon	好吧，现在我们去找集体住宿的地方	well, now let's find the mass-lodging place	grupo	alternativoj	prononco
+level	mi certas ke ili estos pli afablaj	我相信他们会更友好	I'm sure they'll be kinder	grupo	alternativoj	prononco
+level	ili estos pli afablaj kaj babilemaj	他们会更友好、更爱絮叨的	they will be kinder and more talkative	grupo	alternativoj	prononco
+level	ni trovu ĝin	我们找它	let's find it	grupo	alternativoj	prononco
+level	bone, nun ni trovu la amasloĝejon	好吧，现在我们去找集体住宿	well, now let's find the mass-lodging place	grupo	alternativoj	prononco
 level	kaj poste mi ŝatus ion manĝi	然后我想要吃点东西	and then I would like something to eat	grupo	alternativoj	prononco
-level	ĉu vi vidis la knabinon ĉe la TEJO-budo?	你看到TEJO展位上的那个女孩了吗？	did you see the girl at the TEJO booth?	grupo	alternativoj	prononco
-level	jes, kio pri ŝi?	是啊，那她呢？	yes, what about her?	grupo	alternativoj	prononco
+level	ĉu vi vidis la knabinon ĉe la TEJO-budo?	在TEJO摊店你看到那个女孩了吗？	did you see the girl at the TEJO booth?	grupo	alternativoj	prononco
+level	jes, kio pri ŝi?	是啊，有关她的什么呢？	yes, what about her?	grupo	alternativoj	prononco
 level	ĉu vi konas ŝin?	你认识她吗？	do you know her?	grupo	alternativoj	prononco
-level	bedaŭrinde ne	很不幸的是，不行	unfortunately no	grupo	alternativoj	prononco
+level	bedaŭrinde ne	很遗憾的，不	unfortunately no	grupo	alternativoj	prononco
 level	sed ŝi estas ege bela, ĉu ne?	但她很漂亮，不是吗？	but she's very pretty, isn't she?	grupo	alternativoj	prononco
 level	mi konsentas	我同意	I agree	grupo	alternativoj	prononco
 level	tamen ne bone komprenas	但不太明白	however does not understand well	grupo	alternativoj	prononco
 level	mi konsentas tamen ne komprenas	我同意，但我不明白	I agree but I don't understand	grupo	alternativoj	prononco
 level	ĉu al vi plaĉas inoj?	你喜欢女性吗？	do you like females?	grupo	alternativoj	prononco
-level	jes, mi volis diri al vi antaŭe	是的，我想先告诉你	yes, I want tell you before	grupo	alternativoj	prononco
-level	sed ial ne faris	但由于某种原因没有	but for some reason did not	grupo	alternativoj	prononco
-level	virinoj plaĉas al mi pli ol viroj	维里诺吉广场阿尔米普利奥尔维罗吉	virinoj plaĉas al mi pli ol viroj	grupo	alternativoj	prononco
-level	aspekte ktp	方面等	aspect etc	grupo	alternativoj	prononco
-level	ĉu, ĉu vi estas ?	你是吗？	are you, are you?	grupo	alternativoj	prononco
-level	jes, mi estas samseksemulo	是的，我是同性恋	yes, I am a homosexual	grupo	alternativoj	prononco
+level	jes, mi volis diri al vi antaŭe	是，我想先告诉你的	yes, I want tell you before	grupo	alternativoj	prononco
+level	sed ial ne faris	但由于某种原因不做了	but for some reason did not	grupo	alternativoj	prononco
+level	virinoj plaĉas al mi pli ol viroj	比起男人我更喜欢女人	virinoj plaĉas al mi pli ol viroj	grupo	alternativoj	prononco
+level	aspekte ktp	外表  等等	aspect etc	grupo	alternativoj	prononco
+level	ĉu, ĉu vi estas ?	你是~吗？	are you, are you?	grupo	alternativoj	prononco
+level	jes, mi estas samseksemulo	是的，我是同性恋的	yes, I am a homosexual	grupo	alternativoj	prononco
 level	oni ankaŭ povas diri lesbo	也可以说女同性恋	one can also say lesbian	grupo	alternativoj	prononco
 level	bone, mi tute ne sciis	好吧，我根本不知道	well, I didn't know at all	grupo	alternativoj	prononco
 level	sed mi ĝojas ke vi diris	但我很高兴你说	but I'm glad you said	grupo	alternativoj	prononco
-level	fakte mi ankaŭ ĝojas ke vi estas samseksemulo	事实上我很高兴你是同性恋	in fact I am glad that you are a homosexual	grupo	alternativoj	prononco
+level	fakte mi ankaŭ ĝojas ke vi estas samseksemulo	其实我也高兴你是同性恋	in fact I am glad that you are a homosexual	grupo	alternativoj	prononco
 level	vi estas la plej afabla kaj agrabla lesbo	你是最善良、最好的女同性恋	you are the kindest and nicest lesbian	grupo	alternativoj	prononco
 level	la plej agrabla lesbo kiun mi konas	我认识的最好的女同性恋	the nicest lesbian I know	grupo	alternativoj	prononco
-level	dankon! ĉu vi konas aliajn?	谢谢你！你认识其他人吗？	thank you! do you know others?	grupo	alternativoj	prononco
+level	dankon! ĉu vi konas aliajn?	谢谢！你认识其他人吗？	thank you! do you know others?	grupo	alternativoj	prononco
 level	sed kiel vi scias tion?	但你怎么知道呢？	but how do you know that?	grupo	alternativoj	prononco
 level	tiu knabino preferas virojn!	那个女孩更喜欢男人！	that girl prefers men!	grupo	alternativoj	prononco
 level	ĉiukaze mi kredas ke tiu knabino preferas virojn!	无论如何我相信女孩更喜欢男人！	in any case I believe that girl prefer men!	grupo	alternativoj	prononco
-level	tiu knabino pri kiu vi parolis	你说的那个女孩	that girl whom you were talking about	grupo	alternativoj	prononco
-level	ni vidos	我们拭目以待	we'll see	grupo	alternativoj	prononco
-level	en la amasloĝejo	在大众住宿场所（紧急空间）	in the mass lodging place (a crash space)	grupo	alternativoj	prononco
+level	tiu knabino pri kiu vi parolis	你说的那个女儿	that girl whom you were talking about	grupo	alternativoj	prononco
+level	ni vidos	我们会看到的	we'll see	grupo	alternativoj	prononco
+level	en la amasloĝejo	在集体住宿	in the mass lodging place (a crash space)	grupo	alternativoj	prononco
 level	bonan matenon!	早上好！	good morning!	grupo	alternativoj	prononco
 level	ĉu vi bone dormis?	你睡的好吗？	did you sleep well?	grupo	alternativoj	prononco
 level	apenaŭ vidas	几乎看不到	hardly see	grupo	alternativoj	prononco
 level	male, mi apenaŭ dormis	相反，我几乎无法入睡	on the contrary, I could hardly sleep	grupo	alternativoj	prononco
 level	sed kial?	但为什么？	but why?	grupo	alternativoj	prononco
 level	eble vi estis nervoza pri via unua IJK-tago?	也许您对第一天 IJK 感到紧张？	maybe you were nervous about your first IJK day?	grupo	alternativoj	prononco
-level	ne vere	并不真地	not really	grupo	alternativoj	prononco
+level	ne vere	不是真地	not really	grupo	alternativoj	prononco
 level	la tutan nokton, dum la tuta nokto	整夜，整夜	all night, all night long	grupo	alternativoj	prononco
 level	tre laŭte ronkis	鼾声很大	snored very loudly	grupo	alternativoj	prononco
-level	simple iu tre laŭte ronkis la tutan nokton	只是有人整夜打呼噜很大声	just someone snored very loudly all night	grupo	alternativoj	prononco
+level	simple iu tre laŭte ronkis la tutan nokton	只是有人整夜打呼噜声很大	just someone snored very loudly all night	grupo	alternativoj	prononco
 level	ne ĝenu min	别打扰我	don't bother me	grupo	alternativoj	prononco
 level	kaj tio ege ĝenis min	这让我很困扰	and that bothered me greatly	grupo	alternativoj	prononco
 level	ĉu vi ne aŭdis tion?	你没听到吗	didn't you hear that	grupo	alternativoj	prononco
 level	tute ne, mi profunde dormis	一点也不，我睡得很沉	not at all, I slept deeply	grupo	alternativoj	prononco
 level	ĉu mi forgesis diri al vi ke ~?	我是不是忘记告诉你了~？	did I forget to tell you that ~?	grupo	alternativoj	prononco
-level	orelo, ŝtopi, orelŝtopiloj	耳塞, 耳塞, 耳塞	ear, to plug, ear plugs	grupo	alternativoj	prononco
+level	orelo, ŝtopi, orelŝtopiloj	耳朵, 堵塞, 耳塞	ear, to plug, ear plugs	grupo	alternativoj	prononco
 level	indas uzi orelŝtopilojn	值得使用耳塞	it is worth using earplugs	grupo	alternativoj	prononco
 level	indas uzi ~	值得使用~	is worth using ~	grupo	alternativoj	prononco
 level	diris al vi ke indas uzi orelŝtopilojn	告诉你值得使用耳塞	told you it's worth using earplugs	grupo	alternativoj	prononco
-level	kiam vi dormas en amasloĝejo	当你在集体住宿（坠机地点）睡觉时	when you sleep at a mass lodging (crash place)	grupo	alternativoj	prononco
+level	kiam vi dormas en amasloĝejo	当你在集体住宿睡觉时	when you sleep at a mass lodging (crash place)	grupo	alternativoj	prononco
 level	evidente jes	显然是的	obviously yes	grupo	alternativoj	prononco
 level	ho, kompatinda Kaĉjo!	哦，可怜的凯蒂！	oh, poor Katty!	grupo	alternativoj	prononco
 level	pri kiu vi parolas?	你在说谁？	who are you talking about?	grupo	alternativoj	prononco
 level	pri vi	关于你	about you	grupo	alternativoj	prononco
-level	karesi, karesa nomo, karesnomo	爱抚，爱抚名字，昵称	to caress, caressing name, nickname	grupo	alternativoj	prononco
-level	per -ĉjo aŭ -njo eblas krei karesnomojn en Esperanto	使用 -ĉjo 或 -njo，可以用世界语创建昵称	with -ĉjo or -njo, it is possible to create nicknames in Esperanto	grupo	alternativoj	prononco
+level	karesi, karesa nomo, karesnomo	爱抚，爱称，昵称	to caress, caressing name, nickname	grupo	alternativoj	prononco
+level	per -ĉjo aŭ -njo eblas krei karesnomojn en Esperanto	使用 -ĉjo 或 -njo，在世界语可以创建昵称	with -ĉjo or -njo, it is possible to create nicknames in Esperanto	grupo	alternativoj	prononco
 level	ha, jes, mi iam legis pri tio	啊，是的，我曾经读过	ah, yes, I once read about it	grupo	alternativoj	prononco
-level	kaj vi do estus Injo?	然后你就会成为Injo？	and then you would be Injo?	grupo	alternativoj	prononco
+level	kaj vi do estus Injo?	那你就会成为Injo？	and then you would be Injo?	grupo	alternativoj	prononco
 level	se vi volas iri tien	如果你想去那儿	if you want go there	grupo	alternativoj	prononco
 level	kioma horo estas nun?	现在几点了？	what time is it now?	grupo	alternativoj	prononco
-level	jam estas kvin minutoj antaŭ la deka	已经差十点五分了	it's already five minutes to ten	grupo	alternativoj	prononco
-level	kvin minutoj antaŭ la deka, aŭ naŭa kvindek kvin	十点前五分钟，或九点五十五分	five minutes before ten, or nine fifty-five	grupo	alternativoj	prononco
-level	trafis aŭ maltrafis?	击中还是错过？	hit or missed?	grupo	alternativoj	prononco
+level	jam estas kvin minutoj antaŭ la deka	已经十点差五分了	it's already five minutes to ten	grupo	alternativoj	prononco
+level	kvin minutoj antaŭ la deka, aŭ naŭa kvindek kvin	十点差五分，或九点五十五分	five minutes before ten, or nine fifty-five	grupo	alternativoj	prononco
+level	trafis aŭ maltrafis?	赶上了或者赶不上了？	hit or missed?	grupo	alternativoj	prononco
 level	vi maltrafis la matenmanĝon	你错过了早餐	you missed breakfast	grupo	alternativoj	prononco
 level	o, fek!	妈的！	oh, shit!	grupo	alternativoj	prononco
-level	ĉu vi estas sata?	你满意吗 ？	are you satisfied ?	grupo	alternativoj	prononco
-level	kaj mi kiu estas ege malsata	和极度饥饿的我	and I who am extremely hungry	grupo	alternativoj	prononco
-level	se vi hastos	如果你快点	if you hurry	grupo	alternativoj	prononco
-level	povas almenaŭ trafi la malfermon	至少可以击中开口	can at least hit the opening	grupo	alternativoj	prononco
-level	la malfermo de la kongreso	大会开幕	the opening of the congress	grupo	alternativoj	prononco
-level	vi povas almenaŭ trafi la malfermon de la kongreso	你至少可以赶上大会开幕	you can at least hit the opening of the convention	grupo	alternativoj	prononco
-level	kiam ĝi estos?	会是什么时候？	when will it be?	grupo	alternativoj	prononco
+level	ĉu vi estas sata?	你吃饱了吗 ？	are you satisfied ?	grupo	alternativoj	prononco
+level	kaj mi kiu estas ege malsata	和很饥饿的我	and I who am extremely hungry	grupo	alternativoj	prononco
+level	se vi hastos	如果你快点的话	if you hurry	grupo	alternativoj	prononco
+level	povas almenaŭ trafi la malfermon	有可能来得及开幕式	can at least hit the opening	grupo	alternativoj	prononco
+level	la malfermo de la kongreso	大会开幕式	the opening of the congress	grupo	alternativoj	prononco
+level	vi povas almenaŭ trafi la malfermon de la kongreso	你至少可以赶上大会开幕式	you can at least hit the opening of the convention	grupo	alternativoj	prononco
+level	kiam ĝi estos?	几点？	when will it be?	grupo	alternativoj	prononco
 level	je kvarono post la deka	十点一刻	at a quarter past ten	grupo	alternativoj	prononco
 level	ĝi daŭros horon	它将持续一个小时	it will last an hour	grupo	alternativoj	prononco
 level	kaj je la dek dua eblos manĝi	十二点就可以吃饭了	and at twelve it will be possible to eat	grupo	alternativoj	prononco
-level	bele mi antaŭĝojas	很漂亮，我很期待	beautifully I'm looking forward to it	grupo	alternativoj	prononco
-level	diru, kio okazas dum la malfermo?	告诉我，开幕期间会发生什么？	tell me, what happens during the opening?	grupo	alternativoj	prononco
-level	ĉu ĝi estas vizitinda entute?	到底值不值得参观？	is it worth visiting at all?	grupo	alternativoj	prononco
+level	bele mi antaŭĝojas	很好，我很期待	beautifully I'm looking forward to it	grupo	alternativoj	prononco
+level	diru, kio okazas dum la malfermo?	告诉我，开幕式期间会发生什么？	tell me, what happens during the opening?	grupo	alternativoj	prononco
+level	ĉu ĝi estas vizitinda entute?	值得参观吗？	is it worth visiting at all?	grupo	alternativoj	prononco
 level	laŭ mi jes	我认为是的	in my opinion yes	grupo	alternativoj	prononco
-level	kutime ĝi ne estas tre vigla	平时不是很热闹	usually it is not very lively	grupo	alternativoj	prononco
-level	sed por vi, kiel "novulo"	但对于作为“菜鸟”的你来说	but for you as a 'rookie'	grupo	alternativoj	prononco
-level	povus esti interese ĉeesti ĝin	参加它可能会很有趣	it might be interesting to attend it	grupo	alternativoj	prononco
-level	mi supozas ke ~	我猜是这样~	I guess that ~	grupo	alternativoj	prononco
-level	la prezidanto de TEJO diros kelkajn vortojn	TEJO总裁讲几句话	the president of TEJO will say a few words	grupo	alternativoj	prononco
+level	kutime ĝi ne estas tre vigla	一般不是很热闹	usually it is not very lively	grupo	alternativoj	prononco
+level	sed por vi, kiel "novulo"	但对于像你这样的初学者来说	but for you as a 'rookie'	grupo	alternativoj	prononco
+level	povus esti interese ĉeesti ĝin	参加它可能会有趣	it might be interesting to attend it	grupo	alternativoj	prononco
+level	mi supozas ke ~	我猜是~	I guess that ~	grupo	alternativoj	prononco
+level	la prezidanto de TEJO diros kelkajn vortojn	TEJO主席讲几句话	the president of TEJO will say a few words	grupo	alternativoj	prononco
 level	la temon de la kongreso	大会主题	the theme of the congress	grupo	alternativoj	prononco
 level	ŝajnas, verŝajne	看来，可能	it seems, probably	grupo	alternativoj	prononco
-level	iu de LKK verŝajne prezentos la temon de la kongreso	李锦记的人可能会介绍大会的主题	someone from LKK will probably present the topic of the congress	grupo	alternativoj	prononco
+level	iu de LKK verŝajne prezentos la temon de la kongreso	大会组委会的人将介绍大会的主题	someone from LKK will probably present the topic of the congress	grupo	alternativoj	prononco
 level	ĉiu IJK havas sian temon	每个 IJK 都有其主题	each IJK has its theme	grupo	alternativoj	prononco
 level	mi esperas ke estos iom da muziko ankaŭ	我希望也能有一些音乐	I hope there will be some music as well	grupo	alternativoj	prononco
-level	bone, kie ĝi okazos?	那么，它将在哪里举行？	well, where will it take place?	grupo	alternativoj	prononco
-level	en la granda prelegejo	在伟大的报告厅里	in the great lecture hall	grupo	alternativoj	prononco
-level	kiel trovi tiun?	怎么找到那个？	how to find that?	grupo	alternativoj	prononco
+level	bone, kie ĝi okazos?	好，它将在哪里举行？	well, where will it take place?	grupo	alternativoj	prononco
+level	en la granda prelegejo	在大礼堂里	in the great lecture hall	grupo	alternativoj	prononco
+level	kiel trovi tiun?	怎么找那个地方？	how to find that?	grupo	alternativoj	prononco
 level	kiam vi eliras tiun ĉi ejon	当你离开这个地方时	when you leave this place	grupo	alternativoj	prononco
 level	iru dekstren ĝis la fino de la konstruaĵo	向右走到建筑物的尽头	go right to the end of the building	grupo	alternativoj	prononco
 level	dum eble 100 metroj	大约100米	for maybe 100 meters	grupo	alternativoj	prononco
-level	dekstren denove, rekten dum eble 100 metroj	再次向右，直行大约 100 米	right again, straight for maybe 100 meters	grupo	alternativoj	prononco
-level	kaj estas flava domo	还有一座黄色的房子	and there is a yellow house	grupo	alternativoj	prononco
+level	dekstren denove, rekten dum eble 100 metroj	再次向右，然后直行大约 100 米	right again, straight for maybe 100 meters	grupo	alternativoj	prononco
+level	kaj estas flava domo	会发现一座黄色的房子	and there is a yellow house	grupo	alternativoj	prononco
 level	je la maldekstra flanko de la vojo	在路的左边	on the left side of the road	grupo	alternativoj	prononco
 level	ŝildoj pri ĉiuj ejoj de IJK	所有 IJK 站点的标志	signs about all IJK sites	grupo	alternativoj	prononco
 level	en ĝi, vi trovos ŝildojn pri ĉiuj ejoj de IJK	里面有所有 IJK 站点的标志	in it, you will find signs about all IJK sites	grupo	alternativoj	prononco
@@ -557,124 +557,124 @@ level	se mi ne trovos	如果我找不到它	if I don't find it	grupo	alternativo
 level	ha, bona ideo, ĝis tie!	噢，好主意，到时见！	oh, good idea, see you up there!	grupo	alternativoj	prononco
 level	en la prelegejo	在报告厅	in the lecture hall	grupo	alternativoj	prononco
 level	gardanĝeloj? ĉu vi ŝercas?	守护天使？你在开玩笑吧？	guardian angels? are you kidding?	grupo	alternativoj	prononco
-level	prezidanto de TEJO	特久总裁	president of TEJO	grupo	alternativoj	prononco
+level	prezidanto de TEJO	TEJO(青年会)主席	president of TEJO	grupo	alternativoj	prononco
 level	fine mi deziras al vi ĉiuj amuzan semajnon	最后祝大家度过愉快的一周	finally I wish you all a fun week	grupo	alternativoj	prononco
 level	laŭ la lastaj informoj	根据最新消息	according to the latest information	grupo	alternativoj	prononco
 level	ni estas 423 ĉi tie de 38 landoj	我们有来自 38 个国家的 423 人	we are 423 here from 38 countries	grupo	alternativoj	prononco
-level	mi deziras fruktodonan kaj amuzegan IJK-semajnon	祝您 IJK 一周富有成果且充满乐趣	I wish you a fruitful and great fun IJK week	grupo	alternativoj	prononco
+level	mi deziras fruktodonan kaj amuzegan IJK-semajnon	祝大家富有成果且充满乐趣的 IJK 周	I wish you a fruitful and great fun IJK week	grupo	alternativoj	prononco
 level	koran bonvenon nome de la TEJO-estraro	我代表 TEJO 董事会表示热烈欢迎	a warm welcome, on behalf of the TEJO board	grupo	alternativoj	prononco
-level	post granda aplaŭdo	在热烈的掌声之后	after a big round of applause	grupo	alternativoj	prononco
-level	ĉu vi sukcesis resti veka?	你能保持清醒吗？	did you manage to stay awake?	grupo	alternativoj	prononco
+level	post granda aplaŭdo	在热烈的掌声后	after a big round of applause	grupo	alternativoj	prononco
+level	ĉu vi sukcesis resti veka?	你成功的保持清醒了吗？	did you manage to stay awake?	grupo	alternativoj	prononco
 level	jes, ĉefe pro mia malsato	是的，主要是因为我饿了	yes, mainly because of my hunger	grupo	alternativoj	prononco
-level	ne, mi ŝercas, estis interese aŭdi	不，我在开玩笑。很有趣地听到	no, I'm kidding. it was interesting to hear	grupo	alternativoj	prononco
-level	estis interese aŭdi iom pri la agado	听到一些有关该活动的信息很有趣	was interesting to hear a little about the activity	grupo	alternativoj	prononco
-level	aŭdi pri la agado kaj strukturo de la movado	了解运动的活动和结构	to hear about the activity and structure of the movement	grupo	alternativoj	prononco
-level	TEJO-kunsido interesos vin	您会对 TEJO 课程感兴趣	a TEJO session will interest you	grupo	alternativoj	prononco
-level	eble iu el la TEJO-kunsidoj povas interesi vin	也许您可能会对 TEJO 的某些课程感兴趣	maybe some of the TEJO sessions may be interesting to you	grupo	alternativoj	prononco
+level	ne, mi ŝercas, estis interese aŭdi	不，我在开玩笑, 很有趣地	no, I'm kidding. it was interesting to hear	grupo	alternativoj	prononco
+level	estis interese aŭdi iom pri la agado	听到一些活动的信息很有趣的	was interesting to hear a little about the activity	grupo	alternativoj	prononco
+level	aŭdi pri la agado kaj strukturo de la movado	听取有关活动和结构的汇报	to hear about the activity and structure of the movement	grupo	alternativoj	prononco
+level	TEJO-kunsido interesos vin	您对 TEJO 活动会感兴趣	a TEJO session will interest you	grupo	alternativoj	prononco
+level	eble iu el la TEJO-kunsidoj povas interesi vin	也许您可能会对 TEJO 的某些活动感兴趣	maybe some of the TEJO sessions may be interesting to you	grupo	alternativoj	prononco
 level	jes eble	也许吧	yes maybe	grupo	alternativoj	prononco
 level	mi provos	我会尝试	I will try	grupo	alternativoj	prononco
 level	provos ĉeesti	将尝试参加	will try to attend	grupo	alternativoj	prononco
-level	mi provos ĉeesti	我会尝试参加	I will try to attend	grupo	alternativoj	prononco
+level	mi provos ĉeesti	我会努力参加	I will try to attend	grupo	alternativoj	prononco
 level	ĉeesti unu	参加一个	to attend one	grupo	alternativoj	prononco
-level	ĉeesti por vidi	参加去看	attend to see	grupo	alternativoj	prononco
+level	ĉeesti por vidi	为观看而参加	attend to see	grupo	alternativoj	prononco
 level	iun tagon	有一天（某一天）	one day (someday)	grupo	alternativoj	prononco
 level	mi provos iun tagon	有一天我会尝试	I will try one day	grupo	alternativoj	prononco
 level	iun tagon ĉeesti	有一天去参加	one day to attend	grupo	alternativoj	prononco
-level	ĉeesti iun tagon por vidi	有一天去看看	attend someday to see	grupo	alternativoj	prononco
-level	mi provos iun tagon ĉeesti unu por vidi	我会尝试有一天去参加一个看看	I will try one day to attend one to see	grupo	alternativoj	prononco
+level	ĉeesti iun tagon por vidi	为观看有一天去参加	attend someday to see	grupo	alternativoj	prononco
+level	mi provos iun tagon ĉeesti unu por vidi	为了尝试我会有一天去参加	I will try one day to attend one to see	grupo	alternativoj	prononco
 level	kio estas tio?	那是什么？	what is that?	grupo	alternativoj	prononco
-level	kio estas tio pri ~	那是关于什么的~	what is that about ~	grupo	alternativoj	prononco
+level	kio estas tio pri ~	那是关于~的	what is that about ~	grupo	alternativoj	prononco
 level	gard-anĝelo	一个守护天使	a guard angel	grupo	alternativoj	prononco
 level	tio pri "gardanĝelo"	关于“守护天使”	that about "guard angel"	grupo	alternativoj	prononco
-level	sed kio estas	但什么是	but what is	grupo	alternativoj	prononco
-level	sed kio estas tio pri "gardanĝelo"?	但“守护天使”又是什么呢？	but what is that about a "guardian angel"?	grupo	alternativoj	prononco
+level	sed kio estas	但是什么	but what is	grupo	alternativoj	prononco
+level	sed kio estas tio pri "gardanĝelo"?	但关于“守护天使”是什么呢？	but what is that about a "guardian angel"?	grupo	alternativoj	prononco
 level	ĉu ŝerco?	笑话？	a joke?	grupo	alternativoj	prononco
 level	ĉu malbona ŝerco?	一个糟糕的笑话？	a bad joke?	grupo	alternativoj	prononco
 level	malbona ŝerco	垃圾笑话	bad joke	grupo	alternativoj	prononco
 level	iu ŝerco	一些笑话	some joke	grupo	alternativoj	prononco
 level	iu malbona ŝerco	一些糟糕的笑话	some bad joke	grupo	alternativoj	prononco
-level	ĉu iu malbona ŝerco?	（那是）一些糟糕的笑话吗？	(is that) some bad joke?	grupo	alternativoj	prononco
+level	ĉu iu malbona ŝerco?	（那是）糟糕的笑话吗？	(is that) some bad joke?	grupo	alternativoj	prononco
 level	mi ŝercas	我是在开玩笑	I'm joking	grupo	alternativoj	prononco
 level	ne, mi ŝercas	不，我在开玩笑	no, I'm kidding	grupo	alternativoj	prononco
-level	estis interese aŭdi	很有趣地听到	it was interesting to hear	grupo	alternativoj	prononco
+level	estis interese aŭdi	听的很有趣	it was interesting to hear	grupo	alternativoj	prononco
 level	kiel kontakti ~	怎么联系~	how to contact ~	grupo	alternativoj	prononco
-level	kaj kiel kontakti tiujn anĝelojn?	以及如何联系那些天使？	and how to contact those angels?	grupo	alternativoj	prononco
+level	kaj kiel kontakti tiujn anĝelojn?	如何联系那些天使？	and how to contact those angels?	grupo	alternativoj	prononco
 level	per iu IJK-preĝo eble	也许有一些 IJK 祈祷	with some IJK prayer maybe	grupo	alternativoj	prononco
 level	provu! se ne funkcias vi povas iri al ~	尝试一下！如果还不行可以去~	try it! if it doesn't work you can go to ~	grupo	alternativoj	prononco
 level	vi povas iri al la ĉambro "La ĉielo" post la tagmanĝo	午餐后可以去“天空”房间	you can go to the room "The sky" after lunch	grupo	alternativoj	prononco
-level	bonege, unue manĝo, poste ĉielen	太棒了，首先是食物，然后是天堂	great, first food, then heaven	grupo	alternativoj	prononco
-level	unue manĝo, poste ĉielen al la anĝelinoj	首先是食物，然后是天空中的天使	first food, then in the sky to the angels	grupo	alternativoj	prononco
-level	maltro da manĝo	一点饭	#REF!	grupo	alternativoj	prononco
-level	post iom maltro da manĝo	少吃一点之后	after a little less food	grupo	alternativoj	prononco
-level	Kabe iras al la ĉambro "La ĉielo"	卡部前往“天空”房间	Kabe goes to the room "the sky"	grupo	alternativoj	prononco
+level	bonege, unue manĝo, poste ĉielen	太棒了，先吃饭 ，然后是天堂	great, first food, then heaven	grupo	alternativoj	prononco
+level	unue manĝo, poste ĉielen al la anĝelinoj	先吃饭，然后为了见天使们去天堂	first food, then in the sky to the angels	grupo	alternativoj	prononco
+level	maltro da manĝo	小吃饭	#REF!	grupo	alternativoj	prononco
+level	post iom maltro da manĝo	少吃点饭后	after a little less food	grupo	alternativoj	prononco
+level	Kabe iras al la ĉambro "La ĉielo"	卡部前往“天堂”房间	Kabe goes to the room "the sky"	grupo	alternativoj	prononco
 level	saluton. ĉu estas via unua IJK?	您好，这是您的第一个 IJK 吗？	hello, is it your first IJK?	grupo	alternativoj	prononco
 level	bone. mi tre ĝojas. mi estas Jesi	好的。我很高兴。我是杰西	ok. I am very glad. I'm Jesi	grupo	alternativoj	prononco
-level	kaj tiu ĉi estas jam mia sesa IJK	这已经是我的第六个 IJK	and this is already my sixth IJK	grupo	alternativoj	prononco
-level	jen estas papero kun kelkaj demandoj	这是一篇有一些问题的论文	here is a paper with some questions	grupo	alternativoj	prononco
-level	papero kun demandoj kaj taskoj	带有问题和任务的论文	paper with questions and tasks	grupo	alternativoj	prononco
+level	kaj tiu ĉi estas jam mia sesa IJK	这已经是我的第六次 IJK	and this is already my sixth IJK	grupo	alternativoj	prononco
+level	jen estas papero kun kelkaj demandoj	这是有一些问题的纸条	here is a paper with some questions	grupo	alternativoj	prononco
+level	papero kun demandoj kaj taskoj	带有问题和任务的	paper with questions and tasks	grupo	alternativoj	prononco
 level	kelkaj demandoj kaj taskoj rilate al la kongreso	与大会有关的一些问题和任务	some questions and tasks related to the congress	grupo	alternativoj	prononco
 level	vi provu solvi ilin	你尝试解决它们	you try to solve them	grupo	alternativoj	prononco
 level	mi proponas ke vi provu solvi ilin	我建议你尝试解决它们	I suggest you try to solve them	grupo	alternativoj	prononco
-level	kun Ana de Pollando, Boris de Germanio kaj Nacuko de Japanio	与来自波兰的安娜、来自德国的鲍里斯和来自日本的夏子	with Ana from Poland, Boris from Germany and Natsuko from Japan	grupo	alternativoj	prononco
-level	nur voku min se vi bezonos helpon	如果您需要帮助，请给我打电话	just call me if you need help	grupo	alternativoj	prononco
-level	poste en la libroservo	稍后在图书服务中	later in the book service	grupo	alternativoj	prononco
+level	kun Ana de Pollando, Boris de Germanio kaj Nacuko de Japanio	与来自波兰的安娜、来自德国的鲍里斯和来自日本的夏子在一起	with Ana from Poland, Boris from Germany and Natsuko from Japan	grupo	alternativoj	prononco
+level	nur voku min se vi bezonos helpon	如果您需要帮助，请找我	just call me if you need help	grupo	alternativoj	prononco
+level	poste en la libroservo	稍后在图书服务处	later in the book service	grupo	alternativoj	prononco
 level	kiel do estis en la ĉielo?	那么天堂里的情况怎么样呢？	so how was it in heaven?	grupo	alternativoj	prononco
-level	mi fakte renkontis veran anĝelinon!	我居然遇到了真正的天使！	I actually met a real angel!	grupo	alternativoj	prononco
+level	mi fakte renkontis veran anĝelinon!	我确实遇到真正的天使了！	I actually met a real angel!	grupo	alternativoj	prononco
 level	ĉielece, mi pensas ke mi fakte renkontis veran anĝelinon!	天哪，我想我真的遇到了一个真正的天使！	heavenly, I think I actually met a real angel!	grupo	alternativoj	prononco
 level	mirinde bela kaj afabla ŝi estis	她非常美丽又善良	she was amazingly beautiful and kind	grupo	alternativoj	prononco
 level	ho, Dio mia! kaj kio estas ŝia nomo?	我的天啊！她叫什么名字？	oh my god! and what is her name?	grupo	alternativoj	prononco
 level	aj, mi jam forgesis!	哦，我已经忘记了！	oh, I already forgot!	grupo	alternativoj	prononco
-level	pli kaj pli ebriiĝas	越来越多的人喝醉了	more and more gets drunk	grupo	alternativoj	prononco
-level	en la trinkejo, Kabe pli kaj pli ebriiĝas	在酒吧里，卡部越来越醉	in the bar, Kabe gets more and more drunk	grupo	alternativoj	prononco
+level	pli kaj pli ebriiĝas	渐渐喝醉了	more and more gets drunk	grupo	alternativoj	prononco
+level	en la trinkejo, Kabe pli kaj pli ebriiĝas	在酒吧，卡部渐渐喝醉了	in the bar, Kabe gets more and more drunk	grupo	alternativoj	prononco
 level	ĉu ankaŭ la trinkejestro?	调酒师也是吗？	is the bartender too?	grupo	alternativoj	prononco
 level	unu bieron mi petas	请来一杯啤酒	one beer please	grupo	alternativoj	prononco
-level	ĝi kostas 1 eŭron	花费 1 欧元	it costs 1 euro	grupo	alternativoj	prononco
-level	ĉu vi ŝatus ankaŭ ion alian?	你还想要点别的吗？	would you like something else too?	grupo	alternativoj	prononco
+level	ĝi kostas 1 eŭron	价格是 1 欧元	it costs 1 euro	grupo	alternativoj	prononco
+level	ĉu vi ŝatus ankaŭ ion alian?	你还想要别的吗？	would you like something else too?	grupo	alternativoj	prononco
 level	ne dankon, biero sufiĉas por mi	不用了，谢谢，啤酒对我来说就足够了	no thanks, beer is enough for me	grupo	alternativoj	prononco
 level	ĉu vere? kio pri vodko, labambo kaj inoj?	真的吗？伏特加、拉班巴和女性怎么样？	really? what about vodka, labamba and females?	grupo	alternativoj	prononco
 level	nu, kial ne	好吧，为什么不呢	well, why not	grupo	alternativoj	prononco
 level	laŭdire ĝi estas amuza	据说很好玩	it is said to be fun	grupo	alternativoj	prononco
-level	mi ankoraŭ ne dancis labambon, sed laŭdire ĝi estas amuza	我还没跳过拉巴巴舞，但我听说这很有趣	I haven't danced the labamba yet, but I'm told it's fun	grupo	alternativoj	prononco
+level	mi ankoraŭ ne dancis labambon, sed laŭdire ĝi estas amuza	我还没跳过拉班巴舞，但我听说这很有趣	I haven't danced the labamba yet, but I'm told it's fun	grupo	alternativoj	prononco
 level	dum la kantaĵo "La Bamba" homoj dancas	当歌曲“La Bamba”响起时，人们跳舞	during the song "La Bamba" people dance	grupo	alternativoj	prononco
 level	homoj dancas en granda rondo	人们围成一个大圈跳舞	people dance in a big circle	grupo	alternativoj	prononco
 level	kaj ene de tiu rondo dancas aliaj homoj	在那个圈子里其他人跳舞	and within that circle other people dance	grupo	alternativoj	prononco
-level	funkcias tiel ke ~	工作所以〜	works so that ~	grupo	alternativoj	prononco
-level	funkcias tiel ke homoj dancas en granda rondo	让人们围成一个大圈跳舞	works so that people dance in a big circle	grupo	alternativoj	prononco
-level	dancas en granda rondo kaj ene de tiu rondo	在一个大圆圈内跳舞	dances in a big circle and within that circle	grupo	alternativoj	prononco
-level	homoj dancas kaj dancas aliaj homoj	人们跳舞，其他人也跳舞	people dance and other people dance	grupo	alternativoj	prononco
+level	funkcias tiel ke ~	像〜样作用	works so that ~	grupo	alternativoj	prononco
+level	funkcias tiel ke homoj dancas en granda rondo	像人们围成一个大圈跳舞	works so that people dance in a big circle	grupo	alternativoj	prononco
+level	dancas en granda rondo kaj ene de tiu rondo	在一个大圆圈跳舞及其里边	dances in a big circle and within that circle	grupo	alternativoj	prononco
+level	homoj dancas kaj dancas aliaj homoj	人们跳舞和其他人也跳舞	people dance and other people dance	grupo	alternativoj	prononco
 level	tiuj dancantaj ene de la rondo	那些在圈子里跳舞的人	those who dance within the circle	grupo	alternativoj	prononco
-level	tiuj dancantoj elektas dancanton de la rondo	跳舞的人从圆圈中选择一名舞者	those who dance choose a dancer from the circle	grupo	alternativoj	prononco
-level	elektas dancanton kaj kisas ŝin aŭ lin	选择一名舞者并亲吻她或他	chooses a dancer and kisses her or him	grupo	alternativoj	prononco
+level	tiuj dancantoj elektas dancanton de la rondo	那些跳舞的人从圆圈中选择舞伴	those who dance choose a dancer from the circle	grupo	alternativoj	prononco
+level	elektas dancanton kaj kisas ŝin aŭ lin	选择舞伴并亲吻她或他	chooses a dancer and kisses her or him	grupo	alternativoj	prononco
 level	kisas ŝin aŭ lin tri-foje sur la vangoj	在她或他的脸颊上亲吻三遍	kisses her or him three times on the cheeks	grupo	alternativoj	prononco
-level	elektas dancanton kaj kisas sur la vangoj	选择舞者并亲吻脸颊	chooses a dancer and kisses on the cheeks	grupo	alternativoj	prononco
-level	elektas dancanton de la rondo kaj kisas	从圆圈中选择一名舞者并亲吻	chooses a dancer from the circle and kisses	grupo	alternativoj	prononco
-level	poste ili ŝanĝas lokon	然后他们换地方	then they change places	grupo	alternativoj	prononco
-level	kisas, kisanto, kisito, kisonto, kisoto	接吻，一个接吻的人，一个被接吻的人，一个会接吻的人，一个会被接吻的人	kisses, a kissing person, a kissed person, a person who will kiss, a person who will be kissed	grupo	alternativoj	prononco
-level	kaj la kisito iĝas kisonto	被亲吻的人会变成一个会亲吻的人	and the kissed becomes a person who will kiss	grupo	alternativoj	prononco
+level	elektas dancanton kaj kisas sur la vangoj	选择舞舞并亲吻脸颊	chooses a dancer and kisses on the cheeks	grupo	alternativoj	prononco
+level	elektas dancanton de la rondo kaj kisas	从圆圈中选择舞伴并亲吻	chooses a dancer from the circle and kisses	grupo	alternativoj	prononco
+level	poste ili ŝanĝas lokon	然后他们换位置	then they change places	grupo	alternativoj	prononco
+level	kisas, kisanto, kisito, kisonto, kisoto	接吻，接吻的人，被接吻的人，会接吻的人，会被接吻的人	kisses, a kissing person, a kissed person, a person who will kiss, a person who will be kissed	grupo	alternativoj	prononco
+level	kaj la kisito iĝas kisonto	被亲吻的人会变成会亲吻的人	and the kissed becomes a person who will kiss	grupo	alternativoj	prononco
 level	tiuj dancantoj elektas kaj poste ili ŝanĝas lokon	那些舞者选择然后他们改变位置	those dancers choose and then they change places	grupo	alternativoj	prononco
 level	la kisinto nun estas kisoto	曾经亲吻过的人现在是会被亲吻的人	the person who kissed is now a person who will be kissed	grupo	alternativoj	prononco
 level	tre facile, ĉu ne?	很容易，对吧？	very easy, right?	grupo	alternativoj	prononco
-level	nu, mi esperas ke estas ~	嗯，希望是这样~	well, I hope it is ~	grupo	alternativoj	prononco
+level	nu, mi esperas ke estas ~	嗯，希望是~	well, I hope it is ~	grupo	alternativoj	prononco
 level	pli facile en la praktiko	在实践中更容易	more easily in practice	grupo	alternativoj	prononco
 level	esperas ke estas pli facile	希望更容易	hopes it's easier	grupo	alternativoj	prononco
-level	estas pli facile en la praktiko	实践中更容易	it's easier in practice	grupo	alternativoj	prononco
+level	estas pli facile en la praktiko	实践中更容易的	it's easier in practice	grupo	alternativoj	prononco
 level	mi provos iam	我有时会尝试	I will try sometime	grupo	alternativoj	prononco
 level	sed unue la bieron!	但首先是啤酒！	but first the beer!	grupo	alternativoj	prononco
-level	mi provos iam, sed unue la bieron!	有一天我会尝试一下，但首先是啤酒！	I'll try one day, but first the beer!	grupo	alternativoj	prononco
-level	saĝa knabo	一个聪明的男孩	a smart boy	grupo	alternativoj	prononco
-level	vi, kiu konas preskaŭ ĉiujn	你几乎认识所有人	you who know almost everyone	grupo	alternativoj	prononco
-level	konas preskaŭ ĉiujn ĉi tie	几乎认识这里的每个人	knows almost everyone here	grupo	alternativoj	prononco
+level	mi provos iam, sed unue la bieron!	早晚我会尝试一下，但首先是啤酒！	I'll try one day, but first the beer!	grupo	alternativoj	prononco
+level	saĝa knabo	聪明的男孩	a smart boy	grupo	alternativoj	prononco
+level	vi, kiu konas preskaŭ ĉiujn	几乎认识所有人的你	you who know almost everyone	grupo	alternativoj	prononco
+level	konas preskaŭ ĉiujn ĉi tie	认识这里的几乎所有人	knows almost everyone here	grupo	alternativoj	prononco
 level	ĉu vi scias kiu estas la knabino	你知道那个女孩是谁吗？	do you know who the girl is?	grupo	alternativoj	prononco
-level	la knabino kiu kunordigis	协调的女孩	the girl who coordinated	grupo	alternativoj	prononco
-level	la knabino kiu kunordigis la ’gardanĝelojn’	协调“守护天使”的女孩	the girl who coordinated the 'guardian angels'	grupo	alternativoj	prononco
+level	la knabino kiu kunordigis	一起主持活动的那个女孩	the girl who coordinated	grupo	alternativoj	prononco
+level	la knabino kiu kunordigis la ’gardanĝelojn’	主持“守护天使”的女孩	the girl who coordinated the 'guardian angels'	grupo	alternativoj	prononco
 level	vi verŝajne pensas pri Jesi	你可能在想 Jesi	you are probably thinking of Jesi	grupo	alternativoj	prononco
-level	jes, ĝuste!	恩，那就对了！	yes, that's right!	grupo	alternativoj	prononco
+level	jes, ĝuste!	恩，就是了！	yes, that's right!	grupo	alternativoj	prononco
 level	mi memoras ke mi aŭdis	我记得我听到过	I remember that I heard	grupo	alternativoj	prononco
-level	nun mi memoras ke ~	现在想起来了~	now I remember that ~	grupo	alternativoj	prononco
-level	memoras ke mi aŭdis ŝian nomon	记得我听到过她的名字	remember that I heard her name	grupo	alternativoj	prononco
+level	nun mi memoras ke ~	现在我记得~了	now I remember that ~	grupo	alternativoj	prononco
+level	memoras ke mi aŭdis ŝian nomon	记得我听过她的名字	remember that I heard her name	grupo	alternativoj	prononco
 level	laŭ mi	在我看来	in my opinion	grupo	alternativoj	prononco
-level	ŝi estas stranga persono	她是一个奇怪的人	she is a strange person	grupo	alternativoj	prononco
-level	laŭ mi ŝi estas stranga persono	在我看来她是一个奇怪的人	in my opinion she is a strange person	grupo	alternativoj	prononco
+level	ŝi estas stranga persono	她是奇怪的人	she is a strange person	grupo	alternativoj	prononco
+level	laŭ mi ŝi estas stranga persono	在我看来她是个奇怪的人	in my opinion she is a strange person	grupo	alternativoj	prononco
 level	tute ne trinkas bieron	根本不喝啤酒	doesn't drink beer at all	grupo	alternativoj	prononco
 level	kaj ne manĝas viandon	并且不吃肉	and does not eat meat	grupo	alternativoj	prononco
 level	ŝajnas ke ~	看来~	it seems that ~	grupo	alternativoj	prononco
@@ -683,79 +683,79 @@ level	sola intereso estas Esperanto-agado	唯一的兴趣是世界语活动	only
 level	ŝajnas ke ŝia sola intereso estas Esperanto	看来她唯一的兴趣是世界语	it seems that her only interest is Esperanto	grupo	alternativoj	prononco
 level	sed ŝi estas tre bela	但她很漂亮	but she is very beautiful	grupo	alternativoj	prononco
 level	estas tre bela kaj afabla	非常美丽又善良	is very beautiful and kind	grupo	alternativoj	prononco
-level	tre bela kaj afabla laŭ mi	我认为非常友善	very nice and kind in my opinion	grupo	alternativoj	prononco
+level	tre bela kaj afabla laŭ mi	我认为非常美丽又友善	very nice and kind in my opinion	grupo	alternativoj	prononco
 level	eble vi pravas	也许你是对的	maybe you are right	grupo	alternativoj	prononco
 level	eble vi pravas pri tio	也许你是对的	maybe you are right about that	grupo	alternativoj	prononco
-level	preskaŭ neniam estas en la trinkejo	几乎从来不去酒吧	is almost never in the bar	grupo	alternativoj	prononco
+level	preskaŭ neniam estas en la trinkejo	几乎不去酒吧	is almost never in the bar	grupo	alternativoj	prononco
 level	ŝi preskaŭ neniam estas ~	她几乎从来没有~	she is almost never ~	grupo	alternativoj	prononco
 level	ne renkontas ŝin ofte	不经常见到她	don't meet her often	grupo	alternativoj	prononco
 level	mi ne renkontas ofte	我不常见面	I don't meet often	grupo	alternativoj	prononco
 level	kaj do mi ne renkontas ŝin ofte	所以我不常见到她	and so I don't meet her often	grupo	alternativoj	prononco
-level	fajfas pri tiaj homoj	对这样的人吹口哨	whistles about such people	grupo	alternativoj	prononco
-level	fakte, mi tute fajfas	事实上，我完全在吹口哨	in fact, I'm totally whistling	grupo	alternativoj	prononco
+level	fajfas pri tiaj homoj	对那样的人吹口哨	whistles about such people	grupo	alternativoj	prononco
+level	fakte, mi tute fajfas	事实上，我的确在吹口哨	in fact, I'm totally whistling	grupo	alternativoj	prononco
 level	mi komprenas ~	我明白了~	I understand ~	grupo	alternativoj	prononco
 level	tiel parolas vera trinkejestro	这就是真正的调酒师说话的方式	that's how a real bartender talks	grupo	alternativoj	prononco
-level	prave. je via sano!	正确的，所以为了您的健康！	rightly, so to your health!	grupo	alternativoj	prononco
+level	prave. je via sano!	正确的，为了您的健康！	rightly, so to your health!	grupo	alternativoj	prononco
 level	je via sano! ho, bonega biero	为了您的健康！哦，很棒的啤酒	to your health! oh, great beer	grupo	alternativoj	prononco
 level	kompreneble. estis ja mi kiu elektis ĝin	当然，我是选择它的人	of course, I was the one who chose it	grupo	alternativoj	prononco
 level	ĉu vi havas ideon?	你有什么主意吗？	do you have any idea?	grupo	alternativoj	prononco
-level	kie eblus trovi tiun strangan knabinon?	到哪里才能找到那个奇怪的女孩呢？	where would it be possible to find that strange girl?	grupo	alternativoj	prononco
+level	kie eblus trovi tiun strangan knabinon?	到哪里能找到那个奇怪的女孩呢？	where would it be possible to find that strange girl?	grupo	alternativoj	prononco
 level	trovi tiun strangan sed tre belan knabinon	去寻找那个奇怪但非常美丽的女孩	to find that strange but very beautiful girl	grupo	alternativoj	prononco
-level	ideo kie eblus trovi ~	想知道哪里可以找到~	idea where it could be found ~	grupo	alternativoj	prononco
-level	havas ideon kie eblus trovi ~	有一个想法可以找到〜	has an idea where it would be possible to find ~	grupo	alternativoj	prononco
-level	tutcerte en la Gufujo	绝对是在茶室（Owlery）	definitely in the tea launge(Owlery)	grupo	alternativoj	prononco
-level	tiaj homoj konstante sidas	这样的人经常坐着	such people are constantly sitting	grupo	alternativoj	prononco
+level	ideo kie eblus trovi ~	到哪里能找的想法	idea where it could be found ~	grupo	alternativoj	prononco
+level	havas ideon kie eblus trovi ~	有个想法可以找到〜	has an idea where it would be possible to find ~	grupo	alternativoj	prononco
+level	tutcerte en la Gufujo	绝对是在雕鸮茶店	definitely in the tea launge(Owlery)	grupo	alternativoj	prononco
+level	tiaj homoj konstante sidas	那样的人经常坐着	such people are constantly sitting	grupo	alternativoj	prononco
 level	konstante sidas tie teumante	总是坐在那里喝茶	is constantly sitting there drinking tea	grupo	alternativoj	prononco
-level	kia teda vivo!	生活多么乏味啊！	what a tedious life!	grupo	alternativoj	prononco
-level	Gufujo, estas trankvila ejo	茶室（Owlery），是一个安静的地方	the tea launge(Owlery), is a quiet place	grupo	alternativoj	prononco
-level	trankvila ejo kie eblas trinki teon	一个安静的地方，可以喝茶	a quiet place where you can drink tea	grupo	alternativoj	prononco
+level	kia teda vivo!	如此无聊的生活啊！	what a tedious life!	grupo	alternativoj	prononco
+level	Gufujo, estas trankvila ejo	雕鸮茶店是个安静的地方	the tea launge(Owlery), is a quiet place	grupo	alternativoj	prononco
+level	trankvila ejo kie eblas trinki teon	可以喝茶的安静的地方	a quiet place where you can drink tea	grupo	alternativoj	prononco
 level	trinki teon, babili, aŭskulti trankvilan muzikon	喝茶、聊天、听安静的音乐	drink tea, chat, listen to quiet music	grupo	alternativoj	prononco
-level	aŭskulti trankvilan muzikon kaj simile	听安静的音乐等	listening to quiet music and the like	grupo	alternativoj	prononco
+level	aŭskulti trankvilan muzikon kaj simile	听安静的音乐和类似的	listening to quiet music and the like	grupo	alternativoj	prononco
 level	vi trovos ĝin fine de la koridoro	你会在走廊的尽头找到它	you will find it at the end of the corridor	grupo	alternativoj	prononco
 level	fine de la koridoro ekster la trinkejo	酒吧外走廊的尽头	at the end of the corridor outside the bar	grupo	alternativoj	prononco
 level	vi ne povas porti vian bieron	你不能携带你的啤酒	you can't carry your beer	grupo	alternativoj	prononco
 level	porti vian bieron tien	把你的啤酒带到那里	take your beer there	grupo	alternativoj	prononco
 level	sed vi ne povas porti vian bieron tien	但你不能把啤酒带到那里	but you can't take your beer there	grupo	alternativoj	prononco
-level	vere estas ujo de gufoj!	这确实是猫头鹰的地方！	it really is a place for owls!	grupo	alternativoj	prononco
+level	vere estas ujo de gufoj!	这确实是雕鸮的地方！	it really is a place for owls!	grupo	alternativoj	prononco
 level	al la dancejo unue	首先到舞池	to the dance floor first	grupo	alternativoj	prononco
 level	eble mi iru unue	也许我应该先走	maybe I should go first	grupo	alternativoj	prononco
 level	mi iru al la dancejo unue	让我先去舞池	let me go to the dance floor first	grupo	alternativoj	prononco
 level	la venonta persono!	下一个人！	next person!	grupo	alternativoj	prononco
 level	kion vi volas kara?	亲爱的你想要什么	what do you want dear	grupo	alternativoj	prononco
 level	ĉu estas libera loko?	有免费的地方吗？	is there a free place?	grupo	alternativoj	prononco
-level	jes, certe	是肯定的	yes, for sure	grupo	alternativoj	prononco
-level	tre agrable ĉi tie	这里非常好	very nice here	grupo	alternativoj	prononco
-level	ĉi tie en la gufujo	在茶室（owlery）	here in the tea launge(owlery)	grupo	alternativoj	prononco
-level	mi bezonas iom da trankvilo	我需要一些平静	I need some tranquility	grupo	alternativoj	prononco
-level	post tre streĉa tago	经过紧张的一天后	after a very stressful day	grupo	alternativoj	prononco
-level	trankvilo post streĉa tago	紧张的一天后的宁静	tranquility after a stressful day	grupo	alternativoj	prononco
-level	la etoso en gufujo	茶室（owlery）的气氛	the atmosphere in a tea launge(owlery)	grupo	alternativoj	prononco
-level	~ estas tre bona kontrasto	~ 是一个很好的对比	~ is a very good contrast	grupo	alternativoj	prononco
+level	jes, certe	是, 应该的	yes, for sure	grupo	alternativoj	prononco
+level	tre agrable ĉi tie	这里非常舒服	very nice here	grupo	alternativoj	prononco
+level	ĉi tie en la gufujo	在雕鸮茶店里	here in the tea launge(owlery)	grupo	alternativoj	prononco
+level	mi bezonas iom da trankvilo	我需要一些安静	I need some tranquility	grupo	alternativoj	prononco
+level	post tre streĉa tago	过很紧张的一天后	after a very stressful day	grupo	alternativoj	prononco
+level	trankvilo post streĉa tago	过紧张的一天后的宁静	tranquility after a stressful day	grupo	alternativoj	prononco
+level	la etoso en gufujo	雕鸮茶店的气氛	the atmosphere in a tea launge(owlery)	grupo	alternativoj	prononco
+level	~ estas tre bona kontrasto	是个很好的对比	~ is a very good contrast	grupo	alternativoj	prononco
 level	kontrasto al la aliaj okazaĵoj	与其他事件对比	contrast to the other events	grupo	alternativoj	prononco
 level	la aliaj okazaĵoj dum IJK	IJK期间的其他活动	the other events during IJK	grupo	alternativoj	prononco
-level	la etoso estas kontrasto al la aliaj okazaĵoj	气氛与其他活动形成鲜明对比	the atmosphere is a contrast to the other events	grupo	alternativoj	prononco
-level	estas tre bona kontrasto, ĉu ne?	这是一个非常好的对比，不是吗？	it's a very good contrast, isn't it?	grupo	alternativoj	prononco
-level	jes, mallaŭta muziko	是的，轻音乐	yes, soft music	grupo	alternativoj	prononco
-level	mallaŭta muziko, trankvila babilado	轻柔的音乐，安静的谈话	soft music, quiet conversation	grupo	alternativoj	prononco
-level	trankvila babilado kaj iu interesa teo	安静的聊天和一些有趣的茶	quiet chat and some interesting tea	grupo	alternativoj	prononco
-level	perfekte por rehavi fortojn	非常适合恢复体力	perfect for regaining strength	grupo	alternativoj	prononco
-level	vi ŝajnas ege laca	你看起来很累	you seem extremely tired	grupo	alternativoj	prononco
+level	la etoso estas kontrasto al la aliaj okazaĵoj	这里的气氛与其他活动形成鲜明对比	the atmosphere is a contrast to the other events	grupo	alternativoj	prononco
+level	estas tre bona kontrasto, ĉu ne?	是个非常好的对比，不是吗？	it's a very good contrast, isn't it?	grupo	alternativoj	prononco
+level	jes, mallaŭta muziko	是的，安静的音乐	yes, soft music	grupo	alternativoj	prononco
+level	mallaŭta muziko, trankvila babilado	安静的音乐，安静的谈话	soft music, quiet conversation	grupo	alternativoj	prononco
+level	trankvila babilado kaj iu interesa teo	安静的聊天和有趣的茶	quiet chat and some interesting tea	grupo	alternativoj	prononco
+level	perfekte por rehavi fortojn	为了恢复体力非常适合	perfect for regaining strength	grupo	alternativoj	prononco
+level	vi ŝajnas ege laca	看起来你很累	you seem extremely tired	grupo	alternativoj	prononco
 level	kion vi faris dum la tuta tago?	你一天做了啥？	what did you do all day?	grupo	alternativoj	prononco
-level	unue mi faris afiŝon	首先我发了一个帖子	first I made a post	grupo	alternativoj	prononco
-level	afiŝo por la morgaŭaj ekskursoj	发布明天的短途旅行	post for tomorrow's excursions	grupo	alternativoj	prononco
-level	mi faris afiŝon por ekskursoj	我发了一篇关于旅行的帖子	I made a post for excursions	grupo	alternativoj	prononco
+level	unue mi faris afiŝon	首先我发了个帖子	first I made a post	grupo	alternativoj	prononco
+level	afiŝo por la morgaŭaj ekskursoj	发了个明天的短途旅行的帖子	post for tomorrow's excursions	grupo	alternativoj	prononco
+level	mi faris afiŝon por ekskursoj	我发了关于旅行的帖子	I made a post for excursions	grupo	alternativoj	prononco
 level	cetere, ĉu vi iros?	顺便问一下，你要去吗？	by the way, are you going?	grupo	alternativoj	prononco
 level	iros al ekskurso	将去旅行	will go on an excursion	grupo	alternativoj	prononco
-level	ĉu vi iros al iu ekskurso?	你要去旅行吗？	are you going on any excursion?	grupo	alternativoj	prononco
+level	ĉu vi iros al iu ekskurso?	你要参加哪个旅行？	are you going on any excursion?	grupo	alternativoj	prononco
 level	jes, al la granda akvofalo	是的，去大瀑布	yes, to the great waterfall	grupo	alternativoj	prononco
 level	kaj poste al ekspozicio	然后去一个展览	and then to an exhibition	grupo	alternativoj	prononco
-level	ekspozicio pri moderna arto	现代艺术展览	an exhibition on modern art	grupo	alternativoj	prononco
+level	ekspozicio pri moderna arto	有关现代艺术的展览	an exhibition on modern art	grupo	alternativoj	prononco
 level	al akvofalo kaj poste al ekspozicio	去瀑布，然后去展览	to a waterfall and then to an exhibition	grupo	alternativoj	prononco
-level	bona elekto	一个不错的选择	a good choice	grupo	alternativoj	prononco
+level	bona elekto	不错的选择	a good choice	grupo	alternativoj	prononco
 level	ankaŭ mi iros tien	我也会去那里	I will go there too	grupo	alternativoj	prononco
 level	ĉiukaze, mi gvidis diskutrondon	无论如何，我领导了一个讨论组	anyway, I led a discussion group	grupo	alternativoj	prononco
 level	pendigi afiŝojn	悬挂海报	to hang posters	grupo	alternativoj	prononco
-level	post la pendigado de la ekskursafiŝoj	悬挂游览海报后	after the hanging of the excursion posters	grupo	alternativoj	prononco
+level	post la pendigado de la ekskursafiŝoj	悬挂关于游览的海报后	after the hanging of the excursion posters	grupo	alternativoj	prononco
 level	diskutrondo kun la titolo "feminismo"	主题为“女权主义”的讨论组	discussion group with the title "feminism"	grupo	alternativoj	prononco
 level	gvidis diskuton kun la titolo "feminismo"	主持了一场题为“女权主义”的讨论	led a discussion with the title "feminism"	grupo	alternativoj	prononco
 level	ĉu feminismo samas en diversaj landoj?	不同国家的女权主义都一样吗？	is feminism the same in different countries?	grupo	alternativoj	prononco
@@ -766,75 +766,75 @@ level	mi estis en longa kunsido	我正在参加一个很长的会议	I was in a 
 level	dum lastaj horoj mi estis en komitatkunsido	过去几个小时我一直在参加委员会会议	for the last few hours I have been in a committee meeting	grupo	alternativoj	prononco
 level	en longa komitatkunsido	在一次漫长的委员会会议上	in a long committee meeting	grupo	alternativoj	prononco
 level	vere estis tro longa	确实太长了	it really was too long	grupo	alternativoj	prononco
-level	la komitato finkunsidis	委员会结束会议	the committee has concluded its meeting	grupo	alternativoj	prononco
+level	la komitato finkunsidis	委员会会议结束了	the committee has concluded its meeting	grupo	alternativoj	prononco
 level	sed nun la komitato finis kunsidon	但现在委员会已经结束会议了	but now the committee has finished the meeting	grupo	alternativoj	prononco
 level	vere estis longa, sed nun finiĝis	真的很长，但现在结束了	it was really long, but now it's over	grupo	alternativoj	prononco
 level	ha, vi do estas komitatano?	哦，那么你是委员会成员吗？	oh, so you're a committee member?	grupo	alternativoj	prononco
 level	la estraro de TEJO	TEJO 董事会	the board of TEJO	grupo	alternativoj	prononco
-level	mi ankaŭ estas en la estraro	我也在板上	I'm also on the board	grupo	alternativoj	prononco
+level	mi ankaŭ estas en la estraro	我也是董事会的成员	I'm also on the board	grupo	alternativoj	prononco
 level	jes, mi ankaŭ estas ~	是的，我也是~	yes, I am too ~	grupo	alternativoj	prononco
 level	ankaŭ estas en la estraro de TEJO	也是 TEJO 的董事会成员	is also on the board of TEJO	grupo	alternativoj	prononco
-level	jes, kaj mi estas ~	是的，还有我~	yes, and I'm ~	grupo	alternativoj	prononco
-level	mi neniam estis aktiva	我从来没有主动过	I have never been active	grupo	alternativoj	prononco
-level	tre aktiva en la movado	运动非常活跃	very active in the movement	grupo	alternativoj	prononco
-level	neniam estis aktiva en la movado	从未积极参与运动	was never active in the movement	grupo	alternativoj	prononco
+level	jes, kaj mi estas ~	是的，还有我是~	yes, and I'm ~	grupo	alternativoj	prononco
+level	mi neniam estis aktiva	我从来没有积极活动过	I have never been active	grupo	alternativoj	prononco
+level	tre aktiva en la movado	在活动非常活跃	very active in the movement	grupo	alternativoj	prononco
+level	neniam estis aktiva en la movado	从未没有积极参与过运动	was never active in the movement	grupo	alternativoj	prononco
 level	la ĉefa agado de TEJO	TEJO的主要活动	the main activity of TEJO	grupo	alternativoj	prononco
-level	kio estas la ĉefa agado nun?	现在主要活动是什么？	what is the main activity now?	grupo	alternativoj	prononco
+level	kio estas la ĉefa agado nun?	现在的主要活动是什么？	what is the main activity now?	grupo	alternativoj	prononco
 level	fakte kio estas la ĉefa agado?	实际上主要活动是什么？	actually what is the main activity?	grupo	alternativoj	prononco
-level	ĝi estas vasta	它是广阔的	it is vast	grupo	alternativoj	prononco
-level	plej diversaj kampoj	广泛的领域	a wide variety of fields	grupo	alternativoj	prononco
+level	ĝi estas vasta	是广泛的	it is vast	grupo	alternativoj	prononco
+level	plej diversaj kampoj	很广泛的领域	a wide variety of fields	grupo	alternativoj	prononco
 level	en diversaj kampoj ni havas agadon	我们在各个领域都有活动	in various fields we have activity	grupo	alternativoj	prononco
-level	seminarioj pri homaj rajtoj	人权研讨会	seminars on human rights	grupo	alternativoj	prononco
-level	homaj rajtoj kaj interkulturaj rilatoj	人权和跨文化关系	human rights and intercultural relations	grupo	alternativoj	prononco
-level	biciklo, karavano, festivalo	自行车、大篷车、节日	bicycle, caravan, festival	grupo	alternativoj	prononco
-level	ekzemple seminarioj, biciklokaravanoj kaj festivaloj	例如研讨会、自行车大篷车和节日	for example seminars, bicycle caravans and festivals	grupo	alternativoj	prononco
+level	seminarioj pri homaj rajtoj	关于人权的研讨会	seminars on human rights	grupo	alternativoj	prononco
+level	homaj rajtoj kaj interkulturaj rilatoj	人权和跨文化的关系	human rights and intercultural relations	grupo	alternativoj	prononco
+level	biciklo, karavano, festivalo	自行车、团队、节日	bicycle, caravan, festival	grupo	alternativoj	prononco
+level	ekzemple seminarioj, biciklokaravanoj kaj festivaloj	例如研讨会、自行车团队和节日	for example seminars, bicycle caravans and festivals	grupo	alternativoj	prononco
 level	lingvaj festivaloj, konstruado de ttt-paĝoj	语言节、建设网页	language festivals, building web pages	grupo	alternativoj	prononco
-level	ekzemple biciklokaravanoj, festivaloj ktp	例如自行车大篷车、节日等	for example bicycle caravans, festivals etc	grupo	alternativoj	prononco
+level	ekzemple biciklokaravanoj, festivaloj ktp	例如自行车团队、节日等	for example bicycle caravans, festivals etc	grupo	alternativoj	prononco
 level	seminario pri rajtoj kaj rilatoj	关于权利和关系的研讨会	a seminar about rights and relationship	grupo	alternativoj	prononco
-level	karavano, festivalo, konstruado ktp	大篷车、节日、建筑等	caravan, festival, construction etc	grupo	alternativoj	prononco
-level	oficialaj instancoj kiel UNESKO	联合国教科文组织等官方机构	official bodies such as UNESCO	grupo	alternativoj	prononco
-level	reprezentitaj en oficialaj instancoj	在官方机构中有代表	represented in official bodies	grupo	alternativoj	prononco
-level	ni ankaŭ estas reprezentitaj	我们也有代表	we are also represented	grupo	alternativoj	prononco
+level	karavano, festivalo, konstruado ktp	团队、节日、建筑等	caravan, festival, construction etc	grupo	alternativoj	prononco
+level	oficialaj instancoj kiel UNESKO	类似联合国教科文组织等的公共机构	official bodies such as UNESCO	grupo	alternativoj	prononco
+level	reprezentitaj en oficialaj instancoj	在公共机构中有代表	represented in official bodies	grupo	alternativoj	prononco
+level	ni ankaŭ estas reprezentitaj	我们也代表着	we are also represented	grupo	alternativoj	prononco
 level	estas reprezentita en diversaj instancoj	在各个机构中都有代表	is represented in various bodies	grupo	alternativoj	prononco
 level	instancoj kiel Forumo Junulara Eŭropa, UNESKO	欧洲青年论坛、联合国教科文组织等机构	bodies such as the European Youth Forum, UNESCO	grupo	alternativoj	prononco
 level	la junulara sekcio de Unuiĝintaj Nacioj	联合国青年部	the youth section of the United Nations	grupo	alternativoj	prononco
-level	diversaj instancoj kiel UNESKO kaj la junulara sekcio de UN	教科文组织和联合国青年部门等各种机构	various bodies such as UNESCO and the youth section of the UN	grupo	alternativoj	prononco
-level	UNESKO kaj la junulara sekcio de Unuiĝintaj Nacioj	教科文组织和联合国青年部门	UNESCO and the youth section of the United Nations	grupo	alternativoj	prononco
+level	diversaj instancoj kiel UNESKO kaj la junulara sekcio de UN	联合国教科文组织和联合国青年部门等各种机构	various bodies such as UNESCO and the youth section of the UN	grupo	alternativoj	prononco
+level	UNESKO kaj la junulara sekcio de Unuiĝintaj Nacioj	联合国教科文组织和联合国青年部门	UNESCO and the youth section of the United Nations	grupo	alternativoj	prononco
 level	Forumo Junulara Eŭropa kaj la junulara sekcio de UN	欧洲青年论坛和联合国青年部分	European Youth Forum and the youth section of the UN	grupo	alternativoj	prononco
 level	sonas interese	听起来不错	sounds interesting	grupo	alternativoj	prononco
-level	folio, foliumi, vento, ventumi, esperanto, esperantumi	一片叶子，浏览，一阵风，扇动，世界语，享受世界语	a leaf, to browse, a wind, to fan, Esperanto, to enjoy Esperanto	grupo	alternativoj	prononco
-level	por mi sufiĉas esperantumi	对我来说，会说世界语就足够了	for me it's enough to speak Esperanto	grupo	alternativoj	prononco
+level	folio, foliumi, vento, ventumi, esperanto, esperantumi	叶子，翻阅，一阵风，打扇，世界语，享受世界语	a leaf, to browse, a wind, to fan, Esperanto, to enjoy Esperanto	grupo	alternativoj	prononco
+level	por mi sufiĉas esperantumi	对我来说，世界语就足够了	for me it's enough to speak Esperanto	grupo	alternativoj	prononco
 level	esperantumi unu aŭ du semajnojn	享受世界语一两周	to enjoy Esperanto for a week or two	grupo	alternativoj	prononco
-level	unu aŭ du semajnojn jare	一年一两周	one or two weeks a year	grupo	alternativoj	prononco
+level	unu aŭ du semajnojn jare	每年在一两周的时间	one or two weeks a year	grupo	alternativoj	prononco
 level	tamen por mi sufiĉas	不过，这对我来说已经足够了	however, it is enough for me	grupo	alternativoj	prononco
 level	jes, oni trovu ~	是的，应该能找到~	yes, one should find ~	grupo	alternativoj	prononco
-level	trovi ekvilibron	找到平衡	to find balance	grupo	alternativoj	prononco
-level	oni trovu sian ekvilibron	每个人都应该找到自己的平衡点	everyone should find one's own balance	grupo	alternativoj	prononco
+level	trovi ekvilibron	找到均衡	to find balance	grupo	alternativoj	prononco
+level	oni trovu sian ekvilibron	每个人应该找到自己的平衡点	everyone should find one's own balance	grupo	alternativoj	prononco
 level	mi sentas ke estas tro	我觉得太多了	I feel it's too much	grupo	alternativoj	prononco
-level	ĝuste nun mi sentas	现在我感觉	right now I feel	grupo	alternativoj	prononco
-level	mi sentas ke ~	我是这么感觉的~	I feel that ~	grupo	alternativoj	prononco
-level	sentas ke estas tro da ~	感觉太多了~	feels like there are too many ~	grupo	alternativoj	prononco
-level	tro da Esperanto en mia vivo	我的生活中有太多世界语	too much Esperanto in my life	grupo	alternativoj	prononco
-level	estas tro da Esperanto en mia vivo	我的生活中有太多世界语	there is too much Esperanto in my life	grupo	alternativoj	prononco
+level	ĝuste nun mi sentas	现在我觉得	right now I feel	grupo	alternativoj	prononco
+level	mi sentas ke ~	我觉得~	I feel that ~	grupo	alternativoj	prononco
+level	sentas ke estas tro da ~	觉得太多了~	feels like there are too many ~	grupo	alternativoj	prononco
+level	tro da Esperanto en mia vivo	我的生活中世界语太多	too much Esperanto in my life	grupo	alternativoj	prononco
+level	estas tro da Esperanto en mia vivo	我的生活中有关世界语的太多	there is too much Esperanto in my life	grupo	alternativoj	prononco
 level	ĉu vi estas membro?	你是会员吗？	are you a member?	grupo	alternativoj	prononco
-level	ĉu vi estas membro de organizo?	您是某个组织的成员吗？	are you a member of an organization?	grupo	alternativoj	prononco
+level	ĉu vi estas membro de organizo?	您是组织的成员吗？	are you a member of an organization?	grupo	alternativoj	prononco
 level	membro de iu alia organizo	其他组织的成员	a member of some other organization	grupo	alternativoj	prononco
 level	ne vere organizo, sed ~	不是一个真正的组织，但是〜	not really an organization, but ~	grupo	alternativoj	prononco
-level	sed mi ludas gitaron	但我弹吉他	but I play guitar	grupo	alternativoj	prononco
+level	sed mi ludas gitaron	但我会弹吉他	but I play guitar	grupo	alternativoj	prononco
 level	ludas gitaron en bando	在乐队中弹吉他	plays guitar in a band	grupo	alternativoj	prononco
-level	bele! mi tre ŝatas	好的！我很喜欢	nice! I really like	grupo	alternativoj	prononco
+level	bele! mi tre ŝatas	漂亮地！我很喜欢	nice! I really like	grupo	alternativoj	prononco
 level	mi ŝatas kanti	我喜欢唱歌	I like to sing	grupo	alternativoj	prononco
 level	tre ŝatas kanti	非常喜欢唱歌	likes to sing very much	grupo	alternativoj	prononco
-level	kian muzikon vi ludas?	你播放什么类型的音乐？	what kind of music do you play?	grupo	alternativoj	prononco
+level	kian muzikon vi ludas?	你演奏什么样的音乐？	what kind of music do you play?	grupo	alternativoj	prononco
 level	nu, estas simpla popo	嗯，很简单的流行音乐	well, it's simple pop	grupo	alternativoj	prononco
 level	ni ĵus fondis la bandon	我们刚刚组建乐队	we just started the band	grupo	alternativoj	prononco
-level	sed eventuale ni ludos	但最终我们会玩	but eventually we will play	grupo	alternativoj	prononco
-level	ni ludis dum la IJK	我们在 IJK 期间玩过	we played during the IJK	grupo	alternativoj	prononco
-level	ludos dum la venonta IJK	将在下一个 IJK 期间播放	will play during the next IJK	grupo	alternativoj	prononco
+level	sed eventuale ni ludos	但终于我们会演奏	but eventually we will play	grupo	alternativoj	prononco
+level	ni ludis dum la IJK	我们在 IJK 期间演奏过	we played during the IJK	grupo	alternativoj	prononco
+level	ludos dum la venonta IJK	将在下一个 IJK演奏	will play during the next IJK	grupo	alternativoj	prononco
 level	mi jam antaŭĝojas!	我已经很期待了！	I'm already looking forward to it!	grupo	alternativoj	prononco
 level	nur diru se vi bezonas ~	有需要就说吧~	just say if you need ~	grupo	alternativoj	prononco
-level	bezonas iun helpkantiston	需要一些伴唱	needs some backup singer	grupo	alternativoj	prononco
-level	se vi bezonas helpkantiston	如果你需要伴唱	if you need a backup singer	grupo	alternativoj	prononco
+level	bezonas iun helpkantiston	需要一位替补歌手	needs some backup singer	grupo	alternativoj	prononco
+level	se vi bezonas helpkantiston	如果你需要替补歌手	if you need a backup singer	grupo	alternativoj	prononco
 level	kial ne? eble vi volas ~	为什么不？也许你想要~	why not? maybe you want ~	grupo	alternativoj	prononco
 level	vi volas kanti ion nun	你现在想唱点什么	you want to sing something now	grupo	alternativoj	prononco
 level	mi povas ludi gitaron	我会弹吉他	I can play guitar	grupo	alternativoj	prononco
@@ -845,146 +845,146 @@ level	venigi mian gitaron	带上我的吉他	to bring my guitar	grupo	alternativ
 level	tuj venigos mian gitaron	我会马上带来我的吉他	will bring my guitar right away	grupo	alternativoj	prononco
 level	tre bone, mi venigos gitaron	很好，我会带一把吉他	very well, I'll bring a guitar	grupo	alternativoj	prononco
 level	mi tuj venigos mian gitaron	我马上带上我的吉他	I'll bring my guitar right away	grupo	alternativoj	prononco
-level	atendas vian revenon	等待你的归来	waits for your return	grupo	alternativoj	prononco
+level	atendas vian revenon	等你回来吧	waits for your return	grupo	alternativoj	prononco
 level	via espereble rapida reveno	希望你能尽快回来	your hopefully speedy return	grupo	alternativoj	prononco
-level	mi atendas rapidan revenon	我期待快速回报	I expect a quick return	grupo	alternativoj	prononco
-level	atendas vian espereble rapidan revenon	等待着你希望的快速归来	waits for your hopefully speedy return	grupo	alternativoj	prononco
+level	mi atendas rapidan revenon	我等着迅速回来	I expect a quick return	grupo	alternativoj	prononco
+level	atendas vian espereble rapidan revenon	希望你的快速回来	waits for your hopefully speedy return	grupo	alternativoj	prononco
 level	du tagojn poste	两天后	two days later	grupo	alternativoj	prononco
-level	ekster la dancejo	舞池外	outside the dance floor	grupo	alternativoj	prononco
-level	tagojn poste, ekster la dancejo	几天后，舞池外	days later, outside the dance floor	grupo	alternativoj	prononco
-level	ej Kabe, vi aspektas ~	嘿卡贝你看~	hey Kabe, you look ~	grupo	alternativoj	prononco
+level	ekster la dancejo	在舞池外边	outside the dance floor	grupo	alternativoj	prononco
+level	tagojn poste, ekster la dancejo	几天后, 在舞池外边	days later, outside the dance floor	grupo	alternativoj	prononco
+level	ej Kabe, vi aspektas ~	嘿, 卡贝, 看起来你是像~似的	hey Kabe, you look ~	grupo	alternativoj	prononco
 level	vi aspektas feliĉega	你看起来很高兴	you look very happy	grupo	alternativoj	prononco
 level	jes, mi estas ~	是的，我就是~	yes, I am ~	grupo	alternativoj	prononco
 level	bele, mi ĝojas!	很好，我很高兴！	nicely, I'm glad!	grupo	alternativoj	prononco
-level	kongreso plaĉas al vi?	你喜欢国会吗？	do you like congress?	grupo	alternativoj	prononco
-level	ĉu la kongreso tiom plaĉas al vi?	你这么喜欢大会吗？	do you like the congress that much?	grupo	alternativoj	prononco
+level	kongreso plaĉas al vi?	你喜欢大会吗？	do you like congress?	grupo	alternativoj	prononco
+level	ĉu la kongreso tiom plaĉas al vi?	你喜欢这个大会吗？	do you like the congress that much?	grupo	alternativoj	prononco
 level	jes kaj ne	是和否	yes and no	grupo	alternativoj	prononco
-level	certe mi tre kontentas	我确信我非常满意	I'm sure I'm very satisfied	grupo	alternativoj	prononco
+level	certe mi tre kontentas	确实我非常满意	I'm sure I'm very satisfied	grupo	alternativoj	prononco
 level	tre kontentas pri IJK	对IJK非常满意	is very satisfied with IJK	grupo	alternativoj	prononco
 level	sed estas io alia	但还有别的事	but there is something else	grupo	alternativoj	prononco
-level	io alia, kio feliĉigas min	其他让我高兴的事情	something else, that makes me happy	grupo	alternativoj	prononco
-level	estas io kio feliĉigas ~	是一些使〜	is something that makes ~	grupo	alternativoj	prononco
+level	io alia, kio feliĉigas min	让我高兴的某个事情	something else, that makes me happy	grupo	alternativoj	prononco
+level	estas io kio feliĉigas ~	有什么东西让~幸福的	is something that makes ~	grupo	alternativoj	prononco
 level	pli ĝuste dirite	更正确地说	more correctly said	grupo	alternativoj	prononco
-level	estas iu, kiu batigas ~	有人打~	there is someone who beats ~	grupo	alternativoj	prononco
+level	estas iu, kiu batigas ~	有一位敲打~的人	there is someone who beats ~	grupo	alternativoj	prononco
 level	iu kiu batigas mian koron	一个让我心跳的人	someone who makes my heart beat	grupo	alternativoj	prononco
-level	diru, diru, ĉu vi enamiĝis?	说吧，说吧，你恋爱了吗？	say, say, have you fallen in love?	grupo	alternativoj	prononco
+level	diru, diru, ĉu vi enamiĝis?	说吧，说吧，你爱上谁了吗？	say, say, have you fallen in love?	grupo	alternativoj	prononco
 level	enamiĝis al iu knabino	爱上了某个女孩	fell in love with some girl	grupo	alternativoj	prononco
 level	ĉu vi enamiĝis al knabino?	你爱上一个女孩了吗？	did you fall in love with a girl?	grupo	alternativoj	prononco
-level	ne certas ĉu mi enamiĝis	不确定我是否坠入爱河	is not sure if I fell in love	grupo	alternativoj	prononco
+level	ne certas ĉu mi enamiĝis	不确定,我是否爱上了某个人	is not sure if I fell in love	grupo	alternativoj	prononco
 level	ne certas, sed sentiĝas bone	不确定，但感觉不错	is not sure, but it feels good	grupo	alternativoj	prononco
-level	mi ne certas ĉu mi jam enamiĝis	我不确定我是否恋爱了	I'm not sure if I'm in love yet	grupo	alternativoj	prononco
+level	mi ne certas ĉu mi jam enamiĝis	我不确定我是否爱上了某个人	I'm not sure if I'm in love yet	grupo	alternativoj	prononco
 level	sed sentiĝas tre bone	但感觉很好	but it feels very good	grupo	alternativoj	prononco
 level	ŝi eĉ kisis min	她甚至吻了我	she even kissed me	grupo	alternativoj	prononco
 level	kisis min sur la buŝon	吻了我的嘴唇	kissed me on the lips	grupo	alternativoj	prononco
-level	eĉ kisis min dum labambo	甚至在 La Bamba 期间吻了我	even kissed me during La Bamba	grupo	alternativoj	prononco
+level	eĉ kisis min dum labambo	甚至在跳 La Bamba舞中吻了我	even kissed me during La Bamba	grupo	alternativoj	prononco
 level	mirinde kian kison	令人惊奇的吻	amazing what a kiss	grupo	alternativoj	prononco
 level	kian kison ŝi donis!	她给了一个多么美好的吻啊！	what a kiss she gave!	grupo	alternativoj	prononco
-level	bonege! nun mi komprenas	伟大的！现在我明白了	great! now I understand	grupo	alternativoj	prononco
-level	komprenas kial vi elradias	明白你为何辐射	understands why you are radiating	grupo	alternativoj	prononco
+level	bonege! nun mi komprenas	真棒！现在我明白了	great! now I understand	grupo	alternativoj	prononco
+level	komprenas kial vi elradias	明白你为何红光满面	understands why you are radiating	grupo	alternativoj	prononco
 level	vi elradias tiom da ĝojo	你散发出如此多的欢乐	you exude so much joy	grupo	alternativoj	prononco
-level	fakte, io simila okazis	事实上，类似的事情也发生过	in fact, something similar happened	grupo	alternativoj	prononco
+level	fakte, io simila okazis	确实 ，类似的事情发生了	in fact, something similar happened	grupo	alternativoj	prononco
 level	io simila okazis al mi	类似的事情发生在我身上	something similar happened to me	grupo	alternativoj	prononco
-level	sed mi pensis ke ~	但我就是这么想的~	but I thought that ~	grupo	alternativoj	prononco
+level	sed mi pensis ke ~	但我想~	but I thought that ~	grupo	alternativoj	prononco
 level	pensis ke vi ne ŝatas ~	以为你不喜欢~	thought you didn't like ~	grupo	alternativoj	prononco
-level	vi ne ŝatas labambumi	你不喜欢 La Bamba 的舞蹈	you don't like dance on La Bamba	grupo	alternativoj	prononco
+level	vi ne ŝatas labambumi	你不喜欢 La Bamba 舞	you don't like dance on La Bamba	grupo	alternativoj	prononco
 level	prave, ne okazis	是的，这没有发生	right, it didn't happen	grupo	alternativoj	prononco
-level	okazis en la dancejo	发生在舞池里	happened in the dance floor	grupo	alternativoj	prononco
-level	ne okazis en dancejo	这不是发生在舞池上	it didn't happen on a dance floor	grupo	alternativoj	prononco
-level	sed en la Gufujo	但在茶室（Owlery）	but in the tea launge(Owlery)	grupo	alternativoj	prononco
-level	kaj ne estis kiso	这不是吻	and it was not kiss	grupo	alternativoj	prononco
-level	ne kiso sed tamen io ĝojiga	不是一个吻，但仍然是令人欣慰的事情	not a kiss but still something gratifying	grupo	alternativoj	prononco
-level	sed tamen io tre ĝojiga	但仍然有一些非常令人高兴的事情	but nevertheless something very joyful	grupo	alternativoj	prononco
-level	do, rakontu!	所以，告诉吧！	so, tell!	grupo	alternativoj	prononco
+level	okazis en la dancejo	在舞池里发生	happened in the dance floor	grupo	alternativoj	prononco
+level	ne okazis en dancejo	这不是在舞池上发生的	it didn't happen on a dance floor	grupo	alternativoj	prononco
+level	sed en la Gufujo	而是在雕鸮茶店里	but in the tea launge(Owlery)	grupo	alternativoj	prononco
+level	kaj ne estis kiso	这不是接吻	and it was not kiss	grupo	alternativoj	prononco
+level	ne kiso sed tamen io ĝojiga	不是个接吻，但仍然是令人欣慰的事情	not a kiss but still something gratifying	grupo	alternativoj	prononco
+level	sed tamen io tre ĝojiga	但还是非常令人高兴的事情	but nevertheless something very joyful	grupo	alternativoj	prononco
+level	do, rakontu!	那，说吧！	so, tell!	grupo	alternativoj	prononco
 level	mi ne scias kion diri	我不知道该说些什么	I don't know what to say	grupo	alternativoj	prononco
 level	ne scias kion diri vere	真的不知道该说什么	don't know what to say really	grupo	alternativoj	prononco
 level	nenio speciala okazis	没有什么特别的事情发生	nothing special happened	grupo	alternativoj	prononco
-level	almenaŭ ankoraŭ ne okazis	至少它还没有发生	at least it hasn't happened yet	grupo	alternativoj	prononco
-level	sed mi iel sentis ~	但我不知怎的感觉到了~	but I somehow felt ~	grupo	alternativoj	prononco
+level	almenaŭ ankoraŭ ne okazis	至少还没有发生了	at least it hasn't happened yet	grupo	alternativoj	prononco
+level	sed mi iel sentis ~	但我不知何故的感觉到了~	but I somehow felt ~	grupo	alternativoj	prononco
 level	sentis ke ŝi tre ŝatas min	感觉她很喜欢我	felt that she likes me very much	grupo	alternativoj	prononco
-level	iel sentis ke ŝi tre ŝatas min	不知何故感觉她很喜欢我	somehow felt that she likes me very much	grupo	alternativoj	prononco
+level	iel sentis ke ŝi tre ŝatas min	不知何故的感觉她很喜欢我	somehow felt that she likes me very much	grupo	alternativoj	prononco
 level	ŝi ŝatas min kaj mi ŝin	她喜欢我，我也喜欢她	she likes me and I like her	grupo	alternativoj	prononco
-level	ni longe babilis pri ~	我们聊了很久~	we chatted for a long time about ~	grupo	alternativoj	prononco
-level	longe babilis pri muziko	聊了很长时间关于音乐的话题	had a long chat about music	grupo	alternativoj	prononco
+level	ni longe babilis pri ~	关于~,我们聊了很久	we chatted for a long time about ~	grupo	alternativoj	prononco
+level	longe babilis pri muziko	关于音乐聊了很长时间	had a long chat about music	grupo	alternativoj	prononco
 level	kaj poste kantis kune	然后一起唱歌	and then sang together	grupo	alternativoj	prononco
-level	mi pensas ke ŝi flirtumis	我觉得她在调情	I think she was flirting	grupo	alternativoj	prononco
-level	ŝi flirtumis kun mi	她在跟我调情	she was flirting with me	grupo	alternativoj	prononco
-level	estis tre agrable	这个真好	it was very nice	grupo	alternativoj	prononco
-level	kiel diras via amiko de Kanado	正如你的加拿大朋友所说	as your friend from Canada says	grupo	alternativoj	prononco
-level	"Malfeke!", kiel diras amiko de Kanado	正如一位来自加拿大的朋友所说：“太棒了！”	"Shit good!", as a friend from Canada says	grupo	alternativoj	prononco
-level	jes, vere! mi esperas ~	对真的！我希望~	yes, really! I hope ~	grupo	alternativoj	prononco
+level	mi pensas ke ŝi flirtumis	我觉得她在勾引	I think she was flirting	grupo	alternativoj	prononco
+level	ŝi flirtumis kun mi	她勾引我	she was flirting with me	grupo	alternativoj	prononco
+level	estis tre agrable	这是真好	it was very nice	grupo	alternativoj	prononco
+level	kiel diras via amiko de Kanado	就像加拿大朋友所说的	as your friend from Canada says	grupo	alternativoj	prononco
+level	"Malfeke!", kiel diras amiko de Kanado	就像加拿大朋友所说：“太棒了！”	"Shit good!", as a friend from Canada says	grupo	alternativoj	prononco
+level	jes, vere! mi esperas ~	是, 真的！我希望~	yes, really! I hope ~	grupo	alternativoj	prononco
 level	renkonti ŝin baldaŭ denove	很快就能再次见到她	to meet her again soon	grupo	alternativoj	prononco
 level	esperas renkonti ŝin denove	希望再次见到她	hopes to meet her again	grupo	alternativoj	prononco
 level	mi esperas renkonti ŝin baldaŭ	我希望很快就能见到她	I hope to meet her soon	grupo	alternativoj	prononco
-level	same mi	同样的我	same me	grupo	alternativoj	prononco
-level	ĉe lago proksime de ~	附近的一个湖~	at a lake near ~	grupo	alternativoj	prononco
-level	lago proksime de kongresejo	会议地点附近的一个湖	a lake near a congress place	grupo	alternativoj	prononco
-level	proksime de la kongresejo	靠近国会厅	near the congress hall	grupo	alternativoj	prononco
+level	same mi	我也一样	same me	grupo	alternativoj	prononco
+level	ĉe lago proksime de ~	在~附近的一个湖	at a lake near ~	grupo	alternativoj	prononco
+level	lago proksime de kongresejo	大会场附近的一个湖	a lake near a congress place	grupo	alternativoj	prononco
+level	proksime de la kongresejo	靠近大会场	near the congress hall	grupo	alternativoj	prononco
 level	ho, ankaŭ vi estas ~	哦，你也是~	oh, you are too ~	grupo	alternativoj	prononco
 level	ankaŭ vi estas ĉi tie!?	你也在这里！？	you are here too!?	grupo	alternativoj	prononco
 level	jes, mi renkontos ~	是的，我会遇见的~	yes, I will meet ~	grupo	alternativoj	prononco
-level	renkontos amikon ĉi tie baldaŭ	很快就会在这里见到朋友	will meet a friend here soon	grupo	alternativoj	prononco
-level	por privata interparolo	进行私人谈话	for a private conversation	grupo	alternativoj	prononco
-level	renkontos amikon por privata interparolo	将与一位朋友进行私人谈话	will meet a friend for a private conversation	grupo	alternativoj	prononco
-level	do, mi ŝatus peti vin ~	所以想请教一下~	so, I would like to ask you ~	grupo	alternativoj	prononco
-level	mi ŝatus peti vin foriri	我想请你离开	I'd like to ask you to leave	grupo	alternativoj	prononco
+level	renkontos amikon ĉi tie baldaŭ	很快就在这里见到朋友	will meet a friend here soon	grupo	alternativoj	prononco
+level	por privata interparolo	为了私人谈话	for a private conversation	grupo	alternativoj	prononco
+level	renkontos amikon por privata interparolo	为了私人谈话会跟朋友见面	will meet a friend for a private conversation	grupo	alternativoj	prononco
+level	do, mi ŝatus peti vin ~	所以想请你一下~	so, I would like to ask you ~	grupo	alternativoj	prononco
+level	mi ŝatus peti vin foriri	我想请你回避	I'd like to ask you to leave	grupo	alternativoj	prononco
 level	nu, tio ne eblas	好吧，那是不可能的	well, that's not possible	grupo	alternativoj	prononco
-level	tute ne eblas fakte	实际上根本不可能	is not possible at all actually	grupo	alternativoj	prononco
+level	tute ne eblas fakte	实际上不可能	is not possible at all actually	grupo	alternativoj	prononco
 level	kial? estas tre grava por mi!	为什么？这对我来说非常重要！	why? it is very important to me!	grupo	alternativoj	prononco
 level	tiu ĉi renkonto estas tre grava	这次会议非常重要	this meeting is very important	grupo	alternativoj	prononco
-level	do, bonvolu lasi min	所以请让我走	so please let me go	grupo	alternativoj	prononco
-level	bonvolu lasi min sola	请让我一个人待一会	please leave me alone	grupo	alternativoj	prononco
+level	do, bonvolu lasi min	所以请不打扰我	so please let me go	grupo	alternativoj	prononco
+level	bonvolu lasi min sola	请你让我一个人呆着吧	please leave me alone	grupo	alternativoj	prononco
 level	kiel mi ĵus diris,	就像我刚才说的，	like I just said,	grupo	alternativoj	prononco
 level	mi diris, tio ne eblas	我说那不可能	I said, that is not possible	grupo	alternativoj	prononco
-level	amiko de mi baldaŭ aperos	我的一个朋友很快就会出现	a friend of mine will appear soon	grupo	alternativoj	prononco
-level	ĉar ankaŭ amiko baldaŭ aperos	因为朋友很快也会出现	because a friend will soon appear too	grupo	alternativoj	prononco
-level	ankaŭ amiko aperos ĉi tie	朋友也会出现在这里	a friend will also appear here	grupo	alternativoj	prononco
-level	damne, tipe ke ĝuste nun	该死，通常是现在	damn, typically that right now	grupo	alternativoj	prononco
+level	amiko de mi baldaŭ aperos	我的一个朋友很快就到了	a friend of mine will appear soon	grupo	alternativoj	prononco
+level	ĉar ankaŭ amiko baldaŭ aperos	因为朋友很快就到了	because a friend will soon appear too	grupo	alternativoj	prononco
+level	ankaŭ amiko aperos ĉi tie	朋友也会到这里	a friend will also appear here	grupo	alternativoj	prononco
+level	damne, tipe ke ĝuste nun	该死，偏偏在这个时候	damn, typically that right now	grupo	alternativoj	prononco
 level	fakte temas pri la knabino	其实是关于那个女孩的	actually it's about the girl	grupo	alternativoj	prononco
-level	la knabino, pri kiu mi rakontis	我告诉过的那个女孩	the girl, whom I told about	grupo	alternativoj	prononco
+level	la knabino, pri kiu mi rakontis	我说过的那个女孩	the girl, whom I told about	grupo	alternativoj	prononco
 level	ŝia nomo estas Jesi cetere	顺便说一句，她的名字叫杰西	her name is Jesi by the way	grupo	alternativoj	prononco
-level	gekaraj! bonege ke vi povis veni	男孩和女孩！很高兴你能来	boys and girls! great that you could come	grupo	alternativoj	prononco
+level	gekaraj! bonege ke vi povis veni	大家好！很高兴你们能来到这儿	boys and girls! great that you could come	grupo	alternativoj	prononco
 level	mi tiom ĝojas vidi vin	我很高兴见到你	I'm so glad to see you	grupo	alternativoj	prononco
-level	mi ĝojas vidi vin denove	我很高兴能再见到您	I'm glad to see you again	grupo	alternativoj	prononco
-level	sed, vi aspektas ~	不过，你看~	but, you look ~	grupo	alternativoj	prononco
+level	mi ĝojas vidi vin denove	再见到您我很高兴	I'm glad to see you again	grupo	alternativoj	prononco
+level	sed, vi aspektas ~	不过，看起来你像~	but, you look ~	grupo	alternativoj	prononco
 level	vi aspektas ŝokitaj kaj konfuzitaj	你看起来很震惊又困惑	you look shocked and confused	grupo	alternativoj	prononco
-level	ŝokita kaj iel konfuzita	感到震惊和困惑	shocked and somehow confused	grupo	alternativoj	prononco
+level	ŝokita kaj iel konfuzita	震惊和困惑	shocked and somehow confused	grupo	alternativoj	prononco
 level	evidente	明显地	obviously	grupo	alternativoj	prononco
 level	do, mi supozas ke ~	所以我猜~	so, I guess ~	grupo	alternativoj	prononco
 level	vi jam ekkomprenis	你已经明白了	you already got it	grupo	alternativoj	prononco
-level	ekkomprenis kiel statas, ĉu?	明白是怎么回事吧？	understand how it is, right?	grupo	alternativoj	prononco
+level	ekkomprenis kiel statas, ĉu?	明白了怎么回事,是吧？	understand how it is, right?	grupo	alternativoj	prononco
 level	supozas ke vi jam komprenis	我想你已经明白了	guess you already understood	grupo	alternativoj	prononco
 level	jam ekkomprenis kiel statas	已经明白是怎么回事了	already understood how it is	grupo	alternativoj	prononco
 level	mi nenion komprenas!	我什么都不懂！	I don't understand anything!	grupo	alternativoj	prononco
-level	mi pensas ke mi ne volas ~	我想我不想~	I think I don't want ~	grupo	alternativoj	prononco
-level	ne volas kompreni	不想明白	doesn't want to understand	grupo	alternativoj	prononco
-level	mi ne volas kompreni	我不想明白	I don't want to understand	grupo	alternativoj	prononco
+level	mi pensas ke mi ne volas ~	我想我不愿意~	I think I don't want ~	grupo	alternativoj	prononco
+level	ne volas kompreni	不想理解	doesn't want to understand	grupo	alternativoj	prononco
+level	mi ne volas kompreni	我不想理解	I don't want to understand	grupo	alternativoj	prononco
 level	sed ne estas komplike!	但这并不复杂！	but it's not complicated!	grupo	alternativoj	prononco
 level	lasu al mi klarigi	让我解释	let me explain	grupo	alternativoj	prononco
 level	kiam Ina rakontis al mi	当伊娜告诉我时	when Ina told me	grupo	alternativoj	prononco
-level	rakontis al mi pri sia amiko	告诉我他自己的朋友	told me about his own friend	grupo	alternativoj	prononco
-level	amiko kiu lernis Esperanton	一个学过世界语的朋友	a friend who learned Esperanto	grupo	alternativoj	prononco
+level	rakontis al mi pri sia amiko	告诉我了有关他自己的朋友	told me about his own friend	grupo	alternativoj	prononco
+level	amiko kiu lernis Esperanton	学过世界语的朋友	a friend who learned Esperanto	grupo	alternativoj	prononco
 level	lernis Esperanton tre rapide	世界语学得很快	learned Esperanto very quickly	grupo	alternativoj	prononco
 level	amiko kiu nomiĝas Kabe	一个叫Kabe的朋友	a friend who is called Kabe	grupo	alternativoj	prononco
 level	mi kaptis ke ~	我已经抓住了~	I have caught that ~	grupo	alternativoj	prononco
-level	mi kaptis ke vi du jam konas	我知道你们两个已经认识了	I understood that you two already know each other	grupo	alternativoj	prononco
-level	vi du jam konas unu la alian	你们两个已经认识了	you two already know each other	grupo	alternativoj	prononco
-level	jes, sed. sed kio?	对，但是。但什么？	yes, but. but what?	grupo	alternativoj	prononco
-level	havis la impreson ke ~	印象中是~	had the impression that ~	grupo	alternativoj	prononco
-level	ni ambaŭ havis la impreson	我们都有这样的印象	we both had the impression	grupo	alternativoj	prononco
-level	vi flirtumis kun ni, kaj	你和我们调情，并且	you flirted with us, and	grupo	alternativoj	prononco
-level	la impreson ke vi flirtumis kun ni	你在和我们调情的印象	the impression that you were flirting with us	grupo	alternativoj	prononco
-level	tute prave!	绝对正确！	absolutely right!	grupo	alternativoj	prononco
-level	pro tio mi volis paroli	这就是为什么我想谈谈	that's why I wanted to talk	grupo	alternativoj	prononco
+level	mi kaptis ke vi du jam konas	我知道你们两已经认识了	I understood that you two already know each other	grupo	alternativoj	prononco
+level	vi du jam konas unu la alian	你们两已经互相认识了	you two already know each other	grupo	alternativoj	prononco
+level	jes, sed. sed kio?	是, 这有什么问题吗？	yes, but. but what?	grupo	alternativoj	prononco
+level	havis la impreson ke ~	~印象	had the impression that ~	grupo	alternativoj	prononco
+level	ni ambaŭ havis la impreson	我们俩都有这样的印象	we both had the impression	grupo	alternativoj	prononco
+level	vi flirtumis kun ni, kaj	你勾引了我们，并且	you flirted with us, and	grupo	alternativoj	prononco
+level	la impreson ke vi flirtumis kun ni	你勾引我们的印象	the impression that you were flirting with us	grupo	alternativoj	prononco
+level	tute prave!	非常正确！	absolutely right!	grupo	alternativoj	prononco
+level	pro tio mi volis paroli	这就是我想谈话的原因	that's why I wanted to talk	grupo	alternativoj	prononco
 level	mi volis paroli kun vi	我想和你谈谈	I wanted to talk to you	grupo	alternativoj	prononco
 level	paroli kun vi ambaŭ nun	现在就和你们俩谈谈	to talk to you both now	grupo	alternativoj	prononco
 level	aŭskultu mi petas	请听我说	listen to me please	grupo	alternativoj	prononco
 level	mi ofte tre ŝatas ~	我经常很喜欢~	I often really like ~	grupo	alternativoj	prononco
 level	ŝatas plurajn personojn samtempe	同时喜欢几个人	likes several people at once	grupo	alternativoj	prononco
 level	mi ŝatas plurajn personojn	我喜欢好几个人	I like several people	grupo	alternativoj	prononco
-level	ne gravas ĉu estas ~	是不是也没关系~	it doesn't matter if it's ~	grupo	alternativoj	prononco
-level	ĉu estas viro aŭ virino	无论是男人还是女人	whether it is a man or a woman	grupo	alternativoj	prononco
+level	ne gravas ĉu estas ~	是不是~,不重要	it doesn't matter if it's ~	grupo	alternativoj	prononco
+level	ĉu estas viro aŭ virino	男人还是女人	whether it is a man or a woman	grupo	alternativoj	prononco
 level	kaj dum IJK okazis ~	在IJK期间发生了〜	and during IJK happened ~	grupo	alternativoj	prononco
-level	okazis ke mi enamiĝis	碰巧我坠入爱河	it happened that I fell in love	grupo	alternativoj	prononco
+level	okazis ke mi enamiĝis	我坠入爱河的事情发生了	it happened that I fell in love	grupo	alternativoj	prononco
 level	mi enamiĝis al vi ambaŭ!	我爱上了你们俩！	I fell in love with you both!	grupo	alternativoj	prononco
 level	kaj ni ambaŭ al vi	我们都对你	and we both to you	grupo	alternativoj	prononco
 level	ŝajne ni al vi	显然我们对你来说	apparently us to you	grupo	alternativoj	prononco
@@ -997,137 +997,137 @@ level	kun ĝojplena vizaĝo	满脸喜悦	with a joyful face	grupo	alternativoj	p
 level	desegnis grandan koron	画了一颗大大的心	drew a big heart	grupo	alternativoj	prononco
 level	desegnis grandan koron en la sablo	在沙子里画了一颗大大的心	drew a big heart in the sand	grupo	alternativoj	prononco
 level	en la sablo kaj skribis en ĝi	在沙子里写字	in the sand and wrote in it	grupo	alternativoj	prononco
-level	skribis en ĝi "I J K"	里面写着“IJK”	wrote in it "I J K"	grupo	alternativoj	prononco
-level	post sekunda pripensado diris	想了想之后说道	after a second thought said	grupo	alternativoj	prononco
-level	post pripensado diris "Jen nia IJK"	想了想后说“这是我们的IJK”	after thinking said "this is our IJK"	grupo	alternativoj	prononco
-level	kaj ili ekridis!	他们突然大笑起来！	and they burst out laughing!	grupo	alternativoj	prononco
+level	skribis en ĝi "I J K"	在上面写“IJK”	wrote in it "I J K"	grupo	alternativoj	prononco
+level	post sekunda pripensado diris	想了一秒后说了	after a second thought said	grupo	alternativoj	prononco
+level	post pripensado diris "Jen nia IJK"	想后说“这是我们的IJK”	after thinking said "this is our IJK"	grupo	alternativoj	prononco
+level	kaj ili ekridis!	他们大笑起来！	and they burst out laughing!	grupo	alternativoj	prononco
 level	ili ĉiuj ekridis!	他们都笑了起来！	they all burst out laughing!	grupo	alternativoj	prononco
 level	post sekunda pripensado kaj ili ridis	想了一会儿，他们笑了	after a second's thought and they laughed	grupo	alternativoj	prononco
 level	Kabe diris "Jen nia IJK"	Kabe 说“这是我们的 IJK”	Kabe said "this is our IJK"	grupo	alternativoj	prononco
-level	ĉu vi sendis la aliĝilon?	你寄出申请表了吗？	have you sent the application form?	grupo	alternativoj	prononco
-level	submetis aliĝilon al loka asocio	向当地协会提交登记表	submitted a registration form to a local association	grupo	alternativoj	prononco
-level	mendis grupe pere de la asocio	通过协会作为团体订购	ordered as a group through the association	grupo	alternativoj	prononco
+level	ĉu vi sendis la aliĝilon?	你寄出了申请表吗？	have you sent the application form?	grupo	alternativoj	prononco
+level	submetis aliĝilon al loka asocio	向地域协会提交登记表	submitted a registration form to a local association	grupo	alternativoj	prononco
+level	mendis grupe pere de la asocio	通过协会团体订购	ordered as a group through the association	grupo	alternativoj	prononco
 level	submetis pere de retpoŝto	通过电子邮件提交	submitted via email	grupo	alternativoj	prononco
-level	ricevis konfirmilon de aliĝo	收到注册确认信息	received a confirmation of registration	grupo	alternativoj	prononco
-level	ne trovis kien submeti aliĝilon	找不到提交注册表的地方	could not find where to submit a registration form	grupo	alternativoj	prononco
+level	ricevis konfirmilon de aliĝo	收到申请完毕的信息	received a confirmation of registration	grupo	alternativoj	prononco
+level	ne trovis kien submeti aliĝilon	找不到提交申请表的地方	could not find where to submit a registration form	grupo	alternativoj	prononco
 level	ĉu estas reta aliĝilo?	有在线申请表吗？	is there an online application form?	grupo	alternativoj	prononco
-level	ĉu vi submetis paperan mendilon?	您提交了纸质订单吗？	did you submit a paper order?	grupo	alternativoj	prononco
-level	ĉu oni devas pagi per eŭro?	有人必须用欧元付款吗？	do someone have to pay in euro?	grupo	alternativoj	prononco
+level	ĉu vi submetis paperan mendilon?	您提交了订单吗？	did you submit a paper order?	grupo	alternativoj	prononco
+level	ĉu oni devas pagi per eŭro?	必须用欧元付款吗？	do someone have to pay in euro?	grupo	alternativoj	prononco
 level	ĉu eblas pagi surloke?	可以当场支付吗？	is it possible to pay on the spot?	grupo	alternativoj	prononco
 level	pagis sed ne ricevis kvitancon	已付款但未收到收据	paid but did not receive a receipt	grupo	alternativoj	prononco
-level	povas pagi grupe pere de loka societo	可以通过当地社会团体支付	can pay as a group through local society	grupo	alternativoj	prononco
-level	ĉu oni repagas se ne ĉeestus?	如果不在场可以退款吗？	is there a refund if not present?	grupo	alternativoj	prononco
-level	ne mendis specialan programon	没有订购特别节目	did not order a special program	grupo	alternativoj	prononco
-level	kiel oni povas mendi aldone?	怎样才能有人额外订购？	how can someone order additionally?	grupo	alternativoj	prononco
-level	kiel oni povas pagi por aldona mendo?	如何支付额外订单的费用？	how can someone pay for an additional order?	grupo	alternativoj	prononco
-level	ĉu ni povas vidi liston de aliĝintoj?	我们可以看到注册者名单吗？	can we see a list of registrants?	grupo	alternativoj	prononco
-level	mia nomo ne troviĝas en la listo de aliĝintoj	我的名字不在注册者列表中	my name is not in the list of registrants	grupo	alternativoj	prononco
-level	ĉu vi bonvolus kontroli la liston?	你能查一下清单吗？	could you please check the list?	grupo	alternativoj	prononco
+level	povas pagi grupe pere de loka societo	可以通过当地协会支付	can pay as a group through local society	grupo	alternativoj	prononco
+level	ĉu oni repagas se ne ĉeestus?	如果不能参加可以退款吗？	is there a refund if not present?	grupo	alternativoj	prononco
+level	ne mendis specialan programon	没有申请特别节目	did not order a special program	grupo	alternativoj	prononco
+level	kiel oni povas mendi aldone?	怎样追加订购？	how can someone order additionally?	grupo	alternativoj	prononco
+level	kiel oni povas pagi por aldona mendo?	如何支付追加订单的费用？	how can someone pay for an additional order?	grupo	alternativoj	prononco
+level	ĉu ni povas vidi liston de aliĝintoj?	我们可以看参加者名单吗？	can we see a list of registrants?	grupo	alternativoj	prononco
+level	mia nomo ne troviĝas en la listo de aliĝintoj	我的名字不在参加者表中	my name is not in the list of registrants	grupo	alternativoj	prononco
+level	ĉu vi bonvolus kontroli la liston?	你能查一下表吗？	could you please check the list?	grupo	alternativoj	prononco
 level	post la limdato de mendado	订单截止日期后	after the order deadline	grupo	alternativoj	prononco
-level	ĉu oni povas aliĝi plu?	还有人可以加入吗？	can someone join furthermore?	grupo	alternativoj	prononco
+level	ĉu oni povas aliĝi plu?	还可以参加吗？	can someone join furthermore?	grupo	alternativoj	prononco
 level	rezervi hotelon kune	一起订酒店	to book a hotel together	grupo	alternativoj	prononco
 level	oni rezervas hotelon, ĉu vi volas akompani?	有人正在订酒店，你要一起去吗？	someone is booking a hotel, do you want to come along?	grupo	alternativoj	prononco
-level	se estus libera ĉambro, mi volas tion rezervi	如果有空闲房间，我想预订	if there was a free room, I want to book it	grupo	alternativoj	prononco
-level	ĉu eblas rezervi hotelon surloke?	可以现场预订酒店吗？	is it possible to book a hotel on site?	grupo	alternativoj	prononco
-level	ĉu ni aĉetu aviadilan bileton kune?	我们应该一起买机票吗？	should we buy a plane ticket together?	grupo	alternativoj	prononco
-level	bileto de kiu dato	哪一天起的票	ticket from which date	grupo	alternativoj	prononco
-level	ĉu ni akompanu al la flug-haveno?	我们陪你去机场吗？	shall we accompany you to the airport?	grupo	alternativoj	prononco
+level	se estus libera ĉambro, mi volas tion rezervi	如果有房间，我想预订	if there was a free room, I want to book it	grupo	alternativoj	prononco
+level	ĉu eblas rezervi hotelon surloke?	当地可以预订酒店吗？	is it possible to book a hotel on site?	grupo	alternativoj	prononco
+level	ĉu ni aĉetu aviadilan bileton kune?	我们一起买机票吗？	should we buy a plane ticket together?	grupo	alternativoj	prononco
+level	bileto de kiu dato	哪一天的票	ticket from which date	grupo	alternativoj	prononco
+level	ĉu ni akompanu al la flug-haveno?	我们一起去机场吗？	shall we accompany you to the airport?	grupo	alternativoj	prononco
 level	ĉu estas iu gvidanto ĉe la flug-haveno?	机场有导游吗？	is there a guide at the airport?	grupo	alternativoj	prononco
-level	ĉu oni devas iri al la kongresejo per si mem?	需要有人自己去会议地点吗？	does someone have to go to the convention place by oneself?	grupo	alternativoj	prononco
-level	giĉeto de la kongresejo	会场票房	box office of the convention place	grupo	alternativoj	prononco
-level	mi pagis tamen mia nomŝildo ne troviĝas	我已付款，但找不到我的名牌	I paid but my name tag can't be found	grupo	alternativoj	prononco
-level	volas registriĝi surloke	想要现场报名	wants to register on the spot	grupo	alternativoj	prononco
-level	pagis grupe, tamen kial ne estas markita?	团费了，为什么没有标记？	paid in group, yet why is it not marked?	grupo	alternativoj	prononco
+level	ĉu oni devas iri al la kongresejo per si mem?	需要自己去大会场吗？	does someone have to go to the convention place by oneself?	grupo	alternativoj	prononco
+level	giĉeto de la kongresejo	大会登记处	box office of the convention place	grupo	alternativoj	prononco
+level	mi pagis tamen mia nomŝildo ne troviĝas	我已付款了，但找不到我的名牌	I paid but my name tag can't be found	grupo	alternativoj	prononco
+level	volas registriĝi surloke	要在现场报名	wants to register on the spot	grupo	alternativoj	prononco
+level	pagis grupe, tamen kial ne estas markita?	团体交费了，为什么没有标记？	paid in group, yet why is it not marked?	grupo	alternativoj	prononco
 level	kongresa sako kun kongresa libro kaj aliaj informiloj	装有会议手册和其他信息材料的会议包	a conference bag with conference book and other information materials	grupo	alternativoj	prononco
-level	rektora halo, ekspozicio	校长大厅、展览	rector's hall, exhibition	grupo	alternativoj	prononco
-level	malfermo kaj fermo	打开和关闭	opening and closing	grupo	alternativoj	prononco
-level	ekzamenejo de KER (Kadro de Eŭropa Referenco)	KER（欧洲共同参考框架）考试地点	KER (Common European Framework of Reference) examination place	grupo	alternativoj	prononco
-level	kongresa komitato	国会委员会	congressional committee	grupo	alternativoj	prononco
+level	rektora halo, ekspozicio	演讲大厅、展览	rector's hall, exhibition	grupo	alternativoj	prononco
+level	malfermo kaj fermo	开会和闭幕	opening and closing	grupo	alternativoj	prononco
+level	ekzamenejo de KER (Kadro de Eŭropa Referenco)	欧洲标准的考试地点	KER (Common European Framework of Reference) examination place	grupo	alternativoj	prononco
+level	kongresa komitato	大会组织委员会	congressional committee	grupo	alternativoj	prononco
 level	komitato de asocio	协会委员会	association committee	grupo	alternativoj	prononco
 level	kongresa bankedo	会议宴会	convention banquet	grupo	alternativoj	prononco
 level	Interkona Vespero	相识之夜	Evening of getting to know each other	grupo	alternativoj	prononco
 level	solena inaŭguro	盛大开幕	grand opening	grupo	alternativoj	prononco
 level	Zamenhofa halo	柴门霍夫大厅	Zamenhof hall	grupo	alternativoj	prononco
-level	IKU (Internacia Kongresa Universitato)	IKU（国际会议大学）	IKU (International Congress University)	grupo	alternativoj	prononco
-level	KER-ekzameno je kvar niveloj (Kadro de Eŭropa Referenco)	KER 考试分为四个级别（欧洲共同参考框架）	KER examination at four levels (Common European Framework of Reference)	grupo	alternativoj	prononco
+level	IKU (Internacia Kongresa Universitato)	国际大会大学	IKU (International Congress University)	grupo	alternativoj	prononco
+level	KER-ekzameno je kvar niveloj (Kadro de Eŭropa Referenco)	欧洲标准的考试分为四个级别	KER examination at four levels (Common European Framework of Reference)	grupo	alternativoj	prononco
 level	internacia arta vespero	国际艺术之夜	international art evening	grupo	alternativoj	prononco
-level	solena fermo	庄严闭幕	solemn closing	grupo	alternativoj	prononco
-level	libroservo kun esperanto-libroj	世界语书籍的预订服务	book service with Esperanto books	grupo	alternativoj	prononco
-level	AIS (Akademio Internacia de la Sciencoj)	AIS（国际科学院）	AIS (International Academy of Sciences)	grupo	alternativoj	prononco
-level	SAT (Sennacieca Asocio Tutmonda)	SAT（世界无政府主义者协会）	SAT (World Anarchist Association)	grupo	alternativoj	prononco
+level	solena fermo	庄严的闭幕式	solemn closing	grupo	alternativoj	prononco
+level	libroservo kun esperanto-libroj	包括世界语书的图书展览	book service with Esperanto books	grupo	alternativoj	prononco
+level	AIS (Akademio Internacia de la Sciencoj)	AIS国际科学院	AIS (International Academy of Sciences)	grupo	alternativoj	prononco
+level	SAT (Sennacieca Asocio Tutmonda)	SAT世界无民族性协会	SAT (World Anarchist Association)	grupo	alternativoj	prononco
 level	prelegoj enuaj	无聊的讲座	boring lectures	grupo	alternativoj	prononco
-level	deĵorantoj por diversaj fakoj	各部门值班人员	duty officers for various departments	grupo	alternativoj	prononco
-level	deĵorantoj skipe kunlaboras	巴特警官作为一个团队合作	buty officers cooperate as a team	grupo	alternativoj	prononco
-level	vojaĝa agento	一个旅游代理	a travel agent	grupo	alternativoj	prononco
-level	aviadila bileto	一张机票	a plane ticket	grupo	alternativoj	prononco
+level	deĵorantoj por diversaj fakoj	各部门的值班人	duty officers for various departments	grupo	alternativoj	prononco
+level	deĵorantoj skipe kunlaboras	值班人作为一个团队合作	buty officers cooperate as a team	grupo	alternativoj	prononco
+level	vojaĝa agento	旅游代理店	a travel agent	grupo	alternativoj	prononco
+level	aviadila bileto	机票	a plane ticket	grupo	alternativoj	prononco
 level	nuligis la hotelon kaj aviadilan bileton	取消了酒店和机票	canceled the hotel and plane ticket	grupo	alternativoj	prononco
 level	kongresa kuriero	会议快递	convention courier	grupo	alternativoj	prononco
-level	unua bulteno, dua bulteno	第一期通讯、第二期通讯	first newsletter, second newsletter	grupo	alternativoj	prononco
+level	unua bulteno, dua bulteno	第一号通讯、第二号通讯	first newsletter, second newsletter	grupo	alternativoj	prononco
 level	kongresa temo	大会主题	congress theme	grupo	alternativoj	prononco
 level	paroligaj kursoj	口语课程	speaking courses	grupo	alternativoj	prononco
 level	provizoraj programoj	临时节目	temporary programs	grupo	alternativoj	prononco
 level	ĝeneralaj kondiĉoj de mendado	订购的一般条件	general conditions of ordering	grupo	alternativoj	prononco
 level	antaŭ-kongresaj ekskursoj	会前参观	pre-congress tours	grupo	alternativoj	prononco
-level	post-kongresa ekskurso	会后巡演	a post-congress tour	grupo	alternativoj	prononco
+level	post-kongresa ekskurso	会后旅游	a post-congress tour	grupo	alternativoj	prononco
 level	tut-tagaj ekskursoj	全日游	full-day tours	grupo	alternativoj	prononco
 level	duon-tagaj ekskursoj	半日游	half-day tours	grupo	alternativoj	prononco
-level	tabelo de dum-kongresaj ekskursoj	会议期间参观表	a table of during-congress tours	grupo	alternativoj	prononco
-level	aranĝoj ĉirkaŭ la UK (Universala Kongreso)	英国各地的活动（环球大会）	events around the UK (Universal Congress)	grupo	alternativoj	prononco
+level	tabelo de dum-kongresaj ekskursoj	大会期间旅游表	a table of during-congress tours	grupo	alternativoj	prononco
+level	aranĝoj ĉirkaŭ la UK (Universala Kongreso)	世界大会(UK)期间的活动	events around the UK (Universal Congress)	grupo	alternativoj	prononco
 level	kontaktoj kun amas-komunikiloj	与大众媒体的接触	contacts with mass media	grupo	alternativoj	prononco
-level	vic-prezidanto prezidis la programon	副院长主持节目	vice president presided over the program	grupo	alternativoj	prononco
-level	kun landaj aŭtoritatoj	与国家当局	with country authorities	grupo	alternativoj	prononco
+level	vic-prezidanto prezidis la programon	副主席主持了节目	vice president presided over the program	grupo	alternativoj	prononco
+level	kun landaj aŭtoritatoj	与各国有关官员一起	with country authorities	grupo	alternativoj	prononco
 level	sekretario, kasisto	秘书、财务主管	secretary, treasurer	grupo	alternativoj	prononco
 level	artaj aranĝoj	艺术活动	arts events	grupo	alternativoj	prononco
-level	Infana Kongreseto	儿童代表大会	Children's Congress	grupo	alternativoj	prononco
+level	Infana Kongreseto	小规模的儿童大会	Children's Congress	grupo	alternativoj	prononco
 level	sociaj retejoj	社交网站	social websites	grupo	alternativoj	prononco
 level	reĝisoro de la kongresa temo	大会主题主任	director of the congress theme	grupo	alternativoj	prononco
-level	rektoro de IKU (Internacia Kongresa Universitato)	IKU（国际会议大学）校长	rector of IKU (International Congress University)	grupo	alternativoj	prononco
+level	rektoro de IKU (Internacia Kongresa Universitato)	IKU（国际大会大学)校长	rector of IKU (International Congress University)	grupo	alternativoj	prononco
 level	san-asekuro kaj asekuro de vojaĝo	健康保险和旅行保险	health insurance and travel insurance	grupo	alternativoj	prononco
 level	dokumentoj kaj vizoj	文件和签证	documents and visas	grupo	alternativoj	prononco
-level	valida identigilo	有效身份证件	a valid ID	grupo	alternativoj	prononco
+level	valida identigilo	有效证件	a valid ID	grupo	alternativoj	prononco
 level	pasporto valida	有效护照	a valid passport	grupo	alternativoj	prononco
 level	reguloj pri viz-donado	签证签发规则	visa-issuance rules	grupo	alternativoj	prononco
 level	akiro de vizo	获得签证	obtaining a visa	grupo	alternativoj	prononco
-level	CO (centra oficejo) de UEA (Universala Esperanto Asocio)	UEA（世界世界语协会）CO（中央办公室）	CO (central office) of UEA (Universal Esperanto Association)	grupo	alternativoj	prononco
-level	elŝuti la oficialan konfirmilon (invitilon)	下载官方确认函（邀请函）	to download the official confirmation letter (invitation letter)	grupo	alternativoj	prononco
+level	CO (centra oficejo) de UEA (Universala Esperanto Asocio)	UEA（世界世界语协会）CO（总部）	CO (central office) of UEA (Universal Esperanto Association)	grupo	alternativoj	prononco
+level	elŝuti la oficialan konfirmilon (invitilon)	下载官方邀请函	to download the official confirmation letter (invitation letter)	grupo	alternativoj	prononco
 level	uzante la mendilon	使用订单	using the order form	grupo	alternativoj	prononco
-level	al la viz-dona instanco	到签证签发机构	to the visa issuing authority	grupo	alternativoj	prononco
-level	la oficiala kongres-daŭro	正式大会持续时间	the official congress duration	grupo	alternativoj	prononco
+level	al la viz-dona instanco	到办签证的机构	to the visa issuing authority	grupo	alternativoj	prononco
+level	la oficiala kongres-daŭro	正式大会时间	the official congress duration	grupo	alternativoj	prononco
 level	mendis loĝadon pere de UEA (Universala Esperanto Asocio)	通过 UEA（世界语协会）预订住宿	booked accommodation through UEA (Universal Esperanto Association)	grupo	alternativoj	prononco
-level	informi pri eventualaj ŝanĝoj	告知可能的变化	to inform about possible changes	grupo	alternativoj	prononco
-level	akiri vojaĝan asekuron	获得旅行保险	to get travel insurance	grupo	alternativoj	prononco
-level	krom la nuligon de la vojaĝo	除非行程取消	except for the cancellation of the trip	grupo	alternativoj	prononco
-level	asekuro kovras san-traktadon	保险涵盖健康治疗	insurance covers health treatment	grupo	alternativoj	prononco
-level	kaze de la akcidentoj	万一发生事故	in case of the accidents	grupo	alternativoj	prononco
+level	informi pri eventualaj ŝanĝoj	有关万一情况的通知	to inform about possible changes	grupo	alternativoj	prononco
+level	akiri vojaĝan asekuron	获得旅遊保险	to get travel insurance	grupo	alternativoj	prononco
+level	krom la nuligon de la vojaĝo	除非取消旅遊	except for the cancellation of the trip	grupo	alternativoj	prononco
+level	asekuro kovras san-traktadon	保险涵盖治疗	insurance covers health treatment	grupo	alternativoj	prononco
+level	kaze de la akcidentoj	发生事故时	in case of the accidents	grupo	alternativoj	prononco
 level	deponi la valizojn	寄存行李箱	to deposit the suitcases	grupo	alternativoj	prononco
 level	internacia flug-haveno	国际机场	international airport	grupo	alternativoj	prononco
 level	iri buse aŭ taksie aŭ aŭtomobile	乘坐公共汽车、出租车或汽车	to go by bus or taxi or car	grupo	alternativoj	prononco
 level	la veturo daŭras ĉirkaŭ 40 minutojn	车程约 40 分钟	the ride takes about 40 minutes	grupo	alternativoj	prononco
-level	utiligi metroon ĝis la bus-haltejo	乘坐地铁前往巴士站	to use the subway to the bus stop	grupo	alternativoj	prononco
+level	utiligi metroon ĝis la bus-haltejo	至巴士站乘坐地铁	to use the subway to the bus stop	grupo	alternativoj	prononco
 level	ankaŭ alteriĝis en alia flug-haveno	也降落在另一个机场	also landed at another airport	grupo	alternativoj	prononco
-level	por kongres-rilataj aferoj	与国会有关的事宜	for congress-related matters	grupo	alternativoj	prononco
+level	por kongres-rilataj aferoj	为有关大会的事宜	for congress-related matters	grupo	alternativoj	prononco
 level	oficiala mon-unuo estas eŭro	官方货币是欧元	official currency is euro	grupo	alternativoj	prononco
 level	vendejo akceptas kredit-kartojn	商店接受信用卡	store accepts credit cards	grupo	alternativoj	prononco
 level	je ordinara kurzo	按普通汇率计算	at ordinary exchange rate	grupo	alternativoj	prononco
 level	agnoskita kiel oficiala lingvo	被承认为官方语言	recognized as an official language	grupo	alternativoj	prononco
 level	kran-akvo estas trinkebla	自来水可以饮用	tap water is drinkable	grupo	alternativoj	prononco
-level	aĉeti mineralan akvon kun-gasan	用煤气买矿泉水	to buy mineral water with gas	grupo	alternativoj	prononco
-level	trinkmono aprezata sed ne deviga	小费值得赞赏，但不是必需的	tip appreciated but not required	grupo	alternativoj	prononco
-level	urba transportilo	城市交通	city transport	grupo	alternativoj	prononco
+level	aĉeti mineralan akvon kun-gasan	买碳酸水	to buy mineral water with gas	grupo	alternativoj	prononco
+level	trinkmono aprezata sed ne deviga	小费是可以，但不是必需的	tip appreciated but not required	grupo	alternativoj	prononco
+level	urba transportilo	城市交通体系	city transport	grupo	alternativoj	prononco
 level	aĉetebla ĉe aŭtomata giĉeto de haltejo	可以在公交车站的自动售票处购买	can be purchased at a bus stop's automatic ticket box	grupo	alternativoj	prononco
 level	informa budo en kongresejo	会议地点的信息亭	information booth in convention place	grupo	alternativoj	prononco
-level	programo de la Kleriga Lundo	启蒙运动星期一的节目	program of the Enlightenment Monday	grupo	alternativoj	prononco
+level	programo de la Kleriga Lundo	启蒙星期一的节目	program of the Enlightenment Monday	grupo	alternativoj	prononco
 level	movada foiro	运动博览会	movement fair	grupo	alternativoj	prononco
-level	Ekumena Diservo	普世服务	Ecumenical Service	grupo	alternativoj	prononco
-level	Kongresa Balo	国会舞会	Congressional Ball	grupo	alternativoj	prononco
-level	Estraro Respondas	董事会回应	Board of Directors Responds	grupo	alternativoj	prononco
-level	faka kunsido	专家会议	specialist meeting	grupo	alternativoj	prononco
-level	kongresa aŭkcio	会议拍卖	convention auction	grupo	alternativoj	prononco
+level	Ekumena Diservo	全基督教的宗教仪式	Ecumenical Service	grupo	alternativoj	prononco
+level	Kongresa Balo	大会舞会	Congressional Ball	grupo	alternativoj	prononco
+level	Estraro Respondas	董事会问答节目	Board of Directors Responds	grupo	alternativoj	prononco
+level	faka kunsido	专题会议	specialist meeting	grupo	alternativoj	prononco
+level	kongresa aŭkcio	大会拍卖	convention auction	grupo	alternativoj	prononco
 level	komitato de UEA (Universala Esperanto Asocio)	UEA（世界世界语协会）委员会	committee of UEA (Universal Esperanto Association)	grupo	alternativoj	prononco
-level	registrita kongresano	注册大会参与者	registered congress participant	grupo	alternativoj	prononco
+level	registrita kongresano	注册的大会参与者	registered congress participant	grupo	alternativoj	prononco
 level	aliĝilo kun kongresa numero	附有大会编号的登记表	registration form with congress number	grupo	alternativoj	prononco
-level	liveri ĉiujn servojn laŭ dua bulteno	提供第二份时事通讯中的所有服务	to deliver all services as in the second newsletter	grupo	alternativoj	prononco
-level	hazarda kunloĝigo de nekonatoj	陌生人随机共享房间	random room sharing of strangers	grupo	alternativoj	prononco
-level	disponigas nur al anticipaj konsentitoj	仅适用于事先同意者	available only to advance consenters	grupo	alternativoj	prononco
-level	krom se aliloke indikite	除非在其他地方注明	unless indicated in other place	grupo	alternativoj	prononco
+level	liveri ĉiujn servojn laŭ dua bulteno	提供第二号通讯中的所有服务	to deliver all services as in the second newsletter	grupo	alternativoj	prononco
+level	hazarda kunloĝigo de nekonatoj	偶然的与陌生人共享房间	random room sharing of strangers	grupo	alternativoj	prononco
+level	disponigas nur al anticipaj konsentitoj	只给事先同意者允许使用	available only to advance consenters	grupo	alternativoj	prononco
+level	krom se aliloke indikite	除非在其他地方注明以外	unless indicated in other place	grupo	alternativoj	prononco
 level	ekskursojn akompanos gvidanto	旅行将有导游陪同	tours will be accompanied by a guide	grupo	alternativoj	prononco
