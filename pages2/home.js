@@ -174,7 +174,9 @@ window.onload = function () {
         window.location.href = "./user-courses.html";
     });
 
-
+    $('bookmark').addEventListener("click", function () {
+        window.location.href = "./like.html";
+    });
 
     const radioButtons = document.querySelectorAll('input[type="radio"]');
     radioButtons.forEach(radioButton => {
