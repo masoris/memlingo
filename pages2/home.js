@@ -156,6 +156,22 @@ function load_user_info() {
     });
 }
 
+function jump_to_dictionary() {
+    var lang = $m("lang");
+    if (lang == "ko-kr") {
+        window.location.href = "http://vortaro.esperanto.or.kr/";
+    }
+    else if (lang == "th") {
+        window.location.href = "http://vortaro.esperanto.or.kr/th";
+    }
+    else if (lang == "zh-tw") {
+        window.location.href = "http://vortaro.esperanto.or.kr/tw";
+    }
+    else {
+        window.location.href = "http://reta-vortaro.de";
+    }
+}
+
 window.onload = function () {
     if (localStorage.getItem('login_status') != 'success') {
         window.location.href = "./login.html";
@@ -192,6 +208,9 @@ window.onload = function () {
 
     // $("lun").className = "the-day";
     set_visited();
+
+    $("dictionary").onclick = jump_to_dictionary;
+
 
     lang_changed();
 };

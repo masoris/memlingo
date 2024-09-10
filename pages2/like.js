@@ -2,19 +2,25 @@ var likes = [];
 
 function like_unlike(i) {
     likes[i].like = (likes[i].like) ? false : true;
-    var json = { email: email, id: likes[i].id, like: likes[i].like };
+    var json = { email: $m("email"), lang: likes[i].lang, course: likes[i].course, esp: likes[i].esp, kor: likes[i].kor, eng: likes[i].eng, like: likes[i].like };
 
-    postAjax("/api2/like-unlike.api", json, function (obj, text) {
+    postAjax("/api2/put-like.api", json, function (obj, text) {
         console.log(text);
         if (obj.resp != "OK") {
             alert(obj.msg);
             return;
         }
+
+        if (likes[i].like == true) {
+            $("LIKE_" + i).src = "img/frame-1@2x.png";
+        } else {
+            $("LIKE_" + i).src = "img/frame@2x.png";
+        }
     });
 }
 
 function load_like_list() {
-    var json = { email: email };
+    var json = { email: $m("email") };
     postAjax("/api2/like-list.api", json, function (obj, text) {
         console.log(text);
         if (obj.resp != "OK") {
@@ -23,6 +29,10 @@ function load_like_list() {
         }
         likes = obj.likes;
         $("like_list").innerHTML = "";
+        if (likes.length == 0) {
+            var html = "<br><br>&nbsp;&nbsp;&nbsp;Vi elektis neniun vorton por memorado.";
+            $("like_list").innerHTML = html;
+        }
         for (var i = 0; i < likes.length; i++) {
             var like = likes[i];
             var html = item;
@@ -61,4 +71,5 @@ window.onload = function () {
     }
 
     load_like_list();
+    display_message();
 }

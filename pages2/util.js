@@ -2,6 +2,10 @@ function $(id) {
     return document.getElementById(id);
 }
 
+function $m(id) {
+    return localStorage.getItem(id);
+}
+
 function lang_display() {
     var selected_lang = localStorage.getItem("lang");
     const rtl_langs = ["fa", "ur", "he", "ar"];

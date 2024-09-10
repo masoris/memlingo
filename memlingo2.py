@@ -36,6 +36,15 @@ def serve_dialog(path):
 def serve_sounds(path):
     return send_from_directory('sounds', path)
 
+def load_json(fn):
+    with open(fn, "r", encoding="utf-8") as f:
+        return json.load(f)
+    return None
+
+def store_json(fn, obj):
+    with open(fn, "w", encoding="utf-8") as f:
+        json.dump(obj, f)
+
 def is_valid_email(email):
     if len(email) > 50:
         return False
@@ -120,6 +129,9 @@ def update_last_login(email):
 
     with open(user_info_file, "w", encoding='utf-8') as f:
         json.dump(user_info, f)
+
+def home(email):
+    return "./users/" + email[0] + "/" + email
 
 def get_user_info(email):
     user_dir = os.path.join("./users", email[0], email)
@@ -301,6 +313,61 @@ def unsubscribe():
     LOG("/api2/unsubscribe.api\t%s" % (email))
     unsubscribe_email(email)
     resp = "<br><br><br>Successfully unsubscribed. Thank you.<br><br><br>"
+    return resp
+
+
+@app.route('/api2/put-like.api', methods=['POST'])
+def _put_like():
+    email = request.json['email']
+    course = request.json['course']
+    lang = request.json['lang']
+    esp = request.json['esp']
+    kor = request.json['kor']
+    eng = request.json['eng']
+    like_ = request.json['like']
+    
+    LOG("/api2/put-like.api\t%s\t%s\t%s\t%s" % (email, lang, course, esp))
+
+    likes = []
+    fn = home(email) + "/likes.json"
+    if os.path.exists(fn):
+        likes = load_json(fn)
+
+    for like in likes:
+        if like["course"] == course and like["lang"] == lang and like["esp"] == esp:
+            like["like"] = like_
+            store_json(fn, likes)
+            result = {'resp': 'OK', "msg": "duplicated store"}
+            resp = make_response(jsonify(result))
+            return resp    
+        
+    likes.append({
+        "courses": course, 
+        "lang": lang,
+        "esp": esp,
+        "kor": kor,
+        "eng": eng,
+        "like": like_
+    })
+
+    store_json(fn, likes)
+
+    result = {'resp': 'OK', "msg": "successfully stored"}
+    resp = make_response(jsonify(result))
+    return resp
+
+
+@app.route('/api2/like-list.api', methods=['POST'])
+def _like_list():
+    email = request.json['email']
+    LOG("/api2/like-list.api\t%s" % (email))
+
+    likes = []
+    if os.path.exists(home(email) + "/likes.json"):
+        likes = load_json(home(email) + "/likes.json")
+
+    result = {'resp': 'OK', "likes": likes}
+    resp = make_response(jsonify(result))
     return resp
 
 #  /api2/login.api
