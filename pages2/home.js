@@ -194,6 +194,10 @@ window.onload = function () {
         window.location.href = "./like.html";
     });
 
+    $('community').addEventListener("click", function () {
+        window.location.href = "./community.html";
+    });
+
     const radioButtons = document.querySelectorAll('input[type="radio"]');
     radioButtons.forEach(radioButton => {
         $(radioButton.id).onclick = lang_changed;

@@ -346,16 +346,10 @@ function display_message() {
     display_msg("bookmark", "innerText", "bookmark");
     display_msg("dictionary", "innerText", "dictionary");
     display_msg("community", "innerText", "community");
+    display_msg("top_rankers", "innerText", "top_rankers");
+    display_msg("top_rankers_this_week", "innerText", "top_rankers_this_week");
+    display_msg("top_rankers_all", "innerText", "top_rankers_all");
+    display_msg("this_week", "innerText", "this_week");
+    display_msg("total_points", "innerText", "total_points");
 
-
-    // if ($('lang').value == 'ko-kr') {
-    //     $('email1').placeholder = "이메일 주소를 입력해 주세요.";
-    //     $('email2').placeholder = "이메일 주소를 한 번 더 입력해 주세요.";
-    //     $('span_message_email_twice').innerText = "이메일을 두 번 입력해주세요.";
-    // }
-    // else {
-    //     $('email1').placeholder = "Type in your e-mail adress.";
-    //     $('email2').placeholder = "Type in your e-mail adress again.";
-    //     $('span_message_email_twice').innerText = "Enter your e-mail twice.";
-    // }
 }

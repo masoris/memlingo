@@ -11,7 +11,7 @@
 }
 
 .container-center-horizontal {
-    display: flex;
+    /* display: flex; */
     flex-direction: row;
     justify-content: center;
     pointer-events: none;
@@ -98,13 +98,13 @@
 .memlingo {
     height: 28.26px;
     position: relative;
-    width: 200px;
+    /* width: 200px; */
 }
 
 .flex-row {
     align-items: center;
-    display: flex;
-    min-width: 200px;
+    /* display: flex; */
+    /* min-width: 200px; */
 }
 
 .vector {
@@ -1058,7 +1058,7 @@
 .ranking {
     align-items: flex-start;
     background-color: var(--white);
-    display: flex;
+    /* display: flex; */
     flex-direction: column;
     height: 812px;
     position: relative;
@@ -1066,9 +1066,9 @@
 }
 
 .ranking .padding-frame {
-    align-items: flex-start;
+    /* align-items: flex-start; */
     align-self: stretch;
-    display: flex;
+    /* display: flex; */
     flex: 1;
     flex-direction: column;
     flex-grow: 1;

@@ -6,14 +6,19 @@
     <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
     <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
+    <script src="./ajax.js"></script>
+    <script src="./cookie.js"></script>
+    <script src="./lang_msgs.js"></script>
+    <script src="./util.js"></script>
+    <script src="./community.js"></script>
+    <script src="./community_item.js"></script>
     <link rel="stylesheet" type="text/css" href="community.css" />
 </head>
 
 <body style="margin: 0; background: #ffffff">
-    <input type="hidden" id="anPageName" name="page" value="ranking" />
+    <!-- <input type="hidden" id="anPageName" name="page" value="ranking" /> -->
     <div class="ranking screen">
         <div class="padding-frame">
             <div class="title-frame title-1">
@@ -31,7 +36,39 @@
                                 랭킹</span></div>
                     </div>
                     <div class="rectangle-4242"></div>
-                    <div class="weekly-rank">
+                    <table id="thisweek" style="width: 100%;">
+                        <tr>
+                            <td style="width: 50px; height: 50px;">
+
+                            </td>
+                            <td>
+
+                            </td>
+                            <td style="width: 30%; vertical-align:middle;">
+                                <div class="text text-1 notosans-semi-bold-gravel-12px"><span id="this_week">이번주</span>
+                                </div>
+                            </td>
+                            <td style="width: 30%; vertical-align:middle;">
+                                <div class="text text-1 notosans-semi-bold-gravel-12px"><span id="total_points">총
+                                        점수</span></div>
+                            </td>
+                        </tr>
+                        <!-- <tr>
+                            <td>
+                                <img class="_lion lion-5" src="img/chevron-left-1-1@2x.png" />
+                            </td>
+                            <td style="vertical-align:middle;">
+                                <span class="_ananso _ananso-4 notosans-normal-gravel-14px">ananso</span>
+                            </td>
+                            <td style="vertical-align:middle;">
+                                <div class="text text-1 notosans-semi-bold-gravel-16px">200점</div>
+                            </td>
+                            <td style="vertical-align:middle;">
+                                <div class="text text-1 notosans-semi-bold-gravel-16px">3000점</div>
+                            </td>
+                        </tr> -->
+                    </table>
+                    <!-- <div class="weekly-rank">
                         <div class="user-list user-6">
                             <div class="user user-6">
                                 <img class="lion lion-5" src="img/chevron-left-1-1@2x.png" alt="Lion" />
@@ -70,7 +107,7 @@
                                 <div class="text text-1 notosans-semi-bold-gravel-16px">3000점</div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="list-item">
                     <div class="title title-1">
@@ -79,7 +116,39 @@
                         </div>
                     </div>
                     <div class="rectangle-4242"></div>
-                    <div class="weekly-rank">
+                    <table id="overall" style="width: 100%;">
+                        <tr>
+                            <td style="width: 50px; height: 50px;">
+
+                            </td>
+                            <td>
+
+                            </td>
+                            <td style="width: 30%; vertical-align:middle;">
+                                <div class="text text-1 notosans-semi-bold-gravel-12px"><span id="this_week">이번주</span>
+                                </div>
+                            </td>
+                            <td style="width: 30%; vertical-align:middle;">
+                                <div class="text text-1 notosans-semi-bold-gravel-12px"><span id="total_points">총
+                                        점수</span></div>
+                            </td>
+                        </tr>
+                        <!-- <tr>
+                            <td>
+                                <img class="_lion lion-5" src="img/chevron-left-1-1@2x.png" />
+                            </td>
+                            <td style="vertical-align:middle;">
+                                <span class="_ananso _ananso-4 notosans-normal-gravel-14px">ananso</span>
+                            </td>
+                            <td style="vertical-align:middle;">
+                                <div class="text text-1 notosans-semi-bold-gravel-16px">200점</div>
+                            </td>
+                            <td style="vertical-align:middle;">
+                                <div class="text text-1 notosans-semi-bold-gravel-16px">3000점</div>
+                            </td>
+                        </tr> -->
+                    </table>
+                    <!-- <div class="weekly-rank">
                         <div class="user-list user-6">
                             <div class="user user-6">
                                 <img class="lion-2 lion-5" src="img/chevron-left-1-1@2x.png" alt="Lion" />
@@ -170,7 +239,7 @@
                                 <div class="text text-1 notosans-semi-bold-gravel-16px">3000점</div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

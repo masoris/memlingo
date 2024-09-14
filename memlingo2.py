@@ -370,6 +370,18 @@ def _like_list():
     resp = make_response(jsonify(result))
     return resp
 
+@app.route('/api2/top-rankers.api', methods=['POST'])
+def _top_rankers():
+    email = request.json['email']
+    LOG("/api2/top-rankers.api\t%s" % (email))
+
+    thisweek = load_json("./top-rankers.thisweek.json")
+    overall = load_json("./top-rankers.overall.json")
+
+    result = {'resp': 'OK', "thisweek": thisweek, "overall": overall}
+    resp = make_response(jsonify(result))
+    return resp
+
 #  /api2/login.api
 #           input: email1, email2, lang
 #output: userid, email, cookie:login_status, lang, courses{제목, 짧은 설명, 긴 설명, Points, Progress, Total_count, Needs_Review, Not_Seen, Familiar, Mastered}
