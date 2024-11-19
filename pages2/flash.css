@@ -1,19 +1,1106 @@
-body{
-  margin: 0px;
-  background-color: #03bf6b;
+/* @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:500,700,600,400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/662dda32c9610b16f5d28a6b.662dda33c9610b16f5d28a6e.WuGbnOs.hcp.png");
+
+*/ .screen a {
+    display: contents;
+    text-decoration: none;
 }
 
-.Rectangle {
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
     width: 100%;
-    height: 100%;
-    padding: 287px 0px 285px 0px;
-    background-color: #03bf6b;
-  }
-img.logo_loading_white {
-    width: 209px;
-    height: 68px;
-    /* padding: 0 0 1px; */
-    object-fit: contain;
-    left: calc(50% - 104px);
+}
+
+.container-center-horizontal>* {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.auto-animated div {
+    --z-index: -1;
+    opacity: 0;
+    position: absolute;
+}
+
+.auto-animated input {
+    --z-index: -1;
+    opacity: 0;
+    position: absolute;
+}
+
+.auto-animated .container-center-vertical,
+.auto-animated .container-center-horizontal {
+    opacity: 1;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.listeners-active,
+.listeners-active * {
+    pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.listeners-active-click,
+.listeners-active-click * {
+    cursor: pointer;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.content {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 24px;
     position: relative;
-  }
+    width: 100%;
+}
+
+.icon-frame {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+
+.books {
+    height: 40px;
+    object-fit: cover;
+    position: relative;
+    width: 40px;
+}
+
+.memlingo {
+    height: 28.26px;
+    position: relative;
+    width: 200px;
+}
+
+.flex-row {
+    align-items: center;
+    display: flex;
+    min-width: 200px;
+}
+
+.vector {
+    height: 28px;
+    width: 29px;
+}
+
+.vector-1 {
+    height: 27px;
+    margin-left: 4px;
+    margin-top: 0.02px;
+    width: 18px;
+}
+
+.vector-2 {
+    height: 28px;
+    margin-left: 3px;
+    width: 29px;
+}
+
+.vector-3 {
+    align-self: flex-start;
+    height: 28px;
+    margin-left: 4px;
+    margin-top: 0.09px;
+    width: 18px;
+}
+
+.vector-4 {
+    height: 28px;
+    margin-left: 3px;
+    width: 6px;
+}
+
+.vector-5 {
+    height: 28px;
+    margin-left: 4px;
+    width: 23px;
+}
+
+.vector-6 {
+    height: 28px;
+    margin-left: 3px;
+    width: 25px;
+}
+
+.star-3 {
+    height: 10px;
+    width: 10px;
+}
+
+.close {
+    height: 32px;
+    position: relative;
+    width: 32px;
+}
+
+.progress {
+    background-color: var(--alien-armpit);
+    border-radius: 999px;
+    height: 24px;
+    position: relative;
+    width: 50px;
+}
+
+.text-frame-item {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    position: relative;
+    width: 100%;
+}
+
+.textblock {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 4px;
+    position: relative;
+}
+
+.saluton {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+}
+
+.frame-1000004160 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    width: 100%;
+}
+
+.saluton-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    opacity: 0;
+    position: relative;
+    width: fit-content;
+}
+
+.rectangle-4241 {
+    align-self: stretch;
+    background-color: var(--gravel);
+    border-radius: 999px;
+    height: 2px;
+    position: relative;
+    width: 100%;
+}
+
+.word-block {
+    align-items: center;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--mercury);
+    border-radius: 12px;
+    box-shadow: 0px 3px 0px #e5e5e5;
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    height: 100px;
+    justify-content: center;
+    padding: 12px;
+    position: relative;
+}
+
+.malhezitema {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.riltata-al-la-lando-danujo {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.benzino {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.heitajo-por-irigi-automobilion {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.ago-3 {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.ago {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.answer-frame {
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 32px;
+    padding: 40px 0px;
+}
+
+.answer-letter {
+    flex: 0 0 auto;
+    gap: 8px;
+}
+
+.a-1 {
+    margin-top: -1.50px;
+    opacity: 0;
+}
+
+.a-2 {
+    margin-top: -1.50px;
+    opacity: 0;
+}
+
+.a-4 {
+    margin-top: -2.50px;
+}
+
+.a-5 {
+    margin-top: -2.50px;
+}
+
+.a-6 {
+    margin-top: -2.50px;
+}
+
+.a-7 {
+    margin-top: -2.50px;
+}
+
+.a-8 {
+    margin-top: -2.50px;
+}
+
+.a-9 {
+    margin-top: -2.50px;
+}
+
+.a-10 {
+    margin-top: -2.50px;
+}
+
+.a-11 {
+    margin-top: -2.50px;
+}
+
+.a-14 {
+    margin-top: -2.50px;
+}
+
+.a-15 {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.answer {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+
+.question-1 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 20px;
+    position: relative;
+    width: 100%;
+}
+
+.character {
+    height: 80px;
+    object-fit: cover;
+    position: relative;
+    width: 80px;
+}
+
+.chat-bubble {
+    align-items: center;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--mercury);
+    border-radius: 16px;
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    height: 78px;
+    position: relative;
+}
+
+.frame-1000004232 {
+    height: 19.12px;
+    margin-left: -14.59px;
+    position: relative;
+    width: 19.17px;
+    z-index: 1;
+}
+
+.chatbox {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    height: 78px;
+    justify-content: center;
+    padding: 12px;
+    position: relative;
+    z-index: 0;
+}
+
+:root {
+    --alien-armpit: #57cc02;
+    --black: #000000;
+    --gossip: #d6ffb8;
+    --gravel: #4b4b4b;
+    --mercury: #e5e5e5;
+    --rose: #ff4b4c;
+    --silver-chalice: #afafaf;
+    --stack: #8e8e8e;
+    --white: #ffffff;
+
+    --font-size-l: 20px;
+    --font-size-m: 18px;
+    --font-size-s: 16px;
+    --font-size-xl: 24px;
+    --font-size-xs: 14px;
+    --font-size-xxs: 12px;
+
+    --font-family-noto_sans: "Noto Sans", Helvetica;
+}
+
+.notosans-semi-bold-gravel-18px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 600;
+}
+
+.notosans-semi-bold-gravel-16px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 600;
+}
+
+.notosans-normal-gravel-14px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 400;
+}
+
+.notosans-bold-gravel-20px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.notosans-bold-stack-20px {
+    color: var(--stack);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.notosans-bold-gravel-18px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.notosans-semi-bold-silver-chalice-14px {
+    color: var(--silver-chalice);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 600;
+}
+
+.notosans-medium-gravel-18px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 500;
+}
+
+.notosans-semi-bold-gravel-24px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 600;
+}
+
+.notosans-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.notosans-semi-bold-gravel-12px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-xxs);
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:500,700,600,400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/662dda32c9610b16f5d28a6b.662dda33c9610b16f5d28a6e.WuGbnOs.hcp.png");
+
+
+
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal>* {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.auto-animated div {
+    --z-index: -1;
+    opacity: 0;
+    position: absolute;
+}
+
+.auto-animated input {
+    --z-index: -1;
+    opacity: 0;
+    position: absolute;
+}
+
+.auto-animated .container-center-vertical,
+.auto-animated .container-center-horizontal {
+    opacity: 1;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.listeners-active,
+.listeners-active * {
+    pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.listeners-active-click,
+.listeners-active-click * {
+    cursor: pointer;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.content {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 24px;
+    position: relative;
+    width: 100%;
+}
+
+.icon-frame {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+
+.books {
+    height: 40px;
+    object-fit: cover;
+    position: relative;
+    width: 40px;
+}
+
+.memlingo {
+    height: 28.26px;
+    position: relative;
+    width: 200px;
+}
+
+.flex-row {
+    align-items: center;
+    display: flex;
+    min-width: 200px;
+}
+
+.vector {
+    height: 28px;
+    width: 29px;
+}
+
+.vector-1 {
+    height: 27px;
+    margin-left: 4px;
+    margin-top: 0.02px;
+    width: 18px;
+}
+
+.vector-2 {
+    height: 28px;
+    margin-left: 3px;
+    width: 29px;
+}
+
+.vector-3 {
+    align-self: flex-start;
+    height: 28px;
+    margin-left: 4px;
+    margin-top: 0.09px;
+    width: 18px;
+}
+
+.vector-4 {
+    height: 28px;
+    margin-left: 3px;
+    width: 6px;
+}
+
+.vector-5 {
+    height: 28px;
+    margin-left: 4px;
+    width: 23px;
+}
+
+.vector-6 {
+    height: 28px;
+    margin-left: 3px;
+    width: 25px;
+}
+
+.star-3 {
+    height: 10px;
+    width: 10px;
+}
+
+.close {
+    height: 32px;
+    position: relative;
+    width: 32px;
+}
+
+.progress {
+    background-color: var(--alien-armpit);
+    border-radius: 999px;
+    height: 24px;
+    position: relative;
+    width: 50px;
+}
+
+.text-frame-item {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    position: relative;
+    width: 100%;
+}
+
+.textblock {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 4px;
+    position: relative;
+}
+
+.saluton {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+}
+
+.frame-1000004160 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    width: 100%;
+}
+
+.saluton-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    opacity: 0;
+    position: relative;
+    width: fit-content;
+}
+
+.rectangle-4241 {
+    align-self: stretch;
+    background-color: var(--gravel);
+    border-radius: 999px;
+    height: 2px;
+    position: relative;
+    width: 100%;
+}
+
+.word-block {
+    align-items: center;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--mercury);
+    border-radius: 12px;
+    box-shadow: 0px 3px 0px #e5e5e5;
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    height: 100px;
+    justify-content: center;
+    padding: 12px;
+    position: relative;
+}
+
+.malhezitema {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.riltata-al-la-lando-danujo {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.benzino {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.heitajo-por-irigi-automobilion {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.ago-3 {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.ago {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.answer-frame {
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 32px;
+    padding: 40px 0px;
+}
+
+.answer-letter {
+    flex: 0 0 auto;
+    gap: 8px;
+}
+
+.a-1 {
+    margin-top: -1.50px;
+    opacity: 0;
+}
+
+.a-2 {
+    margin-top: -1.50px;
+    opacity: 0;
+}
+
+.a-4 {
+    margin-top: -2.50px;
+}
+
+.a-5 {
+    margin-top: -2.50px;
+}
+
+.a-6 {
+    margin-top: -2.50px;
+}
+
+.a-7 {
+    margin-top: -2.50px;
+}
+
+.a-8 {
+    margin-top: -2.50px;
+}
+
+.a-9 {
+    margin-top: -2.50px;
+}
+
+.a-10 {
+    margin-top: -2.50px;
+}
+
+.a-11 {
+    margin-top: -2.50px;
+}
+
+.a-14 {
+    margin-top: -2.50px;
+}
+
+.a-15 {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+}
+
+.answer {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+
+.question-1 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 20px;
+    position: relative;
+    width: 100%;
+}
+
+.character {
+    height: 80px;
+    object-fit: cover;
+    position: relative;
+    width: 80px;
+}
+
+.chat-bubble {
+    align-items: center;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--mercury);
+    border-radius: 16px;
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    height: 78px;
+    position: relative;
+}
+
+.frame-1000004232 {
+    height: 19.12px;
+    margin-left: -14.59px;
+    position: relative;
+    width: 19.17px;
+    z-index: 1;
+}
+
+.chatbox {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    height: 78px;
+    justify-content: center;
+    padding: 12px;
+    position: relative;
+    z-index: 0;
+}
+
+:root {
+    --alien-armpit: #57cc02;
+    --black: #000000;
+    --gossip: #d6ffb8;
+    --gravel: #4b4b4b;
+    --mercury: #e5e5e5;
+    --rose: #ff4b4c;
+    --silver-chalice: #afafaf;
+    --stack: #8e8e8e;
+    --white: #ffffff;
+
+    --font-size-l: 20px;
+    --font-size-m: 18px;
+    --font-size-s: 16px;
+    --font-size-xl: 24px;
+    --font-size-xs: 14px;
+    --font-size-xxs: 12px;
+
+    --font-family-noto_sans: "Noto Sans", Helvetica;
+}
+
+.notosans-semi-bold-gravel-18px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 600;
+}
+
+.notosans-semi-bold-gravel-16px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 600;
+}
+
+.notosans-normal-gravel-14px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 400;
+}
+
+.notosans-bold-gravel-20px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.notosans-bold-stack-20px {
+    color: var(--stack);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.notosans-bold-gravel-18px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.notosans-semi-bold-silver-chalice-14px {
+    color: var(--silver-chalice);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 600;
+}
+
+.notosans-medium-gravel-18px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 500;
+}
+
+.notosans-semi-bold-gravel-24px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 600;
+}
+
+.notosans-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.notosans-semi-bold-gravel-12px {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-xxs);
+    font-style: normal;
+    font-weight: 600;
+}
+
+/* screen - splash */
+
+.splash {
+    background-color: var(--white);
+    display: flex;
+    height: 812px;
+    /* width: 375px; */
+    /* align-self: center; */
+}
+
+.splash .logo-frame {
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    margin-top: 44px;
+    padding: 32px 16px;
+    width: 100%;
+}
+
+.splash .logo {
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+}
+
+.splash .overlap-group {
+    align-items: flex-start;
+    background-image: url(img/vector-8@2x.png);
+    background-size: 100% 100%;
+    display: flex;
+    height: 28px;
+    justify-content: flex-end;
+    margin-left: 3px;
+    min-width: 26px;
+    padding: 8.6px 7.6px;
+}
+
+.splash .language {
+    color: var(--gravel);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-s);
+    font-weight: 700;
+    letter-spacing: -0.24px;
+    line-height: 20px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.splash .logo-1 {
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}

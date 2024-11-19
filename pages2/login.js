@@ -51,7 +51,7 @@ function onlogin_click() {
 
 function enable_disable_login_button() { //항상 로그인 버튼을 보여준다.
     $('btn_login').disabled = false;
-    $('btn_login').style.backgroundColor = "#03bf6b";
+    $('btn_login').style.backgroundColor = "#57CC02";
     $('btn_login').style.color = "white";
     $('btn_login').style.boxShadow = "2px 0 8px 0 rgba(0, 0, 0, 0.2)";
 
