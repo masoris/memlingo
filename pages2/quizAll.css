@@ -30,13 +30,13 @@ body {
 /* .Rectangle_progress_bar { */
 #progress_bar {
     width: calc(96% - 30px);
-    height: 16px;
+    height: 18px;
     /* margin: 4px 0 4px 16px; */
     /* padding: 0 231px 0 0; */
     /* opacity: 0.3; */
     border-radius: 8px;
-    border: solid 1.2px #888;
-    background-color: #f5f5f5;
+    /* border: solid 1.2px #888; */
+    background-color: #E5E5E5;
     position: absolute;
     left: calc(2% + 30px);
     top: 23px;
@@ -46,11 +46,11 @@ body {
 /* .Rectangle_progress { */
 #progress {
     width: 49px;
-    height: 16px;
+    height: 18px;
     /* opacity: 1.0; */
     border-radius: 8px;
-    border: solid 1.2px #078d4f;
-    background-color: #03bf6b;
+    /* border: solid 1.2px #57CC02; */
+    background-color: #57CC02;
     /* z-index: 10; */
 }
 

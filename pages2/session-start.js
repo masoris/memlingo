@@ -169,7 +169,7 @@ window.onload = function () {
 
     $('Btn_Start_learning').onclick = click_btn_start_learning;
     $('Btn_Go_Home').onclick = function () {
-        window.location.href = "./user-courses.html";
+        window.location.href = "./home.html";
     }
 
     $('Btn_Level_Jump').onclick = click_btn_level_jump;

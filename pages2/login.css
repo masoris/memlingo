@@ -352,3 +352,9 @@ img.arrow_dropdown_black {
     text-align: center;
     color: #fff;
 }
+
+.flag {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}

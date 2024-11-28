@@ -83,21 +83,22 @@ function update_course_info() {
     }
 }
 
-function lang_changed() {
-    console.log("lang_changed2");
-    var selected_lang = document.querySelector('input[name="lang"]:checked').value;
-    const rtl_langs = ["fa", "ur", "he", "ar"];
-    localStorage.lang = selected_lang;
-    get_course_info(update_course_info);
-    if (rtl_langs.includes(selected_lang)) {
-        $("html").dir = "rtl";
-    }
-    else {
-        $("html").dir = "ltr";
-    }
-    console.log("lang_changed");
-    display_message();
-}
+// function lang_changed() {
+//     console.log("lang_changed2");
+//     var selected_lang = document.querySelector('input[name="lang"]:checked').value;
+//     const rtl_langs = ["fa", "ur", "he", "ar"];
+//     localStorage.lang = selected_lang;
+//     get_course_info(update_course_info);
+//     if (rtl_langs.includes(selected_lang)) {
+//         $("html").dir = "rtl";
+//     }
+//     else {
+//         $("html").dir = "ltr";
+//     }
+//     console.log("lang_changed");
+//     display_message();
+// }
+
 
 function Zagreba_click() {
     lang = localStorage.lang;
@@ -127,25 +128,36 @@ window.onload = function () {
         return;
     }
 
-    $('Btn_logout').onclick = onlogout_click;
+    // $('Btn_logout').onclick = onlogout_click;
 
     $('Btn_Go_Home').onclick = function () {
         window.location.href = "./home.html";
     }
 
-    const radioButtons = document.querySelectorAll('input[type="radio"]');
-    radioButtons.forEach(radioButton => {
-        $(radioButton.id).onclick = lang_changed;
-    });
+    // const radioButtons = document.querySelectorAll('input[type="radio"]');
+    // radioButtons.forEach(radioButton => {
+    //     $(radioButton.id).onclick = lang_changed;
+    // });
 
-    if (localStorage.getItem('lang') != null) {
-        var lang = localStorage.getItem('lang');
-        $("radio-" + lang).checked = true;
+    // if (localStorage.getItem('lang') != null) {
+    //     var lang = localStorage.getItem('lang');
+    //     $("radio-" + lang).checked = true;
 
-    } else {
-        $("radio-ko-kr").checked = true;
+    // } else {
+    //     $("radio-ko-kr").checked = true;
+    // }
+
+    // lang_changed();
+    // localStorage.lang = selected_lang;
+    const rtl_langs = ["fa", "ur", "he", "ar"];
+    get_course_info(update_course_info);
+    if (rtl_langs.includes(localStorage.lang)) {
+        $("html").dir = "rtl";
     }
-
-    lang_changed();
+    else {
+        $("html").dir = "ltr";
+    }
+    // console.log("lang_changed");
+    display_message();
 };
 

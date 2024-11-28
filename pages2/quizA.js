@@ -9,7 +9,7 @@ function click_option(item) { //제시된 여러개의 단어를 클릭한 경�
         $('k_word').style.color = 'black';
     } else {
         // 만약에 틀린 단어를 선택하면 1초 동안 해당 단어를 빨간색으로 표시한다.
-        item.style.color = 'red';
+        item.style.color = '#FF4B4C';
         setTimeout(function () { item.style.color = 'black' }, 1000);
     }
 
@@ -182,9 +182,9 @@ window.onload = function () {
     }
     for (i = 0; i < esp_txt_words.length; i++) {
         if (i == j) {
-            $('answers').innerHTML = $('answers').innerHTML + "<input id='j_word' style='color:white;' type='button' value='" + esp_txt_words[i] + "'>";
+            $('answers').innerHTML = $('answers').innerHTML + "<input id='j_word' style='color:#E5E5E5;' type='button' value='" + esp_txt_words[i] + "'>";
         } else if (i == k) {
-            $('answers').innerHTML = $('answers').innerHTML + "<input id='k_word' style='color:white;' type='button' value='" + esp_txt_words[i] + "'>";
+            $('answers').innerHTML = $('answers').innerHTML + "<input id='k_word' style='color:#E5E5E5;' type='button' value='" + esp_txt_words[i] + "'>";
         } else {
             $('answers').innerHTML = $('answers').innerHTML + "<input type='button' value='" + esp_txt_words[i] + "'>";
         }

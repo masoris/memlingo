@@ -184,7 +184,7 @@ img.img_a {
     /* margin: 24px 0 0; */
     /* padding: 19px 20px 20px; */
     border-radius: 2px;
-    background-color: #03bf6b;
+    background-color: #57CC02;
     align-items: center;
     justify-content: center;
     display: flex;
@@ -207,7 +207,7 @@ img.img_a {
     color: #fff;
     border: none;
     outline: none;
-    background-color: #03bf6b;
+    background-color: #57CC02;
     border-radius: 10px;
 }
 

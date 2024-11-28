@@ -1,6 +1,6 @@
-body{
-  margin: 0px;
-  background-color: #03bf6b;
+body {
+    margin: 0px;
+    background-color: #03bf6b;
 }
 
 .Rectangle {
@@ -8,7 +8,8 @@ body{
     height: 100%;
     padding: 287px 0px 285px 0px;
     background-color: #03bf6b;
-  }
+}
+
 img.logo_loading_white {
     width: 209px;
     height: 68px;
@@ -16,4 +17,4 @@ img.logo_loading_white {
     object-fit: contain;
     left: calc(50% - 104px);
     position: relative;
-  }
+}
